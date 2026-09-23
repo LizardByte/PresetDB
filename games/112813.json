@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112813,
+  "name": "Panda Hero",
+  "source_url": "https://www.igdb.com/games/panda-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5anx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Panda Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "981980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/981980",
+        "Linux": "setsid steam steam://rungameid/981980",
+        "macOS": "open steam://rungameid/981980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/981980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "panda-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112813"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213821,
+  "name": "Steamcore",
+  "source_url": "https://www.igdb.com/games/steamcore--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53jf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steamcore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2121680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2121680",
+        "Linux": "setsid steam steam://rungameid/2121680",
+        "macOS": "open steam://rungameid/2121680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2121680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steamcore--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213821"
+}

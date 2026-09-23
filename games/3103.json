@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3103,
+  "name": "Summoner",
+  "source_url": "https://www.igdb.com/games/summoner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1p1z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Summoner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "275570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/275570",
+        "Linux": "setsid steam steam://rungameid/275570",
+        "macOS": "open steam://rungameid/275570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/275570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "summoner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3103"
+}

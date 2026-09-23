@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390039,
+  "name": "The Housekeeper",
+  "source_url": "https://www.igdb.com/games/the-housekeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Housekeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4248600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4248600",
+        "Linux": "setsid steam steam://rungameid/4248600",
+        "macOS": "open steam://rungameid/4248600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4248600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-housekeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390039"
+}

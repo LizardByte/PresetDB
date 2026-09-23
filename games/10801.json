@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10801,
+  "name": "Runers",
+  "source_url": "https://www.igdb.com/games/runers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r7p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "306550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/306550",
+        "Linux": "setsid steam steam://rungameid/306550",
+        "macOS": "open steam://rungameid/306550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/306550",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "runers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10801"
+}

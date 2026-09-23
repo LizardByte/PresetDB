@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107215,
+  "name": "SnowRunner",
+  "source_url": "https://www.igdb.com/games/snowrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaazp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SnowRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1465360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1465360",
+        "Linux": "setsid steam steam://rungameid/1465360",
+        "macOS": "open steam://rungameid/1465360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1465360",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 199
+      }
+    }
+  ],
+  "igdb_slug": "snowrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107215"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365478,
+  "name": "Game Settings",
+  "source_url": "https://www.igdb.com/games/game-settings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaenx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Settings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3907260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3907260",
+        "Linux": "setsid steam steam://rungameid/3907260",
+        "macOS": "open steam://rungameid/3907260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3907260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-settings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365478"
+}

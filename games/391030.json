@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391030,
+  "name": "No Service",
+  "source_url": "https://www.igdb.com/games/no-service",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coborq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Service",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4020220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4020220",
+        "Linux": "setsid steam steam://rungameid/4020220",
+        "macOS": "open steam://rungameid/4020220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4020220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "no-service",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391030"
+}

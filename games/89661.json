@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89661,
+  "name": "Futurejam",
+  "source_url": "https://www.igdb.com/games/futurejam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Futurejam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "760530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/760530",
+        "Linux": "setsid steam steam://rungameid/760530",
+        "macOS": "open steam://rungameid/760530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/760530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "futurejam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89661"
+}

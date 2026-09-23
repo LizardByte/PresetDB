@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32537,
+  "name": "Floppy Heroes",
+  "source_url": "https://www.igdb.com/games/floppy-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ck6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Floppy Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "480450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/480450",
+        "Linux": "setsid steam steam://rungameid/480450",
+        "macOS": "open steam://rungameid/480450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/480450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "floppy-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32537"
+}

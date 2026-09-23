@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131869,
+  "name": "I Am Dead",
+  "source_url": "https://www.igdb.com/games/i-am-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3uyg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951750",
+        "Linux": "setsid steam steam://rungameid/951750",
+        "macOS": "open steam://rungameid/951750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/951750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-am-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131869"
+}

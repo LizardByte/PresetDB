@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 40702,
+  "name": "Just One Line",
+  "source_url": "https://www.igdb.com/games/just-one-line",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2528.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just One Line",
+      "os": null,
+      "method": "steam",
+      "launch_id": "640210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/640210",
+        "Linux": "setsid steam steam://rungameid/640210",
+        "macOS": "open steam://rungameid/640210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/640210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "just-one-line",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=40702"
+}

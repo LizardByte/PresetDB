@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153216,
+  "name": "Desktop Dinosaurs",
+  "source_url": "https://www.igdb.com/games/desktop-dinosaurs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ggm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Dinosaurs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1640350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1640350",
+        "Linux": "setsid steam steam://rungameid/1640350",
+        "macOS": "open steam://rungameid/1640350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1640350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "desktop-dinosaurs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153216"
+}

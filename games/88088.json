@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88088,
+  "name": "Frank the Miner",
+  "source_url": "https://www.igdb.com/games/frank-the-miner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jr7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frank the Miner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "807340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/807340",
+        "Linux": "setsid steam steam://rungameid/807340",
+        "macOS": "open steam://rungameid/807340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/807340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "frank-the-miner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88088"
+}

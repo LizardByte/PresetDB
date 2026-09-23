@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 38973,
+  "name": "Beast Quest",
+  "source_url": "https://www.igdb.com/games/beast-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28vc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beast Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "707060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/707060",
+        "Linux": "setsid steam steam://rungameid/707060",
+        "macOS": "open steam://rungameid/707060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/707060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beast-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=38973"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302800,
+  "name": "Spark",
+  "source_url": "https://www.igdb.com/games/spark--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co899t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2932020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2932020",
+        "Linux": "setsid steam steam://rungameid/2932020",
+        "macOS": "open steam://rungameid/2932020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2932020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spark--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302800"
+}

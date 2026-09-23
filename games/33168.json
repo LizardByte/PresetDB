@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33168,
+  "name": "Dual Core",
+  "source_url": "https://www.igdb.com/games/dual-core",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ui8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dual Core",
+      "os": null,
+      "method": "steam",
+      "launch_id": "456830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/456830",
+        "Linux": "setsid steam steam://rungameid/456830",
+        "macOS": "open steam://rungameid/456830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/456830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dual-core",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33168"
+}

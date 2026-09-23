@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35240,
+  "name": "Geek Resort",
+  "source_url": "https://www.igdb.com/games/geek-resort",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8i9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Geek Resort",
+      "os": null,
+      "method": "steam",
+      "launch_id": "370560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/370560",
+        "Linux": "setsid steam steam://rungameid/370560",
+        "macOS": "open steam://rungameid/370560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/370560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "geek-resort",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35240"
+}

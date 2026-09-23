@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2192,
+  "name": "Mini Ninjas",
+  "source_url": "https://www.igdb.com/games/mini-ninjas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21i5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Ninjas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "35000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/35000",
+        "Linux": "setsid steam steam://rungameid/35000",
+        "macOS": "open steam://rungameid/35000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/35000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mini-ninjas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2192"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30798,
+  "name": "Warmada",
+  "source_url": "https://www.igdb.com/games/warmada",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob31w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warmada",
+      "os": null,
+      "method": "steam",
+      "launch_id": "548020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/548020",
+        "Linux": "setsid steam steam://rungameid/548020",
+        "macOS": "open steam://rungameid/548020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/548020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "warmada",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30798"
+}

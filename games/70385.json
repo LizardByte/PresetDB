@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 70385,
+  "name": "SCP: Secret Laboratory",
+  "source_url": "https://www.igdb.com/games/scp-secret-laboratory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqc0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SCP: Secret Laboratory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "700330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/700330",
+        "Linux": "setsid steam steam://rungameid/700330",
+        "macOS": "open steam://rungameid/700330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/700330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "scp-secret-laboratory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=70385"
+}

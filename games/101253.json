@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101253,
+  "name": "Emma",
+  "source_url": "https://www.igdb.com/games/emma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27qw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831720",
+        "Linux": "setsid steam steam://rungameid/831720",
+        "macOS": "open steam://rungameid/831720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/831720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "emma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101253"
+}

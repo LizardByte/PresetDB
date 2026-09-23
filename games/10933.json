@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10933,
+  "name": "Super Panda Adventures",
+  "source_url": "https://www.igdb.com/games/super-panda-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bqp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Panda Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "311190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/311190",
+        "Linux": "setsid steam steam://rungameid/311190",
+        "macOS": "open steam://rungameid/311190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/311190",
+      "protondb": {
+        "tier": "gold",
+        "reports": 15
+      }
+    }
+  ],
+  "igdb_slug": "super-panda-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10933"
+}

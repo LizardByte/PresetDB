@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252525,
+  "name": "Grapplania",
+  "source_url": "https://www.igdb.com/games/grapplania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r57.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grapplania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2459460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2459460",
+        "Linux": "setsid steam steam://rungameid/2459460",
+        "macOS": "open steam://rungameid/2459460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2459460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grapplania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252525"
+}

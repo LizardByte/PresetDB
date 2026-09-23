@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14703,
+  "name": "Sunset",
+  "source_url": "https://www.igdb.com/games/sunset",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6v5m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunset",
+      "os": null,
+      "method": "steam",
+      "launch_id": "287600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/287600",
+        "Linux": "setsid steam steam://rungameid/287600",
+        "macOS": "open steam://rungameid/287600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/287600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sunset",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14703"
+}

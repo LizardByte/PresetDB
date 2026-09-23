@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33222,
+  "name": "Project Starship",
+  "source_url": "https://www.igdb.com/games/project-starship",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24eu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Starship",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454890",
+        "Linux": "setsid steam steam://rungameid/454890",
+        "macOS": "open steam://rungameid/454890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "project-starship",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33222"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35649,
+  "name": "Spud!",
+  "source_url": "https://www.igdb.com/games/spud",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jpb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spud!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "353790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/353790",
+        "Linux": "setsid steam steam://rungameid/353790",
+        "macOS": "open steam://rungameid/353790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/353790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spud",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35649"
+}

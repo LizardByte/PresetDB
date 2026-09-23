@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104928,
+  "name": "World of War : Battlegrounds",
+  "source_url": "https://www.igdb.com/games/world-of-war-battlegrounds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob22l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of War : Battlegrounds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888400",
+        "Linux": "setsid steam steam://rungameid/888400",
+        "macOS": "open steam://rungameid/888400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/888400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "world-of-war-battlegrounds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104928"
+}

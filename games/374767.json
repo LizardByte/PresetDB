@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374767,
+  "name": "Barfbot",
+  "source_url": "https://www.igdb.com/games/barfbot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax4i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Barfbot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3449070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3449070",
+        "Linux": "setsid steam steam://rungameid/3449070",
+        "macOS": "open steam://rungameid/3449070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3449070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "barfbot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374767"
+}

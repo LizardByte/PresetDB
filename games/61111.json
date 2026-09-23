@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 61111,
+  "name": "Neoteria",
+  "source_url": "https://www.igdb.com/games/neoteria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coayks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neoteria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3875320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3875320",
+        "Linux": "setsid steam steam://rungameid/3875320",
+        "macOS": "open steam://rungameid/3875320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3875320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "neoteria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=61111"
+}

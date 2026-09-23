@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17026,
+  "name": "Furi",
+  "source_url": "https://www.igdb.com/games/furi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkn1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Furi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "423230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/423230",
+        "Linux": "setsid steam steam://rungameid/423230",
+        "macOS": "open steam://rungameid/423230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/423230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "furi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17026"
+}

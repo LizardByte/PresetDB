@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32506,
+  "name": "Crazy Otto",
+  "source_url": "https://www.igdb.com/games/crazy-otto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nmq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Otto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "484890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/484890",
+        "Linux": "setsid steam steam://rungameid/484890",
+        "macOS": "open steam://rungameid/484890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/484890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crazy-otto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32506"
+}

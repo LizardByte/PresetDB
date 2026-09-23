@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 183869,
+  "name": "Do Not Open",
+  "source_url": "https://www.igdb.com/games/do-not-open",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5v9n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Do Not Open",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2061710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2061710",
+        "Linux": "setsid steam steam://rungameid/2061710",
+        "macOS": "open steam://rungameid/2061710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2061710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "do-not-open",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=183869"
+}

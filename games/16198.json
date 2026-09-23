@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16198,
+  "name": "realMyst",
+  "source_url": "https://www.igdb.com/games/realmyst",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2zb0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "realMyst",
+      "os": null,
+      "method": "steam",
+      "launch_id": "63600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/63600",
+        "Linux": "setsid steam steam://rungameid/63600",
+        "macOS": "open steam://rungameid/63600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/63600",
+      "protondb": {
+        "tier": "silver",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "realmyst",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16198"
+}

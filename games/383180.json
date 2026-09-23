@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383180,
+  "name": "Smash Hit Museum",
+  "source_url": "https://www.igdb.com/games/smash-hit-museum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob503.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smash Hit Museum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4182480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4182480",
+        "Linux": "setsid steam steam://rungameid/4182480",
+        "macOS": "open steam://rungameid/4182480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4182480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "smash-hit-museum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383180"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192771,
+  "name": "Run, Kitty!",
+  "source_url": "https://www.igdb.com/games/run-kitty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4j5r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run, Kitty!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1630630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1630630",
+        "Linux": "setsid steam steam://rungameid/1630630",
+        "macOS": "open steam://rungameid/1630630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1630630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-kitty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192771"
+}

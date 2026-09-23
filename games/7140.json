@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7140,
+  "name": "Screamer",
+  "source_url": "https://www.igdb.com/games/screamer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6iu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Screamer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "697580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/697580",
+        "Linux": "setsid steam steam://rungameid/697580",
+        "macOS": "open steam://rungameid/697580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/697580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "screamer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7140"
+}

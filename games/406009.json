@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406009,
+  "name": "Escape the Grind",
+  "source_url": "https://www.igdb.com/games/escape-the-grind",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coce4l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Grind",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4663080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4663080",
+        "Linux": "setsid steam steam://rungameid/4663080",
+        "macOS": "open steam://rungameid/4663080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4663080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-the-grind",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406009"
+}

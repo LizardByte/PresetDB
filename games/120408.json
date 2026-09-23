@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120408,
+  "name": "Mage Mania",
+  "source_url": "https://www.igdb.com/games/mage-mania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mage Mania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1101170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1101170",
+        "Linux": "setsid steam steam://rungameid/1101170",
+        "macOS": "open steam://rungameid/1101170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1101170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mage-mania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120408"
+}

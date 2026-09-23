@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125105,
+  "name": "DemonCrawl",
+  "source_url": "https://www.igdb.com/games/demoncrawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1spb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DemonCrawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1141220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1141220",
+        "Linux": "setsid steam steam://rungameid/1141220",
+        "macOS": "open steam://rungameid/1141220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1141220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "demoncrawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125105"
+}

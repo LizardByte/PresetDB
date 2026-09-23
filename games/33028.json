@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33028,
+  "name": "SteamDolls",
+  "source_url": "https://www.igdb.com/games/steamdolls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2js1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SteamDolls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "461100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/461100",
+        "Linux": "setsid steam steam://rungameid/461100",
+        "macOS": "open steam://rungameid/461100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/461100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steamdolls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33028"
+}

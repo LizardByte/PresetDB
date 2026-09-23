@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101352,
+  "name": "Digital Dungeon",
+  "source_url": "https://www.igdb.com/games/digital-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg54.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Digital Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "855480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/855480",
+        "Linux": "setsid steam steam://rungameid/855480",
+        "macOS": "open steam://rungameid/855480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/855480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "digital-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101352"
+}

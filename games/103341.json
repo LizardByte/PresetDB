@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103341,
+  "name": "Overcooked! 2",
+  "source_url": "https://www.igdb.com/games/overcooked-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasbb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Overcooked! 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "728880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/728880",
+        "Linux": "setsid steam steam://rungameid/728880",
+        "macOS": "open steam://rungameid/728880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/728880",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 92
+      }
+    }
+  ],
+  "igdb_slug": "overcooked-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103341"
+}

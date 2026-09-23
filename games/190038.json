@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190038,
+  "name": "Help Me",
+  "source_url": "https://www.igdb.com/games/help-me--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e6t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Help Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1772780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1772780",
+        "Linux": "setsid steam steam://rungameid/1772780",
+        "macOS": "open steam://rungameid/1772780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1772780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "help-me--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190038"
+}

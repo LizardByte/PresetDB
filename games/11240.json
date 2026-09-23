@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11240,
+  "name": "Joe Danger",
+  "source_url": "https://www.igdb.com/games/joe-danger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s1j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Joe Danger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "229890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/229890",
+        "Linux": "setsid steam steam://rungameid/229890",
+        "macOS": "open steam://rungameid/229890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/229890",
+      "protondb": {
+        "tier": "silver",
+        "reports": 20
+      }
+    }
+  ],
+  "igdb_slug": "joe-danger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11240"
+}

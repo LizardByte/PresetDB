@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366105,
+  "name": "Rogue Pong",
+  "source_url": "https://www.igdb.com/games/rogue-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaf94.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3748360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3748360",
+        "Linux": "setsid steam steam://rungameid/3748360",
+        "macOS": "open steam://rungameid/3748360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3748360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rogue-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366105"
+}

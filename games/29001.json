@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29001,
+  "name": "Battle for Enlor",
+  "source_url": "https://www.igdb.com/games/battle-for-enlor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22zj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle for Enlor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "614880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/614880",
+        "Linux": "setsid steam steam://rungameid/614880",
+        "macOS": "open steam://rungameid/614880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/614880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "battle-for-enlor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29001"
+}

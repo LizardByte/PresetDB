@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10,
+  "name": "Jade Empire: Special Edition",
+  "source_url": "https://www.igdb.com/games/jade-empire-special-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21x0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jade Empire: Special Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "7110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/7110",
+        "Linux": "setsid steam steam://rungameid/7110",
+        "macOS": "open steam://rungameid/7110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/7110",
+      "protondb": {
+        "tier": "gold",
+        "reports": 33
+      }
+    }
+  ],
+  "igdb_slug": "jade-empire-special-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10"
+}

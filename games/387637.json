@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387637,
+  "name": "The Archive",
+  "source_url": "https://www.igdb.com/games/the-archive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdtd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Archive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4230890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4230890",
+        "Linux": "setsid steam steam://rungameid/4230890",
+        "macOS": "open steam://rungameid/4230890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4230890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-archive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387637"
+}

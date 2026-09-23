@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80332,
+  "name": "Sven Co-op",
+  "source_url": "https://www.igdb.com/games/sven-co-op",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9am1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sven Co-op",
+      "os": null,
+      "method": "steam",
+      "launch_id": "225840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/225840",
+        "Linux": "setsid steam steam://rungameid/225840",
+        "macOS": "open steam://rungameid/225840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/225840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sven-co-op",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80332"
+}

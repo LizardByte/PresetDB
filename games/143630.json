@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143630,
+  "name": "TasteMaker",
+  "source_url": "https://www.igdb.com/games/tastemaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2thm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TasteMaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1289340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1289340",
+        "Linux": "setsid steam steam://rungameid/1289340",
+        "macOS": "open steam://rungameid/1289340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1289340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tastemaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143630"
+}

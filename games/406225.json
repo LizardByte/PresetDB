@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406225,
+  "name": "Beat & Beasties",
+  "source_url": "https://www.igdb.com/games/beat-and-beasties",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coca50.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat & Beasties",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4267610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4267610",
+        "Linux": "setsid steam steam://rungameid/4267610",
+        "macOS": "open steam://rungameid/4267610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4267610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beat-and-beasties",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406225"
+}

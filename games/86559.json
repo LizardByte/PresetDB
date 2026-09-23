@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86559,
+  "name": "Glight",
+  "source_url": "https://www.igdb.com/games/glight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkjm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800300",
+        "Linux": "setsid steam steam://rungameid/800300",
+        "macOS": "open steam://rungameid/800300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/800300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "glight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86559"
+}

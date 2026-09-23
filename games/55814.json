@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55814,
+  "name": "idleBeer",
+  "source_url": "https://www.igdb.com/games/idlebeer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2boj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "idleBeer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "580910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/580910",
+        "Linux": "setsid steam steam://rungameid/580910",
+        "macOS": "open steam://rungameid/580910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/580910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "idlebeer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55814"
+}

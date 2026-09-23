@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413458,
+  "name": ".Curator",
+  "source_url": "https://www.igdb.com/games/dot-curator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocoo2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": ".Curator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4107960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4107960",
+        "Linux": "setsid steam steam://rungameid/4107960",
+        "macOS": "open steam://rungameid/4107960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4107960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dot-curator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413458"
+}

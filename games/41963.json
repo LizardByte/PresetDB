@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 41963,
+  "name": "Heroic Dungeon",
+  "source_url": "https://www.igdb.com/games/heroic-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2blv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroic Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "645760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/645760",
+        "Linux": "setsid steam steam://rungameid/645760",
+        "macOS": "open steam://rungameid/645760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/645760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "heroic-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=41963"
+}

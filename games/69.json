@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 69,
+  "name": "Master of Orion III",
+  "source_url": "https://www.igdb.com/games/master-of-orion-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3c5p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Master of Orion III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "410990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/410990",
+        "Linux": "setsid steam steam://rungameid/410990",
+        "macOS": "open steam://rungameid/410990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/410990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "master-of-orion-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=69"
+}

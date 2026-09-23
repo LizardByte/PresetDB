@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36146,
+  "name": "1Quest",
+  "source_url": "https://www.igdb.com/games/1quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "332710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/332710",
+        "Linux": "setsid steam steam://rungameid/332710",
+        "macOS": "open steam://rungameid/332710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/332710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "1quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36146"
+}

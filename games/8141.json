@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8141,
+  "name": "Receiver",
+  "source_url": "https://www.igdb.com/games/receiver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29ot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Receiver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234190",
+        "Linux": "setsid steam steam://rungameid/234190",
+        "macOS": "open steam://rungameid/234190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/234190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "receiver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8141"
+}

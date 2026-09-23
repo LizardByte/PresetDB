@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116502,
+  "name": "Candy Adventure",
+  "source_url": "https://www.igdb.com/games/candy-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg2g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Candy Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1049080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1049080",
+        "Linux": "setsid steam steam://rungameid/1049080",
+        "macOS": "open steam://rungameid/1049080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1049080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "candy-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116502"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10997,
+  "name": "Simple Rockets",
+  "source_url": "https://www.igdb.com/games/simple-rockets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co414t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simple Rockets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "343090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/343090",
+        "Linux": "setsid steam steam://rungameid/343090",
+        "macOS": "open steam://rungameid/343090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/343090",
+      "protondb": {
+        "tier": "gold",
+        "reports": 13
+      }
+    }
+  ],
+  "igdb_slug": "simple-rockets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10997"
+}

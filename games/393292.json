@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393292,
+  "name": "Mad Mojo",
+  "source_url": "https://www.igdb.com/games/mad-mojo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Mojo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4305180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4305180",
+        "Linux": "setsid steam steam://rungameid/4305180",
+        "macOS": "open steam://rungameid/4305180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4305180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mad-mojo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393292"
+}

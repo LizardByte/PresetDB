@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390853,
+  "name": "Valence",
+  "source_url": "https://www.igdb.com/games/valence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkb2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4054900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4054900",
+        "Linux": "setsid steam steam://rungameid/4054900",
+        "macOS": "open steam://rungameid/4054900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4054900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "valence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390853"
+}

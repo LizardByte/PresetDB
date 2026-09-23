@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304846,
+  "name": "Stuntboost",
+  "source_url": "https://www.igdb.com/games/stuntboost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wmr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stuntboost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2999500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2999500",
+        "Linux": "setsid steam steam://rungameid/2999500",
+        "macOS": "open steam://rungameid/2999500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2999500",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "stuntboost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304846"
+}

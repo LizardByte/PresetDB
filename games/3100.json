@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3100,
+  "name": "Wasteland",
+  "source_url": "https://www.igdb.com/games/wasteland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wgc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wasteland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "259130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/259130",
+        "Linux": "setsid steam steam://rungameid/259130",
+        "macOS": "open steam://rungameid/259130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/259130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wasteland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3100"
+}

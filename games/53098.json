@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 53098,
+  "name": "Xenia",
+  "source_url": "https://www.igdb.com/games/xenia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l8w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xenia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "687310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/687310",
+        "Linux": "setsid steam steam://rungameid/687310",
+        "macOS": "open steam://rungameid/687310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/687310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "xenia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=53098"
+}

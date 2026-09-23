@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126544,
+  "name": "SaWars",
+  "source_url": "https://www.igdb.com/games/sawars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40tt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SaWars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1119790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1119790",
+        "Linux": "setsid steam steam://rungameid/1119790",
+        "macOS": "open steam://rungameid/1119790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1119790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sawars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126544"
+}

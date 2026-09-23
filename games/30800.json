@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30800,
+  "name": "Star-Twine",
+  "source_url": "https://www.igdb.com/games/star-twine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co422i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star-Twine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "548110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/548110",
+        "Linux": "setsid steam steam://rungameid/548110",
+        "macOS": "open steam://rungameid/548110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/548110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "star-twine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30800"
+}

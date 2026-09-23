@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 45377,
+  "name": "Stonkers",
+  "source_url": "https://www.igdb.com/games/stonkers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7iep.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stonkers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2004300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2004300",
+        "Linux": "setsid steam steam://rungameid/2004300",
+        "macOS": "open steam://rungameid/2004300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2004300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stonkers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=45377"
+}

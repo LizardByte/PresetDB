@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75382,
+  "name": "Mount Hill",
+  "source_url": "https://www.igdb.com/games/mount-hill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobay1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mount Hill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "744010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/744010",
+        "Linux": "setsid steam steam://rungameid/744010",
+        "macOS": "open steam://rungameid/744010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/744010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mount-hill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75382"
+}

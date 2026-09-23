@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391748,
+  "name": "Console Store Simulator",
+  "source_url": "https://www.igdb.com/games/console-store-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblgc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Console Store Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3667730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3667730",
+        "Linux": "setsid steam steam://rungameid/3667730",
+        "macOS": "open steam://rungameid/3667730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3667730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "console-store-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391748"
+}

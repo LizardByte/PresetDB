@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367605,
+  "name": "Red Room",
+  "source_url": "https://www.igdb.com/games/red-room--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coah2s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1033510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1033510",
+        "Linux": "setsid steam steam://rungameid/1033510",
+        "macOS": "open steam://rungameid/1033510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1033510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "red-room--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367605"
+}

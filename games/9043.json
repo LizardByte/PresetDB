@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9043,
+  "name": "The Blackwell Legacy",
+  "source_url": "https://www.igdb.com/games/the-blackwell-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co432t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Blackwell Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "80330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/80330",
+        "Linux": "setsid steam steam://rungameid/80330",
+        "macOS": "open steam://rungameid/80330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/80330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-blackwell-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9043"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 38803,
+  "name": "Stoire",
+  "source_url": "https://www.igdb.com/games/stoire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27ei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stoire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622530",
+        "Linux": "setsid steam steam://rungameid/622530",
+        "macOS": "open steam://rungameid/622530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/622530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stoire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=38803"
+}

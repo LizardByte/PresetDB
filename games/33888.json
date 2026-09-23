@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33888,
+  "name": "Linea, the Game",
+  "source_url": "https://www.igdb.com/games/linea-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vos.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Linea, the Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "428900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/428900",
+        "Linux": "setsid steam steam://rungameid/428900",
+        "macOS": "open steam://rungameid/428900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/428900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "linea-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33888"
+}

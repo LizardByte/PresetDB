@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32058,
+  "name": "My Own Pet",
+  "source_url": "https://www.igdb.com/games/my-own-pet",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Own Pet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "501420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/501420",
+        "Linux": "setsid steam steam://rungameid/501420",
+        "macOS": "open steam://rungameid/501420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/501420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-own-pet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32058"
+}

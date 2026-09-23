@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 60785,
+  "name": "Lambda Wars",
+  "source_url": "https://www.igdb.com/games/lambda-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66kv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lambda Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "270370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/270370",
+        "Linux": "setsid steam steam://rungameid/270370",
+        "macOS": "open steam://rungameid/270370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/270370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lambda-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=60785"
+}

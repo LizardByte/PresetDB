@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104553,
+  "name": "SlipDrive",
+  "source_url": "https://www.igdb.com/games/slipdrive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41nw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SlipDrive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "650720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/650720",
+        "Linux": "setsid steam steam://rungameid/650720",
+        "macOS": "open steam://rungameid/650720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/650720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slipdrive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104553"
+}

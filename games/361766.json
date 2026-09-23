@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361766,
+  "name": "Pigbert",
+  "source_url": "https://www.igdb.com/games/pigbert",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaaqd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pigbert",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3940790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3940790",
+        "Linux": "setsid steam steam://rungameid/3940790",
+        "macOS": "open steam://rungameid/3940790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3940790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pigbert",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361766"
+}

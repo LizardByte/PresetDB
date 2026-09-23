@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325,
+  "name": "Hellgate: London",
+  "source_url": "https://www.igdb.com/games/hellgate-london",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co218m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellgate: London",
+      "os": null,
+      "method": "steam",
+      "launch_id": "939520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/939520",
+        "Linux": "setsid steam steam://rungameid/939520",
+        "macOS": "open steam://rungameid/939520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/939520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hellgate-london",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325"
+}

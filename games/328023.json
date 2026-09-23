@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328023,
+  "name": "Screen Cat",
+  "source_url": "https://www.igdb.com/games/screen-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99u4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Screen Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3402530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3402530",
+        "Linux": "setsid steam steam://rungameid/3402530",
+        "macOS": "open steam://rungameid/3402530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3402530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "screen-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328023"
+}

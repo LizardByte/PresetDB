@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55621,
+  "name": "BackSlash",
+  "source_url": "https://www.igdb.com/games/backslash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ar.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BackSlash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "668280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/668280",
+        "Linux": "setsid steam steam://rungameid/668280",
+        "macOS": "open steam://rungameid/668280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/668280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "backslash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55621"
+}

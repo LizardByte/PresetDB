@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10994,
+  "name": "Toilet Tycoon",
+  "source_url": "https://www.igdb.com/games/toilet-tycoon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44pv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toilet Tycoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "390220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/390220",
+        "Linux": "setsid steam steam://rungameid/390220",
+        "macOS": "open steam://rungameid/390220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/390220",
+      "protondb": {
+        "tier": "borked",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "toilet-tycoon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10994"
+}

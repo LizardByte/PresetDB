@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10990,
+  "name": "Thunder Wolves",
+  "source_url": "https://www.igdb.com/games/thunder-wolves",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co248m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thunder Wolves",
+      "os": null,
+      "method": "steam",
+      "launch_id": "232970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/232970",
+        "Linux": "setsid steam steam://rungameid/232970",
+        "macOS": "open steam://rungameid/232970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/232970",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 15
+      }
+    }
+  ],
+  "igdb_slug": "thunder-wolves",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10990"
+}

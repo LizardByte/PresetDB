@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381656,
+  "name": "Dreadmyst",
+  "source_url": "https://www.igdb.com/games/dreadmyst",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4h2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dreadmyst",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4241850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4241850",
+        "Linux": "setsid steam steam://rungameid/4241850",
+        "macOS": "open steam://rungameid/4241850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4241850",
+      "protondb": {
+        "tier": "silver",
+        "reports": 23
+      }
+    }
+  ],
+  "igdb_slug": "dreadmyst",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381656"
+}

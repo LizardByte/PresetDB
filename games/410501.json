@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410501,
+  "name": "RSVP",
+  "source_url": "https://www.igdb.com/games/rsvp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjk7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RSVP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4812140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4812140",
+        "Linux": "setsid steam steam://rungameid/4812140",
+        "macOS": "open steam://rungameid/4812140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4812140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rsvp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410501"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33489,
+  "name": "Hack_It",
+  "source_url": "https://www.igdb.com/games/hack-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg31.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hack_It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "444350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/444350",
+        "Linux": "setsid steam steam://rungameid/444350",
+        "macOS": "open steam://rungameid/444350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/444350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hack-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33489"
+}

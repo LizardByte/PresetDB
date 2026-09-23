@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408070,
+  "name": "MixCD",
+  "source_url": "https://www.igdb.com/games/mixcd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbdg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MixCD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4754780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4754780",
+        "Linux": "setsid steam steam://rungameid/4754780",
+        "macOS": "open steam://rungameid/4754780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4754780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mixcd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408070"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113522,
+  "name": "Rogue Reaper",
+  "source_url": "https://www.igdb.com/games/rogue-reaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r6j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Reaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1000380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1000380",
+        "Linux": "setsid steam steam://rungameid/1000380",
+        "macOS": "open steam://rungameid/1000380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1000380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rogue-reaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113522"
+}

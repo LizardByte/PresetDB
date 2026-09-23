@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272641,
+  "name": "AFK Chess",
+  "source_url": "https://www.igdb.com/games/afk-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8owt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AFK Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2629630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2629630",
+        "Linux": "setsid steam steam://rungameid/2629630",
+        "macOS": "open steam://rungameid/2629630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2629630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "afk-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272641"
+}

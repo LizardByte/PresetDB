@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76082,
+  "name": "Burger Shop",
+  "source_url": "https://www.igdb.com/games/burger-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26ri.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burger Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "730840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/730840",
+        "Linux": "setsid steam steam://rungameid/730840",
+        "macOS": "open steam://rungameid/730840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/730840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "burger-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76082"
+}

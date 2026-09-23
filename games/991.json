@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 991,
+  "name": "Halo 4",
+  "source_url": "https://www.igdb.com/games/halo-4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xhf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Halo 4",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1064273",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1064273",
+        "Linux": "setsid steam steam://rungameid/1064273",
+        "macOS": "open steam://rungameid/1064273"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1064273",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "halo-4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=991"
+}

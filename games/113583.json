@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113583,
+  "name": "Blask",
+  "source_url": "https://www.igdb.com/games/blask",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mcm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blask",
+      "os": null,
+      "method": "steam",
+      "launch_id": "987710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/987710",
+        "Linux": "setsid steam steam://rungameid/987710",
+        "macOS": "open steam://rungameid/987710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/987710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blask",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113583"
+}

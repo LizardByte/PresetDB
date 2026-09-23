@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328291,
+  "name": "Slay the Alice",
+  "source_url": "https://www.igdb.com/games/slay-the-alice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9b9n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slay the Alice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3048760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3048760",
+        "Linux": "setsid steam steam://rungameid/3048760",
+        "macOS": "open steam://rungameid/3048760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3048760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slay-the-alice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328291"
+}

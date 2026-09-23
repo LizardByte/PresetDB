@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402410,
+  "name": "My Music Label",
+  "source_url": "https://www.igdb.com/games/my-music-label",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3cr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Music Label",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4414950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4414950",
+        "Linux": "setsid steam steam://rungameid/4414950",
+        "macOS": "open steam://rungameid/4414950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4414950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-music-label",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402410"
+}

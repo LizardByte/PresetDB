@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32307,
+  "name": "Green Ranch",
+  "source_url": "https://www.igdb.com/games/green-ranch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vpj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Green Ranch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "493980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/493980",
+        "Linux": "setsid steam steam://rungameid/493980",
+        "macOS": "open steam://rungameid/493980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/493980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "green-ranch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32307"
+}

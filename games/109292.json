@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109292,
+  "name": "Super Street: The Game",
+  "source_url": "https://www.igdb.com/games/super-street-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rqd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Street: The Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "611180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/611180",
+        "Linux": "setsid steam steam://rungameid/611180",
+        "macOS": "open steam://rungameid/611180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/611180",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "super-street-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109292"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100603,
+  "name": "Captain Forever Trilogy",
+  "source_url": "https://www.igdb.com/games/captain-forever-trilogy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55wn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Captain Forever Trilogy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "758930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/758930",
+        "Linux": "setsid steam steam://rungameid/758930",
+        "macOS": "open steam://rungameid/758930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/758930",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "captain-forever-trilogy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100603"
+}

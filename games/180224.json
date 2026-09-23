@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180224,
+  "name": "Chicken Nuggets",
+  "source_url": "https://www.igdb.com/games/chicken-nuggets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cob.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chicken Nuggets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1807020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1807020",
+        "Linux": "setsid steam steam://rungameid/1807020",
+        "macOS": "open steam://rungameid/1807020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1807020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chicken-nuggets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180224"
+}

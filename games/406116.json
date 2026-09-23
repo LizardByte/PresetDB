@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406116,
+  "name": "Pick a Boo",
+  "source_url": "https://www.igdb.com/games/pick-a-boo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9g6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pick a Boo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4459600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4459600",
+        "Linux": "setsid steam steam://rungameid/4459600",
+        "macOS": "open steam://rungameid/4459600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4459600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pick-a-boo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406116"
+}

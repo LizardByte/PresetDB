@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30579,
+  "name": "DeathMetal",
+  "source_url": "https://www.igdb.com/games/deathmetal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob39u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeathMetal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553820",
+        "Linux": "setsid steam steam://rungameid/553820",
+        "macOS": "open steam://rungameid/553820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/553820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deathmetal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30579"
+}

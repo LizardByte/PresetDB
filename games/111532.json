@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111532,
+  "name": "Draid",
+  "source_url": "https://www.igdb.com/games/draid",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Draid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856270",
+        "Linux": "setsid steam steam://rungameid/856270",
+        "macOS": "open steam://rungameid/856270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/856270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "draid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111532"
+}

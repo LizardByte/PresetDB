@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369349,
+  "name": "Sokoku",
+  "source_url": "https://www.igdb.com/games/sokoku",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj2q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sokoku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3397880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3397880",
+        "Linux": "setsid steam steam://rungameid/3397880",
+        "macOS": "open steam://rungameid/3397880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3397880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sokoku",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369349"
+}

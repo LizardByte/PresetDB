@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9969,
+  "name": "Alien Storm",
+  "source_url": "https://www.igdb.com/games/alien-storm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2er6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Storm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "34315",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/34315",
+        "Linux": "setsid steam steam://rungameid/34315",
+        "macOS": "open steam://rungameid/34315"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/34315",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alien-storm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9969"
+}

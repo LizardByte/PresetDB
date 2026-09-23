@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33221,
+  "name": "Magic Quest",
+  "source_url": "https://www.igdb.com/games/magic-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454870",
+        "Linux": "setsid steam steam://rungameid/454870",
+        "macOS": "open steam://rungameid/454870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "magic-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33221"
+}

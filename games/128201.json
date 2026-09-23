@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128201,
+  "name": "Into the Flames",
+  "source_url": "https://www.igdb.com/games/into-the-flames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lsu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Into the Flames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1222300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1222300",
+        "Linux": "setsid steam steam://rungameid/1222300",
+        "macOS": "open steam://rungameid/1222300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1222300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "into-the-flames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128201"
+}

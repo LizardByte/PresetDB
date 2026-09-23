@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363644,
+  "name": "Space Rabbit",
+  "source_url": "https://www.igdb.com/games/space-rabbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacph.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Rabbit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3748400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3748400",
+        "Linux": "setsid steam steam://rungameid/3748400",
+        "macOS": "open steam://rungameid/3748400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3748400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "space-rabbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363644"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31436,
+  "name": "Footbrawl Playground",
+  "source_url": "https://www.igdb.com/games/footbrawl-playground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobind.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Footbrawl Playground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "523080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/523080",
+        "Linux": "setsid steam steam://rungameid/523080",
+        "macOS": "open steam://rungameid/523080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/523080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "footbrawl-playground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31436"
+}

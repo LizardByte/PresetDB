@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105154,
+  "name": "The Chaotic Workshop",
+  "source_url": "https://www.igdb.com/games/the-chaotic-workshop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co433q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Chaotic Workshop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895900",
+        "Linux": "setsid steam steam://rungameid/895900",
+        "macOS": "open steam://rungameid/895900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/895900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-chaotic-workshop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105154"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8585,
+  "name": "Plain Sight",
+  "source_url": "https://www.igdb.com/games/plain-sight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7kpr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plain Sight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "49900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/49900",
+        "Linux": "setsid steam steam://rungameid/49900",
+        "macOS": "open steam://rungameid/49900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/49900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "plain-sight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8585"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359247,
+  "name": "The E-Collector",
+  "source_url": "https://www.igdb.com/games/the-e-collector",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa84c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The E-Collector",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3105600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3105600",
+        "Linux": "setsid steam steam://rungameid/3105600",
+        "macOS": "open steam://rungameid/3105600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3105600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-e-collector",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359247"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310321,
+  "name": "Gnomer",
+  "source_url": "https://www.igdb.com/games/gnomer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kkg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gnomer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3112030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3112030",
+        "Linux": "setsid steam steam://rungameid/3112030",
+        "macOS": "open steam://rungameid/3112030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3112030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gnomer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310321"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190231,
+  "name": "Captain Jackson",
+  "source_url": "https://www.igdb.com/games/captain-jackson",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5chl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Captain Jackson",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1730150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1730150",
+        "Linux": "setsid steam steam://rungameid/1730150",
+        "macOS": "open steam://rungameid/1730150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1730150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "captain-jackson",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190231"
+}

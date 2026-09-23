@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81980,
+  "name": "Jambo",
+  "source_url": "https://www.igdb.com/games/jambo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbem.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jambo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777860",
+        "Linux": "setsid steam steam://rungameid/777860",
+        "macOS": "open steam://rungameid/777860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/777860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jambo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81980"
+}

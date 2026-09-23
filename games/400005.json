@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400005,
+  "name": "Dust Bunny",
+  "source_url": "https://www.igdb.com/games/dust-bunny--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzz4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dust Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4558120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4558120",
+        "Linux": "setsid steam steam://rungameid/4558120",
+        "macOS": "open steam://rungameid/4558120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4558120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dust-bunny--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400005"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107880,
+  "name": "Good Girl",
+  "source_url": "https://www.igdb.com/games/good-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobinn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Good Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "875230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/875230",
+        "Linux": "setsid steam steam://rungameid/875230",
+        "macOS": "open steam://rungameid/875230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/875230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "good-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107880"
+}

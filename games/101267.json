@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101267,
+  "name": "Star Tower",
+  "source_url": "https://www.igdb.com/games/star-tower",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848780",
+        "Linux": "setsid steam steam://rungameid/848780",
+        "macOS": "open steam://rungameid/848780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/848780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "star-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101267"
+}

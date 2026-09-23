@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100425,
+  "name": "Atex Brawl",
+  "source_url": "https://www.igdb.com/games/atex-brawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfco.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atex Brawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852530",
+        "Linux": "setsid steam steam://rungameid/852530",
+        "macOS": "open steam://rungameid/852530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/852530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "atex-brawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100425"
+}

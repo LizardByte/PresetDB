@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11030,
+  "name": "Tryst",
+  "source_url": "https://www.igdb.com/games/tryst",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/feolhp4zy9bozdyxrcf4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tryst",
+      "os": null,
+      "method": "steam",
+      "launch_id": "208460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/208460",
+        "Linux": "setsid steam steam://rungameid/208460",
+        "macOS": "open steam://rungameid/208460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/208460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tryst",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11030"
+}

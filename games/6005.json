@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6005,
+  "name": "Kingdom Rush",
+  "source_url": "https://www.igdb.com/games/kingdom-rush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sgu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingdom Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "246420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/246420",
+        "Linux": "setsid steam steam://rungameid/246420",
+        "macOS": "open steam://rungameid/246420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/246420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kingdom-rush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6005"
+}

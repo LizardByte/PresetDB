@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118122,
+  "name": "Red Bow",
+  "source_url": "https://www.igdb.com/games/red-bow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24dl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Bow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710600",
+        "Linux": "setsid steam steam://rungameid/710600",
+        "macOS": "open steam://rungameid/710600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "red-bow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118122"
+}

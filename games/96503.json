@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96503,
+  "name": "Hacker.exe",
+  "source_url": "https://www.igdb.com/games/hacker-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27pn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hacker.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923690",
+        "Linux": "setsid steam steam://rungameid/923690",
+        "macOS": "open steam://rungameid/923690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/923690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hacker-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96503"
+}

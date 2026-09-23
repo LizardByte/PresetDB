@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31891,
+  "name": "ZombLabs",
+  "source_url": "https://www.igdb.com/games/zomblabs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZombLabs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "508620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/508620",
+        "Linux": "setsid steam steam://rungameid/508620",
+        "macOS": "open steam://rungameid/508620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/508620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zomblabs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31891"
+}

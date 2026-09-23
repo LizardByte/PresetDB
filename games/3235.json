@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3235,
+  "name": "Blur",
+  "source_url": "https://www.igdb.com/games/blur",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4azn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blur",
+      "os": null,
+      "method": "steam",
+      "launch_id": "42640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/42640",
+        "Linux": "setsid steam steam://rungameid/42640",
+        "macOS": "open steam://rungameid/42640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/42640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blur",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3235"
+}

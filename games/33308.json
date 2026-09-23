@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33308,
+  "name": "The Lab",
+  "source_url": "https://www.igdb.com/games/the-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43vs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "450390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/450390",
+        "Linux": "setsid steam steam://rungameid/450390",
+        "macOS": "open steam://rungameid/450390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/450390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33308"
+}

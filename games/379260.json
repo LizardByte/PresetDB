@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379260,
+  "name": "Half-Life Arena",
+  "source_url": "https://www.igdb.com/games/half-life-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazuf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Half-Life Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3771220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3771220",
+        "Linux": "setsid steam steam://rungameid/3771220",
+        "macOS": "open steam://rungameid/3771220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3771220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "half-life-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379260"
+}

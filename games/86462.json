@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86462,
+  "name": "The Tower",
+  "source_url": "https://www.igdb.com/games/the-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6tr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "696580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/696580",
+        "Linux": "setsid steam steam://rungameid/696580",
+        "macOS": "open steam://rungameid/696580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/696580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86462"
+}

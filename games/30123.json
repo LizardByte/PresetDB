@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30123,
+  "name": "Ryan Black",
+  "source_url": "https://www.igdb.com/games/ryan-black",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24o6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ryan Black",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567600",
+        "Linux": "setsid steam steam://rungameid/567600",
+        "macOS": "open steam://rungameid/567600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/567600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ryan-black",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30123"
+}

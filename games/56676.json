@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56676,
+  "name": "I_AM.exe",
+  "source_url": "https://www.igdb.com/games/i-am-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/qenf3bjobiu8odicxrvn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I_AM.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "701410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/701410",
+        "Linux": "setsid steam steam://rungameid/701410",
+        "macOS": "open steam://rungameid/701410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/701410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-am-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56676"
+}

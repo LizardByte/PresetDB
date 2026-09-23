@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5126,
+  "name": "Rogue Trooper",
+  "source_url": "https://www.igdb.com/games/rogue-trooper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7npa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Trooper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "7020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/7020",
+        "Linux": "setsid steam steam://rungameid/7020",
+        "macOS": "open steam://rungameid/7020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/7020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rogue-trooper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5126"
+}

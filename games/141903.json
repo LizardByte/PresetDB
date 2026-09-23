@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141903,
+  "name": "Gundy",
+  "source_url": "https://www.igdb.com/games/gundy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co469y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gundy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "941640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/941640",
+        "Linux": "setsid steam steam://rungameid/941640",
+        "macOS": "open steam://rungameid/941640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/941640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gundy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141903"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123333,
+  "name": "If Found...",
+  "source_url": "https://www.igdb.com/games/if-found-dot-dot-dot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ye.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "If Found...",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1041920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1041920",
+        "Linux": "setsid steam steam://rungameid/1041920",
+        "macOS": "open steam://rungameid/1041920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1041920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "if-found-dot-dot-dot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123333"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33718,
+  "name": "Flobe",
+  "source_url": "https://www.igdb.com/games/flobe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/j0mxytq5vjnsufulkwty.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flobe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434530",
+        "Linux": "setsid steam steam://rungameid/434530",
+        "macOS": "open steam://rungameid/434530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/434530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flobe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33718"
+}

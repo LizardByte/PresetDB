@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111813,
+  "name": "Skatebird",
+  "source_url": "https://www.igdb.com/games/skatebird",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48u0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skatebird",
+      "os": null,
+      "method": "steam",
+      "launch_id": "971030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/971030",
+        "Linux": "setsid steam steam://rungameid/971030",
+        "macOS": "open steam://rungameid/971030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/971030",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "skatebird",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111813"
+}

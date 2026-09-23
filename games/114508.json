@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114508,
+  "name": "DK Online",
+  "source_url": "https://www.igdb.com/games/dk-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gxm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DK Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781030",
+        "Linux": "setsid steam steam://rungameid/781030",
+        "macOS": "open steam://rungameid/781030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/781030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dk-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114508"
+}

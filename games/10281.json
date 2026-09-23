@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10281,
+  "name": "Eurofighter Typhoon",
+  "source_url": "https://www.igdb.com/games/eurofighter-typhoon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q2i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eurofighter Typhoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "283350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/283350",
+        "Linux": "setsid steam steam://rungameid/283350",
+        "macOS": "open steam://rungameid/283350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/283350",
+      "protondb": {
+        "tier": "borked",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "eurofighter-typhoon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10281"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390200,
+  "name": "Orso",
+  "source_url": "https://www.igdb.com/games/orso",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Orso",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4222570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4222570",
+        "Linux": "setsid steam steam://rungameid/4222570",
+        "macOS": "open steam://rungameid/4222570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4222570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "orso",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390200"
+}

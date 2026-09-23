@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29673,
+  "name": "20Something",
+  "source_url": "https://www.igdb.com/games/20something",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29d6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "20Something",
+      "os": null,
+      "method": "steam",
+      "launch_id": "582840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/582840",
+        "Linux": "setsid steam steam://rungameid/582840",
+        "macOS": "open steam://rungameid/582840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/582840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "20something",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29673"
+}

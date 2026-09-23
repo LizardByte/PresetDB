@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16648,
+  "name": "Unholy Heights",
+  "source_url": "https://www.igdb.com/games/unholy-heights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24lj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unholy Heights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "249330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/249330",
+        "Linux": "setsid steam steam://rungameid/249330",
+        "macOS": "open steam://rungameid/249330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/249330",
+      "protondb": {
+        "tier": "gold",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "unholy-heights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16648"
+}

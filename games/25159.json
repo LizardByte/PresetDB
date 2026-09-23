@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25159,
+  "name": "Othello",
+  "source_url": "https://www.igdb.com/games/othello--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63br.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Othello",
+      "os": null,
+      "method": "steam",
+      "launch_id": "307430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/307430",
+        "Linux": "setsid steam steam://rungameid/307430",
+        "macOS": "open steam://rungameid/307430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/307430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "othello--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25159"
+}

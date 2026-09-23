@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274800,
+  "name": "FreeChicken",
+  "source_url": "https://www.igdb.com/games/freechicken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7b79.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FreeChicken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2646510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2646510",
+        "Linux": "setsid steam steam://rungameid/2646510",
+        "macOS": "open steam://rungameid/2646510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2646510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "freechicken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274800"
+}

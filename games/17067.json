@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17067,
+  "name": "TUG",
+  "source_url": "https://www.igdb.com/games/tug",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bn1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TUG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "277930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/277930",
+        "Linux": "setsid steam steam://rungameid/277930",
+        "macOS": "open steam://rungameid/277930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/277930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tug",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17067"
+}

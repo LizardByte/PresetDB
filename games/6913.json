@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6913,
+  "name": "Binary Domain",
+  "source_url": "https://www.igdb.com/games/binary-domain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Binary Domain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "203750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/203750",
+        "Linux": "setsid steam steam://rungameid/203750",
+        "macOS": "open steam://rungameid/203750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/203750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "binary-domain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6913"
+}

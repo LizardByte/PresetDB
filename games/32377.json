@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32377,
+  "name": "SurvHive",
+  "source_url": "https://www.igdb.com/games/survhive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qca.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SurvHive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "499230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/499230",
+        "Linux": "setsid steam steam://rungameid/499230",
+        "macOS": "open steam://rungameid/499230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/499230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "survhive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32377"
+}

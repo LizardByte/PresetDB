@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368304,
+  "name": "Happy Pet",
+  "source_url": "https://www.igdb.com/games/happy-pet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalrw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Pet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3753250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3753250",
+        "Linux": "setsid steam steam://rungameid/3753250",
+        "macOS": "open steam://rungameid/3753250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3753250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "happy-pet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368304"
+}

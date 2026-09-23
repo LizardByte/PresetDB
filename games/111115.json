@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111115,
+  "name": "WayDown",
+  "source_url": "https://www.igdb.com/games/waydown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5ur.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WayDown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959090",
+        "Linux": "setsid steam steam://rungameid/959090",
+        "macOS": "open steam://rungameid/959090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/959090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "waydown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111115"
+}

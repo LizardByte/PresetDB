@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103338,
+  "name": "Daemon X Machina",
+  "source_url": "https://www.igdb.com/games/daemon-x-machina",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ejh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daemon X Machina",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1167450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1167450",
+        "Linux": "setsid steam steam://rungameid/1167450",
+        "macOS": "open steam://rungameid/1167450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1167450",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 20
+      }
+    }
+  ],
+  "igdb_slug": "daemon-x-machina",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103338"
+}

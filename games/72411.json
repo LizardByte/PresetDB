@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 72411,
+  "name": "Follow My Footsteps",
+  "source_url": "https://www.igdb.com/games/follow-my-footsteps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bfc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Follow My Footsteps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "714340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/714340",
+        "Linux": "setsid steam steam://rungameid/714340",
+        "macOS": "open steam://rungameid/714340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/714340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "follow-my-footsteps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=72411"
+}

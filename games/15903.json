@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15903,
+  "name": "Tharsis",
+  "source_url": "https://www.igdb.com/games/tharsis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2e7p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tharsis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "323060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/323060",
+        "Linux": "setsid steam steam://rungameid/323060",
+        "macOS": "open steam://rungameid/323060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/323060",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "tharsis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15903"
+}

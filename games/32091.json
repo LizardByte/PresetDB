@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32091,
+  "name": "House of Alice",
+  "source_url": "https://www.igdb.com/games/house-of-alice",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "House of Alice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500920",
+        "Linux": "setsid steam steam://rungameid/500920",
+        "macOS": "open steam://rungameid/500920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "house-of-alice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32091"
+}

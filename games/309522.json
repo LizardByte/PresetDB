@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309522,
+  "name": "ESports Simulator",
+  "source_url": "https://www.igdb.com/games/esports-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8th0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ESports Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3026100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3026100",
+        "Linux": "setsid steam steam://rungameid/3026100",
+        "macOS": "open steam://rungameid/3026100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3026100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "esports-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309522"
+}

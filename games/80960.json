@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80960,
+  "name": "Nantucket",
+  "source_url": "https://www.igdb.com/games/nantucket",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wok.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nantucket",
+      "os": null,
+      "method": "steam",
+      "launch_id": "621220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/621220",
+        "Linux": "setsid steam steam://rungameid/621220",
+        "macOS": "open steam://rungameid/621220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/621220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nantucket",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80960"
+}

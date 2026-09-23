@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93725,
+  "name": "Digital Runner",
+  "source_url": "https://www.igdb.com/games/digital-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhtm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Digital Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "814190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/814190",
+        "Linux": "setsid steam steam://rungameid/814190",
+        "macOS": "open steam://rungameid/814190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/814190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "digital-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93725"
+}

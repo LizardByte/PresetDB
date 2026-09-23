@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368688,
+  "name": "First Person Shooter",
+  "source_url": "https://www.igdb.com/games/first-person-shooter--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaici.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "First Person Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1431920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1431920",
+        "Linux": "setsid steam steam://rungameid/1431920",
+        "macOS": "open steam://rungameid/1431920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1431920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "first-person-shooter--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368688"
+}

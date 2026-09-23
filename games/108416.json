@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108416,
+  "name": "The E Ball",
+  "source_url": "https://www.igdb.com/games/the-e-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob733.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The E Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "915020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/915020",
+        "Linux": "setsid steam steam://rungameid/915020",
+        "macOS": "open steam://rungameid/915020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/915020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-e-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108416"
+}

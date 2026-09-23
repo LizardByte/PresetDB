@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101230,
+  "name": "Pit of Evil",
+  "source_url": "https://www.igdb.com/games/pit-of-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vd8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pit of Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "746020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/746020",
+        "Linux": "setsid steam steam://rungameid/746020",
+        "macOS": "open steam://rungameid/746020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/746020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pit-of-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101230"
+}

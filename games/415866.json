@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415866,
+  "name": "Ballistic Brews",
+  "source_url": "https://www.igdb.com/games/ballistic-brews",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct0j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ballistic Brews",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4095000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4095000",
+        "Linux": "setsid steam steam://rungameid/4095000",
+        "macOS": "open steam://rungameid/4095000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4095000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ballistic-brews",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415866"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371145,
+  "name": "Dungeon Alone",
+  "source_url": "https://www.igdb.com/games/dungeon-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalmx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1815000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1815000",
+        "Linux": "setsid steam steam://rungameid/1815000",
+        "macOS": "open steam://rungameid/1815000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1815000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dungeon-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371145"
+}

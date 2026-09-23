@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387023,
+  "name": "Steamwrecked",
+  "source_url": "https://www.igdb.com/games/steamwrecked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcrh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steamwrecked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4089910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4089910",
+        "Linux": "setsid steam steam://rungameid/4089910",
+        "macOS": "open steam://rungameid/4089910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4089910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steamwrecked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387023"
+}

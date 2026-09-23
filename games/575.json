@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 575,
+  "name": "The Godfather II",
+  "source_url": "https://www.igdb.com/games/the-godfather-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2o9p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Godfather II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "24830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/24830",
+        "Linux": "setsid steam steam://rungameid/24830",
+        "macOS": "open steam://rungameid/24830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/24830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-godfather-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=575"
+}

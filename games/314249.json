@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314249,
+  "name": "Raspberry",
+  "source_url": "https://www.igdb.com/games/raspberry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbma.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raspberry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3048820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3048820",
+        "Linux": "setsid steam steam://rungameid/3048820",
+        "macOS": "open steam://rungameid/3048820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3048820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "raspberry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314249"
+}

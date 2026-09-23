@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314316,
+  "name": "Idle Kitties Online",
+  "source_url": "https://www.igdb.com/games/idle-kitties-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8tyf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Kitties Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3062030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3062030",
+        "Linux": "setsid steam steam://rungameid/3062030",
+        "macOS": "open steam://rungameid/3062030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3062030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "idle-kitties-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314316"
+}

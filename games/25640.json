@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25640,
+  "name": "Octogeddon",
+  "source_url": "https://www.igdb.com/games/octogeddon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsvb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Octogeddon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "525620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/525620",
+        "Linux": "setsid steam steam://rungameid/525620",
+        "macOS": "open steam://rungameid/525620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/525620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "octogeddon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25640"
+}

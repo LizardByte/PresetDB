@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82040,
+  "name": "Ancient Future",
+  "source_url": "https://www.igdb.com/games/ancient-future",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob58n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ancient Future",
+      "os": null,
+      "method": "steam",
+      "launch_id": "705780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/705780",
+        "Linux": "setsid steam steam://rungameid/705780",
+        "macOS": "open steam://rungameid/705780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/705780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ancient-future",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82040"
+}

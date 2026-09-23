@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31521,
+  "name": "Don't Let Go!",
+  "source_url": "https://www.igdb.com/games/dont-let-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ovj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Let Go!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "519030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/519030",
+        "Linux": "setsid steam steam://rungameid/519030",
+        "macOS": "open steam://rungameid/519030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/519030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-let-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31521"
+}

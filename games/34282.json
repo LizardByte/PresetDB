@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34282,
+  "name": "Run Rabbit Run",
+  "source_url": "https://www.igdb.com/games/run-rabbit-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yrd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Rabbit Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "409560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/409560",
+        "Linux": "setsid steam steam://rungameid/409560",
+        "macOS": "open steam://rungameid/409560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/409560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-rabbit-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34282"
+}

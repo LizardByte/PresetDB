@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 209668,
+  "name": "Old Retro Shooter",
+  "source_url": "https://www.igdb.com/games/old-retro-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jwv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Old Retro Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2079380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2079380",
+        "Linux": "setsid steam steam://rungameid/2079380",
+        "macOS": "open steam://rungameid/2079380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2079380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "old-retro-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=209668"
+}

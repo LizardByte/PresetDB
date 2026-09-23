@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120699,
+  "name": "Urban Explorer",
+  "source_url": "https://www.igdb.com/games/urban-explorer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xw1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urban Explorer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111840",
+        "Linux": "setsid steam steam://rungameid/1111840",
+        "macOS": "open steam://rungameid/1111840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1111840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "urban-explorer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120699"
+}

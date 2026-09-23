@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109096,
+  "name": "Krunker",
+  "source_url": "https://www.igdb.com/games/krunker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo2e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Krunker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1408720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1408720",
+        "Linux": "setsid steam steam://rungameid/1408720",
+        "macOS": "open steam://rungameid/1408720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1408720",
+      "protondb": {
+        "tier": "silver",
+        "reports": 43
+      }
+    }
+  ],
+  "igdb_slug": "krunker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109096"
+}

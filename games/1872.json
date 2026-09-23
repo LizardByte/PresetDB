@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1872,
+  "name": "Descent",
+  "source_url": "https://www.igdb.com/games/descent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xmo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Descent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "273570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/273570",
+        "Linux": "setsid steam steam://rungameid/273570",
+        "macOS": "open steam://rungameid/273570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/273570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "descent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1872"
+}

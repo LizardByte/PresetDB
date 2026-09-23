@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379229,
+  "name": "Wiped Clean PC",
+  "source_url": "https://www.igdb.com/games/wiped-clean-pc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawla.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wiped Clean PC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3861230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3861230",
+        "Linux": "setsid steam steam://rungameid/3861230",
+        "macOS": "open steam://rungameid/3861230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3861230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wiped-clean-pc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379229"
+}

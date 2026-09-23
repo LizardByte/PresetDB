@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 539,
+  "name": "Metro: Last Light",
+  "source_url": "https://www.igdb.com/games/metro-last-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h9d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metro: Last Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "222801",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/222801",
+        "Linux": "setsid steam steam://rungameid/222801",
+        "macOS": "open steam://rungameid/222801"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/222801",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metro-last-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=539"
+}

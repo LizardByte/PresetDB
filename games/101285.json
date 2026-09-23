@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101285,
+  "name": "Sandbox Showdown",
+  "source_url": "https://www.igdb.com/games/sandbox-showdown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40s9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sandbox Showdown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "849600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/849600",
+        "Linux": "setsid steam steam://rungameid/849600",
+        "macOS": "open steam://rungameid/849600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/849600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sandbox-showdown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101285"
+}

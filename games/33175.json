@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33175,
+  "name": "Storm VR",
+  "source_url": "https://www.igdb.com/games/storm-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h58.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Storm VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "457380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/457380",
+        "Linux": "setsid steam steam://rungameid/457380",
+        "macOS": "open steam://rungameid/457380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/457380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "storm-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33175"
+}

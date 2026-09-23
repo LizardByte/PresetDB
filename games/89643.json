@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89643,
+  "name": "Urban",
+  "source_url": "https://www.igdb.com/games/urban",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/nfe002m9lonbviunfvqw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urban",
+      "os": null,
+      "method": "steam",
+      "launch_id": "813970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/813970",
+        "Linux": "setsid steam steam://rungameid/813970",
+        "macOS": "open steam://rungameid/813970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/813970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "urban",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89643"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76800,
+  "name": "Frontier Runner",
+  "source_url": "https://www.igdb.com/games/frontier-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bgc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frontier Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "760490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/760490",
+        "Linux": "setsid steam steam://rungameid/760490",
+        "macOS": "open steam://rungameid/760490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/760490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "frontier-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76800"
+}

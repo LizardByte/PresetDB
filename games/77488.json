@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 77488,
+  "name": "Zombotron",
+  "source_url": "https://www.igdb.com/games/zombotron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombotron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "664830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/664830",
+        "Linux": "setsid steam steam://rungameid/664830",
+        "macOS": "open steam://rungameid/664830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/664830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombotron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=77488"
+}

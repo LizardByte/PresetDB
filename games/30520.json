@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30520,
+  "name": "Dark Egypt",
+  "source_url": "https://www.igdb.com/games/dark-egypt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24f5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Egypt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "555920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/555920",
+        "Linux": "setsid steam steam://rungameid/555920",
+        "macOS": "open steam://rungameid/555920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/555920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dark-egypt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30520"
+}

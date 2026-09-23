@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107997,
+  "name": "Shudder",
+  "source_url": "https://www.igdb.com/games/shudder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4132.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shudder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910660",
+        "Linux": "setsid steam steam://rungameid/910660",
+        "macOS": "open steam://rungameid/910660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/910660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shudder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107997"
+}

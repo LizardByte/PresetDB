@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7711,
+  "name": "Betrayer",
+  "source_url": "https://www.igdb.com/games/betrayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h9l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Betrayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "243120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/243120",
+        "Linux": "setsid steam steam://rungameid/243120",
+        "macOS": "open steam://rungameid/243120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/243120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "betrayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7711"
+}
