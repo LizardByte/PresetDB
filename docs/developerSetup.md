@@ -20,7 +20,7 @@ Read the Docs pull request previews use `.readthedocs.yaml` and the shared `read
 
 ```text
 GITHUB_WORKFLOW=build
-SITE_ARTIFACT=site-source
+SITE_ARTIFACT=site-source.zip
 EXTRACT_ARCHIVE=build.zip
 ```
 

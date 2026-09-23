@@ -23,7 +23,9 @@ async function processIssue(event, database, { approve = false, actor = '', fetc
     issueNumber: issue.number, approvedBy: actor,
     authorId: issue.user?.id ?? null, authorLogin: issue.user?.login ?? null
   }, { write: approve });
-  return { ...merged, preset, kind };
+  const entry = merged.record.presets.find(item => item.id === merged.id);
+  const title = `[${kind.toUpperCase()}]: ${entry.name}`;
+  return { ...merged, preset, kind, title };
 }
 
 function argsToObject(args) {
@@ -54,6 +56,10 @@ async function main(args = process.argv.slice(2)) {
       `- Host: ${result.preset.os}\n` + methodLine + `- Preset ID: \`${result.id}\`\n` +
       `- Status: ${options.mode === 'approve' ? 'approved and saved' : 'awaiting maintainer review'}\n\n` +
       `Sunshine application preview:\n\n\`\`\`json\n${JSON.stringify(entry.sunshine, null, 2)}\n\`\`\`\n`;
+    if (options.title) {
+      fs.mkdirSync(path.dirname(options.title), { recursive: true });
+      fs.writeFileSync(options.title, `${result.title}\n`);
+    }
     success = true;
   } catch (error) {
     message = `Preset validation failed: ${String(error.message).replace(/[\r\n]+/g, ' ').slice(0, 500)}\n`;

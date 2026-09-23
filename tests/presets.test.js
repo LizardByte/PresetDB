@@ -171,12 +171,15 @@ test('issue processing and site build publish both game and app JSON', async t =
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));
   const database = path.join(root, 'database');
   const output = path.join(root, 'site');
-  await processIssue({ issue: { number: 21, labels: [{ name: 'request-game-preset' }], body: formBody(gameValues) } },
-    database, { approve: true, actor: 'reviewer', fetcher: mockApis, credentials });
-  await processIssue({ issue: { number: 22, labels: [{ name: 'request-app-preset' }], body: formBody({
+  const gameRequest = await processIssue({
+    issue: { number: 21, labels: [{ name: 'request-game-preset' }], body: formBody(gameValues) }
+  }, database, { approve: true, actor: 'reviewer', fetcher: mockApis, credentials });
+  assert.equal(gameRequest.title, '[GAME]: One Tap Hero (Windows, Emulator: RetroArch Snes9x)');
+  const appRequest = await processIssue({ issue: { number: 22, labels: [{ name: 'request-app-preset' }], body: formBody({
     appName: 'App One', appUrl: 'https://example.org', appImageUrl: 'https://example.org/icon.png',
     os: 'Linux', command: '{{HOME}}/app-one'
   }) } }, database, { approve: true, actor: 'reviewer' });
+  assert.equal(appRequest.title, '[APP]: App One (Linux)');
   const index = buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output);
   assert.equal(index.games[0].preset_count, 1);
   assert.equal(index.apps[0].id, 'app-one');
