@@ -53,7 +53,9 @@ jobs:
           EVENT_FILE: ${{ github.event_path }}
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-        run: node src/issue.js --event "$EVENT_FILE" --database database-branch/database --mode check --report report.md --title-output issue-title.txt
+        run: |
+          node src/issue.js --event "$EVENT_FILE" --database database-branch/database \
+            --mode check --report report.md --title-output issue-title.txt
 
       - name: Post result
         if: always() && hashFiles('report.md') != ''
