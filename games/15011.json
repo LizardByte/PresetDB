@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15011,
+  "name": "Death and the Fly",
+  "source_url": "https://www.igdb.com/games/death-and-the-fly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o9f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death and the Fly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "41680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/41680",
+        "Linux": "setsid steam steam://rungameid/41680",
+        "macOS": "open steam://rungameid/41680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/41680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "death-and-the-fly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15011"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365427,
+  "name": "Find Me",
+  "source_url": "https://www.igdb.com/games/find-me--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaelq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3928150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3928150",
+        "Linux": "setsid steam steam://rungameid/3928150",
+        "macOS": "open steam://rungameid/3928150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3928150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "find-me--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365427"
+}

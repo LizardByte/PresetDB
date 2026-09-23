@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215480,
+  "name": "Bubble Wars",
+  "source_url": "https://www.igdb.com/games/bubble-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co560m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bubble Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2053110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2053110",
+        "Linux": "setsid steam steam://rungameid/2053110",
+        "macOS": "open steam://rungameid/2053110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2053110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bubble-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215480"
+}

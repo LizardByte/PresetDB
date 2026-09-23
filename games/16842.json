@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16842,
+  "name": "Enola",
+  "source_url": "https://www.igdb.com/games/enola",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3px8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Enola",
+      "os": null,
+      "method": "steam",
+      "launch_id": "263520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/263520",
+        "Linux": "setsid steam steam://rungameid/263520",
+        "macOS": "open steam://rungameid/263520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/263520",
+      "protondb": {
+        "tier": "gold",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "enola",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16842"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34990,
+  "name": "Three Heroes",
+  "source_url": "https://www.igdb.com/games/three-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44m7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Three Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "380020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/380020",
+        "Linux": "setsid steam steam://rungameid/380020",
+        "macOS": "open steam://rungameid/380020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/380020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "three-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34990"
+}

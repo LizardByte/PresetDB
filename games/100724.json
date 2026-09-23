@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100724,
+  "name": "Gambit Heart",
+  "source_url": "https://www.igdb.com/games/gambit-heart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2ct.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gambit Heart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "766620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/766620",
+        "Linux": "setsid steam steam://rungameid/766620",
+        "macOS": "open steam://rungameid/766620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/766620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gambit-heart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100724"
+}

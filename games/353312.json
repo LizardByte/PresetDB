@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 353312,
+  "name": "Is this a Game yet?",
+  "source_url": "https://www.igdb.com/games/is-this-a-game-yet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaa1u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Is this a Game yet?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3831220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3831220",
+        "Linux": "setsid steam steam://rungameid/3831220",
+        "macOS": "open steam://rungameid/3831220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3831220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "is-this-a-game-yet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=353312"
+}

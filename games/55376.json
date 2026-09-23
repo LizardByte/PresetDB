@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55376,
+  "name": "Robot Heroes",
+  "source_url": "https://www.igdb.com/games/robot-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob987.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robot Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "686110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/686110",
+        "Linux": "setsid steam steam://rungameid/686110",
+        "macOS": "open steam://rungameid/686110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/686110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "robot-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55376"
+}

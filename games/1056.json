@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1056,
+  "name": "Deep Black",
+  "source_url": "https://www.igdb.com/games/deep-black",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60hj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deep Black",
+      "os": null,
+      "method": "steam",
+      "launch_id": "204760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/204760",
+        "Linux": "setsid steam steam://rungameid/204760",
+        "macOS": "open steam://rungameid/204760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/204760",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "deep-black",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1056"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200845,
+  "name": "Skyraid",
+  "source_url": "https://www.igdb.com/games/skyraid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qqx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skyraid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "938710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/938710",
+        "Linux": "setsid steam steam://rungameid/938710",
+        "macOS": "open steam://rungameid/938710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/938710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skyraid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200845"
+}

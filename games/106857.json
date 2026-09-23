@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106857,
+  "name": "Young Souls",
+  "source_url": "https://www.igdb.com/games/young-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4kal.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Young Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985900",
+        "Linux": "setsid steam steam://rungameid/985900",
+        "macOS": "open steam://rungameid/985900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/985900",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "young-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106857"
+}

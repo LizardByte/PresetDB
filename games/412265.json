@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412265,
+  "name": "Harpy",
+  "source_url": "https://www.igdb.com/games/harpy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmcd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Harpy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3098830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3098830",
+        "Linux": "setsid steam steam://rungameid/3098830",
+        "macOS": "open steam://rungameid/3098830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3098830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "harpy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412265"
+}

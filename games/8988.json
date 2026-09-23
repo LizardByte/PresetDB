@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8988,
+  "name": "Monster Bash",
+  "source_url": "https://www.igdb.com/games/monster-bash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wnr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Bash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "358210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/358210",
+        "Linux": "setsid steam steam://rungameid/358210",
+        "macOS": "open steam://rungameid/358210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/358210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "monster-bash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8988"
+}

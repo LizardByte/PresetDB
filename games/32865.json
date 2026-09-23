@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32865,
+  "name": "MachRace",
+  "source_url": "https://www.igdb.com/games/machrace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo0l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MachRace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "489100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/489100",
+        "Linux": "setsid steam steam://rungameid/489100",
+        "macOS": "open steam://rungameid/489100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/489100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "machrace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32865"
+}

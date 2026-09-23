@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 58002,
+  "name": "Aurora",
+  "source_url": "https://www.igdb.com/games/aurora",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobne2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aurora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789720",
+        "Linux": "setsid steam steam://rungameid/789720",
+        "macOS": "open steam://rungameid/789720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/789720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aurora",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=58002"
+}

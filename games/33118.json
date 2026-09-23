@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33118,
+  "name": "ZRoll",
+  "source_url": "https://www.igdb.com/games/zroll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7joj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZRoll",
+      "os": null,
+      "method": "steam",
+      "launch_id": "458600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/458600",
+        "Linux": "setsid steam steam://rungameid/458600",
+        "macOS": "open steam://rungameid/458600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/458600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zroll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33118"
+}

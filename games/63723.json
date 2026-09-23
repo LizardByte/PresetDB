@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 63723,
+  "name": "Goldrushers",
+  "source_url": "https://www.igdb.com/games/goldrushers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bi3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goldrushers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710630",
+        "Linux": "setsid steam steam://rungameid/710630",
+        "macOS": "open steam://rungameid/710630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "goldrushers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=63723"
+}

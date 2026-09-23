@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31860,
+  "name": "Orange Adventure",
+  "source_url": "https://www.igdb.com/games/orange-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Orange Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "510280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/510280",
+        "Linux": "setsid steam steam://rungameid/510280",
+        "macOS": "open steam://rungameid/510280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/510280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "orange-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31860"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90516,
+  "name": "War of the Zombie",
+  "source_url": "https://www.igdb.com/games/war-of-the-zombie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lvb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War of the Zombie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828660",
+        "Linux": "setsid steam steam://rungameid/828660",
+        "macOS": "open steam://rungameid/828660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/828660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "war-of-the-zombie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90516"
+}

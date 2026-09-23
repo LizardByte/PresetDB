@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2003,
+  "name": "Batman: Arkham Origins",
+  "source_url": "https://www.igdb.com/games/batman-arkham-origins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nmd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Batman: Arkham Origins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "209000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/209000",
+        "Linux": "setsid steam steam://rungameid/209000",
+        "macOS": "open steam://rungameid/209000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/209000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "batman-arkham-origins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2003"
+}

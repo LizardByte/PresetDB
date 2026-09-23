@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357002,
+  "name": "Single Scoop",
+  "source_url": "https://www.igdb.com/games/single-scoop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa65k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Single Scoop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3631360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3631360",
+        "Linux": "setsid steam steam://rungameid/3631360",
+        "macOS": "open steam://rungameid/3631360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3631360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "single-scoop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357002"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397562,
+  "name": "MyMemory",
+  "source_url": "https://www.igdb.com/games/mymemory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobw4a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MyMemory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4506990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4506990",
+        "Linux": "setsid steam steam://rungameid/4506990",
+        "macOS": "open steam://rungameid/4506990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4506990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mymemory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397562"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32480,
+  "name": "Alien Run",
+  "source_url": "https://www.igdb.com/games/alien-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vfv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485410",
+        "Linux": "setsid steam steam://rungameid/485410",
+        "macOS": "open steam://rungameid/485410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alien-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32480"
+}

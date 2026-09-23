@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95021,
+  "name": "gRally",
+  "source_url": "https://www.igdb.com/games/grally",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wr9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "gRally",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605760",
+        "Linux": "setsid steam steam://rungameid/605760",
+        "macOS": "open steam://rungameid/605760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/605760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grally",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95021"
+}

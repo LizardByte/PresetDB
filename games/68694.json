@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68694,
+  "name": "Capsa",
+  "source_url": "https://www.igdb.com/games/capsa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28w4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Capsa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "588120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/588120",
+        "Linux": "setsid steam steam://rungameid/588120",
+        "macOS": "open steam://rungameid/588120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/588120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "capsa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68694"
+}

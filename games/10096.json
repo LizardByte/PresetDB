@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10096,
+  "name": "Cloud Chamber",
+  "source_url": "https://www.igdb.com/games/cloud-chamber",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47v3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloud Chamber",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290710",
+        "Linux": "setsid steam steam://rungameid/290710",
+        "macOS": "open steam://rungameid/290710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cloud-chamber",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10096"
+}

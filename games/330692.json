@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330692,
+  "name": "Keep It Running: Together",
+  "source_url": "https://www.igdb.com/games/keep-it-running-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9d9s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keep It Running: Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3448380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3448380",
+        "Linux": "setsid steam steam://rungameid/3448380",
+        "macOS": "open steam://rungameid/3448380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3448380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "keep-it-running-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330692"
+}

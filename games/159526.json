@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159526,
+  "name": "Stern",
+  "source_url": "https://www.igdb.com/games/stern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co423t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1565450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1565450",
+        "Linux": "setsid steam steam://rungameid/1565450",
+        "macOS": "open steam://rungameid/1565450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1565450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159526"
+}

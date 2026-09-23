@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393975,
+  "name": "Home Invaders",
+  "source_url": "https://www.igdb.com/games/home-invaders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpzb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Home Invaders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4241200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4241200",
+        "Linux": "setsid steam steam://rungameid/4241200",
+        "macOS": "open steam://rungameid/4241200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4241200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "home-invaders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393975"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86500,
+  "name": "CrazyCat",
+  "source_url": "https://www.igdb.com/games/crazycat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobizg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CrazyCat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748120",
+        "Linux": "setsid steam steam://rungameid/748120",
+        "macOS": "open steam://rungameid/748120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/748120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crazycat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86500"
+}

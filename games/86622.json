@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86622,
+  "name": "Throw Anything",
+  "source_url": "https://www.igdb.com/games/throw-anything",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1yry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Throw Anything",
+      "os": null,
+      "method": "steam",
+      "launch_id": "746660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/746660",
+        "Linux": "setsid steam steam://rungameid/746660",
+        "macOS": "open steam://rungameid/746660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/746660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "throw-anything",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86622"
+}

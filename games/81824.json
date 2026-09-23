@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81824,
+  "name": "Hangover",
+  "source_url": "https://www.igdb.com/games/hangover",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8iv3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hangover",
+      "os": null,
+      "method": "steam",
+      "launch_id": "770440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/770440",
+        "Linux": "setsid steam steam://rungameid/770440",
+        "macOS": "open steam://rungameid/770440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/770440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hangover",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81824"
+}

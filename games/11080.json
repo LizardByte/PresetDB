@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11080,
+  "name": "Goliath",
+  "source_url": "https://www.igdb.com/games/goliath",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co217i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goliath",
+      "os": null,
+      "method": "steam",
+      "launch_id": "363520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/363520",
+        "Linux": "setsid steam steam://rungameid/363520",
+        "macOS": "open steam://rungameid/363520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/363520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "goliath",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11080"
+}

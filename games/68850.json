@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68850,
+  "name": "Infinite Gateway",
+  "source_url": "https://www.igdb.com/games/infinite-gateway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bpp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinite Gateway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "713800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/713800",
+        "Linux": "setsid steam steam://rungameid/713800",
+        "macOS": "open steam://rungameid/713800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/713800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "infinite-gateway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68850"
+}

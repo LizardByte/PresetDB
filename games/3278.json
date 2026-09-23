@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3278,
+  "name": "Garry's Mod",
+  "source_url": "https://www.igdb.com/games/garry-s-mod",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8pgw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Garry's Mod",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4000",
+        "Linux": "setsid steam steam://rungameid/4000",
+        "macOS": "open steam://rungameid/4000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "garry-s-mod",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3278"
+}

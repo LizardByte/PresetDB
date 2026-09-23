@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100157,
+  "name": "Morkredd",
+  "source_url": "https://www.igdb.com/games/morkredd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2knb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Morkredd",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1331910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1331910",
+        "Linux": "setsid steam steam://rungameid/1331910",
+        "macOS": "open steam://rungameid/1331910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1331910",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "morkredd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100157"
+}

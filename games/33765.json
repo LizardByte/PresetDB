@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33765,
+  "name": "Side Quest",
+  "source_url": "https://www.igdb.com/games/side-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobz2v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Side Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433570",
+        "Linux": "setsid steam steam://rungameid/433570",
+        "macOS": "open steam://rungameid/433570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "side-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33765"
+}

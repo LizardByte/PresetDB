@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35343,
+  "name": "Mainland",
+  "source_url": "https://www.igdb.com/games/mainland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co69ze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mainland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "366800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/366800",
+        "Linux": "setsid steam steam://rungameid/366800",
+        "macOS": "open steam://rungameid/366800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/366800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mainland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35343"
+}

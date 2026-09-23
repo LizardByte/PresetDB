@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81629,
+  "name": "Ultimate Spider Hero",
+  "source_url": "https://www.igdb.com/games/ultimate-spider-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ultimate Spider Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777400",
+        "Linux": "setsid steam steam://rungameid/777400",
+        "macOS": "open steam://rungameid/777400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/777400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ultimate-spider-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81629"
+}

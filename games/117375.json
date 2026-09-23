@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117375,
+  "name": "Rigo: The Movie",
+  "source_url": "https://www.igdb.com/games/rigo-the-movie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblvl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rigo: The Movie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1056370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1056370",
+        "Linux": "setsid steam steam://rungameid/1056370",
+        "macOS": "open steam://rungameid/1056370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1056370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rigo-the-movie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117375"
+}

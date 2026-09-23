@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75314,
+  "name": "RoboVDino",
+  "source_url": "https://www.igdb.com/games/robovdino",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co242v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RoboVDino",
+      "os": null,
+      "method": "steam",
+      "launch_id": "745520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/745520",
+        "Linux": "setsid steam steam://rungameid/745520",
+        "macOS": "open steam://rungameid/745520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/745520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "robovdino",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75314"
+}

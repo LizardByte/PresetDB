@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390189,
+  "name": "Asterisk",
+  "source_url": "https://www.igdb.com/games/asterisk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjk9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Asterisk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4225410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4225410",
+        "Linux": "setsid steam steam://rungameid/4225410",
+        "macOS": "open steam://rungameid/4225410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4225410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "asterisk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390189"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17312,
+  "name": "Swipecart",
+  "source_url": "https://www.igdb.com/games/swipecart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86kl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swipecart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "295930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/295930",
+        "Linux": "setsid steam steam://rungameid/295930",
+        "macOS": "open steam://rungameid/295930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/295930",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "swipecart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17312"
+}

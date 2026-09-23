@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81831,
+  "name": "Thetaball",
+  "source_url": "https://www.igdb.com/games/thetaball--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobic5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thetaball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "770660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/770660",
+        "Linux": "setsid steam steam://rungameid/770660",
+        "macOS": "open steam://rungameid/770660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/770660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thetaball--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81831"
+}

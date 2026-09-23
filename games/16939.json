@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16939,
+  "name": "Epoch",
+  "source_url": "https://www.igdb.com/games/epoch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3py2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epoch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "270510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/270510",
+        "Linux": "setsid steam steam://rungameid/270510",
+        "macOS": "open steam://rungameid/270510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/270510",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "epoch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16939"
+}

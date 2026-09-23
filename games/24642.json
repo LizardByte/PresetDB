@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24642,
+  "name": "Security Hole",
+  "source_url": "https://www.igdb.com/games/security-hole",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jq5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Security Hole",
+      "os": null,
+      "method": "steam",
+      "launch_id": "503460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/503460",
+        "Linux": "setsid steam steam://rungameid/503460",
+        "macOS": "open steam://rungameid/503460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/503460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "security-hole",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24642"
+}

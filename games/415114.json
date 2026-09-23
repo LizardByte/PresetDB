@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415114,
+  "name": "World of Slime",
+  "source_url": "https://www.igdb.com/games/world-of-slime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv50.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Slime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4671450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4671450",
+        "Linux": "setsid steam steam://rungameid/4671450",
+        "macOS": "open steam://rungameid/4671450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4671450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "world-of-slime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415114"
+}

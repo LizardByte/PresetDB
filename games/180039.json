@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180039,
+  "name": "Retro Racers",
+  "source_url": "https://www.igdb.com/games/retro-racers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8c3p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retro Racers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182920",
+        "Linux": "setsid steam steam://rungameid/2182920",
+        "macOS": "open steam://rungameid/2182920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2182920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "retro-racers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180039"
+}

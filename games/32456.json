@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32456,
+  "name": "Summer Sale",
+  "source_url": "https://www.igdb.com/games/summer-sale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co529n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Summer Sale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485890",
+        "Linux": "setsid steam steam://rungameid/485890",
+        "macOS": "open steam://rungameid/485890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "summer-sale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32456"
+}

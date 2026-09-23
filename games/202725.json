@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202725,
+  "name": "The Last City",
+  "source_url": "https://www.igdb.com/games/the-last-city--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n5t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2001280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2001280",
+        "Linux": "setsid steam steam://rungameid/2001280",
+        "macOS": "open steam://rungameid/2001280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2001280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-last-city--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202725"
+}

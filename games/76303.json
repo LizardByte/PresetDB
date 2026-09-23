@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76303,
+  "name": "Lonely Astronaut",
+  "source_url": "https://www.igdb.com/games/lonely-astronaut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ql5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lonely Astronaut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "755830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/755830",
+        "Linux": "setsid steam steam://rungameid/755830",
+        "macOS": "open steam://rungameid/755830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/755830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lonely-astronaut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76303"
+}

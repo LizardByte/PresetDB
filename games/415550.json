@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415550,
+  "name": "Escape Hatch",
+  "source_url": "https://www.igdb.com/games/escape-hatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocw6k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Hatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5012270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5012270",
+        "Linux": "setsid steam steam://rungameid/5012270",
+        "macOS": "open steam://rungameid/5012270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5012270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-hatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415550"
+}

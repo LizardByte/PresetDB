@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93726,
+  "name": "Revoke",
+  "source_url": "https://www.igdb.com/games/revoke",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobguy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revoke",
+      "os": null,
+      "method": "steam",
+      "launch_id": "813930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/813930",
+        "Linux": "setsid steam steam://rungameid/813930",
+        "macOS": "open steam://rungameid/813930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/813930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "revoke",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93726"
+}

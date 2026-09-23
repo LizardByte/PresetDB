@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35720,
+  "name": "Dev Guy",
+  "source_url": "https://www.igdb.com/games/dev-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zmg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dev Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "351800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/351800",
+        "Linux": "setsid steam steam://rungameid/351800",
+        "macOS": "open steam://rungameid/351800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/351800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dev-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35720"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82439,
+  "name": "Dogurai",
+  "source_url": "https://www.igdb.com/games/dogurai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21n6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogurai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565180",
+        "Linux": "setsid steam steam://rungameid/565180",
+        "macOS": "open steam://rungameid/565180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/565180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dogurai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82439"
+}

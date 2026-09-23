@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17111,
+  "name": "Imagine Earth",
+  "source_url": "https://www.igdb.com/games/imagine-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2f5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Imagine Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "280720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/280720",
+        "Linux": "setsid steam steam://rungameid/280720",
+        "macOS": "open steam://rungameid/280720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/280720",
+      "protondb": {
+        "tier": "gold",
+        "reports": 19
+      }
+    }
+  ],
+  "igdb_slug": "imagine-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17111"
+}

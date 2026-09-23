@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106340,
+  "name": "Gallery One",
+  "source_url": "https://www.igdb.com/games/gallery-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3ay.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gallery One",
+      "os": null,
+      "method": "steam",
+      "launch_id": "912260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/912260",
+        "Linux": "setsid steam steam://rungameid/912260",
+        "macOS": "open steam://rungameid/912260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/912260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gallery-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106340"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17160,
+  "name": "QuestRun",
+  "source_url": "https://www.igdb.com/games/questrun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/gb9npswbzgannrwdivat.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "QuestRun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "286120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/286120",
+        "Linux": "setsid steam steam://rungameid/286120",
+        "macOS": "open steam://rungameid/286120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/286120",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "questrun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17160"
+}

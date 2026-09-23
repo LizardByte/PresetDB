@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55514,
+  "name": "Meta Star",
+  "source_url": "https://www.igdb.com/games/meta-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9iv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meta Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "659000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/659000",
+        "Linux": "setsid steam steam://rungameid/659000",
+        "macOS": "open steam://rungameid/659000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/659000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "meta-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55514"
+}

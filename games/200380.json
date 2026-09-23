@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200380,
+  "name": "A100",
+  "source_url": "https://www.igdb.com/games/a100",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co56u6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A100",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1976520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1976520",
+        "Linux": "setsid steam steam://rungameid/1976520",
+        "macOS": "open steam://rungameid/1976520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1976520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "a100",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200380"
+}

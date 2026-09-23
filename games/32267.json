@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32267,
+  "name": "BowMage",
+  "source_url": "https://www.igdb.com/games/bowmage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ca.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BowMage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "496000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/496000",
+        "Linux": "setsid steam steam://rungameid/496000",
+        "macOS": "open steam://rungameid/496000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/496000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bowmage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32267"
+}

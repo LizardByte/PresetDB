@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17318,
+  "name": "The Promised Land",
+  "source_url": "https://www.igdb.com/games/the-promised-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co441n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Promised Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "296240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/296240",
+        "Linux": "setsid steam steam://rungameid/296240",
+        "macOS": "open steam://rungameid/296240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/296240",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "the-promised-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17318"
+}

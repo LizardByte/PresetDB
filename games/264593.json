@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264593,
+  "name": "Miss Peach",
+  "source_url": "https://www.igdb.com/games/miss-peach",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8op1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miss Peach",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2547570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2547570",
+        "Linux": "setsid steam steam://rungameid/2547570",
+        "macOS": "open steam://rungameid/2547570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2547570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "miss-peach",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264593"
+}

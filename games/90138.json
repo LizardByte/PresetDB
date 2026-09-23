@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90138,
+  "name": "Spyhack",
+  "source_url": "https://www.igdb.com/games/spyhack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2tll.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spyhack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "687340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/687340",
+        "Linux": "setsid steam steam://rungameid/687340",
+        "macOS": "open steam://rungameid/687340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/687340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spyhack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90138"
+}

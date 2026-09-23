@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99240,
+  "name": "Mountain Racing",
+  "source_url": "https://www.igdb.com/games/mountain-racing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co623g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mountain Racing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833820",
+        "Linux": "setsid steam steam://rungameid/833820",
+        "macOS": "open steam://rungameid/833820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/833820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mountain-racing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99240"
+}

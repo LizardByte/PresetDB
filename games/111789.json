@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111789,
+  "name": "Mutate!",
+  "source_url": "https://www.igdb.com/games/mutate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsu0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mutate!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "917650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/917650",
+        "Linux": "setsid steam steam://rungameid/917650",
+        "macOS": "open steam://rungameid/917650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/917650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mutate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111789"
+}

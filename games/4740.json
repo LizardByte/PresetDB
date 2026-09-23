@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4740,
+  "name": "Cake Mania",
+  "source_url": "https://www.igdb.com/games/cake-mania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co70pt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cake Mania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "36180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/36180",
+        "Linux": "setsid steam steam://rungameid/36180",
+        "macOS": "open steam://rungameid/36180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/36180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cake-mania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4740"
+}

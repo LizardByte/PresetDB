@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88012,
+  "name": "StackFortress",
+  "source_url": "https://www.igdb.com/games/stackfortress",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StackFortress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "788490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/788490",
+        "Linux": "setsid steam steam://rungameid/788490",
+        "macOS": "open steam://rungameid/788490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/788490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stackfortress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88012"
+}

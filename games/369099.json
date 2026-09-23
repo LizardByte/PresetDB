@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369099,
+  "name": "Be Lost",
+  "source_url": "https://www.igdb.com/games/be-lost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coais0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Be Lost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3959900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3959900",
+        "Linux": "setsid steam steam://rungameid/3959900",
+        "macOS": "open steam://rungameid/3959900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3959900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "be-lost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369099"
+}

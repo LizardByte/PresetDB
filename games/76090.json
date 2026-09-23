@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76090,
+  "name": "Iro Hero",
+  "source_url": "https://www.igdb.com/games/iro-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/egu1c3z90bzrvk9rl2oe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iro Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "709750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/709750",
+        "Linux": "setsid steam steam://rungameid/709750",
+        "macOS": "open steam://rungameid/709750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/709750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "iro-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76090"
+}

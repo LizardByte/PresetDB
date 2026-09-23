@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31192,
+  "name": "Polygod",
+  "source_url": "https://www.igdb.com/games/polygod",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qzi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polygod",
+      "os": null,
+      "method": "steam",
+      "launch_id": "531530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/531530",
+        "Linux": "setsid steam steam://rungameid/531530",
+        "macOS": "open steam://rungameid/531530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/531530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "polygod",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31192"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19250,
+  "name": "Lastfight",
+  "source_url": "https://www.igdb.com/games/lastfight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1s5e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lastfight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "443450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/443450",
+        "Linux": "setsid steam steam://rungameid/443450",
+        "macOS": "open steam://rungameid/443450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/443450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lastfight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19250"
+}

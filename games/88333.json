@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88333,
+  "name": "Bad Day",
+  "source_url": "https://www.igdb.com/games/bad-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43an.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bad Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "803080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/803080",
+        "Linux": "setsid steam steam://rungameid/803080",
+        "macOS": "open steam://rungameid/803080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/803080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bad-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88333"
+}

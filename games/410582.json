@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410582,
+  "name": "Drift Shell",
+  "source_url": "https://www.igdb.com/games/drift-shell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocllo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drift Shell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3606060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3606060",
+        "Linux": "setsid steam steam://rungameid/3606060",
+        "macOS": "open steam://rungameid/3606060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3606060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "drift-shell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410582"
+}

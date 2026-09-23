@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415649,
+  "name": "Plum",
+  "source_url": "https://www.igdb.com/games/plum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocspc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5061060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5061060",
+        "Linux": "setsid steam steam://rungameid/5061060",
+        "macOS": "open steam://rungameid/5061060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5061060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "plum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415649"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 92550,
+  "name": "Fable",
+  "source_url": "https://www.igdb.com/games/fable--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fable",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2769570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2769570",
+        "Linux": "setsid steam steam://rungameid/2769570",
+        "macOS": "open steam://rungameid/2769570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2769570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fable--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=92550"
+}

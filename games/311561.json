@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311561,
+  "name": "Pretty Agent",
+  "source_url": "https://www.igdb.com/games/pretty-agent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lwx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pretty Agent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3085700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3085700",
+        "Linux": "setsid steam steam://rungameid/3085700",
+        "macOS": "open steam://rungameid/3085700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3085700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pretty-agent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311561"
+}

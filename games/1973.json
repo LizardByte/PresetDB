@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1973,
+  "name": "Defiance",
+  "source_url": "https://www.igdb.com/games/defiance",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dvb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Defiance",
+      "os": null,
+      "method": "steam",
+      "launch_id": "224600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/224600",
+        "Linux": "setsid steam steam://rungameid/224600",
+        "macOS": "open steam://rungameid/224600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/224600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "defiance",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1973"
+}

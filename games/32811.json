@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32811,
+  "name": "Duckie Dash",
+  "source_url": "https://www.igdb.com/games/duckie-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ch.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duckie Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "491110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/491110",
+        "Linux": "setsid steam steam://rungameid/491110",
+        "macOS": "open steam://rungameid/491110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/491110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "duckie-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32811"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37036,
+  "name": "Terra Mystica",
+  "source_url": "https://www.igdb.com/games/terra-mystica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23e8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terra Mystica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "628900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/628900",
+        "Linux": "setsid steam steam://rungameid/628900",
+        "macOS": "open steam://rungameid/628900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/628900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "terra-mystica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37036"
+}

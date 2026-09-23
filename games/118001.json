@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118001,
+  "name": "Arcade Simulator",
+  "source_url": "https://www.igdb.com/games/arcade-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3llk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "973780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/973780",
+        "Linux": "setsid steam steam://rungameid/973780",
+        "macOS": "open steam://rungameid/973780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/973780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "arcade-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118001"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377019,
+  "name": "DungeonSweeper",
+  "source_url": "https://www.igdb.com/games/dungeonsweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DungeonSweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4109840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4109840",
+        "Linux": "setsid steam steam://rungameid/4109840",
+        "macOS": "open steam://rungameid/4109840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4109840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dungeonsweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377019"
+}

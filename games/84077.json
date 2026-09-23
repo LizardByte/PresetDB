@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84077,
+  "name": "Icky",
+  "source_url": "https://www.igdb.com/games/icky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Icky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "791160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/791160",
+        "Linux": "setsid steam steam://rungameid/791160",
+        "macOS": "open steam://rungameid/791160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/791160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "icky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84077"
+}

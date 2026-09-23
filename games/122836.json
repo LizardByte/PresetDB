@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122836,
+  "name": "Spooky Station",
+  "source_url": "https://www.igdb.com/games/spooky-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2joi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spooky Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "700100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/700100",
+        "Linux": "setsid steam steam://rungameid/700100",
+        "macOS": "open steam://rungameid/700100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/700100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spooky-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122836"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 136625,
+  "name": "Hogwarts Legacy",
+  "source_url": "https://www.igdb.com/games/hogwarts-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaav6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hogwarts Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "990080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/990080",
+        "Linux": "setsid steam steam://rungameid/990080",
+        "macOS": "open steam://rungameid/990080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/990080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hogwarts-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=136625"
+}

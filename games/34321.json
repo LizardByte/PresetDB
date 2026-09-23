@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34321,
+  "name": "Starsphere",
+  "source_url": "https://www.igdb.com/games/starsphere",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob87u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starsphere",
+      "os": null,
+      "method": "steam",
+      "launch_id": "408750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/408750",
+        "Linux": "setsid steam steam://rungameid/408750",
+        "macOS": "open steam://rungameid/408750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/408750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starsphere",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34321"
+}

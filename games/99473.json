@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99473,
+  "name": "Draw It!",
+  "source_url": "https://www.igdb.com/games/draw-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Draw It!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816190",
+        "Linux": "setsid steam steam://rungameid/816190",
+        "macOS": "open steam://rungameid/816190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/816190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "draw-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99473"
+}

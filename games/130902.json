@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130902,
+  "name": "Skye",
+  "source_url": "https://www.igdb.com/games/skye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ab9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1214360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1214360",
+        "Linux": "setsid steam steam://rungameid/1214360",
+        "macOS": "open steam://rungameid/1214360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1214360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130902"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83992,
+  "name": "Atoms",
+  "source_url": "https://www.igdb.com/games/atoms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co298w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atoms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "765460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/765460",
+        "Linux": "setsid steam steam://rungameid/765460",
+        "macOS": "open steam://rungameid/765460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/765460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "atoms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83992"
+}

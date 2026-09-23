@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15626,
+  "name": "ARMA: Armed Assault",
+  "source_url": "https://www.igdb.com/games/arma-armed-assault",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co583o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ARMA: Armed Assault",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2780",
+        "Linux": "setsid steam steam://rungameid/2780",
+        "macOS": "open steam://rungameid/2780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2780",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "arma-armed-assault",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15626"
+}

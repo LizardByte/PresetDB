@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16203,
+  "name": "Myst: Masterpiece Edition",
+  "source_url": "https://www.igdb.com/games/myst-masterpiece-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2mkf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Myst: Masterpiece Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "63660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/63660",
+        "Linux": "setsid steam steam://rungameid/63660",
+        "macOS": "open steam://rungameid/63660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/63660",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 29
+      }
+    }
+  ],
+  "igdb_slug": "myst-masterpiece-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16203"
+}

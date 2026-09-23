@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 278604,
+  "name": "DarkwebStreamer",
+  "source_url": "https://www.igdb.com/games/darkwebstreamer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7flb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DarkwebStreamer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2151810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2151810",
+        "Linux": "setsid steam steam://rungameid/2151810",
+        "macOS": "open steam://rungameid/2151810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2151810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darkwebstreamer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=278604"
+}

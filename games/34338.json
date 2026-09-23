@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34338,
+  "name": "Legend of Mysteria",
+  "source_url": "https://www.igdb.com/games/legend-of-mysteria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7h4p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legend of Mysteria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "407230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/407230",
+        "Linux": "setsid steam steam://rungameid/407230",
+        "macOS": "open steam://rungameid/407230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/407230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "legend-of-mysteria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34338"
+}

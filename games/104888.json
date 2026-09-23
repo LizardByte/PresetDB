@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104888,
+  "name": "Welcome to the Pool Hall",
+  "source_url": "https://www.igdb.com/games/welcome-to-the-pool-hall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkml.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to the Pool Hall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "877230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/877230",
+        "Linux": "setsid steam steam://rungameid/877230",
+        "macOS": "open steam://rungameid/877230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/877230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "welcome-to-the-pool-hall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104888"
+}

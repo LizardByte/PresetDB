@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5894,
+  "name": "XCOM: Enemy Within",
+  "source_url": "https://www.igdb.com/games/xcom-enemy-within",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ul1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "XCOM: Enemy Within",
+      "os": null,
+      "method": "steam",
+      "launch_id": "225340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/225340",
+        "Linux": "setsid steam steam://rungameid/225340",
+        "macOS": "open steam://rungameid/225340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/225340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "xcom-enemy-within",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5894"
+}

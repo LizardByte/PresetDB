@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193028,
+  "name": "SnakeGame",
+  "source_url": "https://www.igdb.com/games/snakegame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lzu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SnakeGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1894760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1894760",
+        "Linux": "setsid steam steam://rungameid/1894760",
+        "macOS": "open steam://rungameid/1894760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1894760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "snakegame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193028"
+}

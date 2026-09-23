@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95152,
+  "name": "Castle Clamber",
+  "source_url": "https://www.igdb.com/games/castle-clamber",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mx2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle Clamber",
+      "os": null,
+      "method": "steam",
+      "launch_id": "770050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/770050",
+        "Linux": "setsid steam steam://rungameid/770050",
+        "macOS": "open steam://rungameid/770050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/770050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "castle-clamber",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95152"
+}

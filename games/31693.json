@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31693,
+  "name": "Happy Empire",
+  "source_url": "https://www.igdb.com/games/happy-empire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob769.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Empire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "513990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/513990",
+        "Linux": "setsid steam steam://rungameid/513990",
+        "macOS": "open steam://rungameid/513990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/513990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "happy-empire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31693"
+}

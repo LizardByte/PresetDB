@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386813,
+  "name": "Running Horror",
+  "source_url": "https://www.igdb.com/games/running-horror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc9w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Running Horror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3565900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3565900",
+        "Linux": "setsid steam steam://rungameid/3565900",
+        "macOS": "open steam://rungameid/3565900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3565900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "running-horror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386813"
+}

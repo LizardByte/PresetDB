@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36141,
+  "name": "VRC Pro",
+  "source_url": "https://www.igdb.com/games/vrc-pro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7l5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRC Pro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "335070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/335070",
+        "Linux": "setsid steam steam://rungameid/335070",
+        "macOS": "open steam://rungameid/335070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/335070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vrc-pro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36141"
+}

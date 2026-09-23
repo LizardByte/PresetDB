@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106847,
+  "name": "Coffee Talk",
+  "source_url": "https://www.igdb.com/games/coffee-talk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55rx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coffee Talk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914800",
+        "Linux": "setsid steam steam://rungameid/914800",
+        "macOS": "open steam://rungameid/914800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/914800",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 24
+      }
+    }
+  ],
+  "igdb_slug": "coffee-talk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106847"
+}

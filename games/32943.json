@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32943,
+  "name": "The Dweller",
+  "source_url": "https://www.igdb.com/games/the-dweller",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43qs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dweller",
+      "os": null,
+      "method": "steam",
+      "launch_id": "463930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/463930",
+        "Linux": "setsid steam steam://rungameid/463930",
+        "macOS": "open steam://rungameid/463930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/463930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-dweller",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32943"
+}

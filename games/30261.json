@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30261,
+  "name": "Gem Monster",
+  "source_url": "https://www.igdb.com/games/gem-monster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4ga.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gem Monster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565200",
+        "Linux": "setsid steam steam://rungameid/565200",
+        "macOS": "open steam://rungameid/565200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/565200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gem-monster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30261"
+}

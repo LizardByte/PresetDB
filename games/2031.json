@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2031,
+  "name": "Wolfenstein: The New Order",
+  "source_url": "https://www.igdb.com/games/wolfenstein-the-new-order",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21c0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wolfenstein: The New Order",
+      "os": null,
+      "method": "steam",
+      "launch_id": "201810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/201810",
+        "Linux": "setsid steam steam://rungameid/201810",
+        "macOS": "open steam://rungameid/201810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/201810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wolfenstein-the-new-order",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2031"
+}

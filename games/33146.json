@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33146,
+  "name": "Minigame Party VR",
+  "source_url": "https://www.igdb.com/games/minigame-party-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkes.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minigame Party VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "457870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/457870",
+        "Linux": "setsid steam steam://rungameid/457870",
+        "macOS": "open steam://rungameid/457870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/457870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "minigame-party-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33146"
+}

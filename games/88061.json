@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88061,
+  "name": "Starman",
+  "source_url": "https://www.igdb.com/games/starman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qwj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "804350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/804350",
+        "Linux": "setsid steam steam://rungameid/804350",
+        "macOS": "open steam://rungameid/804350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/804350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88061"
+}

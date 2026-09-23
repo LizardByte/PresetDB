@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105323,
+  "name": "Pif Paf",
+  "source_url": "https://www.igdb.com/games/pif-paf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgdy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pif Paf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881970",
+        "Linux": "setsid steam steam://rungameid/881970",
+        "macOS": "open steam://rungameid/881970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/881970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pif-paf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105323"
+}

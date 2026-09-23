@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33295,
+  "name": "Metris Soccer",
+  "source_url": "https://www.igdb.com/games/metris-soccer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobawk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metris Soccer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "451180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/451180",
+        "Linux": "setsid steam steam://rungameid/451180",
+        "macOS": "open steam://rungameid/451180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/451180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metris-soccer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33295"
+}

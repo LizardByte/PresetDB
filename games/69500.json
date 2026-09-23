@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 69500,
+  "name": "GunboundM",
+  "source_url": "https://www.igdb.com/games/gunboundm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hcn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GunboundM",
+      "os": null,
+      "method": "steam",
+      "launch_id": "991710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/991710",
+        "Linux": "setsid steam steam://rungameid/991710",
+        "macOS": "open steam://rungameid/991710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/991710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gunboundm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=69500"
+}

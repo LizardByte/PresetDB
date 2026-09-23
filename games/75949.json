@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75949,
+  "name": "Beatris",
+  "source_url": "https://www.igdb.com/games/beatris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22zb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beatris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "708890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/708890",
+        "Linux": "setsid steam steam://rungameid/708890",
+        "macOS": "open steam://rungameid/708890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/708890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beatris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75949"
+}

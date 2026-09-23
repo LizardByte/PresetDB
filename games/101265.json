@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101265,
+  "name": "Terror World",
+  "source_url": "https://www.igdb.com/games/terror-world",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terror World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848120",
+        "Linux": "setsid steam steam://rungameid/848120",
+        "macOS": "open steam://rungameid/848120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/848120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "terror-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101265"
+}

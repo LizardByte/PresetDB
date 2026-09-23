@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103825,
+  "name": "PlatOnir",
+  "source_url": "https://www.igdb.com/games/platonir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgcu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlatOnir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882070",
+        "Linux": "setsid steam steam://rungameid/882070",
+        "macOS": "open steam://rungameid/882070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/882070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "platonir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103825"
+}

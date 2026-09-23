@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373274,
+  "name": "iRacing Arcade",
+  "source_url": "https://www.igdb.com/games/iracing-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaoet.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "iRacing Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3226450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3226450",
+        "Linux": "setsid steam steam://rungameid/3226450",
+        "macOS": "open steam://rungameid/3226450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3226450",
+      "protondb": {
+        "tier": "gold",
+        "reports": 12
+      }
+    }
+  ],
+  "igdb_slug": "iracing-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373274"
+}

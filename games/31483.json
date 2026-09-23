@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31483,
+  "name": "True or False",
+  "source_url": "https://www.igdb.com/games/true-or-false",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/smobwsnbqiafb8fuk0vm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "True or False",
+      "os": null,
+      "method": "steam",
+      "launch_id": "521340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/521340",
+        "Linux": "setsid steam steam://rungameid/521340",
+        "macOS": "open steam://rungameid/521340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/521340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "true-or-false",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31483"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30935,
+  "name": "RuneSage",
+  "source_url": "https://www.igdb.com/games/runesage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yqz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RuneSage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "542030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/542030",
+        "Linux": "setsid steam steam://rungameid/542030",
+        "macOS": "open steam://rungameid/542030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/542030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "runesage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30935"
+}

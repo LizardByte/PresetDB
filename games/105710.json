@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105710,
+  "name": "Switcher",
+  "source_url": "https://www.igdb.com/games/switcher",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Switcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "896940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/896940",
+        "Linux": "setsid steam steam://rungameid/896940",
+        "macOS": "open steam://rungameid/896940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/896940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "switcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105710"
+}

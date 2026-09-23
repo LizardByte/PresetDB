@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123543,
+  "name": "Buissons",
+  "source_url": "https://www.igdb.com/games/buissons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s1o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Buissons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1151930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1151930",
+        "Linux": "setsid steam steam://rungameid/1151930",
+        "macOS": "open steam://rungameid/1151930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1151930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "buissons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123543"
+}

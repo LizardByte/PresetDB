@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15646,
+  "name": "Peggle Extreme",
+  "source_url": "https://www.igdb.com/games/peggle-extreme",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coang7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peggle Extreme",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3483",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3483",
+        "Linux": "setsid steam steam://rungameid/3483",
+        "macOS": "open steam://rungameid/3483"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3483",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 32
+      }
+    }
+  ],
+  "igdb_slug": "peggle-extreme",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15646"
+}

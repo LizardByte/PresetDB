@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88200,
+  "name": "Blackjack In Space",
+  "source_url": "https://www.igdb.com/games/blackjack-in-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdd6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blackjack In Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "805090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/805090",
+        "Linux": "setsid steam steam://rungameid/805090",
+        "macOS": "open steam://rungameid/805090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/805090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blackjack-in-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88200"
+}

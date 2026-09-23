@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 85967,
+  "name": "Breakout",
+  "source_url": "https://www.igdb.com/games/breakout--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9avx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Breakout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955790",
+        "Linux": "setsid steam steam://rungameid/955790",
+        "macOS": "open steam://rungameid/955790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/955790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "breakout--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=85967"
+}

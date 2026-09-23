@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121193,
+  "name": "Bouncing Hero",
+  "source_url": "https://www.igdb.com/games/bouncing-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pl1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bouncing Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "999990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/999990",
+        "Linux": "setsid steam steam://rungameid/999990",
+        "macOS": "open steam://rungameid/999990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/999990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bouncing-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121193"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25303,
+  "name": "Tales",
+  "source_url": "https://www.igdb.com/games/tales",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vtq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales",
+      "os": null,
+      "method": "steam",
+      "launch_id": "416250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/416250",
+        "Linux": "setsid steam steam://rungameid/416250",
+        "macOS": "open steam://rungameid/416250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/416250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tales",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25303"
+}

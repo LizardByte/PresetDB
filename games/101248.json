@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101248,
+  "name": "ViSP",
+  "source_url": "https://www.igdb.com/games/visp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20wt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ViSP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800290",
+        "Linux": "setsid steam steam://rungameid/800290",
+        "macOS": "open steam://rungameid/800290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/800290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "visp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101248"
+}

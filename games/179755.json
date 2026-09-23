@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 179755,
+  "name": "Trick & Treat",
+  "source_url": "https://www.igdb.com/games/trick-and-treat--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocts8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trick & Treat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "555210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/555210",
+        "Linux": "setsid steam steam://rungameid/555210",
+        "macOS": "open steam://rungameid/555210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/555210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "trick-and-treat--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=179755"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10074,
+  "name": "Castle",
+  "source_url": "https://www.igdb.com/games/castle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a55.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "339290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/339290",
+        "Linux": "setsid steam steam://rungameid/339290",
+        "macOS": "open steam://rungameid/339290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/339290",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "castle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10074"
+}

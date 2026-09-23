@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83520,
+  "name": "Captain Nemo",
+  "source_url": "https://www.igdb.com/games/captain-nemo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ul8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Captain Nemo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "788970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/788970",
+        "Linux": "setsid steam steam://rungameid/788970",
+        "macOS": "open steam://rungameid/788970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/788970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "captain-nemo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83520"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416200,
+  "name": "Rakhem",
+  "source_url": "https://www.igdb.com/games/rakhem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocub4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rakhem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5134750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5134750",
+        "Linux": "setsid steam steam://rungameid/5134750",
+        "macOS": "open steam://rungameid/5134750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5134750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rakhem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416200"
+}

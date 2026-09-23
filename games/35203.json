@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35203,
+  "name": "Groovy",
+  "source_url": "https://www.igdb.com/games/groovy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98jv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Groovy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "372490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/372490",
+        "Linux": "setsid steam steam://rungameid/372490",
+        "macOS": "open steam://rungameid/372490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/372490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "groovy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35203"
+}

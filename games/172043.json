@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172043,
+  "name": "Boom",
+  "source_url": "https://www.igdb.com/games/boom--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c36.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1519020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1519020",
+        "Linux": "setsid steam steam://rungameid/1519020",
+        "macOS": "open steam://rungameid/1519020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1519020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "boom--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172043"
+}

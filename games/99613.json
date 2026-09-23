@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99613,
+  "name": "Skat Stammtisch",
+  "source_url": "https://www.igdb.com/games/skat-stammtisch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobib0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skat Stammtisch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "829630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/829630",
+        "Linux": "setsid steam steam://rungameid/829630",
+        "macOS": "open steam://rungameid/829630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/829630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skat-stammtisch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99613"
+}

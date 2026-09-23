@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29596,
+  "name": "Elaine",
+  "source_url": "https://www.igdb.com/games/elaine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26l2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elaine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "587480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/587480",
+        "Linux": "setsid steam steam://rungameid/587480",
+        "macOS": "open steam://rungameid/587480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/587480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "elaine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29596"
+}

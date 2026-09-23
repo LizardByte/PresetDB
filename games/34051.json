@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34051,
+  "name": "Eye of the Owl",
+  "source_url": "https://www.igdb.com/games/eye-of-the-owl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob85y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eye of the Owl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "420020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/420020",
+        "Linux": "setsid steam steam://rungameid/420020",
+        "macOS": "open steam://rungameid/420020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/420020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eye-of-the-owl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34051"
+}

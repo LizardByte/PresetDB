@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148254,
+  "name": "Running Fable",
+  "source_url": "https://www.igdb.com/games/running-fable",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yr7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Running Fable",
+      "os": null,
+      "method": "steam",
+      "launch_id": "787920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/787920",
+        "Linux": "setsid steam steam://rungameid/787920",
+        "macOS": "open steam://rungameid/787920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/787920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "running-fable",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148254"
+}

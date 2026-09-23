@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8815,
+  "name": "Kromaia",
+  "source_url": "https://www.igdb.com/games/kromaia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4538.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kromaia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "285980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/285980",
+        "Linux": "setsid steam steam://rungameid/285980",
+        "macOS": "open steam://rungameid/285980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/285980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kromaia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8815"
+}

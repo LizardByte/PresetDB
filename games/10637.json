@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10637,
+  "name": "Offworld Trading Company",
+  "source_url": "https://www.igdb.com/games/offworld-trading-company",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co256k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Offworld Trading Company",
+      "os": null,
+      "method": "steam",
+      "launch_id": "271240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/271240",
+        "Linux": "setsid steam steam://rungameid/271240",
+        "macOS": "open steam://rungameid/271240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/271240",
+      "protondb": {
+        "tier": "gold",
+        "reports": 87
+      }
+    }
+  ],
+  "igdb_slug": "offworld-trading-company",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10637"
+}

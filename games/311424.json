@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311424,
+  "name": "Apple Run",
+  "source_url": "https://www.igdb.com/games/apple-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mgm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apple Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3071050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3071050",
+        "Linux": "setsid steam steam://rungameid/3071050",
+        "macOS": "open steam://rungameid/3071050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3071050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "apple-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311424"
+}

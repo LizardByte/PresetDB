@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81639,
+  "name": "Please close the doors",
+  "source_url": "https://www.igdb.com/games/please-close-the-doors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tbx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Please close the doors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "778850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/778850",
+        "Linux": "setsid steam steam://rungameid/778850",
+        "macOS": "open steam://rungameid/778850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/778850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "please-close-the-doors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81639"
+}

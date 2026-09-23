@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133204,
+  "name": "Kingdom vs Zombies",
+  "source_url": "https://www.igdb.com/games/kingdom-vs-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25zp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingdom vs Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1220850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1220850",
+        "Linux": "setsid steam steam://rungameid/1220850",
+        "macOS": "open steam://rungameid/1220850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1220850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kingdom-vs-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133204"
+}

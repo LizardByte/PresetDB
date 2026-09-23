@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150386,
+  "name": "Watch&Run",
+  "source_url": "https://www.igdb.com/games/watch-and-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46ox.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Watch&Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1285660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1285660",
+        "Linux": "setsid steam steam://rungameid/1285660",
+        "macOS": "open steam://rungameid/1285660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1285660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "watch-and-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150386"
+}

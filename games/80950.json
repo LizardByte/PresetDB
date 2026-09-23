@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80950,
+  "name": "Super Star Panda",
+  "source_url": "https://www.igdb.com/games/super-star-panda",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5aup.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Star Panda",
+      "os": null,
+      "method": "steam",
+      "launch_id": "730300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/730300",
+        "Linux": "setsid steam steam://rungameid/730300",
+        "macOS": "open steam://rungameid/730300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/730300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-star-panda",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80950"
+}

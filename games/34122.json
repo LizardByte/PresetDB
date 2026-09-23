@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34122,
+  "name": "Gnomes Garden",
+  "source_url": "https://www.igdb.com/games/gnomes-garden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3xo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gnomes Garden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "415830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/415830",
+        "Linux": "setsid steam steam://rungameid/415830",
+        "macOS": "open steam://rungameid/415830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/415830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gnomes-garden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34122"
+}

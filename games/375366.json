@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375366,
+  "name": "Snug",
+  "source_url": "https://www.igdb.com/games/snug",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coargy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snug",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4017680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4017680",
+        "Linux": "setsid steam steam://rungameid/4017680",
+        "macOS": "open steam://rungameid/4017680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4017680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "snug",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375366"
+}

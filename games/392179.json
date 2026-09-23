@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392179,
+  "name": "The Gaming Cafe",
+  "source_url": "https://www.igdb.com/games/the-gaming-cafe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Gaming Cafe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2998760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2998760",
+        "Linux": "setsid steam steam://rungameid/2998760",
+        "macOS": "open steam://rungameid/2998760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2998760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-gaming-cafe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392179"
+}

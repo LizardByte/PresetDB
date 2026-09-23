@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368480,
+  "name": "Cave Ghost",
+  "source_url": "https://www.igdb.com/games/cave-ghost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cave Ghost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3200830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3200830",
+        "Linux": "setsid steam steam://rungameid/3200830",
+        "macOS": "open steam://rungameid/3200830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3200830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cave-ghost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368480"
+}

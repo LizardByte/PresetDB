@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130226,
+  "name": "Valiant Gears",
+  "source_url": "https://www.igdb.com/games/valiant-gears",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m36.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valiant Gears",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234410",
+        "Linux": "setsid steam steam://rungameid/1234410",
+        "macOS": "open steam://rungameid/1234410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1234410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "valiant-gears",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130226"
+}

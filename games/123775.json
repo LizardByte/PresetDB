@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123775,
+  "name": "Tangle Tower",
+  "source_url": "https://www.igdb.com/games/tangle-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6i1n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tangle Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359510",
+        "Linux": "setsid steam steam://rungameid/359510",
+        "macOS": "open steam://rungameid/359510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tangle-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123775"
+}

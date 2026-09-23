@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101362,
+  "name": "Eggs 1942",
+  "source_url": "https://www.igdb.com/games/eggs-1942",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eggs 1942",
+      "os": null,
+      "method": "steam",
+      "launch_id": "859990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/859990",
+        "Linux": "setsid steam steam://rungameid/859990",
+        "macOS": "open steam://rungameid/859990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/859990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eggs-1942",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101362"
+}

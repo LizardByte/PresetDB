@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98765,
+  "name": "Endersite",
+  "source_url": "https://www.igdb.com/games/endersite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endersite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838220",
+        "Linux": "setsid steam steam://rungameid/838220",
+        "macOS": "open steam://rungameid/838220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/838220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "endersite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98765"
+}

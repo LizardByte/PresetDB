@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95204,
+  "name": "TurbOT Racing",
+  "source_url": "https://www.igdb.com/games/turbot-racing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TurbOT Racing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819560",
+        "Linux": "setsid steam steam://rungameid/819560",
+        "macOS": "open steam://rungameid/819560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/819560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "turbot-racing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95204"
+}

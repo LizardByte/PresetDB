@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128979,
+  "name": "Bobby the Gnome",
+  "source_url": "https://www.igdb.com/games/bobby-the-gnome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lle.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bobby the Gnome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1220550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1220550",
+        "Linux": "setsid steam steam://rungameid/1220550",
+        "macOS": "open steam://rungameid/1220550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1220550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bobby-the-gnome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128979"
+}

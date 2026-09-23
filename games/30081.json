@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30081,
+  "name": "Solitaire VR",
+  "source_url": "https://www.igdb.com/games/solitaire-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaeyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solitaire VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "570590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/570590",
+        "Linux": "setsid steam steam://rungameid/570590",
+        "macOS": "open steam://rungameid/570590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/570590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "solitaire-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30081"
+}

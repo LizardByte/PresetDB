@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132565,
+  "name": "Haiku, the Robot",
+  "source_url": "https://www.igdb.com/games/haiku-the-robot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob12s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haiku, the Robot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1231880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1231880",
+        "Linux": "setsid steam steam://rungameid/1231880",
+        "macOS": "open steam://rungameid/1231880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1231880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "haiku-the-robot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132565"
+}

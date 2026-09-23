@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36288,
+  "name": "Gold Rush! Classic",
+  "source_url": "https://www.igdb.com/games/gold-rush-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxcv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gold Rush! Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "308000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/308000",
+        "Linux": "setsid steam steam://rungameid/308000",
+        "macOS": "open steam://rungameid/308000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/308000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gold-rush-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36288"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54305,
+  "name": "The Grandfather",
+  "source_url": "https://www.igdb.com/games/the-grandfather",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3x5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Grandfather",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433750",
+        "Linux": "setsid steam steam://rungameid/433750",
+        "macOS": "open steam://rungameid/433750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-grandfather",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54305"
+}

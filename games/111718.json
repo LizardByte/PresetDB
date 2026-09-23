@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111718,
+  "name": "Sister Travel",
+  "source_url": "https://www.igdb.com/games/sister-travel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co415h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sister Travel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959890",
+        "Linux": "setsid steam steam://rungameid/959890",
+        "macOS": "open steam://rungameid/959890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/959890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sister-travel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111718"
+}

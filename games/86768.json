@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86768,
+  "name": "Floogen",
+  "source_url": "https://www.igdb.com/games/floogen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Floogen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800830",
+        "Linux": "setsid steam steam://rungameid/800830",
+        "macOS": "open steam://rungameid/800830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/800830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "floogen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86768"
+}

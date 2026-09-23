@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31045,
+  "name": "GrottyScape",
+  "source_url": "https://www.igdb.com/games/grottyscape",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GrottyScape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "540310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/540310",
+        "Linux": "setsid steam steam://rungameid/540310",
+        "macOS": "open steam://rungameid/540310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/540310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grottyscape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31045"
+}

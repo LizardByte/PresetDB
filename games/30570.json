@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30570,
+  "name": "Echo Lake",
+  "source_url": "https://www.igdb.com/games/echo-lake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2b0h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo Lake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553740",
+        "Linux": "setsid steam steam://rungameid/553740",
+        "macOS": "open steam://rungameid/553740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/553740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "echo-lake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30570"
+}

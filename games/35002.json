@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35002,
+  "name": "Don'Yoku",
+  "source_url": "https://www.igdb.com/games/donyoku",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/hjwwou0o5kgdk7j6cqcd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don'Yoku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "380690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/380690",
+        "Linux": "setsid steam steam://rungameid/380690",
+        "macOS": "open steam://rungameid/380690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/380690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "donyoku",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35002"
+}

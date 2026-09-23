@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28902,
+  "name": "Arcade Tale",
+  "source_url": "https://www.igdb.com/games/arcade-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29ia.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "618030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/618030",
+        "Linux": "setsid steam steam://rungameid/618030",
+        "macOS": "open steam://rungameid/618030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/618030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "arcade-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28902"
+}

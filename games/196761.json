@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196761,
+  "name": "Kingdom Hearts IV",
+  "source_url": "https://www.igdb.com/games/kingdom-hearts-iv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp35.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingdom Hearts IV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3216600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3216600",
+        "Linux": "setsid steam steam://rungameid/3216600",
+        "macOS": "open steam://rungameid/3216600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3216600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kingdom-hearts-iv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196761"
+}

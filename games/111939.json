@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111939,
+  "name": "Proto-G",
+  "source_url": "https://www.igdb.com/games/proto-g",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co476t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Proto-G",
+      "os": null,
+      "method": "steam",
+      "launch_id": "975750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/975750",
+        "Linux": "setsid steam steam://rungameid/975750",
+        "macOS": "open steam://rungameid/975750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/975750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "proto-g",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111939"
+}

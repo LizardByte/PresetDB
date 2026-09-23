@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36231,
+  "name": "Oh My Gore!",
+  "source_url": "https://www.igdb.com/games/oh-my-gore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qk1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oh My Gore!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "319760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/319760",
+        "Linux": "setsid steam steam://rungameid/319760",
+        "macOS": "open steam://rungameid/319760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/319760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "oh-my-gore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36231"
+}

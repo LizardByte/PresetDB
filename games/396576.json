@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396576,
+  "name": "Neat",
+  "source_url": "https://www.igdb.com/games/neat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coburk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4300090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4300090",
+        "Linux": "setsid steam steam://rungameid/4300090",
+        "macOS": "open steam://rungameid/4300090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4300090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "neat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396576"
+}

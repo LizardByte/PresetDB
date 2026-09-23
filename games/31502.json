@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31502,
+  "name": "DWVR",
+  "source_url": "https://www.igdb.com/games/dwvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DWVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "520750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/520750",
+        "Linux": "setsid steam steam://rungameid/520750",
+        "macOS": "open steam://rungameid/520750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/520750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dwvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31502"
+}

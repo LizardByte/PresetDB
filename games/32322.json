@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32322,
+  "name": "Veterans Online",
+  "source_url": "https://www.igdb.com/games/veterans-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vas.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Veterans Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "492840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/492840",
+        "Linux": "setsid steam steam://rungameid/492840",
+        "macOS": "open steam://rungameid/492840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/492840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "veterans-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32322"
+}

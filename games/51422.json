@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51422,
+  "name": "Ghosts of Miami",
+  "source_url": "https://www.igdb.com/games/ghosts-of-miami",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghosts of Miami",
+      "os": null,
+      "method": "steam",
+      "launch_id": "677300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/677300",
+        "Linux": "setsid steam steam://rungameid/677300",
+        "macOS": "open steam://rungameid/677300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/677300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghosts-of-miami",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51422"
+}

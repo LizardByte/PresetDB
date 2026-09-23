@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83811,
+  "name": "Ninja Tycoon",
+  "source_url": "https://www.igdb.com/games/ninja-tycoon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ninja Tycoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779330",
+        "Linux": "setsid steam steam://rungameid/779330",
+        "macOS": "open steam://rungameid/779330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/779330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ninja-tycoon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83811"
+}

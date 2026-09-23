@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380619,
+  "name": "Little Bunny",
+  "source_url": "https://www.igdb.com/games/little-bunny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaytb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1285870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1285870",
+        "Linux": "setsid steam steam://rungameid/1285870",
+        "macOS": "open steam://rungameid/1285870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1285870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "little-bunny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380619"
+}

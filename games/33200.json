@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33200,
+  "name": "Amaranthine",
+  "source_url": "https://www.igdb.com/games/amaranthine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7lm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amaranthine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454900",
+        "Linux": "setsid steam steam://rungameid/454900",
+        "macOS": "open steam://rungameid/454900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amaranthine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33200"
+}

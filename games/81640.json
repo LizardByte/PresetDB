@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81640,
+  "name": "Kommersant",
+  "source_url": "https://www.igdb.com/games/kommersant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbom.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kommersant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "778870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/778870",
+        "Linux": "setsid steam steam://rungameid/778870",
+        "macOS": "open steam://rungameid/778870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/778870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kommersant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81640"
+}

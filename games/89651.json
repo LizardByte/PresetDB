@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89651,
+  "name": "Movit",
+  "source_url": "https://www.igdb.com/games/movit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe63.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Movit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801380",
+        "Linux": "setsid steam steam://rungameid/801380",
+        "macOS": "open steam://rungameid/801380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "movit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89651"
+}

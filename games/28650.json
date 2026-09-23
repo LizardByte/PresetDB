@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28650,
+  "name": "Welcome to Moreytown",
+  "source_url": "https://www.igdb.com/games/welcome-to-moreytown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9721.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Moreytown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "625990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/625990",
+        "Linux": "setsid steam steam://rungameid/625990",
+        "macOS": "open steam://rungameid/625990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/625990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "welcome-to-moreytown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28650"
+}

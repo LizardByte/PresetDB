@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203538,
+  "name": "Final Fantasy VIII",
+  "source_url": "https://www.igdb.com/games/final-fantasy-viii--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4tsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy VIII",
+      "os": null,
+      "method": "steam",
+      "launch_id": "39150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/39150",
+        "Linux": "setsid steam steam://rungameid/39150",
+        "macOS": "open steam://rungameid/39150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/39150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "final-fantasy-viii--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203538"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32323,
+  "name": "Astroderps",
+  "source_url": "https://www.igdb.com/games/astroderps",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astroderps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "492850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/492850",
+        "Linux": "setsid steam steam://rungameid/492850",
+        "macOS": "open steam://rungameid/492850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/492850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "astroderps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32323"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32687,
+  "name": "Legend of Miro",
+  "source_url": "https://www.igdb.com/games/legend-of-miro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7kt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legend of Miro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "469980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/469980",
+        "Linux": "setsid steam steam://rungameid/469980",
+        "macOS": "open steam://rungameid/469980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/469980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "legend-of-miro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32687"
+}

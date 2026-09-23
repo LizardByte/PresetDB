@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9029,
+  "name": "Syder Arcade",
+  "source_url": "https://www.igdb.com/games/syder-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86ks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Syder Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "252310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/252310",
+        "Linux": "setsid steam steam://rungameid/252310",
+        "macOS": "open steam://rungameid/252310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/252310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "syder-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9029"
+}

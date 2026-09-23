@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76401,
+  "name": "the Strange Thing",
+  "source_url": "https://www.igdb.com/games/the-strange-thing",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "the Strange Thing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "749740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/749740",
+        "Linux": "setsid steam steam://rungameid/749740",
+        "macOS": "open steam://rungameid/749740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/749740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-strange-thing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76401"
+}

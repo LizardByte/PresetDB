@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360002,
+  "name": "Cats & Cups",
+  "source_url": "https://www.igdb.com/games/cats-and-cups",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8op.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cats & Cups",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3521410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3521410",
+        "Linux": "setsid steam steam://rungameid/3521410",
+        "macOS": "open steam://rungameid/3521410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3521410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cats-and-cups",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360002"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16533,
+  "name": "Edge of Space",
+  "source_url": "https://www.igdb.com/games/edge-of-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2143.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edge of Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "238240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/238240",
+        "Linux": "setsid steam steam://rungameid/238240",
+        "macOS": "open steam://rungameid/238240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/238240",
+      "protondb": {
+        "tier": "silver",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "edge-of-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16533"
+}

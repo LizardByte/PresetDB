@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393234,
+  "name": "Uninstall Simulator",
+  "source_url": "https://www.igdb.com/games/uninstall-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobolf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uninstall Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3998870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3998870",
+        "Linux": "setsid steam steam://rungameid/3998870",
+        "macOS": "open steam://rungameid/3998870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3998870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "uninstall-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393234"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 52249,
+  "name": "GravNewton",
+  "source_url": "https://www.igdb.com/games/gravnewton",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bir.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GravNewton",
+      "os": null,
+      "method": "steam",
+      "launch_id": "549100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/549100",
+        "Linux": "setsid steam steam://rungameid/549100",
+        "macOS": "open steam://rungameid/549100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/549100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gravnewton",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=52249"
+}

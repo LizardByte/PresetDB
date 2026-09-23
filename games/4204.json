@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4204,
+  "name": "Terminator Salvation",
+  "source_url": "https://www.igdb.com/games/terminator-salvation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cbm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terminator Salvation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "21080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/21080",
+        "Linux": "setsid steam steam://rungameid/21080",
+        "macOS": "open steam://rungameid/21080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/21080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "terminator-salvation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4204"
+}

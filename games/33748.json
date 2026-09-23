@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33748,
+  "name": "Parasite",
+  "source_url": "https://www.igdb.com/games/parasite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48px.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Parasite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434270",
+        "Linux": "setsid steam steam://rungameid/434270",
+        "macOS": "open steam://rungameid/434270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/434270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "parasite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33748"
+}

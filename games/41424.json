@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 41424,
+  "name": "Pirate",
+  "source_url": "https://www.igdb.com/games/pirate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "678470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/678470",
+        "Linux": "setsid steam steam://rungameid/678470",
+        "macOS": "open steam://rungameid/678470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/678470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pirate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=41424"
+}

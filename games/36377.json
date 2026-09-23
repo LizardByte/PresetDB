@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36377,
+  "name": "Oncoming Death Steam Edition",
+  "source_url": "https://www.igdb.com/games/oncoming-death-steam-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8t6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oncoming Death Steam Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "288000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/288000",
+        "Linux": "setsid steam steam://rungameid/288000",
+        "macOS": "open steam://rungameid/288000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/288000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "oncoming-death-steam-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36377"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16204,
+  "name": "Delve Deeper",
+  "source_url": "https://www.igdb.com/games/delve-deeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/kzlcbvbwkayhoiaqv7wg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Delve Deeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "63800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/63800",
+        "Linux": "setsid steam steam://rungameid/63800",
+        "macOS": "open steam://rungameid/63800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/63800",
+      "protondb": {
+        "tier": "silver",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "delve-deeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16204"
+}

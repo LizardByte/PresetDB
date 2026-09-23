@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111975,
+  "name": "Ironsmith Simulator",
+  "source_url": "https://www.igdb.com/games/ironsmith-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4486.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ironsmith Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978700",
+        "Linux": "setsid steam steam://rungameid/978700",
+        "macOS": "open steam://rungameid/978700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/978700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ironsmith-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111975"
+}

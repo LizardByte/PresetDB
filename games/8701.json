@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8701,
+  "name": "Dino D-Day",
+  "source_url": "https://www.igdb.com/games/dino-d-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw9a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dino D-Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "70000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/70000",
+        "Linux": "setsid steam steam://rungameid/70000",
+        "macOS": "open steam://rungameid/70000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/70000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dino-d-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8701"
+}

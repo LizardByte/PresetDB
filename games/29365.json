@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29365,
+  "name": "VectorWars",
+  "source_url": "https://www.igdb.com/games/vectorwars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ejr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VectorWars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600350",
+        "Linux": "setsid steam steam://rungameid/600350",
+        "macOS": "open steam://rungameid/600350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/600350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vectorwars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29365"
+}

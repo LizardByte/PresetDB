@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30137,
+  "name": "Scorch",
+  "source_url": "https://www.igdb.com/games/scorch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27d7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scorch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567220",
+        "Linux": "setsid steam steam://rungameid/567220",
+        "macOS": "open steam://rungameid/567220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/567220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "scorch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30137"
+}

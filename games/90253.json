@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90253,
+  "name": "Moe Jigsaw",
+  "source_url": "https://www.igdb.com/games/moe-jigsaw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20vr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moe Jigsaw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "785840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/785840",
+        "Linux": "setsid steam steam://rungameid/785840",
+        "macOS": "open steam://rungameid/785840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/785840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moe-jigsaw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90253"
+}

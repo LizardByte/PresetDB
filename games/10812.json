@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10812,
+  "name": "Satazius",
+  "source_url": "https://www.igdb.com/games/satazius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7oa7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Satazius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "203990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/203990",
+        "Linux": "setsid steam steam://rungameid/203990",
+        "macOS": "open steam://rungameid/203990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/203990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "satazius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10812"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123760,
+  "name": "Battle Siege Royale",
+  "source_url": "https://www.igdb.com/games/battle-siege-royale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m0o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Siege Royale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1100880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1100880",
+        "Linux": "setsid steam steam://rungameid/1100880",
+        "macOS": "open steam://rungameid/1100880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1100880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "battle-siege-royale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123760"
+}

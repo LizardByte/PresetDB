@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90130,
+  "name": "Drakeling Labs",
+  "source_url": "https://www.igdb.com/games/drakeling-labs",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drakeling Labs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "810100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/810100",
+        "Linux": "setsid steam steam://rungameid/810100",
+        "macOS": "open steam://rungameid/810100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/810100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "drakeling-labs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90130"
+}

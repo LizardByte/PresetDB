@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30781,
+  "name": "Perso",
+  "source_url": "https://www.igdb.com/games/perso",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobia5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Perso",
+      "os": null,
+      "method": "steam",
+      "launch_id": "543940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/543940",
+        "Linux": "setsid steam steam://rungameid/543940",
+        "macOS": "open steam://rungameid/543940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/543940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "perso",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30781"
+}

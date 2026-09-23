@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112768,
+  "name": "Rrrr",
+  "source_url": "https://www.igdb.com/games/rrrr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qj3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rrrr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "979900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/979900",
+        "Linux": "setsid steam steam://rungameid/979900",
+        "macOS": "open steam://rungameid/979900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/979900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rrrr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112768"
+}

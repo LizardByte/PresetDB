@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111780,
+  "name": "PomboTroll",
+  "source_url": "https://www.igdb.com/games/pombotroll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg86.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PomboTroll",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964170",
+        "Linux": "setsid steam steam://rungameid/964170",
+        "macOS": "open steam://rungameid/964170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/964170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pombotroll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111780"
+}

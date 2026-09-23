@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 87758,
+  "name": "Jammerball",
+  "source_url": "https://www.igdb.com/games/jammerball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobddz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jammerball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "658880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/658880",
+        "Linux": "setsid steam steam://rungameid/658880",
+        "macOS": "open steam://rungameid/658880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/658880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jammerball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=87758"
+}

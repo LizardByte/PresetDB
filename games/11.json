@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11,
+  "name": "Vampire: The Masquerade - Bloodlines",
+  "source_url": "https://www.igdb.com/games/vampire-the-masquerade-bloodlines",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2n14.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vampire: The Masquerade - Bloodlines",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2600",
+        "Linux": "setsid steam steam://rungameid/2600",
+        "macOS": "open steam://rungameid/2600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2600",
+      "protondb": {
+        "tier": "gold",
+        "reports": 105
+      }
+    }
+  ],
+  "igdb_slug": "vampire-the-masquerade-bloodlines",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11"
+}

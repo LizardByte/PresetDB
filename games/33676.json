@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33676,
+  "name": "Soup",
+  "source_url": "https://www.igdb.com/games/soup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jpj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "436480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/436480",
+        "Linux": "setsid steam steam://rungameid/436480",
+        "macOS": "open steam://rungameid/436480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/436480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "soup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33676"
+}

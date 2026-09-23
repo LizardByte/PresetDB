@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3670,
+  "name": "Shrek Forever After",
+  "source_url": "https://www.igdb.com/games/shrek-forever-after",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shrek Forever After",
+      "os": null,
+      "method": "steam",
+      "launch_id": "42660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/42660",
+        "Linux": "setsid steam steam://rungameid/42660",
+        "macOS": "open steam://rungameid/42660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/42660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shrek-forever-after",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3670"
+}

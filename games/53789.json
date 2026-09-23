@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 53789,
+  "name": "The Unknown",
+  "source_url": "https://www.igdb.com/games/the-unknown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2li5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Unknown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2422850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2422850",
+        "Linux": "setsid steam steam://rungameid/2422850",
+        "macOS": "open steam://rungameid/2422850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2422850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-unknown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=53789"
+}

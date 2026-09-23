@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35534,
+  "name": "APT",
+  "source_url": "https://www.igdb.com/games/apt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pfp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "APT",
+      "os": null,
+      "method": "steam",
+      "launch_id": "357690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/357690",
+        "Linux": "setsid steam steam://rungameid/357690",
+        "macOS": "open steam://rungameid/357690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/357690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "apt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35534"
+}

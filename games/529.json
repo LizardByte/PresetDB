@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 529,
+  "name": "Far Cry 3",
+  "source_url": "https://www.igdb.com/games/far-cry-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vpd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Far Cry 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "220240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/220240",
+        "Linux": "setsid steam steam://rungameid/220240",
+        "macOS": "open steam://rungameid/220240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/220240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "far-cry-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=529"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32070,
+  "name": "Totem",
+  "source_url": "https://www.igdb.com/games/totem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/zqz52plezppmmjxx8nkm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Totem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "501920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/501920",
+        "Linux": "setsid steam steam://rungameid/501920",
+        "macOS": "open steam://rungameid/501920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/501920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "totem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32070"
+}

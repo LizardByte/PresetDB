@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352394,
+  "name": "Push to Win",
+  "source_url": "https://www.igdb.com/games/push-to-win",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2oo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Push to Win",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3732900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3732900",
+        "Linux": "setsid steam steam://rungameid/3732900",
+        "macOS": "open steam://rungameid/3732900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3732900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "push-to-win",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352394"
+}

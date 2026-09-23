@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285847,
+  "name": "Something Something Spaceship",
+  "source_url": "https://www.igdb.com/games/something-something-spaceship",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qhs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Something Something Spaceship",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2471800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2471800",
+        "Linux": "setsid steam steam://rungameid/2471800",
+        "macOS": "open steam://rungameid/2471800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2471800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "something-something-spaceship",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285847"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32218,
+  "name": "Rise",
+  "source_url": "https://www.igdb.com/games/rise--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9aci.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "497060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/497060",
+        "Linux": "setsid steam steam://rungameid/497060",
+        "macOS": "open steam://rungameid/497060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/497060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rise--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32218"
+}

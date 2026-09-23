@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15743,
+  "name": "Quell Memento",
+  "source_url": "https://www.igdb.com/games/quell-memento",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co258f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quell Memento",
+      "os": null,
+      "method": "steam",
+      "launch_id": "348440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/348440",
+        "Linux": "setsid steam steam://rungameid/348440",
+        "macOS": "open steam://rungameid/348440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/348440",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "quell-memento",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15743"
+}

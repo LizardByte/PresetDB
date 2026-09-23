@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388958,
+  "name": "Party Champ",
+  "source_url": "https://www.igdb.com/games/party-champ",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh2i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Party Champ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3599680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3599680",
+        "Linux": "setsid steam steam://rungameid/3599680",
+        "macOS": "open steam://rungameid/3599680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3599680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "party-champ",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388958"
+}

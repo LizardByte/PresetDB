@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 72419,
+  "name": "Death's Maze",
+  "source_url": "https://www.igdb.com/games/deaths-maze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2aqz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death's Maze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "706400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/706400",
+        "Linux": "setsid steam steam://rungameid/706400",
+        "macOS": "open steam://rungameid/706400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/706400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deaths-maze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=72419"
+}

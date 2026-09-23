@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89383,
+  "name": "The Studio",
+  "source_url": "https://www.igdb.com/games/the-studio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkga.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Studio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "780150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/780150",
+        "Linux": "setsid steam steam://rungameid/780150",
+        "macOS": "open steam://rungameid/780150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/780150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-studio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89383"
+}

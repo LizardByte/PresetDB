@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357040,
+  "name": "Tester Wanted",
+  "source_url": "https://www.igdb.com/games/tester-wanted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa66o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tester Wanted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3899420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3899420",
+        "Linux": "setsid steam steam://rungameid/3899420",
+        "macOS": "open steam://rungameid/3899420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3899420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tester-wanted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357040"
+}

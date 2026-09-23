@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260305,
+  "name": "Spelly Cat",
+  "source_url": "https://www.igdb.com/games/spelly-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6wbm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spelly Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2445350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2445350",
+        "Linux": "setsid steam steam://rungameid/2445350",
+        "macOS": "open steam://rungameid/2445350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2445350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spelly-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260305"
+}

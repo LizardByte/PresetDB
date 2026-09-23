@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414867,
+  "name": "Scawy Game",
+  "source_url": "https://www.igdb.com/games/scawy-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scawy Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4992660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4992660",
+        "Linux": "setsid steam steam://rungameid/4992660",
+        "macOS": "open steam://rungameid/4992660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4992660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "scawy-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414867"
+}

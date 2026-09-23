@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377417,
+  "name": "AAA",
+  "source_url": "https://www.igdb.com/games/aaa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coau4g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AAA",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3408350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3408350",
+        "Linux": "setsid steam steam://rungameid/3408350",
+        "macOS": "open steam://rungameid/3408350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3408350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aaa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377417"
+}

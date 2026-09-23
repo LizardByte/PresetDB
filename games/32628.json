@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32628,
+  "name": "BomberZone",
+  "source_url": "https://www.igdb.com/games/bomberzone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BomberZone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "473140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/473140",
+        "Linux": "setsid steam steam://rungameid/473140",
+        "macOS": "open steam://rungameid/473140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/473140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bomberzone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32628"
+}

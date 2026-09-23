@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109308,
+  "name": "Pinup Ball",
+  "source_url": "https://www.igdb.com/games/pinup-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vbt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinup Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904900",
+        "Linux": "setsid steam steam://rungameid/904900",
+        "macOS": "open steam://rungameid/904900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/904900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pinup-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109308"
+}

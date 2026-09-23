@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303304,
+  "name": "Murky Divers",
+  "source_url": "https://www.igdb.com/games/murky-divers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89oh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Murky Divers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2963880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2963880",
+        "Linux": "setsid steam steam://rungameid/2963880",
+        "macOS": "open steam://rungameid/2963880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2963880",
+      "protondb": {
+        "tier": "gold",
+        "reports": 22
+      }
+    }
+  ],
+  "igdb_slug": "murky-divers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303304"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17129,
+  "name": "Lost Squad",
+  "source_url": "https://www.igdb.com/games/lost-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co391w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "284080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/284080",
+        "Linux": "setsid steam steam://rungameid/284080",
+        "macOS": "open steam://rungameid/284080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/284080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17129"
+}

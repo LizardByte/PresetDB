@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111505,
+  "name": "VICCP",
+  "source_url": "https://www.igdb.com/games/viccp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ons.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VICCP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950700",
+        "Linux": "setsid steam steam://rungameid/950700",
+        "macOS": "open steam://rungameid/950700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/950700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "viccp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111505"
+}

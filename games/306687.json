@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306687,
+  "name": "Desktop Pals",
+  "source_url": "https://www.igdb.com/games/desktop-pals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Pals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2614720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2614720",
+        "Linux": "setsid steam steam://rungameid/2614720",
+        "macOS": "open steam://rungameid/2614720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2614720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "desktop-pals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306687"
+}

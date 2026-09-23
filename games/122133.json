@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122133,
+  "name": "Not for Broadcast",
+  "source_url": "https://www.igdb.com/games/not-for-broadcast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bcn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not for Broadcast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1147550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1147550",
+        "Linux": "setsid steam steam://rungameid/1147550",
+        "macOS": "open steam://rungameid/1147550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1147550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "not-for-broadcast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122133"
+}

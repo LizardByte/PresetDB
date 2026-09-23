@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55371,
+  "name": "WireNet",
+  "source_url": "https://www.igdb.com/games/wirenet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob56d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WireNet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "687510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/687510",
+        "Linux": "setsid steam steam://rungameid/687510",
+        "macOS": "open steam://rungameid/687510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/687510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wirenet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55371"
+}

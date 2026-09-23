@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 61686,
+  "name": "The Cube",
+  "source_url": "https://www.igdb.com/games/the-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27v4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "726650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/726650",
+        "Linux": "setsid steam steam://rungameid/726650",
+        "macOS": "open steam://rungameid/726650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/726650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=61686"
+}

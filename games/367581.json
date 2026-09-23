@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367581,
+  "name": "Ben's World",
+  "source_url": "https://www.igdb.com/games/bens-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coah1h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ben's World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1850020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1850020",
+        "Linux": "setsid steam steam://rungameid/1850020",
+        "macOS": "open steam://rungameid/1850020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1850020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bens-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367581"
+}

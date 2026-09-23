@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56677,
+  "name": "Brinko",
+  "source_url": "https://www.igdb.com/games/brinko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a0q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brinko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "701020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/701020",
+        "Linux": "setsid steam steam://rungameid/701020",
+        "macOS": "open steam://rungameid/701020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/701020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brinko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56677"
+}

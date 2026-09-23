@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376092,
+  "name": "Silly Survivors",
+  "source_url": "https://www.igdb.com/games/silly-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw90.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silly Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4077800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4077800",
+        "Linux": "setsid steam steam://rungameid/4077800",
+        "macOS": "open steam://rungameid/4077800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4077800",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "silly-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376092"
+}

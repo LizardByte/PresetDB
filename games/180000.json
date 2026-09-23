@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180000,
+  "name": "Tep the Destroyer",
+  "source_url": "https://www.igdb.com/games/tep-the-destroyer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47sm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tep the Destroyer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1806610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1806610",
+        "Linux": "setsid steam steam://rungameid/1806610",
+        "macOS": "open steam://rungameid/1806610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1806610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tep-the-destroyer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180000"
+}

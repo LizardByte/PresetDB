@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104033,
+  "name": "Squirgle",
+  "source_url": "https://www.igdb.com/games/squirgle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0mx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squirgle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843130",
+        "Linux": "setsid steam steam://rungameid/843130",
+        "macOS": "open steam://rungameid/843130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/843130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "squirgle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104033"
+}

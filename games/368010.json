@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368010,
+  "name": "The Bond",
+  "source_url": "https://www.igdb.com/games/the-bond",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahfc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Bond",
+      "os": null,
+      "method": "steam",
+      "launch_id": "911250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/911250",
+        "Linux": "setsid steam steam://rungameid/911250",
+        "macOS": "open steam://rungameid/911250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/911250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-bond",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368010"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1653,
+  "name": "Streets of Rage 2",
+  "source_url": "https://www.igdb.com/games/streets-of-rage-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49sn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Streets of Rage 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "71165",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/71165",
+        "Linux": "setsid steam steam://rungameid/71165",
+        "macOS": "open steam://rungameid/71165"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/71165",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "streets-of-rage-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1653"
+}

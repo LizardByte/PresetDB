@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10382,
+  "name": "Guncraft",
+  "source_url": "https://www.igdb.com/games/guncraft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2w51.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guncraft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "241720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/241720",
+        "Linux": "setsid steam steam://rungameid/241720",
+        "macOS": "open steam://rungameid/241720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/241720",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "guncraft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10382"
+}

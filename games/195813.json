@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195813,
+  "name": "SpectrumGames",
+  "source_url": "https://www.igdb.com/games/spectrumgames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ow2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpectrumGames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1915220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1915220",
+        "Linux": "setsid steam steam://rungameid/1915220",
+        "macOS": "open steam://rungameid/1915220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1915220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spectrumgames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195813"
+}

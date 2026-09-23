@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113307,
+  "name": "Mutland",
+  "source_url": "https://www.igdb.com/games/mutland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mutland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978110",
+        "Linux": "setsid steam steam://rungameid/978110",
+        "macOS": "open steam://rungameid/978110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/978110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mutland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113307"
+}

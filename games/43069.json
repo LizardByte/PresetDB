@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43069,
+  "name": "Liberty VR",
+  "source_url": "https://www.igdb.com/games/liberty-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob93v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liberty VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649660",
+        "Linux": "setsid steam steam://rungameid/649660",
+        "macOS": "open steam://rungameid/649660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "liberty-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43069"
+}

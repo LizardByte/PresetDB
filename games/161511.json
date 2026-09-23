@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161511,
+  "name": "Stalker",
+  "source_url": "https://www.igdb.com/games/stalker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co420u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stalker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1243580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1243580",
+        "Linux": "setsid steam steam://rungameid/1243580",
+        "macOS": "open steam://rungameid/1243580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1243580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stalker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161511"
+}

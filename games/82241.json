@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82241,
+  "name": "Subscribe & Punch!",
+  "source_url": "https://www.igdb.com/games/subscribe-and-punch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobclf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Subscribe & Punch!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "773150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/773150",
+        "Linux": "setsid steam steam://rungameid/773150",
+        "macOS": "open steam://rungameid/773150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/773150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "subscribe-and-punch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82241"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84025,
+  "name": "Aiden",
+  "source_url": "https://www.igdb.com/games/aiden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5nb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aiden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "783060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/783060",
+        "Linux": "setsid steam steam://rungameid/783060",
+        "macOS": "open steam://rungameid/783060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/783060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aiden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84025"
+}

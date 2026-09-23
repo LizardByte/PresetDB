@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30303,
+  "name": "Necroball",
+  "source_url": "https://www.igdb.com/games/necroball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/fvmudr6zvfkssves0ov9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Necroball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "563410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/563410",
+        "Linux": "setsid steam steam://rungameid/563410",
+        "macOS": "open steam://rungameid/563410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/563410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "necroball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30303"
+}

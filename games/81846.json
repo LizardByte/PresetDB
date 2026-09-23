@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81846,
+  "name": "Amazing Trivia",
+  "source_url": "https://www.igdb.com/games/amazing-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23w3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amazing Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771320",
+        "Linux": "setsid steam steam://rungameid/771320",
+        "macOS": "open steam://rungameid/771320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/771320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amazing-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81846"
+}

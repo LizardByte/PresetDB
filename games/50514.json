@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50514,
+  "name": "Skyfall",
+  "source_url": "https://www.igdb.com/games/skyfall",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skyfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "659100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/659100",
+        "Linux": "setsid steam steam://rungameid/659100",
+        "macOS": "open steam://rungameid/659100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/659100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skyfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50514"
+}

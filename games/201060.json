@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201060,
+  "name": "Victim",
+  "source_url": "https://www.igdb.com/games/victim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i08.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Victim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1984240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1984240",
+        "Linux": "setsid steam steam://rungameid/1984240",
+        "macOS": "open steam://rungameid/1984240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1984240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "victim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201060"
+}

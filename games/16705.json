@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16705,
+  "name": "KnightShift",
+  "source_url": "https://www.igdb.com/games/knightshift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1q6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KnightShift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "254060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/254060",
+        "Linux": "setsid steam steam://rungameid/254060",
+        "macOS": "open steam://rungameid/254060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/254060",
+      "protondb": {
+        "tier": "silver",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "knightshift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16705"
+}

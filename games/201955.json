@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201955,
+  "name": "Run Hare Run",
+  "source_url": "https://www.igdb.com/games/run-hare-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o6g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Hare Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1212870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1212870",
+        "Linux": "setsid steam steam://rungameid/1212870",
+        "macOS": "open steam://rungameid/1212870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1212870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-hare-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201955"
+}

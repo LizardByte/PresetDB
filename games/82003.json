@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82003,
+  "name": "In Between Games",
+  "source_url": "https://www.igdb.com/games/in-between-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43jc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Between Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779700",
+        "Linux": "setsid steam steam://rungameid/779700",
+        "macOS": "open steam://rungameid/779700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/779700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "in-between-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82003"
+}

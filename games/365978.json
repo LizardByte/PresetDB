@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365978,
+  "name": "WinMon",
+  "source_url": "https://www.igdb.com/games/winmon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocx53.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WinMon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3681780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3681780",
+        "Linux": "setsid steam steam://rungameid/3681780",
+        "macOS": "open steam://rungameid/3681780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3681780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "winmon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365978"
+}

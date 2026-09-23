@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250000,
+  "name": "Loot and Shoot",
+  "source_url": "https://www.igdb.com/games/loot-and-shoot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r17.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loot and Shoot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2397260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2397260",
+        "Linux": "setsid steam steam://rungameid/2397260",
+        "macOS": "open steam://rungameid/2397260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2397260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "loot-and-shoot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250000"
+}

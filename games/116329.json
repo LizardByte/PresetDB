@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116329,
+  "name": "Senity: The Game",
+  "source_url": "https://www.igdb.com/games/senity-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40yc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Senity: The Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1047600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1047600",
+        "Linux": "setsid steam steam://rungameid/1047600",
+        "macOS": "open steam://rungameid/1047600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1047600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "senity-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116329"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390346,
+  "name": "The Last Legion",
+  "source_url": "https://www.igdb.com/games/the-last-legion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Legion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4183000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4183000",
+        "Linux": "setsid steam steam://rungameid/4183000",
+        "macOS": "open steam://rungameid/4183000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4183000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-last-legion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390346"
+}

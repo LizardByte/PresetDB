@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305234,
+  "name": "Monopoly",
+  "source_url": "https://www.igdb.com/games/monopoly--19",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalqb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monopoly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2929170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2929170",
+        "Linux": "setsid steam steam://rungameid/2929170",
+        "macOS": "open steam://rungameid/2929170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2929170",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "monopoly--19",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305234"
+}

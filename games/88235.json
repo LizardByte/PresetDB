@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88235,
+  "name": "Hollow Steps",
+  "source_url": "https://www.igdb.com/games/hollow-steps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42ib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hollow Steps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802900",
+        "Linux": "setsid steam steam://rungameid/802900",
+        "macOS": "open steam://rungameid/802900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/802900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hollow-steps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88235"
+}

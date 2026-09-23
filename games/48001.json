@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 48001,
+  "name": "Chicken Wars",
+  "source_url": "https://www.igdb.com/games/chicken-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26ro.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chicken Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "668790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/668790",
+        "Linux": "setsid steam steam://rungameid/668790",
+        "macOS": "open steam://rungameid/668790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/668790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chicken-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=48001"
+}

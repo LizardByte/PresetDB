@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2473,
+  "name": "Disney's Aladdin",
+  "source_url": "https://www.igdb.com/games/disney-s-aladdin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fan.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disney's Aladdin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "561100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/561100",
+        "Linux": "setsid steam steam://rungameid/561100",
+        "macOS": "open steam://rungameid/561100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/561100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "disney-s-aladdin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2473"
+}

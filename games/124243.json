@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124243,
+  "name": "Parity",
+  "source_url": "https://www.igdb.com/games/parity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3quc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Parity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978660",
+        "Linux": "setsid steam steam://rungameid/978660",
+        "macOS": "open steam://rungameid/978660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/978660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "parity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124243"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82358,
+  "name": "Adonis",
+  "source_url": "https://www.igdb.com/games/adonis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27kz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adonis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "785830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/785830",
+        "Linux": "setsid steam steam://rungameid/785830",
+        "macOS": "open steam://rungameid/785830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/785830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "adonis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82358"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34881,
+  "name": "The Last Warlock",
+  "source_url": "https://www.igdb.com/games/the-last-warlock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43wz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Warlock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "385060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/385060",
+        "Linux": "setsid steam steam://rungameid/385060",
+        "macOS": "open steam://rungameid/385060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/385060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-last-warlock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34881"
+}

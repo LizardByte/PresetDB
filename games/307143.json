@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 307143,
+  "name": "Unplagued",
+  "source_url": "https://www.igdb.com/games/unplagued",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ezg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unplagued",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3062930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3062930",
+        "Linux": "setsid steam steam://rungameid/3062930",
+        "macOS": "open steam://rungameid/3062930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3062930",
+      "protondb": {
+        "tier": "silver",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "unplagued",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=307143"
+}

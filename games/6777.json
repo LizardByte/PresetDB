@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6777,
+  "name": "The Impossible Game",
+  "source_url": "https://www.igdb.com/games/the-impossible-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2x7b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Impossible Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "251630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/251630",
+        "Linux": "setsid steam steam://rungameid/251630",
+        "macOS": "open steam://rungameid/251630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/251630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-impossible-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6777"
+}

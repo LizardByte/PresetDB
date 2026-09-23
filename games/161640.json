@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161640,
+  "name": "The Worst Game Ever",
+  "source_url": "https://www.igdb.com/games/the-worst-game-ever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44l7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Worst Game Ever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1409520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1409520",
+        "Linux": "setsid steam steam://rungameid/1409520",
+        "macOS": "open steam://rungameid/1409520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1409520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-worst-game-ever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161640"
+}

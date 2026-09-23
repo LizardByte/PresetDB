@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26371,
+  "name": "King Lucas",
+  "source_url": "https://www.igdb.com/games/king-lucas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zud.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Lucas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "391600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/391600",
+        "Linux": "setsid steam steam://rungameid/391600",
+        "macOS": "open steam://rungameid/391600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/391600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "king-lucas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26371"
+}

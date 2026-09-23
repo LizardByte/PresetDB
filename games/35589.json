@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35589,
+  "name": "Red Lake",
+  "source_url": "https://www.igdb.com/games/red-lake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Lake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "357290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/357290",
+        "Linux": "setsid steam steam://rungameid/357290",
+        "macOS": "open steam://rungameid/357290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/357290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "red-lake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35589"
+}

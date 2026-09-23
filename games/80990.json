@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80990,
+  "name": "Zero Days VR",
+  "source_url": "https://www.igdb.com/games/zero-days-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob55x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zero Days VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "754930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/754930",
+        "Linux": "setsid steam steam://rungameid/754930",
+        "macOS": "open steam://rungameid/754930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/754930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zero-days-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80990"
+}

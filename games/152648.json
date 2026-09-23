@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152648,
+  "name": "Welcome to Lakewood",
+  "source_url": "https://www.igdb.com/games/welcome-to-lakewood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46pb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Lakewood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1651880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1651880",
+        "Linux": "setsid steam steam://rungameid/1651880",
+        "macOS": "open steam://rungameid/1651880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1651880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "welcome-to-lakewood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152648"
+}

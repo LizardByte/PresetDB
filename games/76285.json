@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76285,
+  "name": "Space Dragon",
+  "source_url": "https://www.igdb.com/games/space-dragon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27dx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Dragon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "716000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/716000",
+        "Linux": "setsid steam steam://rungameid/716000",
+        "macOS": "open steam://rungameid/716000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/716000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "space-dragon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76285"
+}

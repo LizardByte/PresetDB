@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16777,
+  "name": "Dead Sky",
+  "source_url": "https://www.igdb.com/games/dead-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/sb8jk8z5xhmbgqudyyvj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "259700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/259700",
+        "Linux": "setsid steam steam://rungameid/259700",
+        "macOS": "open steam://rungameid/259700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/259700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dead-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16777"
+}

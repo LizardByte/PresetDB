@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391785,
+  "name": "Grim",
+  "source_url": "https://www.igdb.com/games/grim--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobobj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3606000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3606000",
+        "Linux": "setsid steam steam://rungameid/3606000",
+        "macOS": "open steam://rungameid/3606000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3606000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grim--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391785"
+}

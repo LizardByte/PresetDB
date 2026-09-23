@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5378,
+  "name": "Ecco the Dolphin",
+  "source_url": "https://www.igdb.com/games/ecco-the-dolphin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23oy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ecco the Dolphin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "34274",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/34274",
+        "Linux": "setsid steam steam://rungameid/34274",
+        "macOS": "open steam://rungameid/34274"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/34274",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ecco-the-dolphin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5378"
+}

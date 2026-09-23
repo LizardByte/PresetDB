@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 504,
+  "name": "Fable III",
+  "source_url": "https://www.igdb.com/games/fable-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co231s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fable III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "105400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/105400",
+        "Linux": "setsid steam steam://rungameid/105400",
+        "macOS": "open steam://rungameid/105400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/105400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fable-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=504"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211807,
+  "name": "Mobmania",
+  "source_url": "https://www.igdb.com/games/mobmania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ih5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mobmania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2099220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2099220",
+        "Linux": "setsid steam steam://rungameid/2099220",
+        "macOS": "open steam://rungameid/2099220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2099220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mobmania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211807"
+}

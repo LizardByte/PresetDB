@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382742,
+  "name": "Run Giraffe Run",
+  "source_url": "https://www.igdb.com/games/run-giraffe-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob412.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Giraffe Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4260550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4260550",
+        "Linux": "setsid steam steam://rungameid/4260550",
+        "macOS": "open steam://rungameid/4260550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4260550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-giraffe-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382742"
+}

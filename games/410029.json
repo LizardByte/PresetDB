@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410029,
+  "name": "Jamhouse",
+  "source_url": "https://www.igdb.com/games/jamhouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coce11.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jamhouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4300020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4300020",
+        "Linux": "setsid steam steam://rungameid/4300020",
+        "macOS": "open steam://rungameid/4300020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4300020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jamhouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410029"
+}

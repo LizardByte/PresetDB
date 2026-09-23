@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10054,
+  "name": "Blob from Space",
+  "source_url": "https://www.igdb.com/games/blob-from-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a4t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blob from Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315070",
+        "Linux": "setsid steam steam://rungameid/315070",
+        "macOS": "open steam://rungameid/315070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/315070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blob-from-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10054"
+}

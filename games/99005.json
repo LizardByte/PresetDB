@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99005,
+  "name": "The Dark Inside Me",
+  "source_url": "https://www.igdb.com/games/the-dark-inside-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4o8e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dark Inside Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "345230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/345230",
+        "Linux": "setsid steam steam://rungameid/345230",
+        "macOS": "open steam://rungameid/345230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/345230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-dark-inside-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99005"
+}

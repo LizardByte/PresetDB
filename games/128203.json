@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128203,
+  "name": "Millions of Minions",
+  "source_url": "https://www.igdb.com/games/millions-of-minions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c4w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Millions of Minions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1219420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1219420",
+        "Linux": "setsid steam steam://rungameid/1219420",
+        "macOS": "open steam://rungameid/1219420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1219420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "millions-of-minions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128203"
+}

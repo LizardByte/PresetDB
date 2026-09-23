@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111617,
+  "name": "Kubble",
+  "source_url": "https://www.igdb.com/games/kubble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobim7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kubble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "953950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/953950",
+        "Linux": "setsid steam steam://rungameid/953950",
+        "macOS": "open steam://rungameid/953950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/953950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kubble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111617"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150463,
+  "name": "Draw & Guess",
+  "source_url": "https://www.igdb.com/games/draw-and-guess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7sv1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Draw & Guess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1483870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1483870",
+        "Linux": "setsid steam steam://rungameid/1483870",
+        "macOS": "open steam://rungameid/1483870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1483870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "draw-and-guess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150463"
+}

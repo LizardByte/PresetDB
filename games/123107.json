@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123107,
+  "name": "LoveSick Darlings",
+  "source_url": "https://www.igdb.com/games/lovesick-darlings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25ao.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LoveSick Darlings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1151410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1151410",
+        "Linux": "setsid steam steam://rungameid/1151410",
+        "macOS": "open steam://rungameid/1151410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1151410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lovesick-darlings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123107"
+}

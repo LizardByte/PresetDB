@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55698,
+  "name": "Yama",
+  "source_url": "https://www.igdb.com/games/yama",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl55.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yama",
+      "os": null,
+      "method": "steam",
+      "launch_id": "661610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/661610",
+        "Linux": "setsid steam steam://rungameid/661610",
+        "macOS": "open steam://rungameid/661610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/661610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yama",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55698"
+}

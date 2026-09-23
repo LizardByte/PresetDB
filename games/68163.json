@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68163,
+  "name": "RoadRunner VR",
+  "source_url": "https://www.igdb.com/games/roadrunner-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkmt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RoadRunner VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "691640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/691640",
+        "Linux": "setsid steam steam://rungameid/691640",
+        "macOS": "open steam://rungameid/691640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/691640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "roadrunner-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68163"
+}

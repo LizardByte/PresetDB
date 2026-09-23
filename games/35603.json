@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35603,
+  "name": "Brave Furries",
+  "source_url": "https://www.igdb.com/games/brave-furries",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rxa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Furries",
+      "os": null,
+      "method": "steam",
+      "launch_id": "355280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/355280",
+        "Linux": "setsid steam steam://rungameid/355280",
+        "macOS": "open steam://rungameid/355280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/355280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brave-furries",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35603"
+}

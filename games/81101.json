@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81101,
+  "name": "Progeny VR",
+  "source_url": "https://www.igdb.com/games/progeny-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbyz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Progeny VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "743000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/743000",
+        "Linux": "setsid steam steam://rungameid/743000",
+        "macOS": "open steam://rungameid/743000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/743000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "progeny-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81101"
+}

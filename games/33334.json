@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33334,
+  "name": "DinoOps",
+  "source_url": "https://www.igdb.com/games/dinoops",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9js2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DinoOps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "449280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/449280",
+        "Linux": "setsid steam steam://rungameid/449280",
+        "macOS": "open steam://rungameid/449280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/449280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dinoops",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33334"
+}

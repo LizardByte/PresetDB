@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201432,
+  "name": "Save All Monsters!",
+  "source_url": "https://www.igdb.com/games/save-all-monsters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kpq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save All Monsters!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1987490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1987490",
+        "Linux": "setsid steam steam://rungameid/1987490",
+        "macOS": "open steam://rungameid/1987490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1987490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "save-all-monsters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201432"
+}

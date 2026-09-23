@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82014,
+  "name": "Nine",
+  "source_url": "https://www.igdb.com/games/nine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob37m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "582440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/582440",
+        "Linux": "setsid steam steam://rungameid/582440",
+        "macOS": "open steam://rungameid/582440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/582440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82014"
+}

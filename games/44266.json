@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 44266,
+  "name": "Survivor VR",
+  "source_url": "https://www.igdb.com/games/survivor-vr",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Survivor VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "665880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/665880",
+        "Linux": "setsid steam steam://rungameid/665880",
+        "macOS": "open steam://rungameid/665880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/665880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "survivor-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=44266"
+}

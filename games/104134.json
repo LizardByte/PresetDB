@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104134,
+  "name": "VR Flush",
+  "source_url": "https://www.igdb.com/games/vr-flush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97zt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Flush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "866540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/866540",
+        "Linux": "setsid steam steam://rungameid/866540",
+        "macOS": "open steam://rungameid/866540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/866540",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "vr-flush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104134"
+}

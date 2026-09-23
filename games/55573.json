@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55573,
+  "name": "Stellatum",
+  "source_url": "https://www.igdb.com/games/stellatum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24cp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stellatum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "691630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/691630",
+        "Linux": "setsid steam steam://rungameid/691630",
+        "macOS": "open steam://rungameid/691630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/691630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stellatum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55573"
+}

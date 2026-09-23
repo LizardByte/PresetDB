@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414769,
+  "name": "No Clean, No Exit",
+  "source_url": "https://www.igdb.com/games/no-clean-no-exit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocr3g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Clean, No Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5111530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5111530",
+        "Linux": "setsid steam steam://rungameid/5111530",
+        "macOS": "open steam://rungameid/5111530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5111530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "no-clean-no-exit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414769"
+}

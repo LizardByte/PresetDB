@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 46486,
+  "name": "MicroSpy",
+  "source_url": "https://www.igdb.com/games/microspy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MicroSpy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "669570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/669570",
+        "Linux": "setsid steam steam://rungameid/669570",
+        "macOS": "open steam://rungameid/669570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/669570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "microspy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=46486"
+}

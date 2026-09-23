@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111966,
+  "name": "Moi Mei",
+  "source_url": "https://www.igdb.com/games/moi-mei",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lhc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moi Mei",
+      "os": null,
+      "method": "steam",
+      "launch_id": "979160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/979160",
+        "Linux": "setsid steam steam://rungameid/979160",
+        "macOS": "open steam://rungameid/979160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/979160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moi-mei",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111966"
+}

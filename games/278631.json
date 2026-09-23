@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 278631,
+  "name": "StreamWare",
+  "source_url": "https://www.igdb.com/games/streamware",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StreamWare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2612360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2612360",
+        "Linux": "setsid steam steam://rungameid/2612360",
+        "macOS": "open steam://rungameid/2612360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2612360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "streamware",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=278631"
+}

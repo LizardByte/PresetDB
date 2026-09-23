@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75058,
+  "name": "Evil Star",
+  "source_url": "https://www.igdb.com/games/evil-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qfo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "701540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/701540",
+        "Linux": "setsid steam steam://rungameid/701540",
+        "macOS": "open steam://rungameid/701540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/701540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "evil-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75058"
+}

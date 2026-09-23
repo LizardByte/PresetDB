@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310206,
+  "name": "Nullstar: Solus",
+  "source_url": "https://www.igdb.com/games/nullstar-solus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92fh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nullstar: Solus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3094210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3094210",
+        "Linux": "setsid steam steam://rungameid/3094210",
+        "macOS": "open steam://rungameid/3094210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3094210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nullstar-solus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310206"
+}

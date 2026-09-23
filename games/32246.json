@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32246,
+  "name": "Push the Crate",
+  "source_url": "https://www.igdb.com/games/push-the-crate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7c2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Push the Crate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "496610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/496610",
+        "Linux": "setsid steam steam://rungameid/496610",
+        "macOS": "open steam://rungameid/496610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/496610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "push-the-crate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32246"
+}

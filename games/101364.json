@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101364,
+  "name": "lilGunBois",
+  "source_url": "https://www.igdb.com/games/lilgunbois",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg50.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "lilGunBois",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860080",
+        "Linux": "setsid steam steam://rungameid/860080",
+        "macOS": "open steam://rungameid/860080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/860080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lilgunbois",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101364"
+}

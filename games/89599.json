@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89599,
+  "name": "Duder",
+  "source_url": "https://www.igdb.com/games/duder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe5w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "814770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/814770",
+        "Linux": "setsid steam steam://rungameid/814770",
+        "macOS": "open steam://rungameid/814770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/814770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "duder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89599"
+}

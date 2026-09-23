@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16108,
+  "name": "ItzaBitza",
+  "source_url": "https://www.igdb.com/games/itzabitza",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/e9jsegmzmskjnmcsqesl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ItzaBitza",
+      "os": null,
+      "method": "steam",
+      "launch_id": "40200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/40200",
+        "Linux": "setsid steam steam://rungameid/40200",
+        "macOS": "open steam://rungameid/40200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/40200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "itzabitza",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16108"
+}

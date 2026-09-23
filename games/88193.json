@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88193,
+  "name": "Golden Dungeons",
+  "source_url": "https://www.igdb.com/games/golden-dungeons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golden Dungeons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801020",
+        "Linux": "setsid steam steam://rungameid/801020",
+        "macOS": "open steam://rungameid/801020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "golden-dungeons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88193"
+}

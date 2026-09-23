@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403171,
+  "name": "Dodgebrawl",
+  "source_url": "https://www.igdb.com/games/dodgebrawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4kt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dodgebrawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3933900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3933900",
+        "Linux": "setsid steam steam://rungameid/3933900",
+        "macOS": "open steam://rungameid/3933900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3933900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dodgebrawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403171"
+}

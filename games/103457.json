@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103457,
+  "name": "Door",
+  "source_url": "https://www.igdb.com/games/door",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m26.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Door",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882560",
+        "Linux": "setsid steam steam://rungameid/882560",
+        "macOS": "open steam://rungameid/882560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/882560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "door",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103457"
+}

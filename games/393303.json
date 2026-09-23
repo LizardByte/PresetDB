@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393303,
+  "name": "DisGo",
+  "source_url": "https://www.igdb.com/games/disgo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobohk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DisGo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4309240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4309240",
+        "Linux": "setsid steam steam://rungameid/4309240",
+        "macOS": "open steam://rungameid/4309240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4309240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "disgo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393303"
+}

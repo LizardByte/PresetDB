@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32673,
+  "name": "De-Void",
+  "source_url": "https://www.igdb.com/games/de-void",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5l1r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "De-Void",
+      "os": null,
+      "method": "steam",
+      "launch_id": "468570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/468570",
+        "Linux": "setsid steam steam://rungameid/468570",
+        "macOS": "open steam://rungameid/468570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/468570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "de-void",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32673"
+}

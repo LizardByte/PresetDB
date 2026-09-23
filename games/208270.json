@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208270,
+  "name": "Yippy Cube",
+  "source_url": "https://www.igdb.com/games/yippy-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4yg1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yippy Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1822080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1822080",
+        "Linux": "setsid steam steam://rungameid/1822080",
+        "macOS": "open steam://rungameid/1822080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1822080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yippy-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208270"
+}

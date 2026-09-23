@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379714,
+  "name": "MicroMechanica",
+  "source_url": "https://www.igdb.com/games/micromechanica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax36.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MicroMechanica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4202130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4202130",
+        "Linux": "setsid steam steam://rungameid/4202130",
+        "macOS": "open steam://rungameid/4202130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4202130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "micromechanica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379714"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111640,
+  "name": "Burnouts",
+  "source_url": "https://www.igdb.com/games/burnouts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapun.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burnouts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "970820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/970820",
+        "Linux": "setsid steam steam://rungameid/970820",
+        "macOS": "open steam://rungameid/970820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/970820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "burnouts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111640"
+}

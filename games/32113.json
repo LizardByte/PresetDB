@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32113,
+  "name": "Epic Flail",
+  "source_url": "https://www.igdb.com/games/epic-flail",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7b0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Flail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500180",
+        "Linux": "setsid steam steam://rungameid/500180",
+        "macOS": "open steam://rungameid/500180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "epic-flail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32113"
+}

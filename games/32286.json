@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32286,
+  "name": "Savana",
+  "source_url": "https://www.igdb.com/games/savana",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf8j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Savana",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494970",
+        "Linux": "setsid steam steam://rungameid/494970",
+        "macOS": "open steam://rungameid/494970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/494970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "savana",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32286"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10700,
+  "name": "PixelJunk Eden",
+  "source_url": "https://www.igdb.com/games/pixeljunk-eden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co248h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PixelJunk Eden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "105800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/105800",
+        "Linux": "setsid steam steam://rungameid/105800",
+        "macOS": "open steam://rungameid/105800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/105800",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "pixeljunk-eden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10700"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204369,
+  "name": "FarmingCat",
+  "source_url": "https://www.igdb.com/games/farmingcat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ukc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FarmingCat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2003840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2003840",
+        "Linux": "setsid steam steam://rungameid/2003840",
+        "macOS": "open steam://rungameid/2003840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2003840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "farmingcat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204369"
+}

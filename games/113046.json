@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113046,
+  "name": "Fight or Flight",
+  "source_url": "https://www.igdb.com/games/fight-or-flight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fight or Flight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "775620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/775620",
+        "Linux": "setsid steam steam://rungameid/775620",
+        "macOS": "open steam://rungameid/775620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/775620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fight-or-flight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113046"
+}
