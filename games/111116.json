@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111116,
+  "name": "Badminton Warrior",
+  "source_url": "https://www.igdb.com/games/badminton-warrior",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3luv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Badminton Warrior",
+      "os": null,
+      "method": "steam",
+      "launch_id": "956360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/956360",
+        "Linux": "setsid steam steam://rungameid/956360",
+        "macOS": "open steam://rungameid/956360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/956360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "badminton-warrior",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111116"
+}

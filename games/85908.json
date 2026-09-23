@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 85908,
+  "name": "Tumblebugs",
+  "source_url": "https://www.igdb.com/games/tumblebugs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5npm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tumblebugs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1843880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1843880",
+        "Linux": "setsid steam steam://rungameid/1843880",
+        "macOS": "open steam://rungameid/1843880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1843880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tumblebugs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=85908"
+}

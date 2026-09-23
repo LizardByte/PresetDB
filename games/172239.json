@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172239,
+  "name": "Lo-Fi Lounge",
+  "source_url": "https://www.igdb.com/games/lo-fi-lounge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gwm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lo-Fi Lounge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1513180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1513180",
+        "Linux": "setsid steam steam://rungameid/1513180",
+        "macOS": "open steam://rungameid/1513180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1513180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lo-fi-lounge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172239"
+}

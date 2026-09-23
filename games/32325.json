@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32325,
+  "name": "Battle Knights",
+  "source_url": "https://www.igdb.com/games/battle-knights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/pfhaiuz2tchtyhvyude8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Knights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "493000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/493000",
+        "Linux": "setsid steam steam://rungameid/493000",
+        "macOS": "open steam://rungameid/493000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/493000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "battle-knights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32325"
+}

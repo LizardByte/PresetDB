@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17628,
+  "name": "The Abbey",
+  "source_url": "https://www.igdb.com/games/the-abbey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co430l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Abbey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "313200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/313200",
+        "Linux": "setsid steam steam://rungameid/313200",
+        "macOS": "open steam://rungameid/313200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/313200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-abbey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17628"
+}

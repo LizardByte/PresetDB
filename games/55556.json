@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55556,
+  "name": "Fjong",
+  "source_url": "https://www.igdb.com/games/fjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "694980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/694980",
+        "Linux": "setsid steam steam://rungameid/694980",
+        "macOS": "open steam://rungameid/694980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/694980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55556"
+}

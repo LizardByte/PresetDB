@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93729,
+  "name": "HeadOn!",
+  "source_url": "https://www.igdb.com/games/headon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf4t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HeadOn!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816730",
+        "Linux": "setsid steam steam://rungameid/816730",
+        "macOS": "open steam://rungameid/816730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/816730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "headon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93729"
+}

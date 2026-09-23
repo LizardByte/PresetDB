@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86523,
+  "name": "Warbot",
+  "source_url": "https://www.igdb.com/games/warbot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7zbl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warbot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "770270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/770270",
+        "Linux": "setsid steam steam://rungameid/770270",
+        "macOS": "open steam://rungameid/770270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/770270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "warbot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86523"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81188,
+  "name": "Yesterday",
+  "source_url": "https://www.igdb.com/games/yesterday--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4up.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yesterday",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649360",
+        "Linux": "setsid steam steam://rungameid/649360",
+        "macOS": "open steam://rungameid/649360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yesterday--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81188"
+}

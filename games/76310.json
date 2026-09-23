@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76310,
+  "name": "Metal Quest",
+  "source_url": "https://www.igdb.com/games/metal-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb6f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "754300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/754300",
+        "Linux": "setsid steam steam://rungameid/754300",
+        "macOS": "open steam://rungameid/754300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/754300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metal-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76310"
+}

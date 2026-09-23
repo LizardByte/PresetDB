@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157,
+  "name": "Star Wars: Dark Forces",
+  "source_url": "https://www.igdb.com/games/star-wars-dark-forces",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zdy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Dark Forces",
+      "os": null,
+      "method": "steam",
+      "launch_id": "32400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/32400",
+        "Linux": "setsid steam steam://rungameid/32400",
+        "macOS": "open steam://rungameid/32400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/32400",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 40
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-dark-forces",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157"
+}

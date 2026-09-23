@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35859,
+  "name": "Joe's Diner",
+  "source_url": "https://www.igdb.com/games/joes-diner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6uw5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Joe's Diner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "346040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/346040",
+        "Linux": "setsid steam steam://rungameid/346040",
+        "macOS": "open steam://rungameid/346040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/346040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "joes-diner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35859"
+}

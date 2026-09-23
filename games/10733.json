@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10733,
+  "name": "The Novelist",
+  "source_url": "https://www.igdb.com/games/the-novelist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23dr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Novelist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "245150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/245150",
+        "Linux": "setsid steam steam://rungameid/245150",
+        "macOS": "open steam://rungameid/245150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/245150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-novelist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10733"
+}

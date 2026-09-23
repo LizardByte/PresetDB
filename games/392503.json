@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392503,
+  "name": "PirateGate",
+  "source_url": "https://www.igdb.com/games/pirategate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmkm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PirateGate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3695960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3695960",
+        "Linux": "setsid steam steam://rungameid/3695960",
+        "macOS": "open steam://rungameid/3695960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3695960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pirategate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392503"
+}

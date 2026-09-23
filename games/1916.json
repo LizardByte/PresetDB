@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1916,
+  "name": "Lost Planet 3",
+  "source_url": "https://www.igdb.com/games/lost-planet-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2w7n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Planet 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "226720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/226720",
+        "Linux": "setsid steam steam://rungameid/226720",
+        "macOS": "open steam://rungameid/226720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/226720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-planet-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1916"
+}

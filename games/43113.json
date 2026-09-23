@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43113,
+  "name": "Stophat",
+  "source_url": "https://www.igdb.com/games/stophat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4k74.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stophat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "671270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/671270",
+        "Linux": "setsid steam steam://rungameid/671270",
+        "macOS": "open steam://rungameid/671270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/671270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stophat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43113"
+}

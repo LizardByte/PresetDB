@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21062,
+  "name": "Sonic Mania",
+  "source_url": "https://www.igdb.com/games/sonic-mania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1t0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sonic Mania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "584400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/584400",
+        "Linux": "setsid steam steam://rungameid/584400",
+        "macOS": "open steam://rungameid/584400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/584400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sonic-mania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21062"
+}

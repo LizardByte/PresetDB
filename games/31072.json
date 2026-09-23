@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31072,
+  "name": "Wild Arena",
+  "source_url": "https://www.igdb.com/games/wild-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5ui.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "533280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/533280",
+        "Linux": "setsid steam steam://rungameid/533280",
+        "macOS": "open steam://rungameid/533280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/533280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wild-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31072"
+}

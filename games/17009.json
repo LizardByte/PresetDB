@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17009,
+  "name": "World's Dawn",
+  "source_url": "https://www.igdb.com/games/worlds-dawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ner.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World's Dawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "432010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/432010",
+        "Linux": "setsid steam steam://rungameid/432010",
+        "macOS": "open steam://rungameid/432010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/432010",
+      "protondb": {
+        "tier": "gold",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "worlds-dawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17009"
+}

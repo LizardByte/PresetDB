@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80898,
+  "name": "Fyd",
+  "source_url": "https://www.igdb.com/games/fyd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29bi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fyd",
+      "os": null,
+      "method": "steam",
+      "launch_id": "760700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/760700",
+        "Linux": "setsid steam steam://rungameid/760700",
+        "macOS": "open steam://rungameid/760700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/760700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fyd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80898"
+}

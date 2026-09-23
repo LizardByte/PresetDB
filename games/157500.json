@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157500,
+  "name": "Escape to Sidious",
+  "source_url": "https://www.igdb.com/games/escape-to-sidious",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4638.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape to Sidious",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1272340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1272340",
+        "Linux": "setsid steam steam://rungameid/1272340",
+        "macOS": "open steam://rungameid/1272340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1272340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-to-sidious",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157500"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33043,
+  "name": "Massive",
+  "source_url": "https://www.igdb.com/games/massive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9i83.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Massive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "461400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/461400",
+        "Linux": "setsid steam steam://rungameid/461400",
+        "macOS": "open steam://rungameid/461400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/461400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "massive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33043"
+}

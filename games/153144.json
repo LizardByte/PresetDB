@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153144,
+  "name": "Game.exe",
+  "source_url": "https://www.igdb.com/games/game-dot-exe--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5del.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1652680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1652680",
+        "Linux": "setsid steam steam://rungameid/1652680",
+        "macOS": "open steam://rungameid/1652680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1652680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-dot-exe--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153144"
+}

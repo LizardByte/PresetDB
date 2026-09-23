@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81858,
+  "name": "VR_Play Room",
+  "source_url": "https://www.igdb.com/games/vr-play-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk67.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR_Play Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771670",
+        "Linux": "setsid steam steam://rungameid/771670",
+        "macOS": "open steam://rungameid/771670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/771670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-play-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81858"
+}

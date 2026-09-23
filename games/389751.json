@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389751,
+  "name": "Let Deco Desktop",
+  "source_url": "https://www.igdb.com/games/let-deco-desktop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj1g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let Deco Desktop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4290480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4290480",
+        "Linux": "setsid steam steam://rungameid/4290480",
+        "macOS": "open steam://rungameid/4290480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4290480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "let-deco-desktop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389751"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 59282,
+  "name": "GetMeBro!",
+  "source_url": "https://www.igdb.com/games/getmebro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q8l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GetMeBro!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "616610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/616610",
+        "Linux": "setsid steam steam://rungameid/616610",
+        "macOS": "open steam://rungameid/616610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/616610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "getmebro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=59282"
+}

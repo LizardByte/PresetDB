@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3199,
+  "name": "Dead Rising 3",
+  "source_url": "https://www.igdb.com/games/dead-rising-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pvc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Rising 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "265550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/265550",
+        "Linux": "setsid steam steam://rungameid/265550",
+        "macOS": "open steam://rungameid/265550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/265550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dead-rising-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3199"
+}

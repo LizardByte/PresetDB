@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159562,
+  "name": "Stuck Together",
+  "source_url": "https://www.igdb.com/games/stuck-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co426p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stuck Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "873000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/873000",
+        "Linux": "setsid steam steam://rungameid/873000",
+        "macOS": "open steam://rungameid/873000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/873000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stuck-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159562"
+}

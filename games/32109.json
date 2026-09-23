@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32109,
+  "name": "Glider Island",
+  "source_url": "https://www.igdb.com/games/glider-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ja.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glider Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500110",
+        "Linux": "setsid steam steam://rungameid/500110",
+        "macOS": "open steam://rungameid/500110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "glider-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32109"
+}

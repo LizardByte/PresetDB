@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 331234,
+  "name": "Phantomancer",
+  "source_url": "https://www.igdb.com/games/phantomancer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9e3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phantomancer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3442280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3442280",
+        "Linux": "setsid steam steam://rungameid/3442280",
+        "macOS": "open steam://rungameid/3442280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3442280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "phantomancer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=331234"
+}

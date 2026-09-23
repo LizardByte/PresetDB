@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16265,
+  "name": "Astro Tripper",
+  "source_url": "https://www.igdb.com/games/astro-tripper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmtu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astro Tripper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "110600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/110600",
+        "Linux": "setsid steam steam://rungameid/110600",
+        "macOS": "open steam://rungameid/110600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/110600",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "astro-tripper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16265"
+}

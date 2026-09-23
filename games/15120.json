@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15120,
+  "name": "The Tiny Bang Story",
+  "source_url": "https://www.igdb.com/games/the-tiny-bang-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Tiny Bang Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "96000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/96000",
+        "Linux": "setsid steam steam://rungameid/96000",
+        "macOS": "open steam://rungameid/96000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/96000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-tiny-bang-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15120"
+}

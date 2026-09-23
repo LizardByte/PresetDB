@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83820,
+  "name": "The Inquisitor",
+  "source_url": "https://www.igdb.com/games/the-inquisitor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/qdyxpcmtzgoeemtd90ni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Inquisitor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777220",
+        "Linux": "setsid steam steam://rungameid/777220",
+        "macOS": "open steam://rungameid/777220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/777220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-inquisitor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83820"
+}

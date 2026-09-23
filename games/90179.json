@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90179,
+  "name": "The Famous Diver",
+  "source_url": "https://www.igdb.com/games/the-famous-diver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48r4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Famous Diver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820830",
+        "Linux": "setsid steam steam://rungameid/820830",
+        "macOS": "open steam://rungameid/820830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/820830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-famous-diver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90179"
+}

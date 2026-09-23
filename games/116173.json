@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116173,
+  "name": "Bruken",
+  "source_url": "https://www.igdb.com/games/bruken",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bruken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "999890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/999890",
+        "Linux": "setsid steam steam://rungameid/999890",
+        "macOS": "open steam://rungameid/999890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/999890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bruken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116173"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32885,
+  "name": "Piñata",
+  "source_url": "https://www.igdb.com/games/pinata",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/khuquzigzuzpsgoblmrl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Piñata",
+      "os": null,
+      "method": "steam",
+      "launch_id": "477800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/477800",
+        "Linux": "setsid steam steam://rungameid/477800",
+        "macOS": "open steam://rungameid/477800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/477800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pinata",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32885"
+}

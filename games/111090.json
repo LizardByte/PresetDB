@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111090,
+  "name": "Tin Hearts",
+  "source_url": "https://www.igdb.com/games/tin-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4uo6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tin Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "572540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/572540",
+        "Linux": "setsid steam steam://rungameid/572540",
+        "macOS": "open steam://rungameid/572540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/572540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tin-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111090"
+}

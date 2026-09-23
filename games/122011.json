@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122011,
+  "name": "The Hero",
+  "source_url": "https://www.igdb.com/games/the-hero--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43uj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "547130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/547130",
+        "Linux": "setsid steam steam://rungameid/547130",
+        "macOS": "open steam://rungameid/547130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/547130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-hero--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122011"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81070,
+  "name": "Inline",
+  "source_url": "https://www.igdb.com/games/inline",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qf9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Inline",
+      "os": null,
+      "method": "steam",
+      "launch_id": "716010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/716010",
+        "Linux": "setsid steam steam://rungameid/716010",
+        "macOS": "open steam://rungameid/716010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/716010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "inline",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81070"
+}

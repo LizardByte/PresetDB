@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208609,
+  "name": "Lost in the Open",
+  "source_url": "https://www.igdb.com/games/lost-in-the-open",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jlo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost in the Open",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2027380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2027380",
+        "Linux": "setsid steam steam://rungameid/2027380",
+        "macOS": "open steam://rungameid/2027380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2027380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-in-the-open",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208609"
+}

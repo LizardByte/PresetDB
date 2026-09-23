@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11181,
+  "name": "Eitr",
+  "source_url": "https://www.igdb.com/games/eitr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eitr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "350050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/350050",
+        "Linux": "setsid steam steam://rungameid/350050",
+        "macOS": "open steam://rungameid/350050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/350050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eitr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11181"
+}

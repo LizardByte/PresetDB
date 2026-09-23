@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23805,
+  "name": "Double Dragon Trilogy",
+  "source_url": "https://www.igdb.com/games/double-dragon-trilogy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Double Dragon Trilogy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "314150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/314150",
+        "Linux": "setsid steam steam://rungameid/314150",
+        "macOS": "open steam://rungameid/314150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/314150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "double-dragon-trilogy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23805"
+}

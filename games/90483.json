@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90483,
+  "name": "Escape the Mazes",
+  "source_url": "https://www.igdb.com/games/escape-the-mazes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob37d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Mazes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "591350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/591350",
+        "Linux": "setsid steam steam://rungameid/591350",
+        "macOS": "open steam://rungameid/591350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/591350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-the-mazes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90483"
+}

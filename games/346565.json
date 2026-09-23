@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346565,
+  "name": "The Fruit Game",
+  "source_url": "https://www.igdb.com/games/the-fruit-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9w68.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Fruit Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3557150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3557150",
+        "Linux": "setsid steam steam://rungameid/3557150",
+        "macOS": "open steam://rungameid/3557150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3557150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-fruit-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346565"
+}

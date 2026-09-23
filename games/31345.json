@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31345,
+  "name": "VR Journey",
+  "source_url": "https://www.igdb.com/games/vr-journey",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "527540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/527540",
+        "Linux": "setsid steam steam://rungameid/527540",
+        "macOS": "open steam://rungameid/527540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/527540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31345"
+}

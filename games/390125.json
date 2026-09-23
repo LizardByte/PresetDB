@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390125,
+  "name": "Eggventure",
+  "source_url": "https://www.igdb.com/games/eggventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjfh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eggventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4230420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4230420",
+        "Linux": "setsid steam steam://rungameid/4230420",
+        "macOS": "open steam://rungameid/4230420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4230420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eggventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390125"
+}

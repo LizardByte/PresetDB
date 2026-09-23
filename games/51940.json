@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51940,
+  "name": "Mystic VR",
+  "source_url": "https://www.igdb.com/games/mystic-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9in.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystic VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "645280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/645280",
+        "Linux": "setsid steam steam://rungameid/645280",
+        "macOS": "open steam://rungameid/645280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/645280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mystic-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51940"
+}

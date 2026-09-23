@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75647,
+  "name": "Tico",
+  "source_url": "https://www.igdb.com/games/tico",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo2a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tico",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748980",
+        "Linux": "setsid steam steam://rungameid/748980",
+        "macOS": "open steam://rungameid/748980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/748980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tico",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75647"
+}

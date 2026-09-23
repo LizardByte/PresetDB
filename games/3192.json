@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3192,
+  "name": "Sonic the Hedgehog",
+  "source_url": "https://www.igdb.com/games/sonic-the-hedgehog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanlj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sonic the Hedgehog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "71113",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/71113",
+        "Linux": "setsid steam steam://rungameid/71113",
+        "macOS": "open steam://rungameid/71113"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/71113",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sonic-the-hedgehog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3192"
+}

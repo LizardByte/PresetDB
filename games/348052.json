@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348052,
+  "name": "Popit Game",
+  "source_url": "https://www.igdb.com/games/popit-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xr0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Popit Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3698060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3698060",
+        "Linux": "setsid steam steam://rungameid/3698060",
+        "macOS": "open steam://rungameid/3698060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3698060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "popit-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348052"
+}

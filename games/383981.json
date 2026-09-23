@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383981,
+  "name": "Heroic",
+  "source_url": "https://www.igdb.com/games/heroic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6t0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2314340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2314340",
+        "Linux": "setsid steam steam://rungameid/2314340",
+        "macOS": "open steam://rungameid/2314340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2314340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "heroic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383981"
+}

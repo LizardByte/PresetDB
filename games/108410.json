@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108410,
+  "name": "Super Frog's Quest",
+  "source_url": "https://www.igdb.com/games/super-frogs-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobinc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Frog's Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913840",
+        "Linux": "setsid steam steam://rungameid/913840",
+        "macOS": "open steam://rungameid/913840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/913840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-frogs-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108410"
+}

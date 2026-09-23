@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113510,
+  "name": "Rolling Bird",
+  "source_url": "https://www.igdb.com/games/rolling-bird",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rolling Bird",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978800",
+        "Linux": "setsid steam steam://rungameid/978800",
+        "macOS": "open steam://rungameid/978800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/978800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rolling-bird",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113510"
+}

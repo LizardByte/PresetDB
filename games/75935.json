@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75935,
+  "name": "Boinks",
+  "source_url": "https://www.igdb.com/games/boinks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29z2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boinks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "731560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/731560",
+        "Linux": "setsid steam steam://rungameid/731560",
+        "macOS": "open steam://rungameid/731560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/731560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "boinks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75935"
+}

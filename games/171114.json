@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171114,
+  "name": "Atom",
+  "source_url": "https://www.igdb.com/games/atom--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5925.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1491790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1491790",
+        "Linux": "setsid steam steam://rungameid/1491790",
+        "macOS": "open steam://rungameid/1491790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1491790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "atom--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171114"
+}

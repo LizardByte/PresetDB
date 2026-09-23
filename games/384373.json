@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384373,
+  "name": "King of Swords",
+  "source_url": "https://www.igdb.com/games/king-of-swords",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob850.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King of Swords",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2345300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2345300",
+        "Linux": "setsid steam steam://rungameid/2345300",
+        "macOS": "open steam://rungameid/2345300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2345300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "king-of-swords",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384373"
+}

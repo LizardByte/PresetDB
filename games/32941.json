@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32941,
+  "name": "Beyond Magic",
+  "source_url": "https://www.igdb.com/games/beyond-magic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beyond Magic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "463880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/463880",
+        "Linux": "setsid steam steam://rungameid/463880",
+        "macOS": "open steam://rungameid/463880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/463880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beyond-magic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32941"
+}

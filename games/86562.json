@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86562,
+  "name": "Mad Zombie",
+  "source_url": "https://www.igdb.com/games/mad-zombie",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Zombie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800710",
+        "Linux": "setsid steam steam://rungameid/800710",
+        "macOS": "open steam://rungameid/800710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/800710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mad-zombie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86562"
+}

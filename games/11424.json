@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11424,
+  "name": "Sym",
+  "source_url": "https://www.igdb.com/games/sym",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/btkjeucuw51g3wif1q97.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sym",
+      "os": null,
+      "method": "steam",
+      "launch_id": "342100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/342100",
+        "Linux": "setsid steam steam://rungameid/342100",
+        "macOS": "open steam://rungameid/342100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/342100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sym",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11424"
+}

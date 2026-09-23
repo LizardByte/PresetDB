@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86520,
+  "name": "Hexed",
+  "source_url": "https://www.igdb.com/games/hexed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4yq2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "762360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/762360",
+        "Linux": "setsid steam steam://rungameid/762360",
+        "macOS": "open steam://rungameid/762360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/762360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hexed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86520"
+}

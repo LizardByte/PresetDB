@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118984,
+  "name": "Yes, Master!",
+  "source_url": "https://www.igdb.com/games/yes-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2b9d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yes, Master!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1090900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1090900",
+        "Linux": "setsid steam steam://rungameid/1090900",
+        "macOS": "open steam://rungameid/1090900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1090900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yes-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118984"
+}

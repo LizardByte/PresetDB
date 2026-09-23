@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3236,
+  "name": "Delver",
+  "source_url": "https://www.igdb.com/games/delver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uz8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Delver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "249630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/249630",
+        "Linux": "setsid steam steam://rungameid/249630",
+        "macOS": "open steam://rungameid/249630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/249630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "delver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3236"
+}

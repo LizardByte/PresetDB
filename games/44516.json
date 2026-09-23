@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 44516,
+  "name": "West of Loathing",
+  "source_url": "https://www.igdb.com/games/west-of-loathing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v3g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "West of Loathing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "597220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/597220",
+        "Linux": "setsid steam steam://rungameid/597220",
+        "macOS": "open steam://rungameid/597220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/597220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "west-of-loathing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=44516"
+}

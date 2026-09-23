@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111591,
+  "name": "Ilhumia",
+  "source_url": "https://www.igdb.com/games/ilhumia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ilhumia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "890840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/890840",
+        "Linux": "setsid steam steam://rungameid/890840",
+        "macOS": "open steam://rungameid/890840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/890840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ilhumia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111591"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 59129,
+  "name": "Goro",
+  "source_url": "https://www.igdb.com/games/goro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2big.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710270",
+        "Linux": "setsid steam steam://rungameid/710270",
+        "macOS": "open steam://rungameid/710270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "goro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=59129"
+}

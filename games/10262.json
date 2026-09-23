@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10262,
+  "name": "NyxQuest: Kindred Spirits",
+  "source_url": "https://www.igdb.com/games/nyxquest-kindred-spirits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q9w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NyxQuest: Kindred Spirits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "57000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/57000",
+        "Linux": "setsid steam steam://rungameid/57000",
+        "macOS": "open steam://rungameid/57000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/57000",
+      "protondb": {
+        "tier": "silver",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "nyxquest-kindred-spirits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10262"
+}

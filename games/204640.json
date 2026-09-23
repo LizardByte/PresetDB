@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204640,
+  "name": "Demonschool",
+  "source_url": "https://www.igdb.com/games/demonschool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacd2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Demonschool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1900250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1900250",
+        "Linux": "setsid steam steam://rungameid/1900250",
+        "macOS": "open steam://rungameid/1900250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1900250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "demonschool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204640"
+}

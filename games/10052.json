@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10052,
+  "name": "Blast em!",
+  "source_url": "https://www.igdb.com/games/blast-em",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5y3p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blast em!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "257630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/257630",
+        "Linux": "setsid steam steam://rungameid/257630",
+        "macOS": "open steam://rungameid/257630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/257630",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "blast-em",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10052"
+}

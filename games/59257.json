@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 59257,
+  "name": "Mine!",
+  "source_url": "https://www.igdb.com/games/mine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9i6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mine!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "687320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/687320",
+        "Linux": "setsid steam steam://rungameid/687320",
+        "macOS": "open steam://rungameid/687320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/687320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=59257"
+}

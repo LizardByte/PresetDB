@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74230,
+  "name": "Forest Escape",
+  "source_url": "https://www.igdb.com/games/forest-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1kb4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "725400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/725400",
+        "Linux": "setsid steam steam://rungameid/725400",
+        "macOS": "open steam://rungameid/725400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/725400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "forest-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74230"
+}

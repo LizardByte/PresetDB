@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 162844,
+  "name": "Game About Games",
+  "source_url": "https://www.igdb.com/games/game-about-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4166.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game About Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1668280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1668280",
+        "Linux": "setsid steam steam://rungameid/1668280",
+        "macOS": "open steam://rungameid/1668280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1668280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-about-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=162844"
+}

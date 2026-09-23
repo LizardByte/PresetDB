@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35816,
+  "name": "Terraform",
+  "source_url": "https://www.igdb.com/games/terraform",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86ky.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terraform",
+      "os": null,
+      "method": "steam",
+      "launch_id": "347790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/347790",
+        "Linux": "setsid steam steam://rungameid/347790",
+        "macOS": "open steam://rungameid/347790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/347790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "terraform",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35816"
+}

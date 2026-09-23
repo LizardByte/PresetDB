@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83724,
+  "name": "DownWind",
+  "source_url": "https://www.igdb.com/games/downwind",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9cvz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DownWind",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454000",
+        "Linux": "setsid steam steam://rungameid/454000",
+        "macOS": "open steam://rungameid/454000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "downwind",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83724"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2002,
+  "name": "Banished",
+  "source_url": "https://www.igdb.com/games/banished",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1li9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banished",
+      "os": null,
+      "method": "steam",
+      "launch_id": "242920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/242920",
+        "Linux": "setsid steam steam://rungameid/242920",
+        "macOS": "open steam://rungameid/242920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/242920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "banished",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2002"
+}

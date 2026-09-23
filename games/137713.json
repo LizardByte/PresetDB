@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137713,
+  "name": "Away",
+  "source_url": "https://www.igdb.com/games/away",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5w82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "757910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/757910",
+        "Linux": "setsid steam steam://rungameid/757910",
+        "macOS": "open steam://rungameid/757910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/757910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "away",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137713"
+}

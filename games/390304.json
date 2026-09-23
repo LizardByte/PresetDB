@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390304,
+  "name": "Where Is Lena?",
+  "source_url": "https://www.igdb.com/games/where-is-lena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjoo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Where Is Lena?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4196000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4196000",
+        "Linux": "setsid steam steam://rungameid/4196000",
+        "macOS": "open steam://rungameid/4196000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4196000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "where-is-lena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390304"
+}

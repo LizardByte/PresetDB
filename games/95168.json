@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95168,
+  "name": "Hello Lady!",
+  "source_url": "https://www.igdb.com/games/hello-lady",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42a1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hello Lady!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "783120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/783120",
+        "Linux": "setsid steam steam://rungameid/783120",
+        "macOS": "open steam://rungameid/783120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/783120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hello-lady",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95168"
+}

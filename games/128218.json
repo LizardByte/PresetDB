@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128218,
+  "name": "MyBot",
+  "source_url": "https://www.igdb.com/games/mybot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lvg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MyBot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1217280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1217280",
+        "Linux": "setsid steam steam://rungameid/1217280",
+        "macOS": "open steam://rungameid/1217280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1217280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mybot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128218"
+}

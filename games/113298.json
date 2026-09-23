@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113298,
+  "name": "Moshpit",
+  "source_url": "https://www.igdb.com/games/moshpit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpvv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moshpit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "986700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/986700",
+        "Linux": "setsid steam steam://rungameid/986700",
+        "macOS": "open steam://rungameid/986700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/986700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moshpit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113298"
+}

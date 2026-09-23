@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 91467,
+  "name": "Survivor",
+  "source_url": "https://www.igdb.com/games/survivor--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobewn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1031700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1031700",
+        "Linux": "setsid steam steam://rungameid/1031700",
+        "macOS": "open steam://rungameid/1031700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1031700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "survivor--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=91467"
+}

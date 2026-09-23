@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6070,
+  "name": "Glitchspace",
+  "source_url": "https://www.igdb.com/games/glitchspace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3xp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glitchspace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290060",
+        "Linux": "setsid steam steam://rungameid/290060",
+        "macOS": "open steam://rungameid/290060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "glitchspace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6070"
+}

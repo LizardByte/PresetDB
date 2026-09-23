@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3077,
+  "name": "Sniper Elite",
+  "source_url": "https://www.igdb.com/games/sniper-elite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1p0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sniper Elite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3700",
+        "Linux": "setsid steam steam://rungameid/3700",
+        "macOS": "open steam://rungameid/3700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sniper-elite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3077"
+}

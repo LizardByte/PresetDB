@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2049,
+  "name": "Slender: The Arrival",
+  "source_url": "https://www.igdb.com/games/slender-the-arrival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dfz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slender: The Arrival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "252330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/252330",
+        "Linux": "setsid steam steam://rungameid/252330",
+        "macOS": "open steam://rungameid/252330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/252330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slender-the-arrival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2049"
+}

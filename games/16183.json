@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16183,
+  "name": "Air Forte",
+  "source_url": "https://www.igdb.com/games/air-forte",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/qo6nkd8hgoejrlcsdxvi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Air Forte",
+      "os": null,
+      "method": "steam",
+      "launch_id": "55020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/55020",
+        "Linux": "setsid steam steam://rungameid/55020",
+        "macOS": "open steam://rungameid/55020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/55020",
+      "protondb": {
+        "tier": "silver",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "air-forte",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16183"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129732,
+  "name": "GlowyJump",
+  "source_url": "https://www.igdb.com/games/glowyjump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co200u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GlowyJump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234340",
+        "Linux": "setsid steam steam://rungameid/1234340",
+        "macOS": "open steam://rungameid/1234340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1234340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "glowyjump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129732"
+}

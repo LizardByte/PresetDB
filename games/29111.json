@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29111,
+  "name": "iStorm",
+  "source_url": "https://www.igdb.com/games/istorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27zx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "iStorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "610940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/610940",
+        "Linux": "setsid steam steam://rungameid/610940",
+        "macOS": "open steam://rungameid/610940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/610940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "istorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29111"
+}

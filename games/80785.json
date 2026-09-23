@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80785,
+  "name": "Windfall",
+  "source_url": "https://www.igdb.com/games/windfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46q0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Windfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "841290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/841290",
+        "Linux": "setsid steam steam://rungameid/841290",
+        "macOS": "open steam://rungameid/841290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/841290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "windfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80785"
+}

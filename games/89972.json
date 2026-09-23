@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89972,
+  "name": "Nanoui",
+  "source_url": "https://www.igdb.com/games/nanoui",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnjk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nanoui",
+      "os": null,
+      "method": "steam",
+      "launch_id": "809080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/809080",
+        "Linux": "setsid steam steam://rungameid/809080",
+        "macOS": "open steam://rungameid/809080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/809080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nanoui",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89972"
+}

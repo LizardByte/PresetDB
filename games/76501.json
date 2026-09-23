@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76501,
+  "name": "Meow Go",
+  "source_url": "https://www.igdb.com/games/meow-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4i1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meow Go",
+      "os": null,
+      "method": "steam",
+      "launch_id": "759460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/759460",
+        "Linux": "setsid steam steam://rungameid/759460",
+        "macOS": "open steam://rungameid/759460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/759460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "meow-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76501"
+}

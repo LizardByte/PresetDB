@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410343,
+  "name": "John Gleep",
+  "source_url": "https://www.igdb.com/games/john-gleep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmjn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "John Gleep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4739500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4739500",
+        "Linux": "setsid steam steam://rungameid/4739500",
+        "macOS": "open steam://rungameid/4739500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4739500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "john-gleep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410343"
+}

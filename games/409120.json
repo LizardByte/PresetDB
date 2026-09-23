@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409120,
+  "name": "Fishu",
+  "source_url": "https://www.igdb.com/games/fishu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fishu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4768750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4768750",
+        "Linux": "setsid steam steam://rungameid/4768750",
+        "macOS": "open steam://rungameid/4768750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4768750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fishu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409120"
+}

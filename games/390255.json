@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390255,
+  "name": "Bootleg Alchemist",
+  "source_url": "https://www.igdb.com/games/bootleg-alchemist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjna.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bootleg Alchemist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4208150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4208150",
+        "Linux": "setsid steam steam://rungameid/4208150",
+        "macOS": "open steam://rungameid/4208150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4208150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bootleg-alchemist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390255"
+}

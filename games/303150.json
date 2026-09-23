@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303150,
+  "name": "Another Realm",
+  "source_url": "https://www.igdb.com/games/another-realm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89jz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Another Realm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2935250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2935250",
+        "Linux": "setsid steam steam://rungameid/2935250",
+        "macOS": "open steam://rungameid/2935250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2935250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "another-realm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303150"
+}

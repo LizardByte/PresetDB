@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84016,
+  "name": "Shp Space",
+  "source_url": "https://www.igdb.com/games/shp-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc6i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shp Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781000",
+        "Linux": "setsid steam steam://rungameid/781000",
+        "macOS": "open steam://rungameid/781000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/781000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shp-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84016"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303347,
+  "name": "Bob Fight",
+  "source_url": "https://www.igdb.com/games/bob-fight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89rf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bob Fight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2906100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2906100",
+        "Linux": "setsid steam steam://rungameid/2906100",
+        "macOS": "open steam://rungameid/2906100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2906100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bob-fight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303347"
+}

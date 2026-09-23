@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132253,
+  "name": "Iconic",
+  "source_url": "https://www.igdb.com/games/iconic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43go.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iconic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1133520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1133520",
+        "Linux": "setsid steam steam://rungameid/1133520",
+        "macOS": "open steam://rungameid/1133520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1133520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "iconic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132253"
+}

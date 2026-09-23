@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56633,
+  "name": "Parkour",
+  "source_url": "https://www.igdb.com/games/parkour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9hw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Parkour",
+      "os": null,
+      "method": "steam",
+      "launch_id": "691220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/691220",
+        "Linux": "setsid steam steam://rungameid/691220",
+        "macOS": "open steam://rungameid/691220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/691220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "parkour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56633"
+}

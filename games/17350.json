@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17350,
+  "name": "Eldevin",
+  "source_url": "https://www.igdb.com/games/eldevin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ptr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eldevin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "298160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/298160",
+        "Linux": "setsid steam steam://rungameid/298160",
+        "macOS": "open steam://rungameid/298160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/298160",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "eldevin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17350"
+}

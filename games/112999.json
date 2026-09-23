@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112999,
+  "name": "Intrepid",
+  "source_url": "https://www.igdb.com/games/intrepid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co447a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Intrepid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "992860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/992860",
+        "Linux": "setsid steam steam://rungameid/992860",
+        "macOS": "open steam://rungameid/992860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/992860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "intrepid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112999"
+}

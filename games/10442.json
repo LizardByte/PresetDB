@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10442,
+  "name": "Ion Assault",
+  "source_url": "https://www.igdb.com/games/ion-assault",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co447s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ion Assault",
+      "os": null,
+      "method": "steam",
+      "launch_id": "41730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/41730",
+        "Linux": "setsid steam steam://rungameid/41730",
+        "macOS": "open steam://rungameid/41730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/41730",
+      "protondb": {
+        "tier": "silver",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "ion-assault",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10442"
+}

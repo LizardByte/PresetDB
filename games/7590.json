@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7590,
+  "name": "Escape Goat",
+  "source_url": "https://www.igdb.com/games/escape-goat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hdb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Goat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "251370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/251370",
+        "Linux": "setsid steam steam://rungameid/251370",
+        "macOS": "open steam://rungameid/251370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/251370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-goat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7590"
+}

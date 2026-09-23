@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31210,
+  "name": "Steam Hammer",
+  "source_url": "https://www.igdb.com/games/steam-hammer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1j5l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steam Hammer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "530560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/530560",
+        "Linux": "setsid steam steam://rungameid/530560",
+        "macOS": "open steam://rungameid/530560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/530560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steam-hammer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31210"
+}

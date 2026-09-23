@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75111,
+  "name": "Amazon Odyssey",
+  "source_url": "https://www.igdb.com/games/amazon-odyssey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2367.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amazon Odyssey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "570540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/570540",
+        "Linux": "setsid steam steam://rungameid/570540",
+        "macOS": "open steam://rungameid/570540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/570540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amazon-odyssey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75111"
+}

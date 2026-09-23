@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33514,
+  "name": "Prism",
+  "source_url": "https://www.igdb.com/games/prism",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnch.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prism",
+      "os": null,
+      "method": "steam",
+      "launch_id": "443590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/443590",
+        "Linux": "setsid steam steam://rungameid/443590",
+        "macOS": "open steam://rungameid/443590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/443590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "prism",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33514"
+}

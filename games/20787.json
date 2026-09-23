@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20787,
+  "name": "The Assembly",
+  "source_url": "https://www.igdb.com/games/the-assembly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23bn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Assembly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "373650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/373650",
+        "Linux": "setsid steam steam://rungameid/373650",
+        "macOS": "open steam://rungameid/373650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/373650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-assembly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20787"
+}

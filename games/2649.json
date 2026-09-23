@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2649,
+  "name": "Starforge",
+  "source_url": "https://www.igdb.com/games/starforge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4tj2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starforge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "227680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/227680",
+        "Linux": "setsid steam steam://rungameid/227680",
+        "macOS": "open steam://rungameid/227680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/227680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starforge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2649"
+}

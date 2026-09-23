@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390386,
+  "name": "SkyRen",
+  "source_url": "https://www.igdb.com/games/skyren",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjsg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkyRen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4173600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4173600",
+        "Linux": "setsid steam steam://rungameid/4173600",
+        "macOS": "open steam://rungameid/4173600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4173600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skyren",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390386"
+}

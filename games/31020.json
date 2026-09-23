@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31020,
+  "name": "Racecar.io",
+  "source_url": "https://www.igdb.com/games/racecar-dot-io",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6lt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Racecar.io",
+      "os": null,
+      "method": "steam",
+      "launch_id": "539640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/539640",
+        "Linux": "setsid steam steam://rungameid/539640",
+        "macOS": "open steam://rungameid/539640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/539640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "racecar-dot-io",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31020"
+}

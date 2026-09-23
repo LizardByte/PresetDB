@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16086,
+  "name": "Build-A-Lot",
+  "source_url": "https://www.igdb.com/games/build-a-lot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ryi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Build-A-Lot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "38080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/38080",
+        "Linux": "setsid steam steam://rungameid/38080",
+        "macOS": "open steam://rungameid/38080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/38080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "build-a-lot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16086"
+}

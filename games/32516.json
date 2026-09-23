@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32516,
+  "name": "Dreamals",
+  "source_url": "https://www.igdb.com/games/dreamals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ui5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dreamals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "480770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/480770",
+        "Linux": "setsid steam steam://rungameid/480770",
+        "macOS": "open steam://rungameid/480770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/480770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dreamals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32516"
+}

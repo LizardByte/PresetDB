@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122345,
+  "name": "Calico",
+  "source_url": "https://www.igdb.com/games/calico",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c9c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Calico",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1112890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1112890",
+        "Linux": "setsid steam steam://rungameid/1112890",
+        "macOS": "open steam://rungameid/1112890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1112890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "calico",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122345"
+}

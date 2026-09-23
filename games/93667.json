@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93667,
+  "name": "Edvog Explorer Game",
+  "source_url": "https://www.igdb.com/games/edvog-explorer-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobffi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edvog Explorer Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "788040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/788040",
+        "Linux": "setsid steam steam://rungameid/788040",
+        "macOS": "open steam://rungameid/788040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/788040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "edvog-explorer-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93667"
+}

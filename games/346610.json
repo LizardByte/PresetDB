@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346610,
+  "name": "Game",
+  "source_url": "https://www.igdb.com/games/game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7ng.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3400310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3400310",
+        "Linux": "setsid steam steam://rungameid/3400310",
+        "macOS": "open steam://rungameid/3400310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3400310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346610"
+}

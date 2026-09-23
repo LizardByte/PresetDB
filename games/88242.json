@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88242,
+  "name": "PreSim",
+  "source_url": "https://www.igdb.com/games/presim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobon6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PreSim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "696840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/696840",
+        "Linux": "setsid steam steam://rungameid/696840",
+        "macOS": "open steam://rungameid/696840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/696840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "presim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88242"
+}

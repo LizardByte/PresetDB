@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32473,
+  "name": "Star Drifter",
+  "source_url": "https://www.igdb.com/games/star-drifter--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Drifter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485330",
+        "Linux": "setsid steam steam://rungameid/485330",
+        "macOS": "open steam://rungameid/485330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "star-drifter--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32473"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 276829,
+  "name": "Probot Soccer",
+  "source_url": "https://www.igdb.com/games/probot-soccer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7dji.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Probot Soccer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2693360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2693360",
+        "Linux": "setsid steam steam://rungameid/2693360",
+        "macOS": "open steam://rungameid/2693360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2693360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "probot-soccer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=276829"
+}

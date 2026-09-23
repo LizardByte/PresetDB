@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102445,
+  "name": "Delve",
+  "source_url": "https://www.igdb.com/games/delve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2br.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Delve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861580",
+        "Linux": "setsid steam steam://rungameid/861580",
+        "macOS": "open steam://rungameid/861580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/861580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "delve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102445"
+}

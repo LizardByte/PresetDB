@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75617,
+  "name": "Odyssey VR",
+  "source_url": "https://www.igdb.com/games/odyssey-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co278b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Odyssey VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "738600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/738600",
+        "Linux": "setsid steam steam://rungameid/738600",
+        "macOS": "open steam://rungameid/738600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/738600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "odyssey-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75617"
+}

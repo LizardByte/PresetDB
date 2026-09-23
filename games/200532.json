@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200532,
+  "name": "Grandpa's Cheese",
+  "source_url": "https://www.igdb.com/games/grandpas-cheese",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grandpa's Cheese",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1843030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1843030",
+        "Linux": "setsid steam steam://rungameid/1843030",
+        "macOS": "open steam://rungameid/1843030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1843030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grandpas-cheese",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200532"
+}

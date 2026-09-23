@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106282,
+  "name": "Peter World",
+  "source_url": "https://www.igdb.com/games/peter-world",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peter World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "730460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/730460",
+        "Linux": "setsid steam steam://rungameid/730460",
+        "macOS": "open steam://rungameid/730460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/730460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "peter-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106282"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16881,
+  "name": "Windforge",
+  "source_url": "https://www.igdb.com/games/windforge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n98.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Windforge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "266170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/266170",
+        "Linux": "setsid steam steam://rungameid/266170",
+        "macOS": "open steam://rungameid/266170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/266170",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "windforge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16881"
+}

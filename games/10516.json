@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10516,
+  "name": "Litil Divil",
+  "source_url": "https://www.igdb.com/games/litil-divil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1osf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Litil Divil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "283430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/283430",
+        "Linux": "setsid steam steam://rungameid/283430",
+        "macOS": "open steam://rungameid/283430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/283430",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "litil-divil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10516"
+}

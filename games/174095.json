@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 174095,
+  "name": "The Giraffe World",
+  "source_url": "https://www.igdb.com/games/the-giraffe-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co496s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Giraffe World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1754200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1754200",
+        "Linux": "setsid steam steam://rungameid/1754200",
+        "macOS": "open steam://rungameid/1754200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1754200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-giraffe-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=174095"
+}

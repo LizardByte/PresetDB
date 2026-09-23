@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407402,
+  "name": "TooneQuest",
+  "source_url": "https://www.igdb.com/games/toonequest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocaap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TooneQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2143690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2143690",
+        "Linux": "setsid steam steam://rungameid/2143690",
+        "macOS": "open steam://rungameid/2143690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2143690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "toonequest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407402"
+}

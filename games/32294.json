@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32294,
+  "name": "Disgaea 2 PC",
+  "source_url": "https://www.igdb.com/games/disgaea-2-pc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tvx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disgaea 2 PC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "495280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/495280",
+        "Linux": "setsid steam steam://rungameid/495280",
+        "macOS": "open steam://rungameid/495280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/495280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "disgaea-2-pc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32294"
+}

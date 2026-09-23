@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75016,
+  "name": "Lazy Galaxy",
+  "source_url": "https://www.igdb.com/games/lazy-galaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co274q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lazy Galaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "724470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/724470",
+        "Linux": "setsid steam steam://rungameid/724470",
+        "macOS": "open steam://rungameid/724470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/724470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lazy-galaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75016"
+}

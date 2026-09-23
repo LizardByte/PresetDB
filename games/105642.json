@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105642,
+  "name": "Deplau",
+  "source_url": "https://www.igdb.com/games/deplau",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobipl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deplau",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891050",
+        "Linux": "setsid steam steam://rungameid/891050",
+        "macOS": "open steam://rungameid/891050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/891050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deplau",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105642"
+}

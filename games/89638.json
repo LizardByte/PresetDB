@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89638,
+  "name": "Piano Cat",
+  "source_url": "https://www.igdb.com/games/piano-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7js0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Piano Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "807950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/807950",
+        "Linux": "setsid steam steam://rungameid/807950",
+        "macOS": "open steam://rungameid/807950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/807950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "piano-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89638"
+}

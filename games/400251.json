@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400251,
+  "name": "Unhost",
+  "source_url": "https://www.igdb.com/games/unhost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc09q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unhost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4080080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4080080",
+        "Linux": "setsid steam steam://rungameid/4080080",
+        "macOS": "open steam://rungameid/4080080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4080080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unhost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400251"
+}

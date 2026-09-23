@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 58228,
+  "name": "The Amazing Fantastics",
+  "source_url": "https://www.igdb.com/games/the-amazing-fantastics",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co431e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Amazing Fantastics",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1225600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1225600",
+        "Linux": "setsid steam steam://rungameid/1225600",
+        "macOS": "open steam://rungameid/1225600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1225600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-amazing-fantastics",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=58228"
+}

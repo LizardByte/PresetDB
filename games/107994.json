@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107994,
+  "name": "Stay or Leave",
+  "source_url": "https://www.igdb.com/games/stay-or-leave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf1s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stay or Leave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910390",
+        "Linux": "setsid steam steam://rungameid/910390",
+        "macOS": "open steam://rungameid/910390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/910390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stay-or-leave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107994"
+}

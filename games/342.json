@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342,
+  "name": "Duke Nukem 3D",
+  "source_url": "https://www.igdb.com/games/duke-nukem-3d",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1y7x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duke Nukem 3D",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359850",
+        "Linux": "setsid steam steam://rungameid/359850",
+        "macOS": "open steam://rungameid/359850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "duke-nukem-3d",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342"
+}

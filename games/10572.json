@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10572,
+  "name": "Pickers",
+  "source_url": "https://www.igdb.com/games/pickers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa23m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pickers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "204440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/204440",
+        "Linux": "setsid steam steam://rungameid/204440",
+        "macOS": "open steam://rungameid/204440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/204440",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "pickers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10572"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210395,
+  "name": "Slay the Princess",
+  "source_url": "https://www.igdb.com/games/slay-the-princess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co501b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slay the Princess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1989270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1989270",
+        "Linux": "setsid steam steam://rungameid/1989270",
+        "macOS": "open steam://rungameid/1989270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1989270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slay-the-princess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210395"
+}

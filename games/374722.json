@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374722,
+  "name": "Swarm Me",
+  "source_url": "https://www.igdb.com/games/swarm-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaq49.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swarm Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4033100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4033100",
+        "Linux": "setsid steam steam://rungameid/4033100",
+        "macOS": "open steam://rungameid/4033100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4033100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "swarm-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374722"
+}

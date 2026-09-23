@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387592,
+  "name": "Where's My Egg?",
+  "source_url": "https://www.igdb.com/games/wheres-my-egg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdqv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Where's My Egg?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4218030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4218030",
+        "Linux": "setsid steam steam://rungameid/4218030",
+        "macOS": "open steam://rungameid/4218030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4218030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wheres-my-egg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387592"
+}

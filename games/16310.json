@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16310,
+  "name": "Infra",
+  "source_url": "https://www.igdb.com/games/infra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "251110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/251110",
+        "Linux": "setsid steam steam://rungameid/251110",
+        "macOS": "open steam://rungameid/251110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/251110",
+      "protondb": {
+        "tier": "gold",
+        "reports": 54
+      }
+    }
+  ],
+  "igdb_slug": "infra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16310"
+}

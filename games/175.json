@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 175,
+  "name": "Afterlife",
+  "source_url": "https://www.igdb.com/games/afterlife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nrs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Afterlife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557240",
+        "Linux": "setsid steam steam://rungameid/557240",
+        "macOS": "open steam://rungameid/557240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/557240",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "afterlife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=175"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 91162,
+  "name": "Finder",
+  "source_url": "https://www.igdb.com/games/finder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29bd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Finder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816960",
+        "Linux": "setsid steam steam://rungameid/816960",
+        "macOS": "open steam://rungameid/816960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/816960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "finder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=91162"
+}

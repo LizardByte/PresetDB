@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3225,
+  "name": "No Man's Sky",
+  "source_url": "https://www.igdb.com/games/no-man-s-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnm2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Man's Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "275850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/275850",
+        "Linux": "setsid steam steam://rungameid/275850",
+        "macOS": "open steam://rungameid/275850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/275850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "no-man-s-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3225"
+}

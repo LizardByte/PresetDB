@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26813,
+  "name": "Nubla",
+  "source_url": "https://www.igdb.com/games/nubla",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q8y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nubla",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1101000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1101000",
+        "Linux": "setsid steam steam://rungameid/1101000",
+        "macOS": "open steam://rungameid/1101000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1101000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nubla",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26813"
+}

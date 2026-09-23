@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90278,
+  "name": "Save One More",
+  "source_url": "https://www.igdb.com/games/save-one-more",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40th.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save One More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820240",
+        "Linux": "setsid steam steam://rungameid/820240",
+        "macOS": "open steam://rungameid/820240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/820240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "save-one-more",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90278"
+}

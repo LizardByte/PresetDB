@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103839,
+  "name": "The Skeleton",
+  "source_url": "https://www.igdb.com/games/the-skeleton",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobow3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Skeleton",
+      "os": null,
+      "method": "steam",
+      "launch_id": "883330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/883330",
+        "Linux": "setsid steam steam://rungameid/883330",
+        "macOS": "open steam://rungameid/883330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/883330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-skeleton",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103839"
+}

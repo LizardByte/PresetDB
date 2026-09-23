@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10803,
+  "name": "Rush For Glory",
+  "source_url": "https://www.igdb.com/games/rush-for-glory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rush For Glory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303470",
+        "Linux": "setsid steam steam://rungameid/303470",
+        "macOS": "open steam://rungameid/303470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/303470",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "rush-for-glory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10803"
+}

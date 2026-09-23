@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201536,
+  "name": "Tales of Agaris",
+  "source_url": "https://www.igdb.com/games/tales-of-agaris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jcv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of Agaris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1990400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1990400",
+        "Linux": "setsid steam steam://rungameid/1990400",
+        "macOS": "open steam://rungameid/1990400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1990400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tales-of-agaris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201536"
+}

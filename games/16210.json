@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16210,
+  "name": "Pat & Mat",
+  "source_url": "https://www.igdb.com/games/pat-and-mat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pat & Mat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "65710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/65710",
+        "Linux": "setsid steam steam://rungameid/65710",
+        "macOS": "open steam://rungameid/65710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/65710",
+      "protondb": {
+        "tier": "silver",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "pat-and-mat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16210"
+}

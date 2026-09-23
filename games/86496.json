@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86496,
+  "name": "Egress",
+  "source_url": "https://www.igdb.com/games/egress",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ies.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Egress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "750800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/750800",
+        "Linux": "setsid steam steam://rungameid/750800",
+        "macOS": "open steam://rungameid/750800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/750800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "egress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86496"
+}

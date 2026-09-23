@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30986,
+  "name": "JumpBall",
+  "source_url": "https://www.igdb.com/games/jumpball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa226.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JumpBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "537360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/537360",
+        "Linux": "setsid steam steam://rungameid/537360",
+        "macOS": "open steam://rungameid/537360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/537360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jumpball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30986"
+}

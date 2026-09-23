@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150517,
+  "name": "Flea!",
+  "source_url": "https://www.igdb.com/games/flea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3hix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flea!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1346330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1346330",
+        "Linux": "setsid steam steam://rungameid/1346330",
+        "macOS": "open steam://rungameid/1346330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1346330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150517"
+}

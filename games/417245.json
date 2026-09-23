@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417245,
+  "name": "Nexus Storm",
+  "source_url": "https://www.igdb.com/games/nexus-storm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvd3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nexus Storm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3439870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3439870",
+        "Linux": "setsid steam steam://rungameid/3439870",
+        "macOS": "open steam://rungameid/3439870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3439870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nexus-storm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417245"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4847,
+  "name": "Lords of the Fallen",
+  "source_url": "https://www.igdb.com/games/lords-of-the-fallen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nzt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lords of the Fallen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "265300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/265300",
+        "Linux": "setsid steam steam://rungameid/265300",
+        "macOS": "open steam://rungameid/265300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/265300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lords-of-the-fallen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4847"
+}

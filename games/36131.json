@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36131,
+  "name": "Square Heroes",
+  "source_url": "https://www.igdb.com/games/square-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2re8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Square Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "334560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/334560",
+        "Linux": "setsid steam steam://rungameid/334560",
+        "macOS": "open steam://rungameid/334560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/334560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "square-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36131"
+}

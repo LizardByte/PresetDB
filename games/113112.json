@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113112,
+  "name": "Hades",
+  "source_url": "https://www.igdb.com/games/hades--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9kr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hades",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145360",
+        "Linux": "setsid steam steam://rungameid/1145360",
+        "macOS": "open steam://rungameid/1145360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1145360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hades--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113112"
+}

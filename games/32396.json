@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32396,
+  "name": "Quest Hunter",
+  "source_url": "https://www.igdb.com/games/quest-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zdx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quest Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "487000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/487000",
+        "Linux": "setsid steam steam://rungameid/487000",
+        "macOS": "open steam://rungameid/487000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/487000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "quest-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32396"
+}
