@@ -43,6 +43,7 @@ function formBody(values) {
   const labels = {
     gameUrl: 'IGDB game URL', appName: 'App name', appUrl: 'Official app URL',
     appImageUrl: 'App image URL', os: 'Host operating system', method: 'Launch method',
+    launchId: 'Launch ID',
     variantName: 'Emulator variant name', command: 'Command', workingDir: 'Working directory',
     notes: 'Notes', replacementIssue: 'Preset to replace (issue number)',
     replacementReason: 'Replacement reason'
@@ -111,23 +112,75 @@ test('apps use an HTTPS image URL and have separate review identity', () => {
   assert.throws(() => validateFields({ ...values, command: '{{APP_PATH}}' }, 'app'), /unsupported placeholder/);
   assert.equal(app.method, 'native');
   assert.throws(() => validateFields({ ...values, method: 'Steam' }, 'app'), /do not have a launch method/);
+  assert.throws(() => validateFields({ ...values, launchId: '464920' }, 'app'), /Launch ID requires/);
   assert.throws(() => validateFields({ ...values, command: '{{ROM_PATH}}' }, 'app'), /ROM_PATH.*Emulator/);
 });
 
-test('game methods validate host OS and command forms', () => {
-  const base = { ...gameValues, variantName: '' };
-  assert.throws(() => validateFields({ ...base, method: 'Steam', command: 'steam://rungameid/464920' }, 'game'),
-    /detached command/);
-  assert.equal(validateFields({ ...base, method: 'Steam', command: 'steam -applaunch 464920' }, 'game').method, 'steam');
-  const epic = { ...base, method: 'Epic Games', command: 'com.epicgames.launcher://apps/abc?action=launch&silent=true' };
-  assert.equal(validateFields(epic, 'game').method, 'epic-games');
-  assert.throws(() => validateFields({ ...epic, os: 'Linux' }, 'game'), /Windows only/);
-  assert.equal(validateFields({ ...base, method: 'Microsoft Store', command: 'explorer.exe shell:AppsFolder\\Game!App' }, 'game').method,
-    'microsoft-store');
-  assert.throws(() => validateFields({ ...base, os: 'Linux', method: 'Microsoft Store' }, 'game'), /Windows only/);
-  assert.throws(() => validateFields({ ...base, method: 'Other' }, 'game'), /supported game launch method/);
-  assert.throws(() => validateFields({ ...base, method: 'Native' }, 'game'), /ROM_PATH.*Emulator/);
-  assert.throws(() => validateFields({ ...base, method: 'Native', variantName: 'Alternate' }, 'game'), /Emulator/);
+test('store IDs generate OS-specific Sunshine commands', () => {
+  const base = { ...gameValues, variantName: '', command: '', workingDir: '' };
+  const steamCommands = {
+    Windows: 'cmd /c start "" "steam://rungameid/464920"',
+    Linux: 'steam "steam://rungameid/464920"',
+    macOS: 'open "steam://rungameid/464920"'
+  };
+  for (const [os, command] of Object.entries(steamCommands)) {
+    const preset = validateFields({ ...base, os, method: 'Steam', launchId: '464920' }, 'game');
+    assert.equal(preset.command, command);
+    assert.equal(preset.launchId, '464920');
+  }
+  const epic = 'fn%3A4fe75bbc5a674f4f9b356b5c90567da5%3AFortnite';
+  const epicUri = 'com.epicgames.launcher://apps/' + epic + '?action=launch&silent=true';
+  for (const [os, command] of [
+    ['Windows', 'cmd /c start "" "' + epicUri + '"'],
+    ['macOS', 'open "' + epicUri + '"']
+  ]) {
+    const preset = validateFields({ ...base, os, method: 'Epic Games',
+      launchId: 'fn:4fe75bbc5a674f4f9b356b5c90567da5:Fortnite' }, 'game');
+    assert.equal(preset.launchId, epic);
+    assert.equal(preset.command, command);
+  }
+  const aumid = 'Microsoft.WindowsCalculator_8wekyb3d8bbwe!App';
+  const store = validateFields({ ...base, method: 'Microsoft Store', launchId: aumid }, 'game');
+  assert.equal(store.command, 'explorer.exe shell:AppsFolder\\' + aumid);
+  assert.equal(store.launchId, aumid);
+  assert.equal(parseIssue(formBody({ ...base, method: 'Steam', launchId: '464920' })).launchId, '464920');
+});
+
+test('store IDs validate syntax, method, and host OS', () => {
+  const base = { ...gameValues, variantName: '', command: '', workingDir: '' };
+  assert.throws(() => validateFields({ ...base, method: 'Steam' }, 'game'), /Steam app ID/);
+  assert.throws(() => validateFields({ ...base, method: 'Steam', launchId: '1&whoami' }, 'game'), /Steam app ID/);
+  assert.throws(() => validateFields({ ...base, method: 'Steam', launchId: '4294967296' }, 'game'), /Steam app ID/);
+  assert.throws(() => validateFields({ ...base, method: 'Steam', launchId: '464920',
+    command: 'other.exe' }, 'game'), /Do not provide a command/);
+  assert.throws(() => validateFields({ ...base, method: 'Steam', launchId: '464920',
+    workingDir: '{{HOME}}' }, 'game'), /Working directory is not used/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', launchId: '464920',
+    command: 'game.exe' }, 'game'), /Launch ID requires/);
+  assert.throws(() => validateFields({ ...base, method: 'Epic Games', os: 'Linux',
+    launchId: 'fn:catalog:Fortnite' }, 'game'), /Windows and macOS only/);
+  assert.throws(() => validateFields({ ...base, method: 'Epic Games',
+    launchId: 'fn:catalog:Game&calc' }, 'game'), /Epic launch ID/);
+  assert.throws(() => validateFields({ ...base, method: 'Microsoft Store',
+    launchId: '9WZDNCRFHVJL' }, 'game'), /Microsoft Store AUMID/);
+  assert.throws(() => validateFields({ ...base, method: 'Microsoft Store', os: 'Linux',
+    launchId: 'Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' }, 'game'), /Windows only/);
+});
+
+test('Native, GOG, and Emulator still require reviewed commands', () => {
+  const base = { ...gameValues, variantName: '', command: '', workingDir: '' };
+  for (const method of ['Native', 'GOG', 'Emulator']) {
+    assert.throws(() => validateFields({ ...base, method }, 'game'), /command is required/);
+  }
+  assert.equal(validateFields({ ...base, method: 'GOG', command: 'game.exe' }, 'game').command, 'game.exe');
+  assert.throws(() => validateFields({ ...base, method: 'Other', command: 'game.exe' }, 'game'),
+    /supported game launch method/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', command: 'steam://rungameid/464920' }, 'game'),
+    /Launcher URIs require/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', command: '{{ROM_PATH}}' }, 'game'),
+    /ROM_PATH.*Emulator/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', command: 'game.exe',
+    variantName: 'Alternate' }, 'game'), /Emulator/);
 });
 
 test('approved presets get issue IDs and replacements preserve identity', async t => {
@@ -154,13 +207,14 @@ test('approved presets get issue IDs and replacements preserve identity', async 
     { issueNumber: 14, approvedBy: 'maintainer' }), /No preset/);
 });
 
-test('Steam executable publishes as a Sunshine command without an image path', async t => {
+test('Steam app ID publishes a generated Sunshine command without detached or image paths', async t => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'preset-steam-'));
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));
   const steam = await validateGameDb(validateFields({ ...gameValues, method: 'Steam',
-    variantName: '', command: 'steam -applaunch 464920' }, 'game'), mockApis, credentials);
+    variantName: '', command: '', workingDir: '', launchId: '464920' }, 'game'), mockApis, credentials);
   const { record } = mergePreset(root, steam, { issueNumber: 30, approvedBy: 'reviewer' }, { write: true });
-  assert.equal(record.presets[0].sunshine.cmd, 'steam -applaunch 464920');
+  assert.equal(record.presets[0].launch_id, '464920');
+  assert.equal(record.presets[0].sunshine.cmd, 'cmd /c start "" "steam://rungameid/464920"');
   assert.equal(record.presets[0].sunshine.name, 'One Tap Hero (Windows, Steam)');
   assert.ok(!Object.hasOwn(record.presets[0].sunshine, 'detached'));
   assert.ok(!Object.hasOwn(record.presets[0].sunshine, 'image-path'));

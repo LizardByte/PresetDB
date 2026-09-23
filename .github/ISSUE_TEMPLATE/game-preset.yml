@@ -9,6 +9,7 @@ body:
     attributes:
       value: |
         One issue represents one launch option. Provide the IGDB game URL; the bot resolves its ID and checks GameDB.
+        For Steam, Epic Games, or Microsoft Store, enter the matching launch ID; the bot creates the command.
         Add an emulator variant only when the operating system and launch method cannot distinguish the preset.
   - type: input
     id: game_url
@@ -41,6 +42,17 @@ body:
     validations:
       required: true
   - type: input
+    id: launch_id
+    attributes:
+      label: Launch ID
+      description: |
+        Required for Steam, Epic Games, and Microsoft Store; leave blank for Native, GOG, or Emulator.
+        Steam: numeric app ID from a store URL, for example 464920.
+        Epic Games: three-part ID between /apps/ and ? in a launcher shortcut,
+        for example fn%3A4fe75bbc5a674f4f9b356b5c90567da5%3AFortnite.
+        Microsoft Store: installed app's AUMID from Get-StartApps,
+        for example Microsoft.WindowsCalculator_8wekyb3d8bbwe!App. A Store product ID will not launch it.
+  - type: input
     id: variant_name
     attributes:
       label: Emulator variant name
@@ -50,16 +62,14 @@ body:
     attributes:
       label: Command
       description: |
-        Use {{ROM_PATH}} or {{HOME}} for variable paths. Windows also allows {{SYSTEM_DRIVE}}, {{PROGRAM_FILES}},
-        and {{PROGRAM_FILES_X86}}. Use only host-independent paths; literal home directories are rejected.
-        Steam launcher URIs require detached commands; use a Steam executable command.
-    validations:
-      required: true
+        Required for Native, GOG, and Emulator. Leave blank for Steam, Epic Games, and Microsoft Store.
+        Use {{ROM_PATH}} or {{HOME}} for variable paths. Windows also allows {{SYSTEM_DRIVE}},
+        {{PROGRAM_FILES}}, and {{PROGRAM_FILES_X86}}. Literal home directories are rejected.
   - type: input
     id: working_dir
     attributes:
       label: Working directory
-      description: Optional Sunshine working-dir value.
+      description: Optional Sunshine working-dir value for Native, GOG, and Emulator only.
   - type: textarea
     id: notes
     attributes:

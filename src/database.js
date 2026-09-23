@@ -89,6 +89,7 @@ function mergePreset(root, preset, {
   const entry = {
     id: presetId, name: generatedName, os: preset.os, method: preset.method,
     ...(preset.variantName ? { variant_name: preset.variantName } : {}),
+    ...(preset.launchId ? { launch_id: preset.launchId } : {}),
     sunshine: {
       name: generatedName,
       cmd: preset.command,

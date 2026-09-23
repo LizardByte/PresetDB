@@ -10,6 +10,7 @@ const FIELD_NAMES = {
   'App image URL': 'appImageUrl',
   'Host operating system': 'os',
   'Launch method': 'method',
+  'Launch ID': 'launchId',
   'Emulator variant name': 'variantName',
   Command: 'command',
   'Working directory': 'workingDir',
@@ -120,17 +121,41 @@ function appIdentity(values) {
   };
 }
 
-function validateLaunchCommand(command, os, method) {
-  const steamUri = /steam:\/\//i.test(command);
-  const epicUri = /com\.epicgames\.launcher:\/\//i.test(command);
-  if (steamUri) {
-    throw new PresetError('Steam URI needs a detached command; use a Steam executable command instead');
+function generatedLaunch(values, method, os) {
+  const id = field(values, 'launchId', { limit: 300, singleLine: true });
+  if (!['Steam', 'Epic Games', 'Microsoft Store'].includes(method)) {
+    if (id) throw new PresetError('Launch ID requires Steam, Epic Games, or Microsoft Store');
+    return null;
   }
-  if (epicUri && method !== 'Epic Games') {
-    throw new PresetError('Epic Games URI requires the Epic Games launch method');
+
+  if (method === 'Steam') {
+    if (!/^[1-9]\d{0,9}$/.test(id) || Number(id) > 4294967295) {
+      throw new PresetError('Steam app ID must be a positive 32-bit number');
+    }
+    const uri = 'steam://rungameid/' + id;
+    const command = os === 'Windows' ? 'cmd /c start "" "' + uri + '"'
+      : os === 'macOS' ? 'open "' + uri + '"' : 'steam "' + uri + '"';
+    return { command, launchId: id };
   }
-  if (epicUri && (os !== 'Windows' || !/^com\.epicgames\.launcher:\/\/apps\/[^\s?]+(?:\?[^\s]+)?$/i.test(command))) {
-    throw new PresetError('Epic Games launcher URI is supported for Windows only');
+  if (method === 'Epic Games') {
+    const parts = id.split(/%3A|:/i);
+    if (parts.length !== 3 || parts.some(part => !/^[A-Za-z0-9][A-Za-z0-9._-]{0,99}$/.test(part))) {
+      throw new PresetError('Epic launch ID must contain Sandbox ID, Catalog ID, and Artifact ID');
+    }
+    const launchId = parts.join('%3A');
+    const uri = 'com.epicgames.launcher://apps/' + launchId + '?action=launch&silent=true';
+    const command = os === 'Windows' ? 'cmd /c start "" "' + uri + '"' : 'open "' + uri + '"';
+    return { command, launchId };
+  }
+  if (!/^[A-Za-z0-9][A-Za-z0-9._-]*_[A-Za-z0-9]{13}![A-Za-z0-9][A-Za-z0-9._-]*$/.test(id)) {
+    throw new PresetError('Microsoft Store AUMID must contain a package family name and application ID');
+  }
+  return { command: 'explorer.exe shell:AppsFolder\\' + id, launchId: id };
+}
+
+function validateManualLaunchCommand(command) {
+  if (/steam:\/\//i.test(command) || /com\.epicgames\.launcher:\/\//i.test(command)) {
+    throw new PresetError('Launcher URIs require their matching store ID field');
   }
 }
 
@@ -162,13 +187,20 @@ function validateFields(values, kind) {
   if (method === 'Microsoft Store' && os !== 'Windows') {
     throw new PresetError('Microsoft Store is available on Windows only');
   }
+  if (method === 'Epic Games' && os === 'Linux') {
+    throw new PresetError('Epic Games launcher IDs are available on Windows and macOS only');
+  }
   const variantName = field(values, 'variantName', { limit: 100, singleLine: true });
   if (variantName && method !== 'Emulator') {
     throw new PresetError('An emulator variant name requires the Emulator launch method');
   }
   const identity = kind === 'game' ? gameIdentity(values) : appIdentity(values);
-  const command = field(values, 'command', { required: true, singleLine: true });
+  const launch = generatedLaunch(values, method, os);
+  const submittedCommand = field(values, 'command', { required: !launch, singleLine: true });
   const workingDir = field(values, 'workingDir', { limit: 512, singleLine: true });
+  if (launch && submittedCommand) throw new PresetError('Do not provide a command for a store ID launch');
+  if (launch && workingDir) throw new PresetError('Working directory is not used with a store ID launch');
+  const command = launch ? launch.command : submittedCommand;
   validatePlaceholders(command, os, 'Launch command');
   validatePlaceholders(workingDir, os, 'Working directory');
   if (method !== 'Emulator' && (command.includes('{{ROM_PATH}}') || workingDir.includes('{{ROM_PATH}}'))) {
@@ -176,10 +208,10 @@ function validateFields(values, kind) {
   }
   validatePortablePath(command, os, 'Launch command');
   validatePortablePath(workingDir, os, 'Working directory');
-  validateLaunchCommand(command, os, method);
+  if (!launch) validateManualLaunchCommand(command);
   return {
     kind, ...identity, variantName: variantName || null, ...replacementFields(values),
-    os, method: slug(method), command,
+    os, method: slug(method), command, launchId: launch ? launch.launchId : null,
     workingDir: workingDir || null,
     notes: field(values, 'notes', { limit: 2000 }) || null
   };
