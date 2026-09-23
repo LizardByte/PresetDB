@@ -1,6 +1,6 @@
 ---
 name: App launch preset
-description: Request one Sunshine launch option for a non-game app.
+description: Request one launch option for a non-game app.
 title: '[APP PRESET]: '
 labels:
   - request-app-preset
@@ -52,7 +52,7 @@ body:
     id: working_dir
     attributes:
       label: Working directory
-      description: Optional Sunshine working-dir value.
+      description: Optional working directory.
   - type: textarea
     id: notes
     attributes:

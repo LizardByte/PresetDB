@@ -1,6 +1,6 @@
 ---
 name: Epic Games game preset
-description: Request a Sunshine Epic Games launch option for a GameDB game.
+description: Request an Epic Games launch option for a GameDB game.
 title: '[EPIC GAMES GAME PRESET]: '
 labels:
   - request-game-preset
@@ -25,7 +25,7 @@ body:
       description: |
         Three-part Sandbox ID, Catalog ID, and Artifact ID from the Epic launcher shortcut,
         separated by colons or %3A. For example fn%3A4fe75bbc5a674f4f9b356b5c90567da5%3AFortnite.
-        The bot generates the Sunshine command for each supported launcher OS.
+        The bot generates the command for each supported launcher OS.
     validations:
       required: true
   - type: textarea

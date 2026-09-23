@@ -12,10 +12,16 @@ function filterItems(index, query, kind, os) {
   ).sort((a, b) => a.name.localeCompare(b.name));
 }
 
+function commandForOs(preset, os = 'Windows') {
+  const command = preset.commands_by_os?.[os] || preset.command;
+  if (!command) throw new Error('Choose an available host OS');
+  return command;
+}
+
 function sunshineSnippet(preset, os = 'Windows') {
-  const sunshine = preset.sunshine_by_os?.[os] || preset.sunshine;
-  if (!sunshine) throw new Error('Choose an available host OS');
-  return JSON.stringify(sunshine, null, 2);
+  const snippet = { name: preset.name, cmd: commandForOs(preset, os) };
+  if (preset.working_directory) snippet['working-dir'] = preset.working_directory;
+  return JSON.stringify(snippet, null, 2);
 }
 
 function normalizeBasePath(value) {
@@ -75,10 +81,10 @@ function appendProtonRating(body, preset) {
 }
 
 function hostSelection(body, preset) {
-  if (!preset.sunshine_by_os) return null;
+  if (!preset.commands_by_os) return null;
   const label = element('label', 'form-label', 'Host OS');
   const select = element('select', 'form-select rounded-0 mb-3');
-  for (const host of Object.keys(preset.sunshine_by_os)) {
+  for (const host of Object.keys(preset.commands_by_os)) {
     const option = element('option', '', host);
     option.value = host;
     select.append(option);
@@ -111,23 +117,45 @@ function renderPresetCard(preset) {
   if (preset.notes) body.append(element('p', 'card-text', preset.notes));
   appendProtonRating(body, preset);
   const hostSelect = hostSelection(body, preset);
+  const commandText = () => commandForOs(preset, hostSelect?.value);
   const snippet = () => sunshineSnippet(preset, hostSelect?.value);
   const command = element('pre', 'p-3 rounded bg-dark text-light overflow-auto');
-  const code = element('code', '', snippet());
+  const code = element('code', '', commandText());
   command.append(code);
-  if (hostSelect) hostSelect.addEventListener('change', () => { code.textContent = snippet(); });
   body.append(command);
-  const copy = element('button', 'btn btn-warning rounded-0', 'Copy Sunshine JSON');
+  const copy = element('button', 'btn btn-warning rounded-0', 'Copy command');
   copy.type = 'button';
   copy.addEventListener('click', async () => {
     try {
-      await navigator.clipboard.writeText(snippet());
+      await navigator.clipboard.writeText(commandText());
       copy.textContent = 'Copied';
     } catch {
-      copy.textContent = 'Select and copy the JSON above';
+      copy.textContent = 'Select and copy the command above';
     }
   });
   body.append(copy);
+  const details = element('details', 'mt-3');
+  details.append(element('summary', 'mb-2', 'Sunshine JSON'));
+  const sunshineCode = element('code', '', snippet());
+  const sunshineJson = element('pre', 'p-3 rounded bg-dark text-light overflow-auto');
+  sunshineJson.append(sunshineCode);
+  details.append(sunshineJson);
+  const copyJson = element('button', 'btn btn-outline-secondary rounded-0', 'Copy Sunshine JSON');
+  copyJson.type = 'button';
+  copyJson.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(snippet());
+      copyJson.textContent = 'Copied';
+    } catch {
+      copyJson.textContent = 'Select and copy the JSON above';
+    }
+  });
+  details.append(copyJson);
+  body.append(details);
+  if (hostSelect) hostSelect.addEventListener('change', () => {
+    code.textContent = commandText();
+    sunshineCode.textContent = snippet();
+  });
   appendIssueLinks(body, preset);
   card.append(body);
   column.append(card);
@@ -221,4 +249,4 @@ function boot() {
 }
 
 if (typeof document !== 'undefined') document.addEventListener('DOMContentLoaded', boot);
-if (typeof module !== 'undefined') module.exports = { filterItems, sunshineSnippet, normalizeBasePath };
+if (typeof module !== 'undefined') module.exports = { filterItems, commandForOs, sunshineSnippet, normalizeBasePath };

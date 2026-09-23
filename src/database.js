@@ -3,6 +3,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { PresetError } = require('./presets');
+const { normalizeRecord } = require('./record');
 
 function recordPath(root, preset) {
   const folder = preset.kind === 'game' ? 'games' : 'apps';
@@ -12,7 +13,7 @@ function recordPath(root, preset) {
 
 function readRecord(file) {
   if (!fs.existsSync(file)) return null;
-  const record = JSON.parse(fs.readFileSync(file, 'utf8'));
+  const record = normalizeRecord(JSON.parse(fs.readFileSync(file, 'utf8')));
   if (!record || !Array.isArray(record.presets)) throw new PresetError(`Invalid database record: ${file}`);
   return record;
 }
@@ -25,7 +26,7 @@ function prepareRecord(root, preset) {
   let record = readRecord(file);
   if (!record) {
     record = {
-      schema_version: 1, kind: preset.kind, id: preset.kind === 'game' ? preset.gameId : preset.appId,
+      schema_version: 2, kind: preset.kind, id: preset.kind === 'game' ? preset.gameId : preset.appId,
       name, source_url: sourceUrl, image_url: null, presets: []
     };
   }
@@ -79,7 +80,7 @@ function mergePreset(root, preset, {
   const { file, record, name } = prepareRecord(root, preset);
   const previous = replacementIndex(record, preset);
   const originIssue = previous >= 0 ? record.presets[previous].origin_issue : issueNumber;
-  const presetId = `issue-${originIssue}`;
+  const presetId = String(originIssue);
   const history = previous >= 0 ? [...(record.presets[previous].history || [])] : [];
   if (history.some(item => item.issue === issueNumber)) {
     throw new PresetError(`Issue #${issueNumber} has already been approved for this preset`);
@@ -93,17 +94,12 @@ function mergePreset(root, preset, {
     id: presetId, name: generatedName, os: preset.os, method: preset.method,
     ...(preset.variantName ? { variant_name: preset.variantName } : {}),
     ...(preset.launchId ? { launch_id: preset.launchId } : {}),
-    ...(preset.commandsByOs ? {
-      sunshine_by_os: Object.fromEntries(Object.entries(preset.commandsByOs).map(([os, cmd]) => [
-        os, { name: name + ' (' + os + ', ' + methodLabel(preset.method) + ')', cmd }
-      ]))
-    } : {
-      sunshine: {
-        name: generatedName,
-        cmd: preset.command,
-        ...(preset.workingDir ? { 'working-dir': preset.workingDir } : {})
-      }
-    }),
+    ...(preset.commandsByOs
+      ? { commands_by_os: preset.commandsByOs }
+      : {
+        command: preset.command,
+        ...(preset.workingDir ? { working_directory: preset.workingDir } : {})
+      }),
     notes: preset.notes,
     origin_issue: originIssue,
     source_issue: issueNumber,
@@ -113,7 +109,7 @@ function mergePreset(root, preset, {
   };
   if (previous >= 0) record.presets[previous] = entry;
   else record.presets.push(entry);
-  record.presets.sort((a, b) => a.id.localeCompare(b.id));
+  record.presets.sort((a, b) => Number(a.id) - Number(b.id));
   if (write) {
     fs.mkdirSync(path.dirname(file), { recursive: true });
     fs.writeFileSync(file, `${JSON.stringify(record, null, 2)}\n`);

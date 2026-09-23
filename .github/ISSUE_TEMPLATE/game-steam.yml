@@ -1,6 +1,6 @@
 ---
 name: Steam game preset
-description: Request a Sunshine Steam launch option for a GameDB game.
+description: Request a Steam launch option for a GameDB game.
 title: '[STEAM GAME PRESET]: '
 labels:
   - request-game-preset
@@ -24,7 +24,7 @@ body:
       label: Launch ID
       description: |
         Steam numeric app ID from its store URL, for example 464920.
-        The bot generates the Sunshine command for each supported launcher OS.
+        The bot generates the command for each supported launcher OS.
     validations:
       required: true
   - type: textarea

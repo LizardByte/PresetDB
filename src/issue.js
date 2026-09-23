@@ -69,12 +69,12 @@ async function main(args = process.argv.slice(2)) {
     });
     const item = result.kind === 'game' ? `GameDB game ${result.preset.gameId}` : `app ${result.preset.appName}`;
     const entry = result.record.presets.find(preset => preset.id === result.id);
-    const preview = entry.sunshine || entry.sunshine_by_os;
+    const preview = entry.commands_by_os || { command: entry.command, ...(entry.working_directory ? { working_directory: entry.working_directory } : {}) };
     const methodLine = result.kind === 'game' ? `- Method: ${result.preset.method}\n` : '';
     message = `Preset ${result.action === 'replace' ? 'replacement' : 'request'} validated for ${item}.\n\n` +
       `- Host: ${result.preset.os || 'OS independent'}\n` + methodLine + `- Preset ID: \`${result.id}\`\n` +
       `- Status: ${options.mode === 'approve' ? 'approved and saved' : 'awaiting maintainer review'}\n\n` +
-      `Sunshine application JSON preview:\n\n\`\`\`json\n${JSON.stringify(preview, null, 2)}\n\`\`\`\n`;
+      `Launch command preview:\n\n\`\`\`json\n${JSON.stringify(preview, null, 2)}\n\`\`\`\n`;
     success = true;
   } catch (error) {
     message = `Preset validation failed: ${String(error.message).replace(/[\r\n]+/g, ' ').slice(0, 500)}\n`;

@@ -1,6 +1,6 @@
 ---
 name: Emulator game preset
-description: Request a Sunshine Emulator launch option for a GameDB game.
+description: Request an emulator launch option for a GameDB game.
 title: '[EMULATOR GAME PRESET]: '
 labels:
   - request-game-preset
@@ -28,7 +28,7 @@ body:
     attributes:
       label: Command
       description: |
-        Portable Sunshine command for the emulator. Use {{ROM_PATH}} for the game and
+        Portable command for the emulator. Use {{ROM_PATH}} for the game and
         {{HOME}} for a variable home path. Put the emulator executable on the host PATH.
         Windows-only path placeholders, literal home directories, and reserved system names are rejected.
     validations:
@@ -37,7 +37,7 @@ body:
     id: working_dir
     attributes:
       label: Working directory
-      description: Optional portable Sunshine working-dir value.
+      description: Optional portable working directory.
   - type: textarea
     id: notes
     attributes:

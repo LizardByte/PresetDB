@@ -8,6 +8,14 @@ npm test
 npm run lint
 ```
 
+List pending database migrations without changing records with:
+
+```shell
+node src/migrate-database.js --database database --pending
+```
+
+The `Migrate Database` workflow runs on pushes to `master`. It creates a backup branch from the current database commit before changing records, then writes applied migration IDs and backup details to `database/migrations.json` on the active `database` branch. Re-runs skip IDs already in that file.
+
 Build the static site from the local database layout with:
 
 ```shell
