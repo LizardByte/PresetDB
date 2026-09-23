@@ -10,7 +10,7 @@ const FIELD_NAMES = {
   'App image URL': 'appImageUrl',
   'Host operating system': 'os',
   'Launch method': 'method',
-  'Preset name': 'presetName',
+  'Emulator variant name': 'variantName',
   Command: 'command',
   'Working directory': 'workingDir',
   Notes: 'notes',
@@ -70,6 +70,19 @@ function validatePlaceholders(value, os, label) {
   }
 }
 
+function validatePortablePath(value, os, label) {
+  // Personal home locations cannot be shared between Sunshine hosts.
+  const normalized = value.replace(/\\/g, '/');
+  const literalHome = /(?:^|[\s"'=])(?:~(?:\/|$)|[a-z]:\/(?:users|documents and settings)\/[^/\s"']+|\/(?:home|users)\/[^/\s"']+|%userprofile%|%homepath%|\$(?:home|\{home\}|\(home\)))/i;
+  if (literalHome.test(normalized)) {
+    throw new PresetError(`${label} contains a literal home directory; use {{HOME}}`);
+  }
+  if (os === 'Windows' &&
+      /(?:^|[\/\s"'=])(?:con|prn|aux|nul|com[1-9\u00B9\u00B2\u00B3]|lpt[1-9\u00B9\u00B2\u00B3])(?:\.[^/\s"']*)?(?=$|[\/\s"'])/i.test(normalized)) {
+    throw new PresetError(`${label} contains a reserved Windows device name`);
+  }
+}
+
 function gameIdentity(values) {
   const gameUrl = field(values, 'gameUrl', { required: true, limit: 300, singleLine: true });
   let url;
@@ -97,35 +110,27 @@ function appIdentity(values) {
   httpsUrl(appUrl, 'Official app URL');
   const appImageUrl = field(values, 'appImageUrl', { limit: 500, singleLine: true });
   if (appImageUrl) httpsUrl(appImageUrl, 'App image URL');
-  return {
-    gameId: null, gameSlug: null, appId: slug(appName), appName, appUrl, appImageUrl
-  };
-}
-
-function validateSteamUri(command, os) {
-  const uri = String.raw`steam://(?:rungameid/\d+|open/bigpicture)`;
-  let pattern = `^${uri}$`;
-  if (os === 'Linux') pattern = `^setsid steam ${uri}$`;
-  else if (os === 'macOS') pattern = `^open ${uri}$`;
-  if (!new RegExp(pattern, 'i').test(command)) {
-    throw new PresetError(`Steam URI must use Sunshine's ${os} command form`);
+  const appId = slug(appName);
+  if (/^(?:con|prn|aux|nul|com[1-9]|lpt[1-9])$/.test(appId)) {
+    throw new PresetError('App name resolves to a reserved Windows file name');
   }
+  return {
+    gameId: null, gameSlug: null, appId, appName, appUrl, appImageUrl
+  };
 }
 
 function validateLaunchCommand(command, os, method) {
   const steamUri = /steam:\/\//i.test(command);
   const epicUri = /com\.epicgames\.launcher:\/\//i.test(command);
-  if (steamUri && method !== 'Steam') {
-    throw new PresetError('Steam URI requires the Steam launch method');
+  if (steamUri) {
+    throw new PresetError('Steam URI needs a detached command; use a Steam executable command instead');
   }
   if (epicUri && method !== 'Epic Games') {
     throw new PresetError('Epic Games URI requires the Epic Games launch method');
   }
-  if (steamUri) validateSteamUri(command, os);
   if (epicUri && (os !== 'Windows' || !/^com\.epicgames\.launcher:\/\/apps\/[^\s?]+(?:\?[^\s]+)?$/i.test(command))) {
     throw new PresetError('Epic Games launcher URI is supported for Windows only');
   }
-  return steamUri ? 'detached' : 'cmd';
 }
 
 function replacementFields(values) {
@@ -141,21 +146,39 @@ function replacementFields(values) {
 function validateFields(values, kind) {
   if (kind !== 'game' && kind !== 'app') throw new PresetError('Exactly one request type is required');
   const os = field(values, 'os', { required: true, limit: 20, singleLine: true });
-  const method = field(values, 'method', { required: true, limit: 30, singleLine: true });
-  if (!['Windows', 'Linux', 'macOS'].includes(os) ||
-      !['Native', 'Steam', 'Epic Games', 'GOG', 'Emulator', 'Other'].includes(method)) {
-    throw new PresetError('Choose a supported host OS and launch method');
+  if (!['Windows', 'Linux', 'macOS'].includes(os)) {
+    throw new PresetError('Choose a supported host OS');
   }
-  const presetName = field(values, 'presetName', { required: true, limit: 100, singleLine: true });
+  const suppliedMethod = field(values, 'method', { limit: 30, singleLine: true });
+  const method = kind === 'app' ? 'Native' : suppliedMethod;
+  if (kind === 'app' && suppliedMethod) {
+    throw new PresetError('App requests do not have a launch method');
+  }
+  if (kind === 'game' &&
+      !['Native', 'Steam', 'Epic Games', 'GOG', 'Microsoft Store', 'Emulator'].includes(method)) {
+    throw new PresetError('Choose a supported game launch method');
+  }
+  if (method === 'Microsoft Store' && os !== 'Windows') {
+    throw new PresetError('Microsoft Store is available on Windows only');
+  }
+  const variantName = field(values, 'variantName', { limit: 100, singleLine: true });
+  if (variantName && method !== 'Emulator') {
+    throw new PresetError('An emulator variant name requires the Emulator launch method');
+  }
   const identity = kind === 'game' ? gameIdentity(values) : appIdentity(values);
   const command = field(values, 'command', { required: true, singleLine: true });
   const workingDir = field(values, 'workingDir', { limit: 512, singleLine: true });
   validatePlaceholders(command, os, 'Launch command');
   validatePlaceholders(workingDir, os, 'Working directory');
-  const commandMode = validateLaunchCommand(command, os, method);
+  if (method !== 'Emulator' && (command.includes('{{ROM_PATH}}') || workingDir.includes('{{ROM_PATH}}'))) {
+    throw new PresetError('{{ROM_PATH}} requires the Emulator launch method');
+  }
+  validatePortablePath(command, os, 'Launch command');
+  validatePortablePath(workingDir, os, 'Working directory');
+  validateLaunchCommand(command, os, method);
   return {
-    kind, ...identity, presetName, ...replacementFields(values),
-    os, method: slug(method), command, commandMode,
+    kind, ...identity, variantName: variantName || null, ...replacementFields(values),
+    os, method: slug(method), command,
     workingDir: workingDir || null,
     notes: field(values, 'notes', { limit: 2000 }) || null
   };

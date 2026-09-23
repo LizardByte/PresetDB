@@ -49,8 +49,9 @@ async function main(args = process.argv.slice(2)) {
     });
     const item = result.kind === 'game' ? `GameDB game ${result.preset.gameId}` : `app ${result.preset.appName}`;
     const entry = result.record.presets.find(preset => preset.id === result.id);
+    const methodLine = result.kind === 'game' ? `- Method: ${result.preset.method}\n` : '';
     message = `Preset ${result.action === 'replace' ? 'replacement' : 'request'} validated for ${item}.\n\n` +
-      `- Host: ${result.preset.os}\n- Method: ${result.preset.method}\n- Preset ID: \`${result.id}\`\n` +
+      `- Host: ${result.preset.os}\n` + methodLine + `- Preset ID: \`${result.id}\`\n` +
       `- Status: ${options.mode === 'approve' ? 'approved and saved' : 'awaiting maintainer review'}\n\n` +
       `Sunshine application preview:\n\n\`\`\`json\n${JSON.stringify(entry.sunshine, null, 2)}\n\`\`\`\n`;
     success = true;

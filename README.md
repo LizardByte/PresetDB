@@ -19,7 +19,7 @@
   <a href="https://github.com/LizardByte/PresetDB/issues?q=is%3Aclosed+label%3Aapprove-preset"><img src="https://img.shields.io/github/issues-closed/LizardByte/PresetDB/approve-preset.svg?style=for-the-badge&label=approved&color=green" alt="Approved requests"></a>
 </div>
 
-Community maintained launch presets for [Sunshine](https://github.com/LizardByte/Sunshine). Each game or app can have many presets across Windows, Linux, and macOS. Launch methods include direct executables, Steam, Epic Games, GOG, emulators, and other options. GitHub issue numbers provide stable preset IDs, while descriptive names distinguish emulator cores or store editions.
+Community maintained launch presets for [Sunshine](https://github.com/LizardByte/Sunshine). Each game or app can have many presets across Windows, Linux, and macOS. Game launch methods include Native, Steam, Epic Games, GOG, Microsoft Store, and Emulator. App presets use the app name and host OS. GitHub issue numbers provide stable IDs, while the bot generates names and accepts optional emulator variants.
 
 Each GitHub issue requests **one preset**. Game requests must identify a [GameDB](https://app.lizardbyte.dev/GameDB/) record. App requests use a separate form and require a name and official source URL for maintainer review. A bot validates the request, and an authorized reviewer enters it into the approval queue. No code or pull request is needed to contribute.
 
@@ -46,15 +46,15 @@ The website publishes [catalog statistics](https://app.lizardbyte.dev/PresetDB/s
 ## Contribute
 
 1. Read the [preset guidelines](docs/presetGuidelines.md). For a game, copy its [IGDB game URL](https://www.igdb.com/) and [open a game preset request](https://github.com/LizardByte/PresetDB/issues/new?template=game-preset.yml). The bot resolves the URL slug to the IGDB numeric ID and checks GameDB. For another app, [open an app preset request](https://github.com/LizardByte/PresetDB/issues/new?template=app-preset.yml) with its official URL.
-2. Fill in **one** launch option. Choose the host OS and launch method, then give the preset a descriptive name such as `RetroArch with Snes9x` or `Steam URI`. Open another issue for another OS or option.
-3. Fill in one **Command**. Sunshine's [app examples](https://github.com/LizardByte/Sunshine/blob/master/docs/app_examples.md) show different Steam URI forms for Windows, Linux, and macOS. The bot stores Steam launcher URIs as Sunshine detached commands. Epic launcher URIs and executable commands become `cmd`. Commands are stored as text and never executed by validation or by the website.
+2. Fill in **one** launch option. Choose the host OS and, for a game, its launch method. Add an emulator variant such as `RetroArch Snes9x` only when needed to distinguish emulator presets. The bot generates the preset name.
+3. Fill in one **Command**. The bot publishes it as Sunshine `cmd`. Sunshine's [app examples](https://github.com/LizardByte/Sunshine/blob/master/docs/app_examples.md) use detached commands for Steam launcher URIs, so use a Steam executable command instead. Commands are stored as text and never executed by validation or by the website.
 4. To replace a preset, provide its issue number and explain the change. The bot preserves the original preset ID.
 
 After validation, a listed trusted game contributor enters the approval queue automatically. Other requests wait for a listed approver or repository admin to comment `@LizardByte-bot approve`. App requests always require this separate review. The queue processes one approval at a time; see the [approver guide](docs/approverGuide.md) and [bot commands](docs/botCommands.md).
 
-Supported path placeholders in Command and Working directory are `{{ROM_PATH}}` and `{{HOME}}`; Windows also allows `{{SYSTEM_DRIVE}}`, `{{PROGRAM_FILES}}`, and `{{PROGRAM_FILES_X86}}`. Unknown or malformed placeholders are rejected. Literal commands still require maintainer review.
+Supported path placeholders in Command and Working directory are `{{ROM_PATH}}` for emulator games and `{{HOME}}`; Windows also allows `{{SYSTEM_DRIVE}}`, `{{PROGRAM_FILES}}`, and `{{PROGRAM_FILES_X86}}`. Unknown placeholders, literal home directories, and Windows reserved device names are rejected. Literal commands still require maintainer review.
 
-Game submissions resolve the submitted slug through [IGDB's authenticated API](https://api-docs.igdb.com/), then check the resolved ID and slug against the live [GameDB JSON API](https://github.com/LizardByte/GameDB#data). An unavailable or mismatched result blocks approval. App submissions have no GameDB counterpart and always need separate maintainer review. Steam and Epic launcher URI syntax is checked against the selected host OS and method; binary commands still need human review.
+Game submissions resolve the submitted slug through [IGDB's authenticated API](https://api-docs.igdb.com/), then check the resolved ID and slug against the live [GameDB JSON API](https://github.com/LizardByte/GameDB#data). An unavailable or mismatched result blocks approval. App submissions have no GameDB counterpart and always need separate maintainer review. Steam URIs are rejected because they require detached commands; Epic URI syntax is checked against Windows and the Epic Games method. Binary commands still need human review.
 
 ## Repository and deployment
 
@@ -69,7 +69,7 @@ The Pages workflow creates an archive from the database and site template, then 
 
 The empty `database` branch is initialized with `database/apps` and `database/games`. Before enabling automation, create the `gh-pages` branch from `master`, set Pages to deploy from `gh-pages`, and configure `GH_BOT_TOKEN`, `GH_BOT_EMAIL`, `GH_BOT_NAME`, `TWITCH_CLIENT_ID`, and `TWITCH_CLIENT_SECRET` as in the existing LizardByte database projects. `GH_BOT_TOKEN` needs issue, contents, and Actions write access to publish the database and dispatch the Pages build. The Twitch credentials resolve IGDB slugs; GameDB itself needs no credentials. Create the `request-game-preset`, `request-app-preset`, `approve-queue`, and `approve-preset` labels. Set the GitHub repository description to the heading description above. The `database` branch retains the `database/` directory; approved records are written there.
 
-Connect this repository to Read the Docs and enable pull request preview builds. The preview configuration downloads the `site-source` artifact from the Pages build job and uses the shared LizardByte theme. See [developer setup](docs/developerSetup.md) for local commands.
+Connect this repository to Read the Docs and enable pull request preview builds. Set `GITHUB_WORKFLOW=build`, `SITE_ARTIFACT=site-source`, and `EXTRACT_ARCHIVE=build.zip` in the Read the Docs project environment. The shared script downloads the Pages build artifact and extracts the nested site archive. See [developer setup](docs/developerSetup.md) for local commands.
 
 ## Local checks
 

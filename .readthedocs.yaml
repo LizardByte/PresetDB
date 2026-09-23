@@ -22,4 +22,4 @@ build:
         chmod +x "./tmp/readthedocs_build.sh"
     build:
       html:
-        - GITHUB_WORKFLOW=build SITE_ARTIFACT=site-source EXTRACT_ARCHIVE=build.zip ./tmp/readthedocs_build.sh
+        - ./tmp/readthedocs_build.sh

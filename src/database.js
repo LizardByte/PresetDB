@@ -43,6 +43,17 @@ function prepareRecord(root, preset) {
   return { file, record, name };
 }
 
+function displayName(name, preset) {
+  if (preset.kind === 'app') return `${name} (${preset.os})`;
+  const labels = {
+    native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games',
+    gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
+  };
+  const method = labels[preset.method];
+  const variant = preset.variantName ? `: ${preset.variantName}` : '';
+  return `${name} (${preset.os}, ${method}${variant})`;
+}
+
 function replacementIndex(record, preset) {
   const previous = preset.replacementIssue == null ? -1 : record.presets.findIndex(item =>
     item.origin_issue === preset.replacementIssue || item.source_issue === preset.replacementIssue
@@ -50,10 +61,11 @@ function replacementIndex(record, preset) {
   if (preset.replacementIssue != null && previous < 0) {
     throw new PresetError(`No preset for issue #${preset.replacementIssue} exists under this ${preset.kind}`);
   }
-  const normalizedName = preset.presetName.normalize('NFKC').toLocaleLowerCase();
+  const normalizedVariant = (preset.variantName || '').normalize('NFKC').toLocaleLowerCase();
   if (record.presets.some((item, index) => index !== previous && item.os === preset.os &&
-      item.method === preset.method && item.name.normalize('NFKC').toLocaleLowerCase() === normalizedName)) {
-    throw new PresetError('A preset with this name, OS, and method already exists');
+      item.method === preset.method &&
+      (item.variant_name || '').normalize('NFKC').toLocaleLowerCase() === normalizedVariant)) {
+    throw new PresetError('A preset with this OS, method, and variant already exists');
   }
   return previous;
 }
@@ -73,11 +85,13 @@ function mergePreset(root, preset, {
     issue: issueNumber, action: previous >= 0 ? 'replace' : 'add',
     author_id: authorId, author_login: authorLogin, approved_at: approvedAt
   });
+  const generatedName = displayName(name, preset);
   const entry = {
-    id: presetId, name: preset.presetName, os: preset.os, method: preset.method,
+    id: presetId, name: generatedName, os: preset.os, method: preset.method,
+    ...(preset.variantName ? { variant_name: preset.variantName } : {}),
     sunshine: {
-      name: `${name} (${preset.presetName})`,
-      ...(preset.commandMode === 'detached' ? { detached: [preset.command] } : { cmd: preset.command }),
+      name: generatedName,
+      cmd: preset.command,
       ...(preset.workingDir ? { 'working-dir': preset.workingDir } : {})
     },
     notes: preset.notes,

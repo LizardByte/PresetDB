@@ -16,4 +16,12 @@ node src/build-site.js --database database --output site-build
 
 The site builder writes `index.json`, `stats.json`, two SVG contribution charts, and game and app records. It uses the `gh-pages-template` directory as the Jekyll source. The Pages workflow packages that output for the shared LizardByte Jekyll workflow.
 
-Read the Docs pull request previews use `.readthedocs.yaml` and the shared `readthedocs_build.sh` script. Connect the repository to Read the Docs, enable pull request builds, and ensure the `Build Pages` workflow can upload its `site-source` artifact for the PR commit. The shared script downloads `build.zip` from that artifact and builds the preview with the organization theme. Hosted preview and Pages deployment require the repository, credentials, and branch settings described in the README.
+Read the Docs pull request previews use `.readthedocs.yaml` and the shared `readthedocs_build.sh` script. Connect the repository to Read the Docs, enable pull request builds, and set these project environment variables:
+
+```text
+GITHUB_WORKFLOW=build
+SITE_ARTIFACT=site-source
+EXTRACT_ARCHIVE=build.zip
+```
+
+The `Build Pages` workflow publishes a check run named `build`, uploads a `site-source` artifact containing `build.zip`, and the shared script extracts that nested archive before building with the organization theme. Hosted preview and Pages deployment require the repository, credentials, and branch settings described in the README.

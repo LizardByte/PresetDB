@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         One issue represents one launch option. Provide the IGDB game URL; the bot resolves its ID and checks GameDB.
-        Use a descriptive preset name to distinguish stores, emulators, cores, or other choices.
+        Add an emulator variant only when the operating system and launch method cannot distinguish the preset.
   - type: input
     id: game_url
     attributes:
@@ -36,24 +36,23 @@ body:
         - Steam
         - Epic Games
         - GOG
+        - Microsoft Store
         - Emulator
-        - Other
     validations:
       required: true
   - type: input
-    id: preset_name
+    id: variant_name
     attributes:
-      label: Preset name
-      description: Short display name, for example RetroArch with Snes9x.
-    validations:
-      required: true
+      label: Emulator variant name
+      description: Optional emulator, console, or core label when needed to distinguish launch options.
   - type: input
     id: command
     attributes:
       label: Command
       description: |
         Use {{ROM_PATH}} or {{HOME}} for variable paths. Windows also allows {{SYSTEM_DRIVE}}, {{PROGRAM_FILES}},
-        and {{PROGRAM_FILES_X86}}. Steam launcher URIs are stored as Sunshine detached commands automatically.
+        and {{PROGRAM_FILES_X86}}. Use only host-independent paths; literal home directories are rejected.
+        Steam launcher URIs require detached commands; use a Steam executable command.
     validations:
       required: true
   - type: input

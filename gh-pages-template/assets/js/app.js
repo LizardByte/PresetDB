@@ -111,9 +111,7 @@ function boot() {
         const column = element('div', 'col');
         const card = element('article', 'card h-100 rounded-0 shadow-sm');
         const body = element('div', 'card-body');
-        const methodLabels = { native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games', gog: 'GOG', emulator: 'Emulator', other: 'Other' };
-        const label = [preset.os, methodLabels[preset.method] || preset.method, preset.name].join(' · ');
-        body.append(element('h3', 'h5 card-title fw-bold', label));
+        body.append(element('h3', 'h5 card-title fw-bold', preset.name));
         if (preset.notes) body.append(element('p', 'card-text', preset.notes));
         const command = element('pre', 'p-3 rounded bg-dark text-light overflow-auto');
         command.append(element('code', '', sunshineSnippet(preset)));
