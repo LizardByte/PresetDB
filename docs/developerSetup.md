@@ -19,9 +19,9 @@ The site builder writes `index.json`, `stats.json`, two SVG contribution charts,
 Read the Docs pull request previews use `.readthedocs.yaml` and the shared `readthedocs_build.sh` script. Connect the repository to Read the Docs, enable pull request builds, and set these project environment variables:
 
 ```text
-GITHUB_WORKFLOW=build
-SITE_ARTIFACT=site-source.zip
+GITHUB_WORKFLOW=call-jekyll-build / Build Jekyll
+SITE_ARTIFACT=update.zip
 EXTRACT_ARCHIVE=build.zip
 ```
 
-The `Build Pages` workflow publishes a check run named `build`, uploads a `site-source` artifact containing `build.zip`, and the shared script extracts that nested archive before building with the organization theme. Hosted preview and Pages deployment require the repository, credentials, and branch settings described in the README.
+The `Build Pages` workflow publishes a check run named `call-jekyll-build / Build Jekyll`, uploads an `update` artifact containing `build.zip`, and the shared script extracts that nested archive before building with the organization theme. Hosted preview and Pages deployment require the repository, credentials, and branch settings described in the README.
