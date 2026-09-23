@@ -17,14 +17,12 @@ function readRecord(file) {
   return record;
 }
 
-function mergePreset(root, preset, {
-  issueNumber, approvedBy, authorId = null, authorLogin = null, approvedAt = new Date().toISOString()
-}, { write = false } = {}) {
+function prepareRecord(root, preset) {
   const file = recordPath(root, preset);
-  let record = readRecord(file);
   const name = preset.kind === 'game' ? preset.gameName : preset.appName;
   const sourceUrl = preset.kind === 'game'
     ? `https://www.igdb.com/games/${preset.gameSlug}` : preset.appUrl;
+  let record = readRecord(file);
   if (!record) {
     record = {
       schema_version: 1, kind: preset.kind, id: preset.kind === 'game' ? preset.gameId : preset.appId,
@@ -42,6 +40,10 @@ function mergePreset(root, preset, {
     record.image_url = preset.gameImageUrl;
   }
   else if (preset.appImageUrl) record.image_url = preset.appImageUrl;
+  return { file, record, name };
+}
+
+function replacementIndex(record, preset) {
   const previous = preset.replacementIssue == null ? -1 : record.presets.findIndex(item =>
     item.origin_issue === preset.replacementIssue || item.source_issue === preset.replacementIssue
   );
@@ -53,6 +55,14 @@ function mergePreset(root, preset, {
       item.method === preset.method && item.name.normalize('NFKC').toLocaleLowerCase() === normalizedName)) {
     throw new PresetError('A preset with this name, OS, and method already exists');
   }
+  return previous;
+}
+
+function mergePreset(root, preset, {
+  issueNumber, approvedBy, authorId = null, authorLogin = null, approvedAt = new Date().toISOString()
+}, { write = false } = {}) {
+  const { file, record, name } = prepareRecord(root, preset);
+  const previous = replacementIndex(record, preset);
   const originIssue = previous >= 0 ? record.presets[previous].origin_issue : issueNumber;
   const presetId = `issue-${originIssue}`;
   const history = previous >= 0 ? [...(record.presets[previous].history || [])] : [];

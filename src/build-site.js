@@ -26,7 +26,7 @@ function buildSite(database, template, output) {
       index[folder].push({
         id: item.id, name: item.name, preset_count: item.presets.length,
         image_url: item.image_url || null,
-        operating_systems: [...new Set(item.presets.map(preset => preset.os))].sort()
+        operating_systems: [...new Set(item.presets.map(preset => preset.os))].sort((a, b) => a.localeCompare(b))
       });
     }
     index[folder].sort((a, b) => a.name.localeCompare(b.name) || String(a.id).localeCompare(String(b.id)));

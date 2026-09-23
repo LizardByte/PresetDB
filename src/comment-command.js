@@ -3,7 +3,7 @@
 const { canApprove, isPresetRequest, labelNames, queueIssueForApproval } = require('./approval-queue');
 
 function commandFromComment(body) {
-  const match = String(body || '').trim().match(/^@LizardByte-bot\s+(approve|check)\s*$/i);
+  const match = /^@LizardByte-bot\s+(approve|check)\s*$/i.exec(String(body || '').trim());
   return match ? match[1].toLowerCase() : null;
 }
 

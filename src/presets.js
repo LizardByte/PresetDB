@@ -22,7 +22,7 @@ class PresetError extends Error {}
 
 function parseIssue(body) {
   const result = {};
-  const sections = body.split(/^### (.+)\s*$/m);
+  const sections = body.split(/^### ([^\r\n]+)$/m);
   for (let i = 1; i < sections.length; i += 2) {
     const key = FIELD_NAMES[sections[i].trim()];
     if (key) {
@@ -44,7 +44,7 @@ function field(values, name, { required = false, limit = 1024, singleLine = fals
 }
 
 function positiveId(value, label) {
-  if (!/^[1-9][0-9]{0,14}$/.test(value) || !Number.isSafeInteger(Number(value))) {
+  if (!/^[1-9]\d{0,14}$/.test(value) || !Number.isSafeInteger(Number(value))) {
     throw new PresetError(`${label} must be a positive issue number`);
   }
   return Number(value);
@@ -70,6 +70,74 @@ function validatePlaceholders(value, os, label) {
   }
 }
 
+function gameIdentity(values) {
+  const gameUrl = field(values, 'gameUrl', { required: true, limit: 300, singleLine: true });
+  let url;
+  try { url = new URL(gameUrl); } catch { throw new PresetError('IGDB game URL is invalid'); }
+  const match = /^\/games\/([a-z0-9-]+)\/?$/.exec(url.pathname);
+  if (url.origin !== 'https://www.igdb.com' || url.search || url.hash || !match) {
+    throw new PresetError('IGDB game URL must be https://www.igdb.com/games/<slug>');
+  }
+  return {
+    gameId: null, gameSlug: match[1], appId: null, appName: null, appUrl: null, appImageUrl: null
+  };
+}
+
+function httpsUrl(value, label) {
+  let url;
+  try { url = new URL(value); } catch { throw new PresetError(`${label} must be a valid HTTPS URL`); }
+  if (url.protocol !== 'https:' || !url.hostname || url.username || url.password) {
+    throw new PresetError(`${label} must be a valid HTTPS URL`);
+  }
+}
+
+function appIdentity(values) {
+  const appName = field(values, 'appName', { required: true, limit: 100, singleLine: true });
+  const appUrl = field(values, 'appUrl', { required: true, limit: 500, singleLine: true });
+  httpsUrl(appUrl, 'Official app URL');
+  const appImageUrl = field(values, 'appImageUrl', { limit: 500, singleLine: true });
+  if (appImageUrl) httpsUrl(appImageUrl, 'App image URL');
+  return {
+    gameId: null, gameSlug: null, appId: slug(appName), appName, appUrl, appImageUrl
+  };
+}
+
+function validateSteamUri(command, os) {
+  const uri = String.raw`steam://(?:rungameid/\d+|open/bigpicture)`;
+  let pattern = `^${uri}$`;
+  if (os === 'Linux') pattern = `^setsid steam ${uri}$`;
+  else if (os === 'macOS') pattern = `^open ${uri}$`;
+  if (!new RegExp(pattern, 'i').test(command)) {
+    throw new PresetError(`Steam URI must use Sunshine's ${os} command form`);
+  }
+}
+
+function validateLaunchCommand(command, os, method) {
+  const steamUri = /steam:\/\//i.test(command);
+  const epicUri = /com\.epicgames\.launcher:\/\//i.test(command);
+  if (steamUri && method !== 'Steam') {
+    throw new PresetError('Steam URI requires the Steam launch method');
+  }
+  if (epicUri && method !== 'Epic Games') {
+    throw new PresetError('Epic Games URI requires the Epic Games launch method');
+  }
+  if (steamUri) validateSteamUri(command, os);
+  if (epicUri && (os !== 'Windows' || !/^com\.epicgames\.launcher:\/\/apps\/[^\s?]+(?:\?[^\s]+)?$/i.test(command))) {
+    throw new PresetError('Epic Games launcher URI is supported for Windows only');
+  }
+  return steamUri ? 'detached' : 'cmd';
+}
+
+function replacementFields(values) {
+  const replacementText = field(values, 'replacementIssue', { limit: 15, singleLine: true });
+  const replacementIssue = replacementText ? positiveId(replacementText, 'Preset to replace') : null;
+  const replacementReason = field(values, 'replacementReason', { limit: 500 });
+  if (Boolean(replacementIssue) !== Boolean(replacementReason)) {
+    throw new PresetError('A replacement needs both the existing issue number and a reason');
+  }
+  return { replacementIssue, replacementReason };
+}
+
 function validateFields(values, kind) {
   if (kind !== 'game' && kind !== 'app') throw new PresetError('Exactly one request type is required');
   const os = field(values, 'os', { required: true, limit: 20, singleLine: true });
@@ -79,77 +147,17 @@ function validateFields(values, kind) {
     throw new PresetError('Choose a supported host OS and launch method');
   }
   const presetName = field(values, 'presetName', { required: true, limit: 100, singleLine: true });
-
-  let gameId = null;
-  let gameSlug = null;
-  let appName = null;
-  let appUrl = null;
-  let appId = null;
-  let appImageUrl = null;
-  if (kind === 'game') {
-    const gameUrl = field(values, 'gameUrl', { required: true, limit: 300, singleLine: true });
-    let url;
-    try { url = new URL(gameUrl); } catch { throw new PresetError('IGDB game URL is invalid'); }
-    const match = url.pathname.match(/^\/games\/([a-z0-9-]+)\/?$/);
-    if (url.origin !== 'https://www.igdb.com' || url.search || url.hash || !match) {
-      throw new PresetError('IGDB game URL must be https://www.igdb.com/games/<slug>');
-    }
-    gameSlug = match[1];
-  } else {
-    appName = field(values, 'appName', { required: true, limit: 100, singleLine: true });
-    appId = slug(appName);
-    appUrl = field(values, 'appUrl', { required: true, limit: 500, singleLine: true });
-    let url;
-    try { url = new URL(appUrl); } catch { throw new PresetError('Official app URL must be a valid HTTPS URL'); }
-    if (url.protocol !== 'https:' || !url.hostname || url.username || url.password) {
-      throw new PresetError('Official app URL must be a valid HTTPS URL');
-    }
-    appImageUrl = field(values, 'appImageUrl', { limit: 500, singleLine: true });
-    if (appImageUrl) {
-      try { url = new URL(appImageUrl); } catch { throw new PresetError('App image URL must be a valid HTTPS URL'); }
-      if (url.protocol !== 'https:' || !url.hostname || url.username || url.password) {
-        throw new PresetError('App image URL must be a valid HTTPS URL');
-      }
-    }
-  }
-
+  const identity = kind === 'game' ? gameIdentity(values) : appIdentity(values);
   const command = field(values, 'command', { required: true, singleLine: true });
   const workingDir = field(values, 'workingDir', { limit: 512, singleLine: true });
   validatePlaceholders(command, os, 'Launch command');
   validatePlaceholders(workingDir, os, 'Working directory');
-  const steamUri = /steam:\/\//i.test(command);
-  const epicUri = /com\.epicgames\.launcher:\/\//i.test(command);
-  if (steamUri && method !== 'Steam') {
-    throw new PresetError('Steam URI requires the Steam launch method');
-  }
-  if (epicUri && method !== 'Epic Games') {
-    throw new PresetError('Epic Games URI requires the Epic Games launch method');
-  }
-  if (steamUri) {
-    const uri = 'steam:\/\/(?:rungameid\/[0-9]+|open\/bigpicture)';
-    const pattern = os === 'Windows' ? `^${uri}$` : os === 'Linux' ? `^setsid steam ${uri}$` : `^open ${uri}$`;
-    if (!new RegExp(pattern, 'i').test(command)) {
-      throw new PresetError(`Steam URI must use Sunshine's ${os} command form`);
-    }
-  }
-  if (epicUri) {
-    if (os !== 'Windows' || !/^com\.epicgames\.launcher:\/\/apps\/[^\s?]+(?:\?[^\s]+)?$/i.test(command)) {
-      throw new PresetError('Epic Games launcher URI is supported for Windows only');
-    }
-  }
-
-  const replacementText = field(values, 'replacementIssue', { limit: 15, singleLine: true });
-  const replacementIssue = replacementText ? positiveId(replacementText, 'Preset to replace') : null;
-  const replacementReason = field(values, 'replacementReason', { limit: 500 });
-  if (Boolean(replacementIssue) !== Boolean(replacementReason)) {
-    throw new PresetError('A replacement needs both the existing issue number and a reason');
-  }
+  const commandMode = validateLaunchCommand(command, os, method);
   return {
-    kind, gameId, gameSlug, appId, appName, appUrl, appImageUrl, presetName, replacementIssue,
-    os, method: slug(method), command, commandMode: steamUri ? 'detached' : 'cmd',
+    kind, ...identity, presetName, ...replacementFields(values),
+    os, method: slug(method), command, commandMode,
     workingDir: workingDir || null,
-    notes: field(values, 'notes', { limit: 2000 }) || null,
-    replacementReason
+    notes: field(values, 'notes', { limit: 2000 }) || null
   };
 }
 
@@ -222,7 +230,7 @@ async function validateGameDb(preset, fetcher = globalThis.fetch, credentials = 
   }
   preset.gameName = game.name;
   const cover = game.cover?.url;
-  preset.gameImageUrl = typeof cover === 'string' && /^\/\/images\.igdb\.com\//.test(cover)
+  preset.gameImageUrl = typeof cover === 'string' && cover.startsWith('//images.igdb.com/')
     ? `https:${cover}` : null;
   return preset;
 }

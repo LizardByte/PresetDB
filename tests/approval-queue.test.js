@@ -98,7 +98,8 @@ test('approval stops when an issue changes after it was queued', async () => {
 
 test('workflow wait exits when no older approval is running', async () => {
   const { github } = mockGithub([]);
-  await waitForOlderApprovals({ github, context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, runId: 5 } });
+  await assert.doesNotReject(waitForOlderApprovals({ github,
+    context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, runId: 5 } }));
 });
 
 test('published statistics count approvals and escape contributor names', () => {
