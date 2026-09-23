@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90070,
+  "name": "Rhythm Girl",
+  "source_url": "https://www.igdb.com/games/rhythm-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpna.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rhythm Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "762500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/762500",
+        "Linux": "setsid steam steam://rungameid/762500",
+        "macOS": "open steam://rungameid/762500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/762500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rhythm-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90070"
+}

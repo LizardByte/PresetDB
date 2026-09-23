@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114552,
+  "name": "FirstPlanet",
+  "source_url": "https://www.igdb.com/games/firstplanet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9uvu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FirstPlanet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "993220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/993220",
+        "Linux": "setsid steam steam://rungameid/993220",
+        "macOS": "open steam://rungameid/993220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/993220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "firstplanet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114552"
+}

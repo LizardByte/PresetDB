@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387499,
+  "name": "Paul",
+  "source_url": "https://www.igdb.com/games/paul",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdkq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paul",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4346090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4346090",
+        "Linux": "setsid steam steam://rungameid/4346090",
+        "macOS": "open steam://rungameid/4346090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4346090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "paul",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387499"
+}

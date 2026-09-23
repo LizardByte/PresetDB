@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81981,
+  "name": "The Departure",
+  "source_url": "https://www.igdb.com/games/the-departure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob73m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Departure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777900",
+        "Linux": "setsid steam steam://rungameid/777900",
+        "macOS": "open steam://rungameid/777900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/777900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-departure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81981"
+}

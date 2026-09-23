@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31629,
+  "name": "Snowday",
+  "source_url": "https://www.igdb.com/games/snowday",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rcq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snowday",
+      "os": null,
+      "method": "steam",
+      "launch_id": "515700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/515700",
+        "Linux": "setsid steam steam://rungameid/515700",
+        "macOS": "open steam://rungameid/515700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/515700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "snowday",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31629"
+}

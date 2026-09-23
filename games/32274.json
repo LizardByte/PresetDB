@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32274,
+  "name": "My Butler",
+  "source_url": "https://www.igdb.com/games/my-butler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9n3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Butler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494470",
+        "Linux": "setsid steam steam://rungameid/494470",
+        "macOS": "open steam://rungameid/494470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/494470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-butler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32274"
+}

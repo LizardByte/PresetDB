@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3203,
+  "name": "Mad Father",
+  "source_url": "https://www.igdb.com/games/mad-father",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2f5y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Father",
+      "os": null,
+      "method": "steam",
+      "launch_id": "483980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/483980",
+        "Linux": "setsid steam steam://rungameid/483980",
+        "macOS": "open steam://rungameid/483980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/483980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mad-father",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3203"
+}

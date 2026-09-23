@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33097,
+  "name": "R.C. Bot Inc.",
+  "source_url": "https://www.igdb.com/games/rc-bot-inc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfgv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "R.C. Bot Inc.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "459630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/459630",
+        "Linux": "setsid steam steam://rungameid/459630",
+        "macOS": "open steam://rungameid/459630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/459630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rc-bot-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33097"
+}

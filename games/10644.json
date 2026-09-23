@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10644,
+  "name": "Order of War",
+  "source_url": "https://www.igdb.com/games/order-of-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d2n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Order of War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "34600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/34600",
+        "Linux": "setsid steam steam://rungameid/34600",
+        "macOS": "open steam://rungameid/34600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/34600",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "order-of-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10644"
+}

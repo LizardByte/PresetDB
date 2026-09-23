@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15545,
+  "name": "Vector",
+  "source_url": "https://www.igdb.com/games/vector",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4t1l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vector",
+      "os": null,
+      "method": "steam",
+      "launch_id": "248970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/248970",
+        "Linux": "setsid steam steam://rungameid/248970",
+        "macOS": "open steam://rungameid/248970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/248970",
+      "protondb": {
+        "tier": "silver",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "vector",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15545"
+}

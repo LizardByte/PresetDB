@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51494,
+  "name": "Brain Machine",
+  "source_url": "https://www.igdb.com/games/brain-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a02.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brain Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601120",
+        "Linux": "setsid steam steam://rungameid/601120",
+        "macOS": "open steam://rungameid/601120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/601120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brain-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51494"
+}

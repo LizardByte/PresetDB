@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215487,
+  "name": "BlackBox",
+  "source_url": "https://www.igdb.com/games/blackbox--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co560t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlackBox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2090030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2090030",
+        "Linux": "setsid steam steam://rungameid/2090030",
+        "macOS": "open steam://rungameid/2090030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2090030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blackbox--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215487"
+}

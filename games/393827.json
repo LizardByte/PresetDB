@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393827,
+  "name": "Green Light",
+  "source_url": "https://www.igdb.com/games/green-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpoi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Green Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4081050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4081050",
+        "Linux": "setsid steam steam://rungameid/4081050",
+        "macOS": "open steam://rungameid/4081050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4081050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "green-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393827"
+}

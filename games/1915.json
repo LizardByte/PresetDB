@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1915,
+  "name": "Lost Planet 2",
+  "source_url": "https://www.igdb.com/games/lost-planet-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ur0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Planet 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "45750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/45750",
+        "Linux": "setsid steam steam://rungameid/45750",
+        "macOS": "open steam://rungameid/45750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/45750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-planet-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1915"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33767,
+  "name": "Book of Merlin",
+  "source_url": "https://www.igdb.com/games/book-of-merlin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkmc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Book of Merlin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433650",
+        "Linux": "setsid steam steam://rungameid/433650",
+        "macOS": "open steam://rungameid/433650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "book-of-merlin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33767"
+}

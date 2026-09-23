@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9002,
+  "name": "Redneck Rampage",
+  "source_url": "https://www.igdb.com/games/redneck-rampage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3hej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Redneck Rampage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565550",
+        "Linux": "setsid steam steam://rungameid/565550",
+        "macOS": "open steam://rungameid/565550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/565550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "redneck-rampage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9002"
+}

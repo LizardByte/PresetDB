@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110901,
+  "name": "EnHanced",
+  "source_url": "https://www.igdb.com/games/enhanced",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3px4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EnHanced",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882390",
+        "Linux": "setsid steam steam://rungameid/882390",
+        "macOS": "open steam://rungameid/882390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/882390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "enhanced",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110901"
+}

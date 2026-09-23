@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84010,
+  "name": "Foosball VR",
+  "source_url": "https://www.igdb.com/games/foosball-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhil.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foosball VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779730",
+        "Linux": "setsid steam steam://rungameid/779730",
+        "macOS": "open steam://rungameid/779730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/779730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "foosball-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84010"
+}

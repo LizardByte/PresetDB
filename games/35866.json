@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35866,
+  "name": "David",
+  "source_url": "https://www.igdb.com/games/david--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4keh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "David",
+      "os": null,
+      "method": "steam",
+      "launch_id": "346180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/346180",
+        "Linux": "setsid steam steam://rungameid/346180",
+        "macOS": "open steam://rungameid/346180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/346180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "david--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35866"
+}

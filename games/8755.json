@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8755,
+  "name": "Braveland Wizard",
+  "source_url": "https://www.igdb.com/games/braveland-wizard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21sg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Braveland Wizard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "333880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/333880",
+        "Linux": "setsid steam steam://rungameid/333880",
+        "macOS": "open steam://rungameid/333880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/333880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "braveland-wizard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8755"
+}

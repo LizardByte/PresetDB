@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 69387,
+  "name": "Mirrors",
+  "source_url": "https://www.igdb.com/games/mirrors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap44.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mirrors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "709470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/709470",
+        "Linux": "setsid steam steam://rungameid/709470",
+        "macOS": "open steam://rungameid/709470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/709470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mirrors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=69387"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76123,
+  "name": "Ruckball",
+  "source_url": "https://www.igdb.com/games/ruckball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rpd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ruckball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "645230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/645230",
+        "Linux": "setsid steam steam://rungameid/645230",
+        "macOS": "open steam://rungameid/645230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/645230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ruckball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76123"
+}

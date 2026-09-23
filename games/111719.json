@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111719,
+  "name": "Dungeon Town",
+  "source_url": "https://www.igdb.com/games/dungeon-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanv6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959880",
+        "Linux": "setsid steam steam://rungameid/959880",
+        "macOS": "open steam://rungameid/959880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/959880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dungeon-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111719"
+}

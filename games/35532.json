@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35532,
+  "name": "Unium",
+  "source_url": "https://www.igdb.com/games/unium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3psm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "357600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/357600",
+        "Linux": "setsid steam steam://rungameid/357600",
+        "macOS": "open steam://rungameid/357600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/357600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35532"
+}

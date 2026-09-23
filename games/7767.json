@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7767,
+  "name": "Mini Metro",
+  "source_url": "https://www.igdb.com/games/mini-metro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2561.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Metro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "287980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/287980",
+        "Linux": "setsid steam steam://rungameid/287980",
+        "macOS": "open steam://rungameid/287980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/287980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mini-metro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7767"
+}

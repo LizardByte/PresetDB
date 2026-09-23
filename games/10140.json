@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10140,
+  "name": "Uncanny Valley",
+  "source_url": "https://www.igdb.com/games/uncanny-valley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1txf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uncanny Valley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359580",
+        "Linux": "setsid steam steam://rungameid/359580",
+        "macOS": "open steam://rungameid/359580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359580",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "uncanny-valley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10140"
+}

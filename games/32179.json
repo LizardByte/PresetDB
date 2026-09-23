@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32179,
+  "name": "D.N.Age",
+  "source_url": "https://www.igdb.com/games/dnage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gpu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "D.N.Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "497470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/497470",
+        "Linux": "setsid steam steam://rungameid/497470",
+        "macOS": "open steam://rungameid/497470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/497470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dnage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32179"
+}

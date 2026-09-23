@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84063,
+  "name": "Starena",
+  "source_url": "https://www.igdb.com/games/starena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co289r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789770",
+        "Linux": "setsid steam steam://rungameid/789770",
+        "macOS": "open steam://rungameid/789770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/789770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84063"
+}

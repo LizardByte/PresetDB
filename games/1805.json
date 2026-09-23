@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1805,
+  "name": "Crazy Taxi",
+  "source_url": "https://www.igdb.com/games/crazy-taxi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Taxi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "71230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/71230",
+        "Linux": "setsid steam steam://rungameid/71230",
+        "macOS": "open steam://rungameid/71230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/71230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crazy-taxi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1805"
+}

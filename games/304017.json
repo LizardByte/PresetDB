@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304017,
+  "name": "Woohoo!",
+  "source_url": "https://www.igdb.com/games/woohoo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fag.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Woohoo!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2976020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2976020",
+        "Linux": "setsid steam steam://rungameid/2976020",
+        "macOS": "open steam://rungameid/2976020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2976020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "woohoo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304017"
+}

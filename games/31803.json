@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31803,
+  "name": "Cloudbase Prime",
+  "source_url": "https://www.igdb.com/games/cloudbase-prime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24a8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloudbase Prime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "511250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/511250",
+        "Linux": "setsid steam steam://rungameid/511250",
+        "macOS": "open steam://rungameid/511250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/511250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cloudbase-prime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31803"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389139,
+  "name": "Empire at Risk",
+  "source_url": "https://www.igdb.com/games/empire-at-risk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwnd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Empire at Risk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4273390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4273390",
+        "Linux": "setsid steam steam://rungameid/4273390",
+        "macOS": "open steam://rungameid/4273390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4273390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "empire-at-risk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389139"
+}

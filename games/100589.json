@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100589,
+  "name": "Warhalla",
+  "source_url": "https://www.igdb.com/games/warhalla",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnbl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warhalla",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852420",
+        "Linux": "setsid steam steam://rungameid/852420",
+        "macOS": "open steam://rungameid/852420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/852420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "warhalla",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100589"
+}

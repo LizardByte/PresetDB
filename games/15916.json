@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15916,
+  "name": "Mount Your Friends",
+  "source_url": "https://www.igdb.com/games/mount-your-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mount Your Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "296470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/296470",
+        "Linux": "setsid steam steam://rungameid/296470",
+        "macOS": "open steam://rungameid/296470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/296470",
+      "protondb": {
+        "tier": "silver",
+        "reports": 26
+      }
+    }
+  ],
+  "igdb_slug": "mount-your-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15916"
+}

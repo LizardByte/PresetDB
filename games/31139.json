@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31139,
+  "name": "3D Chess",
+  "source_url": "https://www.igdb.com/games/3d-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/irzsr3sdxtmhvphcnptc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "3D Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "535700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/535700",
+        "Linux": "setsid steam steam://rungameid/535700",
+        "macOS": "open steam://rungameid/535700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/535700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "3d-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31139"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100539,
+  "name": "SchoolJump",
+  "source_url": "https://www.igdb.com/games/schooljump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf8d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SchoolJump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748060",
+        "Linux": "setsid steam steam://rungameid/748060",
+        "macOS": "open steam://rungameid/748060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/748060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "schooljump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100539"
+}

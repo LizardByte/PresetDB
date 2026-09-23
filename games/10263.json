@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10263,
+  "name": "Puzzle Dimension",
+  "source_url": "https://www.igdb.com/games/puzzle-dimension",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86he.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puzzle Dimension",
+      "os": null,
+      "method": "steam",
+      "launch_id": "57200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/57200",
+        "Linux": "setsid steam steam://rungameid/57200",
+        "macOS": "open steam://rungameid/57200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/57200",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "puzzle-dimension",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10263"
+}

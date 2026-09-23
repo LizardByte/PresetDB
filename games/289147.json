@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289147,
+  "name": "Pinball Blitz",
+  "source_url": "https://www.igdb.com/games/pinball-blitz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84ot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinball Blitz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2828800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2828800",
+        "Linux": "setsid steam steam://rungameid/2828800",
+        "macOS": "open steam://rungameid/2828800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2828800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pinball-blitz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289147"
+}

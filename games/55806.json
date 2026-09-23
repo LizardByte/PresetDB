@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55806,
+  "name": "Robby's Adventure",
+  "source_url": "https://www.igdb.com/games/robbys-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27cy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robby's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "663140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/663140",
+        "Linux": "setsid steam steam://rungameid/663140",
+        "macOS": "open steam://rungameid/663140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/663140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "robbys-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55806"
+}

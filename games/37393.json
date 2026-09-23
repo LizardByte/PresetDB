@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37393,
+  "name": "Sakeretsu",
+  "source_url": "https://www.igdb.com/games/sakeretsu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazn8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sakeretsu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "613400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/613400",
+        "Linux": "setsid steam steam://rungameid/613400",
+        "macOS": "open steam://rungameid/613400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/613400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sakeretsu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37393"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323001,
+  "name": "Mary",
+  "source_url": "https://www.igdb.com/games/mary--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92p1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3017570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3017570",
+        "Linux": "setsid steam steam://rungameid/3017570",
+        "macOS": "open steam://rungameid/3017570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3017570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mary--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323001"
+}

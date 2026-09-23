@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54728,
+  "name": "Toby's Island",
+  "source_url": "https://www.igdb.com/games/tobys-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44po.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toby's Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331430",
+        "Linux": "setsid steam steam://rungameid/331430",
+        "macOS": "open steam://rungameid/331430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/331430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tobys-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54728"
+}

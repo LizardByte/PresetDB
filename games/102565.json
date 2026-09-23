@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102565,
+  "name": "Alice In VR",
+  "source_url": "https://www.igdb.com/games/alice-in-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4fy9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alice In VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "829610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/829610",
+        "Linux": "setsid steam steam://rungameid/829610",
+        "macOS": "open steam://rungameid/829610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/829610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alice-in-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102565"
+}

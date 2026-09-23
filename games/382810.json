@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382810,
+  "name": "Starvester",
+  "source_url": "https://www.igdb.com/games/starvester",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhqn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starvester",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4194800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4194800",
+        "Linux": "setsid steam steam://rungameid/4194800",
+        "macOS": "open steam://rungameid/4194800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4194800",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "starvester",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382810"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76322,
+  "name": "Tom's Mansion",
+  "source_url": "https://www.igdb.com/games/toms-mansion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6rq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tom's Mansion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748660",
+        "Linux": "setsid steam steam://rungameid/748660",
+        "macOS": "open steam://rungameid/748660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/748660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "toms-mansion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76322"
+}

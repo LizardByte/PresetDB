@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74495,
+  "name": "LongStory",
+  "source_url": "https://www.igdb.com/games/longstory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fub.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LongStory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "704010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/704010",
+        "Linux": "setsid steam steam://rungameid/704010",
+        "macOS": "open steam://rungameid/704010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/704010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "longstory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74495"
+}

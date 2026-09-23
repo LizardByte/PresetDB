@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125431,
+  "name": "I Am Fish",
+  "source_url": "https://www.igdb.com/games/i-am-fish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6j2e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am Fish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1472560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1472560",
+        "Linux": "setsid steam steam://rungameid/1472560",
+        "macOS": "open steam://rungameid/1472560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1472560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-am-fish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125431"
+}

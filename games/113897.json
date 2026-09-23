@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113897,
+  "name": "Bleep Bloop",
+  "source_url": "https://www.igdb.com/games/bleep-bloop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1iwr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bleep Bloop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1010230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1010230",
+        "Linux": "setsid steam steam://rungameid/1010230",
+        "macOS": "open steam://rungameid/1010230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1010230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bleep-bloop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113897"
+}

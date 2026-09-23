@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36277,
+  "name": "Worlds",
+  "source_url": "https://www.igdb.com/games/worlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nep.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Worlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "304850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/304850",
+        "Linux": "setsid steam steam://rungameid/304850",
+        "macOS": "open steam://rungameid/304850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/304850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "worlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36277"
+}

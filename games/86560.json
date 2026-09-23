@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86560,
+  "name": "Casino Blackjack",
+  "source_url": "https://www.igdb.com/games/casino-blackjack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5wgr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Casino Blackjack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800350",
+        "Linux": "setsid steam steam://rungameid/800350",
+        "macOS": "open steam://rungameid/800350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/800350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "casino-blackjack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86560"
+}

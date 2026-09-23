@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51565,
+  "name": "Evil Genome",
+  "source_url": "https://www.igdb.com/games/evil-genome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co214y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil Genome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "635250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/635250",
+        "Linux": "setsid steam steam://rungameid/635250",
+        "macOS": "open steam://rungameid/635250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/635250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "evil-genome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51565"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150089,
+  "name": "Mark's Life",
+  "source_url": "https://www.igdb.com/games/marks-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j4r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mark's Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1802210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1802210",
+        "Linux": "setsid steam steam://rungameid/1802210",
+        "macOS": "open steam://rungameid/1802210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1802210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "marks-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150089"
+}

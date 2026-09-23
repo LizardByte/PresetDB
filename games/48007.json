@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 48007,
+  "name": "One Bit",
+  "source_url": "https://www.igdb.com/games/one-bit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Bit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "669760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/669760",
+        "Linux": "setsid steam steam://rungameid/669760",
+        "macOS": "open steam://rungameid/669760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/669760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "one-bit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=48007"
+}

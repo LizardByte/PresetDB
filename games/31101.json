@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31101,
+  "name": "MegaRats",
+  "source_url": "https://www.igdb.com/games/megarats",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MegaRats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "534210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/534210",
+        "Linux": "setsid steam steam://rungameid/534210",
+        "macOS": "open steam://rungameid/534210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/534210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "megarats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31101"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26974,
+  "name": "Heartbound",
+  "source_url": "https://www.igdb.com/games/heartbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27pt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heartbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567380",
+        "Linux": "setsid steam steam://rungameid/567380",
+        "macOS": "open steam://rungameid/567380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/567380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "heartbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26974"
+}

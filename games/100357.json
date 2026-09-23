@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100357,
+  "name": "Temtem",
+  "source_url": "https://www.igdb.com/games/temtem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1on0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Temtem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "745920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/745920",
+        "Linux": "setsid steam steam://rungameid/745920",
+        "macOS": "open steam://rungameid/745920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/745920",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 145
+      }
+    }
+  ],
+  "igdb_slug": "temtem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100357"
+}

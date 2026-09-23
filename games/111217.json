@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111217,
+  "name": "PriceRPG",
+  "source_url": "https://www.igdb.com/games/pricerpg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vk8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PriceRPG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963370",
+        "Linux": "setsid steam steam://rungameid/963370",
+        "macOS": "open steam://rungameid/963370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/963370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pricerpg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111217"
+}

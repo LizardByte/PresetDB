@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105577,
+  "name": "Forest Rabbit",
+  "source_url": "https://www.igdb.com/games/forest-rabbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgjv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest Rabbit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888560",
+        "Linux": "setsid steam steam://rungameid/888560",
+        "macOS": "open steam://rungameid/888560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/888560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "forest-rabbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105577"
+}

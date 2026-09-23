@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111097,
+  "name": "My Colony",
+  "source_url": "https://www.igdb.com/games/my-colony",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pij.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Colony",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964130",
+        "Linux": "setsid steam steam://rungameid/964130",
+        "macOS": "open steam://rungameid/964130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/964130",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "my-colony",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111097"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111005,
+  "name": "Talk to Yuno",
+  "source_url": "https://www.igdb.com/games/talk-to-yuno",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7i9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Talk to Yuno",
+      "os": null,
+      "method": "steam",
+      "launch_id": "956620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/956620",
+        "Linux": "setsid steam steam://rungameid/956620",
+        "macOS": "open steam://rungameid/956620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/956620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "talk-to-yuno",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111005"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110125,
+  "name": "Mike Goes on Hike",
+  "source_url": "https://www.igdb.com/games/mike-goes-on-hike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5et1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mike Goes on Hike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "912000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/912000",
+        "Linux": "setsid steam steam://rungameid/912000",
+        "macOS": "open steam://rungameid/912000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/912000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mike-goes-on-hike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110125"
+}

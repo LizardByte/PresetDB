@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31232,
+  "name": "Minotaur's Maze",
+  "source_url": "https://www.igdb.com/games/minotaurs-maze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1krf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minotaur's Maze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "531080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/531080",
+        "Linux": "setsid steam steam://rungameid/531080",
+        "macOS": "open steam://rungameid/531080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/531080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "minotaurs-maze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31232"
+}

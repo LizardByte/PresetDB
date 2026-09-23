@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111139,
+  "name": "DarkTrail",
+  "source_url": "https://www.igdb.com/games/darktrail",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DarkTrail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961560",
+        "Linux": "setsid steam steam://rungameid/961560",
+        "macOS": "open steam://rungameid/961560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/961560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darktrail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111139"
+}

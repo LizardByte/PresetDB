@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8250,
+  "name": "Quest for Infamy",
+  "source_url": "https://www.igdb.com/games/quest-for-infamy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1y1h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quest for Infamy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "264560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/264560",
+        "Linux": "setsid steam steam://rungameid/264560",
+        "macOS": "open steam://rungameid/264560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/264560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "quest-for-infamy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8250"
+}

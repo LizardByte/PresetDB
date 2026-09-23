@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16517,
+  "name": "Hexodius",
+  "source_url": "https://www.igdb.com/games/hexodius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/de0olgdzsrmcv2mwy2z1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexodius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "236490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/236490",
+        "Linux": "setsid steam steam://rungameid/236490",
+        "macOS": "open steam://rungameid/236490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/236490",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "hexodius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16517"
+}

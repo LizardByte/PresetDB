@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 77163,
+  "name": "ManaRocks",
+  "source_url": "https://www.igdb.com/games/manarocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qn1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ManaRocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "762560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/762560",
+        "Linux": "setsid steam steam://rungameid/762560",
+        "macOS": "open steam://rungameid/762560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/762560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "manarocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=77163"
+}

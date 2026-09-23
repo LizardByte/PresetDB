@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343400,
+  "name": "Don't Sleep",
+  "source_url": "https://www.igdb.com/games/dont-sleep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ssw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Sleep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3491070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3491070",
+        "Linux": "setsid steam steam://rungameid/3491070",
+        "macOS": "open steam://rungameid/3491070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3491070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-sleep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343400"
+}

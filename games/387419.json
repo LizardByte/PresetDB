@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387419,
+  "name": "Horror",
+  "source_url": "https://www.igdb.com/games/horror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod31x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4204360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4204360",
+        "Linux": "setsid steam steam://rungameid/4204360",
+        "macOS": "open steam://rungameid/4204360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4204360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "horror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387419"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106540,
+  "name": "Hokusai",
+  "source_url": "https://www.igdb.com/games/hokusai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46cw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hokusai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904300",
+        "Linux": "setsid steam steam://rungameid/904300",
+        "macOS": "open steam://rungameid/904300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/904300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hokusai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106540"
+}

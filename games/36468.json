@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36468,
+  "name": "Lydia",
+  "source_url": "https://www.igdb.com/games/lydia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lydia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "629000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/629000",
+        "Linux": "setsid steam steam://rungameid/629000",
+        "macOS": "open steam://rungameid/629000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/629000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lydia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36468"
+}

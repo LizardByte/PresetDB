@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96469,
+  "name": "Odyssee",
+  "source_url": "https://www.igdb.com/games/odyssee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zvd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Odyssee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "844620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/844620",
+        "Linux": "setsid steam steam://rungameid/844620",
+        "macOS": "open steam://rungameid/844620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/844620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "odyssee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96469"
+}

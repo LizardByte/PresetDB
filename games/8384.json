@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8384,
+  "name": "Gish",
+  "source_url": "https://www.igdb.com/games/gish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ah.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "9500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/9500",
+        "Linux": "setsid steam steam://rungameid/9500",
+        "macOS": "open steam://rungameid/9500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/9500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8384"
+}

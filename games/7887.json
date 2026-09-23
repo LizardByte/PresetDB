@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7887,
+  "name": "Vindictus",
+  "source_url": "https://www.igdb.com/games/vindictus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tcu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vindictus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "212160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/212160",
+        "Linux": "setsid steam steam://rungameid/212160",
+        "macOS": "open steam://rungameid/212160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/212160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vindictus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7887"
+}

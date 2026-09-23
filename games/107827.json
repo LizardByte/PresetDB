@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107827,
+  "name": "Welcome to Bummertown",
+  "source_url": "https://www.igdb.com/games/welcome-to-bummertown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tiv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Bummertown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "925520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/925520",
+        "Linux": "setsid steam steam://rungameid/925520",
+        "macOS": "open steam://rungameid/925520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/925520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "welcome-to-bummertown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107827"
+}

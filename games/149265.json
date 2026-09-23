@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149265,
+  "name": "Exoblast",
+  "source_url": "https://www.igdb.com/games/exoblast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4j9j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exoblast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "725100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/725100",
+        "Linux": "setsid steam steam://rungameid/725100",
+        "macOS": "open steam://rungameid/725100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/725100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "exoblast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149265"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2609,
+  "name": "Rising Storm",
+  "source_url": "https://www.igdb.com/games/rising-storm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hx7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rising Storm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234510",
+        "Linux": "setsid steam steam://rungameid/234510",
+        "macOS": "open steam://rungameid/234510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/234510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rising-storm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2609"
+}

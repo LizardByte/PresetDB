@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75173,
+  "name": "Don't Sink",
+  "source_url": "https://www.igdb.com/games/dont-sink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28xl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Sink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710610",
+        "Linux": "setsid steam steam://rungameid/710610",
+        "macOS": "open steam://rungameid/710610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-sink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75173"
+}

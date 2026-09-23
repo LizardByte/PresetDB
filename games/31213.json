@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31213,
+  "name": "Egg Time",
+  "source_url": "https://www.igdb.com/games/egg-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82o2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Egg Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "531990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/531990",
+        "Linux": "setsid steam steam://rungameid/531990",
+        "macOS": "open steam://rungameid/531990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/531990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "egg-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31213"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165574,
+  "name": "Wraith Ops",
+  "source_url": "https://www.igdb.com/games/wraith-ops",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ozk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wraith Ops",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950660",
+        "Linux": "setsid steam steam://rungameid/950660",
+        "macOS": "open steam://rungameid/950660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/950660",
+      "protondb": {
+        "tier": "borked",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "wraith-ops",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165574"
+}

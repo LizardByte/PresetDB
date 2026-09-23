@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2467,
+  "name": "Darklands",
+  "source_url": "https://www.igdb.com/games/darklands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darklands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327930",
+        "Linux": "setsid steam steam://rungameid/327930",
+        "macOS": "open steam://rungameid/327930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darklands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2467"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84137,
+  "name": "MinSweeper",
+  "source_url": "https://www.igdb.com/games/minsweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobabp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MinSweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "726030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/726030",
+        "Linux": "setsid steam steam://rungameid/726030",
+        "macOS": "open steam://rungameid/726030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/726030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "minsweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84137"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32342,
+  "name": "Nary",
+  "source_url": "https://www.igdb.com/games/nary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7cf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "491720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/491720",
+        "Linux": "setsid steam steam://rungameid/491720",
+        "macOS": "open steam://rungameid/491720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/491720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32342"
+}

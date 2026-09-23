@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30839,
+  "name": "Operation Breakout",
+  "source_url": "https://www.igdb.com/games/operation-breakout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4pi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Operation Breakout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "546660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/546660",
+        "Linux": "setsid steam steam://rungameid/546660",
+        "macOS": "open steam://rungameid/546660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/546660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "operation-breakout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30839"
+}

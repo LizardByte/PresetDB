@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129563,
+  "name": "Driftwood",
+  "source_url": "https://www.igdb.com/games/driftwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fsz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Driftwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1135100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1135100",
+        "Linux": "setsid steam steam://rungameid/1135100",
+        "macOS": "open steam://rungameid/1135100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1135100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "driftwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129563"
+}

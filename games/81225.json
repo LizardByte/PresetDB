@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81225,
+  "name": "In Death",
+  "source_url": "https://www.igdb.com/games/in-death",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hkg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Death",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605450",
+        "Linux": "setsid steam steam://rungameid/605450",
+        "macOS": "open steam://rungameid/605450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/605450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "in-death",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81225"
+}

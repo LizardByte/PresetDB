@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303509,
+  "name": "Echo of Mobius",
+  "source_url": "https://www.igdb.com/games/echo-of-mobius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89vu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo of Mobius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2974560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2974560",
+        "Linux": "setsid steam steam://rungameid/2974560",
+        "macOS": "open steam://rungameid/2974560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2974560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "echo-of-mobius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303509"
+}

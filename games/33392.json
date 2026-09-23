@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33392,
+  "name": "Minimal",
+  "source_url": "https://www.igdb.com/games/minimal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7mj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minimal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "448550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/448550",
+        "Linux": "setsid steam steam://rungameid/448550",
+        "macOS": "open steam://rungameid/448550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/448550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "minimal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33392"
+}

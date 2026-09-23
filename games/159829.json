@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159829,
+  "name": "Bird",
+  "source_url": "https://www.igdb.com/games/bird",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bird",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1539580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1539580",
+        "Linux": "setsid steam steam://rungameid/1539580",
+        "macOS": "open steam://rungameid/1539580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1539580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bird",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159829"
+}

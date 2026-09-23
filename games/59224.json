@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 59224,
+  "name": "PaperCat",
+  "source_url": "https://www.igdb.com/games/papercat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobize.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PaperCat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "706980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/706980",
+        "Linux": "setsid steam steam://rungameid/706980",
+        "macOS": "open steam://rungameid/706980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/706980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "papercat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=59224"
+}

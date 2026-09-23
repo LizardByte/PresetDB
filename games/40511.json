@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 40511,
+  "name": "Heroes Never Die",
+  "source_url": "https://www.igdb.com/games/heroes-never-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes Never Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "633970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/633970",
+        "Linux": "setsid steam steam://rungameid/633970",
+        "macOS": "open steam://rungameid/633970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/633970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "heroes-never-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=40511"
+}

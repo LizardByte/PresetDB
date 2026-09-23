@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9795,
+  "name": "Pixel Dungeon",
+  "source_url": "https://www.igdb.com/games/pixel-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21fz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "365900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/365900",
+        "Linux": "setsid steam steam://rungameid/365900",
+        "macOS": "open steam://rungameid/365900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/365900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pixel-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9795"
+}

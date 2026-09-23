@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18818,
+  "name": "Synergy",
+  "source_url": "https://www.igdb.com/games/synergy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coayfo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Synergy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "17520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/17520",
+        "Linux": "setsid steam steam://rungameid/17520",
+        "macOS": "open steam://rungameid/17520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/17520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "synergy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18818"
+}

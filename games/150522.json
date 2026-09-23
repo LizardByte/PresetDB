@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150522,
+  "name": "Rumpus",
+  "source_url": "https://www.igdb.com/games/rumpus--1",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rumpus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "458200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/458200",
+        "Linux": "setsid steam steam://rungameid/458200",
+        "macOS": "open steam://rungameid/458200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/458200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rumpus--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150522"
+}

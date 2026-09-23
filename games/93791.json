@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93791,
+  "name": "Zombie World",
+  "source_url": "https://www.igdb.com/games/zombie-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob552.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "815170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/815170",
+        "Linux": "setsid steam steam://rungameid/815170",
+        "macOS": "open steam://rungameid/815170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/815170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombie-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93791"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33467,
+  "name": "Paintey",
+  "source_url": "https://www.igdb.com/games/paintey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfv6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paintey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "445050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/445050",
+        "Linux": "setsid steam steam://rungameid/445050",
+        "macOS": "open steam://rungameid/445050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/445050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "paintey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33467"
+}

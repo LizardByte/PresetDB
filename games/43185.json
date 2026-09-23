@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43185,
+  "name": "Humble Abode",
+  "source_url": "https://www.igdb.com/games/humble-abode",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bnv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Humble Abode",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652120",
+        "Linux": "setsid steam steam://rungameid/652120",
+        "macOS": "open steam://rungameid/652120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "humble-abode",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43185"
+}

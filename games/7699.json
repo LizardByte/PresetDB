@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7699,
+  "name": "Deathtrap",
+  "source_url": "https://www.igdb.com/games/deathtrap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co298l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deathtrap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "310510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/310510",
+        "Linux": "setsid steam steam://rungameid/310510",
+        "macOS": "open steam://rungameid/310510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/310510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deathtrap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7699"
+}

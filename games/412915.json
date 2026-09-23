@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412915,
+  "name": "Death Counter",
+  "source_url": "https://www.igdb.com/games/death-counter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnj1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death Counter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3765380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3765380",
+        "Linux": "setsid steam steam://rungameid/3765380",
+        "macOS": "open steam://rungameid/3765380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3765380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "death-counter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412915"
+}

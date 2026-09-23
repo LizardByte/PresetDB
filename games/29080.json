@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29080,
+  "name": "Darwin's bots",
+  "source_url": "https://www.igdb.com/games/darwins-bots",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2apd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darwin's bots",
+      "os": null,
+      "method": "steam",
+      "launch_id": "612120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/612120",
+        "Linux": "setsid steam steam://rungameid/612120",
+        "macOS": "open steam://rungameid/612120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/612120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darwins-bots",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29080"
+}

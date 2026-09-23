@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20150,
+  "name": "Katana Zero",
+  "source_url": "https://www.igdb.com/games/katana-zero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1isp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Katana Zero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "460950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/460950",
+        "Linux": "setsid steam steam://rungameid/460950",
+        "macOS": "open steam://rungameid/460950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/460950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "katana-zero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20150"
+}

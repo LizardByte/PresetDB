@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101060,
+  "name": "Battlloon",
+  "source_url": "https://www.igdb.com/games/battlloon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co202x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battlloon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985800",
+        "Linux": "setsid steam steam://rungameid/985800",
+        "macOS": "open steam://rungameid/985800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/985800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "battlloon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101060"
+}

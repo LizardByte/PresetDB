@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34848,
+  "name": "Foosball: World Tour",
+  "source_url": "https://www.igdb.com/games/foosball-world-tour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co869g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foosball: World Tour",
+      "os": null,
+      "method": "steam",
+      "launch_id": "386400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/386400",
+        "Linux": "setsid steam steam://rungameid/386400",
+        "macOS": "open steam://rungameid/386400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/386400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "foosball-world-tour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34848"
+}

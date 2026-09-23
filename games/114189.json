@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114189,
+  "name": "Go Cabbies!GB",
+  "source_url": "https://www.igdb.com/games/go-cabbies-gb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob20e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Cabbies!GB",
+      "os": null,
+      "method": "steam",
+      "launch_id": "949810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/949810",
+        "Linux": "setsid steam steam://rungameid/949810",
+        "macOS": "open steam://rungameid/949810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/949810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "go-cabbies-gb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114189"
+}

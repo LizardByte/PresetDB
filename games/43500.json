@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43500,
+  "name": "Spin the Beat",
+  "source_url": "https://www.igdb.com/games/spin-the-beat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24tu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spin the Beat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "653550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/653550",
+        "Linux": "setsid steam steam://rungameid/653550",
+        "macOS": "open steam://rungameid/653550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/653550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spin-the-beat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43500"
+}

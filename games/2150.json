@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2150,
+  "name": "Split/Second",
+  "source_url": "https://www.igdb.com/games/split-second",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bw4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Split/Second",
+      "os": null,
+      "method": "steam",
+      "launch_id": "297860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/297860",
+        "Linux": "setsid steam steam://rungameid/297860",
+        "macOS": "open steam://rungameid/297860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/297860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "split-second",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2150"
+}

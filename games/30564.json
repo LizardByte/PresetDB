@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30564,
+  "name": "Rage Wars",
+  "source_url": "https://www.igdb.com/games/rage-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r3i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rage Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "554310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/554310",
+        "Linux": "setsid steam steam://rungameid/554310",
+        "macOS": "open steam://rungameid/554310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/554310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rage-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30564"
+}

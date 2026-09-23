@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129576,
+  "name": "Soko Loco",
+  "source_url": "https://www.igdb.com/games/soko-loco",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21lr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soko Loco",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1135200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1135200",
+        "Linux": "setsid steam steam://rungameid/1135200",
+        "macOS": "open steam://rungameid/1135200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1135200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "soko-loco",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129576"
+}

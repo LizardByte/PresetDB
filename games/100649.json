@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100649,
+  "name": "Chess Sudoku",
+  "source_url": "https://www.igdb.com/games/chess-sudoku",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess Sudoku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "775830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/775830",
+        "Linux": "setsid steam steam://rungameid/775830",
+        "macOS": "open steam://rungameid/775830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/775830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chess-sudoku",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100649"
+}

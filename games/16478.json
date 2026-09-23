@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16478,
+  "name": "Shardlight",
+  "source_url": "https://www.igdb.com/games/shardlight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m4n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shardlight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "336130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/336130",
+        "Linux": "setsid steam steam://rungameid/336130",
+        "macOS": "open steam://rungameid/336130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/336130",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "shardlight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16478"
+}

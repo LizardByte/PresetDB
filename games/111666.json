@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111666,
+  "name": "Spaceguy: Red Space",
+  "source_url": "https://www.igdb.com/games/spaceguy-red-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe11.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spaceguy: Red Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976240",
+        "Linux": "setsid steam steam://rungameid/976240",
+        "macOS": "open steam://rungameid/976240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/976240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spaceguy-red-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111666"
+}

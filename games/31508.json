@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31508,
+  "name": "Pong It! VR",
+  "source_url": "https://www.igdb.com/games/pong-it-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe3d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pong It! VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "520930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/520930",
+        "Linux": "setsid steam steam://rungameid/520930",
+        "macOS": "open steam://rungameid/520930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/520930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pong-it-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31508"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207799,
+  "name": "Cows&Co",
+  "source_url": "https://www.igdb.com/games/cows-and-co",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5d5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cows&Co",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2064120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2064120",
+        "Linux": "setsid steam steam://rungameid/2064120",
+        "macOS": "open steam://rungameid/2064120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2064120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cows-and-co",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207799"
+}

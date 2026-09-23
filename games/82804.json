@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82804,
+  "name": "Steam Prison",
+  "source_url": "https://www.igdb.com/games/steam-prison",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24u6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steam Prison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "977460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/977460",
+        "Linux": "setsid steam steam://rungameid/977460",
+        "macOS": "open steam://rungameid/977460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/977460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steam-prison",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82804"
+}

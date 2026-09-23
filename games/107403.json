@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107403,
+  "name": "Dimetrosaur",
+  "source_url": "https://www.igdb.com/games/dimetrosaur",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfns.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dimetrosaur",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887550",
+        "Linux": "setsid steam steam://rungameid/887550",
+        "macOS": "open steam://rungameid/887550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/887550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dimetrosaur",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107403"
+}

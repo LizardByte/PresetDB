@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10050,
+  "name": "Black Rainbow",
+  "source_url": "https://www.igdb.com/games/black-rainbow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gmh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Rainbow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "288500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/288500",
+        "Linux": "setsid steam steam://rungameid/288500",
+        "macOS": "open steam://rungameid/288500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/288500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "black-rainbow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10050"
+}
