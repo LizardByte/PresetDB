@@ -1,0 +1,78 @@
+---
+name: Game launch preset
+description: Request one Sunshine launch option for a GameDB game.
+title: '[GAME PRESET]: '
+labels:
+  - request-game-preset
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue represents one launch option. Provide the IGDB game URL; the bot resolves its ID and checks GameDB.
+        Use a descriptive preset name to distinguish stores, emulators, cores, or other choices.
+  - type: input
+    id: game_url
+    attributes:
+      label: IGDB game URL
+      description: Official URL containing the game slug, for example https://www.igdb.com/games/surviving-mars.
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Host operating system
+      options:
+        - Windows
+        - Linux
+        - macOS
+    validations:
+      required: true
+  - type: dropdown
+    id: method
+    attributes:
+      label: Launch method
+      options:
+        - Native
+        - Steam
+        - Epic Games
+        - GOG
+        - Emulator
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: preset_name
+    attributes:
+      label: Preset name
+      description: Short display name, for example RetroArch with Snes9x.
+    validations:
+      required: true
+  - type: input
+    id: command
+    attributes:
+      label: Command
+      description: |
+        Use {{ROM_PATH}} or {{HOME}} for variable paths. Windows also allows {{SYSTEM_DRIVE}}, {{PROGRAM_FILES}},
+        and {{PROGRAM_FILES_X86}}. Steam launcher URIs are stored as Sunshine detached commands automatically.
+    validations:
+      required: true
+  - type: input
+    id: working_dir
+    attributes:
+      label: Working directory
+      description: Optional Sunshine working-dir value.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Setup instructions and required emulator settings.
+  - type: textarea
+    id: replacement_reason
+    attributes:
+      label: Replacement reason
+      description: Explain why the existing preset should change. Required with the issue number below.
+  - type: input
+    id: replacement_issue
+    attributes:
+      label: Preset to replace (issue number)
+      description: Optional issue number shown with the published preset. Leave blank to add a new preset.

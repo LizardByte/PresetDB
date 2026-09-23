@@ -1,0 +1,122 @@
+---
+name: Approve preset request
+run-name: ${{ github.event.label.name }} ${{ github.event.issue.title }}
+permissions: {}
+
+env:
+  NODE_VERSION: '24'
+
+on:
+  issues:
+    types:
+      - labeled
+
+jobs:
+  approve:
+    if: github.event.label.name == 'approve-preset'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+      issues: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Verify approval
+        id: verify
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            const {verifyApprovalEvent} = require('./src/verify-approval.js')
+            await verifyApprovalEvent({github, context})
+
+      - name: Wait for approved database updates
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
+        with:
+          script: |
+            const {waitForOlderApprovals} = require('./src/workflow-queue.js')
+            await waitForOlderApprovals({github, context})
+
+      - name: Checkout database
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          ref: database
+          path: database-branch
+          token: ${{ secrets.GH_BOT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Verify issue has not changed
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            const fs = require('node:fs')
+            const {verifyCurrentIssue} = require('./src/verify-approval.js')
+            try {
+              await verifyCurrentIssue({github, context})
+            } catch (error) {
+              fs.writeFileSync('report.md', `Approval stopped: ${error.message}\n`)
+              throw error
+            }
+
+      - name: Validate and publish
+        id: publish
+        env:
+          EVENT_FILE: ${{ github.event_path }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+          BOT_NAME: ${{ vars.GH_BOT_NAME }}
+          BOT_EMAIL: ${{ secrets.GH_BOT_EMAIL }}
+          TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
+          TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
+        shell: bash
+        run: |
+          git -C database-branch config user.name "$BOT_NAME"
+          git -C database-branch config user.email "$BOT_EMAIL"
+          for _ in 1 2 3 4 5; do
+            git -C database-branch fetch origin database
+            git -C database-branch reset --hard origin/database
+            node src/issue.js --event "$EVENT_FILE" --database database-branch/database \
+              --mode approve --report report.md
+            git -C database-branch add database/games database/apps
+            if git -C database-branch diff --cached --quiet; then exit 0; fi
+            git -C database-branch commit -m "chore: resolve #$ISSUE_NUMBER"
+            if git -C database-branch push origin HEAD:database; then exit 0; fi
+          done
+          echo 'Database changed during all five publish attempts' >&2
+          exit 1
+
+      - name: Comment result
+        if: always() && hashFiles('report.md') != ''
+        env:
+          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue comment "$ISSUE_NUMBER" --body-file report.md
+
+      - name: Close issue
+        if: steps.publish.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        run: gh issue close "$ISSUE_NUMBER" --reason completed
+
+      - name: Build updated site
+        if: steps.publish.outcome == 'success'
+        env:
+          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+        run: gh workflow run build-pages.yml --ref master
+
+      - name: Release approval queue
+        if: always() && steps.verify.outcome != 'skipped'
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            const {releaseAndPromote} = require('./src/approval-queue.js')
+            await releaseAndPromote({github, context})

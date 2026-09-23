@@ -1,0 +1,56 @@
+---
+title: Sunshine Presets
+layout: page
+full-width: true
+after-content:
+  - donate.html
+  - support.html
+js:
+  - /PresetDB/assets/js/app.js
+---
+
+<script>globalThis.PRESET_BASE = "{{ site.baseurl }}";</script>
+
+<div class="container my-5" id="preset-app">
+  <div class="row justify-content-center mb-5">
+    <div class="col-lg-9 text-center">
+      <h1 class="fw-bold">Sunshine game and app presets</h1>
+      <p class="lead">Community launch options for Windows, Linux, and macOS. Find a game or app, then choose the preset that fits your host.</p>
+      <p>
+        <a class="btn btn-warning rounded-0 me-2 mb-2" href="https://github.com/LizardByte/PresetDB/issues/new?template=game-preset.yml">Contribute a game preset</a>
+        <a class="btn btn-outline-secondary rounded-0 mb-2" href="https://github.com/LizardByte/PresetDB/issues/new?template=app-preset.yml">Contribute an app preset</a>
+      </p>
+    </div>
+  </div>
+
+  <section aria-labelledby="browse-heading">
+    <h2 id="browse-heading" class="fw-bold">Browse presets</h2>
+    <div class="row g-3 mb-4">
+      <div class="col-md-6">
+        <label class="form-label" for="preset-search">Search games and apps</label>
+        <input class="form-control rounded-0" type="search" id="preset-search" placeholder="Search by name">
+      </div>
+      <div class="col-6 col-md-3">
+        <label class="form-label" for="preset-kind">Type</label>
+        <select class="form-select rounded-0" id="preset-kind">
+          <option value="all">All</option>
+          <option value="game">Games</option>
+          <option value="app">Apps</option>
+        </select>
+      </div>
+      <div class="col-6 col-md-3">
+        <label class="form-label" for="preset-os">Host OS</label>
+        <select class="form-select rounded-0" id="preset-os">
+          <option value="all">All</option>
+          <option value="Windows">Windows</option>
+          <option value="Linux">Linux</option>
+          <option value="macOS">macOS</option>
+        </select>
+      </div>
+    </div>
+    <p id="preset-status" role="status" aria-live="polite">Loading presets…</p>
+    <div id="preset-list" class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-3"></div>
+  </section>
+
+  <section id="preset-detail" class="mt-5" aria-live="polite" hidden></section>
+</div>
