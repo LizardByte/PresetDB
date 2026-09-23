@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99769,
+  "name": "Chicken ~Boiled Egg~",
+  "source_url": "https://www.igdb.com/games/chicken-boiled-egg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobky1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chicken ~Boiled Egg~",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840230",
+        "Linux": "setsid steam steam://rungameid/840230",
+        "macOS": "open steam://rungameid/840230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/840230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chicken-boiled-egg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99769"
+}

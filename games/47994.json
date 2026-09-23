@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 47994,
+  "name": "UniOne",
+  "source_url": "https://www.igdb.com/games/unione",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5d7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UniOne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "661480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/661480",
+        "Linux": "setsid steam steam://rungameid/661480",
+        "macOS": "open steam://rungameid/661480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/661480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unione",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=47994"
+}

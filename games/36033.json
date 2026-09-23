@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36033,
+  "name": "Man Alive Game",
+  "source_url": "https://www.igdb.com/games/man-alive-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8s8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Man Alive Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "339560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/339560",
+        "Linux": "setsid steam steam://rungameid/339560",
+        "macOS": "open steam://rungameid/339560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/339560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "man-alive-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36033"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253372,
+  "name": "Hexguardian",
+  "source_url": "https://www.igdb.com/games/hexguardian",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6wsw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexguardian",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2381740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2381740",
+        "Linux": "setsid steam steam://rungameid/2381740",
+        "macOS": "open steam://rungameid/2381740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2381740",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "hexguardian",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253372"
+}

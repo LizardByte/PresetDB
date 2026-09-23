@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112725,
+  "name": "King Erik",
+  "source_url": "https://www.igdb.com/games/king-erik",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgrj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Erik",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656130",
+        "Linux": "setsid steam steam://rungameid/656130",
+        "macOS": "open steam://rungameid/656130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/656130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "king-erik",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112725"
+}

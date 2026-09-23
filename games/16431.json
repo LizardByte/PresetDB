@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16431,
+  "name": "Retro/Grade",
+  "source_url": "https://www.igdb.com/games/retro-slash-grade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaykb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retro/Grade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "222660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/222660",
+        "Linux": "setsid steam steam://rungameid/222660",
+        "macOS": "open steam://rungameid/222660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/222660",
+      "protondb": {
+        "tier": "gold",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "retro-slash-grade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16431"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109304,
+  "name": "Premium Bowling",
+  "source_url": "https://www.igdb.com/games/premium-bowling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vjy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Premium Bowling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "898580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/898580",
+        "Linux": "setsid steam steam://rungameid/898580",
+        "macOS": "open steam://rungameid/898580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/898580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "premium-bowling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109304"
+}

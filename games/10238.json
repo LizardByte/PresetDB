@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10238,
+  "name": "Depression Quest",
+  "source_url": "https://www.igdb.com/games/depression-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s4o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Depression Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "270170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/270170",
+        "Linux": "setsid steam steam://rungameid/270170",
+        "macOS": "open steam://rungameid/270170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/270170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "depression-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10238"
+}

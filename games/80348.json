@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80348,
+  "name": "MapleStory 2",
+  "source_url": "https://www.igdb.com/games/maplestory-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctqj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MapleStory 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "560380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/560380",
+        "Linux": "setsid steam steam://rungameid/560380",
+        "macOS": "open steam://rungameid/560380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/560380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "maplestory-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80348"
+}

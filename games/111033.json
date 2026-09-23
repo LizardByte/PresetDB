@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111033,
+  "name": "Project Winter",
+  "source_url": "https://www.igdb.com/games/project-winter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2t2u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Winter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "774861",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/774861",
+        "Linux": "setsid steam steam://rungameid/774861",
+        "macOS": "open steam://rungameid/774861"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/774861",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "project-winter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111033"
+}

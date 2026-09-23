@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9454,
+  "name": "Taxi!",
+  "source_url": "https://www.igdb.com/games/taxi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4hme.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Taxi!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315550",
+        "Linux": "setsid steam steam://rungameid/315550",
+        "macOS": "open steam://rungameid/315550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/315550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "taxi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9454"
+}

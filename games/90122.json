@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90122,
+  "name": "Gohorobo",
+  "source_url": "https://www.igdb.com/games/gohorobo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnjh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gohorobo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801250",
+        "Linux": "setsid steam steam://rungameid/801250",
+        "macOS": "open steam://rungameid/801250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gohorobo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90122"
+}

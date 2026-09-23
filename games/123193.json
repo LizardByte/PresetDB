@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123193,
+  "name": "Gearblocks",
+  "source_url": "https://www.igdb.com/games/gearblocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co417o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gearblocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1305080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1305080",
+        "Linux": "setsid steam steam://rungameid/1305080",
+        "macOS": "open steam://rungameid/1305080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1305080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gearblocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123193"
+}

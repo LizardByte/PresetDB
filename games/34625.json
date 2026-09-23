@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34625,
+  "name": "Sky Tower",
+  "source_url": "https://www.igdb.com/games/sky-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf5f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sky Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395880",
+        "Linux": "setsid steam steam://rungameid/395880",
+        "macOS": "open steam://rungameid/395880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/395880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sky-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34625"
+}

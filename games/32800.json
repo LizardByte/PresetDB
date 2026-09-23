@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32800,
+  "name": "Inklings",
+  "source_url": "https://www.igdb.com/games/inklings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7bn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Inklings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "498720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/498720",
+        "Linux": "setsid steam steam://rungameid/498720",
+        "macOS": "open steam://rungameid/498720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/498720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "inklings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32800"
+}

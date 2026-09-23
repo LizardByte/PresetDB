@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86116,
+  "name": "Isolated",
+  "source_url": "https://www.igdb.com/games/isolated",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Isolated",
+      "os": null,
+      "method": "steam",
+      "launch_id": "805950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/805950",
+        "Linux": "setsid steam steam://rungameid/805950",
+        "macOS": "open steam://rungameid/805950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/805950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "isolated",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86116"
+}

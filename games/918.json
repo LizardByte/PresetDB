@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 918,
+  "name": "Total Annihilation",
+  "source_url": "https://www.igdb.com/games/total-annihilation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4l7r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Total Annihilation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "298030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/298030",
+        "Linux": "setsid steam steam://rungameid/298030",
+        "macOS": "open steam://rungameid/298030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/298030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "total-annihilation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=918"
+}

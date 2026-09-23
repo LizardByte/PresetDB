@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30582,
+  "name": "Bartigo",
+  "source_url": "https://www.igdb.com/games/bartigo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2996.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bartigo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553940",
+        "Linux": "setsid steam steam://rungameid/553940",
+        "macOS": "open steam://rungameid/553940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/553940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bartigo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30582"
+}

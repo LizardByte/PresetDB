@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113878,
+  "name": "The Last Survivor",
+  "source_url": "https://www.igdb.com/games/the-last-survivor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co54bo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989540",
+        "Linux": "setsid steam steam://rungameid/989540",
+        "macOS": "open steam://rungameid/989540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/989540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-last-survivor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113878"
+}

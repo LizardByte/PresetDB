@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123924,
+  "name": "Lost In Dungeon",
+  "source_url": "https://www.igdb.com/games/lost-in-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45fq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost In Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1159590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1159590",
+        "Linux": "setsid steam steam://rungameid/1159590",
+        "macOS": "open steam://rungameid/1159590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1159590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-in-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123924"
+}

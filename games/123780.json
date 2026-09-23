@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123780,
+  "name": "Corporate America",
+  "source_url": "https://www.igdb.com/games/corporate-america",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Corporate America",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111250",
+        "Linux": "setsid steam steam://rungameid/1111250",
+        "macOS": "open steam://rungameid/1111250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1111250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "corporate-america",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123780"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32877,
+  "name": "AWA",
+  "source_url": "https://www.igdb.com/games/awa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76uz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AWA",
+      "os": null,
+      "method": "steam",
+      "launch_id": "489580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/489580",
+        "Linux": "setsid steam steam://rungameid/489580",
+        "macOS": "open steam://rungameid/489580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/489580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "awa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32877"
+}

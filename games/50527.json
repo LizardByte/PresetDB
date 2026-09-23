@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50527,
+  "name": "Jack's Game",
+  "source_url": "https://www.igdb.com/games/jacks-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/vdwifonrwm5rjez0svm9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jack's Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "670790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/670790",
+        "Linux": "setsid steam steam://rungameid/670790",
+        "macOS": "open steam://rungameid/670790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/670790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jacks-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50527"
+}

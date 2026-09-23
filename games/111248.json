@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111248,
+  "name": "Lost in Vivo",
+  "source_url": "https://www.igdb.com/games/lost-in-vivo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26qm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost in Vivo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963710",
+        "Linux": "setsid steam steam://rungameid/963710",
+        "macOS": "open steam://rungameid/963710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/963710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-in-vivo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111248"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101299,
+  "name": "Ancient Journey",
+  "source_url": "https://www.igdb.com/games/ancient-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20vi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ancient Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854030",
+        "Linux": "setsid steam steam://rungameid/854030",
+        "macOS": "open steam://rungameid/854030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/854030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ancient-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101299"
+}

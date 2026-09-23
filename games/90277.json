@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90277,
+  "name": "Alder's Blood",
+  "source_url": "https://www.igdb.com/games/alders-blood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m94.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alder's Blood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820020",
+        "Linux": "setsid steam steam://rungameid/820020",
+        "macOS": "open steam://rungameid/820020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/820020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alders-blood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90277"
+}

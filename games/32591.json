@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32591,
+  "name": "Killbot",
+  "source_url": "https://www.igdb.com/games/killbot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bnd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Killbot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "473810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/473810",
+        "Linux": "setsid steam steam://rungameid/473810",
+        "macOS": "open steam://rungameid/473810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/473810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "killbot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32591"
+}

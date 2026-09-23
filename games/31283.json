@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31283,
+  "name": "Destroyer",
+  "source_url": "https://www.igdb.com/games/destroyer--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7a7b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Destroyer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "528020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/528020",
+        "Linux": "setsid steam steam://rungameid/528020",
+        "macOS": "open steam://rungameid/528020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/528020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "destroyer--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31283"
+}

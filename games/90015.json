@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90015,
+  "name": "Go All Out!",
+  "source_url": "https://www.igdb.com/games/go-all-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1h6o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go All Out!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "759260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/759260",
+        "Linux": "setsid steam steam://rungameid/759260",
+        "macOS": "open steam://rungameid/759260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/759260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "go-all-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90015"
+}

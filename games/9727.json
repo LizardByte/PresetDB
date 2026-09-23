@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9727,
+  "name": "Soma",
+  "source_url": "https://www.igdb.com/games/soma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a20.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "282140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/282140",
+        "Linux": "setsid steam steam://rungameid/282140",
+        "macOS": "open steam://rungameid/282140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/282140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "soma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9727"
+}

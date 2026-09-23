@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105482,
+  "name": "The Cycle",
+  "source_url": "https://www.igdb.com/games/the-cycle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43p8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cycle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868270",
+        "Linux": "setsid steam steam://rungameid/868270",
+        "macOS": "open steam://rungameid/868270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/868270",
+      "protondb": {
+        "tier": "gold",
+        "reports": 168
+      }
+    }
+  ],
+  "igdb_slug": "the-cycle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105482"
+}

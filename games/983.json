@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 983,
+  "name": "Tom Clancy's H.A.W.X",
+  "source_url": "https://www.igdb.com/games/tom-clancy-s-h-a-w-x",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1yh8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tom Clancy's H.A.W.X",
+      "os": null,
+      "method": "steam",
+      "launch_id": "21900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/21900",
+        "Linux": "setsid steam steam://rungameid/21900",
+        "macOS": "open steam://rungameid/21900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/21900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tom-clancy-s-h-a-w-x",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=983"
+}

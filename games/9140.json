@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9140,
+  "name": "Guilty Gear",
+  "source_url": "https://www.igdb.com/games/guilty-gear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guilty Gear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850980",
+        "Linux": "setsid steam steam://rungameid/850980",
+        "macOS": "open steam://rungameid/850980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/850980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "guilty-gear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9140"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74360,
+  "name": "Arcade Moonlander",
+  "source_url": "https://www.igdb.com/games/arcade-moonlander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co231r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade Moonlander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "727020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/727020",
+        "Linux": "setsid steam steam://rungameid/727020",
+        "macOS": "open steam://rungameid/727020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/727020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "arcade-moonlander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74360"
+}

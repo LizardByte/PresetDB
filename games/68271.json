@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68271,
+  "name": "Darq",
+  "source_url": "https://www.igdb.com/games/darq",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rq9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darq",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433550",
+        "Linux": "setsid steam steam://rungameid/433550",
+        "macOS": "open steam://rungameid/433550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darq",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68271"
+}

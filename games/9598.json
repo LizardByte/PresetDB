@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9598,
+  "name": "SpyParty",
+  "source_url": "https://www.igdb.com/games/spyparty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co275s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpyParty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "329070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/329070",
+        "Linux": "setsid steam steam://rungameid/329070",
+        "macOS": "open steam://rungameid/329070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/329070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spyparty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9598"
+}

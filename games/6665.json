@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6665,
+  "name": "Ecco Jr.",
+  "source_url": "https://www.igdb.com/games/ecco-jr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43ng.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ecco Jr.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "34287",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/34287",
+        "Linux": "setsid steam steam://rungameid/34287",
+        "macOS": "open steam://rungameid/34287"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/34287",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ecco-jr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6665"
+}

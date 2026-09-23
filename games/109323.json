@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109323,
+  "name": "Invaxion",
+  "source_url": "https://www.igdb.com/games/invaxion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jv2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Invaxion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "921630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/921630",
+        "Linux": "setsid steam steam://rungameid/921630",
+        "macOS": "open steam://rungameid/921630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/921630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "invaxion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109323"
+}

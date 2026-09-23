@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111981,
+  "name": "Maytroid",
+  "source_url": "https://www.igdb.com/games/maytroid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kt5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maytroid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "960190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/960190",
+        "Linux": "setsid steam steam://rungameid/960190",
+        "macOS": "open steam://rungameid/960190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/960190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "maytroid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111981"
+}

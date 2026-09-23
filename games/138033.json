@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138033,
+  "name": "My Exercise",
+  "source_url": "https://www.igdb.com/games/my-exercise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Exercise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1004330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1004330",
+        "Linux": "setsid steam steam://rungameid/1004330",
+        "macOS": "open steam://rungameid/1004330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1004330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-exercise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138033"
+}

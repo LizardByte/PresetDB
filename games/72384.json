@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 72384,
+  "name": "Daily Run",
+  "source_url": "https://www.igdb.com/games/daily-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26sh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daily Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "721940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/721940",
+        "Linux": "setsid steam steam://rungameid/721940",
+        "macOS": "open steam://rungameid/721940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/721940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "daily-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=72384"
+}

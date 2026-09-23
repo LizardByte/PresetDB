@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10519,
+  "name": "Lords of Football",
+  "source_url": "https://www.igdb.com/games/lords-of-football",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3tj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lords of Football",
+      "os": null,
+      "method": "steam",
+      "launch_id": "230650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/230650",
+        "Linux": "setsid steam steam://rungameid/230650",
+        "macOS": "open steam://rungameid/230650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/230650",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "lords-of-football",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10519"
+}

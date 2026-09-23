@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2987,
+  "name": "Wolfenstein: Enemy Territory",
+  "source_url": "https://www.igdb.com/games/wolfenstein-enemy-territory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc44n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wolfenstein: Enemy Territory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1873030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1873030",
+        "Linux": "setsid steam steam://rungameid/1873030",
+        "macOS": "open steam://rungameid/1873030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1873030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wolfenstein-enemy-territory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2987"
+}

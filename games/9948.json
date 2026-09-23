@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9948,
+  "name": "Age of Booty",
+  "source_url": "https://www.igdb.com/games/age-of-booty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wsl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age of Booty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "21600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/21600",
+        "Linux": "setsid steam steam://rungameid/21600",
+        "macOS": "open steam://rungameid/21600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/21600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "age-of-booty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9948"
+}

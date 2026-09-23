@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83622,
+  "name": "Balloonatics",
+  "source_url": "https://www.igdb.com/games/balloonatics",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pi4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Balloonatics",
+      "os": null,
+      "method": "steam",
+      "launch_id": "744600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/744600",
+        "Linux": "setsid steam steam://rungameid/744600",
+        "macOS": "open steam://rungameid/744600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/744600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "balloonatics",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83622"
+}

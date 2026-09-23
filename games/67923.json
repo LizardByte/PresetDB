@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 67923,
+  "name": "The Legend of Slime",
+  "source_url": "https://www.igdb.com/games/the-legend-of-slime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkn5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legend of Slime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "701680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/701680",
+        "Linux": "setsid steam steam://rungameid/701680",
+        "macOS": "open steam://rungameid/701680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/701680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-legend-of-slime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=67923"
+}

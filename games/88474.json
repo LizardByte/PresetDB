@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88474,
+  "name": "Knack!",
+  "source_url": "https://www.igdb.com/games/knack--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobee2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knack!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802810",
+        "Linux": "setsid steam steam://rungameid/802810",
+        "macOS": "open steam://rungameid/802810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/802810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "knack--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88474"
+}

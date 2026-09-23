@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32923,
+  "name": "Event Horizon",
+  "source_url": "https://www.igdb.com/games/event-horizon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qex.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Event Horizon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "465000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/465000",
+        "Linux": "setsid steam steam://rungameid/465000",
+        "macOS": "open steam://rungameid/465000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/465000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "event-horizon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32923"
+}

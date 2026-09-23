@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111342,
+  "name": "Beer Pong League",
+  "source_url": "https://www.igdb.com/games/beer-pong-league",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobflk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beer Pong League",
+      "os": null,
+      "method": "steam",
+      "launch_id": "642190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/642190",
+        "Linux": "setsid steam steam://rungameid/642190",
+        "macOS": "open steam://rungameid/642190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/642190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beer-pong-league",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111342"
+}

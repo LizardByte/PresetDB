@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5892,
+  "name": "The Swapper",
+  "source_url": "https://www.igdb.com/games/the-swapper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Swapper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "231160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/231160",
+        "Linux": "setsid steam steam://rungameid/231160",
+        "macOS": "open steam://rungameid/231160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/231160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-swapper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5892"
+}

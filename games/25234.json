@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25234,
+  "name": "There Is a Way",
+  "source_url": "https://www.igdb.com/games/there-is-a-way",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23tv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "There Is a Way",
+      "os": null,
+      "method": "steam",
+      "launch_id": "593100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/593100",
+        "Linux": "setsid steam steam://rungameid/593100",
+        "macOS": "open steam://rungameid/593100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/593100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "there-is-a-way",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25234"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107849,
+  "name": "Amaze ABC",
+  "source_url": "https://www.igdb.com/games/amaze-abc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ler.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amaze ABC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "928610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/928610",
+        "Linux": "setsid steam steam://rungameid/928610",
+        "macOS": "open steam://rungameid/928610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/928610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amaze-abc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107849"
+}

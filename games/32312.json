@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32312,
+  "name": "Pengame",
+  "source_url": "https://www.igdb.com/games/pengame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/ls6lpqiyewi97yk5wgfy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pengame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494240",
+        "Linux": "setsid steam steam://rungameid/494240",
+        "macOS": "open steam://rungameid/494240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/494240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pengame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32312"
+}

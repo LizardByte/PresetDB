@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29871,
+  "name": "Action Mahjong",
+  "source_url": "https://www.igdb.com/games/action-mahjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29di.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Action Mahjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "575810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/575810",
+        "Linux": "setsid steam steam://rungameid/575810",
+        "macOS": "open steam://rungameid/575810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/575810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "action-mahjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29871"
+}

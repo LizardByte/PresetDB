@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 91220,
+  "name": "Hero's Story",
+  "source_url": "https://www.igdb.com/games/heros-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42dk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero's Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649970",
+        "Linux": "setsid steam steam://rungameid/649970",
+        "macOS": "open steam://rungameid/649970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "heros-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=91220"
+}

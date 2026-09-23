@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201409,
+  "name": "Hentai Packer",
+  "source_url": "https://www.igdb.com/games/hentai-packer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e7d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hentai Packer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1989940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1989940",
+        "Linux": "setsid steam steam://rungameid/1989940",
+        "macOS": "open steam://rungameid/1989940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1989940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hentai-packer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201409"
+}

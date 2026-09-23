@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32649,
+  "name": "Matris",
+  "source_url": "https://www.igdb.com/games/matris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/rklybwrabemarrjwllb5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Matris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "470440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/470440",
+        "Linux": "setsid steam steam://rungameid/470440",
+        "macOS": "open steam://rungameid/470440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/470440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "matris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32649"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133075,
+  "name": "Curse of Eternity",
+  "source_url": "https://www.igdb.com/games/curse-of-eternity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45yt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Curse of Eternity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1230000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1230000",
+        "Linux": "setsid steam steam://rungameid/1230000",
+        "macOS": "open steam://rungameid/1230000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1230000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "curse-of-eternity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133075"
+}

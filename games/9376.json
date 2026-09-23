@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9376,
+  "name": "Death to Spies",
+  "source_url": "https://www.igdb.com/games/death-to-spies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3oa3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death to Spies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "9800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/9800",
+        "Linux": "setsid steam steam://rungameid/9800",
+        "macOS": "open steam://rungameid/9800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/9800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "death-to-spies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9376"
+}

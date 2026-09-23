@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33279,
+  "name": "Brute",
+  "source_url": "https://www.igdb.com/games/brute",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2686.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brute",
+      "os": null,
+      "method": "steam",
+      "launch_id": "451630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/451630",
+        "Linux": "setsid steam steam://rungameid/451630",
+        "macOS": "open steam://rungameid/451630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/451630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brute",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33279"
+}

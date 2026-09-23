@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8660,
+  "name": "Backgammon Blitz",
+  "source_url": "https://www.igdb.com/games/backgammon-blitz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cfg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Backgammon Blitz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395900",
+        "Linux": "setsid steam steam://rungameid/395900",
+        "macOS": "open steam://rungameid/395900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/395900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "backgammon-blitz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8660"
+}

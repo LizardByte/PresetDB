@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9103,
+  "name": "Elasto Mania",
+  "source_url": "https://www.igdb.com/games/elasto-mania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27s6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elasto Mania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1290220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1290220",
+        "Linux": "setsid steam steam://rungameid/1290220",
+        "macOS": "open steam://rungameid/1290220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1290220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "elasto-mania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9103"
+}

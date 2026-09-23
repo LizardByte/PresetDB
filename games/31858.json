@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31858,
+  "name": "Forgotten Heroes",
+  "source_url": "https://www.igdb.com/games/forgotten-heroes",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forgotten Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "510220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/510220",
+        "Linux": "setsid steam steam://rungameid/510220",
+        "macOS": "open steam://rungameid/510220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/510220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "forgotten-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31858"
+}

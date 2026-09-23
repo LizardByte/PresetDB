@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9804,
+  "name": "MapleStory",
+  "source_url": "https://www.igdb.com/games/maplestory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaas1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MapleStory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "216150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/216150",
+        "Linux": "setsid steam steam://rungameid/216150",
+        "macOS": "open steam://rungameid/216150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/216150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "maplestory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9804"
+}

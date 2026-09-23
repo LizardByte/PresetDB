@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9495,
+  "name": "Squad",
+  "source_url": "https://www.igdb.com/games/squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaasd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "393380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/393380",
+        "Linux": "setsid steam steam://rungameid/393380",
+        "macOS": "open steam://rungameid/393380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/393380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9495"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 61599,
+  "name": "Cicadas",
+  "source_url": "https://www.igdb.com/games/cicadas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2aj9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cicadas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710840",
+        "Linux": "setsid steam steam://rungameid/710840",
+        "macOS": "open steam://rungameid/710840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cicadas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=61599"
+}

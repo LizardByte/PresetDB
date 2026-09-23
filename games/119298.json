@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119298,
+  "name": "Blair Witch",
+  "source_url": "https://www.igdb.com/games/blair-witch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtgz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blair Witch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1092660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1092660",
+        "Linux": "setsid steam steam://rungameid/1092660",
+        "macOS": "open steam://rungameid/1092660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1092660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blair-witch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119298"
+}

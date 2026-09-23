@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110185,
+  "name": "Grim Nights",
+  "source_url": "https://www.igdb.com/games/grim-nights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41h8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grim Nights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "947300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/947300",
+        "Linux": "setsid steam steam://rungameid/947300",
+        "macOS": "open steam://rungameid/947300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/947300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grim-nights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110185"
+}

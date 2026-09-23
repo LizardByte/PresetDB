@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250803,
+  "name": "Cabernet",
+  "source_url": "https://www.igdb.com/games/cabernet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6x36.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cabernet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2401410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2401410",
+        "Linux": "setsid steam steam://rungameid/2401410",
+        "macOS": "open steam://rungameid/2401410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2401410",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "cabernet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250803"
+}

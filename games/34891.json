@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34891,
+  "name": "Raywin",
+  "source_url": "https://www.igdb.com/games/raywin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jov.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raywin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "386110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/386110",
+        "Linux": "setsid steam steam://rungameid/386110",
+        "macOS": "open steam://rungameid/386110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/386110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "raywin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34891"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33630,
+  "name": "Star Rogue",
+  "source_url": "https://www.igdb.com/games/star-rogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf1x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Rogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "438440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/438440",
+        "Linux": "setsid steam steam://rungameid/438440",
+        "macOS": "open steam://rungameid/438440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/438440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "star-rogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33630"
+}

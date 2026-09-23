@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10068,
+  "name": "Bus Driver",
+  "source_url": "https://www.igdb.com/games/bus-driver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mo2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bus Driver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "302080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/302080",
+        "Linux": "setsid steam steam://rungameid/302080",
+        "macOS": "open steam://rungameid/302080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/302080",
+      "protondb": {
+        "tier": "gold",
+        "reports": 22
+      }
+    }
+  ],
+  "igdb_slug": "bus-driver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10068"
+}

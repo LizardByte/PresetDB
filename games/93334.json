@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93334,
+  "name": "No Exit",
+  "source_url": "https://www.igdb.com/games/no-exit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22xw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1261280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1261280",
+        "Linux": "setsid steam steam://rungameid/1261280",
+        "macOS": "open steam://rungameid/1261280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1261280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "no-exit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93334"
+}

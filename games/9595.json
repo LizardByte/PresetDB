@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9595,
+  "name": "Pox Nora",
+  "source_url": "https://www.igdb.com/games/pox-nora",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61bd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pox Nora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "201210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/201210",
+        "Linux": "setsid steam steam://rungameid/201210",
+        "macOS": "open steam://rungameid/201210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/201210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pox-nora",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9595"
+}

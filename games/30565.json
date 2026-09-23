@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30565,
+  "name": "Choppa",
+  "source_url": "https://www.igdb.com/games/choppa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22vx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Choppa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "554330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/554330",
+        "Linux": "setsid steam steam://rungameid/554330",
+        "macOS": "open steam://rungameid/554330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/554330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "choppa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30565"
+}

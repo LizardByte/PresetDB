@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120431,
+  "name": "Rad TV",
+  "source_url": "https://www.igdb.com/games/rad-tv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26db.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rad TV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649240",
+        "Linux": "setsid steam steam://rungameid/649240",
+        "macOS": "open steam://rungameid/649240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rad-tv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120431"
+}

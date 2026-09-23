@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 544,
+  "name": "The Darkness II",
+  "source_url": "https://www.igdb.com/games/the-darkness-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mxv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Darkness II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "67370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/67370",
+        "Linux": "setsid steam steam://rungameid/67370",
+        "macOS": "open steam://rungameid/67370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/67370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-darkness-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=544"
+}

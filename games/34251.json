@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34251,
+  "name": "Liftoff",
+  "source_url": "https://www.igdb.com/games/liftoff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qkg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liftoff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "410340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/410340",
+        "Linux": "setsid steam steam://rungameid/410340",
+        "macOS": "open steam://rungameid/410340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/410340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "liftoff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34251"
+}

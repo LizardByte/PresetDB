@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115427,
+  "name": "Haven",
+  "source_url": "https://www.igdb.com/games/haven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lrj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "983970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/983970",
+        "Linux": "setsid steam steam://rungameid/983970",
+        "macOS": "open steam://rungameid/983970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/983970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "haven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115427"
+}

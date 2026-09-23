@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106536,
+  "name": "Save Them",
+  "source_url": "https://www.igdb.com/games/save-them",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhjs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save Them",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895960",
+        "Linux": "setsid steam steam://rungameid/895960",
+        "macOS": "open steam://rungameid/895960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/895960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "save-them",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106536"
+}

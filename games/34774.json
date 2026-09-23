@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34774,
+  "name": "Izbot",
+  "source_url": "https://www.igdb.com/games/izbot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43j6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Izbot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "388970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/388970",
+        "Linux": "setsid steam steam://rungameid/388970",
+        "macOS": "open steam://rungameid/388970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/388970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "izbot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34774"
+}

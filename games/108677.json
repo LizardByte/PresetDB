@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108677,
+  "name": "Smogpunk",
+  "source_url": "https://www.igdb.com/games/smogpunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2261.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smogpunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918160",
+        "Linux": "setsid steam steam://rungameid/918160",
+        "macOS": "open steam://rungameid/918160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/918160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "smogpunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108677"
+}

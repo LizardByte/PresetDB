@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32459,
+  "name": "Rise of the Ancients",
+  "source_url": "https://www.igdb.com/games/rise-of-the-ancients",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise of the Ancients",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485950",
+        "Linux": "setsid steam steam://rungameid/485950",
+        "macOS": "open steam://rungameid/485950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rise-of-the-ancients",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32459"
+}

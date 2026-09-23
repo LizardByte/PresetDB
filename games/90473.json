@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90473,
+  "name": "MakeThatMoney",
+  "source_url": "https://www.igdb.com/games/makethatmoney",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6da.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MakeThatMoney",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600600",
+        "Linux": "setsid steam steam://rungameid/600600",
+        "macOS": "open steam://rungameid/600600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/600600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "makethatmoney",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90473"
+}

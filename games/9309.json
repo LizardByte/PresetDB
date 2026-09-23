@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9309,
+  "name": "Yosumin!",
+  "source_url": "https://www.igdb.com/games/yosumin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l5r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yosumin!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "23300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/23300",
+        "Linux": "setsid steam steam://rungameid/23300",
+        "macOS": "open steam://rungameid/23300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/23300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yosumin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9309"
+}

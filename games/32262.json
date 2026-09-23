@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32262,
+  "name": "Reckpunk",
+  "source_url": "https://www.igdb.com/games/reckpunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7cc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reckpunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "495750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/495750",
+        "Linux": "setsid steam steam://rungameid/495750",
+        "macOS": "open steam://rungameid/495750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/495750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "reckpunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32262"
+}

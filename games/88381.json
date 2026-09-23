@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88381,
+  "name": "Poopdie",
+  "source_url": "https://www.igdb.com/games/poopdie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wdy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Poopdie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789920",
+        "Linux": "setsid steam steam://rungameid/789920",
+        "macOS": "open steam://rungameid/789920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/789920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "poopdie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88381"
+}

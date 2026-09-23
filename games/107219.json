@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107219,
+  "name": "Hamsterdam",
+  "source_url": "https://www.igdb.com/games/hamsterdam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1i9r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hamsterdam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922040",
+        "Linux": "setsid steam steam://rungameid/922040",
+        "macOS": "open steam://rungameid/922040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/922040",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "hamsterdam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107219"
+}

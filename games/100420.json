@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100420,
+  "name": "Future Proof",
+  "source_url": "https://www.igdb.com/games/future-proof",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zyq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Future Proof",
+      "os": null,
+      "method": "steam",
+      "launch_id": "844130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/844130",
+        "Linux": "setsid steam steam://rungameid/844130",
+        "macOS": "open steam://rungameid/844130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/844130",
+      "protondb": {
+        "tier": "gold",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "future-proof",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100420"
+}

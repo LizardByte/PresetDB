@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121321,
+  "name": "Silicon City",
+  "source_url": "https://www.igdb.com/games/silicon-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tfz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silicon City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1121200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1121200",
+        "Linux": "setsid steam steam://rungameid/1121200",
+        "macOS": "open steam://rungameid/1121200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1121200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "silicon-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121321"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81273,
+  "name": "Grey Hack",
+  "source_url": "https://www.igdb.com/games/grey-hack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41gw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grey Hack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605230",
+        "Linux": "setsid steam steam://rungameid/605230",
+        "macOS": "open steam://rungameid/605230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/605230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grey-hack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81273"
+}

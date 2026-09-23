@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31777,
+  "name": "BitMaster",
+  "source_url": "https://www.igdb.com/games/bitmaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vpf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BitMaster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "514660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/514660",
+        "Linux": "setsid steam steam://rungameid/514660",
+        "macOS": "open steam://rungameid/514660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/514660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bitmaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31777"
+}

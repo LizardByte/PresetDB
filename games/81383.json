@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81383,
+  "name": "Eden Rising",
+  "source_url": "https://www.igdb.com/games/eden-rising",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q14.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eden Rising",
+      "os": null,
+      "method": "steam",
+      "launch_id": "345330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/345330",
+        "Linux": "setsid steam steam://rungameid/345330",
+        "macOS": "open steam://rungameid/345330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/345330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eden-rising",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81383"
+}

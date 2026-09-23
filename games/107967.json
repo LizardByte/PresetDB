@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107967,
+  "name": "My Holiday",
+  "source_url": "https://www.igdb.com/games/my-holiday",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pj4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Holiday",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904320",
+        "Linux": "setsid steam steam://rungameid/904320",
+        "macOS": "open steam://rungameid/904320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/904320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-holiday",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107967"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 57027,
+  "name": "Wind Horizon",
+  "source_url": "https://www.igdb.com/games/wind-horizon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bu3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wind Horizon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "700510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/700510",
+        "Linux": "setsid steam steam://rungameid/700510",
+        "macOS": "open steam://rungameid/700510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/700510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wind-horizon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=57027"
+}

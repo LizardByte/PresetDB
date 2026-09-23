@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37544,
+  "name": "Run, Goo, Run",
+  "source_url": "https://www.igdb.com/games/run-goo-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2oze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run, Goo, Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "658950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/658950",
+        "Linux": "setsid steam steam://rungameid/658950",
+        "macOS": "open steam://rungameid/658950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/658950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-goo-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37544"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108365,
+  "name": "Evolo.Evolution",
+  "source_url": "https://www.igdb.com/games/evolo-dot-evolution",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgge.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evolo.Evolution",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918080",
+        "Linux": "setsid steam steam://rungameid/918080",
+        "macOS": "open steam://rungameid/918080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/918080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "evolo-dot-evolution",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108365"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28346,
+  "name": "HedgeWars",
+  "source_url": "https://www.igdb.com/games/hedgewars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hqg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HedgeWars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2223810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2223810",
+        "Linux": "setsid steam steam://rungameid/2223810",
+        "macOS": "open steam://rungameid/2223810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2223810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hedgewars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28346"
+}

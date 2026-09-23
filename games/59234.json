@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 59234,
+  "name": "Astroe",
+  "source_url": "https://www.igdb.com/games/astroe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29td.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astroe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "705800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/705800",
+        "Linux": "setsid steam steam://rungameid/705800",
+        "macOS": "open steam://rungameid/705800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/705800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "astroe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=59234"
+}

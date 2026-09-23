@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7503,
+  "name": "Westward",
+  "source_url": "https://www.igdb.com/games/westward",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/aant30rfeqxioxvi0bwz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Westward",
+      "os": null,
+      "method": "steam",
+      "launch_id": "36150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/36150",
+        "Linux": "setsid steam steam://rungameid/36150",
+        "macOS": "open steam://rungameid/36150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/36150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "westward",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7503"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30400,
+  "name": "Err: 001",
+  "source_url": "https://www.igdb.com/games/err-001",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6la.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Err: 001",
+      "os": null,
+      "method": "steam",
+      "launch_id": "559990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/559990",
+        "Linux": "setsid steam steam://rungameid/559990",
+        "macOS": "open steam://rungameid/559990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/559990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "err-001",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30400"
+}

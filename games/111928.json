@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111928,
+  "name": "Loria",
+  "source_url": "https://www.igdb.com/games/loria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ai3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "946660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/946660",
+        "Linux": "setsid steam steam://rungameid/946660",
+        "macOS": "open steam://rungameid/946660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/946660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "loria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111928"
+}

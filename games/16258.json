@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16258,
+  "name": "Tobe's Vertical Adventure",
+  "source_url": "https://www.igdb.com/games/tobes-vertical-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6grm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tobe's Vertical Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "105700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/105700",
+        "Linux": "setsid steam steam://rungameid/105700",
+        "macOS": "open steam://rungameid/105700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/105700",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "tobes-vertical-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16258"
+}

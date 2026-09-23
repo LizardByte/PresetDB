@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37777,
+  "name": "Shadow of the Tomb Raider",
+  "source_url": "https://www.igdb.com/games/shadow-of-the-tomb-raider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vcn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow of the Tomb Raider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "750920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/750920",
+        "Linux": "setsid steam steam://rungameid/750920",
+        "macOS": "open steam://rungameid/750920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/750920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shadow-of-the-tomb-raider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37777"
+}

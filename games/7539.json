@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7539,
+  "name": "Luxor MahJong",
+  "source_url": "https://www.igdb.com/games/luxor-mahjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2voq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Luxor MahJong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "32110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/32110",
+        "Linux": "setsid steam steam://rungameid/32110",
+        "macOS": "open steam://rungameid/32110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/32110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "luxor-mahjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7539"
+}

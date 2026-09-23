@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111679,
+  "name": "Jump Jumpz",
+  "source_url": "https://www.igdb.com/games/jump-jumpz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgs2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jump Jumpz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "968200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/968200",
+        "Linux": "setsid steam steam://rungameid/968200",
+        "macOS": "open steam://rungameid/968200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/968200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jump-jumpz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111679"
+}

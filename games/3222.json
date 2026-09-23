@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3222,
+  "name": "Chasm",
+  "source_url": "https://www.igdb.com/games/chasm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r6k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chasm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "312200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/312200",
+        "Linux": "setsid steam steam://rungameid/312200",
+        "macOS": "open steam://rungameid/312200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/312200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chasm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3222"
+}

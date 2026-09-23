@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33217,
+  "name": "World of Undead",
+  "source_url": "https://www.igdb.com/games/world-of-undead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmvq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Undead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454730",
+        "Linux": "setsid steam steam://rungameid/454730",
+        "macOS": "open steam://rungameid/454730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "world-of-undead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33217"
+}

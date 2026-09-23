@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9842,
+  "name": "Flight of the Icarus",
+  "source_url": "https://www.igdb.com/games/flight-of-the-icarus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1pcs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flight of the Icarus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "49800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/49800",
+        "Linux": "setsid steam steam://rungameid/49800",
+        "macOS": "open steam://rungameid/49800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/49800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flight-of-the-icarus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9842"
+}

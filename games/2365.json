@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2365,
+  "name": "Battle for Wesnoth",
+  "source_url": "https://www.igdb.com/games/battle-for-wesnoth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3dg2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle for Wesnoth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "599390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/599390",
+        "Linux": "setsid steam steam://rungameid/599390",
+        "macOS": "open steam://rungameid/599390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/599390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "battle-for-wesnoth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2365"
+}

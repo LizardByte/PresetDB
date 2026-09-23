@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76767,
+  "name": "#WarGames",
+  "source_url": "https://www.igdb.com/games/number-wargames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23um.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "#WarGames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779420",
+        "Linux": "setsid steam steam://rungameid/779420",
+        "macOS": "open steam://rungameid/779420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/779420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "number-wargames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76767"
+}

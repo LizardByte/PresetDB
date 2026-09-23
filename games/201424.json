@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201424,
+  "name": "Beanstalk",
+  "source_url": "https://www.igdb.com/games/beanstalk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59rl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beanstalk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1974510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1974510",
+        "Linux": "setsid steam steam://rungameid/1974510",
+        "macOS": "open steam://rungameid/1974510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1974510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beanstalk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201424"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2368,
+  "name": "Dark Souls II",
+  "source_url": "https://www.igdb.com/games/dark-souls-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobysr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Souls II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "236430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/236430",
+        "Linux": "setsid steam steam://rungameid/236430",
+        "macOS": "open steam://rungameid/236430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/236430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dark-souls-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2368"
+}

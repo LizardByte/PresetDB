@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18337,
+  "name": "Dofus",
+  "source_url": "https://www.igdb.com/games/dofus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co93i0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dofus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "254300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/254300",
+        "Linux": "setsid steam steam://rungameid/254300",
+        "macOS": "open steam://rungameid/254300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/254300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dofus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18337"
+}

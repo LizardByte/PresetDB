@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81748,
+  "name": "Ignis",
+  "source_url": "https://www.igdb.com/games/ignis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobngk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ignis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "766930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/766930",
+        "Linux": "setsid steam steam://rungameid/766930",
+        "macOS": "open steam://rungameid/766930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/766930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ignis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81748"
+}

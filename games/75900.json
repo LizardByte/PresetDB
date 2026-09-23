@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75900,
+  "name": "VR Kanojo",
+  "source_url": "https://www.igdb.com/games/vr-kanojo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coby82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Kanojo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "751440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/751440",
+        "Linux": "setsid steam steam://rungameid/751440",
+        "macOS": "open steam://rungameid/751440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/751440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-kanojo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75900"
+}

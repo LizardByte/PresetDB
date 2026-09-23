@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75970,
+  "name": "MONMUSU",
+  "source_url": "https://www.igdb.com/games/monmusu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2z47.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MONMUSU",
+      "os": null,
+      "method": "steam",
+      "launch_id": "533540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/533540",
+        "Linux": "setsid steam steam://rungameid/533540",
+        "macOS": "open steam://rungameid/533540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/533540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "monmusu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75970"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31643,
+  "name": "Pinkman",
+  "source_url": "https://www.igdb.com/games/pinkman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co278s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinkman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "516480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/516480",
+        "Linux": "setsid steam steam://rungameid/516480",
+        "macOS": "open steam://rungameid/516480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/516480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pinkman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31643"
+}

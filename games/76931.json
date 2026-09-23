@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76931,
+  "name": "Live and Learn",
+  "source_url": "https://www.igdb.com/games/live-and-learn",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Live and Learn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "757900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/757900",
+        "Linux": "setsid steam steam://rungameid/757900",
+        "macOS": "open steam://rungameid/757900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/757900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "live-and-learn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76931"
+}

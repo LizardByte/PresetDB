@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15995,
+  "name": "Puzzle Agent",
+  "source_url": "https://www.igdb.com/games/puzzle-agent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21gr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puzzle Agent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "31270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/31270",
+        "Linux": "setsid steam steam://rungameid/31270",
+        "macOS": "open steam://rungameid/31270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/31270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "puzzle-agent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15995"
+}

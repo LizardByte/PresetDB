@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 182423,
+  "name": "Stickit",
+  "source_url": "https://www.igdb.com/games/stickit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49fv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stickit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1828900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1828900",
+        "Linux": "setsid steam steam://rungameid/1828900",
+        "macOS": "open steam://rungameid/1828900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1828900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stickit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=182423"
+}

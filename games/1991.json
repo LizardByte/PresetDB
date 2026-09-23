@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1991,
+  "name": "Fez",
+  "source_url": "https://www.igdb.com/games/fez",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rd9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fez",
+      "os": null,
+      "method": "steam",
+      "launch_id": "224760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/224760",
+        "Linux": "setsid steam steam://rungameid/224760",
+        "macOS": "open steam://rungameid/224760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/224760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fez",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1991"
+}

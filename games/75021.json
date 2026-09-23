@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75021,
+  "name": "Scrap Galaxy",
+  "source_url": "https://www.igdb.com/games/scrap-galaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24rx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scrap Galaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "723110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/723110",
+        "Linux": "setsid steam steam://rungameid/723110",
+        "macOS": "open steam://rungameid/723110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/723110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "scrap-galaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75021"
+}

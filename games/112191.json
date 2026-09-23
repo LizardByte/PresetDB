@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112191,
+  "name": "Epic Seven",
+  "source_url": "https://www.igdb.com/games/epic-seven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocses.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Seven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5019180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5019180",
+        "Linux": "setsid steam steam://rungameid/5019180",
+        "macOS": "open steam://rungameid/5019180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5019180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "epic-seven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112191"
+}

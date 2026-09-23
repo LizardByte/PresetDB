@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168272,
+  "name": "Crazy Lemmings",
+  "source_url": "https://www.igdb.com/games/crazy-lemmings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gpy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Lemmings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1298200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1298200",
+        "Linux": "setsid steam steam://rungameid/1298200",
+        "macOS": "open steam://rungameid/1298200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1298200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crazy-lemmings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168272"
+}

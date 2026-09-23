@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25901,
+  "name": "My Friend Pedro",
+  "source_url": "https://www.igdb.com/games/my-friend-pedro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4j0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Friend Pedro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557340",
+        "Linux": "setsid steam steam://rungameid/557340",
+        "macOS": "open steam://rungameid/557340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/557340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-friend-pedro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25901"
+}

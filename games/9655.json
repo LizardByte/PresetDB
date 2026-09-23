@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9655,
+  "name": "HuniePop",
+  "source_url": "https://www.igdb.com/games/huniepop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sor.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HuniePop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "339800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/339800",
+        "Linux": "setsid steam steam://rungameid/339800",
+        "macOS": "open steam://rungameid/339800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/339800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "huniepop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9655"
+}

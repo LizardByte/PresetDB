@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129688,
+  "name": "The Escaper",
+  "source_url": "https://www.igdb.com/games/the-escaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20go.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Escaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234520",
+        "Linux": "setsid steam steam://rungameid/1234520",
+        "macOS": "open steam://rungameid/1234520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1234520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-escaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129688"
+}

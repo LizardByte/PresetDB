@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56900,
+  "name": "Doodle Creatures",
+  "source_url": "https://www.igdb.com/games/doodle-creatures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94d3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doodle Creatures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1020440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1020440",
+        "Linux": "setsid steam steam://rungameid/1020440",
+        "macOS": "open steam://rungameid/1020440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1020440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "doodle-creatures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56900"
+}

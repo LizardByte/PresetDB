@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55385,
+  "name": "Angry Gnome",
+  "source_url": "https://www.igdb.com/games/angry-gnome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29hh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Angry Gnome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "685920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/685920",
+        "Linux": "setsid steam steam://rungameid/685920",
+        "macOS": "open steam://rungameid/685920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/685920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "angry-gnome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55385"
+}

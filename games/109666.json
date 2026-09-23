@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109666,
+  "name": "Deadside",
+  "source_url": "https://www.igdb.com/games/deadside",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cg5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadside",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895400",
+        "Linux": "setsid steam steam://rungameid/895400",
+        "macOS": "open steam://rungameid/895400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/895400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deadside",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109666"
+}

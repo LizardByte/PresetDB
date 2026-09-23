@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35790,
+  "name": "Chester One",
+  "source_url": "https://www.igdb.com/games/chester-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ai5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chester One",
+      "os": null,
+      "method": "steam",
+      "launch_id": "348800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/348800",
+        "Linux": "setsid steam steam://rungameid/348800",
+        "macOS": "open steam://rungameid/348800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/348800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chester-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35790"
+}

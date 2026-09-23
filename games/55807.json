@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55807,
+  "name": "Krieg",
+  "source_url": "https://www.igdb.com/games/krieg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co266u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Krieg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "655620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/655620",
+        "Linux": "setsid steam steam://rungameid/655620",
+        "macOS": "open steam://rungameid/655620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/655620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "krieg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55807"
+}

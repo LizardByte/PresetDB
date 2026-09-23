@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81184,
+  "name": "My Girlfriend",
+  "source_url": "https://www.igdb.com/games/my-girlfriend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqxj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Girlfriend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "467690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/467690",
+        "Linux": "setsid steam steam://rungameid/467690",
+        "macOS": "open steam://rungameid/467690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/467690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-girlfriend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81184"
+}

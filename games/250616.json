@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250616,
+  "name": "Helldivers 2",
+  "source_url": "https://www.igdb.com/games/helldivers-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabbf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Helldivers 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553850",
+        "Linux": "setsid steam steam://rungameid/553850",
+        "macOS": "open steam://rungameid/553850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/553850",
+      "protondb": {
+        "tier": "gold",
+        "reports": 2113
+      }
+    }
+  ],
+  "igdb_slug": "helldivers-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250616"
+}

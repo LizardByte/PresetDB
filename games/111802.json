@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111802,
+  "name": "Blame him",
+  "source_url": "https://www.igdb.com/games/blame-him",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jlc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blame him",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950400",
+        "Linux": "setsid steam steam://rungameid/950400",
+        "macOS": "open steam://rungameid/950400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/950400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blame-him",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111802"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28846,
+  "name": "Bloop",
+  "source_url": "https://www.igdb.com/games/bloop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvyx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "340200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/340200",
+        "Linux": "setsid steam steam://rungameid/340200",
+        "macOS": "open steam://rungameid/340200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/340200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bloop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28846"
+}

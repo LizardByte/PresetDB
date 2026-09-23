@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112389,
+  "name": "You are Never Alone",
+  "source_url": "https://www.igdb.com/games/you-are-never-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ev4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You are Never Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978020",
+        "Linux": "setsid steam steam://rungameid/978020",
+        "macOS": "open steam://rungameid/978020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/978020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "you-are-never-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112389"
+}

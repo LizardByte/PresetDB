@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105631,
+  "name": "Small Sister",
+  "source_url": "https://www.igdb.com/games/small-sister",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob185.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Small Sister",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904600",
+        "Linux": "setsid steam steam://rungameid/904600",
+        "macOS": "open steam://rungameid/904600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/904600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "small-sister",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105631"
+}

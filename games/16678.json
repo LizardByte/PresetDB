@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16678,
+  "name": "Grimm",
+  "source_url": "https://www.igdb.com/games/grimm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v0m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grimm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "252150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/252150",
+        "Linux": "setsid steam steam://rungameid/252150",
+        "macOS": "open steam://rungameid/252150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/252150",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "grimm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16678"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252573,
+  "name": "Happy Lab",
+  "source_url": "https://www.igdb.com/games/happy-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649960",
+        "Linux": "setsid steam steam://rungameid/649960",
+        "macOS": "open steam://rungameid/649960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "happy-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252573"
+}

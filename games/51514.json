@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51514,
+  "name": "Isee",
+  "source_url": "https://www.igdb.com/games/isee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bqn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Isee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "672360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/672360",
+        "Linux": "setsid steam steam://rungameid/672360",
+        "macOS": "open steam://rungameid/672360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/672360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "isee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51514"
+}

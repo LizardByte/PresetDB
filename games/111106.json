@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111106,
+  "name": "Save the Cookie",
+  "source_url": "https://www.igdb.com/games/save-the-cookie",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save the Cookie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895650",
+        "Linux": "setsid steam steam://rungameid/895650",
+        "macOS": "open steam://rungameid/895650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/895650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "save-the-cookie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111106"
+}

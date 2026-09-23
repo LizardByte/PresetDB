@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112975,
+  "name": "Toader",
+  "source_url": "https://www.igdb.com/games/toader",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882180",
+        "Linux": "setsid steam steam://rungameid/882180",
+        "macOS": "open steam://rungameid/882180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/882180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "toader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112975"
+}

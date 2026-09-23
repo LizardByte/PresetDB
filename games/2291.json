@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2291,
+  "name": "Thomas Was Alone",
+  "source_url": "https://www.igdb.com/games/thomas-was-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ak5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thomas Was Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "220780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/220780",
+        "Linux": "setsid steam steam://rungameid/220780",
+        "macOS": "open steam://rungameid/220780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/220780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thomas-was-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2291"
+}

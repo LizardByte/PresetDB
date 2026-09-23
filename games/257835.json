@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257835,
+  "name": "Indigo Park",
+  "source_url": "https://www.igdb.com/games/indigo-park",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88ki.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Indigo Park",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2504480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2504480",
+        "Linux": "setsid steam steam://rungameid/2504480",
+        "macOS": "open steam://rungameid/2504480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2504480",
+      "protondb": {
+        "tier": "gold",
+        "reports": 83
+      }
+    }
+  ],
+  "igdb_slug": "indigo-park",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257835"
+}

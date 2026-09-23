@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1911,
+  "name": "Path of Exile",
+  "source_url": "https://www.igdb.com/games/path-of-exile",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1n6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Path of Exile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "238960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/238960",
+        "Linux": "setsid steam steam://rungameid/238960",
+        "macOS": "open steam://rungameid/238960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/238960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "path-of-exile",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1911"
+}

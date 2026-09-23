@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 981,
+  "name": "Rayman Origins",
+  "source_url": "https://www.igdb.com/games/rayman-origins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v7k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rayman Origins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "207490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/207490",
+        "Linux": "setsid steam steam://rungameid/207490",
+        "macOS": "open steam://rungameid/207490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/207490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rayman-origins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=981"
+}

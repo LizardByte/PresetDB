@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9730,
+  "name": "Firewatch",
+  "source_url": "https://www.igdb.com/games/firewatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1ts.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Firewatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "383870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/383870",
+        "Linux": "setsid steam steam://rungameid/383870",
+        "macOS": "open steam://rungameid/383870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/383870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "firewatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9730"
+}

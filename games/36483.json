@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36483,
+  "name": "Galact Quest",
+  "source_url": "https://www.igdb.com/games/galact-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bgn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galact Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "629810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/629810",
+        "Linux": "setsid steam steam://rungameid/629810",
+        "macOS": "open steam://rungameid/629810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/629810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "galact-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36483"
+}

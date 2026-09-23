@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211953,
+  "name": "Rocketeer",
+  "source_url": "https://www.igdb.com/games/rocketeer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ny2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocketeer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2087300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2087300",
+        "Linux": "setsid steam steam://rungameid/2087300",
+        "macOS": "open steam://rungameid/2087300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2087300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rocketeer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211953"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 64369,
+  "name": "WGT Golf",
+  "source_url": "https://www.igdb.com/games/wgt-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ek7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WGT Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1182020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1182020",
+        "Linux": "setsid steam steam://rungameid/1182020",
+        "macOS": "open steam://rungameid/1182020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1182020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wgt-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=64369"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9367,
+  "name": "Wickland",
+  "source_url": "https://www.igdb.com/games/wickland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ocg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wickland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "321260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/321260",
+        "Linux": "setsid steam steam://rungameid/321260",
+        "macOS": "open steam://rungameid/321260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/321260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wickland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9367"
+}

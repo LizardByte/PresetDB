@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30816,
+  "name": "7D Game",
+  "source_url": "https://www.igdb.com/games/7d-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22id.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "7D Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "547440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/547440",
+        "Linux": "setsid steam steam://rungameid/547440",
+        "macOS": "open steam://rungameid/547440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/547440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "7d-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30816"
+}

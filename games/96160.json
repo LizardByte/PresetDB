@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96160,
+  "name": "Jelly Escape",
+  "source_url": "https://www.igdb.com/games/jelly-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk68.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jelly Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771860",
+        "Linux": "setsid steam steam://rungameid/771860",
+        "macOS": "open steam://rungameid/771860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/771860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jelly-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96160"
+}

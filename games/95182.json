@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95182,
+  "name": "Bump Bump Bump",
+  "source_url": "https://www.igdb.com/games/bump-bump-bump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh16.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bump Bump Bump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "812900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/812900",
+        "Linux": "setsid steam steam://rungameid/812900",
+        "macOS": "open steam://rungameid/812900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/812900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bump-bump-bump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95182"
+}

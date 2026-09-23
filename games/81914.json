@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81914,
+  "name": "Close the Window!",
+  "source_url": "https://www.igdb.com/games/close-the-window",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/e215iimzbv0e4qe9jilf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Close the Window!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "773170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/773170",
+        "Linux": "setsid steam steam://rungameid/773170",
+        "macOS": "open steam://rungameid/773170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/773170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "close-the-window",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81914"
+}

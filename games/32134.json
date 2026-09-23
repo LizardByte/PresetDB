@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32134,
+  "name": "The Cooking Game",
+  "source_url": "https://www.igdb.com/games/the-cooking-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nq5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cooking Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "504310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/504310",
+        "Linux": "setsid steam steam://rungameid/504310",
+        "macOS": "open steam://rungameid/504310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/504310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-cooking-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32134"
+}

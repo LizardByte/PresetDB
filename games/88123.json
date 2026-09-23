@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88123,
+  "name": "Shadow of the Black Dragon",
+  "source_url": "https://www.igdb.com/games/shadow-of-the-black-dragon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobddi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow of the Black Dragon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "799420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/799420",
+        "Linux": "setsid steam steam://rungameid/799420",
+        "macOS": "open steam://rungameid/799420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/799420",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shadow-of-the-black-dragon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88123"
+}

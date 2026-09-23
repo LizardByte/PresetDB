@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208604,
+  "name": "Brave Heroes",
+  "source_url": "https://www.igdb.com/games/brave-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c5d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2073970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2073970",
+        "Linux": "setsid steam steam://rungameid/2073970",
+        "macOS": "open steam://rungameid/2073970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2073970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brave-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208604"
+}

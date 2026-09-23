@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105010,
+  "name": "Poly Universe",
+  "source_url": "https://www.igdb.com/games/poly-universe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27o0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Poly Universe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801040",
+        "Linux": "setsid steam steam://rungameid/801040",
+        "macOS": "open steam://rungameid/801040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "poly-universe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105010"
+}

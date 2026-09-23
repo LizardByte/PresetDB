@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32320,
+  "name": "Shonen Idle Z",
+  "source_url": "https://www.igdb.com/games/shonen-idle-z",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co412a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shonen Idle Z",
+      "os": null,
+      "method": "steam",
+      "launch_id": "492800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/492800",
+        "Linux": "setsid steam steam://rungameid/492800",
+        "macOS": "open steam://rungameid/492800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/492800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shonen-idle-z",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32320"
+}

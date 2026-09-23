@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27444,
+  "name": "Open Sorcery",
+  "source_url": "https://www.igdb.com/games/open-sorcery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22sw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Open Sorcery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "585180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/585180",
+        "Linux": "setsid steam steam://rungameid/585180",
+        "macOS": "open steam://rungameid/585180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/585180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "open-sorcery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27444"
+}

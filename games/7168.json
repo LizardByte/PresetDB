@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7168,
+  "name": "The Dark Eye: Memoria",
+  "source_url": "https://www.igdb.com/games/the-dark-eye-memoria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1quq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dark Eye: Memoria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "243200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/243200",
+        "Linux": "setsid steam steam://rungameid/243200",
+        "macOS": "open steam://rungameid/243200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/243200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-dark-eye-memoria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7168"
+}

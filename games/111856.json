@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111856,
+  "name": "KóterGame",
+  "source_url": "https://www.igdb.com/games/kotergame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4531.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KóterGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "975700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/975700",
+        "Linux": "setsid steam steam://rungameid/975700",
+        "macOS": "open steam://rungameid/975700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/975700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kotergame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111856"
+}

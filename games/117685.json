@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117685,
+  "name": "DeathMatch",
+  "source_url": "https://www.igdb.com/games/deathmatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgpi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeathMatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1071700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1071700",
+        "Linux": "setsid steam steam://rungameid/1071700",
+        "macOS": "open steam://rungameid/1071700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1071700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deathmatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117685"
+}

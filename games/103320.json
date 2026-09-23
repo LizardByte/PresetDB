@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103320,
+  "name": "The Forgotten City",
+  "source_url": "https://www.igdb.com/games/the-forgotten-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3muu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Forgotten City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "874260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/874260",
+        "Linux": "setsid steam steam://rungameid/874260",
+        "macOS": "open steam://rungameid/874260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/874260",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 66
+      }
+    }
+  ],
+  "igdb_slug": "the-forgotten-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103320"
+}

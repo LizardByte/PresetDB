@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9211,
+  "name": "Lume",
+  "source_url": "https://www.igdb.com/games/lume",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jj4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lume",
+      "os": null,
+      "method": "steam",
+      "launch_id": "105100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/105100",
+        "Linux": "setsid steam steam://rungameid/105100",
+        "macOS": "open steam://rungameid/105100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/105100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lume",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9211"
+}

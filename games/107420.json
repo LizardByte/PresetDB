@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107420,
+  "name": "Wandering Owl",
+  "source_url": "https://www.igdb.com/games/wandering-owl",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wandering Owl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "909200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/909200",
+        "Linux": "setsid steam steam://rungameid/909200",
+        "macOS": "open steam://rungameid/909200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/909200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wandering-owl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107420"
+}

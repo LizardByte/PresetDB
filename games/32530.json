@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32530,
+  "name": "Drunk Wizards",
+  "source_url": "https://www.igdb.com/games/drunk-wizards",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob58e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drunk Wizards",
+      "os": null,
+      "method": "steam",
+      "launch_id": "479170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/479170",
+        "Linux": "setsid steam steam://rungameid/479170",
+        "macOS": "open steam://rungameid/479170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/479170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "drunk-wizards",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32530"
+}

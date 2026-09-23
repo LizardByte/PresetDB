@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123812,
+  "name": "Sticky Paws",
+  "source_url": "https://www.igdb.com/games/sticky-paws",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sar.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sticky Paws",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1129090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1129090",
+        "Linux": "setsid steam steam://rungameid/1129090",
+        "macOS": "open steam://rungameid/1129090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1129090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sticky-paws",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123812"
+}

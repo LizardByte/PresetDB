@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30542,
+  "name": "M.A.C.E.",
+  "source_url": "https://www.igdb.com/games/mace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mqk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "M.A.C.E.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "555280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/555280",
+        "Linux": "setsid steam steam://rungameid/555280",
+        "macOS": "open steam://rungameid/555280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/555280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30542"
+}

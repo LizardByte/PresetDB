@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75050,
+  "name": "Cubion",
+  "source_url": "https://www.igdb.com/games/cubion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2anc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cubion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710550",
+        "Linux": "setsid steam steam://rungameid/710550",
+        "macOS": "open steam://rungameid/710550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cubion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75050"
+}

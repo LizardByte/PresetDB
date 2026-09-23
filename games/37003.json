@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37003,
+  "name": "Lux Alliance",
+  "source_url": "https://www.igdb.com/games/lux-alliance",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa22o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lux Alliance",
+      "os": null,
+      "method": "steam",
+      "launch_id": "595660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/595660",
+        "Linux": "setsid steam steam://rungameid/595660",
+        "macOS": "open steam://rungameid/595660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/595660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lux-alliance",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37003"
+}

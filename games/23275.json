@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23275,
+  "name": "Streets of Rogue",
+  "source_url": "https://www.igdb.com/games/streets-of-rogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rbv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Streets of Rogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512900",
+        "Linux": "setsid steam steam://rungameid/512900",
+        "macOS": "open steam://rungameid/512900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/512900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "streets-of-rogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23275"
+}

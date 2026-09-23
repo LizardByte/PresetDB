@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9227,
+  "name": "Thief Gold",
+  "source_url": "https://www.igdb.com/games/thief-gold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44le.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thief Gold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "211600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/211600",
+        "Linux": "setsid steam steam://rungameid/211600",
+        "macOS": "open steam://rungameid/211600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/211600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thief-gold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9227"
+}

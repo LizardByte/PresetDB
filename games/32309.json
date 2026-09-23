@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32309,
+  "name": "Splash Bash",
+  "source_url": "https://www.igdb.com/games/splash-bash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/i985148adzfiatlrhdpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Splash Bash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494020",
+        "Linux": "setsid steam steam://rungameid/494020",
+        "macOS": "open steam://rungameid/494020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/494020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "splash-bash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32309"
+}

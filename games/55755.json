@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55755,
+  "name": "Make a word!",
+  "source_url": "https://www.igdb.com/games/make-a-word",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co85nv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Make a word!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "703870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/703870",
+        "Linux": "setsid steam steam://rungameid/703870",
+        "macOS": "open steam://rungameid/703870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/703870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "make-a-word",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55755"
+}

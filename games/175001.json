@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 175001,
+  "name": "Undawn",
+  "source_url": "https://www.igdb.com/games/undawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Undawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1881700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1881700",
+        "Linux": "setsid steam steam://rungameid/1881700",
+        "macOS": "open steam://rungameid/1881700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1881700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "undawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=175001"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 41979,
+  "name": "RadianVR",
+  "source_url": "https://www.igdb.com/games/radianvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob951.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RadianVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656170",
+        "Linux": "setsid steam steam://rungameid/656170",
+        "macOS": "open steam://rungameid/656170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/656170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "radianvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=41979"
+}

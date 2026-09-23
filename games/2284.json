@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2284,
+  "name": "Rock of Ages",
+  "source_url": "https://www.igdb.com/games/rock-of-ages",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rock of Ages",
+      "os": null,
+      "method": "steam",
+      "launch_id": "22230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/22230",
+        "Linux": "setsid steam steam://rungameid/22230",
+        "macOS": "open steam://rungameid/22230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/22230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rock-of-ages",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2284"
+}

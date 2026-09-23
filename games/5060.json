@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5060,
+  "name": "Deponia",
+  "source_url": "https://www.igdb.com/games/deponia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qqn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deponia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "214340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/214340",
+        "Linux": "setsid steam steam://rungameid/214340",
+        "macOS": "open steam://rungameid/214340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/214340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deponia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5060"
+}

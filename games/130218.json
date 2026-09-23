@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130218,
+  "name": "Golden Light",
+  "source_url": "https://www.igdb.com/games/golden-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7cew.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golden Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1245430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1245430",
+        "Linux": "setsid steam steam://rungameid/1245430",
+        "macOS": "open steam://rungameid/1245430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1245430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "golden-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130218"
+}

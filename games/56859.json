@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56859,
+  "name": "Project Wingman",
+  "source_url": "https://www.igdb.com/games/project-wingman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g1b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Wingman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895870",
+        "Linux": "setsid steam steam://rungameid/895870",
+        "macOS": "open steam://rungameid/895870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/895870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "project-wingman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56859"
+}

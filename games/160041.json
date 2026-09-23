@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160041,
+  "name": "Qubo",
+  "source_url": "https://www.igdb.com/games/qubo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y6v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Qubo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1287090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1287090",
+        "Linux": "setsid steam steam://rungameid/1287090",
+        "macOS": "open steam://rungameid/1287090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1287090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "qubo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160041"
+}

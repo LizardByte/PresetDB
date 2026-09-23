@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111200,
+  "name": "Zup! S",
+  "source_url": "https://www.igdb.com/games/zup-s",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2975.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zup! S",
+      "os": null,
+      "method": "steam",
+      "launch_id": "617670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/617670",
+        "Linux": "setsid steam steam://rungameid/617670",
+        "macOS": "open steam://rungameid/617670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/617670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zup-s",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111200"
+}

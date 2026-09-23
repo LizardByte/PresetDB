@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 87514,
+  "name": "Granny",
+  "source_url": "https://www.igdb.com/games/granny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95dl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Granny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "962400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/962400",
+        "Linux": "setsid steam steam://rungameid/962400",
+        "macOS": "open steam://rungameid/962400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/962400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "granny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=87514"
+}

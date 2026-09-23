@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10324,
+  "name": "Flockers",
+  "source_url": "https://www.igdb.com/games/flockers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q68.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flockers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "260330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/260330",
+        "Linux": "setsid steam steam://rungameid/260330",
+        "macOS": "open steam://rungameid/260330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/260330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flockers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10324"
+}

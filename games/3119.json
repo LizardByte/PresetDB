@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3119,
+  "name": "Metin2",
+  "source_url": "https://www.igdb.com/games/metin2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metin2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "550900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/550900",
+        "Linux": "setsid steam steam://rungameid/550900",
+        "macOS": "open steam://rungameid/550900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/550900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metin2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3119"
+}

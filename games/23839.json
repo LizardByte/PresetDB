@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23839,
+  "name": "Dogos",
+  "source_url": "https://www.igdb.com/games/dogos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gk4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "507050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/507050",
+        "Linux": "setsid steam steam://rungameid/507050",
+        "macOS": "open steam://rungameid/507050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/507050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dogos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23839"
+}
