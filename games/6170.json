@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6170,
+  "name": "The Red Solstice",
+  "source_url": "https://www.igdb.com/games/the-red-solstice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1umg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Red Solstice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "265590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/265590",
+        "Linux": "setsid steam steam://rungameid/265590",
+        "macOS": "open steam://rungameid/265590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/265590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-red-solstice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6170"
+}

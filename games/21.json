@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21,
+  "name": "BioShock 2",
+  "source_url": "https://www.igdb.com/games/bioshock-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2mlj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BioShock 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "8850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/8850",
+        "Linux": "setsid steam steam://rungameid/8850",
+        "macOS": "open steam://rungameid/8850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/8850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bioshock-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29055,
+  "name": "Link Twin",
+  "source_url": "https://www.igdb.com/games/link-twin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95vm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Link Twin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "612890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/612890",
+        "Linux": "setsid steam steam://rungameid/612890",
+        "macOS": "open steam://rungameid/612890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/612890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "link-twin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29055"
+}

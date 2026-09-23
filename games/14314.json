@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14314,
+  "name": "TerraTech",
+  "source_url": "https://www.igdb.com/games/terratech",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalaw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TerraTech",
+      "os": null,
+      "method": "steam",
+      "launch_id": "285920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/285920",
+        "Linux": "setsid steam steam://rungameid/285920",
+        "macOS": "open steam://rungameid/285920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/285920",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 32
+      }
+    }
+  ],
+  "igdb_slug": "terratech",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14314"
+}

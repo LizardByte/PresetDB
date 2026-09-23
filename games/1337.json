@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1337,
+  "name": "Torchlight II",
+  "source_url": "https://www.igdb.com/games/torchlight-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25z8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Torchlight II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "200710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/200710",
+        "Linux": "setsid steam steam://rungameid/200710",
+        "macOS": "open steam://rungameid/200710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/200710",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 65
+      }
+    }
+  ],
+  "igdb_slug": "torchlight-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1337"
+}

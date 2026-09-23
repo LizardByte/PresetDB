@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15395,
+  "name": "Eufloria HD",
+  "source_url": "https://www.igdb.com/games/eufloria-hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co254h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eufloria HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "221180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/221180",
+        "Linux": "setsid steam steam://rungameid/221180",
+        "macOS": "open steam://rungameid/221180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/221180",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "eufloria-hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15395"
+}

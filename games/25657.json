@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25657,
+  "name": "Destiny 2",
+  "source_url": "https://www.igdb.com/games/destiny-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc89g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Destiny 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1085660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1085660",
+        "Linux": "setsid steam steam://rungameid/1085660",
+        "macOS": "open steam://rungameid/1085660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1085660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "destiny-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25657"
+}

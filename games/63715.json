@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 63715,
+  "name": "King Exit",
+  "source_url": "https://www.igdb.com/games/king-exit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lgp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "712840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/712840",
+        "Linux": "setsid steam steam://rungameid/712840",
+        "macOS": "open steam://rungameid/712840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/712840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "king-exit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=63715"
+}

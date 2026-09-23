@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9918,
+  "name": "LEGO Jurassic World",
+  "source_url": "https://www.igdb.com/games/lego-jurassic-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mws.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LEGO Jurassic World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "352400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/352400",
+        "Linux": "setsid steam steam://rungameid/352400",
+        "macOS": "open steam://rungameid/352400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/352400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lego-jurassic-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9918"
+}

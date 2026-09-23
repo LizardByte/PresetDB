@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14377,
+  "name": "Eden Star",
+  "source_url": "https://www.igdb.com/games/eden-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q15.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eden Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "259570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/259570",
+        "Linux": "setsid steam steam://rungameid/259570",
+        "macOS": "open steam://rungameid/259570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/259570",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "eden-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14377"
+}

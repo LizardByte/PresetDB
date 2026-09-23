@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1269,
+  "name": "Darksiders II",
+  "source_url": "https://www.igdb.com/games/darksiders-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wi5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darksiders II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "50650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/50650",
+        "Linux": "setsid steam steam://rungameid/50650",
+        "macOS": "open steam://rungameid/50650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/50650",
+      "protondb": {
+        "tier": "silver",
+        "reports": 25
+      }
+    }
+  ],
+  "igdb_slug": "darksiders-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1269"
+}

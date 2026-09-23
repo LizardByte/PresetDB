@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11347,
+  "name": "Necropolis",
+  "source_url": "https://www.igdb.com/games/necropolis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qtc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Necropolis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "384490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/384490",
+        "Linux": "setsid steam steam://rungameid/384490",
+        "macOS": "open steam://rungameid/384490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/384490",
+      "protondb": {
+        "tier": "gold",
+        "reports": 19
+      }
+    }
+  ],
+  "igdb_slug": "necropolis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11347"
+}

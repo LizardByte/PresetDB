@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90989,
+  "name": "Mint",
+  "source_url": "https://www.igdb.com/games/mint",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2776.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mint",
+      "os": null,
+      "method": "steam",
+      "launch_id": "670100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/670100",
+        "Linux": "setsid steam steam://rungameid/670100",
+        "macOS": "open steam://rungameid/670100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/670100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mint",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90989"
+}

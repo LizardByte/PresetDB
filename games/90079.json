@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90079,
+  "name": "Dash Blitz",
+  "source_url": "https://www.igdb.com/games/dash-blitz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dash Blitz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "786620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/786620",
+        "Linux": "setsid steam steam://rungameid/786620",
+        "macOS": "open steam://rungameid/786620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/786620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dash-blitz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90079"
+}

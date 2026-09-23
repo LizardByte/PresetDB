@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26785,
+  "name": "Herolike",
+  "source_url": "https://www.igdb.com/games/herolike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42dc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Herolike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "409040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/409040",
+        "Linux": "setsid steam steam://rungameid/409040",
+        "macOS": "open steam://rungameid/409040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/409040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "herolike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26785"
+}

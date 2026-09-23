@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32019,
+  "name": "Black Hat Cooperative",
+  "source_url": "https://www.igdb.com/games/black-hat-cooperative",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co621c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Hat Cooperative",
+      "os": null,
+      "method": "steam",
+      "launch_id": "503100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/503100",
+        "Linux": "setsid steam steam://rungameid/503100",
+        "macOS": "open steam://rungameid/503100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/503100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "black-hat-cooperative",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32019"
+}

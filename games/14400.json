@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14400,
+  "name": "Cosmic DJ",
+  "source_url": "https://www.igdb.com/games/cosmic-dj",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/fv6rmchrbxqnalwegsau.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cosmic DJ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "297110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/297110",
+        "Linux": "setsid steam steam://rungameid/297110",
+        "macOS": "open steam://rungameid/297110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/297110",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "cosmic-dj",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14400"
+}

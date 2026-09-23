@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11708,
+  "name": "Hero Siege",
+  "source_url": "https://www.igdb.com/games/hero-siege",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3jtb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero Siege",
+      "os": null,
+      "method": "steam",
+      "launch_id": "269210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/269210",
+        "Linux": "setsid steam steam://rungameid/269210",
+        "macOS": "open steam://rungameid/269210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/269210",
+      "protondb": {
+        "tier": "gold",
+        "reports": 41
+      }
+    }
+  ],
+  "igdb_slug": "hero-siege",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11708"
+}

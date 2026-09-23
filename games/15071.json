@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15071,
+  "name": "Evochron Mercenary",
+  "source_url": "https://www.igdb.com/games/evochron-mercenary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24e3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evochron Mercenary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "71000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/71000",
+        "Linux": "setsid steam steam://rungameid/71000",
+        "macOS": "open steam://rungameid/71000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/71000",
+      "protondb": {
+        "tier": "silver",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "evochron-mercenary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15071"
+}

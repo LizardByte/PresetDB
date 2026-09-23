@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 564,
+  "name": "Rogue Warrior",
+  "source_url": "https://www.igdb.com/games/rogue-warrior",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ugi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Warrior",
+      "os": null,
+      "method": "steam",
+      "launch_id": "22310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/22310",
+        "Linux": "setsid steam steam://rungameid/22310",
+        "macOS": "open steam://rungameid/22310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/22310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rogue-warrior",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=564"
+}

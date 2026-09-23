@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7171,
+  "name": "Aaru's Awakening",
+  "source_url": "https://www.igdb.com/games/aaru-s-awakening",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1woi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aaru's Awakening",
+      "os": null,
+      "method": "steam",
+      "launch_id": "294060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/294060",
+        "Linux": "setsid steam steam://rungameid/294060",
+        "macOS": "open steam://rungameid/294060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/294060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aaru-s-awakening",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7171"
+}

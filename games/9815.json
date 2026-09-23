@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9815,
+  "name": "Fractured Space",
+  "source_url": "https://www.igdb.com/games/fractured-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nrf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fractured Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "310380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/310380",
+        "Linux": "setsid steam steam://rungameid/310380",
+        "macOS": "open steam://rungameid/310380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/310380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fractured-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9815"
+}

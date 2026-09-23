@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14298,
+  "name": "Zombie Vikings",
+  "source_url": "https://www.igdb.com/games/zombie-vikings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4p6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Vikings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "337480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/337480",
+        "Linux": "setsid steam steam://rungameid/337480",
+        "macOS": "open steam://rungameid/337480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/337480",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "zombie-vikings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14298"
+}

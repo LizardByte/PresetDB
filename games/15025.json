@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15025,
+  "name": "Swarm Arena",
+  "source_url": "https://www.igdb.com/games/swarm-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/x1puwgkcm3w7fahcqjye.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swarm Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "46600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/46600",
+        "Linux": "setsid steam steam://rungameid/46600",
+        "macOS": "open steam://rungameid/46600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/46600",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "swarm-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15025"
+}

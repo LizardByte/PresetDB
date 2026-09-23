@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35357,
+  "name": "Beeswing",
+  "source_url": "https://www.igdb.com/games/beeswing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co244p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beeswing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "365580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/365580",
+        "Linux": "setsid steam steam://rungameid/365580",
+        "macOS": "open steam://rungameid/365580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/365580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beeswing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35357"
+}

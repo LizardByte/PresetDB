@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90207,
+  "name": "Decoy",
+  "source_url": "https://www.igdb.com/games/decoy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45lu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Decoy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "594390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/594390",
+        "Linux": "setsid steam steam://rungameid/594390",
+        "macOS": "open steam://rungameid/594390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/594390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "decoy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90207"
+}

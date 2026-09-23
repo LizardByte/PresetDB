@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31966,
+  "name": "Anyland",
+  "source_url": "https://www.igdb.com/games/anyland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pfl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anyland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "505700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/505700",
+        "Linux": "setsid steam steam://rungameid/505700",
+        "macOS": "open steam://rungameid/505700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/505700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "anyland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31966"
+}

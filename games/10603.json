@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10603,
+  "name": "Numba Deluxe",
+  "source_url": "https://www.igdb.com/games/numba-deluxe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21en.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Numba Deluxe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "301700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/301700",
+        "Linux": "setsid steam steam://rungameid/301700",
+        "macOS": "open steam://rungameid/301700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/301700",
+      "protondb": {
+        "tier": "silver",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "numba-deluxe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10603"
+}

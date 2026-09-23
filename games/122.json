@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122,
+  "name": "Left 4 Dead",
+  "source_url": "https://www.igdb.com/games/left-4-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qrm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Left 4 Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500",
+        "Linux": "setsid steam steam://rungameid/500",
+        "macOS": "open steam://rungameid/500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500",
+      "protondb": {
+        "tier": "gold",
+        "reports": 161
+      }
+    }
+  ],
+  "igdb_slug": "left-4-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122"
+}

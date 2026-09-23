@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86470,
+  "name": "Please Love My Computer Game",
+  "source_url": "https://www.igdb.com/games/please-love-my-computer-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qz3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Please Love My Computer Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "796910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/796910",
+        "Linux": "setsid steam steam://rungameid/796910",
+        "macOS": "open steam://rungameid/796910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/796910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "please-love-my-computer-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86470"
+}

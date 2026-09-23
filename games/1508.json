@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1508,
+  "name": "Front Mission Evolved",
+  "source_url": "https://www.igdb.com/games/front-mission-evolved",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jem.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Front Mission Evolved",
+      "os": null,
+      "method": "steam",
+      "launch_id": "43000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/43000",
+        "Linux": "setsid steam steam://rungameid/43000",
+        "macOS": "open steam://rungameid/43000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/43000",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "front-mission-evolved",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1508"
+}

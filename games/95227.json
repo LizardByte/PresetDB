@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95227,
+  "name": "Charlotte",
+  "source_url": "https://www.igdb.com/games/charlotte",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qb8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Charlotte",
+      "os": null,
+      "method": "steam",
+      "launch_id": "824880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/824880",
+        "Linux": "setsid steam steam://rungameid/824880",
+        "macOS": "open steam://rungameid/824880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/824880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "charlotte",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95227"
+}

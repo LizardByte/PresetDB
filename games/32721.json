@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32721,
+  "name": "Z.I.O.N.",
+  "source_url": "https://www.igdb.com/games/zion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mrz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Z.I.O.N.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "466890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/466890",
+        "Linux": "setsid steam steam://rungameid/466890",
+        "macOS": "open steam://rungameid/466890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/466890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32721"
+}

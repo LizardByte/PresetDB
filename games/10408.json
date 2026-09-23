@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10408,
+  "name": "Heli Heroes",
+  "source_url": "https://www.igdb.com/games/heli-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv2l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heli Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "259320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/259320",
+        "Linux": "setsid steam steam://rungameid/259320",
+        "macOS": "open steam://rungameid/259320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/259320",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "heli-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10408"
+}

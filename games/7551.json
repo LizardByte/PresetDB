@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7551,
+  "name": "Day of Defeat",
+  "source_url": "https://www.igdb.com/games/day-of-defeat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2o9j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Day of Defeat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "30",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/30",
+        "Linux": "setsid steam steam://rungameid/30",
+        "macOS": "open steam://rungameid/30"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/30",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "day-of-defeat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7551"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15536,
+  "name": "Escape from Tarkov",
+  "source_url": "https://www.igdb.com/games/escape-from-tarkov",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coco22.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Tarkov",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3932890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3932890",
+        "Linux": "setsid steam steam://rungameid/3932890",
+        "macOS": "open steam://rungameid/3932890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3932890",
+      "protondb": {
+        "tier": "silver",
+        "reports": 59
+      }
+    }
+  ],
+  "igdb_slug": "escape-from-tarkov",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15536"
+}

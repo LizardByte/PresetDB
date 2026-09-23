@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25470,
+  "name": "Vagrant Hearts",
+  "source_url": "https://www.igdb.com/games/vagrant-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/figdloxdagnvdmzm3dt4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vagrant Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "337980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/337980",
+        "Linux": "setsid steam steam://rungameid/337980",
+        "macOS": "open steam://rungameid/337980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/337980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vagrant-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25470"
+}

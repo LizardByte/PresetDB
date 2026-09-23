@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137,
+  "name": "Star Wars: The Force Unleashed II",
+  "source_url": "https://www.igdb.com/games/star-wars-the-force-unleashed-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25xw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: The Force Unleashed II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "32500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/32500",
+        "Linux": "setsid steam steam://rungameid/32500",
+        "macOS": "open steam://rungameid/32500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/32500",
+      "protondb": {
+        "tier": "gold",
+        "reports": 59
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-the-force-unleashed-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137"
+}

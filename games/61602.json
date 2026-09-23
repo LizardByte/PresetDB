@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 61602,
+  "name": "HellTown",
+  "source_url": "https://www.igdb.com/games/helltown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8gvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HellTown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710070",
+        "Linux": "setsid steam steam://rungameid/710070",
+        "macOS": "open steam://rungameid/710070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/710070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "helltown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=61602"
+}

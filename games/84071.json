@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84071,
+  "name": "OVRshot",
+  "source_url": "https://www.igdb.com/games/ovrshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc66.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OVRshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "790750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/790750",
+        "Linux": "setsid steam steam://rungameid/790750",
+        "macOS": "open steam://rungameid/790750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/790750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ovrshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84071"
+}

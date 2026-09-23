@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9176,
+  "name": "Call of Cthulhu",
+  "source_url": "https://www.igdb.com/games/call-of-cthulhu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Call of Cthulhu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "399810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/399810",
+        "Linux": "setsid steam steam://rungameid/399810",
+        "macOS": "open steam://rungameid/399810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/399810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "call-of-cthulhu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9176"
+}

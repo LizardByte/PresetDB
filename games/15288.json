@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15288,
+  "name": "AVSEQ",
+  "source_url": "https://www.igdb.com/games/avseq",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8po4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AVSEQ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "207670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/207670",
+        "Linux": "setsid steam steam://rungameid/207670",
+        "macOS": "open steam://rungameid/207670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/207670",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "avseq",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15288"
+}

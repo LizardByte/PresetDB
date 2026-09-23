@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11407,
+  "name": "Etherlords",
+  "source_url": "https://www.igdb.com/games/etherlords",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1x4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Etherlords",
+      "os": null,
+      "method": "steam",
+      "launch_id": "270770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/270770",
+        "Linux": "setsid steam steam://rungameid/270770",
+        "macOS": "open steam://rungameid/270770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/270770",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "etherlords",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11407"
+}

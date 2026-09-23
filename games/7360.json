@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7360,
+  "name": "Rainbow Six Siege",
+  "source_url": "https://www.igdb.com/games/rainbow-six-siege",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsnm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rainbow Six Siege",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359550",
+        "Linux": "setsid steam steam://rungameid/359550",
+        "macOS": "open steam://rungameid/359550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rainbow-six-siege",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7360"
+}

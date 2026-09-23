@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 52055,
+  "name": "BlockDude",
+  "source_url": "https://www.igdb.com/games/blockdude",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29yg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlockDude",
+      "os": null,
+      "method": "steam",
+      "launch_id": "669490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/669490",
+        "Linux": "setsid steam steam://rungameid/669490",
+        "macOS": "open steam://rungameid/669490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/669490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blockdude",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=52055"
+}

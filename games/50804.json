@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50804,
+  "name": "Zombusters",
+  "source_url": "https://www.igdb.com/games/zombusters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l4i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombusters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1272300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1272300",
+        "Linux": "setsid steam steam://rungameid/1272300",
+        "macOS": "open steam://rungameid/1272300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1272300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombusters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50804"
+}

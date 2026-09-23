@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11582,
+  "name": "Stellaris",
+  "source_url": "https://www.igdb.com/games/stellaris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaaru.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stellaris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "281990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/281990",
+        "Linux": "setsid steam steam://rungameid/281990",
+        "macOS": "open steam://rungameid/281990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/281990",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 260
+      }
+    }
+  ],
+  "igdb_slug": "stellaris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11582"
+}

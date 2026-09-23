@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1254,
+  "name": "DmC: Devil May Cry",
+  "source_url": "https://www.igdb.com/games/dmc-devil-may-cry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u77.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DmC: Devil May Cry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "220440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/220440",
+        "Linux": "setsid steam steam://rungameid/220440",
+        "macOS": "open steam://rungameid/220440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/220440",
+      "protondb": {
+        "tier": "gold",
+        "reports": 75
+      }
+    }
+  ],
+  "igdb_slug": "dmc-devil-may-cry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1254"
+}

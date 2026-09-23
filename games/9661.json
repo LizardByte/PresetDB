@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9661,
+  "name": "Stasis",
+  "source_url": "https://www.igdb.com/games/stasis--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2221.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stasis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "380150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/380150",
+        "Linux": "setsid steam steam://rungameid/380150",
+        "macOS": "open steam://rungameid/380150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/380150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stasis--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9661"
+}

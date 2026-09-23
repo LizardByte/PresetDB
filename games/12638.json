@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12638,
+  "name": "Train Valley",
+  "source_url": "https://www.igdb.com/games/train-valley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h15.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Train Valley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "353640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/353640",
+        "Linux": "setsid steam steam://rungameid/353640",
+        "macOS": "open steam://rungameid/353640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/353640",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "train-valley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12638"
+}

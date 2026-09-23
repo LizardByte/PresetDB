@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3082,
+  "name": "Dear Esther",
+  "source_url": "https://www.igdb.com/games/dear-esther",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2eez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dear Esther",
+      "os": null,
+      "method": "steam",
+      "launch_id": "203810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/203810",
+        "Linux": "setsid steam steam://rungameid/203810",
+        "macOS": "open steam://rungameid/203810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/203810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dear-esther",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3082"
+}

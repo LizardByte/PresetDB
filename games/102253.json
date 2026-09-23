@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102253,
+  "name": "Tanks",
+  "source_url": "https://www.igdb.com/games/tanks--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3ez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tanks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "866420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/866420",
+        "Linux": "setsid steam steam://rungameid/866420",
+        "macOS": "open steam://rungameid/866420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/866420",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "tanks--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102253"
+}

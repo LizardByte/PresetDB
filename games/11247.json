@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11247,
+  "name": "Duck Game",
+  "source_url": "https://www.igdb.com/games/duck-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wex.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "312530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/312530",
+        "Linux": "setsid steam steam://rungameid/312530",
+        "macOS": "open steam://rungameid/312530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/312530",
+      "protondb": {
+        "tier": "gold",
+        "reports": 155
+      }
+    }
+  ],
+  "igdb_slug": "duck-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11247"
+}

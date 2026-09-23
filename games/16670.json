@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16670,
+  "name": "Constant C",
+  "source_url": "https://www.igdb.com/games/constant-c",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/s7ppd5hrtqszzgibhc2u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Constant C",
+      "os": null,
+      "method": "steam",
+      "launch_id": "251510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/251510",
+        "Linux": "setsid steam steam://rungameid/251510",
+        "macOS": "open steam://rungameid/251510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/251510",
+      "protondb": {
+        "tier": "borked",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "constant-c",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16670"
+}

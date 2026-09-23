@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 78781,
+  "name": "Greebles",
+  "source_url": "https://www.igdb.com/games/greebles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coas0y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Greebles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2565450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2565450",
+        "Linux": "setsid steam steam://rungameid/2565450",
+        "macOS": "open steam://rungameid/2565450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2565450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "greebles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=78781"
+}

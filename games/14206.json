@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14206,
+  "name": "Blackwake",
+  "source_url": "https://www.igdb.com/games/blackwake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22yv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blackwake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "420290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/420290",
+        "Linux": "setsid steam steam://rungameid/420290",
+        "macOS": "open steam://rungameid/420290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/420290",
+      "protondb": {
+        "tier": "gold",
+        "reports": 52
+      }
+    }
+  ],
+  "igdb_slug": "blackwake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14206"
+}

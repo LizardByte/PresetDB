@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6707,
+  "name": "Tales from the Borderlands",
+  "source_url": "https://www.igdb.com/games/tales-from-the-borderlands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20tr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales from the Borderlands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "330830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/330830",
+        "Linux": "setsid steam steam://rungameid/330830",
+        "macOS": "open steam://rungameid/330830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/330830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tales-from-the-borderlands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6707"
+}

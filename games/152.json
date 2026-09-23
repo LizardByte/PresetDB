@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152,
+  "name": "Star Wars: Jedi Knight II - Jedi Outcast",
+  "source_url": "https://www.igdb.com/games/star-wars-jedi-knight-ii-jedi-outcast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1y67.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Jedi Knight II - Jedi Outcast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6030",
+        "Linux": "setsid steam steam://rungameid/6030",
+        "macOS": "open steam://rungameid/6030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6030",
+      "protondb": {
+        "tier": "gold",
+        "reports": 56
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-jedi-knight-ii-jedi-outcast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152"
+}

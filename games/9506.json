@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9506,
+  "name": "Tribes: Ascend",
+  "source_url": "https://www.igdb.com/games/tribes-ascend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xxh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tribes: Ascend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "17080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/17080",
+        "Linux": "setsid steam steam://rungameid/17080",
+        "macOS": "open steam://rungameid/17080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/17080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tribes-ascend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9506"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11529,
+  "name": "The Jackbox Party Pack",
+  "source_url": "https://www.igdb.com/games/the-jackbox-party-pack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Jackbox Party Pack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331670",
+        "Linux": "setsid steam steam://rungameid/331670",
+        "macOS": "open steam://rungameid/331670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/331670",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "the-jackbox-party-pack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11529"
+}

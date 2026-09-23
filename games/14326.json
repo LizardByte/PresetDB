@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14326,
+  "name": "Lovely Planet",
+  "source_url": "https://www.igdb.com/games/lovely-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4vyz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lovely Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "298600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/298600",
+        "Linux": "setsid steam steam://rungameid/298600",
+        "macOS": "open steam://rungameid/298600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/298600",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "lovely-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14326"
+}

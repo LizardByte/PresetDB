@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10714,
+  "name": "Post Master",
+  "source_url": "https://www.igdb.com/games/post-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa45f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Post Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "275080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/275080",
+        "Linux": "setsid steam steam://rungameid/275080",
+        "macOS": "open steam://rungameid/275080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/275080",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "post-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10714"
+}

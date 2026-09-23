@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14403,
+  "name": "Dead Secret",
+  "source_url": "https://www.igdb.com/games/dead-secret",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Secret",
+      "os": null,
+      "method": "steam",
+      "launch_id": "402260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/402260",
+        "Linux": "setsid steam steam://rungameid/402260",
+        "macOS": "open steam://rungameid/402260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/402260",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "dead-secret",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14403"
+}

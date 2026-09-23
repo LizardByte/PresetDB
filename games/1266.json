@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1266,
+  "name": "Assassin's Creed III",
+  "source_url": "https://www.igdb.com/games/assassin-s-creed-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xii.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Assassin's Creed III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "208480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/208480",
+        "Linux": "setsid steam steam://rungameid/208480",
+        "macOS": "open steam://rungameid/208480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/208480",
+      "protondb": {
+        "tier": "gold",
+        "reports": 52
+      }
+    }
+  ],
+  "igdb_slug": "assassin-s-creed-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1266"
+}

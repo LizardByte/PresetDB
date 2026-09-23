@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1363,
+  "name": "Little Inferno",
+  "source_url": "https://www.igdb.com/games/little-inferno",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co253v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Inferno",
+      "os": null,
+      "method": "steam",
+      "launch_id": "221260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/221260",
+        "Linux": "setsid steam steam://rungameid/221260",
+        "macOS": "open steam://rungameid/221260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/221260",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 23
+      }
+    }
+  ],
+  "igdb_slug": "little-inferno",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1363"
+}

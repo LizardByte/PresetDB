@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10020,
+  "name": "Bad Mojo: Redux",
+  "source_url": "https://www.igdb.com/games/bad-mojo-redux",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1p3l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bad Mojo: Redux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "255960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/255960",
+        "Linux": "setsid steam steam://rungameid/255960",
+        "macOS": "open steam://rungameid/255960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/255960",
+      "protondb": {
+        "tier": "silver",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "bad-mojo-redux",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10020"
+}

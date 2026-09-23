@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11049,
+  "name": "Crawl",
+  "source_url": "https://www.igdb.com/games/crawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1lrj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "293780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/293780",
+        "Linux": "setsid steam steam://rungameid/293780",
+        "macOS": "open steam://rungameid/293780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/293780",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "crawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11049"
+}

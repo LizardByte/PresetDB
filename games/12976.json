@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12976,
+  "name": "Panoramical",
+  "source_url": "https://www.igdb.com/games/panoramical",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25co.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Panoramical",
+      "os": null,
+      "method": "steam",
+      "launch_id": "284260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/284260",
+        "Linux": "setsid steam steam://rungameid/284260",
+        "macOS": "open steam://rungameid/284260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/284260",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "panoramical",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12976"
+}

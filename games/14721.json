@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14721,
+  "name": "Run or Die",
+  "source_url": "https://www.igdb.com/games/run-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jqe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "325150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/325150",
+        "Linux": "setsid steam steam://rungameid/325150",
+        "macOS": "open steam://rungameid/325150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/325150",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "run-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14721"
+}

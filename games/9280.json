@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9280,
+  "name": "Wakfu",
+  "source_url": "https://www.igdb.com/games/wakfu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatkr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wakfu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "215080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/215080",
+        "Linux": "setsid steam steam://rungameid/215080",
+        "macOS": "open steam://rungameid/215080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/215080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wakfu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9280"
+}

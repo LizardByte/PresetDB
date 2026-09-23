@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31664,
+  "name": "Third Eye",
+  "source_url": "https://www.igdb.com/games/third-eye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23v6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Third Eye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "515060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/515060",
+        "Linux": "setsid steam steam://rungameid/515060",
+        "macOS": "open steam://rungameid/515060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/515060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "third-eye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31664"
+}

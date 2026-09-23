@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14587,
+  "name": "Oxenfree",
+  "source_url": "https://www.igdb.com/games/oxenfree",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hlq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oxenfree",
+      "os": null,
+      "method": "steam",
+      "launch_id": "388880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/388880",
+        "Linux": "setsid steam steam://rungameid/388880",
+        "macOS": "open steam://rungameid/388880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/388880",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "oxenfree",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14587"
+}

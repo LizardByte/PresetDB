@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10960,
+  "name": "Thumper",
+  "source_url": "https://www.igdb.com/games/thumper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z4e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thumper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "356400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/356400",
+        "Linux": "setsid steam steam://rungameid/356400",
+        "macOS": "open steam://rungameid/356400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/356400",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 50
+      }
+    }
+  ],
+  "igdb_slug": "thumper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10960"
+}

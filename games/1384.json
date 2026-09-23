@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1384,
+  "name": "Hotline Miami",
+  "source_url": "https://www.igdb.com/games/hotline-miami",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vqp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hotline Miami",
+      "os": null,
+      "method": "steam",
+      "launch_id": "219150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/219150",
+        "Linux": "setsid steam steam://rungameid/219150",
+        "macOS": "open steam://rungameid/219150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/219150",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 75
+      }
+    }
+  ],
+  "igdb_slug": "hotline-miami",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1384"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15150,
+  "name": "Fallen Earth",
+  "source_url": "https://www.igdb.com/games/fallen-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vox.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallen Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "113420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/113420",
+        "Linux": "setsid steam steam://rungameid/113420",
+        "macOS": "open steam://rungameid/113420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/113420",
+      "protondb": {
+        "tier": "silver",
+        "reports": 23
+      }
+    }
+  ],
+  "igdb_slug": "fallen-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15150"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 47999,
+  "name": "Underdone",
+  "source_url": "https://www.igdb.com/games/underdone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5df.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Underdone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "666040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/666040",
+        "Linux": "setsid steam steam://rungameid/666040",
+        "macOS": "open steam://rungameid/666040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/666040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "underdone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=47999"
+}

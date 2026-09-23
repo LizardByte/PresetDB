@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32929,
+  "name": "Mars Odyssey",
+  "source_url": "https://www.igdb.com/games/mars-odyssey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mars Odyssey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "465150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/465150",
+        "Linux": "setsid steam steam://rungameid/465150",
+        "macOS": "open steam://rungameid/465150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/465150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mars-odyssey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32929"
+}

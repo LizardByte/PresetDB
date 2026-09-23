@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30342,
+  "name": "Locked In VR",
+  "source_url": "https://www.igdb.com/games/locked-in-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobi9z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Locked In VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "562320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/562320",
+        "Linux": "setsid steam steam://rungameid/562320",
+        "macOS": "open steam://rungameid/562320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/562320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "locked-in-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30342"
+}

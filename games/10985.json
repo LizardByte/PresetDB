@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10985,
+  "name": "The 39 Steps",
+  "source_url": "https://www.igdb.com/games/the-39-steps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2iq4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The 39 Steps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234940",
+        "Linux": "setsid steam steam://rungameid/234940",
+        "macOS": "open steam://rungameid/234940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/234940",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "the-39-steps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10985"
+}

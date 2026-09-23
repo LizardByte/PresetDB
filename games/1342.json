@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1342,
+  "name": "Beyond: Two Souls",
+  "source_url": "https://www.igdb.com/games/beyond-two-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8r4w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beyond: Two Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "960990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/960990",
+        "Linux": "setsid steam steam://rungameid/960990",
+        "macOS": "open steam://rungameid/960990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/960990",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 108
+      }
+    }
+  ],
+  "igdb_slug": "beyond-two-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1342"
+}

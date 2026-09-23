@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15002,
+  "name": "Windosill",
+  "source_url": "https://www.igdb.com/games/windosill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86mp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Windosill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "37600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/37600",
+        "Linux": "setsid steam steam://rungameid/37600",
+        "macOS": "open steam://rungameid/37600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/37600",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "windosill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15002"
+}

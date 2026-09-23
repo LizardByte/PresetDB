@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16147,
+  "name": "Chrome: SpecForce",
+  "source_url": "https://www.igdb.com/games/chrome-specforce--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4htb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chrome: SpecForce",
+      "os": null,
+      "method": "steam",
+      "launch_id": "46430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/46430",
+        "Linux": "setsid steam steam://rungameid/46430",
+        "macOS": "open steam://rungameid/46430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/46430",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "chrome-specforce--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16147"
+}

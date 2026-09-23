@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9827,
+  "name": "Dungeon Hearts",
+  "source_url": "https://www.igdb.com/games/dungeon-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hd9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "229520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/229520",
+        "Linux": "setsid steam steam://rungameid/229520",
+        "macOS": "open steam://rungameid/229520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/229520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dungeon-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9827"
+}

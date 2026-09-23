@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90629,
+  "name": "b",
+  "source_url": "https://www.igdb.com/games/b",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ltn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "b",
+      "os": null,
+      "method": "steam",
+      "launch_id": "660880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/660880",
+        "Linux": "setsid steam steam://rungameid/660880",
+        "macOS": "open steam://rungameid/660880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/660880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "b",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90629"
+}

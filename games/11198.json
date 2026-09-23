@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11198,
+  "name": "Rocket League",
+  "source_url": "https://www.igdb.com/games/rocket-league",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyri.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocket League",
+      "os": null,
+      "method": "steam",
+      "launch_id": "252950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/252950",
+        "Linux": "setsid steam steam://rungameid/252950",
+        "macOS": "open steam://rungameid/252950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/252950",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 868
+      }
+    }
+  ],
+  "igdb_slug": "rocket-league",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11198"
+}

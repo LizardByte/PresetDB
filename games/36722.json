@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36722,
+  "name": "Green Cat",
+  "source_url": "https://www.igdb.com/games/green-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2biw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Green Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "599100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/599100",
+        "Linux": "setsid steam steam://rungameid/599100",
+        "macOS": "open steam://rungameid/599100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/599100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "green-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36722"
+}

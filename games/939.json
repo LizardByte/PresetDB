@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 939,
+  "name": "Wizardry 8",
+  "source_url": "https://www.igdb.com/games/wizardry-8",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28fv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizardry 8",
+      "os": null,
+      "method": "steam",
+      "launch_id": "245450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/245450",
+        "Linux": "setsid steam steam://rungameid/245450",
+        "macOS": "open steam://rungameid/245450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/245450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wizardry-8",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=939"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74135,
+  "name": "St George",
+  "source_url": "https://www.igdb.com/games/st-george",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnh4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "St George",
+      "os": null,
+      "method": "steam",
+      "launch_id": "701630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/701630",
+        "Linux": "setsid steam steam://rungameid/701630",
+        "macOS": "open steam://rungameid/701630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/701630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "st-george",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74135"
+}

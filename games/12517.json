@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12517,
+  "name": "Undertale",
+  "source_url": "https://www.igdb.com/games/undertale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1t2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Undertale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "391540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/391540",
+        "Linux": "setsid steam steam://rungameid/391540",
+        "macOS": "open steam://rungameid/391540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/391540",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 123
+      }
+    }
+  ],
+  "igdb_slug": "undertale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12517"
+}

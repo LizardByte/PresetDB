@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3102,
+  "name": "Kerbal Space Program",
+  "source_url": "https://www.igdb.com/games/kerbal-space-program",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26n5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kerbal Space Program",
+      "os": null,
+      "method": "steam",
+      "launch_id": "220200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/220200",
+        "Linux": "setsid steam steam://rungameid/220200",
+        "macOS": "open steam://rungameid/220200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/220200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kerbal-space-program",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3102"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11507,
+  "name": "Master of Orion",
+  "source_url": "https://www.igdb.com/games/master-of-orion--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2byd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Master of Orion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "298050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/298050",
+        "Linux": "setsid steam steam://rungameid/298050",
+        "macOS": "open steam://rungameid/298050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/298050",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "master-of-orion--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11507"
+}

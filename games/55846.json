@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55846,
+  "name": "Mini Guns",
+  "source_url": "https://www.igdb.com/games/mini-guns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28ba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Guns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649900",
+        "Linux": "setsid steam steam://rungameid/649900",
+        "macOS": "open steam://rungameid/649900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mini-guns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55846"
+}

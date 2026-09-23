@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14,
+  "name": "Fallout 2",
+  "source_url": "https://www.igdb.com/games/fallout-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ado.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallout 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "38410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/38410",
+        "Linux": "setsid steam steam://rungameid/38410",
+        "macOS": "open steam://rungameid/38410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/38410",
+      "protondb": {
+        "tier": "gold",
+        "reports": 75
+      }
+    }
+  ],
+  "igdb_slug": "fallout-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14"
+}

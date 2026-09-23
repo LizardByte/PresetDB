@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43122,
+  "name": "Eye of Odin",
+  "source_url": "https://www.igdb.com/games/eye-of-odin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bbx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eye of Odin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601330",
+        "Linux": "setsid steam steam://rungameid/601330",
+        "macOS": "open steam://rungameid/601330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/601330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eye-of-odin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43122"
+}

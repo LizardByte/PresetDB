@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43154,
+  "name": "RectRacer",
+  "source_url": "https://www.igdb.com/games/rectracer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob93q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RectRacer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "663080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/663080",
+        "Linux": "setsid steam steam://rungameid/663080",
+        "macOS": "open steam://rungameid/663080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/663080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rectracer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43154"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9810,
+  "name": "Critical Mass",
+  "source_url": "https://www.igdb.com/games/critical-mass",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6t4b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Critical Mass",
+      "os": null,
+      "method": "steam",
+      "launch_id": "105300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/105300",
+        "Linux": "setsid steam steam://rungameid/105300",
+        "macOS": "open steam://rungameid/105300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/105300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "critical-mass",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9810"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32650,
+  "name": "Where's My Helmet?",
+  "source_url": "https://www.igdb.com/games/wheres-my-helmet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mpf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Where's My Helmet?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "470450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/470450",
+        "Linux": "setsid steam steam://rungameid/470450",
+        "macOS": "open steam://rungameid/470450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/470450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wheres-my-helmet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32650"
+}

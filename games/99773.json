@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99773,
+  "name": "Space Drop",
+  "source_url": "https://www.igdb.com/games/space-drop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhkd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Drop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848750",
+        "Linux": "setsid steam steam://rungameid/848750",
+        "macOS": "open steam://rungameid/848750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/848750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "space-drop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99773"
+}

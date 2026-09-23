@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389,
+  "name": "Final Fantasy XIII",
+  "source_url": "https://www.igdb.com/games/final-fantasy-xiii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboys.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy XIII",
+      "os": null,
+      "method": "steam",
+      "launch_id": "292120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/292120",
+        "Linux": "setsid steam steam://rungameid/292120",
+        "macOS": "open steam://rungameid/292120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/292120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "final-fantasy-xiii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163,
+  "name": "Star Wars: Rogue Squadron",
+  "source_url": "https://www.igdb.com/games/star-wars-rogue-squadron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7k18.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Rogue Squadron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "455910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/455910",
+        "Linux": "setsid steam steam://rungameid/455910",
+        "macOS": "open steam://rungameid/455910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/455910",
+      "protondb": {
+        "tier": "silver",
+        "reports": 37
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-rogue-squadron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163"
+}

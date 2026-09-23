@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76281,
+  "name": "Elmia",
+  "source_url": "https://www.igdb.com/games/elmia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24r6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elmia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "738020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/738020",
+        "Linux": "setsid steam steam://rungameid/738020",
+        "macOS": "open steam://rungameid/738020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/738020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "elmia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76281"
+}

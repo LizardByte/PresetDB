@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141,
+  "name": "Star Wars: Battlefront",
+  "source_url": "https://www.igdb.com/games/star-wars-battlefront",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h1z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Battlefront",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1058020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1058020",
+        "Linux": "setsid steam steam://rungameid/1058020",
+        "macOS": "open steam://rungameid/1058020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1058020",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 47
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-battlefront",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141"
+}

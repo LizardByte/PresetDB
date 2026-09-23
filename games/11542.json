@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11542,
+  "name": "Shenmue III",
+  "source_url": "https://www.igdb.com/games/shenmue-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ftj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shenmue III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878670",
+        "Linux": "setsid steam steam://rungameid/878670",
+        "macOS": "open steam://rungameid/878670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/878670",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "shenmue-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11542"
+}

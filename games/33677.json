@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33677,
+  "name": "La Peri",
+  "source_url": "https://www.igdb.com/games/la-peri",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "La Peri",
+      "os": null,
+      "method": "steam",
+      "launch_id": "436490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/436490",
+        "Linux": "setsid steam steam://rungameid/436490",
+        "macOS": "open steam://rungameid/436490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/436490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "la-peri",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33677"
+}

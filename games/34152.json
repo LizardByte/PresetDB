@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34152,
+  "name": "Gasp",
+  "source_url": "https://www.igdb.com/games/gasp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4hsv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gasp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "412400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/412400",
+        "Linux": "setsid steam steam://rungameid/412400",
+        "macOS": "open steam://rungameid/412400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/412400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gasp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34152"
+}

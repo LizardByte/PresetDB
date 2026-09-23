@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16124,
+  "name": "Super Laser Racer",
+  "source_url": "https://www.igdb.com/games/super-laser-racer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42nw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Laser Racer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "44100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/44100",
+        "Linux": "setsid steam steam://rungameid/44100",
+        "macOS": "open steam://rungameid/44100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/44100",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "super-laser-racer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16124"
+}

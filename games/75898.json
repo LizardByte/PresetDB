@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75898,
+  "name": "Escape Zombie Land",
+  "source_url": "https://www.igdb.com/games/escape-zombie-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2brw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Zombie Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "740000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/740000",
+        "Linux": "setsid steam steam://rungameid/740000",
+        "macOS": "open steam://rungameid/740000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/740000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-zombie-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75898"
+}

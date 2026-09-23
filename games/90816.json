@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90816,
+  "name": "Geek Fighter",
+  "source_url": "https://www.igdb.com/games/geek-fighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobesc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Geek Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "807890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/807890",
+        "Linux": "setsid steam steam://rungameid/807890",
+        "macOS": "open steam://rungameid/807890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/807890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "geek-fighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90816"
+}

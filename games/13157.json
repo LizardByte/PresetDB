@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13157,
+  "name": "Allods Online",
+  "source_url": "https://www.igdb.com/games/allods-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21mz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Allods Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "459160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/459160",
+        "Linux": "setsid steam steam://rungameid/459160",
+        "macOS": "open steam://rungameid/459160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/459160",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 19
+      }
+    }
+  ],
+  "igdb_slug": "allods-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13157"
+}

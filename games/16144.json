@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16144,
+  "name": "Ignite",
+  "source_url": "https://www.igdb.com/games/ignite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/ac8tiaryxttqqnl00wlq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ignite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "45410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/45410",
+        "Linux": "setsid steam steam://rungameid/45410",
+        "macOS": "open steam://rungameid/45410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/45410",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "ignite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16144"
+}

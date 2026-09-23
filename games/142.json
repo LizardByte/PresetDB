@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142,
+  "name": "Star Wars: Battlefront II",
+  "source_url": "https://www.igdb.com/games/star-wars-battlefront-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1g4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Battlefront II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6060",
+        "Linux": "setsid steam steam://rungameid/6060",
+        "macOS": "open steam://rungameid/6060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6060",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 173
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-battlefront-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142"
+}

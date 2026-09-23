@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33330,
+  "name": "Meld",
+  "source_url": "https://www.igdb.com/games/meld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob49n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "449180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/449180",
+        "Linux": "setsid steam steam://rungameid/449180",
+        "macOS": "open steam://rungameid/449180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/449180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "meld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33330"
+}

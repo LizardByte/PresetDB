@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14075,
+  "name": "Warshift",
+  "source_url": "https://www.igdb.com/games/warshift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rum.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warshift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "392580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/392580",
+        "Linux": "setsid steam steam://rungameid/392580",
+        "macOS": "open steam://rungameid/392580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/392580",
+      "protondb": {
+        "tier": "silver",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "warshift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14075"
+}

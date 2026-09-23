@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1164,
+  "name": "Tomb Raider",
+  "source_url": "https://www.igdb.com/games/tomb-raider--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rbu.jpg",
+  "presets": [
+    {
+      "id": "6",
+      "name": "Tomb Raider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "203160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/203160",
+        "Linux": "setsid steam steam://rungameid/203160",
+        "macOS": "open steam://rungameid/203160"
+      },
+      "notes": null,
+      "origin_issue": 6,
+      "source_issue": 6,
+      "replacement_reason": null,
+      "approved_by": "LizardByte-bot",
+      "history": [
+        {
+          "issue": 6,
+          "action": "add",
+          "author_id": 42013603,
+          "author_login": "ReenigneArcher",
+          "approved_at": "2026-09-24T00:50:27.862Z"
+        }
+      ],
+      "protondb_url": "https://www.protondb.com/app/203160",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 318
+      }
+    }
+  ],
+  "igdb_slug": "tomb-raider--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1164"
+}

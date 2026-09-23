@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81103,
+  "name": "Cosmonaut",
+  "source_url": "https://www.igdb.com/games/cosmonaut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d5c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cosmonaut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "743550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/743550",
+        "Linux": "setsid steam steam://rungameid/743550",
+        "macOS": "open steam://rungameid/743550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/743550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cosmonaut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81103"
+}

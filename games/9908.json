@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9908,
+  "name": "TrackMania United",
+  "source_url": "https://www.igdb.com/games/trackmania-united",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6kba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TrackMania United",
+      "os": null,
+      "method": "steam",
+      "launch_id": "7200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/7200",
+        "Linux": "setsid steam steam://rungameid/7200",
+        "macOS": "open steam://rungameid/7200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/7200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "trackmania-united",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9908"
+}

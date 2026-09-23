@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81732,
+  "name": "Kenshō",
+  "source_url": "https://www.igdb.com/games/kensho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/qyaln7tlqnlxdtscv6jg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kenshō",
+      "os": null,
+      "method": "steam",
+      "launch_id": "766000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/766000",
+        "Linux": "setsid steam steam://rungameid/766000",
+        "macOS": "open steam://rungameid/766000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/766000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kensho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81732"
+}

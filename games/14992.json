@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14992,
+  "name": "Dwarfs!?",
+  "source_url": "https://www.igdb.com/games/dwarfs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9s0x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dwarfs!?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "35480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/35480",
+        "Linux": "setsid steam steam://rungameid/35480",
+        "macOS": "open steam://rungameid/35480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/35480",
+      "protondb": {
+        "tier": "silver",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "dwarfs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14992"
+}

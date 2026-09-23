@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11349,
+  "name": "Ironcast",
+  "source_url": "https://www.igdb.com/games/ironcast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wkv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ironcast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327670",
+        "Linux": "setsid steam steam://rungameid/327670",
+        "macOS": "open steam://rungameid/327670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327670",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "ironcast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11349"
+}

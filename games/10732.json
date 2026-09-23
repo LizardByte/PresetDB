@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10732,
+  "name": "Puzzle Chronicles",
+  "source_url": "https://www.igdb.com/games/puzzle-chronicles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d2j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puzzle Chronicles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "19020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/19020",
+        "Linux": "setsid steam steam://rungameid/19020",
+        "macOS": "open steam://rungameid/19020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/19020",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "puzzle-chronicles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10732"
+}

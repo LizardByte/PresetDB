@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74184,
+  "name": "Flappy Galaxy",
+  "source_url": "https://www.igdb.com/games/flappy-galaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flappy Galaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "720480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/720480",
+        "Linux": "setsid steam steam://rungameid/720480",
+        "macOS": "open steam://rungameid/720480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/720480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flappy-galaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74184"
+}

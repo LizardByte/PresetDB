@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13200,
+  "name": "Planetbase",
+  "source_url": "https://www.igdb.com/games/planetbase",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mn1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planetbase",
+      "os": null,
+      "method": "steam",
+      "launch_id": "403190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/403190",
+        "Linux": "setsid steam steam://rungameid/403190",
+        "macOS": "open steam://rungameid/403190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/403190",
+      "protondb": {
+        "tier": "gold",
+        "reports": 53
+      }
+    }
+  ],
+  "igdb_slug": "planetbase",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13200"
+}

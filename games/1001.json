@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1001,
+  "name": "Oddworld: Munch's Oddysee",
+  "source_url": "https://www.igdb.com/games/oddworld-munch-s-oddysee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4yni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oddworld: Munch's Oddysee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "15740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/15740",
+        "Linux": "setsid steam steam://rungameid/15740",
+        "macOS": "open steam://rungameid/15740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/15740",
+      "protondb": {
+        "tier": "gold",
+        "reports": 17
+      }
+    }
+  ],
+  "igdb_slug": "oddworld-munch-s-oddysee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1001"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312,
+  "name": "Doom II: Hell on Earth",
+  "source_url": "https://www.igdb.com/games/doom-ii-hell-on-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6iip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doom II: Hell on Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2300",
+        "Linux": "setsid steam steam://rungameid/2300",
+        "macOS": "open steam://rungameid/2300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "doom-ii-hell-on-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312"
+}

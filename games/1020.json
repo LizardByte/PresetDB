@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1020,
+  "name": "Grand Theft Auto V",
+  "source_url": "https://www.igdb.com/games/grand-theft-auto-v",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lbd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grand Theft Auto V",
+      "os": null,
+      "method": "steam",
+      "launch_id": "271590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/271590",
+        "Linux": "setsid steam steam://rungameid/271590",
+        "macOS": "open steam://rungameid/271590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/271590",
+      "protondb": {
+        "tier": "gold",
+        "reports": 2280
+      }
+    }
+  ],
+  "igdb_slug": "grand-theft-auto-v",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1020"
+}

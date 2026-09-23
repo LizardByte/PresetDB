@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13384,
+  "name": "Battle of the Bulge",
+  "source_url": "https://www.igdb.com/games/battle-of-the-bulge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22zh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle of the Bulge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "365560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/365560",
+        "Linux": "setsid steam steam://rungameid/365560",
+        "macOS": "open steam://rungameid/365560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/365560",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "battle-of-the-bulge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13384"
+}

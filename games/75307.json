@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75307,
+  "name": "Skript",
+  "source_url": "https://www.igdb.com/games/skript",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobona.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skript",
+      "os": null,
+      "method": "steam",
+      "launch_id": "746890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/746890",
+        "Linux": "setsid steam steam://rungameid/746890",
+        "macOS": "open steam://rungameid/746890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/746890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skript",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75307"
+}

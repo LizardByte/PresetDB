@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1163,
+  "name": "Tomb Raider: Underworld",
+  "source_url": "https://www.igdb.com/games/tomb-raider-underworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1voc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tomb Raider: Underworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "8140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/8140",
+        "Linux": "setsid steam steam://rungameid/8140",
+        "macOS": "open steam://rungameid/8140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/8140",
+      "protondb": {
+        "tier": "gold",
+        "reports": 98
+      }
+    }
+  ],
+  "igdb_slug": "tomb-raider-underworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1163"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11200,
+  "name": "Guns Up!",
+  "source_url": "https://www.igdb.com/games/guns-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hq4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guns Up!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "446150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/446150",
+        "Linux": "setsid steam steam://rungameid/446150",
+        "macOS": "open steam://rungameid/446150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/446150",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "guns-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11200"
+}

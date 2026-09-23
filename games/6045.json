@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6045,
+  "name": "Not a Hero",
+  "source_url": "https://www.igdb.com/games/not-a-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2gjr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not a Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "274270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/274270",
+        "Linux": "setsid steam steam://rungameid/274270",
+        "macOS": "open steam://rungameid/274270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/274270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "not-a-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6045"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90324,
+  "name": "Are You Alone?",
+  "source_url": "https://www.igdb.com/games/are-you-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Are You Alone?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "805370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/805370",
+        "Linux": "setsid steam steam://rungameid/805370",
+        "macOS": "open steam://rungameid/805370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/805370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "are-you-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90324"
+}

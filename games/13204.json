@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13204,
+  "name": "Pathologic Classic HD",
+  "source_url": "https://www.igdb.com/games/pathologic-classic-hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0w1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pathologic Classic HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "384110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/384110",
+        "Linux": "setsid steam steam://rungameid/384110",
+        "macOS": "open steam://rungameid/384110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/384110",
+      "protondb": {
+        "tier": "silver",
+        "reports": 71
+      }
+    }
+  ],
+  "igdb_slug": "pathologic-classic-hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13204"
+}

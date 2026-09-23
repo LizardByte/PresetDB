@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32128,
+  "name": "Brick Stack VR",
+  "source_url": "https://www.igdb.com/games/brick-stack-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brick Stack VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "504840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/504840",
+        "Linux": "setsid steam steam://rungameid/504840",
+        "macOS": "open steam://rungameid/504840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/504840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brick-stack-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32128"
+}

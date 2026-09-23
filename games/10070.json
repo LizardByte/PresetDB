@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10070,
+  "name": "Crowntakers",
+  "source_url": "https://www.igdb.com/games/crowntakers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crowntakers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "294370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/294370",
+        "Linux": "setsid steam steam://rungameid/294370",
+        "macOS": "open steam://rungameid/294370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/294370",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "crowntakers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10070"
+}

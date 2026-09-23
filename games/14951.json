@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14951,
+  "name": "Osmos",
+  "source_url": "https://www.igdb.com/games/osmos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2422.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Osmos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "29180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/29180",
+        "Linux": "setsid steam steam://rungameid/29180",
+        "macOS": "open steam://rungameid/29180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/29180",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "osmos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14951"
+}

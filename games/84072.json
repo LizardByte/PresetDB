@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84072,
+  "name": "Innocent",
+  "source_url": "https://www.igdb.com/games/innocent",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Innocent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "790570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/790570",
+        "Linux": "setsid steam steam://rungameid/790570",
+        "macOS": "open steam://rungameid/790570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/790570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "innocent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84072"
+}

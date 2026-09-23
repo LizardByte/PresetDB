@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149,
+  "name": "Star Wars: Starfighter",
+  "source_url": "https://www.igdb.com/games/star-wars-starfighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Starfighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "32350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/32350",
+        "Linux": "setsid steam steam://rungameid/32350",
+        "macOS": "open steam://rungameid/32350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/32350",
+      "protondb": {
+        "tier": "gold",
+        "reports": 20
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-starfighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149"
+}

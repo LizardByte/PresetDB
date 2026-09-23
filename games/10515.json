@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10515,
+  "name": "Light",
+  "source_url": "https://www.igdb.com/games/light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45ae.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "271730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/271730",
+        "Linux": "setsid steam steam://rungameid/271730",
+        "macOS": "open steam://rungameid/271730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/271730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10515"
+}

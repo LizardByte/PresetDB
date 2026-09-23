@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31730,
+  "name": "Gochi-Show!",
+  "source_url": "https://www.igdb.com/games/gochi-show",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob79t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gochi-Show!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512600",
+        "Linux": "setsid steam steam://rungameid/512600",
+        "macOS": "open steam://rungameid/512600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/512600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gochi-show",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31730"
+}

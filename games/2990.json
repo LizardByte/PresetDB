@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2990,
+  "name": "Machinarium",
+  "source_url": "https://www.igdb.com/games/machinarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27lo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Machinarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "40700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/40700",
+        "Linux": "setsid steam steam://rungameid/40700",
+        "macOS": "open steam://rungameid/40700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/40700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "machinarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2990"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34072,
+  "name": "Hocus",
+  "source_url": "https://www.igdb.com/games/hocus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42hy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hocus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "418040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/418040",
+        "Linux": "setsid steam steam://rungameid/418040",
+        "macOS": "open steam://rungameid/418040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/418040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hocus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34072"
+}

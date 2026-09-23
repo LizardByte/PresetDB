@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11778,
+  "name": "Muv-Luv",
+  "source_url": "https://www.igdb.com/games/muv-luv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4b1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Muv-Luv",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802880",
+        "Linux": "setsid steam steam://rungameid/802880",
+        "macOS": "open steam://rungameid/802880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/802880",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 28
+      }
+    }
+  ],
+  "igdb_slug": "muv-luv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11778"
+}

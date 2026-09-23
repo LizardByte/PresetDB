@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 71456,
+  "name": "Gungrave VR",
+  "source_url": "https://www.igdb.com/games/gungrave-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24y4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gungrave VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892210",
+        "Linux": "setsid steam steam://rungameid/892210",
+        "macOS": "open steam://rungameid/892210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/892210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gungrave-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=71456"
+}

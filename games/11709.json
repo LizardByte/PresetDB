@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11709,
+  "name": "60 Seconds!",
+  "source_url": "https://www.igdb.com/games/60-seconds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xxx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "60 Seconds!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "368360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/368360",
+        "Linux": "setsid steam steam://rungameid/368360",
+        "macOS": "open steam://rungameid/368360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/368360",
+      "protondb": {
+        "tier": "gold",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "60-seconds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11709"
+}

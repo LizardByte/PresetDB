@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35370,
+  "name": "Star Balls",
+  "source_url": "https://www.igdb.com/games/star-balls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4cmd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Balls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "366050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/366050",
+        "Linux": "setsid steam steam://rungameid/366050",
+        "macOS": "open steam://rungameid/366050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/366050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "star-balls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35370"
+}

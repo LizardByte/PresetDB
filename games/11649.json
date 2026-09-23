@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11649,
+  "name": "The Park",
+  "source_url": "https://www.igdb.com/games/the-park",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/vni4nxi4facdlb2pjd1k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Park",
+      "os": null,
+      "method": "steam",
+      "launch_id": "402020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/402020",
+        "Linux": "setsid steam steam://rungameid/402020",
+        "macOS": "open steam://rungameid/402020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/402020",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 21
+      }
+    }
+  ],
+  "igdb_slug": "the-park",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11649"
+}

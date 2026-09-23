@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17146,
+  "name": "Solarix",
+  "source_url": "https://www.igdb.com/games/solarix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1o6y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solarix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "284990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/284990",
+        "Linux": "setsid steam steam://rungameid/284990",
+        "macOS": "open steam://rungameid/284990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/284990",
+      "protondb": {
+        "tier": "silver",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "solarix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17146"
+}

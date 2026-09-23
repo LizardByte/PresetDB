@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 498,
+  "name": "Borderlands",
+  "source_url": "https://www.igdb.com/games/borderlands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20tx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Borderlands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "8980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/8980",
+        "Linux": "setsid steam steam://rungameid/8980",
+        "macOS": "open steam://rungameid/8980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/8980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "borderlands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=498"
+}

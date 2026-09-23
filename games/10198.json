@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10198,
+  "name": "Shattered Horizon",
+  "source_url": "https://www.igdb.com/games/shattered-horizon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jmc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shattered Horizon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "18110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/18110",
+        "Linux": "setsid steam steam://rungameid/18110",
+        "macOS": "open steam://rungameid/18110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/18110",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "shattered-horizon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10198"
+}

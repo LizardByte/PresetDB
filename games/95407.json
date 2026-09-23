@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95407,
+  "name": "Encased",
+  "source_url": "https://www.igdb.com/games/encased",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobohl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Encased",
+      "os": null,
+      "method": "steam",
+      "launch_id": "921800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/921800",
+        "Linux": "setsid steam steam://rungameid/921800",
+        "macOS": "open steam://rungameid/921800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/921800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "encased",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95407"
+}

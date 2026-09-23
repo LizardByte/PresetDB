@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11342,
+  "name": "Woah Dave!",
+  "source_url": "https://www.igdb.com/games/woah-dave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ha4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Woah Dave!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315110",
+        "Linux": "setsid steam steam://rungameid/315110",
+        "macOS": "open steam://rungameid/315110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/315110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "woah-dave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11342"
+}

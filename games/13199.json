@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13199,
+  "name": "Amnesia: Memories",
+  "source_url": "https://www.igdb.com/games/amnesia-memories",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wst.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amnesia: Memories",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359390",
+        "Linux": "setsid steam steam://rungameid/359390",
+        "macOS": "open steam://rungameid/359390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359390",
+      "protondb": {
+        "tier": "gold",
+        "reports": 20
+      }
+    }
+  ],
+  "igdb_slug": "amnesia-memories",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13199"
+}

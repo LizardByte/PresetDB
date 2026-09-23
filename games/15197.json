@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15197,
+  "name": "StarCrawlers",
+  "source_url": "https://www.igdb.com/games/starcrawlers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24tz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StarCrawlers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "318970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/318970",
+        "Linux": "setsid steam steam://rungameid/318970",
+        "macOS": "open steam://rungameid/318970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/318970",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "starcrawlers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15197"
+}

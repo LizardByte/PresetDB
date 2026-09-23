@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16560,
+  "name": "In Verbis Virtus",
+  "source_url": "https://www.igdb.com/games/in-verbis-virtus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Verbis Virtus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "242840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/242840",
+        "Linux": "setsid steam steam://rungameid/242840",
+        "macOS": "open steam://rungameid/242840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/242840",
+      "protondb": {
+        "tier": "borked",
+        "reports": 15
+      }
+    }
+  ],
+  "igdb_slug": "in-verbis-virtus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16560"
+}

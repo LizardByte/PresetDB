@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277,
+  "name": "Battlefield 2",
+  "source_url": "https://www.igdb.com/games/battlefield-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nal.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battlefield 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "24860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/24860",
+        "Linux": "setsid steam steam://rungameid/24860",
+        "macOS": "open steam://rungameid/24860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/24860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "battlefield-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277"
+}

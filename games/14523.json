@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14523,
+  "name": "Helldivers",
+  "source_url": "https://www.igdb.com/games/helldivers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mo3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Helldivers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "394510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/394510",
+        "Linux": "setsid steam steam://rungameid/394510",
+        "macOS": "open steam://rungameid/394510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/394510",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 110
+      }
+    }
+  ],
+  "igdb_slug": "helldivers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14523"
+}

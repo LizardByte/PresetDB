@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36617,
+  "name": "Dystoa",
+  "source_url": "https://www.igdb.com/games/dystoa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wtt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dystoa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "640260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/640260",
+        "Linux": "setsid steam steam://rungameid/640260",
+        "macOS": "open steam://rungameid/640260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/640260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dystoa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36617"
+}

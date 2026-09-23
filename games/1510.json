@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1510,
+  "name": "Epic Mickey 2: The Power of Two",
+  "source_url": "https://www.igdb.com/games/epic-mickey-2-the-power-of-two",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7nhy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Mickey 2: The Power of Two",
+      "os": null,
+      "method": "steam",
+      "launch_id": "245300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/245300",
+        "Linux": "setsid steam steam://rungameid/245300",
+        "macOS": "open steam://rungameid/245300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/245300",
+      "protondb": {
+        "tier": "silver",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "epic-mickey-2-the-power-of-two",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1510"
+}

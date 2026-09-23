@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2050,
+  "name": "LEGO Marvel Super Heroes",
+  "source_url": "https://www.igdb.com/games/lego-marvel-super-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LEGO Marvel Super Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "249130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/249130",
+        "Linux": "setsid steam steam://rungameid/249130",
+        "macOS": "open steam://rungameid/249130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/249130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lego-marvel-super-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2050"
+}

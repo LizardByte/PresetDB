@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17032,
+  "name": "Darkwood",
+  "source_url": "https://www.igdb.com/games/darkwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24nh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darkwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "274520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/274520",
+        "Linux": "setsid steam steam://rungameid/274520",
+        "macOS": "open steam://rungameid/274520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/274520",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 26
+      }
+    }
+  ],
+  "igdb_slug": "darkwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17032"
+}

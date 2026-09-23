@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5626,
+  "name": "Forced",
+  "source_url": "https://www.igdb.com/games/forced",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2gzn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forced",
+      "os": null,
+      "method": "steam",
+      "launch_id": "249990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/249990",
+        "Linux": "setsid steam steam://rungameid/249990",
+        "macOS": "open steam://rungameid/249990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/249990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "forced",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5626"
+}

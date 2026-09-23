@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 38765,
+  "name": "RPS Runner",
+  "source_url": "https://www.igdb.com/games/rps-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8yk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RPS Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "654670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/654670",
+        "Linux": "setsid steam steam://rungameid/654670",
+        "macOS": "open steam://rungameid/654670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/654670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rps-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=38765"
+}

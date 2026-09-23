@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86767,
+  "name": "Alaska",
+  "source_url": "https://www.igdb.com/games/alaska",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28tv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alaska",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800490",
+        "Linux": "setsid steam steam://rungameid/800490",
+        "macOS": "open steam://rungameid/800490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/800490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alaska",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86767"
+}

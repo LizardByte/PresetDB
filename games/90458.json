@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90458,
+  "name": "Miss Popularity",
+  "source_url": "https://www.igdb.com/games/miss-popularity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8uc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miss Popularity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "12660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/12660",
+        "Linux": "setsid steam steam://rungameid/12660",
+        "macOS": "open steam://rungameid/12660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/12660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "miss-popularity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90458"
+}

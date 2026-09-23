@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29112,
+  "name": "Space Quest Collection",
+  "source_url": "https://www.igdb.com/games/space-quest-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2e49.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Quest Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "10110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/10110",
+        "Linux": "setsid steam steam://rungameid/10110",
+        "macOS": "open steam://rungameid/10110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/10110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "space-quest-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29112"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15055,
+  "name": "Who's That Flying?!",
+  "source_url": "https://www.igdb.com/games/whos-that-flying",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co72hp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who's That Flying?!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "57700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/57700",
+        "Linux": "setsid steam steam://rungameid/57700",
+        "macOS": "open steam://rungameid/57700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/57700",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "whos-that-flying",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15055"
+}

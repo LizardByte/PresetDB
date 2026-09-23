@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9405,
+  "name": "Showtime!",
+  "source_url": "https://www.igdb.com/games/showtime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2w0t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Showtime!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "285050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/285050",
+        "Linux": "setsid steam steam://rungameid/285050",
+        "macOS": "open steam://rungameid/285050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/285050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "showtime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9405"
+}

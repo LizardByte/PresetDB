@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11261,
+  "name": "The Black Mirror",
+  "source_url": "https://www.igdb.com/games/the-black-mirror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co211n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Black Mirror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "292930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/292930",
+        "Linux": "setsid steam steam://rungameid/292930",
+        "macOS": "open steam://rungameid/292930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/292930",
+      "protondb": {
+        "tier": "gold",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "the-black-mirror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11261"
+}

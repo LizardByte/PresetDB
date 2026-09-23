@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8990,
+  "name": "Schein",
+  "source_url": "https://www.igdb.com/games/schein",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2iqo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Schein",
+      "os": null,
+      "method": "steam",
+      "launch_id": "321920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/321920",
+        "Linux": "setsid steam steam://rungameid/321920",
+        "macOS": "open steam://rungameid/321920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/321920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "schein",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8990"
+}

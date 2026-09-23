@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11545,
+  "name": "Yesterday Origins",
+  "source_url": "https://www.igdb.com/games/yesterday-origins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27go.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yesterday Origins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "465280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/465280",
+        "Linux": "setsid steam steam://rungameid/465280",
+        "macOS": "open steam://rungameid/465280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/465280",
+      "protondb": {
+        "tier": "silver",
+        "reports": 21
+      }
+    }
+  ],
+  "igdb_slug": "yesterday-origins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11545"
+}

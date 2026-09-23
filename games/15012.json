@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15012,
+  "name": "Trino",
+  "source_url": "https://www.igdb.com/games/trino",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/jreo7khbjghvgvvf432b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trino",
+      "os": null,
+      "method": "steam",
+      "launch_id": "42000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/42000",
+        "Linux": "setsid steam steam://rungameid/42000",
+        "macOS": "open steam://rungameid/42000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/42000",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "trino",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15012"
+}

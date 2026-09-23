@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43136,
+  "name": "Loading Screen Simulator",
+  "source_url": "https://www.igdb.com/games/loading-screen-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ii9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loading Screen Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652980",
+        "Linux": "setsid steam steam://rungameid/652980",
+        "macOS": "open steam://rungameid/652980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "loading-screen-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43136"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51472,
+  "name": "Bang! Howdy",
+  "source_url": "https://www.igdb.com/games/bang-howdy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qt2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bang! Howdy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "675810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/675810",
+        "Linux": "setsid steam steam://rungameid/675810",
+        "macOS": "open steam://rungameid/675810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/675810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bang-howdy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51472"
+}

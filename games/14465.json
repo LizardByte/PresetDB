@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14465,
+  "name": "Clandestine",
+  "source_url": "https://www.igdb.com/games/clandestine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30en.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clandestine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290530",
+        "Linux": "setsid steam steam://rungameid/290530",
+        "macOS": "open steam://rungameid/290530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290530",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "clandestine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14465"
+}

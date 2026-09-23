@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56639,
+  "name": "Mike Dies",
+  "source_url": "https://www.igdb.com/games/mike-dies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27m9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mike Dies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "696200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/696200",
+        "Linux": "setsid steam steam://rungameid/696200",
+        "macOS": "open steam://rungameid/696200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/696200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mike-dies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56639"
+}

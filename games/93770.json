@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93770,
+  "name": "Soulfire",
+  "source_url": "https://www.igdb.com/games/soulfire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26gj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulfire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822800",
+        "Linux": "setsid steam steam://rungameid/822800",
+        "macOS": "open steam://rungameid/822800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/822800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "soulfire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93770"
+}

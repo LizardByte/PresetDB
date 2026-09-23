@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1300,
+  "name": "Tom Clancy's Ghost Recon Advanced Warfighter",
+  "source_url": "https://www.igdb.com/games/tom-clancy-s-ghost-recon-advanced-warfighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1yht.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tom Clancy's Ghost Recon Advanced Warfighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "13640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/13640",
+        "Linux": "setsid steam steam://rungameid/13640",
+        "macOS": "open steam://rungameid/13640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/13640",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "tom-clancy-s-ghost-recon-advanced-warfighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1300"
+}

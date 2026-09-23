@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31533,
+  "name": "Climbey",
+  "source_url": "https://www.igdb.com/games/climbey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Climbey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "520010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/520010",
+        "Linux": "setsid steam steam://rungameid/520010",
+        "macOS": "open steam://rungameid/520010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/520010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "climbey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31533"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14830,
+  "name": "Bullet Candy",
+  "source_url": "https://www.igdb.com/games/bullet-candy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ia9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bullet Candy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6600",
+        "Linux": "setsid steam steam://rungameid/6600",
+        "macOS": "open steam://rungameid/6600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6600",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "bullet-candy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14830"
+}

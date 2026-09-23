@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10053,
+  "name": "Blinding Dark",
+  "source_url": "https://www.igdb.com/games/blinding-dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blinding Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303870",
+        "Linux": "setsid steam steam://rungameid/303870",
+        "macOS": "open steam://rungameid/303870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/303870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blinding-dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10053"
+}

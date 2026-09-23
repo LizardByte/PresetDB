@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1381,
+  "name": "Payday: The Heist",
+  "source_url": "https://www.igdb.com/games/payday-the-heist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68m7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Payday: The Heist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "24240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/24240",
+        "Linux": "setsid steam steam://rungameid/24240",
+        "macOS": "open steam://rungameid/24240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/24240",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 53
+      }
+    }
+  ],
+  "igdb_slug": "payday-the-heist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1381"
+}

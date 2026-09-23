@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13547,
+  "name": "Waves",
+  "source_url": "https://www.igdb.com/games/waves",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2o9q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waves",
+      "os": null,
+      "method": "steam",
+      "launch_id": "107600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/107600",
+        "Linux": "setsid steam steam://rungameid/107600",
+        "macOS": "open steam://rungameid/107600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/107600",
+      "protondb": {
+        "tier": "gold",
+        "reports": 26
+      }
+    }
+  ],
+  "igdb_slug": "waves",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13547"
+}

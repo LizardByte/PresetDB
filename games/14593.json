@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14593,
+  "name": "Hollow Knight",
+  "source_url": "https://www.igdb.com/games/hollow-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfzp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hollow Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "367520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/367520",
+        "Linux": "setsid steam steam://rungameid/367520",
+        "macOS": "open steam://rungameid/367520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/367520",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 377
+      }
+    }
+  ],
+  "igdb_slug": "hollow-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14593"
+}

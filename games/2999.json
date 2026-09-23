@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2999,
+  "name": "Cobalt",
+  "source_url": "https://www.igdb.com/games/cobalt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uq2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cobalt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "357340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/357340",
+        "Linux": "setsid steam steam://rungameid/357340",
+        "macOS": "open steam://rungameid/357340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/357340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cobalt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2999"
+}

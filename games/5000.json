@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5000,
+  "name": "Max & the Magic Marker",
+  "source_url": "https://www.igdb.com/games/max-the-magic-marker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/qaut3yd7asz8rjdmqvsd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Max & the Magic Marker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "50820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/50820",
+        "Linux": "setsid steam steam://rungameid/50820",
+        "macOS": "open steam://rungameid/50820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/50820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "max-the-magic-marker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5000"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1052,
+  "name": "The Lord of the Rings: War in the North",
+  "source_url": "https://www.igdb.com/games/the-lord-of-the-rings-war-in-the-north",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20p9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lord of the Rings: War in the North",
+      "os": null,
+      "method": "steam",
+      "launch_id": "32800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/32800",
+        "Linux": "setsid steam steam://rungameid/32800",
+        "macOS": "open steam://rungameid/32800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/32800",
+      "protondb": {
+        "tier": "gold",
+        "reports": 49
+      }
+    }
+  ],
+  "igdb_slug": "the-lord-of-the-rings-war-in-the-north",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1052"
+}

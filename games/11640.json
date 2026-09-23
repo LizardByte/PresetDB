@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11640,
+  "name": "Splice",
+  "source_url": "https://www.igdb.com/games/splice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co248k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Splice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "209790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/209790",
+        "Linux": "setsid steam steam://rungameid/209790",
+        "macOS": "open steam://rungameid/209790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/209790",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "splice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11640"
+}

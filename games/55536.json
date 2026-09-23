@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55536,
+  "name": "Mirror",
+  "source_url": "https://www.igdb.com/games/mirror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cr9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mirror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "644560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/644560",
+        "Linux": "setsid steam steam://rungameid/644560",
+        "macOS": "open steam://rungameid/644560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/644560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mirror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55536"
+}

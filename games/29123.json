@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29123,
+  "name": "Empires",
+  "source_url": "https://www.igdb.com/games/empires",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28li.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Empires",
+      "os": null,
+      "method": "steam",
+      "launch_id": "17740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/17740",
+        "Linux": "setsid steam steam://rungameid/17740",
+        "macOS": "open steam://rungameid/17740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/17740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "empires",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29123"
+}

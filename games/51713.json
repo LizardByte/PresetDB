@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51713,
+  "name": "Exit VR",
+  "source_url": "https://www.igdb.com/games/exit-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2b5y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exit VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "667440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/667440",
+        "Linux": "setsid steam steam://rungameid/667440",
+        "macOS": "open steam://rungameid/667440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/667440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "exit-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51713"
+}

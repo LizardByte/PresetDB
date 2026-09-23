@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25014,
+  "name": "TheWaveVR",
+  "source_url": "https://www.igdb.com/games/thewavevr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23fb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TheWaveVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "453000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/453000",
+        "Linux": "setsid steam steam://rungameid/453000",
+        "macOS": "open steam://rungameid/453000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/453000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thewavevr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25014"
+}

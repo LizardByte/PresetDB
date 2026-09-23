@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14805,
+  "name": "Painkiller: Black Edition",
+  "source_url": "https://www.igdb.com/games/painkiller-black-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qs1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Painkiller: Black Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "39530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/39530",
+        "Linux": "setsid steam steam://rungameid/39530",
+        "macOS": "open steam://rungameid/39530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/39530",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 50
+      }
+    }
+  ],
+  "igdb_slug": "painkiller-black-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14805"
+}

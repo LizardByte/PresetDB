@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7868,
+  "name": "I am Bread",
+  "source_url": "https://www.igdb.com/games/i-am-bread",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xt7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I am Bread",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327890",
+        "Linux": "setsid steam steam://rungameid/327890",
+        "macOS": "open steam://rungameid/327890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-am-bread",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7868"
+}

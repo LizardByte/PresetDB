@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10893,
+  "name": "Sylia",
+  "source_url": "https://www.igdb.com/games/sylia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/qacigcmnfybhraqeruts.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sylia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "370630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/370630",
+        "Linux": "setsid steam steam://rungameid/370630",
+        "macOS": "open steam://rungameid/370630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/370630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sylia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10893"
+}

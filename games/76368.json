@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76368,
+  "name": "Marius",
+  "source_url": "https://www.igdb.com/games/marius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/ws11aoeai30sqb6pddss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "753090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/753090",
+        "Linux": "setsid steam steam://rungameid/753090",
+        "macOS": "open steam://rungameid/753090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/753090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "marius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76368"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11599,
+  "name": "Hylics",
+  "source_url": "https://www.igdb.com/games/hylics",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaad2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hylics",
+      "os": null,
+      "method": "steam",
+      "launch_id": "397740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/397740",
+        "Linux": "setsid steam steam://rungameid/397740",
+        "macOS": "open steam://rungameid/397740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/397740",
+      "protondb": {
+        "tier": "gold",
+        "reports": 29
+      }
+    }
+  ],
+  "igdb_slug": "hylics",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11599"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14813,
+  "name": "Peggle Nights",
+  "source_url": "https://www.igdb.com/games/peggle-nights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalcm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peggle Nights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3540",
+        "Linux": "setsid steam steam://rungameid/3540",
+        "macOS": "open steam://rungameid/3540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3540",
+      "protondb": {
+        "tier": "gold",
+        "reports": 32
+      }
+    }
+  ],
+  "igdb_slug": "peggle-nights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14813"
+}

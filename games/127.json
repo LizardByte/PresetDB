@@ -1,0 +1,43 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127,
+  "name": "Assassin's Creed II",
+  "source_url": "https://www.igdb.com/games/assassin-s-creed-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rcf.jpg",
+  "presets": [
+    {
+      "id": "9",
+      "name": "Assassin's Creed II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "33230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/33230",
+        "Linux": "setsid steam steam://rungameid/33230",
+        "macOS": "open steam://rungameid/33230"
+      },
+      "notes": null,
+      "origin_issue": 9,
+      "source_issue": 9,
+      "replacement_reason": null,
+      "approved_by": "LizardByte-bot",
+      "history": [
+        {
+          "issue": 9,
+          "action": "add",
+          "author_id": 42013603,
+          "author_login": "ReenigneArcher",
+          "approved_at": "2026-09-24T01:04:26.038Z"
+        }
+      ],
+      "protondb_url": "https://www.protondb.com/app/33230",
+      "protondb": {
+        "tier": "gold",
+        "reports": 149
+      }
+    }
+  ],
+  "igdb_slug": "assassin-s-creed-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127"
+}

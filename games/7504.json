@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7504,
+  "name": "The Forest",
+  "source_url": "https://www.igdb.com/games/the-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyi6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "242760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/242760",
+        "Linux": "setsid steam steam://rungameid/242760",
+        "macOS": "open steam://rungameid/242760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/242760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7504"
+}

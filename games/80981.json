@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80981,
+  "name": "Impossibox",
+  "source_url": "https://www.igdb.com/games/impossibox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb72.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Impossibox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "756200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/756200",
+        "Linux": "setsid steam steam://rungameid/756200",
+        "macOS": "open steam://rungameid/756200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/756200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "impossibox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80981"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1,
+  "name": "Thief II: The Metal Age",
+  "source_url": "https://www.igdb.com/games/thief-ii-the-metal-age",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co698n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thief II: The Metal Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "211740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/211740",
+        "Linux": "setsid steam steam://rungameid/211740",
+        "macOS": "open steam://rungameid/211740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/211740",
+      "protondb": {
+        "tier": "gold",
+        "reports": 54
+      }
+    }
+  ],
+  "igdb_slug": "thief-ii-the-metal-age",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1"
+}

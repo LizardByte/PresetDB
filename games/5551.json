@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5551,
+  "name": "Nidhogg",
+  "source_url": "https://www.igdb.com/games/nidhogg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1n39.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nidhogg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "94400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/94400",
+        "Linux": "setsid steam steam://rungameid/94400",
+        "macOS": "open steam://rungameid/94400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/94400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nidhogg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5551"
+}

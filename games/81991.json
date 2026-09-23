@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81991,
+  "name": "Tunescape",
+  "source_url": "https://www.igdb.com/games/tunescape",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tunescape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "778710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/778710",
+        "Linux": "setsid steam steam://rungameid/778710",
+        "macOS": "open steam://rungameid/778710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/778710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tunescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81991"
+}

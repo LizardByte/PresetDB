@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54586,
+  "name": "Faceless",
+  "source_url": "https://www.igdb.com/games/faceless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6659.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Faceless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "243240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/243240",
+        "Linux": "setsid steam steam://rungameid/243240",
+        "macOS": "open steam://rungameid/243240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/243240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "faceless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54586"
+}

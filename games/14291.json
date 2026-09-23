@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14291,
+  "name": "Poncho",
+  "source_url": "https://www.igdb.com/games/poncho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uym.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Poncho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "332620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/332620",
+        "Linux": "setsid steam steam://rungameid/332620",
+        "macOS": "open steam://rungameid/332620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/332620",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "poncho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14291"
+}

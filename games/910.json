@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 910,
+  "name": "Tom Clancy's Splinter Cell",
+  "source_url": "https://www.igdb.com/games/tom-clancy-s-splinter-cell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95ri.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tom Clancy's Splinter Cell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "13560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/13560",
+        "Linux": "setsid steam steam://rungameid/13560",
+        "macOS": "open steam://rungameid/13560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/13560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tom-clancy-s-splinter-cell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=910"
+}

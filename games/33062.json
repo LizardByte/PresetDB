@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33062,
+  "name": "The Letter",
+  "source_url": "https://www.igdb.com/games/the-letter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23dd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Letter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "460430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/460430",
+        "Linux": "setsid steam steam://rungameid/460430",
+        "macOS": "open steam://rungameid/460430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/460430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-letter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33062"
+}

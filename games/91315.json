@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 91315,
+  "name": "Qop",
+  "source_url": "https://www.igdb.com/games/qop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26yg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Qop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "654900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/654900",
+        "Linux": "setsid steam steam://rungameid/654900",
+        "macOS": "open steam://rungameid/654900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/654900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "qop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=91315"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11282,
+  "name": "Lilly Looking Through",
+  "source_url": "https://www.igdb.com/games/lilly-looking-through",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xoa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lilly Looking Through",
+      "os": null,
+      "method": "steam",
+      "launch_id": "250030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/250030",
+        "Linux": "setsid steam steam://rungameid/250030",
+        "macOS": "open steam://rungameid/250030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/250030",
+      "protondb": {
+        "tier": "silver",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "lilly-looking-through",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11282"
+}

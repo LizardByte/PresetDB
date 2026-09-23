@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19874,
+  "name": "Mega Man Legacy Collection",
+  "source_url": "https://www.igdb.com/games/mega-man-legacy-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co204v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mega Man Legacy Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "363440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/363440",
+        "Linux": "setsid steam steam://rungameid/363440",
+        "macOS": "open steam://rungameid/363440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/363440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mega-man-legacy-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19874"
+}

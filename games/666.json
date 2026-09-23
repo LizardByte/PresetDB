@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 666,
+  "name": "Delta Force",
+  "source_url": "https://www.igdb.com/games/delta-force",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dk4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Delta Force",
+      "os": null,
+      "method": "steam",
+      "launch_id": "32620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/32620",
+        "Linux": "setsid steam steam://rungameid/32620",
+        "macOS": "open steam://rungameid/32620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/32620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "delta-force",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=666"
+}

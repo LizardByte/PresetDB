@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16608,
+  "name": "Feist",
+  "source_url": "https://www.igdb.com/games/feist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4c0y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327060",
+        "Linux": "setsid steam steam://rungameid/327060",
+        "macOS": "open steam://rungameid/327060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "feist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16608"
+}

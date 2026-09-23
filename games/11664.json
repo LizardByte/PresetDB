@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11664,
+  "name": "ArcheBlade",
+  "source_url": "https://www.igdb.com/games/archeblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jvn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ArcheBlade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "207230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/207230",
+        "Linux": "setsid steam steam://rungameid/207230",
+        "macOS": "open steam://rungameid/207230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/207230",
+      "protondb": {
+        "tier": "gold",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "archeblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11664"
+}

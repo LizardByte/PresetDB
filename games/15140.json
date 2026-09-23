@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15140,
+  "name": "Ms. Splosion Man",
+  "source_url": "https://www.igdb.com/games/ms-splosion-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27ml.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ms. Splosion Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "105420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/105420",
+        "Linux": "setsid steam steam://rungameid/105420",
+        "macOS": "open steam://rungameid/105420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/105420",
+      "protondb": {
+        "tier": "silver",
+        "reports": 12
+      }
+    }
+  ],
+  "igdb_slug": "ms-splosion-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15140"
+}

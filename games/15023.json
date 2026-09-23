@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15023,
+  "name": "Fortix",
+  "source_url": "https://www.igdb.com/games/fortix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pdp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fortix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "45400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/45400",
+        "Linux": "setsid steam steam://rungameid/45400",
+        "macOS": "open steam://rungameid/45400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/45400",
+      "protondb": {
+        "tier": "gold",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "fortix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15023"
+}

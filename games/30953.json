@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30953,
+  "name": "Plankton",
+  "source_url": "https://www.igdb.com/games/plankton",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dp7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plankton",
+      "os": null,
+      "method": "steam",
+      "launch_id": "542550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/542550",
+        "Linux": "setsid steam steam://rungameid/542550",
+        "macOS": "open steam://rungameid/542550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/542550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "plankton",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30953"
+}

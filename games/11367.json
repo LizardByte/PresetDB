@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11367,
+  "name": "Anna's Quest",
+  "source_url": "https://www.igdb.com/games/annas-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anna's Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327220",
+        "Linux": "setsid steam steam://rungameid/327220",
+        "macOS": "open steam://rungameid/327220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327220",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "annas-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11367"
+}

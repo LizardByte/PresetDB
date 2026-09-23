@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97243,
+  "name": "Escape First",
+  "source_url": "https://www.igdb.com/games/escape-first",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qc2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape First",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850450",
+        "Linux": "setsid steam steam://rungameid/850450",
+        "macOS": "open steam://rungameid/850450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/850450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-first",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97243"
+}

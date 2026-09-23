@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30834,
+  "name": "Tank it!",
+  "source_url": "https://www.igdb.com/games/tank-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23th.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tank it!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "546500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/546500",
+        "Linux": "setsid steam steam://rungameid/546500",
+        "macOS": "open steam://rungameid/546500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/546500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tank-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30834"
+}

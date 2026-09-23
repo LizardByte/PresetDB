@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11501,
+  "name": "Mugen Souls",
+  "source_url": "https://www.igdb.com/games/mugen-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fuo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mugen Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "389870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/389870",
+        "Linux": "setsid steam steam://rungameid/389870",
+        "macOS": "open steam://rungameid/389870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/389870",
+      "protondb": {
+        "tier": "silver",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "mugen-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11501"
+}

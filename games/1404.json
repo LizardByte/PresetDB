@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1404,
+  "name": "Metal Slug",
+  "source_url": "https://www.igdb.com/games/metal-slug",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20gf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Slug",
+      "os": null,
+      "method": "steam",
+      "launch_id": "366250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/366250",
+        "Linux": "setsid steam steam://rungameid/366250",
+        "macOS": "open steam://rungameid/366250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/366250",
+      "protondb": {
+        "tier": "gold",
+        "reports": 49
+      }
+    }
+  ],
+  "igdb_slug": "metal-slug",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1404"
+}

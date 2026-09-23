@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55401,
+  "name": "Logos",
+  "source_url": "https://www.igdb.com/games/logos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Logos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "684040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/684040",
+        "Linux": "setsid steam steam://rungameid/684040",
+        "macOS": "open steam://rungameid/684040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/684040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "logos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55401"
+}

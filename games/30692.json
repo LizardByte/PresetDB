@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30692,
+  "name": "Bunny & Piggy",
+  "source_url": "https://www.igdb.com/games/bunny-and-piggy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co96c6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny & Piggy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "549810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/549810",
+        "Linux": "setsid steam steam://rungameid/549810",
+        "macOS": "open steam://rungameid/549810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/549810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bunny-and-piggy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30692"
+}

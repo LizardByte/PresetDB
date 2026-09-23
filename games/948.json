@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 948,
+  "name": "Worms Armageddon",
+  "source_url": "https://www.igdb.com/games/worms-armageddon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rkc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Worms Armageddon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "217200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/217200",
+        "Linux": "setsid steam steam://rungameid/217200",
+        "macOS": "open steam://rungameid/217200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/217200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "worms-armageddon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=948"
+}

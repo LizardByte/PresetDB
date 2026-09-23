@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296,
+  "name": "Crysis",
+  "source_url": "https://www.igdb.com/games/crysis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2on1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crysis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "17300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/17300",
+        "Linux": "setsid steam steam://rungameid/17300",
+        "macOS": "open steam://rungameid/17300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/17300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crysis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296"
+}

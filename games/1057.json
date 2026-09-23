@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1057,
+  "name": "Unstoppable Gorg",
+  "source_url": "https://www.igdb.com/games/unstoppable-gorg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pcl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unstoppable Gorg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "18120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/18120",
+        "Linux": "setsid steam steam://rungameid/18120",
+        "macOS": "open steam://rungameid/18120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/18120",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "unstoppable-gorg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1057"
+}

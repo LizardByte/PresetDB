@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14681,
+  "name": "Adventures of Pip",
+  "source_url": "https://www.igdb.com/games/adventures-of-pip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pe5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventures of Pip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303550",
+        "Linux": "setsid steam steam://rungameid/303550",
+        "macOS": "open steam://rungameid/303550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/303550",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "adventures-of-pip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14681"
+}

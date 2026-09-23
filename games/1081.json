@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1081,
+  "name": "The Elder Scrolls Online",
+  "source_url": "https://www.igdb.com/games/the-elder-scrolls-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nt3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Elder Scrolls Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "306130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/306130",
+        "Linux": "setsid steam steam://rungameid/306130",
+        "macOS": "open steam://rungameid/306130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/306130",
+      "protondb": {
+        "tier": "gold",
+        "reports": 844
+      }
+    }
+  ],
+  "igdb_slug": "the-elder-scrolls-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1081"
+}

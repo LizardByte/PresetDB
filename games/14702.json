@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14702,
+  "name": "Cibele",
+  "source_url": "https://www.igdb.com/games/cibele",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cibele",
+      "os": null,
+      "method": "steam",
+      "launch_id": "408120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/408120",
+        "Linux": "setsid steam steam://rungameid/408120",
+        "macOS": "open steam://rungameid/408120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/408120",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "cibele",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14702"
+}

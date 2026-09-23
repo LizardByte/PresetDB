@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34345,
+  "name": "Indie Game Battle",
+  "source_url": "https://www.igdb.com/games/indie-game-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/vdsz7spj0j4letkdgi6l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Indie Game Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "407620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/407620",
+        "Linux": "setsid steam steam://rungameid/407620",
+        "macOS": "open steam://rungameid/407620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/407620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "indie-game-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34345"
+}

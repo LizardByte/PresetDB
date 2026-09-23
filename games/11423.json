@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11423,
+  "name": "This Is the Police",
+  "source_url": "https://www.igdb.com/games/this-is-the-police",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uu1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This Is the Police",
+      "os": null,
+      "method": "steam",
+      "launch_id": "443810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/443810",
+        "Linux": "setsid steam steam://rungameid/443810",
+        "macOS": "open steam://rungameid/443810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/443810",
+      "protondb": {
+        "tier": "gold",
+        "reports": 17
+      }
+    }
+  ],
+  "igdb_slug": "this-is-the-police",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11423"
+}

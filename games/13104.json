@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13104,
+  "name": "Snakebird",
+  "source_url": "https://www.igdb.com/games/snakebird",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nxc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snakebird",
+      "os": null,
+      "method": "steam",
+      "launch_id": "357300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/357300",
+        "Linux": "setsid steam steam://rungameid/357300",
+        "macOS": "open steam://rungameid/357300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/357300",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "snakebird",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13104"
+}

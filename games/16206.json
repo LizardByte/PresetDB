@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16206,
+  "name": "Dive to the Titanic",
+  "source_url": "https://www.igdb.com/games/dive-to-the-titanic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3opg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dive to the Titanic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "65200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/65200",
+        "Linux": "setsid steam steam://rungameid/65200",
+        "macOS": "open steam://rungameid/65200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/65200",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "dive-to-the-titanic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16206"
+}

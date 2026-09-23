@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1184,
+  "name": "World of Tanks",
+  "source_url": "https://www.igdb.com/games/world-of-tanks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob91n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Tanks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1407200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1407200",
+        "Linux": "setsid steam steam://rungameid/1407200",
+        "macOS": "open steam://rungameid/1407200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1407200",
+      "protondb": {
+        "tier": "gold",
+        "reports": 202
+      }
+    }
+  ],
+  "igdb_slug": "world-of-tanks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1184"
+}

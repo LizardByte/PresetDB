@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15064,
+  "name": "Flight Control HD",
+  "source_url": "https://www.igdb.com/games/flight-control-hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3s60.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flight Control HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "62000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/62000",
+        "Linux": "setsid steam steam://rungameid/62000",
+        "macOS": "open steam://rungameid/62000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/62000",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "flight-control-hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15064"
+}

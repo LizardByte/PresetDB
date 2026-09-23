@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11223,
+  "name": "Thief Town",
+  "source_url": "https://www.igdb.com/games/thief-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2w1s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thief Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331220",
+        "Linux": "setsid steam steam://rungameid/331220",
+        "macOS": "open steam://rungameid/331220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/331220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thief-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11223"
+}

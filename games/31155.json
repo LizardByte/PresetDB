@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31155,
+  "name": "Dolphin Up",
+  "source_url": "https://www.igdb.com/games/dolphin-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ui2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dolphin Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "534680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/534680",
+        "Linux": "setsid steam steam://rungameid/534680",
+        "macOS": "open steam://rungameid/534680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/534680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dolphin-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31155"
+}

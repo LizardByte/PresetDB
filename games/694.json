@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 694,
+  "name": "Fable: The Lost Chapters",
+  "source_url": "https://www.igdb.com/games/fable-the-lost-chapters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24mu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fable: The Lost Chapters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "204030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/204030",
+        "Linux": "setsid steam steam://rungameid/204030",
+        "macOS": "open steam://rungameid/204030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/204030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fable-the-lost-chapters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=694"
+}

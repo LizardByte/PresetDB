@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11162,
+  "name": "For Honor",
+  "source_url": "https://www.igdb.com/games/for-honor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "For Honor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "304390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/304390",
+        "Linux": "setsid steam steam://rungameid/304390",
+        "macOS": "open steam://rungameid/304390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/304390",
+      "protondb": {
+        "tier": "gold",
+        "reports": 240
+      }
+    }
+  ],
+  "igdb_slug": "for-honor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11162"
+}

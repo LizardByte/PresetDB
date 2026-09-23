@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11214,
+  "name": "World of Final Fantasy",
+  "source_url": "https://www.igdb.com/games/world-of-final-fantasy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24k0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Final Fantasy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "552700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/552700",
+        "Linux": "setsid steam steam://rungameid/552700",
+        "macOS": "open steam://rungameid/552700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/552700",
+      "protondb": {
+        "tier": "gold",
+        "reports": 31
+      }
+    }
+  ],
+  "igdb_slug": "world-of-final-fantasy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11214"
+}

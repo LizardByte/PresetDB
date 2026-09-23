@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14578,
+  "name": "Forced Showdown",
+  "source_url": "https://www.igdb.com/games/forced-showdown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ii2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forced Showdown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "265000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/265000",
+        "Linux": "setsid steam steam://rungameid/265000",
+        "macOS": "open steam://rungameid/265000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/265000",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "forced-showdown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14578"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1216,
+  "name": "Dead Space 3",
+  "source_url": "https://www.igdb.com/games/dead-space-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2int.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Space 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1238060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1238060",
+        "Linux": "setsid steam steam://rungameid/1238060",
+        "macOS": "open steam://rungameid/1238060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1238060",
+      "protondb": {
+        "tier": "gold",
+        "reports": 46
+      }
+    }
+  ],
+  "igdb_slug": "dead-space-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1216"
+}

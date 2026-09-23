@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30711,
+  "name": "NightZ",
+  "source_url": "https://www.igdb.com/games/nightz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co250h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NightZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "548480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/548480",
+        "Linux": "setsid steam steam://rungameid/548480",
+        "macOS": "open steam://rungameid/548480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/548480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nightz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30711"
+}

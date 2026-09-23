@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 40,
+  "name": "Mafia II",
+  "source_url": "https://www.igdb.com/games/mafia-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2n13.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mafia II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "50130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/50130",
+        "Linux": "setsid steam steam://rungameid/50130",
+        "macOS": "open steam://rungameid/50130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/50130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mafia-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=40"
+}

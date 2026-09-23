@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16447,
+  "name": "Full Mojo Rampage",
+  "source_url": "https://www.igdb.com/games/full-mojo-rampage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4008.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Full Mojo Rampage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "225280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/225280",
+        "Linux": "setsid steam steam://rungameid/225280",
+        "macOS": "open steam://rungameid/225280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/225280",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "full-mojo-rampage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16447"
+}

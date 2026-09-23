@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12691,
+  "name": "Mystical",
+  "source_url": "https://www.igdb.com/games/mystical",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa236.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystical",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781240",
+        "Linux": "setsid steam steam://rungameid/781240",
+        "macOS": "open steam://rungameid/781240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/781240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mystical",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12691"
+}

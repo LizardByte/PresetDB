@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 999,
+  "name": "Oddworld: Abe's Oddysee",
+  "source_url": "https://www.igdb.com/games/oddworld-abe-s-oddysee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89fk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oddworld: Abe's Oddysee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "15700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/15700",
+        "Linux": "setsid steam steam://rungameid/15700",
+        "macOS": "open steam://rungameid/15700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/15700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "oddworld-abe-s-oddysee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=999"
+}

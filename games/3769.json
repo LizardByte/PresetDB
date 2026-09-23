@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3769,
+  "name": "DCS World",
+  "source_url": "https://www.igdb.com/games/dcs-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20u6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DCS World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "223750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/223750",
+        "Linux": "setsid steam steam://rungameid/223750",
+        "macOS": "open steam://rungameid/223750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/223750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dcs-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3769"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9634,
+  "name": "Endless Space",
+  "source_url": "https://www.igdb.com/games/endless-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wci.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "208140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/208140",
+        "Linux": "setsid steam steam://rungameid/208140",
+        "macOS": "open steam://rungameid/208140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/208140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "endless-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9634"
+}

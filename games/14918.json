@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14918,
+  "name": "Spectraball",
+  "source_url": "https://www.igdb.com/games/spectraball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spectraball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "18300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/18300",
+        "Linux": "setsid steam steam://rungameid/18300",
+        "macOS": "open steam://rungameid/18300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/18300",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "spectraball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14918"
+}

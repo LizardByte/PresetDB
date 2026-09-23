@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15061,
+  "name": "Lucid",
+  "source_url": "https://www.igdb.com/games/lucid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa22n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lucid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "61100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/61100",
+        "Linux": "setsid steam steam://rungameid/61100",
+        "macOS": "open steam://rungameid/61100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/61100",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "lucid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15061"
+}

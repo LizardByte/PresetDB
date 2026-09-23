@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1050,
+  "name": "Hitman: Codename 47",
+  "source_url": "https://www.igdb.com/games/hitman-codename-47",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4bkw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hitman: Codename 47",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6900",
+        "Linux": "setsid steam steam://rungameid/6900",
+        "macOS": "open steam://rungameid/6900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6900",
+      "protondb": {
+        "tier": "gold",
+        "reports": 54
+      }
+    }
+  ],
+  "igdb_slug": "hitman-codename-47",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1050"
+}

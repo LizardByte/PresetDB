@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 67903,
+  "name": "Mark After Dark",
+  "source_url": "https://www.igdb.com/games/mark-after-dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2m2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mark After Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "713980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/713980",
+        "Linux": "setsid steam steam://rungameid/713980",
+        "macOS": "open steam://rungameid/713980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/713980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mark-after-dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=67903"
+}

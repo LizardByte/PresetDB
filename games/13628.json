@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13628,
+  "name": "Echelon",
+  "source_url": "https://www.igdb.com/games/echelon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22po.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echelon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "311080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/311080",
+        "Linux": "setsid steam steam://rungameid/311080",
+        "macOS": "open steam://rungameid/311080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/311080",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "echelon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13628"
+}

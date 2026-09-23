@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16174,
+  "name": "Burn Zombie Burn!",
+  "source_url": "https://www.igdb.com/games/burn-zombie-burn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co50e6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burn Zombie Burn!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "50510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/50510",
+        "Linux": "setsid steam steam://rungameid/50510",
+        "macOS": "open steam://rungameid/50510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/50510",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "burn-zombie-burn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16174"
+}

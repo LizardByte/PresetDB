@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13100,
+  "name": "Super Amazing Wagon Adventure",
+  "source_url": "https://www.igdb.com/games/super-amazing-wagon-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co882h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Amazing Wagon Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "250500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/250500",
+        "Linux": "setsid steam steam://rungameid/250500",
+        "macOS": "open steam://rungameid/250500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/250500",
+      "protondb": {
+        "tier": "silver",
+        "reports": 22
+      }
+    }
+  ],
+  "igdb_slug": "super-amazing-wagon-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13100"
+}

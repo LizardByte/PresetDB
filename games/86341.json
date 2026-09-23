@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86341,
+  "name": "One Night",
+  "source_url": "https://www.igdb.com/games/one-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcu6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "752180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/752180",
+        "Linux": "setsid steam steam://rungameid/752180",
+        "macOS": "open steam://rungameid/752180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/752180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "one-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86341"
+}

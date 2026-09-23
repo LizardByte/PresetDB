@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6359,
+  "name": "Team Fortress Classic",
+  "source_url": "https://www.igdb.com/games/team-fortress-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc32j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Team Fortress Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "20",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/20",
+        "Linux": "setsid steam steam://rungameid/20",
+        "macOS": "open steam://rungameid/20"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/20",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "team-fortress-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6359"
+}

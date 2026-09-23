@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7084,
+  "name": "Marvel Puzzle Quest",
+  "source_url": "https://www.igdb.com/games/marvel-puzzle-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3gbh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marvel Puzzle Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234330",
+        "Linux": "setsid steam steam://rungameid/234330",
+        "macOS": "open steam://rungameid/234330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/234330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "marvel-puzzle-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7084"
+}

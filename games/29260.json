@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29260,
+  "name": "ReThink",
+  "source_url": "https://www.igdb.com/games/rethink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24p0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ReThink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603800",
+        "Linux": "setsid steam steam://rungameid/603800",
+        "macOS": "open steam://rungameid/603800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/603800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rethink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29260"
+}

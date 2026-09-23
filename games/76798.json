@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76798,
+  "name": "Sprout",
+  "source_url": "https://www.igdb.com/games/sprout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6z3d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sprout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "758530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/758530",
+        "Linux": "setsid steam steam://rungameid/758530",
+        "macOS": "open steam://rungameid/758530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/758530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sprout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76798"
+}

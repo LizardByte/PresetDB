@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 91208,
+  "name": "BoxVR",
+  "source_url": "https://www.igdb.com/games/boxvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mjc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BoxVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "641960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/641960",
+        "Linux": "setsid steam steam://rungameid/641960",
+        "macOS": "open steam://rungameid/641960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/641960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "boxvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=91208"
+}

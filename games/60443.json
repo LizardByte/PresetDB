@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 60443,
+  "name": "How Do You Do It?",
+  "source_url": "https://www.igdb.com/games/how-do-you-do-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2eu9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "How Do You Do It?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "353360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/353360",
+        "Linux": "setsid steam steam://rungameid/353360",
+        "macOS": "open steam://rungameid/353360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/353360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "how-do-you-do-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=60443"
+}

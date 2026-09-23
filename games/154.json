@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 154,
+  "name": "Star Wars: Episode I - Racer",
+  "source_url": "https://www.igdb.com/games/star-wars-episode-i-racer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wj7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Episode I - Racer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "808910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/808910",
+        "Linux": "setsid steam steam://rungameid/808910",
+        "macOS": "open steam://rungameid/808910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/808910",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 40
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-episode-i-racer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=154"
+}

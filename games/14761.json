@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14761,
+  "name": "Rain World",
+  "source_url": "https://www.igdb.com/games/rain-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24pm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rain World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "312520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/312520",
+        "Linux": "setsid steam steam://rungameid/312520",
+        "macOS": "open steam://rungameid/312520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/312520",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 157
+      }
+    }
+  ],
+  "igdb_slug": "rain-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14761"
+}

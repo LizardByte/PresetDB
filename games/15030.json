@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15030,
+  "name": "Stronghold Kingdoms",
+  "source_url": "https://www.igdb.com/games/stronghold-kingdoms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2srx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stronghold Kingdoms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "47410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/47410",
+        "Linux": "setsid steam steam://rungameid/47410",
+        "macOS": "open steam://rungameid/47410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/47410",
+      "protondb": {
+        "tier": "borked",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "stronghold-kingdoms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15030"
+}

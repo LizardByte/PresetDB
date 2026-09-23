@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9424,
+  "name": "SkyDrift",
+  "source_url": "https://www.igdb.com/games/skydrift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41m3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkyDrift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "91100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/91100",
+        "Linux": "setsid steam steam://rungameid/91100",
+        "macOS": "open steam://rungameid/91100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/91100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skydrift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9424"
+}

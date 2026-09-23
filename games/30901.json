@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30901,
+  "name": "Wanderland",
+  "source_url": "https://www.igdb.com/games/wanderland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ys5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wanderland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "545820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/545820",
+        "Linux": "setsid steam steam://rungameid/545820",
+        "macOS": "open steam://rungameid/545820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/545820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wanderland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30901"
+}

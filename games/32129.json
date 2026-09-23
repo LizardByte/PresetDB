@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32129,
+  "name": "Save the Universe, Please!",
+  "source_url": "https://www.igdb.com/games/save-the-universe-please",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7az.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save the Universe, Please!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500550",
+        "Linux": "setsid steam steam://rungameid/500550",
+        "macOS": "open steam://rungameid/500550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "save-the-universe-please",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32129"
+}

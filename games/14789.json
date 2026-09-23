@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14789,
+  "name": "Dangerous Waters",
+  "source_url": "https://www.igdb.com/games/dangerous-waters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o38.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dangerous Waters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1600",
+        "Linux": "setsid steam steam://rungameid/1600",
+        "macOS": "open steam://rungameid/1600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1600",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 17
+      }
+    }
+  ],
+  "igdb_slug": "dangerous-waters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14789"
+}

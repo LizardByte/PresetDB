@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50541,
+  "name": "Testbed Terror",
+  "source_url": "https://www.igdb.com/games/testbed-terror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Testbed Terror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "674910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/674910",
+        "Linux": "setsid steam steam://rungameid/674910",
+        "macOS": "open steam://rungameid/674910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/674910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "testbed-terror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50541"
+}

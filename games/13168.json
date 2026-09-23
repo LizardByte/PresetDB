@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13168,
+  "name": "Doom & Destiny",
+  "source_url": "https://www.igdb.com/games/doom-and-destiny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2py7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doom & Destiny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "318130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/318130",
+        "Linux": "setsid steam steam://rungameid/318130",
+        "macOS": "open steam://rungameid/318130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/318130",
+      "protondb": {
+        "tier": "silver",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "doom-and-destiny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13168"
+}

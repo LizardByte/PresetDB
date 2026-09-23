@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11134,
+  "name": "Gigantic",
+  "source_url": "https://www.igdb.com/games/gigantic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24j8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gigantic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327690",
+        "Linux": "setsid steam steam://rungameid/327690",
+        "macOS": "open steam://rungameid/327690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327690",
+      "protondb": {
+        "tier": "borked",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "gigantic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11134"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 726,
+  "name": "Ghost Master",
+  "source_url": "https://www.igdb.com/games/ghost-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vx1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6200",
+        "Linux": "setsid steam steam://rungameid/6200",
+        "macOS": "open steam://rungameid/6200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghost-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=726"
+}

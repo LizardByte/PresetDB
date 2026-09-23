@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43119,
+  "name": "Global Adventures",
+  "source_url": "https://www.igdb.com/games/global-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bhi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Global Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565020",
+        "Linux": "setsid steam steam://rungameid/565020",
+        "macOS": "open steam://rungameid/565020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/565020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "global-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43119"
+}

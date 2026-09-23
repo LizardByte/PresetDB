@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34567,
+  "name": "Let's Sing 2016",
+  "source_url": "https://www.igdb.com/games/lets-sing-2016",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co459b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let's Sing 2016",
+      "os": null,
+      "method": "steam",
+      "launch_id": "397820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/397820",
+        "Linux": "setsid steam steam://rungameid/397820",
+        "macOS": "open steam://rungameid/397820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/397820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lets-sing-2016",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34567"
+}

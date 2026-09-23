@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11838,
+  "name": "The Howler",
+  "source_url": "https://www.igdb.com/games/the-howler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co221i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Howler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "306040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/306040",
+        "Linux": "setsid steam steam://rungameid/306040",
+        "macOS": "open steam://rungameid/306040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/306040",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "the-howler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11838"
+}

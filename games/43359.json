@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43359,
+  "name": "Awesome Machine",
+  "source_url": "https://www.igdb.com/games/awesome-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29v0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Awesome Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "626160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/626160",
+        "Linux": "setsid steam steam://rungameid/626160",
+        "macOS": "open steam://rungameid/626160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/626160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "awesome-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43359"
+}

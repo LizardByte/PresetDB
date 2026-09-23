@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13205,
+  "name": "Astroneer",
+  "source_url": "https://www.igdb.com/games/astroneer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyfe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astroneer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "361420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/361420",
+        "Linux": "setsid steam steam://rungameid/361420",
+        "macOS": "open steam://rungameid/361420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/361420",
+      "protondb": {
+        "tier": "gold",
+        "reports": 456
+      }
+    }
+  ],
+  "igdb_slug": "astroneer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13205"
+}

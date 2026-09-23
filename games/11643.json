@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11643,
+  "name": "Shoot Many Robots",
+  "source_url": "https://www.igdb.com/games/shoot-many-robots",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55vz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shoot Many Robots",
+      "os": null,
+      "method": "steam",
+      "launch_id": "96400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/96400",
+        "Linux": "setsid steam steam://rungameid/96400",
+        "macOS": "open steam://rungameid/96400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/96400",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "shoot-many-robots",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11643"
+}

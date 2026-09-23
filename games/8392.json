@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8392,
+  "name": "Edge",
+  "source_url": "https://www.igdb.com/games/edge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q16.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "38740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/38740",
+        "Linux": "setsid steam steam://rungameid/38740",
+        "macOS": "open steam://rungameid/38740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/38740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "edge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8392"
+}

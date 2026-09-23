@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95049,
+  "name": "Nova Flow",
+  "source_url": "https://www.igdb.com/games/nova-flow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27nb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nova Flow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "718250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/718250",
+        "Linux": "setsid steam steam://rungameid/718250",
+        "macOS": "open steam://rungameid/718250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/718250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nova-flow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95049"
+}

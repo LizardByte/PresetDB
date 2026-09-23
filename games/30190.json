@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30190,
+  "name": "Bowling at the Lake",
+  "source_url": "https://www.igdb.com/games/bowling-at-the-lake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4g8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bowling at the Lake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "566150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/566150",
+        "Linux": "setsid steam steam://rungameid/566150",
+        "macOS": "open steam://rungameid/566150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/566150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bowling-at-the-lake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30190"
+}

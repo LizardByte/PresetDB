@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10129,
+  "name": "Minerva",
+  "source_url": "https://www.igdb.com/games/minerva",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5km0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minerva",
+      "os": null,
+      "method": "steam",
+      "launch_id": "235780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/235780",
+        "Linux": "setsid steam steam://rungameid/235780",
+        "macOS": "open steam://rungameid/235780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/235780",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "minerva",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10129"
+}

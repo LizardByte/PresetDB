@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12597,
+  "name": "Owlboy",
+  "source_url": "https://www.igdb.com/games/owlboy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaac.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Owlboy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "115800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/115800",
+        "Linux": "setsid steam steam://rungameid/115800",
+        "macOS": "open steam://rungameid/115800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/115800",
+      "protondb": {
+        "tier": "gold",
+        "reports": 12
+      }
+    }
+  ],
+  "igdb_slug": "owlboy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12597"
+}

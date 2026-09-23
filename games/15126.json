@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15126,
+  "name": "Demolition Inc.",
+  "source_url": "https://www.igdb.com/games/demolition-inc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60hh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Demolition Inc.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "98600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/98600",
+        "Linux": "setsid steam steam://rungameid/98600",
+        "macOS": "open steam://rungameid/98600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/98600",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "demolition-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15126"
+}

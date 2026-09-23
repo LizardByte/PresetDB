@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 44169,
+  "name": "Watchlist",
+  "source_url": "https://www.igdb.com/games/watchlist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co273v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Watchlist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652760",
+        "Linux": "setsid steam steam://rungameid/652760",
+        "macOS": "open steam://rungameid/652760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "watchlist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=44169"
+}

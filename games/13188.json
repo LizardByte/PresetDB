@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13188,
+  "name": "Critter Crunch",
+  "source_url": "https://www.igdb.com/games/critter-crunch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Critter Crunch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "61730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/61730",
+        "Linux": "setsid steam steam://rungameid/61730",
+        "macOS": "open steam://rungameid/61730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/61730",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "critter-crunch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13188"
+}

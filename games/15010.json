@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15010,
+  "name": "Tommy Tronic",
+  "source_url": "https://www.igdb.com/games/tommy-tronic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6npa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tommy Tronic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "41660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/41660",
+        "Linux": "setsid steam steam://rungameid/41660",
+        "macOS": "open steam://rungameid/41660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/41660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tommy-tronic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15010"
+}

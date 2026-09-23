@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12519,
+  "name": "Tooth and Tail",
+  "source_url": "https://www.igdb.com/games/tooth-and-tail",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rk6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tooth and Tail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "286000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/286000",
+        "Linux": "setsid steam steam://rungameid/286000",
+        "macOS": "open steam://rungameid/286000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/286000",
+      "protondb": {
+        "tier": "gold",
+        "reports": 15
+      }
+    }
+  ],
+  "igdb_slug": "tooth-and-tail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12519"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19795,
+  "name": "Knight Online",
+  "source_url": "https://www.igdb.com/games/knight-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab5m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knight Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "389430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/389430",
+        "Linux": "setsid steam steam://rungameid/389430",
+        "macOS": "open steam://rungameid/389430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/389430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "knight-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19795"
+}

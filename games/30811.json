@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30811,
+  "name": "That's Mahjong!",
+  "source_url": "https://www.igdb.com/games/thats-mahjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4pa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "That's Mahjong!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "547310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/547310",
+        "Linux": "setsid steam steam://rungameid/547310",
+        "macOS": "open steam://rungameid/547310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/547310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thats-mahjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30811"
+}

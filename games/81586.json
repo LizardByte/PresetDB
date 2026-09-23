@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81586,
+  "name": "Bikour!",
+  "source_url": "https://www.igdb.com/games/bikour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbe6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bikour!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "780080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/780080",
+        "Linux": "setsid steam steam://rungameid/780080",
+        "macOS": "open steam://rungameid/780080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/780080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bikour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81586"
+}

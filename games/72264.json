@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 72264,
+  "name": "Charlie II",
+  "source_url": "https://www.igdb.com/games/charlie-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66iq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Charlie II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777760",
+        "Linux": "setsid steam steam://rungameid/777760",
+        "macOS": "open steam://rungameid/777760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/777760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "charlie-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=72264"
+}

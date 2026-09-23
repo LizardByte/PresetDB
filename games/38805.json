@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 38805,
+  "name": "Edge of Hearts",
+  "source_url": "https://www.igdb.com/games/edge-of-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edge of Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "635000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/635000",
+        "Linux": "setsid steam steam://rungameid/635000",
+        "macOS": "open steam://rungameid/635000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/635000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "edge-of-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=38805"
+}

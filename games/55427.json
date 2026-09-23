@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55427,
+  "name": "ChefU",
+  "source_url": "https://www.igdb.com/games/chefu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ahu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ChefU",
+      "os": null,
+      "method": "steam",
+      "launch_id": "680640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/680640",
+        "Linux": "setsid steam steam://rungameid/680640",
+        "macOS": "open steam://rungameid/680640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/680640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chefu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55427"
+}

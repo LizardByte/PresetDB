@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14176,
+  "name": "Nevermind",
+  "source_url": "https://www.igdb.com/games/nevermind",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co250x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nevermind",
+      "os": null,
+      "method": "steam",
+      "launch_id": "342260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/342260",
+        "Linux": "setsid steam steam://rungameid/342260",
+        "macOS": "open steam://rungameid/342260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/342260",
+      "protondb": {
+        "tier": "silver",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "nevermind",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14176"
+}

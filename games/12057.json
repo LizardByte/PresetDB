@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12057,
+  "name": "Drakkhen",
+  "source_url": "https://www.igdb.com/games/drakkhen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3b7q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drakkhen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781220",
+        "Linux": "setsid steam steam://rungameid/781220",
+        "macOS": "open steam://rungameid/781220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/781220",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "drakkhen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12057"
+}

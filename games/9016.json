@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9016,
+  "name": "Apotheon",
+  "source_url": "https://www.igdb.com/games/apotheon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1opc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apotheon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "208750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/208750",
+        "Linux": "setsid steam steam://rungameid/208750",
+        "macOS": "open steam://rungameid/208750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/208750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "apotheon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9016"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81906,
+  "name": "Raceland",
+  "source_url": "https://www.igdb.com/games/raceland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbeh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raceland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "773240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/773240",
+        "Linux": "setsid steam steam://rungameid/773240",
+        "macOS": "open steam://rungameid/773240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/773240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "raceland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81906"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15842,
+  "name": "Perfect Universe",
+  "source_url": "https://www.igdb.com/games/perfect-universe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6iej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Perfect Universe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "405720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/405720",
+        "Linux": "setsid steam steam://rungameid/405720",
+        "macOS": "open steam://rungameid/405720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/405720",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "perfect-universe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15842"
+}

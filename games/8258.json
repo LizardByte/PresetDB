@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8258,
+  "name": "Street Fighter V",
+  "source_url": "https://www.igdb.com/games/street-fighter-v",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1pka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Street Fighter V",
+      "os": null,
+      "method": "steam",
+      "launch_id": "310950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/310950",
+        "Linux": "setsid steam steam://rungameid/310950",
+        "macOS": "open steam://rungameid/310950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/310950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "street-fighter-v",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8258"
+}

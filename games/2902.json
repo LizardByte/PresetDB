@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2902,
+  "name": "Dead Island: Epidemic",
+  "source_url": "https://www.igdb.com/games/dead-island-epidemic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ywn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Island: Epidemic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "222900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/222900",
+        "Linux": "setsid steam steam://rungameid/222900",
+        "macOS": "open steam://rungameid/222900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/222900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dead-island-epidemic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2902"
+}

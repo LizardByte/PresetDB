@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 65817,
+  "name": "InGame.exe",
+  "source_url": "https://www.igdb.com/games/ingame-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43lj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "InGame.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "705230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/705230",
+        "Linux": "setsid steam steam://rungameid/705230",
+        "macOS": "open steam://rungameid/705230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/705230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ingame-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=65817"
+}

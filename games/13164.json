@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13164,
+  "name": "The Dwarves",
+  "source_url": "https://www.igdb.com/games/the-dwarves",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z47.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dwarves",
+      "os": null,
+      "method": "steam",
+      "launch_id": "403970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/403970",
+        "Linux": "setsid steam steam://rungameid/403970",
+        "macOS": "open steam://rungameid/403970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/403970",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "the-dwarves",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13164"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80010,
+  "name": "Xeno Crisis",
+  "source_url": "https://www.igdb.com/games/xeno-crisis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uh0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xeno Crisis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "464260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/464260",
+        "Linux": "setsid steam steam://rungameid/464260",
+        "macOS": "open steam://rungameid/464260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/464260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "xeno-crisis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80010"
+}

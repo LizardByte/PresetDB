@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43123,
+  "name": "Tales of the Tiny Planet",
+  "source_url": "https://www.igdb.com/games/tales-of-the-tiny-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2320.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of the Tiny Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "616040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/616040",
+        "Linux": "setsid steam steam://rungameid/616040",
+        "macOS": "open steam://rungameid/616040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/616040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tales-of-the-tiny-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43123"
+}

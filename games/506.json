@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 506,
+  "name": "Sonic Generations",
+  "source_url": "https://www.igdb.com/games/sonic-generations",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zvv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sonic Generations",
+      "os": null,
+      "method": "steam",
+      "launch_id": "71340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/71340",
+        "Linux": "setsid steam steam://rungameid/71340",
+        "macOS": "open steam://rungameid/71340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/71340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sonic-generations",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=506"
+}

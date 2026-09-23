@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90333,
+  "name": "Neon Rage",
+  "source_url": "https://www.igdb.com/games/neon-rage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q2m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Rage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "723050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/723050",
+        "Linux": "setsid steam steam://rungameid/723050",
+        "macOS": "open steam://rungameid/723050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/723050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "neon-rage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90333"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8111,
+  "name": "Anno Online",
+  "source_url": "https://www.igdb.com/games/anno-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anno Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "336510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/336510",
+        "Linux": "setsid steam steam://rungameid/336510",
+        "macOS": "open steam://rungameid/336510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/336510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "anno-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8111"
+}

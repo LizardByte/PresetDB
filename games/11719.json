@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11719,
+  "name": "Rebel Galaxy",
+  "source_url": "https://www.igdb.com/games/rebel-galaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2e24.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rebel Galaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290300",
+        "Linux": "setsid steam steam://rungameid/290300",
+        "macOS": "open steam://rungameid/290300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290300",
+      "protondb": {
+        "tier": "gold",
+        "reports": 58
+      }
+    }
+  ],
+  "igdb_slug": "rebel-galaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11719"
+}

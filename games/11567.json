@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11567,
+  "name": "Elex",
+  "source_url": "https://www.igdb.com/games/elex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qv7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elex",
+      "os": null,
+      "method": "steam",
+      "launch_id": "411300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/411300",
+        "Linux": "setsid steam steam://rungameid/411300",
+        "macOS": "open steam://rungameid/411300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/411300",
+      "protondb": {
+        "tier": "gold",
+        "reports": 114
+      }
+    }
+  ],
+  "igdb_slug": "elex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11567"
+}

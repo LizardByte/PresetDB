@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10782,
+  "name": "Rocket Knight",
+  "source_url": "https://www.igdb.com/games/rocket-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uyg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocket Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "19030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/19030",
+        "Linux": "setsid steam steam://rungameid/19030",
+        "macOS": "open steam://rungameid/19030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/19030",
+      "protondb": {
+        "tier": "gold",
+        "reports": 15
+      }
+    }
+  ],
+  "igdb_slug": "rocket-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10782"
+}

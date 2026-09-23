@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1270,
+  "name": "Darksiders",
+  "source_url": "https://www.igdb.com/games/darksiders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29t0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darksiders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "50620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/50620",
+        "Linux": "setsid steam steam://rungameid/50620",
+        "macOS": "open steam://rungameid/50620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/50620",
+      "protondb": {
+        "tier": "silver",
+        "reports": 80
+      }
+    }
+  ],
+  "igdb_slug": "darksiders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1270"
+}

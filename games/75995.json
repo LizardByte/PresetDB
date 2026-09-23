@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75995,
+  "name": "Air Hockey",
+  "source_url": "https://www.igdb.com/games/air-hockey--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29eq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Air Hockey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "750330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/750330",
+        "Linux": "setsid steam steam://rungameid/750330",
+        "macOS": "open steam://rungameid/750330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/750330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "air-hockey--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75995"
+}

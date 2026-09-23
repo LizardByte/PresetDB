@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32005,
+  "name": "Russian VR Coasters",
+  "source_url": "https://www.igdb.com/games/russian-vr-coasters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ys4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Russian VR Coasters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "504100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/504100",
+        "Linux": "setsid steam steam://rungameid/504100",
+        "macOS": "open steam://rungameid/504100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/504100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "russian-vr-coasters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32005"
+}

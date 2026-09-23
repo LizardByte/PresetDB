@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 87754,
+  "name": "The Prison Game",
+  "source_url": "https://www.igdb.com/games/the-prison-game",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Prison Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "461990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/461990",
+        "Linux": "setsid steam steam://rungameid/461990",
+        "macOS": "open steam://rungameid/461990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/461990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-prison-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=87754"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81857,
+  "name": "NeoBalls",
+  "source_url": "https://www.igdb.com/games/neoballs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xbb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NeoBalls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771610",
+        "Linux": "setsid steam steam://rungameid/771610",
+        "macOS": "open steam://rungameid/771610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/771610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "neoballs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81857"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15273,
+  "name": "Waveform",
+  "source_url": "https://www.igdb.com/games/waveform",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fyd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waveform",
+      "os": null,
+      "method": "steam",
+      "launch_id": "204180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/204180",
+        "Linux": "setsid steam steam://rungameid/204180",
+        "macOS": "open steam://rungameid/204180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/204180",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "waveform",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15273"
+}

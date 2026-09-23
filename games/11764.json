@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11764,
+  "name": "The Plan",
+  "source_url": "https://www.igdb.com/games/the-plan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2v03.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Plan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "250600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/250600",
+        "Linux": "setsid steam steam://rungameid/250600",
+        "macOS": "open steam://rungameid/250600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/250600",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "the-plan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11764"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28721,
+  "name": "Yar's Revenge",
+  "source_url": "https://www.igdb.com/games/yars-revenge--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2u65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yar's Revenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "99120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/99120",
+        "Linux": "setsid steam steam://rungameid/99120",
+        "macOS": "open steam://rungameid/99120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/99120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yars-revenge--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28721"
+}

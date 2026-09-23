@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9073,
+  "name": "Deathmatch Classic",
+  "source_url": "https://www.igdb.com/games/deathmatch-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2o9k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deathmatch Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "40",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/40",
+        "Linux": "setsid steam steam://rungameid/40",
+        "macOS": "open steam://rungameid/40"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/40",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deathmatch-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9073"
+}

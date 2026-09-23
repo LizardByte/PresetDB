@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14711,
+  "name": "Kalimba",
+  "source_url": "https://www.igdb.com/games/kalimba",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qh3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kalimba",
+      "os": null,
+      "method": "steam",
+      "launch_id": "324140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/324140",
+        "Linux": "setsid steam steam://rungameid/324140",
+        "macOS": "open steam://rungameid/324140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/324140",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "kalimba",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14711"
+}

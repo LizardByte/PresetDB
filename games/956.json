@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 956,
+  "name": "Duke Nukem II",
+  "source_url": "https://www.igdb.com/games/duke-nukem-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nqa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duke Nukem II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "240180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/240180",
+        "Linux": "setsid steam steam://rungameid/240180",
+        "macOS": "open steam://rungameid/240180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/240180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "duke-nukem-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=956"
+}

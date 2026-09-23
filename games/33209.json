@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33209,
+  "name": "Spider Wars",
+  "source_url": "https://www.igdb.com/games/spider-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ye.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spider Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454580",
+        "Linux": "setsid steam steam://rungameid/454580",
+        "macOS": "open steam://rungameid/454580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spider-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33209"
+}

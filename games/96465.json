@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96465,
+  "name": "OboStar",
+  "source_url": "https://www.igdb.com/games/obostar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfsw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OboStar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "846370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/846370",
+        "Linux": "setsid steam steam://rungameid/846370",
+        "macOS": "open steam://rungameid/846370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/846370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "obostar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96465"
+}

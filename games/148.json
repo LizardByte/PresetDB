@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148,
+  "name": "Star Wars: Republic Commando",
+  "source_url": "https://www.igdb.com/games/star-wars-republic-commando",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2au4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Republic Commando",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6000",
+        "Linux": "setsid steam steam://rungameid/6000",
+        "macOS": "open steam://rungameid/6000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6000",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 73
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-republic-commando",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148"
+}

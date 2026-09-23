@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 58047,
+  "name": "Slay.one",
+  "source_url": "https://www.igdb.com/games/slay-dot-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qb3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slay.one",
+      "os": null,
+      "method": "steam",
+      "launch_id": "743350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/743350",
+        "Linux": "setsid steam steam://rungameid/743350",
+        "macOS": "open steam://rungameid/743350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/743350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slay-dot-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=58047"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33520,
+  "name": "Tross",
+  "source_url": "https://www.igdb.com/games/tross",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6sb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tross",
+      "os": null,
+      "method": "steam",
+      "launch_id": "443850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/443850",
+        "Linux": "setsid steam steam://rungameid/443850",
+        "macOS": "open steam://rungameid/443850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/443850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tross",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33520"
+}

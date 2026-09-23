@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36157,
+  "name": "Marvin's Mittens",
+  "source_url": "https://www.igdb.com/games/marvins-mittens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3npl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marvin's Mittens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "333260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/333260",
+        "Linux": "setsid steam steam://rungameid/333260",
+        "macOS": "open steam://rungameid/333260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/333260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "marvins-mittens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36157"
+}

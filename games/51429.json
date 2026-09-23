@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51429,
+  "name": "Ragnarok Re:Start",
+  "source_url": "https://www.igdb.com/games/ragnarok-re-start",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9ii.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ragnarok Re:Start",
+      "os": null,
+      "method": "steam",
+      "launch_id": "660330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/660330",
+        "Linux": "setsid steam steam://rungameid/660330",
+        "macOS": "open steam://rungameid/660330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/660330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ragnarok-re-start",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51429"
+}

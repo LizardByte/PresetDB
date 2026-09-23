@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83821,
+  "name": "Conquer",
+  "source_url": "https://www.igdb.com/games/conquer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcge.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Conquer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779240",
+        "Linux": "setsid steam steam://rungameid/779240",
+        "macOS": "open steam://rungameid/779240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/779240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "conquer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83821"
+}

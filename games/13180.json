@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13180,
+  "name": "Serious Sam HD: The First Encounter",
+  "source_url": "https://www.igdb.com/games/serious-sam-hd-the-first-encounter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2aye.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Serious Sam HD: The First Encounter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "41000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/41000",
+        "Linux": "setsid steam steam://rungameid/41000",
+        "macOS": "open steam://rungameid/41000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/41000",
+      "protondb": {
+        "tier": "silver",
+        "reports": 81
+      }
+    }
+  ],
+  "igdb_slug": "serious-sam-hd-the-first-encounter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13180"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9647,
+  "name": "Volume",
+  "source_url": "https://www.igdb.com/games/volume",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7kfr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Volume",
+      "os": null,
+      "method": "steam",
+      "launch_id": "365770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/365770",
+        "Linux": "setsid steam steam://rungameid/365770",
+        "macOS": "open steam://rungameid/365770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/365770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "volume",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9647"
+}

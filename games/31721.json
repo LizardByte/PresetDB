@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31721,
+  "name": "Hero Boy",
+  "source_url": "https://www.igdb.com/games/hero-boy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo0q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero Boy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512370",
+        "Linux": "setsid steam steam://rungameid/512370",
+        "macOS": "open steam://rungameid/512370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/512370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hero-boy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31721"
+}

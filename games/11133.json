@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11133,
+  "name": "Dark Souls III",
+  "source_url": "https://www.igdb.com/games/dark-souls-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9ed.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Souls III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "374320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/374320",
+        "Linux": "setsid steam steam://rungameid/374320",
+        "macOS": "open steam://rungameid/374320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/374320",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 732
+      }
+    }
+  ],
+  "igdb_slug": "dark-souls-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11133"
+}

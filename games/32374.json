@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32374,
+  "name": "Tower of Archeos",
+  "source_url": "https://www.igdb.com/games/tower-of-archeos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44th.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tower of Archeos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "499370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/499370",
+        "Linux": "setsid steam steam://rungameid/499370",
+        "macOS": "open steam://rungameid/499370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/499370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tower-of-archeos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32374"
+}

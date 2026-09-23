@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6781,
+  "name": "Starwhal",
+  "source_url": "https://www.igdb.com/games/starwhal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2218.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starwhal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "263020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/263020",
+        "Linux": "setsid steam steam://rungameid/263020",
+        "macOS": "open steam://rungameid/263020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/263020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starwhal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6781"
+}

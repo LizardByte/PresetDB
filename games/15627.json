@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15627,
+  "name": "Sub Command",
+  "source_url": "https://www.igdb.com/games/sub-command",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42jw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sub Command",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2920",
+        "Linux": "setsid steam steam://rungameid/2920",
+        "macOS": "open steam://rungameid/2920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2920",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "sub-command",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15627"
+}

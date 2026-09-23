@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14949,
+  "name": "Dead Horde",
+  "source_url": "https://www.igdb.com/games/dead-horde",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2424.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Horde",
+      "os": null,
+      "method": "steam",
+      "launch_id": "27940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/27940",
+        "Linux": "setsid steam steam://rungameid/27940",
+        "macOS": "open steam://rungameid/27940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/27940",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "dead-horde",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14949"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89004,
+  "name": "Wormster Dash",
+  "source_url": "https://www.igdb.com/games/wormster-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27gj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wormster Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "818050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/818050",
+        "Linux": "setsid steam steam://rungameid/818050",
+        "macOS": "open steam://rungameid/818050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/818050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wormster-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89004"
+}

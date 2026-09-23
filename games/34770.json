@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34770,
+  "name": "Tyler",
+  "source_url": "https://www.igdb.com/games/tyler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6c9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tyler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "390460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/390460",
+        "Linux": "setsid steam steam://rungameid/390460",
+        "macOS": "open steam://rungameid/390460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/390460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tyler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34770"
+}

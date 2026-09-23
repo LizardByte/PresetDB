@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9425,
+  "name": "Skullgirls",
+  "source_url": "https://www.igdb.com/games/skullgirls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2e3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skullgirls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "245170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/245170",
+        "Linux": "setsid steam steam://rungameid/245170",
+        "macOS": "open steam://rungameid/245170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/245170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skullgirls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9425"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11812,
+  "name": "Universe Sandbox Legacy",
+  "source_url": "https://www.igdb.com/games/universe-sandbox-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqc5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Universe Sandbox Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "72200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/72200",
+        "Linux": "setsid steam steam://rungameid/72200",
+        "macOS": "open steam://rungameid/72200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/72200",
+      "protondb": {
+        "tier": "borked",
+        "reports": 27
+      }
+    }
+  ],
+  "igdb_slug": "universe-sandbox-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11812"
+}

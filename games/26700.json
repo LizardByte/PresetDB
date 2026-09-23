@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26700,
+  "name": "Raging Loop",
+  "source_url": "https://www.igdb.com/games/raging-loop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tzv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raging Loop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "648100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/648100",
+        "Linux": "setsid steam steam://rungameid/648100",
+        "macOS": "open steam://rungameid/648100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/648100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "raging-loop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26700"
+}

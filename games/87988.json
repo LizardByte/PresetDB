@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 87988,
+  "name": "Triggered",
+  "source_url": "https://www.igdb.com/games/triggered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiay.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Triggered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "809200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/809200",
+        "Linux": "setsid steam steam://rungameid/809200",
+        "macOS": "open steam://rungameid/809200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/809200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "triggered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=87988"
+}

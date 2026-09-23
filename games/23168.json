@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23168,
+  "name": "100ft Robot Golf",
+  "source_url": "https://www.igdb.com/games/100ft-robot-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3kr7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "100ft Robot Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "368000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/368000",
+        "Linux": "setsid steam steam://rungameid/368000",
+        "macOS": "open steam://rungameid/368000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/368000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "100ft-robot-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23168"
+}

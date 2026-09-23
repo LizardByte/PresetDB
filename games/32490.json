@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32490,
+  "name": "Oese",
+  "source_url": "https://www.igdb.com/games/oese",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/knkobqu9ifha5pim5amy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oese",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485600",
+        "Linux": "setsid steam steam://rungameid/485600",
+        "macOS": "open steam://rungameid/485600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "oese",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32490"
+}

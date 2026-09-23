@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88330,
+  "name": "Feed Eve",
+  "source_url": "https://www.igdb.com/games/feed-eve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9vf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feed Eve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "790950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/790950",
+        "Linux": "setsid steam steam://rungameid/790950",
+        "macOS": "open steam://rungameid/790950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/790950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "feed-eve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88330"
+}

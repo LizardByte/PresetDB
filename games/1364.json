@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1364,
+  "name": "Wizorb",
+  "source_url": "https://www.igdb.com/games/wizorb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hd3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizorb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "207420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/207420",
+        "Linux": "setsid steam steam://rungameid/207420",
+        "macOS": "open steam://rungameid/207420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/207420",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "wizorb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1364"
+}

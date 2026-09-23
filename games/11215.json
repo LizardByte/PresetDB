@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11215,
+  "name": "Runbow",
+  "source_url": "https://www.igdb.com/games/runbow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vgd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runbow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "464650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/464650",
+        "Linux": "setsid steam steam://rungameid/464650",
+        "macOS": "open steam://rungameid/464650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/464650",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "runbow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11215"
+}

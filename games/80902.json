@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80902,
+  "name": "Mimic",
+  "source_url": "https://www.igdb.com/games/mimic",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mimic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "759980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/759980",
+        "Linux": "setsid steam steam://rungameid/759980",
+        "macOS": "open steam://rungameid/759980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/759980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mimic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80902"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36479,
+  "name": "Shiny Ninjas",
+  "source_url": "https://www.igdb.com/games/shiny-ninjas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co411q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shiny Ninjas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "629270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/629270",
+        "Linux": "setsid steam steam://rungameid/629270",
+        "macOS": "open steam://rungameid/629270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/629270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shiny-ninjas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36479"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68576,
+  "name": "Welcome to the Game II",
+  "source_url": "https://www.igdb.com/games/welcome-to-the-game-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3whz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to the Game II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "720250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/720250",
+        "Linux": "setsid steam steam://rungameid/720250",
+        "macOS": "open steam://rungameid/720250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/720250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "welcome-to-the-game-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68576"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16305,
+  "name": "My Singing Monsters",
+  "source_url": "https://www.igdb.com/games/my-singing-monsters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2y7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Singing Monsters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1419170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1419170",
+        "Linux": "setsid steam steam://rungameid/1419170",
+        "macOS": "open steam://rungameid/1419170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1419170",
+      "protondb": {
+        "tier": "gold",
+        "reports": 43
+      }
+    }
+  ],
+  "igdb_slug": "my-singing-monsters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16305"
+}

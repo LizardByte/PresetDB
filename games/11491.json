@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11491,
+  "name": "Zombi",
+  "source_url": "https://www.igdb.com/games/zombi--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22as.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "339230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/339230",
+        "Linux": "setsid steam steam://rungameid/339230",
+        "macOS": "open steam://rungameid/339230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/339230",
+      "protondb": {
+        "tier": "gold",
+        "reports": 22
+      }
+    }
+  ],
+  "igdb_slug": "zombi--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11491"
+}

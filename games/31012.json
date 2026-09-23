@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31012,
+  "name": "Mahjong",
+  "source_url": "https://www.igdb.com/games/mahjong--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5313.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mahjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "539270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/539270",
+        "Linux": "setsid steam steam://rungameid/539270",
+        "macOS": "open steam://rungameid/539270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/539270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mahjong--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31012"
+}

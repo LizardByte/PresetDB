@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14911,
+  "name": "Everyday Shooter",
+  "source_url": "https://www.igdb.com/games/everyday-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25c1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Everyday Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "16300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/16300",
+        "Linux": "setsid steam steam://rungameid/16300",
+        "macOS": "open steam://rungameid/16300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/16300",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "everyday-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14911"
+}

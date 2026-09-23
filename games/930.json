@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 930,
+  "name": "WarBirds",
+  "source_url": "https://www.igdb.com/games/warbirds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fan.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WarBirds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "365620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/365620",
+        "Linux": "setsid steam steam://rungameid/365620",
+        "macOS": "open steam://rungameid/365620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/365620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "warbirds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=930"
+}

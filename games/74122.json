@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74122,
+  "name": "Santa's Workshop",
+  "source_url": "https://www.igdb.com/games/santas-workshop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4d5d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Santa's Workshop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "727200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/727200",
+        "Linux": "setsid steam steam://rungameid/727200",
+        "macOS": "open steam://rungameid/727200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/727200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "santas-workshop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74122"
+}

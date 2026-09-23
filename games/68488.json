@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68488,
+  "name": "Once upon a time",
+  "source_url": "https://www.igdb.com/games/once-upon-a-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2dc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Once upon a time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "566410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/566410",
+        "Linux": "setsid steam steam://rungameid/566410",
+        "macOS": "open steam://rungameid/566410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/566410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "once-upon-a-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68488"
+}

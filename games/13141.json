@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13141,
+  "name": "Euclidean",
+  "source_url": "https://www.igdb.com/games/euclidean",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/gz4kmumktjzdpfvz9tm0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Euclidean",
+      "os": null,
+      "method": "steam",
+      "launch_id": "398180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/398180",
+        "Linux": "setsid steam steam://rungameid/398180",
+        "macOS": "open steam://rungameid/398180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/398180",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "euclidean",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13141"
+}

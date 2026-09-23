@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 14390,
+  "name": "Outlast II",
+  "source_url": "https://www.igdb.com/games/outlast-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20x8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outlast II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "414700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/414700",
+        "Linux": "setsid steam steam://rungameid/414700",
+        "macOS": "open steam://rungameid/414700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/414700",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 71
+      }
+    }
+  ],
+  "igdb_slug": "outlast-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=14390"
+}

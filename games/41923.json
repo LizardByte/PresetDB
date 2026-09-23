@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 41923,
+  "name": "RiotZ",
+  "source_url": "https://www.igdb.com/games/riotz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob93h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RiotZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "659460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/659460",
+        "Linux": "setsid steam steam://rungameid/659460",
+        "macOS": "open steam://rungameid/659460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/659460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "riotz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=41923"
+}

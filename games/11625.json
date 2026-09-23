@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11625,
+  "name": "The Room",
+  "source_url": "https://www.igdb.com/games/the-room--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27bf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "288160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/288160",
+        "Linux": "setsid steam steam://rungameid/288160",
+        "macOS": "open steam://rungameid/288160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/288160",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 86
+      }
+    }
+  ],
+  "igdb_slug": "the-room--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11625"
+}

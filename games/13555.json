@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13555,
+  "name": "Indivisible",
+  "source_url": "https://www.igdb.com/games/indivisible",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4n93.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Indivisible",
+      "os": null,
+      "method": "steam",
+      "launch_id": "421170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/421170",
+        "Linux": "setsid steam steam://rungameid/421170",
+        "macOS": "open steam://rungameid/421170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/421170",
+      "protondb": {
+        "tier": "gold",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "indivisible",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13555"
+}

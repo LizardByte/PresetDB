@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17502,
+  "name": "Battle Islands",
+  "source_url": "https://www.igdb.com/games/battle-islands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1o8o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Islands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "305260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/305260",
+        "Linux": "setsid steam steam://rungameid/305260",
+        "macOS": "open steam://rungameid/305260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/305260",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "battle-islands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17502"
+}

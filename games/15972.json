@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15972,
+  "name": "Spectromancer",
+  "source_url": "https://www.igdb.com/games/spectromancer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u3z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spectromancer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "22500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/22500",
+        "Linux": "setsid steam steam://rungameid/22500",
+        "macOS": "open steam://rungameid/22500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/22500",
+      "protondb": {
+        "tier": "gold",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "spectromancer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15972"
+}

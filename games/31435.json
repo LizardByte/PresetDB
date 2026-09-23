@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31435,
+  "name": "Black Forest",
+  "source_url": "https://www.igdb.com/games/black-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6duf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "523070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/523070",
+        "Linux": "setsid steam steam://rungameid/523070",
+        "macOS": "open steam://rungameid/523070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/523070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "black-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31435"
+}

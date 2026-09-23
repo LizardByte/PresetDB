@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34830,
+  "name": "Walkerman",
+  "source_url": "https://www.igdb.com/games/walkerman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3la5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Walkerman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "387100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/387100",
+        "Linux": "setsid steam steam://rungameid/387100",
+        "macOS": "open steam://rungameid/387100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/387100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "walkerman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34830"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31735,
+  "name": "One Giant Leap",
+  "source_url": "https://www.igdb.com/games/one-giant-leap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh4a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Giant Leap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512750",
+        "Linux": "setsid steam steam://rungameid/512750",
+        "macOS": "open steam://rungameid/512750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/512750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "one-giant-leap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31735"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151,
+  "name": "Star Wars: Rebellion",
+  "source_url": "https://www.igdb.com/games/star-wars-rebellion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jp7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Wars: Rebellion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "441550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/441550",
+        "Linux": "setsid steam steam://rungameid/441550",
+        "macOS": "open steam://rungameid/441550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/441550",
+      "protondb": {
+        "tier": "silver",
+        "reports": 18
+      }
+    }
+  ],
+  "igdb_slug": "star-wars-rebellion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12485,
+  "name": "Timelapse",
+  "source_url": "https://www.igdb.com/games/timelapse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44og.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Timelapse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433580",
+        "Linux": "setsid steam steam://rungameid/433580",
+        "macOS": "open steam://rungameid/433580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433580",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "timelapse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12485"
+}

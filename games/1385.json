@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1385,
+  "name": "War of the Roses",
+  "source_url": "https://www.igdb.com/games/war-of-the-roses",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sjg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War of the Roses",
+      "os": null,
+      "method": "steam",
+      "launch_id": "42160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/42160",
+        "Linux": "setsid steam steam://rungameid/42160",
+        "macOS": "open steam://rungameid/42160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/42160",
+      "protondb": {
+        "tier": "borked",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "war-of-the-roses",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1385"
+}

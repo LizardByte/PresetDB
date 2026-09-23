@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99239,
+  "name": "Simple Sailing",
+  "source_url": "https://www.igdb.com/games/simple-sailing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2435.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simple Sailing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854810",
+        "Linux": "setsid steam steam://rungameid/854810",
+        "macOS": "open steam://rungameid/854810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/854810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "simple-sailing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99239"
+}

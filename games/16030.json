@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16030,
+  "name": "Pound of Ground",
+  "source_url": "https://www.igdb.com/games/pound-of-ground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3viy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pound of Ground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "33980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/33980",
+        "Linux": "setsid steam steam://rungameid/33980",
+        "macOS": "open steam://rungameid/33980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/33980",
+      "protondb": {
+        "tier": "silver",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "pound-of-ground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16030"
+}

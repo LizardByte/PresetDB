@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25534,
+  "name": "Nelo",
+  "source_url": "https://www.igdb.com/games/nelo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27xv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nelo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "537000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/537000",
+        "Linux": "setsid steam steam://rungameid/537000",
+        "macOS": "open steam://rungameid/537000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/537000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nelo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25534"
+}

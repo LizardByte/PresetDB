@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1156,
+  "name": "Tomb Raider II",
+  "source_url": "https://www.igdb.com/games/tomb-raider-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3whn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tomb Raider II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "225300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/225300",
+        "Linux": "setsid steam steam://rungameid/225300",
+        "macOS": "open steam://rungameid/225300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/225300",
+      "protondb": {
+        "tier": "gold",
+        "reports": 43
+      }
+    }
+  ],
+  "igdb_slug": "tomb-raider-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1156"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30360,
+  "name": "MidBoss",
+  "source_url": "https://www.igdb.com/games/midboss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24zl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MidBoss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "561740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/561740",
+        "Linux": "setsid steam steam://rungameid/561740",
+        "macOS": "open steam://rungameid/561740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/561740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "midboss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30360"
+}

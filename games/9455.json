@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9455,
+  "name": "Tank Universal",
+  "source_url": "https://www.igdb.com/games/tank-universal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/ezxssivflentg2lumcnr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tank Universal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "19200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/19200",
+        "Linux": "setsid steam steam://rungameid/19200",
+        "macOS": "open steam://rungameid/19200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/19200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tank-universal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9455"
+}

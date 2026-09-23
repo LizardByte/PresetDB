@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15136,
+  "name": "Storm in a Teacup",
+  "source_url": "https://www.igdb.com/games/storm-in-a-teacup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co424v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Storm in a Teacup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "104020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/104020",
+        "Linux": "setsid steam steam://rungameid/104020",
+        "macOS": "open steam://rungameid/104020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/104020",
+      "protondb": {
+        "tier": "silver",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "storm-in-a-teacup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15136"
+}

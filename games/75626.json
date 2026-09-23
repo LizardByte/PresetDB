@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75626,
+  "name": "Remaya Idle",
+  "source_url": "https://www.igdb.com/games/remaya-idle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobayb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Remaya Idle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "731880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/731880",
+        "Linux": "setsid steam steam://rungameid/731880",
+        "macOS": "open steam://rungameid/731880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/731880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "remaya-idle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75626"
+}

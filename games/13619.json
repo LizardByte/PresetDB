@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13619,
+  "name": "Press X to Not Die",
+  "source_url": "https://www.igdb.com/games/press-x-to-not-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2uak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Press X to Not Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "402330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/402330",
+        "Linux": "setsid steam steam://rungameid/402330",
+        "macOS": "open steam://rungameid/402330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/402330",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "press-x-to-not-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13619"
+}

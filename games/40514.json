@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 40514,
+  "name": "The Wall",
+  "source_url": "https://www.igdb.com/games/the-wall--5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5tu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "635070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/635070",
+        "Linux": "setsid steam steam://rungameid/635070",
+        "macOS": "open steam://rungameid/635070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/635070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-wall--5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=40514"
+}

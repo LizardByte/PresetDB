@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30647,
+  "name": "Abandon Ship",
+  "source_url": "https://www.igdb.com/games/abandon-ship",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qfa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abandon Ship",
+      "os": null,
+      "method": "steam",
+      "launch_id": "551860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/551860",
+        "Linux": "setsid steam steam://rungameid/551860",
+        "macOS": "open steam://rungameid/551860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/551860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "abandon-ship",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30647"
+}

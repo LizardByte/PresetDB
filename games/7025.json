@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7025,
+  "name": "Jurassic Park: The Game",
+  "source_url": "https://www.igdb.com/games/jurassic-park-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24pl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jurassic Park: The Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "201830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/201830",
+        "Linux": "setsid steam steam://rungameid/201830",
+        "macOS": "open steam://rungameid/201830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/201830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jurassic-park-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7025"
+}

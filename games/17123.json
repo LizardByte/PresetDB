@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17123,
+  "name": "Munin",
+  "source_url": "https://www.igdb.com/games/munin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nzv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Munin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "281750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/281750",
+        "Linux": "setsid steam steam://rungameid/281750",
+        "macOS": "open steam://rungameid/281750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/281750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "munin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17123"
+}

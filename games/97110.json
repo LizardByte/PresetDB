@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97110,
+  "name": "30 Seconds to Jail",
+  "source_url": "https://www.igdb.com/games/30-seconds-to-jail",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6hiw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "30 Seconds to Jail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817770",
+        "Linux": "setsid steam steam://rungameid/817770",
+        "macOS": "open steam://rungameid/817770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/817770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "30-seconds-to-jail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97110"
+}

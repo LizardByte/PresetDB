@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86601,
+  "name": "FukTopia",
+  "source_url": "https://www.igdb.com/games/fuktopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg33.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FukTopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "795490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/795490",
+        "Linux": "setsid steam steam://rungameid/795490",
+        "macOS": "open steam://rungameid/795490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/795490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fuktopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86601"
+}

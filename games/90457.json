@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90457,
+  "name": "Fetch It Again",
+  "source_url": "https://www.igdb.com/games/fetch-it-again",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4k7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fetch It Again",
+      "os": null,
+      "method": "steam",
+      "launch_id": "12650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/12650",
+        "Linux": "setsid steam steam://rungameid/12650",
+        "macOS": "open steam://rungameid/12650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/12650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fetch-it-again",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90457"
+}

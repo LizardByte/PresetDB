@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15282,
+  "name": "Auditorium",
+  "source_url": "https://www.igdb.com/games/auditorium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co248e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Auditorium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "205870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/205870",
+        "Linux": "setsid steam steam://rungameid/205870",
+        "macOS": "open steam://rungameid/205870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/205870",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "auditorium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15282"
+}

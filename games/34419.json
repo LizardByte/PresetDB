@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34419,
+  "name": "The Worm",
+  "source_url": "https://www.igdb.com/games/the-worm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44l4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Worm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "405070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/405070",
+        "Linux": "setsid steam steam://rungameid/405070",
+        "macOS": "open steam://rungameid/405070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/405070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-worm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34419"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 84094,
+  "name": "Balloon",
+  "source_url": "https://www.igdb.com/games/balloon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc60.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Balloon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "792810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/792810",
+        "Linux": "setsid steam steam://rungameid/792810",
+        "macOS": "open steam://rungameid/792810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/792810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "balloon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=84094"
+}

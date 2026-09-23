@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16302,
+  "name": "Emily Wants to Play",
+  "source_url": "https://www.igdb.com/games/emily-wants-to-play",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co214i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emily Wants to Play",
+      "os": null,
+      "method": "steam",
+      "launch_id": "416590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/416590",
+        "Linux": "setsid steam steam://rungameid/416590",
+        "macOS": "open steam://rungameid/416590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/416590",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "emily-wants-to-play",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16302"
+}

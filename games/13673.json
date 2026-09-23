@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 13673,
+  "name": "Micron",
+  "source_url": "https://www.igdb.com/games/micron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2chk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Micron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290380",
+        "Linux": "setsid steam steam://rungameid/290380",
+        "macOS": "open steam://rungameid/290380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "micron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=13673"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32098,
+  "name": "Secret Santa",
+  "source_url": "https://www.igdb.com/games/secret-santa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jq6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Secret Santa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500690",
+        "Linux": "setsid steam steam://rungameid/500690",
+        "macOS": "open steam://rungameid/500690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "secret-santa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32098"
+}

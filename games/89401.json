@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89401,
+  "name": "Psychoballs",
+  "source_url": "https://www.igdb.com/games/psychoballs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4kq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psychoballs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801840",
+        "Linux": "setsid steam steam://rungameid/801840",
+        "macOS": "open steam://rungameid/801840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "psychoballs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89401"
+}

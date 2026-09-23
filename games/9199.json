@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9199,
+  "name": "M.U.D. TV",
+  "source_url": "https://www.igdb.com/games/mud-tv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47mk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "M.U.D. TV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "43500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/43500",
+        "Linux": "setsid steam steam://rungameid/43500",
+        "macOS": "open steam://rungameid/43500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/43500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mud-tv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9199"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 12,
+  "name": "Vampire: The Masquerade - Redemption",
+  "source_url": "https://www.igdb.com/games/vampire-the-masquerade-redemption",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7nl9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vampire: The Masquerade - Redemption",
+      "os": null,
+      "method": "steam",
+      "launch_id": "559680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/559680",
+        "Linux": "setsid steam steam://rungameid/559680",
+        "macOS": "open steam://rungameid/559680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/559680",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "vampire-the-masquerade-redemption",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=12"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4101,
+  "name": "Second Sight",
+  "source_url": "https://www.igdb.com/games/second-sight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wii.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Second Sight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "11550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/11550",
+        "Linux": "setsid steam steam://rungameid/11550",
+        "macOS": "open steam://rungameid/11550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/11550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "second-sight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4101"
+}

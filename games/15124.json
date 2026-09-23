@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15124,
+  "name": "Trauma",
+  "source_url": "https://www.igdb.com/games/trauma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2k38.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trauma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "98100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/98100",
+        "Linux": "setsid steam steam://rungameid/98100",
+        "macOS": "open steam://rungameid/98100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/98100",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "trauma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15124"
+}

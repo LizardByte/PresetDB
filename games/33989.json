@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33989,
+  "name": "Dark Days",
+  "source_url": "https://www.igdb.com/games/dark-days",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z8h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Days",
+      "os": null,
+      "method": "steam",
+      "launch_id": "422020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/422020",
+        "Linux": "setsid steam steam://rungameid/422020",
+        "macOS": "open steam://rungameid/422020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/422020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dark-days",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33989"
+}

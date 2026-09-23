@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15932,
+  "name": "Windlands",
+  "source_url": "https://www.igdb.com/games/windlands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Windlands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "428370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/428370",
+        "Linux": "setsid steam steam://rungameid/428370",
+        "macOS": "open steam://rungameid/428370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/428370",
+      "protondb": {
+        "tier": "gold",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "windlands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15932"
+}

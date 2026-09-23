@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23274,
+  "name": "Bunch of Heroes",
+  "source_url": "https://www.igdb.com/games/bunch-of-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunch of Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "111400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/111400",
+        "Linux": "setsid steam steam://rungameid/111400",
+        "macOS": "open steam://rungameid/111400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/111400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bunch-of-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23274"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1162,
+  "name": "Tomb Raider: Anniversary",
+  "source_url": "https://www.igdb.com/games/tomb-raider-anniversary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaesz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tomb Raider: Anniversary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "8000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/8000",
+        "Linux": "setsid steam steam://rungameid/8000",
+        "macOS": "open steam://rungameid/8000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/8000",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 124
+      }
+    }
+  ],
+  "igdb_slug": "tomb-raider-anniversary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1162"
+}

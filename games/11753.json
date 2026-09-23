@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11753,
+  "name": "Sheltered",
+  "source_url": "https://www.igdb.com/games/sheltered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sheltered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "356040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/356040",
+        "Linux": "setsid steam steam://rungameid/356040",
+        "macOS": "open steam://rungameid/356040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/356040",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "sheltered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11753"
+}

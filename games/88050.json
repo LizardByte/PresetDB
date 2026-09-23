@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88050,
+  "name": "League of Survivors",
+  "source_url": "https://www.igdb.com/games/league-of-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobky2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "League of Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802410",
+        "Linux": "setsid steam steam://rungameid/802410",
+        "macOS": "open steam://rungameid/802410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/802410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "league-of-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88050"
+}

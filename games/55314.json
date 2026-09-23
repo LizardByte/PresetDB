@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55314,
+  "name": "Tarim",
+  "source_url": "https://www.igdb.com/games/tarim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7hr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tarim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603060",
+        "Linux": "setsid steam steam://rungameid/603060",
+        "macOS": "open steam://rungameid/603060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/603060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tarim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55314"
+}

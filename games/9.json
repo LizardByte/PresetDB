@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9,
+  "name": "Jagged Alliance 2",
+  "source_url": "https://www.igdb.com/games/jagged-alliance-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28qh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jagged Alliance 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1620",
+        "Linux": "setsid steam steam://rungameid/1620",
+        "macOS": "open steam://rungameid/1620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jagged-alliance-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9"
+}

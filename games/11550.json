@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11550,
+  "name": "Endless Space 2",
+  "source_url": "https://www.igdb.com/games/endless-space-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2svr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Space 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "392110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/392110",
+        "Linux": "setsid steam steam://rungameid/392110",
+        "macOS": "open steam://rungameid/392110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/392110",
+      "protondb": {
+        "tier": "gold",
+        "reports": 211
+      }
+    }
+  ],
+  "igdb_slug": "endless-space-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11550"
+}

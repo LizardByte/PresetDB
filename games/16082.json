@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16082,
+  "name": "Magnetis",
+  "source_url": "https://www.igdb.com/games/magnetis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/aa7nfinpnxcqevmqf6kc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magnetis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "37500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/37500",
+        "Linux": "setsid steam steam://rungameid/37500",
+        "macOS": "open steam://rungameid/37500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/37500",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "magnetis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16082"
+}

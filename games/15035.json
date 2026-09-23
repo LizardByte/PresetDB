@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15035,
+  "name": "CreaVures",
+  "source_url": "https://www.igdb.com/games/creavures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jpv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CreaVures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "49810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/49810",
+        "Linux": "setsid steam steam://rungameid/49810",
+        "macOS": "open steam://rungameid/49810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/49810",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "creavures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15035"
+}

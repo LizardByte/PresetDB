@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30264,
+  "name": "The Station",
+  "source_url": "https://www.igdb.com/games/the-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co203b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565120",
+        "Linux": "setsid steam steam://rungameid/565120",
+        "macOS": "open steam://rungameid/565120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/565120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30264"
+}

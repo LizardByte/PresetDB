@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68106,
+  "name": "Switchblade",
+  "source_url": "https://www.igdb.com/games/switchblade--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42t0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Switchblade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "585630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/585630",
+        "Linux": "setsid steam steam://rungameid/585630",
+        "macOS": "open steam://rungameid/585630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/585630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "switchblade--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68106"
+}

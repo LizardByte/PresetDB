@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10094,
+  "name": "Cities XXL",
+  "source_url": "https://www.igdb.com/games/cities-xxl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n61.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cities XXL",
+      "os": null,
+      "method": "steam",
+      "launch_id": "313010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/313010",
+        "Linux": "setsid steam steam://rungameid/313010",
+        "macOS": "open steam://rungameid/313010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/313010",
+      "protondb": {
+        "tier": "silver",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "cities-xxl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10094"
+}

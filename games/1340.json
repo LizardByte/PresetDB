@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1340,
+  "name": "Dustforce DX",
+  "source_url": "https://www.igdb.com/games/dustforce-dx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2oxt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dustforce DX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "65300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/65300",
+        "Linux": "setsid steam steam://rungameid/65300",
+        "macOS": "open steam://rungameid/65300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/65300",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "dustforce-dx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1340"
+}

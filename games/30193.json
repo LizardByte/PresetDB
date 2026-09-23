@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30193,
+  "name": "The Search",
+  "source_url": "https://www.igdb.com/games/the-search",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23dy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Search",
+      "os": null,
+      "method": "steam",
+      "launch_id": "566190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/566190",
+        "Linux": "setsid steam steam://rungameid/566190",
+        "macOS": "open steam://rungameid/566190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/566190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-search",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30193"
+}

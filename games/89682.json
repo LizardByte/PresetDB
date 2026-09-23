@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89682,
+  "name": "Chop",
+  "source_url": "https://www.igdb.com/games/chop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co268k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "755920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/755920",
+        "Linux": "setsid steam steam://rungameid/755920",
+        "macOS": "open steam://rungameid/755920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/755920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89682"
+}

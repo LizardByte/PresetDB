@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93782,
+  "name": "Sloppy Goat",
+  "source_url": "https://www.igdb.com/games/sloppy-goat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91dd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sloppy Goat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "823360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/823360",
+        "Linux": "setsid steam steam://rungameid/823360",
+        "macOS": "open steam://rungameid/823360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/823360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sloppy-goat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93782"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33386,
+  "name": "Bacteria",
+  "source_url": "https://www.igdb.com/games/bacteria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bacteria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "448470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/448470",
+        "Linux": "setsid steam steam://rungameid/448470",
+        "macOS": "open steam://rungameid/448470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/448470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bacteria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33386"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54334,
+  "name": "Call Me Skyfish",
+  "source_url": "https://www.igdb.com/games/call-me-skyfish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a88.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Call Me Skyfish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "690220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/690220",
+        "Linux": "setsid steam steam://rungameid/690220",
+        "macOS": "open steam://rungameid/690220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/690220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "call-me-skyfish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54334"
+}

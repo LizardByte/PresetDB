@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9761,
+  "name": "Cut the Rope",
+  "source_url": "https://www.igdb.com/games/cut-the-rope",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49nr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cut the Rope",
+      "os": null,
+      "method": "steam",
+      "launch_id": "223280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/223280",
+        "Linux": "setsid steam steam://rungameid/223280",
+        "macOS": "open steam://rungameid/223280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/223280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cut-the-rope",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9761"
+}

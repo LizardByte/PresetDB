@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10524,
+  "name": "Lunar Flight",
+  "source_url": "https://www.igdb.com/games/lunar-flight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gwp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lunar Flight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "208600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/208600",
+        "Linux": "setsid steam steam://rungameid/208600",
+        "macOS": "open steam://rungameid/208600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/208600",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "lunar-flight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10524"
+}

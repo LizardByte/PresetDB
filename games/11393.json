@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11393,
+  "name": "Chaos;Child",
+  "source_url": "https://www.igdb.com/games/chaos-child",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26xc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chaos;Child",
+      "os": null,
+      "method": "steam",
+      "launch_id": "970570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/970570",
+        "Linux": "setsid steam steam://rungameid/970570",
+        "macOS": "open steam://rungameid/970570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/970570",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 31
+      }
+    }
+  ],
+  "igdb_slug": "chaos-child",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11393"
+}
