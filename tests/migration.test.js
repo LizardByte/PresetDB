@@ -85,6 +85,7 @@ test('first migration rewrites a legacy Steam preset ID, commands, and storage k
   const migrated = JSON.parse(fs.readFileSync(file, 'utf8'));
   assert.equal(migrated.schema_version, 2);
   assert.equal(migrated.presets[0].id, '4');
+  assert.equal(migrated.presets[0].name, '007 First Light');
   assert.deepEqual(migrated.presets[0].commands_by_os, {
     Windows: 'steam://rungameid/3768760',
     Linux: 'setsid steam steam://rungameid/3768760',

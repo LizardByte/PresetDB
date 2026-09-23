@@ -53,7 +53,7 @@ jobs:
           EVENT_FILE: ${{ github.event_path }}
           TWITCH_CLIENT_ID: ${{ secrets.TWITCH_CLIENT_ID }}
           TWITCH_CLIENT_SECRET: ${{ secrets.TWITCH_CLIENT_SECRET }}
-        run: node src/issue.js --event "$EVENT_FILE" --database database-branch/database --mode check --report report.md
+        run: node src/issue.js --event "$EVENT_FILE" --database database-branch/database --mode check --report report.md --title-output issue-title.txt
 
       - name: Post result
         if: always() && hashFiles('report.md') != ''
@@ -61,6 +61,22 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
         run: gh issue comment "$ISSUE_NUMBER" --body-file report.md
+
+      - name: Update issue title
+        if: steps.validate.outcome == 'success'
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
+        with:
+          github-token: ${{ github.token }}
+          script: |
+            const fs = require('node:fs')
+            const title = fs.readFileSync('issue-title.txt', 'utf8').trim()
+            if (context.payload.issue.title !== title) {
+              await github.rest.issues.update({
+                ...context.repo,
+                issue_number: context.issue.number,
+                title
+              })
+            }
 
       - name: Queue trusted game submission
         if: steps.validate.outcome == 'success' && contains(github.event.issue.labels.*.name, 'request-game-preset')

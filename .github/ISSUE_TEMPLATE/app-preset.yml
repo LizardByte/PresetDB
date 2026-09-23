@@ -9,7 +9,7 @@ body:
     attributes:
       value: |
         Apps have no GameDB record. A maintainer reviews the official URL and command before approval.
-        Submit one host OS and command per issue. The preset name is generated from the app name and OS.
+        Submit one host OS and command per issue. The preset name is the app name; the host OS is shown separately.
   - type: input
     id: app_name
     attributes:

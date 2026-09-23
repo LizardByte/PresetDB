@@ -1,6 +1,6 @@
 # Preset Guidelines
 
-One issue requests one launch option. Native, GOG, and app commands target a chosen host OS. Store IDs generate commands for each supported launcher OS; emulator commands must be portable across hosts. Submit another issue for a different store, emulator, or core. The bot generates names from the game or app name and launch method, plus the host OS when selected.
+One issue requests one launch option. Native, GOG, and app commands target a chosen host OS. Store IDs generate commands for each supported launcher OS; emulator commands must be portable across hosts. Submit another issue for a different store, emulator, or core. The bot uses the game or app name as the preset name. Launch method, host OS, and emulator variant are separate metadata shown as badges on the website. The request check fills in the issue title after validation.
 
 ## Games
 
@@ -10,7 +10,7 @@ Choose the Native, Steam, Epic Games, GOG, Microsoft Store, or Emulator issue fo
 
 ## Apps
 
-Provide the official HTTPS homepage or source repository. An app image is optional and must be an HTTPS URL. App requests have no launch method or variant field; the generated name uses the app name and OS. App requests have no GameDB record and always require separate maintainer review.
+Provide the official HTTPS homepage or source repository. An app image is optional and must be an HTTPS URL. App requests have no launch method or variant field; the generated preset name uses only the app name. App requests have no GameDB record and always require separate maintainer review.
 
 ## Commands and paths
 

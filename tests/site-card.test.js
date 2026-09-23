@@ -48,7 +48,8 @@ test('site card changes host command and copies command and Sunshine JSON', asyn
   });
 
   const card = renderPresetCard({
-    name: 'Example (Steam)',
+    name: 'Example',
+    method: 'steam',
     notes: 'Install Steam first.',
     commands_by_os: {
       Windows: 'steam://rungameid/464920',
@@ -63,6 +64,8 @@ test('site card changes host command and copies command and Sunshine JSON', asyn
   const codes = findAll(card, 'code');
   const buttons = findAll(card, 'button');
   assert.equal(select.value, 'Windows');
+  assert.ok(findAll(card, 'span').some(badge => badge.textContent === 'Steam'));
+  assert.equal(JSON.parse(codes[1].textContent).name, 'Example');
   assert.equal(codes[0].textContent, 'steam://rungameid/464920');
   assert.equal(JSON.parse(codes[1].textContent).cmd, 'steam://rungameid/464920');
   assert.ok(findAll(card, 'a').some(link => link.href?.endsWith('/issues/4')));
@@ -85,7 +88,15 @@ test('site card changes host command and copies command and Sunshine JSON', asyn
   assert.match(buttons[0].textContent, /Select and copy the command/);
   assert.match(buttons[1].textContent, /Select and copy the JSON/);
 
-  const native = renderPresetCard({ name: 'Example (Windows)', command: 'example.exe' });
+  const native = renderPresetCard({ name: 'Example', method: 'native', os: 'Windows', command: 'example.exe' });
   assert.equal(findAll(native, 'select').length, 0);
   assert.equal(findAll(native, 'code')[0].textContent, 'example.exe');
+  assert.deepEqual(findAll(native, 'span').map(badge => badge.textContent), ['Native', 'Windows']);
+  const app = renderPresetCard({ name: 'App One', method: 'native', os: 'Linux',
+    command: 'app-one' }, 'app');
+  assert.deepEqual(findAll(app, 'span').map(badge => badge.textContent), ['Linux']);
+  const emulator = renderPresetCard({ name: 'Example', method: 'emulator',
+    variant_name: 'RetroArch Snes9x', command: 'retroarch' });
+  assert.deepEqual(findAll(emulator, 'span').map(badge => badge.textContent),
+    ['Emulator', 'RetroArch Snes9x']);
 });

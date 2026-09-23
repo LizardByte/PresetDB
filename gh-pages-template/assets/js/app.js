@@ -80,6 +80,26 @@ function appendProtonRating(body, preset) {
   body.append(proton);
 }
 
+function appendPresetBadges(body, preset, kind) {
+  const badges = [];
+  const methods = {
+    native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games',
+    gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
+  };
+  if (kind === 'game' && methods[preset.method]) {
+    badges.push(element('span', 'badge rounded-pill bg-warning text-dark me-2', methods[preset.method]));
+  }
+  if (preset.os) badges.push(element('span', 'badge rounded-pill bg-secondary me-2', preset.os));
+  if (preset.variant_name) {
+    badges.push(element('span', 'badge rounded-pill bg-info text-dark me-2', preset.variant_name));
+  }
+  if (badges.length) {
+    const row = element('div', 'mb-3');
+    row.append(...badges);
+    body.append(row);
+  }
+}
+
 function hostSelection(body, preset) {
   if (!preset.commands_by_os) return null;
   const label = element('label', 'form-label', 'Host OS');
@@ -109,11 +129,12 @@ function appendIssueLinks(body, preset) {
   }
 }
 
-function renderPresetCard(preset) {
+function renderPresetCard(preset, kind = 'game') {
   const column = element('div', 'col');
   const card = element('article', 'card h-100 rounded-0 shadow-sm');
   const body = element('div', 'card-body');
   body.append(element('h3', 'h5 card-title fw-bold', preset.name));
+  appendPresetBadges(body, preset, kind);
   if (preset.notes) body.append(element('p', 'card-text', preset.notes));
   appendProtonRating(body, preset);
   const hostSelect = hostSelection(body, preset);
@@ -212,7 +233,7 @@ function boot() {
       if (image) detail.prepend(image);
       if (record.game_db_url) detail.append(element('span', 'mx-2'), safeLink(record.game_db_url, 'View in GameDB ↗'));
       const presets = element('div', 'row row-cols-1 row-cols-lg-2 g-4 mt-2');
-      for (const preset of record.presets) presets.append(renderPresetCard(preset));
+      for (const preset of record.presets) presets.append(renderPresetCard(preset, item.kind));
       detail.append(presets);
       detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
     } catch (error) {

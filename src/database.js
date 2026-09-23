@@ -44,20 +44,6 @@ function prepareRecord(root, preset) {
   return { file, record, name };
 }
 
-function methodLabel(method) {
-  return {
-    native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games',
-    gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
-  }[method];
-}
-
-function displayName(name, preset) {
-  if (preset.kind === 'app') return `${name} (${preset.os})`;
-  const method = methodLabel(preset.method);
-  const variant = preset.variantName ? `: ${preset.variantName}` : '';
-  return preset.os ? name + ' (' + preset.os + ', ' + method + variant + ')' : name + ' (' + method + variant + ')';
-}
-
 function replacementIndex(record, preset) {
   const previous = preset.replacementIssue == null ? -1 : record.presets.findIndex(item =>
     item.origin_issue === preset.replacementIssue || item.source_issue === preset.replacementIssue
@@ -89,9 +75,8 @@ function mergePreset(root, preset, {
     issue: issueNumber, action: previous >= 0 ? 'replace' : 'add',
     author_id: authorId, author_login: authorLogin, approved_at: approvedAt
   });
-  const generatedName = displayName(name, preset);
   const entry = {
-    id: presetId, name: generatedName, os: preset.os, method: preset.method,
+    id: presetId, name, os: preset.os, method: preset.method,
     ...(preset.variantName ? { variant_name: preset.variantName } : {}),
     ...(preset.launchId ? { launch_id: preset.launchId } : {}),
     ...(preset.commandsByOs

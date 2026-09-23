@@ -19,13 +19,13 @@
   <a href="https://github.com/LizardByte/PresetDB/issues?q=is%3Aclosed+label%3Aapprove-preset"><img src="https://img.shields.io/github/issues-closed/LizardByte/PresetDB/approve-preset.svg?style=for-the-badge&label=approved&color=green" alt="Approved requests"></a>
 </div>
 
-Community maintained game and app launch presets, with [Sunshine](https://github.com/LizardByte/Sunshine) as the primary consumer. Each game or app can have many presets. Native, GOG, and app commands target a chosen host OS. Steam, Epic Games, and Microsoft Store submissions use a launch ID to generate commands for their supported launcher OSes; emulator submissions use a portable command. GitHub issue numbers provide stable IDs, while the bot generates names and accepts optional emulator variants.
+Community maintained game and app launch presets, with [Sunshine](https://github.com/LizardByte/Sunshine) as the primary consumer. Each game or app can have many presets. Native, GOG, and app commands target a chosen host OS. Steam, Epic Games, and Microsoft Store submissions use a launch ID to generate commands for their supported launcher OSes; emulator submissions use a portable command. GitHub issue numbers provide stable IDs. Preset names use the game or app name; launch method, host OS, and optional emulator variant stay in separate fields.
 
 Each GitHub issue requests **one preset**. Game requests must identify a [GameDB](https://app.lizardbyte.dev/GameDB/) record. App requests use a separate form and require a name and official source URL for maintainer review. A bot validates the request, and an authorized reviewer enters it into the approval queue. No code or pull request is needed to contribute.
 
 ## Browse and use
 
-The [website](https://app.lizardbyte.dev/PresetDB/) shows games and apps with available presets. Each preset shows its launch command and offers a Sunshine application JSON export. Replace supported path placeholders with paths on your host. Review community commands before running them. Game cover images come from GameDB; app images are submitted as HTTPS URLs for the catalog. These image URLs are not used as Sunshine `image-path` values, which require local files.
+The [website](https://app.lizardbyte.dev/PresetDB/) shows games and apps with available presets. Each preset shows its launch method and host details as badges, its launch command, and a Sunshine application JSON export. The exported application name is the game or app name. Replace supported path placeholders with paths on your host. Review community commands before running them. Game cover images come from GameDB; app images are submitted as HTTPS URLs for the catalog. These image URLs are not used as Sunshine `image-path` values, which require local files.
 
 The published JSON API contains `index.json`, `games/<IGDB ID>.json`, and `apps/<app slug>.json`. GameDB uses the same numeric game IDs as IGDB. An entry contains all its presets. Each preset receives the originating issue number as a stable string ID, such as "4". Records use schema version 2 with a `command` field or a `commands_by_os` map and an optional `working_directory`; the website builds Sunshine JSON from these generic fields. The migration workflow updates version 1 records on the database branch; site and approval reads also convert them during the rollout.
 
@@ -46,7 +46,7 @@ The website publishes [catalog statistics](https://app.lizardbyte.dev/PresetDB/s
 ## Contribute
 
 1. Read the [preset guidelines](docs/presetGuidelines.md). For a game, copy its [IGDB game URL](https://www.igdb.com/) and [choose a game method form](https://github.com/LizardByte/PresetDB/issues/new/choose). The bot resolves the URL slug to the IGDB numeric ID and checks GameDB. For another app, [open an app preset request](https://github.com/LizardByte/PresetDB/issues/new?template=app-preset.yml) with its official URL.
-2. Fill in one launch option. Native and GOG forms ask for the host OS. Store forms ask only for the launch ID; the emulator form asks for a portable command and an optional variant name. The bot generates the preset name. App requests still ask for the host OS.
+2. Fill in one launch option. Native and GOG forms ask for the host OS. Store forms ask only for the launch ID; the emulator form asks for a portable command and an optional variant name. The bot derives the issue title and preset name from the validated game or app name. App requests still ask for the host OS.
 3. The store forms share one Launch ID concept: a numeric Steam app ID, an Epic three-part launch ID, or a Microsoft Store AUMID. The bot generates OS-specific launch commands. Native, GOG, and Emulator forms ask for a Command. Validation and the website never execute commands.
 4. To replace a preset, provide its issue number and explain the change. The bot preserves the original preset ID.
 

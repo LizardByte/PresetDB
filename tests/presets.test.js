@@ -193,7 +193,7 @@ test('approved presets get issue IDs and replacements preserve identity', async 
   assert.equal(record.presets.length, 2);
   assert.deepEqual(record.presets.map(item => item.id), ['10', '12']);
   assert.equal(record.presets.find(item => item.id === '10').command, 'new-command');
-  assert.equal(record.presets.find(item => item.id === '10').name, 'One Tap Hero (Emulator: RetroArch Snes9x)');
+  assert.equal(record.presets.find(item => item.id === '10').name, 'One Tap Hero');
   assert.equal(record.presets.find(item => item.id === '10').origin_issue, 10);
   assert.equal(record.presets.find(item => item.id === '10').source_issue, 13);
   assert.throws(() => validateFields({ ...gameValues, replacementIssue: '10' }, 'game'), /replacement needs both/);
@@ -210,7 +210,7 @@ test('Steam app ID publishes one logical preset with host-specific commands', as
   assert.equal(record.presets[0].launch_id, '464920');
   assert.equal(record.presets[0].commands_by_os.Windows, 'steam://rungameid/464920');
   assert.equal(record.presets[0].commands_by_os.Linux, 'setsid steam steam://rungameid/464920');
-  assert.equal(record.presets[0].name, 'One Tap Hero (Steam)');
+  assert.equal(record.presets[0].name, 'One Tap Hero');
   assert.ok(!Object.hasOwn(record.presets[0], 'detached'));
   assert.ok(!Object.hasOwn(record.presets[0], 'image-path'));
 });
@@ -231,7 +231,7 @@ test('issue processing and site build publish both game and app JSON', async t =
   assert.deepEqual(index.games[0].operating_systems, ['Linux', 'macOS', 'Windows']);
   assert.equal(index.apps[0].id, 'app-one');
   assert.equal(index.apps[0].image_url, 'https://example.org/icon.png');
-  assert.equal(JSON.parse(fs.readFileSync(path.join(output, 'apps/app-one.json'))).presets[0].name, 'App One (Linux)');
+  assert.equal(JSON.parse(fs.readFileSync(path.join(output, 'apps/app-one.json'))).presets[0].name, 'App One');
   assert.ok(fs.existsSync(path.join(output, 'games/100245.json')));
   assert.ok(fs.existsSync(path.join(output, 'apps/app-one.json')));
   assert.ok(fs.existsSync(path.join(output, 'top_contributors.svg')));
@@ -283,7 +283,7 @@ test('legacy approved records publish generic commands and short IDs', async t =
   const record = {
     schema_version: 1, kind: 'game', id: 100245, name: 'One Tap Hero',
     source_url: 'https://www.igdb.com/games/one-tap-hero',
-    presets: [{ id: 'issue-4', name: 'One Tap Hero (Steam)', os: null, method: 'steam',
+    presets: [{ id: 'issue-4', name: 'One Tap Hero', os: null, method: 'steam',
       launch_id: '464920', origin_issue: 4, source_issue: 4,
       sunshine_by_os: { Windows: { cmd: 'cmd /c start "" "steam://rungameid/464920"' },
         Linux: { cmd: 'steam "steam://rungameid/464920"' },

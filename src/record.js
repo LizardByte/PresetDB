@@ -14,6 +14,7 @@ function normalizeRecord(record) {
       const item = { ...preset };
       const legacyId = /^issue-([1-9]\d*)$/.exec(item.id);
       if (legacyId) item.id = legacyId[1];
+      item.name = record.name;
       if (item.sunshine_by_os) {
         const method = { steam: 'Steam', 'epic-games': 'Epic Games', 'microsoft-store': 'Microsoft Store' }[item.method];
         item.commands_by_os = method && item.launch_id
