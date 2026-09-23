@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95165,
+  "name": "The Woods",
+  "source_url": "https://www.igdb.com/games/the-woods",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Woods",
+      "os": null,
+      "method": "steam",
+      "launch_id": "792670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/792670",
+        "Linux": "setsid steam steam://rungameid/792670",
+        "macOS": "open steam://rungameid/792670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/792670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-woods",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95165"
+}

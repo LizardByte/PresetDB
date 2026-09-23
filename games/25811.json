@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25811,
+  "name": "Shadowverse",
+  "source_url": "https://www.igdb.com/games/shadowverse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1twx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadowverse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "453480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/453480",
+        "Linux": "setsid steam steam://rungameid/453480",
+        "macOS": "open steam://rungameid/453480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/453480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shadowverse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25811"
+}

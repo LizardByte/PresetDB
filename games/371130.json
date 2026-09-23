@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371130,
+  "name": "Play Things",
+  "source_url": "https://www.igdb.com/games/play-things",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalnt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play Things",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4635840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4635840",
+        "Linux": "setsid steam steam://rungameid/4635840",
+        "macOS": "open steam://rungameid/4635840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4635840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "play-things",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371130"
+}

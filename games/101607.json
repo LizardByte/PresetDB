@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101607,
+  "name": "Zombie Town Online",
+  "source_url": "https://www.igdb.com/games/zombie-town-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob555.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Town Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "810190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/810190",
+        "Linux": "setsid steam steam://rungameid/810190",
+        "macOS": "open steam://rungameid/810190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/810190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombie-town-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101607"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30490,
+  "name": "Rage Against the Zombies",
+  "source_url": "https://www.igdb.com/games/rage-against-the-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27cf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rage Against the Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "556990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/556990",
+        "Linux": "setsid steam steam://rungameid/556990",
+        "macOS": "open steam://rungameid/556990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/556990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rage-against-the-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30490"
+}

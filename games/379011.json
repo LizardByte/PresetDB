@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379011,
+  "name": "IdleDragon",
+  "source_url": "https://www.igdb.com/games/idledragon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob13y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "IdleDragon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3072540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3072540",
+        "Linux": "setsid steam steam://rungameid/3072540",
+        "macOS": "open steam://rungameid/3072540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3072540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "idledragon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379011"
+}

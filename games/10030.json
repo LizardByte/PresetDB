@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10030,
+  "name": "Sky Force Anniversary",
+  "source_url": "https://www.igdb.com/games/sky-force-anniversary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24t2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sky Force Anniversary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "355050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/355050",
+        "Linux": "setsid steam steam://rungameid/355050",
+        "macOS": "open steam://rungameid/355050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/355050",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "sky-force-anniversary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10030"
+}

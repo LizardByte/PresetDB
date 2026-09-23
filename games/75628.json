@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75628,
+  "name": "Bakery",
+  "source_url": "https://www.igdb.com/games/bakery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26qv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bakery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "746620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/746620",
+        "Linux": "setsid steam steam://rungameid/746620",
+        "macOS": "open steam://rungameid/746620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/746620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bakery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75628"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34888,
+  "name": "Scott in Space",
+  "source_url": "https://www.igdb.com/games/scott-in-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4pl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scott in Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "385980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/385980",
+        "Linux": "setsid steam steam://rungameid/385980",
+        "macOS": "open steam://rungameid/385980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/385980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "scott-in-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34888"
+}

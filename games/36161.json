@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36161,
+  "name": "SilverQuest: Gaiden",
+  "source_url": "https://www.igdb.com/games/silverquest-gaiden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co285g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SilverQuest: Gaiden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "333380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/333380",
+        "Linux": "setsid steam steam://rungameid/333380",
+        "macOS": "open steam://rungameid/333380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/333380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "silverquest-gaiden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36161"
+}

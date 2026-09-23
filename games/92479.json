@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 92479,
+  "name": "Glitch",
+  "source_url": "https://www.igdb.com/games/glitch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9chh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glitch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "890920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/890920",
+        "Linux": "setsid steam steam://rungameid/890920",
+        "macOS": "open steam://rungameid/890920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/890920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "glitch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=92479"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100729,
+  "name": "Escape the Office",
+  "source_url": "https://www.igdb.com/games/escape-the-office",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6qrr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Office",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2433910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2433910",
+        "Linux": "setsid steam steam://rungameid/2433910",
+        "macOS": "open steam://rungameid/2433910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2433910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-the-office",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100729"
+}

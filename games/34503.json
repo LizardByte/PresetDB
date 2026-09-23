@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34503,
+  "name": "XNemesis",
+  "source_url": "https://www.igdb.com/games/xnemesis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob57w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "XNemesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "399240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/399240",
+        "Linux": "setsid steam steam://rungameid/399240",
+        "macOS": "open steam://rungameid/399240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/399240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "xnemesis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34503"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75002,
+  "name": "Moose Invasion",
+  "source_url": "https://www.igdb.com/games/moose-invasion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moose Invasion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "737280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/737280",
+        "Linux": "setsid steam steam://rungameid/737280",
+        "macOS": "open steam://rungameid/737280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/737280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moose-invasion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75002"
+}

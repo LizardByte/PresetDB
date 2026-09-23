@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1000,
+  "name": "Oddworld: Abe's Exoddus",
+  "source_url": "https://www.igdb.com/games/oddworld-abe-s-exoddus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pvr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oddworld: Abe's Exoddus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "15710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/15710",
+        "Linux": "setsid steam steam://rungameid/15710",
+        "macOS": "open steam://rungameid/15710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/15710",
+      "protondb": {
+        "tier": "gold",
+        "reports": 32
+      }
+    }
+  ],
+  "igdb_slug": "oddworld-abe-s-exoddus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1000"
+}

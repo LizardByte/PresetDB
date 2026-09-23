@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51432,
+  "name": "Zombie Town",
+  "source_url": "https://www.igdb.com/games/zombie-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhed.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "666600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/666600",
+        "Linux": "setsid steam steam://rungameid/666600",
+        "macOS": "open steam://rungameid/666600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/666600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombie-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51432"
+}

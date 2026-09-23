@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30349,
+  "name": "Spirit",
+  "source_url": "https://www.igdb.com/games/spirit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobper.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spirit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "561010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/561010",
+        "Linux": "setsid steam steam://rungameid/561010",
+        "macOS": "open steam://rungameid/561010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/561010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spirit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30349"
+}

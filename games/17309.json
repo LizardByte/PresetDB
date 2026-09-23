@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17309,
+  "name": "Vlad the Impaler",
+  "source_url": "https://www.igdb.com/games/vlad-the-impaler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co81s4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vlad the Impaler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "295850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/295850",
+        "Linux": "setsid steam steam://rungameid/295850",
+        "macOS": "open steam://rungameid/295850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/295850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vlad-the-impaler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17309"
+}

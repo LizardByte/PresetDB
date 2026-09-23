@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76475,
+  "name": "Santa Run",
+  "source_url": "https://www.igdb.com/games/santa-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dnh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Santa Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "761440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/761440",
+        "Linux": "setsid steam steam://rungameid/761440",
+        "macOS": "open steam://rungameid/761440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/761440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "santa-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76475"
+}

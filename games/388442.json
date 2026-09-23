@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388442,
+  "name": "My First PC Game",
+  "source_url": "https://www.igdb.com/games/my-first-pc-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfs0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My First PC Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3862060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3862060",
+        "Linux": "setsid steam steam://rungameid/3862060",
+        "macOS": "open steam://rungameid/3862060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3862060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-first-pc-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388442"
+}

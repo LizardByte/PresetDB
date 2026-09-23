@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3050,
+  "name": "Capsized",
+  "source_url": "https://www.igdb.com/games/capsized",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v09.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Capsized",
+      "os": null,
+      "method": "steam",
+      "launch_id": "95300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/95300",
+        "Linux": "setsid steam steam://rungameid/95300",
+        "macOS": "open steam://rungameid/95300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/95300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "capsized",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3050"
+}

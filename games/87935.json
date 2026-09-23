@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 87935,
+  "name": "Slap City",
+  "source_url": "https://www.igdb.com/games/slap-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1o6q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slap City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "725480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/725480",
+        "Linux": "setsid steam steam://rungameid/725480",
+        "macOS": "open steam://rungameid/725480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/725480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slap-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=87935"
+}

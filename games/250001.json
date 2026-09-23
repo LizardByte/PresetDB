@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250001,
+  "name": "One-Thousand Cuts",
+  "source_url": "https://www.igdb.com/games/one-thousand-cuts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87re.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One-Thousand Cuts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2412000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2412000",
+        "Linux": "setsid steam steam://rungameid/2412000",
+        "macOS": "open steam://rungameid/2412000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2412000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "one-thousand-cuts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250001"
+}

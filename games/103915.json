@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103915,
+  "name": "Vreal",
+  "source_url": "https://www.igdb.com/games/vreal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3orz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vreal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "440120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/440120",
+        "Linux": "setsid steam steam://rungameid/440120",
+        "macOS": "open steam://rungameid/440120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/440120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vreal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103915"
+}

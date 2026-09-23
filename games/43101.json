@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43101,
+  "name": "Cowboy's Adventure",
+  "source_url": "https://www.igdb.com/games/cowboys-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2727.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cowboy's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "666960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/666960",
+        "Linux": "setsid steam steam://rungameid/666960",
+        "macOS": "open steam://rungameid/666960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/666960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cowboys-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43101"
+}

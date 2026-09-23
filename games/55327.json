@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55327,
+  "name": "Books",
+  "source_url": "https://www.igdb.com/games/books",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2335.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Books",
+      "os": null,
+      "method": "steam",
+      "launch_id": "690740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/690740",
+        "Linux": "setsid steam steam://rungameid/690740",
+        "macOS": "open steam://rungameid/690740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/690740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "books",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55327"
+}

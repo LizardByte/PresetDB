@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1968,
+  "name": "Rayman Legends",
+  "source_url": "https://www.igdb.com/games/rayman-legends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ma8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rayman Legends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "242550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/242550",
+        "Linux": "setsid steam steam://rungameid/242550",
+        "macOS": "open steam://rungameid/242550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/242550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rayman-legends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1968"
+}

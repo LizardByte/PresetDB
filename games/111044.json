@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111044,
+  "name": "Super X Chess",
+  "source_url": "https://www.igdb.com/games/super-x-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42qd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super X Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "814990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/814990",
+        "Linux": "setsid steam steam://rungameid/814990",
+        "macOS": "open steam://rungameid/814990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/814990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-x-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111044"
+}

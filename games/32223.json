@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32223,
+  "name": "Might",
+  "source_url": "https://www.igdb.com/games/might",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/i4ge7udapkmpgeausesv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Might",
+      "os": null,
+      "method": "steam",
+      "launch_id": "497270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/497270",
+        "Linux": "setsid steam steam://rungameid/497270",
+        "macOS": "open steam://rungameid/497270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/497270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "might",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32223"
+}

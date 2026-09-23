@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107490,
+  "name": "Alien Invaders",
+  "source_url": "https://www.igdb.com/games/alien-invaders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co844l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Invaders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "929730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/929730",
+        "Linux": "setsid steam steam://rungameid/929730",
+        "macOS": "open steam://rungameid/929730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/929730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alien-invaders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107490"
+}

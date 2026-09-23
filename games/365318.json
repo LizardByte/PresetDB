@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365318,
+  "name": "JollyRoll",
+  "source_url": "https://www.igdb.com/games/jollyroll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaein.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JollyRoll",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3914160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3914160",
+        "Linux": "setsid steam steam://rungameid/3914160",
+        "macOS": "open steam://rungameid/3914160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3914160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jollyroll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365318"
+}

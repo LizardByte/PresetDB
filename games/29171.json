@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29171,
+  "name": "Nephise",
+  "source_url": "https://www.igdb.com/games/nephise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2521.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nephise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "606860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/606860",
+        "Linux": "setsid steam steam://rungameid/606860",
+        "macOS": "open steam://rungameid/606860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/606860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nephise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29171"
+}

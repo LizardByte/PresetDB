@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81583,
+  "name": "Critical Mess",
+  "source_url": "https://www.igdb.com/games/critical-mess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Critical Mess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "780000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/780000",
+        "Linux": "setsid steam steam://rungameid/780000",
+        "macOS": "open steam://rungameid/780000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/780000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "critical-mess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81583"
+}

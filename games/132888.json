@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132888,
+  "name": "Gotcha",
+  "source_url": "https://www.igdb.com/games/gotcha--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gotcha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234690",
+        "Linux": "setsid steam steam://rungameid/1234690",
+        "macOS": "open steam://rungameid/1234690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1234690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gotcha--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132888"
+}

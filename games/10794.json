@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10794,
+  "name": "The Escapist",
+  "source_url": "https://www.igdb.com/games/the-escapist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/wp47owf7ygrtl6zg658x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Escapist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315480",
+        "Linux": "setsid steam steam://rungameid/315480",
+        "macOS": "open steam://rungameid/315480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/315480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-escapist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10794"
+}

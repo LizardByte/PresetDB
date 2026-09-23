@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81150,
+  "name": "ESport Manager",
+  "source_url": "https://www.igdb.com/games/esport-manager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dhm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ESport Manager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652660",
+        "Linux": "setsid steam steam://rungameid/652660",
+        "macOS": "open steam://rungameid/652660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "esport-manager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81150"
+}

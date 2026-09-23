@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109305,
+  "name": "DeepWeb",
+  "source_url": "https://www.igdb.com/games/deepweb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ob3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeepWeb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904780",
+        "Linux": "setsid steam steam://rungameid/904780",
+        "macOS": "open steam://rungameid/904780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/904780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "deepweb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109305"
+}

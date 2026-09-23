@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31909,
+  "name": "You Have 10 Seconds",
+  "source_url": "https://www.igdb.com/games/you-have-10-seconds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21xa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You Have 10 Seconds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "510050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/510050",
+        "Linux": "setsid steam steam://rungameid/510050",
+        "macOS": "open steam://rungameid/510050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/510050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "you-have-10-seconds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31909"
+}

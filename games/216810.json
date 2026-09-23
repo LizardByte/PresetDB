@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216810,
+  "name": "Zed Zone",
+  "source_url": "https://www.igdb.com/games/zed-zone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bmw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zed Zone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1211600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1211600",
+        "Linux": "setsid steam steam://rungameid/1211600",
+        "macOS": "open steam://rungameid/1211600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1211600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zed-zone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216810"
+}

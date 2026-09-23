@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153528,
+  "name": "Stride.net",
+  "source_url": "https://www.igdb.com/games/stride-dot-net",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4265.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stride.net",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1249210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1249210",
+        "Linux": "setsid steam steam://rungameid/1249210",
+        "macOS": "open steam://rungameid/1249210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1249210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stride-dot-net",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153528"
+}

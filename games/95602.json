@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95602,
+  "name": "Norilsk",
+  "source_url": "https://www.igdb.com/games/norilsk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q7o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Norilsk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831540",
+        "Linux": "setsid steam steam://rungameid/831540",
+        "macOS": "open steam://rungameid/831540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/831540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "norilsk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95602"
+}

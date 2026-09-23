@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17069,
+  "name": "Rive",
+  "source_url": "https://www.igdb.com/games/rive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2o19.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "278100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/278100",
+        "Linux": "setsid steam steam://rungameid/278100",
+        "macOS": "open steam://rungameid/278100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/278100",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "rive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17069"
+}

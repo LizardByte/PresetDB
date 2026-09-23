@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363600,
+  "name": "Escape the Beach",
+  "source_url": "https://www.igdb.com/games/escape-the-beach",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Beach",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3740000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3740000",
+        "Linux": "setsid steam steam://rungameid/3740000",
+        "macOS": "open steam://rungameid/3740000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3740000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-the-beach",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363600"
+}

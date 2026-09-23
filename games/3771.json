@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3771,
+  "name": "Rambo: The Video Game",
+  "source_url": "https://www.igdb.com/games/rambo-the-video-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mnc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rambo: The Video Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "274130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/274130",
+        "Linux": "setsid steam steam://rungameid/274130",
+        "macOS": "open steam://rungameid/274130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/274130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rambo-the-video-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3771"
+}

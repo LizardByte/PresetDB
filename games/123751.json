@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123751,
+  "name": "The Alien Cube",
+  "source_url": "https://www.igdb.com/games/the-alien-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Alien Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1099220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1099220",
+        "Linux": "setsid steam steam://rungameid/1099220",
+        "macOS": "open steam://rungameid/1099220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1099220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-alien-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123751"
+}

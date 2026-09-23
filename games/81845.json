@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81845,
+  "name": "YumeCore",
+  "source_url": "https://www.igdb.com/games/yumecore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ymu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "YumeCore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771240",
+        "Linux": "setsid steam steam://rungameid/771240",
+        "macOS": "open steam://rungameid/771240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/771240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "yumecore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81845"
+}

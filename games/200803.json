@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200803,
+  "name": "Goetia 2",
+  "source_url": "https://www.igdb.com/games/goetia-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goetia 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1984110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1984110",
+        "Linux": "setsid steam steam://rungameid/1984110",
+        "macOS": "open steam://rungameid/1984110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1984110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "goetia-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200803"
+}

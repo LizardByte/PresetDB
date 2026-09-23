@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100572,
+  "name": "BlackFaith",
+  "source_url": "https://www.igdb.com/games/blackfaith",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlackFaith",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845870",
+        "Linux": "setsid steam steam://rungameid/845870",
+        "macOS": "open steam://rungameid/845870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/845870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blackfaith",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100572"
+}

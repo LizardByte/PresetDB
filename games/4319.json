@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4319,
+  "name": "D",
+  "source_url": "https://www.igdb.com/games/d",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3sww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "D",
+      "os": null,
+      "method": "steam",
+      "launch_id": "510590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/510590",
+        "Linux": "setsid steam steam://rungameid/510590",
+        "macOS": "open steam://rungameid/510590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/510590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "d",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4319"
+}

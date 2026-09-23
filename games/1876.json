@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1876,
+  "name": "Spore",
+  "source_url": "https://www.igdb.com/games/spore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ac9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "17390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/17390",
+        "Linux": "setsid steam steam://rungameid/17390",
+        "macOS": "open steam://rungameid/17390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/17390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1876"
+}

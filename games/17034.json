@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17034,
+  "name": "868-Hack",
+  "source_url": "https://www.igdb.com/games/868-hack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co509r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "868-Hack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "274700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/274700",
+        "Linux": "setsid steam steam://rungameid/274700",
+        "macOS": "open steam://rungameid/274700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/274700",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "868-hack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17034"
+}

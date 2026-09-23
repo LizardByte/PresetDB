@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8429,
+  "name": "Dead Bits",
+  "source_url": "https://www.igdb.com/games/dead-bits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8684.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Bits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303390",
+        "Linux": "setsid steam steam://rungameid/303390",
+        "macOS": "open steam://rungameid/303390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/303390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dead-bits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8429"
+}

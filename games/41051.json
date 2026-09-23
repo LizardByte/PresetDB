@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 41051,
+  "name": "Pinball FX3",
+  "source_url": "https://www.igdb.com/games/pinball-fx3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rio.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinball FX3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "442120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/442120",
+        "Linux": "setsid steam steam://rungameid/442120",
+        "macOS": "open steam://rungameid/442120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/442120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pinball-fx3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=41051"
+}

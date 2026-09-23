@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216819,
+  "name": "Wormwood",
+  "source_url": "https://www.igdb.com/games/wormwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58ev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wormwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2082000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2082000",
+        "Linux": "setsid steam steam://rungameid/2082000",
+        "macOS": "open steam://rungameid/2082000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2082000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wormwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216819"
+}

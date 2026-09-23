@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423985,
+  "name": "My Gaming Shop",
+  "source_url": "https://www.igdb.com/games/my-gaming-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod61i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Gaming Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5371170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5371170",
+        "Linux": "setsid steam steam://rungameid/5371170",
+        "macOS": "open steam://rungameid/5371170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5371170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-gaming-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423985"
+}

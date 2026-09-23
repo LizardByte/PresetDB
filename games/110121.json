@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110121,
+  "name": "Minoria",
+  "source_url": "https://www.igdb.com/games/minoria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ke0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minoria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940910",
+        "Linux": "setsid steam steam://rungameid/940910",
+        "macOS": "open steam://rungameid/940910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/940910",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 24
+      }
+    }
+  ],
+  "igdb_slug": "minoria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110121"
+}

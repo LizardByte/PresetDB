@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105657,
+  "name": "Connect01",
+  "source_url": "https://www.igdb.com/games/connect01",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Connect01",
+      "os": null,
+      "method": "steam",
+      "launch_id": "903680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/903680",
+        "Linux": "setsid steam steam://rungameid/903680",
+        "macOS": "open steam://rungameid/903680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/903680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "connect01",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105657"
+}

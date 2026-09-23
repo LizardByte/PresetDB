@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 69386,
+  "name": "The Base",
+  "source_url": "https://www.igdb.com/games/the-base",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9jv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Base",
+      "os": null,
+      "method": "steam",
+      "launch_id": "707220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/707220",
+        "Linux": "setsid steam steam://rungameid/707220",
+        "macOS": "open steam://rungameid/707220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/707220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-base",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=69386"
+}

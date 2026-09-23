@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24036,
+  "name": "Root",
+  "source_url": "https://www.igdb.com/games/root",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vr4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Root",
+      "os": null,
+      "method": "steam",
+      "launch_id": "393610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/393610",
+        "Linux": "setsid steam steam://rungameid/393610",
+        "macOS": "open steam://rungameid/393610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/393610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "root",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24036"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34045,
+  "name": "Relic Alone",
+  "source_url": "https://www.igdb.com/games/relic-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob85z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Relic Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "419000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/419000",
+        "Linux": "setsid steam steam://rungameid/419000",
+        "macOS": "open steam://rungameid/419000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/419000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "relic-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34045"
+}

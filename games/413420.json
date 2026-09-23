@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413420,
+  "name": "Zentris",
+  "source_url": "https://www.igdb.com/games/zentris--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocom1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zentris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4653950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4653950",
+        "Linux": "setsid steam steam://rungameid/4653950",
+        "macOS": "open steam://rungameid/4653950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4653950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zentris--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413420"
+}

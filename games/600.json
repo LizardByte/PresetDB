@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 600,
+  "name": "Apache",
+  "source_url": "https://www.igdb.com/games/apache",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apache",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3317800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3317800",
+        "Linux": "setsid steam steam://rungameid/3317800",
+        "macOS": "open steam://rungameid/3317800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3317800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "apache",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=600"
+}

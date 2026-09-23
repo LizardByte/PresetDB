@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 53482,
+  "name": "Project Pulsation",
+  "source_url": "https://www.igdb.com/games/project-pulsation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Pulsation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "424000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/424000",
+        "Linux": "setsid steam steam://rungameid/424000",
+        "macOS": "open steam://rungameid/424000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/424000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "project-pulsation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=53482"
+}

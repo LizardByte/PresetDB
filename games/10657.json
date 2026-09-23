@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10657,
+  "name": "Party of Sin",
+  "source_url": "https://www.igdb.com/games/party-of-sin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92rf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Party of Sin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "212700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/212700",
+        "Linux": "setsid steam steam://rungameid/212700",
+        "macOS": "open steam://rungameid/212700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/212700",
+      "protondb": {
+        "tier": "borked",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "party-of-sin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10657"
+}

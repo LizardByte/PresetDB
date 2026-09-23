@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36010,
+  "name": "Pizzarian",
+  "source_url": "https://www.igdb.com/games/pizzarian",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8s6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pizzarian",
+      "os": null,
+      "method": "steam",
+      "launch_id": "340380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/340380",
+        "Linux": "setsid steam steam://rungameid/340380",
+        "macOS": "open steam://rungameid/340380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/340380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pizzarian",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36010"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36181,
+  "name": "Phoenix Force",
+  "source_url": "https://www.igdb.com/games/phoenix-force",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vaj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phoenix Force",
+      "os": null,
+      "method": "steam",
+      "launch_id": "332480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/332480",
+        "Linux": "setsid steam steam://rungameid/332480",
+        "macOS": "open steam://rungameid/332480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/332480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "phoenix-force",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36181"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328408,
+  "name": "Who am I?",
+  "source_url": "https://www.igdb.com/games/who-am-i",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9af9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who am I?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3448240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3448240",
+        "Linux": "setsid steam steam://rungameid/3448240",
+        "macOS": "open steam://rungameid/3448240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3448240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "who-am-i",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328408"
+}

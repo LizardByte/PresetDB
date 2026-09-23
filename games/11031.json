@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11031,
+  "name": "Twin Sector",
+  "source_url": "https://www.igdb.com/games/twin-sector",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twin Sector",
+      "os": null,
+      "method": "steam",
+      "launch_id": "27900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/27900",
+        "Linux": "setsid steam steam://rungameid/27900",
+        "macOS": "open steam://rungameid/27900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/27900",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "twin-sector",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11031"
+}

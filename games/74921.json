@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74921,
+  "name": "YouFight",
+  "source_url": "https://www.igdb.com/games/youfight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24jf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "YouFight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "733710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/733710",
+        "Linux": "setsid steam steam://rungameid/733710",
+        "macOS": "open steam://rungameid/733710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/733710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "youfight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74921"
+}

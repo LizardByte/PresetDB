@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20468,
+  "name": "A Nifty Game",
+  "source_url": "https://www.igdb.com/games/a-nifty-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23al.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Nifty Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "591390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/591390",
+        "Linux": "setsid steam steam://rungameid/591390",
+        "macOS": "open steam://rungameid/591390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/591390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "a-nifty-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20468"
+}

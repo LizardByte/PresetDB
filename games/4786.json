@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4786,
+  "name": "The Evil Within",
+  "source_url": "https://www.igdb.com/games/the-evil-within",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5wgs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Evil Within",
+      "os": null,
+      "method": "steam",
+      "launch_id": "268050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/268050",
+        "Linux": "setsid steam steam://rungameid/268050",
+        "macOS": "open steam://rungameid/268050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/268050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-evil-within",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4786"
+}

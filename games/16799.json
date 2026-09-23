@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16799,
+  "name": "Haunted",
+  "source_url": "https://www.igdb.com/games/haunted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9cs9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haunted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "260550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/260550",
+        "Linux": "setsid steam steam://rungameid/260550",
+        "macOS": "open steam://rungameid/260550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/260550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "haunted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16799"
+}

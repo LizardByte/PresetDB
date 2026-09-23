@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330110,
+  "name": "Dotu",
+  "source_url": "https://www.igdb.com/games/dotu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9cmw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dotu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3456230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3456230",
+        "Linux": "setsid steam steam://rungameid/3456230",
+        "macOS": "open steam://rungameid/3456230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3456230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dotu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330110"
+}

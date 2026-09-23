@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113059,
+  "name": "Numgeon",
+  "source_url": "https://www.igdb.com/games/numgeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27nd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Numgeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "990640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/990640",
+        "Linux": "setsid steam steam://rungameid/990640",
+        "macOS": "open steam://rungameid/990640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/990640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "numgeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113059"
+}

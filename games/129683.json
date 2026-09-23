@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129683,
+  "name": "MiniState",
+  "source_url": "https://www.igdb.com/games/ministate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co200r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MiniState",
+      "os": null,
+      "method": "steam",
+      "launch_id": "842660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/842660",
+        "Linux": "setsid steam steam://rungameid/842660",
+        "macOS": "open steam://rungameid/842660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/842660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ministate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129683"
+}

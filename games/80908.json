@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80908,
+  "name": "Aqua TV",
+  "source_url": "https://www.igdb.com/games/aqua-tv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co570j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aqua TV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3003550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3003550",
+        "Linux": "setsid steam steam://rungameid/3003550",
+        "macOS": "open steam://rungameid/3003550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3003550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aqua-tv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80908"
+}

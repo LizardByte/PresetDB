@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9423,
+  "name": "Skyborn",
+  "source_url": "https://www.igdb.com/games/skyborn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1o01.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skyborn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "278460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/278460",
+        "Linux": "setsid steam steam://rungameid/278460",
+        "macOS": "open steam://rungameid/278460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/278460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skyborn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9423"
+}

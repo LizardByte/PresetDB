@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101286,
+  "name": "Oval",
+  "source_url": "https://www.igdb.com/games/oval",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oval",
+      "os": null,
+      "method": "steam",
+      "launch_id": "849670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/849670",
+        "Linux": "setsid steam steam://rungameid/849670",
+        "macOS": "open steam://rungameid/849670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/849670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "oval",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101286"
+}

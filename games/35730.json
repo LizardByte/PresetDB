@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35730,
+  "name": "Call of the Ninja!",
+  "source_url": "https://www.igdb.com/games/call-of-the-ninja",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mp5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Call of the Ninja!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "350330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/350330",
+        "Linux": "setsid steam steam://rungameid/350330",
+        "macOS": "open steam://rungameid/350330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/350330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "call-of-the-ninja",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35730"
+}

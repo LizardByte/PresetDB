@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379667,
+  "name": "Cozy Builder",
+  "source_url": "https://www.igdb.com/games/cozy-builder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax1w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Builder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4059000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4059000",
+        "Linux": "setsid steam steam://rungameid/4059000",
+        "macOS": "open steam://rungameid/4059000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4059000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cozy-builder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379667"
+}

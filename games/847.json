@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 847,
+  "name": "Resident Evil 5",
+  "source_url": "https://www.igdb.com/games/resident-evil-5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtgs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil 5",
+      "os": null,
+      "method": "steam",
+      "launch_id": "21690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/21690",
+        "Linux": "setsid steam steam://rungameid/21690",
+        "macOS": "open steam://rungameid/21690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/21690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "resident-evil-5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=847"
+}

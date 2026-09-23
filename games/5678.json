@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5678,
+  "name": "War of the Vikings",
+  "source_url": "https://www.igdb.com/games/war-of-the-vikings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ruf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War of the Vikings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234530",
+        "Linux": "setsid steam steam://rungameid/234530",
+        "macOS": "open steam://rungameid/234530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/234530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "war-of-the-vikings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5678"
+}

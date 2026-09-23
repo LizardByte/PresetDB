@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311861,
+  "name": "LocoPets",
+  "source_url": "https://www.igdb.com/games/locopets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8m6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LocoPets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3123000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3123000",
+        "Linux": "setsid steam steam://rungameid/3123000",
+        "macOS": "open steam://rungameid/3123000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3123000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "locopets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311861"
+}

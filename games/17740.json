@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17740,
+  "name": "Axyos",
+  "source_url": "https://www.igdb.com/games/axyos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ltc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Axyos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "318100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/318100",
+        "Linux": "setsid steam steam://rungameid/318100",
+        "macOS": "open steam://rungameid/318100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/318100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "axyos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17740"
+}

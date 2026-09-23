@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 895,
+  "name": "The Longest Journey",
+  "source_url": "https://www.igdb.com/games/the-longest-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Longest Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6310",
+        "Linux": "setsid steam steam://rungameid/6310",
+        "macOS": "open steam://rungameid/6310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-longest-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=895"
+}

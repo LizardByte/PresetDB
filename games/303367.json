@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303367,
+  "name": "Black Screen",
+  "source_url": "https://www.igdb.com/games/black-screen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fjr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Screen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2953440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2953440",
+        "Linux": "setsid steam steam://rungameid/2953440",
+        "macOS": "open steam://rungameid/2953440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2953440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "black-screen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303367"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16396,
+  "name": "Go Home Dinosaurs!",
+  "source_url": "https://www.igdb.com/games/go-home-dinosaurs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wpx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Home Dinosaurs!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "216090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/216090",
+        "Linux": "setsid steam steam://rungameid/216090",
+        "macOS": "open steam://rungameid/216090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/216090",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "go-home-dinosaurs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16396"
+}

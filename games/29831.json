@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29831,
+  "name": "Quantic Pinball",
+  "source_url": "https://www.igdb.com/games/quantic-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co242h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quantic Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "577320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/577320",
+        "Linux": "setsid steam steam://rungameid/577320",
+        "macOS": "open steam://rungameid/577320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/577320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "quantic-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29831"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10557,
+  "name": "MoonBase Commander",
+  "source_url": "https://www.igdb.com/games/moonbase-commander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2izc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MoonBase Commander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "254880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/254880",
+        "Linux": "setsid steam steam://rungameid/254880",
+        "macOS": "open steam://rungameid/254880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/254880",
+      "protondb": {
+        "tier": "silver",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "moonbase-commander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10557"
+}

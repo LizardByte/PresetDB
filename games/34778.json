@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34778,
+  "name": "Fish or Die",
+  "source_url": "https://www.igdb.com/games/fish-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2be7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fish or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "389230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/389230",
+        "Linux": "setsid steam steam://rungameid/389230",
+        "macOS": "open steam://rungameid/389230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/389230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fish-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34778"
+}

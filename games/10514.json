@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10514,
+  "name": "Life of Pixel",
+  "source_url": "https://www.igdb.com/games/life-of-pixel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86dz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Life of Pixel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327260",
+        "Linux": "setsid steam steam://rungameid/327260",
+        "macOS": "open steam://rungameid/327260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/327260",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "life-of-pixel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10514"
+}

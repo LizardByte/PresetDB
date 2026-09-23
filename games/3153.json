@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3153,
+  "name": "Castle Crashers",
+  "source_url": "https://www.igdb.com/games/castle-crashers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaskv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle Crashers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "204360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/204360",
+        "Linux": "setsid steam steam://rungameid/204360",
+        "macOS": "open steam://rungameid/204360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/204360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "castle-crashers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3153"
+}

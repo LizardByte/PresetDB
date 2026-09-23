@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400024,
+  "name": "Front Page",
+  "source_url": "https://www.igdb.com/games/front-page",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzzq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Front Page",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4075840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4075840",
+        "Linux": "setsid steam steam://rungameid/4075840",
+        "macOS": "open steam://rungameid/4075840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4075840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "front-page",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400024"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201096,
+  "name": "Smilemo",
+  "source_url": "https://www.igdb.com/games/smilemo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wwa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smilemo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1933700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1933700",
+        "Linux": "setsid steam steam://rungameid/1933700",
+        "macOS": "open steam://rungameid/1933700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1933700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "smilemo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201096"
+}

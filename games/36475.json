@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36475,
+  "name": "Blobby Tennis",
+  "source_url": "https://www.igdb.com/games/blobby-tennis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co239q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blobby Tennis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "628530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/628530",
+        "Linux": "setsid steam steam://rungameid/628530",
+        "macOS": "open steam://rungameid/628530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/628530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blobby-tennis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36475"
+}

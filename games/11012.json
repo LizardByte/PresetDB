@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11012,
+  "name": "Top Hat",
+  "source_url": "https://www.igdb.com/games/top-hat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86lr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Top Hat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315940",
+        "Linux": "setsid steam steam://rungameid/315940",
+        "macOS": "open steam://rungameid/315940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/315940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "top-hat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11012"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16987,
+  "name": "Doors",
+  "source_url": "https://www.igdb.com/games/doors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc456.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395350",
+        "Linux": "setsid steam steam://rungameid/395350",
+        "macOS": "open steam://rungameid/395350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/395350",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "doors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16987"
+}

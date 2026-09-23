@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119698,
+  "name": "Online Simulator",
+  "source_url": "https://www.igdb.com/games/online-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Online Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1091400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1091400",
+        "Linux": "setsid steam steam://rungameid/1091400",
+        "macOS": "open steam://rungameid/1091400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1091400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "online-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119698"
+}

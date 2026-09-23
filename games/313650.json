@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 313650,
+  "name": "Peach",
+  "source_url": "https://www.igdb.com/games/peach",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8pne.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peach",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3060080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3060080",
+        "Linux": "setsid steam steam://rungameid/3060080",
+        "macOS": "open steam://rungameid/3060080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3060080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "peach",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=313650"
+}

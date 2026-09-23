@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81019,
+  "name": "Skylight",
+  "source_url": "https://www.igdb.com/games/skylight--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbe0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skylight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "750440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/750440",
+        "Linux": "setsid steam steam://rungameid/750440",
+        "macOS": "open steam://rungameid/750440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/750440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skylight--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81019"
+}

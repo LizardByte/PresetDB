@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106836,
+  "name": "Scarf",
+  "source_url": "https://www.igdb.com/games/scarf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xt7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scarf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "645320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/645320",
+        "Linux": "setsid steam steam://rungameid/645320",
+        "macOS": "open steam://rungameid/645320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/645320",
+      "protondb": {
+        "tier": "gold",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "scarf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106836"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110513,
+  "name": "DoodleVR",
+  "source_url": "https://www.igdb.com/games/doodlevr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co245c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DoodleVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "936170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/936170",
+        "Linux": "setsid steam steam://rungameid/936170",
+        "macOS": "open steam://rungameid/936170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/936170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "doodlevr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110513"
+}

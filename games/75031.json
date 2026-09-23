@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75031,
+  "name": "Rockland VR",
+  "source_url": "https://www.igdb.com/games/rockland-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh5a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rockland VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "718470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/718470",
+        "Linux": "setsid steam steam://rungameid/718470",
+        "macOS": "open steam://rungameid/718470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/718470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rockland-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75031"
+}

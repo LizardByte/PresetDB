@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111546,
+  "name": "Elli",
+  "source_url": "https://www.igdb.com/games/elli",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cvg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elli",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1346600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1346600",
+        "Linux": "setsid steam steam://rungameid/1346600",
+        "macOS": "open steam://rungameid/1346600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1346600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "elli",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111546"
+}

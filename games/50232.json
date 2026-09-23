@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50232,
+  "name": "OMSI 2",
+  "source_url": "https://www.igdb.com/games/omsi-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qvv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OMSI 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "252530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/252530",
+        "Linux": "setsid steam steam://rungameid/252530",
+        "macOS": "open steam://rungameid/252530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/252530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "omsi-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50232"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90123,
+  "name": "Orbos",
+  "source_url": "https://www.igdb.com/games/orbos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobesp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Orbos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801910",
+        "Linux": "setsid steam steam://rungameid/801910",
+        "macOS": "open steam://rungameid/801910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "orbos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90123"
+}

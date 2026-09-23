@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75354,
+  "name": "Minotaur",
+  "source_url": "https://www.igdb.com/games/minotaur--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27mb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minotaur",
+      "os": null,
+      "method": "steam",
+      "launch_id": "680590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/680590",
+        "Linux": "setsid steam steam://rungameid/680590",
+        "macOS": "open steam://rungameid/680590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/680590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "minotaur--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75354"
+}

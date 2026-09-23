@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29160,
+  "name": "McOsu",
+  "source_url": "https://www.igdb.com/games/mcosu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xdq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "McOsu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "607260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/607260",
+        "Linux": "setsid steam steam://rungameid/607260",
+        "macOS": "open steam://rungameid/607260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/607260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mcosu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29160"
+}

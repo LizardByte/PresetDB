@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75650,
+  "name": "SpacePig",
+  "source_url": "https://www.igdb.com/games/spacepig",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobon8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpacePig",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748910",
+        "Linux": "setsid steam steam://rungameid/748910",
+        "macOS": "open steam://rungameid/748910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/748910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spacepig",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75650"
+}

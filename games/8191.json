@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8191,
+  "name": "Final Doom",
+  "source_url": "https://www.igdb.com/games/final-doom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xew.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Doom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2290",
+        "Linux": "setsid steam steam://rungameid/2290",
+        "macOS": "open steam://rungameid/2290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "final-doom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8191"
+}

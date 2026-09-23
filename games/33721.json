@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33721,
+  "name": "Blue Bird",
+  "source_url": "https://www.igdb.com/games/blue-bird",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29yw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blue Bird",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434600",
+        "Linux": "setsid steam steam://rungameid/434600",
+        "macOS": "open steam://rungameid/434600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/434600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blue-bird",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33721"
+}

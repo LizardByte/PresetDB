@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86180,
+  "name": "Alone",
+  "source_url": "https://www.igdb.com/games/alone--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co297z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "871870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/871870",
+        "Linux": "setsid steam steam://rungameid/871870",
+        "macOS": "open steam://rungameid/871870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/871870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alone--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86180"
+}

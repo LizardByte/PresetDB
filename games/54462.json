@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54462,
+  "name": "Run Crabby Run",
+  "source_url": "https://www.igdb.com/games/run-crabby-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob97u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Crabby Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "685430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/685430",
+        "Linux": "setsid steam steam://rungameid/685430",
+        "macOS": "open steam://rungameid/685430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/685430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-crabby-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54462"
+}

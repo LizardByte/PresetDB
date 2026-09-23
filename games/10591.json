@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10591,
+  "name": "NecroVisioN",
+  "source_url": "https://www.igdb.com/games/necrovision",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21dk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NecroVisioN",
+      "os": null,
+      "method": "steam",
+      "launch_id": "7860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/7860",
+        "Linux": "setsid steam steam://rungameid/7860",
+        "macOS": "open steam://rungameid/7860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/7860",
+      "protondb": {
+        "tier": "gold",
+        "reports": 22
+      }
+    }
+  ],
+  "igdb_slug": "necrovision",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10591"
+}

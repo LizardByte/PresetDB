@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4666,
+  "name": "Alice in Wonderland",
+  "source_url": "https://www.igdb.com/games/alice-in-wonderland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p84.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alice in Wonderland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "316030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/316030",
+        "Linux": "setsid steam steam://rungameid/316030",
+        "macOS": "open steam://rungameid/316030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/316030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alice-in-wonderland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4666"
+}

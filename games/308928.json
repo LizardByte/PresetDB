@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 308928,
+  "name": "+1",
+  "source_url": "https://www.igdb.com/games/plus-1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa47m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "+1",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2980030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2980030",
+        "Linux": "setsid steam steam://rungameid/2980030",
+        "macOS": "open steam://rungameid/2980030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2980030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "plus-1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=308928"
+}

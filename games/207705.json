@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207705,
+  "name": "Magic vs Zombies",
+  "source_url": "https://www.igdb.com/games/magic-vs-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5igr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic vs Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2054050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2054050",
+        "Linux": "setsid steam steam://rungameid/2054050",
+        "macOS": "open steam://rungameid/2054050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2054050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "magic-vs-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207705"
+}

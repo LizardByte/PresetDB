@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2137,
+  "name": "The Crew",
+  "source_url": "https://www.igdb.com/games/the-crew",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jtc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Crew",
+      "os": null,
+      "method": "steam",
+      "launch_id": "241560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/241560",
+        "Linux": "setsid steam steam://rungameid/241560",
+        "macOS": "open steam://rungameid/241560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/241560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-crew",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2137"
+}

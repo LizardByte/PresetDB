@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132490,
+  "name": "Sagrada",
+  "source_url": "https://www.igdb.com/games/sagrada",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r89.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sagrada",
+      "os": null,
+      "method": "steam",
+      "launch_id": "965590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/965590",
+        "Linux": "setsid steam steam://rungameid/965590",
+        "macOS": "open steam://rungameid/965590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/965590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sagrada",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132490"
+}

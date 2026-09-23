@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54833,
+  "name": "TimeToDie",
+  "source_url": "https://www.igdb.com/games/timetodie",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TimeToDie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "611970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/611970",
+        "Linux": "setsid steam steam://rungameid/611970",
+        "macOS": "open steam://rungameid/611970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/611970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "timetodie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54833"
+}

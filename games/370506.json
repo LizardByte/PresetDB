@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370506,
+  "name": "Happy Piggy",
+  "source_url": "https://www.igdb.com/games/happy-piggy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakn5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Piggy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3592350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3592350",
+        "Linux": "setsid steam steam://rungameid/3592350",
+        "macOS": "open steam://rungameid/3592350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3592350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "happy-piggy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370506"
+}

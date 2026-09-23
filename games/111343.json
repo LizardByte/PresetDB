@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111343,
+  "name": "Shell",
+  "source_url": "https://www.igdb.com/games/shell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9dln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964810",
+        "Linux": "setsid steam steam://rungameid/964810",
+        "macOS": "open steam://rungameid/964810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/964810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111343"
+}

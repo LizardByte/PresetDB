@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82508,
+  "name": "Dumb as Wizards",
+  "source_url": "https://www.igdb.com/games/dumb-as-wizards",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q0a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dumb as Wizards",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828730",
+        "Linux": "setsid steam steam://rungameid/828730",
+        "macOS": "open steam://rungameid/828730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/828730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dumb-as-wizards",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82508"
+}

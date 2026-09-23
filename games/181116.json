@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181116,
+  "name": "Super Punchy Face",
+  "source_url": "https://www.igdb.com/games/super-punchy-face",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oq0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Punchy Face",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1750900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1750900",
+        "Linux": "setsid steam steam://rungameid/1750900",
+        "macOS": "open steam://rungameid/1750900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1750900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-punchy-face",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181116"
+}

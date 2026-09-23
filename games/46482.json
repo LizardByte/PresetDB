@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 46482,
+  "name": "Vintage Hero",
+  "source_url": "https://www.igdb.com/games/vintage-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24l0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vintage Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "667240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/667240",
+        "Linux": "setsid steam steam://rungameid/667240",
+        "macOS": "open steam://rungameid/667240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/667240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vintage-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=46482"
+}

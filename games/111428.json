@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111428,
+  "name": "Bladeline VR",
+  "source_url": "https://www.igdb.com/games/bladeline-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6pw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bladeline VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "778110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/778110",
+        "Linux": "setsid steam steam://rungameid/778110",
+        "macOS": "open steam://rungameid/778110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/778110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bladeline-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111428"
+}

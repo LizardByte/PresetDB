@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107981,
+  "name": "Acid Nimbus",
+  "source_url": "https://www.igdb.com/games/acid-nimbus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22cy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Acid Nimbus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "909110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/909110",
+        "Linux": "setsid steam steam://rungameid/909110",
+        "macOS": "open steam://rungameid/909110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/909110",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "acid-nimbus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107981"
+}

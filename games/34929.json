@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34929,
+  "name": "Hordelicious",
+  "source_url": "https://www.igdb.com/games/hordelicious",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86ct.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hordelicious",
+      "os": null,
+      "method": "steam",
+      "launch_id": "384400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/384400",
+        "Linux": "setsid steam steam://rungameid/384400",
+        "macOS": "open steam://rungameid/384400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/384400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hordelicious",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34929"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381545,
+  "name": "Snatch",
+  "source_url": "https://www.igdb.com/games/snatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1g0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3630900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3630900",
+        "Linux": "setsid steam steam://rungameid/3630900",
+        "macOS": "open steam://rungameid/3630900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3630900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "snatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381545"
+}

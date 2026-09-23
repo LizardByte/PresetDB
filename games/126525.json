@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126525,
+  "name": "Lost In Sweets",
+  "source_url": "https://www.igdb.com/games/lost-in-sweets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45fu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost In Sweets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1102230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1102230",
+        "Linux": "setsid steam steam://rungameid/1102230",
+        "macOS": "open steam://rungameid/1102230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1102230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-in-sweets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126525"
+}

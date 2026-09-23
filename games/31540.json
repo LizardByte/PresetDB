@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31540,
+  "name": "Underworld Dungeon",
+  "source_url": "https://www.igdb.com/games/underworld-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24lm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Underworld Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "520300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/520300",
+        "Linux": "setsid steam steam://rungameid/520300",
+        "macOS": "open steam://rungameid/520300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/520300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "underworld-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31540"
+}

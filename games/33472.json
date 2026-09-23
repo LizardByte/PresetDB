@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33472,
+  "name": "Tiny Knight",
+  "source_url": "https://www.igdb.com/games/tiny-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6s6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "445210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/445210",
+        "Linux": "setsid steam steam://rungameid/445210",
+        "macOS": "open steam://rungameid/445210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/445210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tiny-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33472"
+}

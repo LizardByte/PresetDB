@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55619,
+  "name": "Launch Party",
+  "source_url": "https://www.igdb.com/games/launch-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctxe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Launch Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "675270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/675270",
+        "Linux": "setsid steam steam://rungameid/675270",
+        "macOS": "open steam://rungameid/675270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/675270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "launch-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55619"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86298,
+  "name": "Gears of Eden",
+  "source_url": "https://www.igdb.com/games/gears-of-eden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q88.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gears of Eden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "791190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/791190",
+        "Linux": "setsid steam steam://rungameid/791190",
+        "macOS": "open steam://rungameid/791190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/791190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gears-of-eden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86298"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33150,
+  "name": "VReakout",
+  "source_url": "https://www.igdb.com/games/vreakout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob645.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VReakout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "458110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/458110",
+        "Linux": "setsid steam steam://rungameid/458110",
+        "macOS": "open steam://rungameid/458110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/458110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vreakout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33150"
+}

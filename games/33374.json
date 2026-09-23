@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33374,
+  "name": "Fibbage XL",
+  "source_url": "https://www.igdb.com/games/fibbage-xl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28fu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fibbage XL",
+      "os": null,
+      "method": "steam",
+      "launch_id": "448080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/448080",
+        "Linux": "setsid steam steam://rungameid/448080",
+        "macOS": "open steam://rungameid/448080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/448080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fibbage-xl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33374"
+}

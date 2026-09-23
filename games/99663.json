@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99663,
+  "name": "Trivia Vault: Movie Trivia",
+  "source_url": "https://www.igdb.com/games/trivia-vault-movie-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44z6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trivia Vault: Movie Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845970",
+        "Linux": "setsid steam steam://rungameid/845970",
+        "macOS": "open steam://rungameid/845970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/845970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "trivia-vault-movie-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99663"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389988,
+  "name": "Don't Pause Game!",
+  "source_url": "https://www.igdb.com/games/dont-pause-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo5z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Pause Game!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4257270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4257270",
+        "Linux": "setsid steam steam://rungameid/4257270",
+        "macOS": "open steam://rungameid/4257270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4257270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-pause-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389988"
+}

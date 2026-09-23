@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119456,
+  "name": "Klac",
+  "source_url": "https://www.igdb.com/games/klac",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44jb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Klac",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1102030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1102030",
+        "Linux": "setsid steam steam://rungameid/1102030",
+        "macOS": "open steam://rungameid/1102030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1102030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "klac",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119456"
+}

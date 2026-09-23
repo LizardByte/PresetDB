@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32666,
+  "name": ".Exe",
+  "source_url": "https://www.igdb.com/games/dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/ipdnkuxmb0fhkqttntfl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": ".Exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "471640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/471640",
+        "Linux": "setsid steam steam://rungameid/471640",
+        "macOS": "open steam://rungameid/471640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/471640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32666"
+}

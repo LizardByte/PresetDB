@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328975,
+  "name": "Blimpy",
+  "source_url": "https://www.igdb.com/games/blimpy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yrp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blimpy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3438210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3438210",
+        "Linux": "setsid steam steam://rungameid/3438210",
+        "macOS": "open steam://rungameid/3438210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3438210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blimpy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328975"
+}

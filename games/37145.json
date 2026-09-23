@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37145,
+  "name": "Valfaris",
+  "source_url": "https://www.igdb.com/games/valfaris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z4j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valfaris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600130",
+        "Linux": "setsid steam steam://rungameid/600130",
+        "macOS": "open steam://rungameid/600130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/600130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "valfaris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37145"
+}

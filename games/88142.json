@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88142,
+  "name": "NickProject",
+  "source_url": "https://www.igdb.com/games/nickproject",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NickProject",
+      "os": null,
+      "method": "steam",
+      "launch_id": "803870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/803870",
+        "Linux": "setsid steam steam://rungameid/803870",
+        "macOS": "open steam://rungameid/803870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/803870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nickproject",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88142"
+}

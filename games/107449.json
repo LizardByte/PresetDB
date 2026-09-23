@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107449,
+  "name": "Hanz!",
+  "source_url": "https://www.igdb.com/games/hanz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgmr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hanz!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "921770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/921770",
+        "Linux": "setsid steam steam://rungameid/921770",
+        "macOS": "open steam://rungameid/921770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/921770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hanz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107449"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29921,
+  "name": "Nick",
+  "source_url": "https://www.igdb.com/games/nick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob10z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "572660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/572660",
+        "Linux": "setsid steam steam://rungameid/572660",
+        "macOS": "open steam://rungameid/572660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/572660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29921"
+}

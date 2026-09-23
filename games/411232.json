@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411232,
+  "name": "ScreenCade",
+  "source_url": "https://www.igdb.com/games/screencade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockbg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ScreenCade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4694610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4694610",
+        "Linux": "setsid steam steam://rungameid/4694610",
+        "macOS": "open steam://rungameid/4694610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4694610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "screencade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411232"
+}

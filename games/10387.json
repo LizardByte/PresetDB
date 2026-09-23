@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10387,
+  "name": "Habitat",
+  "source_url": "https://www.igdb.com/games/habitat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41jt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Habitat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "299340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/299340",
+        "Linux": "setsid steam steam://rungameid/299340",
+        "macOS": "open steam://rungameid/299340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/299340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "habitat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10387"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10958,
+  "name": "The Next Big Thing",
+  "source_url": "https://www.igdb.com/games/the-next-big-thing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43zv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Next Big Thing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "58570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/58570",
+        "Linux": "setsid steam steam://rungameid/58570",
+        "macOS": "open steam://rungameid/58570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/58570",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "the-next-big-thing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10958"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36982,
+  "name": "Ironbound",
+  "source_url": "https://www.igdb.com/games/ironbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co251r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ironbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "643980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/643980",
+        "Linux": "setsid steam steam://rungameid/643980",
+        "macOS": "open steam://rungameid/643980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/643980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ironbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36982"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74695,
+  "name": "The Waiting Room",
+  "source_url": "https://www.igdb.com/games/the-waiting-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ro6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Waiting Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "744640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/744640",
+        "Linux": "setsid steam steam://rungameid/744640",
+        "macOS": "open steam://rungameid/744640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/744640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-waiting-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74695"
+}

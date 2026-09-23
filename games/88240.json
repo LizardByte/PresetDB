@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88240,
+  "name": "Starman in space",
+  "source_url": "https://www.igdb.com/games/starman-in-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91db.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starman in space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "804440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/804440",
+        "Linux": "setsid steam steam://rungameid/804440",
+        "macOS": "open steam://rungameid/804440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/804440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starman-in-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88240"
+}

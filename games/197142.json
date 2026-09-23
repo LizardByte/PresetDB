@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197142,
+  "name": "Pack My Stuff",
+  "source_url": "https://www.igdb.com/games/pack-my-stuff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pack My Stuff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1889450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1889450",
+        "Linux": "setsid steam steam://rungameid/1889450",
+        "macOS": "open steam://rungameid/1889450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1889450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pack-my-stuff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197142"
+}

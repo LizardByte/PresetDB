@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400117,
+  "name": "Steam to Electric",
+  "source_url": "https://www.igdb.com/games/steam-to-electric",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc03m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steam to Electric",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3908100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3908100",
+        "Linux": "setsid steam steam://rungameid/3908100",
+        "macOS": "open steam://rungameid/3908100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3908100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steam-to-electric",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400117"
+}

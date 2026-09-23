@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90608,
+  "name": "Trip: Steam Edition",
+  "source_url": "https://www.igdb.com/games/trip-steam-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86m5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trip: Steam Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "341540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/341540",
+        "Linux": "setsid steam steam://rungameid/341540",
+        "macOS": "open steam://rungameid/341540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/341540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "trip-steam-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90608"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35065,
+  "name": "Tiki Man",
+  "source_url": "https://www.igdb.com/games/tiki-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ny.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiki Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "376920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/376920",
+        "Linux": "setsid steam steam://rungameid/376920",
+        "macOS": "open steam://rungameid/376920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/376920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tiki-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35065"
+}

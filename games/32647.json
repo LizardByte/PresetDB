@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32647,
+  "name": "Lost Route",
+  "source_url": "https://www.igdb.com/games/lost-route",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobip1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Route",
+      "os": null,
+      "method": "steam",
+      "launch_id": "470280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/470280",
+        "Linux": "setsid steam steam://rungameid/470280",
+        "macOS": "open steam://rungameid/470280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/470280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-route",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32647"
+}

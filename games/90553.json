@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90553,
+  "name": "Songs2See Game",
+  "source_url": "https://www.igdb.com/games/songs2see-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41sd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Songs2See Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "248270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/248270",
+        "Linux": "setsid steam steam://rungameid/248270",
+        "macOS": "open steam://rungameid/248270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/248270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "songs2see-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90553"
+}

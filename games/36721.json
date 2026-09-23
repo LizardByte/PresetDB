@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36721,
+  "name": "Realm Grinder",
+  "source_url": "https://www.igdb.com/games/realm-grinder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xdg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Realm Grinder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "610080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/610080",
+        "Linux": "setsid steam steam://rungameid/610080",
+        "macOS": "open steam://rungameid/610080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/610080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "realm-grinder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36721"
+}

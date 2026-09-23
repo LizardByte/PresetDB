@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390139,
+  "name": "The Legend of You",
+  "source_url": "https://www.igdb.com/games/the-legend-of-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjh1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legend of You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4101210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4101210",
+        "Linux": "setsid steam steam://rungameid/4101210",
+        "macOS": "open steam://rungameid/4101210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4101210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-legend-of-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390139"
+}

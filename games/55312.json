@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55312,
+  "name": "Pix",
+  "source_url": "https://www.igdb.com/games/pix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601200",
+        "Linux": "setsid steam steam://rungameid/601200",
+        "macOS": "open steam://rungameid/601200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/601200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55312"
+}

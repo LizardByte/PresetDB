@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50508,
+  "name": "Romby",
+  "source_url": "https://www.igdb.com/games/romby",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4t6n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Romby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656210",
+        "Linux": "setsid steam steam://rungameid/656210",
+        "macOS": "open steam://rungameid/656210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/656210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "romby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50508"
+}

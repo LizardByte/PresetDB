@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109777,
+  "name": "Infinity Disk",
+  "source_url": "https://www.igdb.com/games/infinity-disk",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinity Disk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940700",
+        "Linux": "setsid steam steam://rungameid/940700",
+        "macOS": "open steam://rungameid/940700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/940700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "infinity-disk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109777"
+}

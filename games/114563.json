@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114563,
+  "name": "PrincessGuardians",
+  "source_url": "https://www.igdb.com/games/princessguardians",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2bm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PrincessGuardians",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1015150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1015150",
+        "Linux": "setsid steam steam://rungameid/1015150",
+        "macOS": "open steam://rungameid/1015150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1015150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "princessguardians",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114563"
+}

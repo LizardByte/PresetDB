@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99450,
+  "name": "Glitchball",
+  "source_url": "https://www.igdb.com/games/glitchball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfsr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glitchball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "823470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/823470",
+        "Linux": "setsid steam steam://rungameid/823470",
+        "macOS": "open steam://rungameid/823470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/823470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "glitchball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99450"
+}

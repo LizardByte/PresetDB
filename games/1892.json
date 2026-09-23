@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1892,
+  "name": "Pid",
+  "source_url": "https://www.igdb.com/games/pid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co262f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "218740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/218740",
+        "Linux": "setsid steam steam://rungameid/218740",
+        "macOS": "open steam://rungameid/218740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/218740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1892"
+}

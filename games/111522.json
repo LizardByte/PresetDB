@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111522,
+  "name": "Stick to the end",
+  "source_url": "https://www.igdb.com/games/stick-to-the-end",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobewy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stick to the end",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952970",
+        "Linux": "setsid steam steam://rungameid/952970",
+        "macOS": "open steam://rungameid/952970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/952970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stick-to-the-end",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111522"
+}

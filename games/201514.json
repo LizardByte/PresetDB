@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201514,
+  "name": "Caterpillar",
+  "source_url": "https://www.igdb.com/games/caterpillar--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ckc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caterpillar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1983020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1983020",
+        "Linux": "setsid steam steam://rungameid/1983020",
+        "macOS": "open steam://rungameid/1983020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1983020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "caterpillar--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201514"
+}

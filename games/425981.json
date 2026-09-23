@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425981,
+  "name": "Starwake",
+  "source_url": "https://www.igdb.com/games/starwake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coda49.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starwake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "804280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/804280",
+        "Linux": "setsid steam steam://rungameid/804280",
+        "macOS": "open steam://rungameid/804280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/804280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starwake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425981"
+}

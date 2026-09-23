@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210559,
+  "name": "My name is Uter",
+  "source_url": "https://www.igdb.com/games/my-name-is-uter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co509e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My name is Uter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2018080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2018080",
+        "Linux": "setsid steam steam://rungameid/2018080",
+        "macOS": "open steam://rungameid/2018080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2018080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-name-is-uter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210559"
+}
