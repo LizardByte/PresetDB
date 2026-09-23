@@ -67,15 +67,17 @@ function main(args = process.argv.slice(2)) {
   }
   if (!options.database) throw new Error('--database is required');
   if (options.pending) {
-    console.log(pendingMigrations(options.database).map(migration => migration.id).join('\n'));
-    return;
+    const pending = pendingMigrations(options.database).map(migration => migration.id);
+    console.log(pending.join('\n'));
+    return pending;
   }
   const applied = applyMigrations(options.database, {
     backupBranch: options['backup-branch'], sourceCommit: options['source-commit']
   });
   console.log(applied.length ? 'Applied migrations: ' + applied.join(', ') : 'No pending migrations');
+  return applied;
 }
 
 if (require.main === module) main();
 
-module.exports = { MIGRATIONS, migrationHistory, pendingMigrations, applyMigrations };
+module.exports = { MIGRATIONS, migrationHistory, pendingMigrations, applyMigrations, main };

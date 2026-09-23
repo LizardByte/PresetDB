@@ -32,4 +32,6 @@ SITE_ARTIFACT=update.zip
 EXTRACT_ARCHIVE=build.zip
 ```
 
+For pull requests, Build Pages applies pending migrations in the runner checkout of the database branch before assembling the preview. It does not commit or push that checkout. The Migrate Database workflow creates the real backup branch and updates the database only after a push to master.
+
 The `Build Pages` workflow publishes a check run named `call-jekyll-build / Build Jekyll`, uploads an `update` artifact containing `build.zip`, and the shared script extracts that nested archive before building with the organization theme. Hosted preview and Pages deployment require the repository, credentials, and branch settings described in the README.

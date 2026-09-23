@@ -249,4 +249,4 @@ function boot() {
 }
 
 if (typeof document !== 'undefined') document.addEventListener('DOMContentLoaded', boot);
-if (typeof module !== 'undefined') module.exports = { filterItems, commandForOs, sunshineSnippet, normalizeBasePath };
+if (typeof module !== 'undefined') module.exports = { filterItems, commandForOs, sunshineSnippet, renderPresetCard, normalizeBasePath };

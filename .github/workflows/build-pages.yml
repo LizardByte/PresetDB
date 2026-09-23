@@ -36,6 +36,15 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
+      - name: Preview database migrations
+        if: github.event_name == 'pull_request'
+        shell: bash
+        run: |
+          set -euo pipefail
+          source_commit=$(git -C database-branch rev-parse HEAD)
+          node src/migrate-database.js --database database-branch/database \
+            --backup-branch "database-backup-$source_commit" --source-commit "$source_commit"
+
       - name: Assemble site
         run: node src/build-site.js --database database-branch/database --output site-build
 

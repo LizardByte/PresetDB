@@ -87,4 +87,4 @@ async function main(args = process.argv.slice(2)) {
 
 if (require.main === module) main().catch(error => { console.error(error); process.exitCode = 1; });
 
-module.exports = { processIssue, requestKind };
+module.exports = { processIssue, requestKind, main };

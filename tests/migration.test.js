@@ -58,3 +58,37 @@ test('migration history rejects duplicate IDs', t => {
   }));
   assert.throws(() => pendingMigrations(root), /Invalid database migration history/);
 });
+
+test('first migration rewrites a legacy Steam preset ID, commands, and storage key', t => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'preset-migrate-steam-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const games = path.join(root, 'games');
+  fs.mkdirSync(games);
+  const file = path.join(games, '141114.json');
+  fs.writeFileSync(file, JSON.stringify({
+    schema_version: 1, kind: 'game', id: 141114, name: '007 First Light',
+    presets: [{
+      id: 'issue-4', name: '007 First Light (Steam)', os: null, method: 'steam',
+      launch_id: '3768760', sunshine_by_os: {
+        Windows: { cmd: 'cmd /c start "" "steam://rungameid/3768760"' },
+        Linux: { cmd: 'steam "steam://rungameid/3768760"' },
+        macOS: { cmd: 'open "steam://rungameid/3768760"' }
+      }
+    }]
+  }));
+  const sourceCommit = 'c'.repeat(40);
+  applyMigrations(root, {
+    backupBranch: 'database-backup-' + sourceCommit,
+    sourceCommit,
+    appliedAt: '2026-09-23T00:00:00.000Z'
+  });
+  const migrated = JSON.parse(fs.readFileSync(file, 'utf8'));
+  assert.equal(migrated.schema_version, 2);
+  assert.equal(migrated.presets[0].id, '4');
+  assert.deepEqual(migrated.presets[0].commands_by_os, {
+    Windows: 'steam://rungameid/3768760',
+    Linux: 'setsid steam steam://rungameid/3768760',
+    macOS: 'open steam://rungameid/3768760'
+  });
+  assert.ok(!Object.hasOwn(migrated.presets[0], 'sunshine_by_os'));
+});
