@@ -1,0 +1,70 @@
+---
+name: App launch preset
+description: Request one Sunshine launch option for a non-game app.
+title: '[APP PRESET]: '
+labels:
+  - request-app-preset
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Apps have no GameDB record. A maintainer reviews the official URL and command before approval.
+        Submit one host OS and command per issue. The preset name is generated from the app name and OS.
+  - type: input
+    id: app_name
+    attributes:
+      label: App name
+      description: Official app name.
+    validations:
+      required: true
+  - type: input
+    id: app_url
+    attributes:
+      label: Official app URL
+      description: HTTPS homepage or official source repository.
+    validations:
+      required: true
+  - type: input
+    id: app_image_url
+    attributes:
+      label: App image URL
+      description: Optional HTTPS image URL for the catalog. Do not enter a local file path.
+  - type: dropdown
+    id: os
+    attributes:
+      label: Host operating system
+      options:
+        - Windows
+        - Linux
+        - macOS
+    validations:
+      required: true
+  - type: input
+    id: command
+    attributes:
+      label: Command
+      description: |
+        Use {{HOME}} for a variable path. Windows also allows {{SYSTEM_DRIVE}}, {{PROGRAM_FILES}}, and
+        {{PROGRAM_FILES_X86}}. Use only host-independent paths; literal home directories are rejected.
+    validations:
+      required: true
+  - type: input
+    id: working_dir
+    attributes:
+      label: Working directory
+      description: Optional Sunshine working-dir value.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Setup instructions or prerequisites.
+  - type: textarea
+    id: replacement_reason
+    attributes:
+      label: Replacement reason
+      description: Explain why the existing preset should change. Required with the issue number below.
+  - type: input
+    id: replacement_issue
+    attributes:
+      label: Preset to replace (issue number)
+      description: Optional issue number shown with the published preset. Leave blank to add a new preset.

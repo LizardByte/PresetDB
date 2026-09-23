@@ -1,0 +1,60 @@
+---
+name: GOG game preset
+description: Request a Sunshine GOG launch option for a GameDB game.
+title: '[GOG GAME PRESET]: '
+labels:
+  - request-game-preset
+  - method-gog
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue represents one GOG launch option. Provide the IGDB game URL;
+        the bot resolves its ID and checks GameDB.
+  - type: input
+    id: game_url
+    attributes:
+      label: IGDB game URL
+      description: Official URL containing the game slug, for example https://www.igdb.com/games/surviving-mars.
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Host operating system
+      options:
+        - Windows
+        - Linux
+        - macOS
+    validations:
+      required: true
+  - type: input
+    id: command
+    attributes:
+      label: Command
+      description: |
+        Sunshine command to launch the game. Use {{HOME}} for a variable home path.
+        Windows also allows {{SYSTEM_DRIVE}}, {{PROGRAM_FILES}}, and {{PROGRAM_FILES_X86}}.
+        Literal home directories and reserved system names are rejected.
+    validations:
+      required: true
+  - type: input
+    id: working_dir
+    attributes:
+      label: Working directory
+      description: Optional Sunshine working-dir value.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Setup instructions or prerequisites.
+  - type: textarea
+    id: replacement_reason
+    attributes:
+      label: Replacement reason
+      description: Explain why the existing preset should change. Required with the issue number below.
+  - type: input
+    id: replacement_issue
+    attributes:
+      label: Preset to replace (issue number)
+      description: Optional issue number shown with the published preset. Leave blank to add a new preset.

@@ -1,0 +1,68 @@
+---
+name: Build Pages
+permissions: {}
+
+env:
+  NODE_VERSION: '24'
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Checkout database
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          ref: database
+          path: database-branch
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Assemble site
+        run: node src/build-site.js --database database-branch/database --output site-build
+
+      - name: Archive site
+        run: |
+          cd site-build
+          zip -qr ../build.zip .
+
+      - name: Upload site artifact
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a  # v7.0.1
+        with:
+          name: update
+          path: build.zip
+          if-no-files-found: error
+          retention-days: 1
+
+  call-jekyll-build:
+    needs: build
+    permissions:
+      contents: read
+    uses: LizardByte/LizardByte.github.io/.github/workflows/jekyll-build.yml@master
+    secrets:
+      GH_BOT_EMAIL: ${{ secrets.GH_BOT_EMAIL }}
+      GH_BOT_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+    with:
+      clean_gh_pages: true
+      extract_archive: build.zip
+      gh_bot_name: ${{ vars.GH_BOT_NAME }}
+      site_artifact: update
+      target_branch: gh-pages

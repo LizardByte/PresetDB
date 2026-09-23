@@ -1,0 +1,55 @@
+---
+name: Emulator game preset
+description: Request a Sunshine Emulator launch option for a GameDB game.
+title: '[EMULATOR GAME PRESET]: '
+labels:
+  - request-game-preset
+  - method-emulator
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue represents one Emulator launch option. Provide the IGDB game URL;
+        the bot resolves its ID and checks GameDB.
+  - type: input
+    id: game_url
+    attributes:
+      label: IGDB game URL
+      description: Official URL containing the game slug, for example https://www.igdb.com/games/surviving-mars.
+    validations:
+      required: true
+  - type: input
+    id: variant_name
+    attributes:
+      label: Emulator variant name
+      description: Optional emulator, console, or core label when needed to distinguish launch options.
+  - type: input
+    id: command
+    attributes:
+      label: Command
+      description: |
+        Portable Sunshine command for the emulator. Use {{ROM_PATH}} for the game and
+        {{HOME}} for a variable home path. Put the emulator executable on the host PATH.
+        Windows-only path placeholders, literal home directories, and reserved system names are rejected.
+    validations:
+      required: true
+  - type: input
+    id: working_dir
+    attributes:
+      label: Working directory
+      description: Optional portable Sunshine working-dir value.
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Setup instructions or prerequisites.
+  - type: textarea
+    id: replacement_reason
+    attributes:
+      label: Replacement reason
+      description: Explain why the existing preset should change. Required with the issue number below.
+  - type: input
+    id: replacement_issue
+    attributes:
+      label: Preset to replace (issue number)
+      description: Optional issue number shown with the published preset. Leave blank to add a new preset.

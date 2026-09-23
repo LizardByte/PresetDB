@@ -1,0 +1,70 @@
+---
+name: CI Tests
+permissions: {}
+
+env:
+  NODE_VERSION: '24'
+
+on:
+  pull_request:
+  push:
+    branches:
+      - master
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install dependencies
+        run: npm ci --ignore-scripts
+
+      - name: Test
+        id: test
+        run: npm run test:ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Upload test coverage
+        # any except cancelled or skipped
+        if:
+          always() &&
+          (
+            steps.test.outcome == 'success' ||
+            steps.test.outcome == 'failure'
+          ) &&
+          startsWith(github.repository, 'LizardByte/')
+        uses: codecov/codecov-action@303a32d7a59b442fa8d48b6a1cc6825c09c847a5  # v7.1.1
+        with:
+          fail_ci_if_error: true
+          files: ./lcov.info
+          report_type: coverage
+          token: ${{ secrets.CODECOV_TOKEN }}
+          verbose: true
+
+      - name: Upload test results
+        # any except cancelled or skipped
+        if:
+          always() &&
+          (
+            steps.test.outcome == 'success' ||
+            steps.test.outcome == 'failure'
+          ) &&
+          startsWith(github.repository, 'LizardByte/')
+        uses: codecov/codecov-action@303a32d7a59b442fa8d48b6a1cc6825c09c847a5  # v7.1.1
+        with:
+          fail_ci_if_error: true
+          files: ./junit.xml
+          report_type: test_results
+          token: ${{ secrets.CODECOV_TOKEN }}
+          verbose: true
