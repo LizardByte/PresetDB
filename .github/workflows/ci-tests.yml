@@ -32,6 +32,9 @@ jobs:
         id: test
         run: npm run test:ci
 
+      - name: Lint
+        run: npm run lint
+
       - name: Upload test coverage
         # any except cancelled or skipped
         if:
@@ -65,6 +68,3 @@ jobs:
           report_type: test_results
           token: ${{ secrets.CODECOV_TOKEN }}
           verbose: true
-
-      - name: Lint
-        run: npm run lint
