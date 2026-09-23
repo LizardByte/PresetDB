@@ -1,0 +1,44 @@
+---
+name: Steam game preset
+description: Request a Sunshine Steam launch option for a GameDB game.
+title: '[STEAM GAME PRESET]: '
+labels:
+  - request-game-preset
+  - method-steam
+body:
+  - type: markdown
+    attributes:
+      value: |
+        One issue represents one Steam launch option. Provide the IGDB game URL;
+        the bot resolves its ID and checks GameDB.
+  - type: input
+    id: game_url
+    attributes:
+      label: IGDB game URL
+      description: Official URL containing the game slug, for example https://www.igdb.com/games/surviving-mars.
+    validations:
+      required: true
+  - type: input
+    id: launch_id
+    attributes:
+      label: Launch ID
+      description: |
+        Steam numeric app ID from its store URL, for example 464920.
+        The bot generates the Sunshine command for each supported launcher OS.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Setup instructions or prerequisites.
+  - type: textarea
+    id: replacement_reason
+    attributes:
+      label: Replacement reason
+      description: Explain why the existing preset should change. Required with the issue number below.
+  - type: input
+    id: replacement_issue
+    attributes:
+      label: Preset to replace (issue number)
+      description: Optional issue number shown with the published preset. Leave blank to add a new preset.

@@ -5,6 +5,23 @@ const path = require('node:path');
 const { parseIssue, validateFields, validateGameDb, PresetError } = require('./presets');
 const { mergePreset } = require('./database');
 
+const METHOD_LABELS = {
+  'method-native': 'Native',
+  'method-steam': 'Steam',
+  'method-epic-games': 'Epic Games',
+  'method-gog': 'GOG',
+  'method-microsoft-store': 'Microsoft Store',
+  'method-emulator': 'Emulator'
+};
+
+function requestMethod(issue, kind) {
+  if (kind === 'app') return null;
+  const labels = (issue.labels || []).map(label => typeof label === 'string' ? label : label.name);
+  const methods = labels.filter(label => Object.hasOwn(METHOD_LABELS, label));
+  if (methods.length !== 1) throw new PresetError('Game issue must have exactly one launch method label');
+  return METHOD_LABELS[methods[0]];
+}
+
 function requestKind(issue) {
   const labels = new Set((issue.labels || []).map(label => typeof label === 'string' ? label : label.name));
   const game = labels.has('request-game-preset');
@@ -18,6 +35,9 @@ async function processIssue(event, database, { approve = false, actor = '', fetc
   if (!issue || !Number.isInteger(issue.number)) throw new PresetError('A GitHub issue event is required');
   const kind = requestKind(issue);
   const fields = parseIssue(issue.body || '');
+  const method = requestMethod(issue, kind);
+  if (fields.method && fields.method !== method) throw new PresetError('Issue launch method does not match its template');
+  if (method) fields.method = method;
   const preset = await validateGameDb(validateFields(fields, kind), fetcher, credentials);
   const merged = mergePreset(database, preset, {
     issueNumber: issue.number, approvedBy: actor,
@@ -49,11 +69,12 @@ async function main(args = process.argv.slice(2)) {
     });
     const item = result.kind === 'game' ? `GameDB game ${result.preset.gameId}` : `app ${result.preset.appName}`;
     const entry = result.record.presets.find(preset => preset.id === result.id);
+    const preview = entry.sunshine || entry.sunshine_by_os;
     const methodLine = result.kind === 'game' ? `- Method: ${result.preset.method}\n` : '';
     message = `Preset ${result.action === 'replace' ? 'replacement' : 'request'} validated for ${item}.\n\n` +
-      `- Host: ${result.preset.os}\n` + methodLine + `- Preset ID: \`${result.id}\`\n` +
+      `- Host: ${result.preset.os || 'OS independent'}\n` + methodLine + `- Preset ID: \`${result.id}\`\n` +
       `- Status: ${options.mode === 'approve' ? 'approved and saved' : 'awaiting maintainer review'}\n\n` +
-      `Sunshine application preview:\n\n\`\`\`json\n${JSON.stringify(entry.sunshine, null, 2)}\n\`\`\`\n`;
+      `Sunshine application JSON preview:\n\n\`\`\`json\n${JSON.stringify(preview, null, 2)}\n\`\`\`\n`;
     success = true;
   } catch (error) {
     message = `Preset validation failed: ${String(error.message).replace(/[\r\n]+/g, ' ').slice(0, 500)}\n`;

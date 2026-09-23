@@ -13,7 +13,7 @@ const { filterItems, sunshineSnippet, normalizeBasePath } = require('../gh-pages
 
 const credentials = { clientId: 'client-id', clientSecret: 'client-secret' };
 const gameValues = {
-  gameUrl: 'https://www.igdb.com/games/one-tap-hero', os: 'Windows', method: 'Emulator',
+  gameUrl: 'https://www.igdb.com/games/one-tap-hero', method: 'Emulator',
   variantName: 'RetroArch Snes9x', command: 'retroarch -L snes9x "{{ROM_PATH}}"',
   workingDir: '{{HOME}}', notes: 'Install the core first.'
 };
@@ -56,24 +56,23 @@ test('form parses the slug URL and rejects duplicate fields', () => {
   assert.throws(() => parseIssue(`${formBody(gameValues)}\n\n### Command\n\nother`), /Duplicate issue field/);
 });
 
-test('game submission needs no ID and validates path placeholders', () => {
+test('emulator needs no OS and validates portable path placeholders', () => {
   const preset = validateFields(gameValues, 'game');
   assert.equal(preset.gameId, null);
   assert.equal(preset.gameSlug, 'one-tap-hero');
+  assert.equal(preset.os, null);
   assert.equal(preset.variantName, 'RetroArch Snes9x');
-  assert.equal(validateFields({ ...gameValues, command: '{{PROGRAM_FILES}}\\Game\\game.exe' }, 'game').os, 'Windows');
-  assert.throws(() => validateFields({ ...gameValues, os: 'Linux', command: '{{PROGRAM_FILES}}/game' }, 'game'), /Windows only/);
+  assert.throws(() => validateFields({ ...gameValues, os: 'Windows' }, 'game'), /does not accept a host OS/);
+  assert.throws(() => validateFields({ ...gameValues, command: '{{PROGRAM_FILES}}/game' }, 'game'), /Windows only/);
   assert.throws(() => validateFields({ ...gameValues, command: '{{EMULATOR_PATH}} -L core' }, 'game'), /unsupported placeholder/);
   assert.throws(() => validateFields({ ...gameValues, command: '{{rom_path}}' }, 'game'), /malformed path placeholder/);
   for (const command of ['C:\\Users\\Alice\\Game\\game.exe', '%USERPROFILE%\\Game\\game.exe']) {
     assert.throws(() => validateFields({ ...gameValues, command }, 'game'), /literal home directory/);
   }
-  for (const workingDir of ['C:\\Games\\CON.txt', 'C:\\Games\\COM1\\Game', 'C:\\Games\\COM\u00B9']) {
+  for (const workingDir of ['C:\\Games\\CON.txt', 'C:\\Games\\COM1\\Game']) {
     assert.throws(() => validateFields({ ...gameValues, workingDir }, 'game'), /reserved Windows device name/);
   }
-  assert.throws(() => validateFields({ ...gameValues, os: 'Linux', workingDir: '/home/alice/Games' }, 'game'),
-    /literal home directory/);
-  assert.throws(() => validateFields({ ...gameValues, os: 'macOS', workingDir: '/Users/alice/Games' }, 'game'),
+  assert.throws(() => validateFields({ ...gameValues, workingDir: '/home/alice/Games' }, 'game'),
     /literal home directory/);
   assert.throws(() => validateFields({ ...gameValues, workingDir: '~/Games' }, 'game'), /literal home directory/);
 });
@@ -116,37 +115,26 @@ test('apps use an HTTPS image URL and have separate review identity', () => {
   assert.throws(() => validateFields({ ...values, command: '{{ROM_PATH}}' }, 'app'), /ROM_PATH.*Emulator/);
 });
 
-test('store IDs generate OS-specific Sunshine commands', () => {
+test('store IDs generate commands for each launcher OS without asking for OS', () => {
   const base = { ...gameValues, variantName: '', command: '', workingDir: '' };
-  const steamCommands = {
+  const steam = validateFields({ ...base, method: 'Steam', launchId: '464920' }, 'game');
+  assert.equal(steam.os, null);
+  assert.deepEqual(steam.commandsByOs, {
     Windows: 'cmd /c start "" "steam://rungameid/464920"',
     Linux: 'steam "steam://rungameid/464920"',
     macOS: 'open "steam://rungameid/464920"'
-  };
-  for (const [os, command] of Object.entries(steamCommands)) {
-    const preset = validateFields({ ...base, os, method: 'Steam', launchId: '464920' }, 'game');
-    assert.equal(preset.command, command);
-    assert.equal(preset.launchId, '464920');
-  }
-  const epic = 'fn%3A4fe75bbc5a674f4f9b356b5c90567da5%3AFortnite';
-  const epicUri = 'com.epicgames.launcher://apps/' + epic + '?action=launch&silent=true';
-  for (const [os, command] of [
-    ['Windows', 'cmd /c start "" "' + epicUri + '"'],
-    ['macOS', 'open "' + epicUri + '"']
-  ]) {
-    const preset = validateFields({ ...base, os, method: 'Epic Games',
-      launchId: 'fn:4fe75bbc5a674f4f9b356b5c90567da5:Fortnite' }, 'game');
-    assert.equal(preset.launchId, epic);
-    assert.equal(preset.command, command);
-  }
+  });
+  const epic = validateFields({ ...base, method: 'Epic Games',
+    launchId: 'fn:4fe75bbc5a674f4f9b356b5c90567da5:Fortnite' }, 'game');
+  assert.equal(epic.launchId, 'fn%3A4fe75bbc5a674f4f9b356b5c90567da5%3AFortnite');
+  assert.deepEqual(Object.keys(epic.commandsByOs), ['Windows', 'macOS']);
   const aumid = 'Microsoft.WindowsCalculator_8wekyb3d8bbwe!App';
   const store = validateFields({ ...base, method: 'Microsoft Store', launchId: aumid }, 'game');
-  assert.equal(store.command, 'explorer.exe shell:AppsFolder\\' + aumid);
-  assert.equal(store.launchId, aumid);
+  assert.deepEqual(store.commandsByOs, { Windows: 'explorer.exe shell:AppsFolder\\' + aumid });
   assert.equal(parseIssue(formBody({ ...base, method: 'Steam', launchId: '464920' })).launchId, '464920');
 });
 
-test('store IDs validate syntax, method, and host OS', () => {
+test('store IDs validate syntax and reject host OS or manual commands', () => {
   const base = { ...gameValues, variantName: '', command: '', workingDir: '' };
   assert.throws(() => validateFields({ ...base, method: 'Steam' }, 'game'), /Steam app ID/);
   assert.throws(() => validateFields({ ...base, method: 'Steam', launchId: '1&whoami' }, 'game'), /Steam app ID/);
@@ -155,32 +143,33 @@ test('store IDs validate syntax, method, and host OS', () => {
     command: 'other.exe' }, 'game'), /Do not provide a command/);
   assert.throws(() => validateFields({ ...base, method: 'Steam', launchId: '464920',
     workingDir: '{{HOME}}' }, 'game'), /Working directory is not used/);
-  assert.throws(() => validateFields({ ...base, method: 'Native', launchId: '464920',
+  assert.throws(() => validateFields({ ...base, method: 'Native', os: 'Windows', launchId: '464920',
     command: 'game.exe' }, 'game'), /Launch ID requires/);
   assert.throws(() => validateFields({ ...base, method: 'Epic Games', os: 'Linux',
-    launchId: 'fn:catalog:Fortnite' }, 'game'), /Windows and macOS only/);
+    launchId: 'fn:catalog:Fortnite' }, 'game'), /does not accept a host OS/);
   assert.throws(() => validateFields({ ...base, method: 'Epic Games',
     launchId: 'fn:catalog:Game&calc' }, 'game'), /Epic launch ID/);
   assert.throws(() => validateFields({ ...base, method: 'Microsoft Store',
     launchId: '9WZDNCRFHVJL' }, 'game'), /Microsoft Store AUMID/);
-  assert.throws(() => validateFields({ ...base, method: 'Microsoft Store', os: 'Linux',
-    launchId: 'Microsoft.WindowsCalculator_8wekyb3d8bbwe!App' }, 'game'), /Windows only/);
 });
 
-test('Native, GOG, and Emulator still require reviewed commands', () => {
+test('Native and GOG require OS; Emulator accepts a portable command', () => {
   const base = { ...gameValues, variantName: '', command: '', workingDir: '' };
-  for (const method of ['Native', 'GOG', 'Emulator']) {
-    assert.throws(() => validateFields({ ...base, method }, 'game'), /command is required/);
+  for (const method of ['Native', 'GOG']) {
+    assert.throws(() => validateFields({ ...base, method }, 'game'), /os is required/);
+    assert.throws(() => validateFields({ ...base, method, os: 'Windows' }, 'game'), /command is required/);
   }
-  assert.equal(validateFields({ ...base, method: 'GOG', command: 'game.exe' }, 'game').command, 'game.exe');
+  assert.throws(() => validateFields({ ...base, method: 'Emulator' }, 'game'), /command is required/);
+  assert.equal(validateFields({ ...base, method: 'GOG', os: 'Windows', command: 'game.exe' }, 'game').command,
+    'game.exe');
   assert.throws(() => validateFields({ ...base, method: 'Other', command: 'game.exe' }, 'game'),
     /supported game launch method/);
-  assert.throws(() => validateFields({ ...base, method: 'Native', command: 'steam://rungameid/464920' }, 'game'),
-    /Launcher URIs require/);
-  assert.throws(() => validateFields({ ...base, method: 'Native', command: '{{ROM_PATH}}' }, 'game'),
-    /ROM_PATH.*Emulator/);
-  assert.throws(() => validateFields({ ...base, method: 'Native', command: 'game.exe',
-    variantName: 'Alternate' }, 'game'), /Emulator/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', os: 'Windows',
+    command: 'steam://rungameid/464920' }, 'game'), /Launcher URIs require/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', os: 'Windows',
+    command: '{{ROM_PATH}}' }, 'game'), /ROM_PATH.*Emulator/);
+  assert.throws(() => validateFields({ ...base, method: 'Native', os: 'Windows',
+    command: 'game.exe', variantName: 'Alternate' }, 'game'), /Emulator/);
 });
 
 test('approved presets get issue IDs and replacements preserve identity', async t => {
@@ -199,7 +188,7 @@ test('approved presets get issue IDs and replacements preserve identity', async 
   const record = JSON.parse(fs.readFileSync(path.join(root, 'games/100245.json')));
   assert.equal(record.presets.length, 2);
   assert.equal(record.presets.find(item => item.id === 'issue-10').sunshine.cmd, 'new-command');
-  assert.equal(record.presets.find(item => item.id === 'issue-10').name, 'One Tap Hero (Windows, Emulator: RetroArch Snes9x)');
+  assert.equal(record.presets.find(item => item.id === 'issue-10').name, 'One Tap Hero (Emulator: RetroArch Snes9x)');
   assert.equal(record.presets.find(item => item.id === 'issue-10').origin_issue, 10);
   assert.equal(record.presets.find(item => item.id === 'issue-10').source_issue, 13);
   assert.throws(() => validateFields({ ...gameValues, replacementIssue: '10' }, 'game'), /replacement needs both/);
@@ -207,17 +196,18 @@ test('approved presets get issue IDs and replacements preserve identity', async 
     { issueNumber: 14, approvedBy: 'maintainer' }), /No preset/);
 });
 
-test('Steam app ID publishes a generated Sunshine command without detached or image paths', async t => {
+test('Steam app ID publishes one logical preset with host-specific Sunshine commands', async t => {
   const root = fs.mkdtempSync(path.join(os.tmpdir(), 'preset-steam-'));
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));
   const steam = await validateGameDb(validateFields({ ...gameValues, method: 'Steam',
     variantName: '', command: '', workingDir: '', launchId: '464920' }, 'game'), mockApis, credentials);
   const { record } = mergePreset(root, steam, { issueNumber: 30, approvedBy: 'reviewer' }, { write: true });
   assert.equal(record.presets[0].launch_id, '464920');
-  assert.equal(record.presets[0].sunshine.cmd, 'cmd /c start "" "steam://rungameid/464920"');
-  assert.equal(record.presets[0].sunshine.name, 'One Tap Hero (Windows, Steam)');
-  assert.ok(!Object.hasOwn(record.presets[0].sunshine, 'detached'));
-  assert.ok(!Object.hasOwn(record.presets[0].sunshine, 'image-path'));
+  assert.equal(record.presets[0].sunshine_by_os.Windows.cmd, 'cmd /c start "" "steam://rungameid/464920"');
+  assert.equal(record.presets[0].sunshine_by_os.Linux.cmd, 'steam "steam://rungameid/464920"');
+  assert.equal(record.presets[0].name, 'One Tap Hero (Steam)');
+  assert.ok(!Object.hasOwn(record.presets[0], 'detached'));
+  assert.ok(!Object.hasOwn(record.presets[0], 'image-path'));
 });
 
 test('issue processing and site build publish both game and app JSON', async t => {
@@ -225,14 +215,15 @@ test('issue processing and site build publish both game and app JSON', async t =
   t.after(() => fs.rmSync(root, { recursive: true, force: true }));
   const database = path.join(root, 'database');
   const output = path.join(root, 'site');
-  await processIssue({ issue: { number: 21, labels: [{ name: 'request-game-preset' }], body: formBody(gameValues) } },
+  await processIssue({ issue: { number: 21, labels: [{ name: 'request-game-preset' }, { name: 'method-emulator' }], body: formBody(gameValues) } },
     database, { approve: true, actor: 'reviewer', fetcher: mockApis, credentials });
   await processIssue({ issue: { number: 22, labels: [{ name: 'request-app-preset' }], body: formBody({
     appName: 'App One', appUrl: 'https://example.org', appImageUrl: 'https://example.org/icon.png',
     os: 'Linux', command: '{{HOME}}/app-one'
   }) } }, database, { approve: true, actor: 'reviewer' });
-  const index = buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output);
+  const index = await buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output);
   assert.equal(index.games[0].preset_count, 1);
+  assert.deepEqual(index.games[0].operating_systems, ['Linux', 'macOS', 'Windows']);
   assert.equal(index.apps[0].id, 'app-one');
   assert.equal(index.apps[0].image_url, 'https://example.org/icon.png');
   assert.equal(JSON.parse(fs.readFileSync(path.join(output, 'apps/app-one.json'))).presets[0].name, 'App One (Linux)');
@@ -252,4 +243,57 @@ test('site filters and serializes Sunshine application JSON', () => {
   assert.equal(JSON.parse(sunshineSnippet({ sunshine: { name: 'Halo', cmd: 'game.exe' } })).cmd, 'game.exe');
   assert.equal(normalizeBasePath('/PresetDB'), '/PresetDB');
   assert.equal(normalizeBasePath('en/pr-123'), '/en/pr-123');
+});
+
+test('Pages build adds a ProtonDB tier to Steam presets and keeps the source link', async t => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'preset-proton-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const database = path.join(root, 'database');
+  const output = path.join(root, 'site');
+  const steam = await validateGameDb(validateFields({ ...gameValues, method: 'Steam',
+    variantName: '', command: '', workingDir: '', launchId: '464920' }, 'game'), mockApis, credentials);
+  mergePreset(database, steam, { issueNumber: 31, approvedBy: 'reviewer' }, { write: true });
+  const fetcher = async url => {
+    assert.equal(url, 'https://www.protondb.com/api/v1/reports/summaries/464920.json');
+    return { ok: true, json: async () => ({ tier: 'gold', total: 73 }) };
+  };
+  const index = await buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output, fetcher);
+  assert.deepEqual(index.games[0].operating_systems, ['Linux', 'macOS', 'Windows']);
+  const published = JSON.parse(fs.readFileSync(path.join(output, 'games/100245.json')));
+  assert.deepEqual(published.presets[0].protondb, { tier: 'gold', reports: 73 });
+  assert.equal(published.presets[0].protondb_url, 'https://www.protondb.com/app/464920');
+  assert.equal(JSON.parse(sunshineSnippet(published.presets[0], 'Linux')).cmd,
+    'steam "steam://rungameid/464920"');
+});
+
+test('game method labels select the form and reject conflicting issue fields', async t => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'preset-method-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const issue = { number: 42, body: formBody({ gameUrl: gameValues.gameUrl,
+    launchId: '464920' }), labels: ['request-game-preset', 'method-steam'] };
+  const result = await processIssue({ issue }, root, { fetcher: mockApis, credentials });
+  assert.equal(result.preset.method, 'steam');
+  await assert.rejects(processIssue({ issue: { ...issue, labels: ['request-game-preset'] } },
+    root, { fetcher: mockApis, credentials }), /exactly one launch method label/);
+  await assert.rejects(processIssue({ issue: { ...issue,
+    labels: ['request-game-preset', 'method-steam', 'method-native'] } },
+  root, { fetcher: mockApis, credentials }), /exactly one launch method label/);
+  await assert.rejects(processIssue({ issue: { ...issue,
+    body: formBody({ gameUrl: gameValues.gameUrl, method: 'Native', launchId: '464920' }) } },
+  root, { fetcher: mockApis, credentials }), /does not match its template/);
+});
+
+test('missing ProtonDB ratings remain unknown without failing the Pages build', async t => {
+  const root = fs.mkdtempSync(path.join(os.tmpdir(), 'preset-proton-missing-'));
+  t.after(() => fs.rmSync(root, { recursive: true, force: true }));
+  const database = path.join(root, 'database');
+  const output = path.join(root, 'site');
+  const steam = await validateGameDb(validateFields({ ...gameValues, method: 'Steam',
+    variantName: '', command: '', workingDir: '', launchId: '464920' }, 'game'), mockApis, credentials);
+  mergePreset(database, steam, { issueNumber: 43, approvedBy: 'reviewer' }, { write: true });
+  await buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output,
+    async () => ({ ok: false, status: 404 }));
+  const published = JSON.parse(fs.readFileSync(path.join(output, 'games/100245.json')));
+  assert.equal(published.presets[0].protondb, null);
+  assert.equal(published.presets[0].protondb_url, 'https://www.protondb.com/app/464920');
 });

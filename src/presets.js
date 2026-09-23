@@ -79,7 +79,7 @@ function validatePortablePath(value, os, label) {
   if (homeRoot.test(normalized) || homeVariable.test(normalized)) {
     throw new PresetError(`${label} contains a literal home directory; use {{HOME}}`);
   }
-  if (os === 'Windows' &&
+  if ((os === 'Windows' || os === null) &&
       /(?:^|[/\s"'=])(?:con|prn|aux|nul|com[1-9\u00B9\u00B2\u00B3]|lpt[1-9\u00B9\u00B2\u00B3])(?:\.[^/\s"']*)?(?=$|[/\s"'])/i.test(normalized)) {
     throw new PresetError(`${label} contains a reserved Windows device name`);
   }
@@ -121,36 +121,44 @@ function appIdentity(values) {
   };
 }
 
-function generatedLaunch(values, method, os) {
-  const id = field(values, 'launchId', { limit: 300, singleLine: true });
-  if (!['Steam', 'Epic Games', 'Microsoft Store'].includes(method)) {
-    if (id) throw new PresetError('Launch ID requires Steam, Epic Games, or Microsoft Store');
-    return null;
+function steamLaunch(id) {
+  if (!/^[1-9]\d{0,9}$/.test(id) || Number(id) > 4294967295) {
+    throw new PresetError('Steam app ID must be a positive 32-bit number');
   }
+  const uri = 'steam://rungameid/' + id;
+  return { launchId: id, commandsByOs: {
+    Windows: 'cmd /c start "" "' + uri + '"',
+    Linux: 'steam "' + uri + '"',
+    macOS: 'open "' + uri + '"'
+  } };
+}
 
-  if (method === 'Steam') {
-    if (!/^[1-9]\d{0,9}$/.test(id) || Number(id) > 4294967295) {
-      throw new PresetError('Steam app ID must be a positive 32-bit number');
-    }
-    const uri = 'steam://rungameid/' + id;
-    const command = os === 'Windows' ? 'cmd /c start "" "' + uri + '"'
-      : os === 'macOS' ? 'open "' + uri + '"' : 'steam "' + uri + '"';
-    return { command, launchId: id };
+function epicLaunch(id) {
+  const parts = id.split(/%3A|:/i);
+  if (parts.length !== 3 || parts.some(part => !/^[A-Za-z0-9][A-Za-z0-9._-]{0,99}$/.test(part))) {
+    throw new PresetError('Epic launch ID must contain Sandbox ID, Catalog ID, and Artifact ID');
   }
-  if (method === 'Epic Games') {
-    const parts = id.split(/%3A|:/i);
-    if (parts.length !== 3 || parts.some(part => !/^[A-Za-z0-9][A-Za-z0-9._-]{0,99}$/.test(part))) {
-      throw new PresetError('Epic launch ID must contain Sandbox ID, Catalog ID, and Artifact ID');
-    }
-    const launchId = parts.join('%3A');
-    const uri = 'com.epicgames.launcher://apps/' + launchId + '?action=launch&silent=true';
-    const command = os === 'Windows' ? 'cmd /c start "" "' + uri + '"' : 'open "' + uri + '"';
-    return { command, launchId };
-  }
+  const launchId = parts.join('%3A');
+  const uri = 'com.epicgames.launcher://apps/' + launchId + '?action=launch&silent=true';
+  return { launchId, commandsByOs: {
+    Windows: 'cmd /c start "" "' + uri + '"',
+    macOS: 'open "' + uri + '"'
+  } };
+}
+
+function microsoftStoreLaunch(id) {
   if (!/^[A-Za-z0-9][A-Za-z0-9._-]*_[A-Za-z0-9]{13}![A-Za-z0-9][A-Za-z0-9._-]*$/.test(id)) {
     throw new PresetError('Microsoft Store AUMID must contain a package family name and application ID');
   }
-  return { command: 'explorer.exe shell:AppsFolder\\' + id, launchId: id };
+  return { launchId: id, commandsByOs: { Windows: 'explorer.exe shell:AppsFolder\\' + id } };
+}
+
+function generatedLaunch(values, method) {
+  const id = field(values, 'launchId', { limit: 300, singleLine: true });
+  const generators = { Steam: steamLaunch, 'Epic Games': epicLaunch, 'Microsoft Store': microsoftStoreLaunch };
+  if (Object.hasOwn(generators, method)) return generators[method](id);
+  if (id) throw new PresetError('Launch ID requires Steam, Epic Games, or Microsoft Store');
+  return null;
 }
 
 function validateManualLaunchCommand(command) {
@@ -169,50 +177,59 @@ function replacementFields(values) {
   return { replacementIssue, replacementReason };
 }
 
-function validateFields(values, kind) {
-  if (kind !== 'game' && kind !== 'app') throw new PresetError('Exactly one request type is required');
-  const os = field(values, 'os', { required: true, limit: 20, singleLine: true });
-  if (!['Windows', 'Linux', 'macOS'].includes(os)) {
-    throw new PresetError('Choose a supported host OS');
-  }
+function gameMethod(values, kind) {
   const suppliedMethod = field(values, 'method', { limit: 30, singleLine: true });
-  const method = kind === 'app' ? 'Native' : suppliedMethod;
-  if (kind === 'app' && suppliedMethod) {
-    throw new PresetError('App requests do not have a launch method');
+  if (kind === 'app') {
+    if (suppliedMethod) throw new PresetError('App requests do not have a launch method');
+    return 'Native';
   }
-  if (kind === 'game' &&
-      !['Native', 'Steam', 'Epic Games', 'GOG', 'Microsoft Store', 'Emulator'].includes(method)) {
+  if (!['Native', 'Steam', 'Epic Games', 'GOG', 'Microsoft Store', 'Emulator'].includes(suppliedMethod)) {
     throw new PresetError('Choose a supported game launch method');
   }
-  if (method === 'Microsoft Store' && os !== 'Windows') {
-    throw new PresetError('Microsoft Store is available on Windows only');
+  return suppliedMethod;
+}
+
+function hostOs(values, kind, method) {
+  const required = kind === 'app' || method === 'Native' || method === 'GOG';
+  const os = field(values, 'os', { required, limit: 20, singleLine: true });
+  if (os && !['Windows', 'Linux', 'macOS'].includes(os)) throw new PresetError('Choose a supported host OS');
+  if (!required && os) throw new PresetError('This launch method does not accept a host OS');
+  return os || null;
+}
+
+function manualCommand(values, method, os, launch) {
+  const submittedCommand = field(values, 'command', { required: !launch, singleLine: true });
+  const workingDir = field(values, 'workingDir', { limit: 512, singleLine: true });
+  if (launch && submittedCommand) throw new PresetError('Do not provide a command for a store ID launch');
+  if (launch && workingDir) throw new PresetError('Working directory is not used with a store ID launch');
+  if (launch) return { command: null, workingDir: null };
+  validatePlaceholders(submittedCommand, os, 'Launch command');
+  validatePlaceholders(workingDir, os, 'Working directory');
+  if (method !== 'Emulator' &&
+      (submittedCommand.includes('{{ROM_PATH}}') || workingDir.includes('{{ROM_PATH}}'))) {
+    throw new PresetError('{{ROM_PATH}} requires the Emulator launch method');
   }
-  if (method === 'Epic Games' && os === 'Linux') {
-    throw new PresetError('Epic Games launcher IDs are available on Windows and macOS only');
-  }
+  validatePortablePath(submittedCommand, os, 'Launch command');
+  validatePortablePath(workingDir, os, 'Working directory');
+  validateManualLaunchCommand(submittedCommand);
+  return { command: submittedCommand, workingDir: workingDir || null };
+}
+
+function validateFields(values, kind) {
+  if (kind !== 'game' && kind !== 'app') throw new PresetError('Exactly one request type is required');
+  const method = gameMethod(values, kind);
+  const os = hostOs(values, kind, method);
   const variantName = field(values, 'variantName', { limit: 100, singleLine: true });
   if (variantName && method !== 'Emulator') {
     throw new PresetError('An emulator variant name requires the Emulator launch method');
   }
   const identity = kind === 'game' ? gameIdentity(values) : appIdentity(values);
-  const launch = generatedLaunch(values, method, os);
-  const submittedCommand = field(values, 'command', { required: !launch, singleLine: true });
-  const workingDir = field(values, 'workingDir', { limit: 512, singleLine: true });
-  if (launch && submittedCommand) throw new PresetError('Do not provide a command for a store ID launch');
-  if (launch && workingDir) throw new PresetError('Working directory is not used with a store ID launch');
-  const command = launch ? launch.command : submittedCommand;
-  validatePlaceholders(command, os, 'Launch command');
-  validatePlaceholders(workingDir, os, 'Working directory');
-  if (method !== 'Emulator' && (command.includes('{{ROM_PATH}}') || workingDir.includes('{{ROM_PATH}}'))) {
-    throw new PresetError('{{ROM_PATH}} requires the Emulator launch method');
-  }
-  validatePortablePath(command, os, 'Launch command');
-  validatePortablePath(workingDir, os, 'Working directory');
-  if (!launch) validateManualLaunchCommand(command);
+  const launch = generatedLaunch(values, method);
+  const { command, workingDir } = manualCommand(values, method, os, launch);
   return {
     kind, ...identity, variantName: variantName || null, ...replacementFields(values),
-    os, method: slug(method), command, launchId: launch ? launch.launchId : null,
-    workingDir: workingDir || null,
+    os, method: slug(method), command, launchId: launch?.launchId || null,
+    commandsByOs: launch?.commandsByOs || null, workingDir,
     notes: field(values, 'notes', { limit: 2000 }) || null
   };
 }

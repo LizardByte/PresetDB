@@ -43,15 +43,18 @@ function prepareRecord(root, preset) {
   return { file, record, name };
 }
 
-function displayName(name, preset) {
-  if (preset.kind === 'app') return `${name} (${preset.os})`;
-  const labels = {
+function methodLabel(method) {
+  return {
     native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games',
     gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
-  };
-  const method = labels[preset.method];
+  }[method];
+}
+
+function displayName(name, preset) {
+  if (preset.kind === 'app') return `${name} (${preset.os})`;
+  const method = methodLabel(preset.method);
   const variant = preset.variantName ? `: ${preset.variantName}` : '';
-  return `${name} (${preset.os}, ${method}${variant})`;
+  return preset.os ? name + ' (' + preset.os + ', ' + method + variant + ')' : name + ' (' + method + variant + ')';
 }
 
 function replacementIndex(record, preset) {
@@ -90,11 +93,17 @@ function mergePreset(root, preset, {
     id: presetId, name: generatedName, os: preset.os, method: preset.method,
     ...(preset.variantName ? { variant_name: preset.variantName } : {}),
     ...(preset.launchId ? { launch_id: preset.launchId } : {}),
-    sunshine: {
-      name: generatedName,
-      cmd: preset.command,
-      ...(preset.workingDir ? { 'working-dir': preset.workingDir } : {})
-    },
+    ...(preset.commandsByOs ? {
+      sunshine_by_os: Object.fromEntries(Object.entries(preset.commandsByOs).map(([os, cmd]) => [
+        os, { name: name + ' (' + os + ', ' + methodLabel(preset.method) + ')', cmd }
+      ]))
+    } : {
+      sunshine: {
+        name: generatedName,
+        cmd: preset.command,
+        ...(preset.workingDir ? { 'working-dir': preset.workingDir } : {})
+      }
+    }),
     notes: preset.notes,
     origin_issue: originIssue,
     source_issue: issueNumber,

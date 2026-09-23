@@ -12,8 +12,10 @@ function filterItems(index, query, kind, os) {
   ).sort((a, b) => a.name.localeCompare(b.name));
 }
 
-function sunshineSnippet(preset) {
-  return JSON.stringify(preset.sunshine, null, 2);
+function sunshineSnippet(preset, os = 'Windows') {
+  const sunshine = preset.sunshine_by_os?.[os] || preset.sunshine;
+  if (!sunshine) throw new Error('Choose an available host OS');
+  return JSON.stringify(sunshine, null, 2);
 }
 
 function normalizeBasePath(value) {
@@ -113,14 +115,38 @@ function boot() {
         const body = element('div', 'card-body');
         body.append(element('h3', 'h5 card-title fw-bold', preset.name));
         if (preset.notes) body.append(element('p', 'card-text', preset.notes));
+        if (preset.protondb_url) {
+          const tier = preset.protondb?.tier;
+          const reports = preset.protondb?.reports;
+          const rating = tier ? 'ProtonDB: ' + tier[0].toUpperCase() + tier.slice(1) +
+            (reports === null ? '' : ' (' + reports + ' reports)') : 'Check Linux compatibility on ProtonDB';
+          const proton = element('p', 'card-text');
+          proton.append(safeLink(preset.protondb_url, rating));
+          body.append(proton);
+        }
+        let hostSelect;
+        if (preset.sunshine_by_os) {
+          const hostLabel = element('label', 'form-label', 'Host OS');
+          hostSelect = element('select', 'form-select rounded-0 mb-3');
+          for (const host of Object.keys(preset.sunshine_by_os)) {
+            const option = element('option', '', host);
+            option.value = host;
+            hostSelect.append(option);
+          }
+          hostLabel.append(hostSelect);
+          body.append(hostLabel);
+        }
+        const snippet = () => sunshineSnippet(preset, hostSelect?.value);
         const command = element('pre', 'p-3 rounded bg-dark text-light overflow-auto');
-        command.append(element('code', '', sunshineSnippet(preset)));
+        const code = element('code', '', snippet());
+        command.append(code);
+        if (hostSelect) hostSelect.addEventListener('change', () => { code.textContent = snippet(); });
         body.append(command);
         const copy = element('button', 'btn btn-warning rounded-0', 'Copy Sunshine JSON');
         copy.type = 'button';
         copy.addEventListener('click', async () => {
           try {
-            await navigator.clipboard.writeText(sunshineSnippet(preset));
+            await navigator.clipboard.writeText(snippet());
             copy.textContent = 'Copied';
           } catch {
             copy.textContent = 'Select and copy the JSON above';
