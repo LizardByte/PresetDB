@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189035,
+  "name": "Solitarius",
+  "source_url": "https://www.igdb.com/games/solitarius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m2p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solitarius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1858860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1858860",
+        "Linux": "setsid steam steam://rungameid/1858860",
+        "macOS": "open steam://rungameid/1858860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1858860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "solitarius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189035"
+}

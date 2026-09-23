@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33319,
+  "name": "Ariel",
+  "source_url": "https://www.igdb.com/games/ariel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23qj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ariel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "449700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/449700",
+        "Linux": "setsid steam steam://rungameid/449700",
+        "macOS": "open steam://rungameid/449700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/449700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ariel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33319"
+}

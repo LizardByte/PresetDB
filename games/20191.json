@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20191,
+  "name": "Super Cyborg",
+  "source_url": "https://www.igdb.com/games/super-cyborg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvpk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Cyborg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "341550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/341550",
+        "Linux": "setsid steam steam://rungameid/341550",
+        "macOS": "open steam://rungameid/341550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/341550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-cyborg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20191"
+}

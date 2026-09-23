@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36174,
+  "name": "Amphora",
+  "source_url": "https://www.igdb.com/games/amphora",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amphora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331510",
+        "Linux": "setsid steam steam://rungameid/331510",
+        "macOS": "open steam://rungameid/331510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/331510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amphora",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36174"
+}

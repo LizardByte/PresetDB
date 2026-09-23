@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30875,
+  "name": "Dynamic",
+  "source_url": "https://www.igdb.com/games/dynamic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pa9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dynamic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "546340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/546340",
+        "Linux": "setsid steam steam://rungameid/546340",
+        "macOS": "open steam://rungameid/546340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/546340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dynamic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30875"
+}

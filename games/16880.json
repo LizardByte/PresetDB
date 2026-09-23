@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16880,
+  "name": "Tower of Guns",
+  "source_url": "https://www.igdb.com/games/tower-of-guns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uy9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tower of Guns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "266110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/266110",
+        "Linux": "setsid steam steam://rungameid/266110",
+        "macOS": "open steam://rungameid/266110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/266110",
+      "protondb": {
+        "tier": "silver",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "tower-of-guns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16880"
+}

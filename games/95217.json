@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95217,
+  "name": "Metal",
+  "source_url": "https://www.igdb.com/games/metal",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822840",
+        "Linux": "setsid steam steam://rungameid/822840",
+        "macOS": "open steam://rungameid/822840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/822840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95217"
+}

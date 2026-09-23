@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30199,
+  "name": "Quizality",
+  "source_url": "https://www.igdb.com/games/quizality",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4g7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quizality",
+      "os": null,
+      "method": "steam",
+      "launch_id": "566350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/566350",
+        "Linux": "setsid steam steam://rungameid/566350",
+        "macOS": "open steam://rungameid/566350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/566350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "quizality",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30199"
+}

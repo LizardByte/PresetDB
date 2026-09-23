@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33291,
+  "name": "Ember Kaboom",
+  "source_url": "https://www.igdb.com/games/ember-kaboom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ember Kaboom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "451000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/451000",
+        "Linux": "setsid steam steam://rungameid/451000",
+        "macOS": "open steam://rungameid/451000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/451000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ember-kaboom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33291"
+}

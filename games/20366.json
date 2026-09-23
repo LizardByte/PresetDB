@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20366,
+  "name": "Shadow of Nebula",
+  "source_url": "https://www.igdb.com/games/shadow-of-nebula",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo0e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow of Nebula",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433960",
+        "Linux": "setsid steam steam://rungameid/433960",
+        "macOS": "open steam://rungameid/433960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shadow-of-nebula",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20366"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102876,
+  "name": "Amora",
+  "source_url": "https://www.igdb.com/games/amora",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23w4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816280",
+        "Linux": "setsid steam steam://rungameid/816280",
+        "macOS": "open steam://rungameid/816280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/816280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amora",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102876"
+}

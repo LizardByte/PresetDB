@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90259,
+  "name": "Paradise",
+  "source_url": "https://www.igdb.com/games/paradise--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99m8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paradise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789050",
+        "Linux": "setsid steam steam://rungameid/789050",
+        "macOS": "open steam://rungameid/789050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/789050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "paradise--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90259"
+}

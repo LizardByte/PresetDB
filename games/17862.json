@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17862,
+  "name": "I Will Escape",
+  "source_url": "https://www.igdb.com/games/i-will-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobker.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Will Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "324240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/324240",
+        "Linux": "setsid steam steam://rungameid/324240",
+        "macOS": "open steam://rungameid/324240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/324240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-will-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17862"
+}

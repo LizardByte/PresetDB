@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416030,
+  "name": "Desktop Bouncer",
+  "source_url": "https://www.igdb.com/games/desktop-bouncer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Bouncer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4749880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4749880",
+        "Linux": "setsid steam steam://rungameid/4749880",
+        "macOS": "open steam://rungameid/4749880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4749880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "desktop-bouncer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416030"
+}

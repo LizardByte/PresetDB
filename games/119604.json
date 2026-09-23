@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119604,
+  "name": "Global Fortune",
+  "source_url": "https://www.igdb.com/games/global-fortune",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41bg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Global Fortune",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1044800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1044800",
+        "Linux": "setsid steam steam://rungameid/1044800",
+        "macOS": "open steam://rungameid/1044800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1044800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "global-fortune",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119604"
+}

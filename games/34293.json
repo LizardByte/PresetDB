@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34293,
+  "name": "BioShock Remastered",
+  "source_url": "https://www.igdb.com/games/bioshock-remastered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co54yu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BioShock Remastered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "409710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/409710",
+        "Linux": "setsid steam steam://rungameid/409710",
+        "macOS": "open steam://rungameid/409710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/409710",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bioshock-remastered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34293"
+}

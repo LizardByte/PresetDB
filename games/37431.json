@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37431,
+  "name": "Project Taurus",
+  "source_url": "https://www.igdb.com/games/project-taurus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r0e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Taurus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "657080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/657080",
+        "Linux": "setsid steam steam://rungameid/657080",
+        "macOS": "open steam://rungameid/657080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/657080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "project-taurus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37431"
+}

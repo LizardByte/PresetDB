@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51581,
+  "name": "Hold My Beer",
+  "source_url": "https://www.igdb.com/games/hold-my-beer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bmv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hold My Beer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "672020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/672020",
+        "Linux": "setsid steam steam://rungameid/672020",
+        "macOS": "open steam://rungameid/672020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/672020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hold-my-beer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51581"
+}

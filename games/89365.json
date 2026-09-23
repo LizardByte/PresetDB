@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89365,
+  "name": "Starman's VR Experience",
+  "source_url": "https://www.igdb.com/games/starmans-vr-experience",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaq8j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starman's VR Experience",
+      "os": null,
+      "method": "steam",
+      "launch_id": "810760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/810760",
+        "Linux": "setsid steam steam://rungameid/810760",
+        "macOS": "open steam://rungameid/810760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/810760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starmans-vr-experience",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89365"
+}

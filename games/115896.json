@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115896,
+  "name": "GOK",
+  "source_url": "https://www.igdb.com/games/gok",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpsy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GOK",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1037110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1037110",
+        "Linux": "setsid steam steam://rungameid/1037110",
+        "macOS": "open steam://rungameid/1037110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1037110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gok",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115896"
+}

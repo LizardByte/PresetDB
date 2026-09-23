@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5489,
+  "name": "Game of Thrones",
+  "source_url": "https://www.igdb.com/games/game-of-thrones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2duu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game of Thrones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "208730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/208730",
+        "Linux": "setsid steam steam://rungameid/208730",
+        "macOS": "open steam://rungameid/208730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/208730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-of-thrones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5489"
+}

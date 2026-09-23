@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196906,
+  "name": "Matcho",
+  "source_url": "https://www.igdb.com/games/matcho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmq6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Matcho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878210",
+        "Linux": "setsid steam steam://rungameid/878210",
+        "macOS": "open steam://rungameid/878210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/878210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "matcho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196906"
+}

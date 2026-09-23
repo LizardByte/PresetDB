@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388076,
+  "name": "All Me Action Game",
+  "source_url": "https://www.igdb.com/games/all-me-action-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobeow.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All Me Action Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4201210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4201210",
+        "Linux": "setsid steam steam://rungameid/4201210",
+        "macOS": "open steam://rungameid/4201210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4201210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "all-me-action-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388076"
+}

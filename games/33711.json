@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33711,
+  "name": "Moonlight",
+  "source_url": "https://www.igdb.com/games/moonlight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p4u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moonlight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434410",
+        "Linux": "setsid steam steam://rungameid/434410",
+        "macOS": "open steam://rungameid/434410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/434410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moonlight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33711"
+}

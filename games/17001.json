@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17001,
+  "name": "Ashen",
+  "source_url": "https://www.igdb.com/games/ashen--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4o0i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ashen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649950",
+        "Linux": "setsid steam steam://rungameid/649950",
+        "macOS": "open steam://rungameid/649950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649950",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 16
+      }
+    }
+  ],
+  "igdb_slug": "ashen--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17001"
+}

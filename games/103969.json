@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103969,
+  "name": "Jetpack Dog",
+  "source_url": "https://www.igdb.com/games/jetpack-dog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jetpack Dog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880370",
+        "Linux": "setsid steam steam://rungameid/880370",
+        "macOS": "open steam://rungameid/880370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/880370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jetpack-dog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103969"
+}

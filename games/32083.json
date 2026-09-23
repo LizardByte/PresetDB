@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32083,
+  "name": "Clock Simulator",
+  "source_url": "https://www.igdb.com/games/clock-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctbl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clock Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "501120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/501120",
+        "Linux": "setsid steam steam://rungameid/501120",
+        "macOS": "open steam://rungameid/501120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/501120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "clock-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32083"
+}

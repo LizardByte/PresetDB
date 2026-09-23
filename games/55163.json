@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55163,
+  "name": "Resident Evil Village",
+  "source_url": "https://www.igdb.com/games/resident-evil-village",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab9q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil Village",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1196590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1196590",
+        "Linux": "setsid steam steam://rungameid/1196590",
+        "macOS": "open steam://rungameid/1196590"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1196590",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "resident-evil-village",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55163"
+}

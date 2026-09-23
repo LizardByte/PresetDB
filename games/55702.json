@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55702,
+  "name": "Killbox",
+  "source_url": "https://www.igdb.com/games/killbox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bsv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Killbox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652480",
+        "Linux": "setsid steam steam://rungameid/652480",
+        "macOS": "open steam://rungameid/652480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "killbox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55702"
+}

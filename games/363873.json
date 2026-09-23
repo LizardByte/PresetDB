@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363873,
+  "name": "1Second",
+  "source_url": "https://www.igdb.com/games/1second",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coactm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1Second",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3942530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3942530",
+        "Linux": "setsid steam steam://rungameid/3942530",
+        "macOS": "open steam://rungameid/3942530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3942530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "1second",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363873"
+}

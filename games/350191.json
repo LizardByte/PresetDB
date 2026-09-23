@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350191,
+  "name": "StarSavior",
+  "source_url": "https://www.igdb.com/games/starsavior",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobskz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StarSavior",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3609080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3609080",
+        "Linux": "setsid steam steam://rungameid/3609080",
+        "macOS": "open steam://rungameid/3609080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3609080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "starsavior",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350191"
+}

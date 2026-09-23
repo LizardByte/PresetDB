@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17105,
+  "name": "Crea",
+  "source_url": "https://www.igdb.com/games/crea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mpk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "280520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/280520",
+        "Linux": "setsid steam steam://rungameid/280520",
+        "macOS": "open steam://rungameid/280520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/280520",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "crea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17105"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17328,
+  "name": "Viktor",
+  "source_url": "https://www.igdb.com/games/viktor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rta.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Viktor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "296730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/296730",
+        "Linux": "setsid steam steam://rungameid/296730",
+        "macOS": "open steam://rungameid/296730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/296730",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "viktor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17328"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81050,
+  "name": "Kingdom Watcher",
+  "source_url": "https://www.igdb.com/games/kingdom-watcher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb8h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingdom Watcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "680970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/680970",
+        "Linux": "setsid steam steam://rungameid/680970",
+        "macOS": "open steam://rungameid/680970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/680970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "kingdom-watcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81050"
+}

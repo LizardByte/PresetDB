@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33730,
+  "name": "MechoEcho",
+  "source_url": "https://www.igdb.com/games/mechoecho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/q1kteynowb86poddfm8p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MechoEcho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433890",
+        "Linux": "setsid steam steam://rungameid/433890",
+        "macOS": "open steam://rungameid/433890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/433890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mechoecho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33730"
+}

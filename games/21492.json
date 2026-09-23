@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21492,
+  "name": "Mabinogi",
+  "source_url": "https://www.igdb.com/games/mabinogi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrdn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mabinogi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "212200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/212200",
+        "Linux": "setsid steam steam://rungameid/212200",
+        "macOS": "open steam://rungameid/212200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/212200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mabinogi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21492"
+}

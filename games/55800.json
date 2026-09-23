@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55800,
+  "name": "Zaba the Frog",
+  "source_url": "https://www.igdb.com/games/zaba-the-frog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9itz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zaba the Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "673530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/673530",
+        "Linux": "setsid steam steam://rungameid/673530",
+        "macOS": "open steam://rungameid/673530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/673530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zaba-the-frog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55800"
+}

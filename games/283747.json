@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 283747,
+  "name": "Keep It Running",
+  "source_url": "https://www.igdb.com/games/keep-it-running",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7o0c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keep It Running",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2863530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2863530",
+        "Linux": "setsid steam steam://rungameid/2863530",
+        "macOS": "open steam://rungameid/2863530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2863530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "keep-it-running",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=283747"
+}

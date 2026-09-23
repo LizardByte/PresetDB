@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164969,
+  "name": "JMPR",
+  "source_url": "https://www.igdb.com/games/jmpr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44bl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JMPR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "678150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/678150",
+        "Linux": "setsid steam steam://rungameid/678150",
+        "macOS": "open steam://rungameid/678150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/678150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jmpr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164969"
+}

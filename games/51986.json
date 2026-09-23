@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51986,
+  "name": "Surv",
+  "source_url": "https://www.igdb.com/games/surv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Surv",
+      "os": null,
+      "method": "steam",
+      "launch_id": "670620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/670620",
+        "Linux": "setsid steam steam://rungameid/670620",
+        "macOS": "open steam://rungameid/670620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/670620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "surv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51986"
+}

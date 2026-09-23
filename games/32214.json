@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32214,
+  "name": "Ghost Sweeper",
+  "source_url": "https://www.igdb.com/games/ghost-sweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Sweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "496990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/496990",
+        "Linux": "setsid steam steam://rungameid/496990",
+        "macOS": "open steam://rungameid/496990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/496990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghost-sweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32214"
+}

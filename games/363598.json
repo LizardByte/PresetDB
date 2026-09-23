@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363598,
+  "name": "Call of Thief",
+  "source_url": "https://www.igdb.com/games/call-of-thief",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Call of Thief",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3786940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3786940",
+        "Linux": "setsid steam steam://rungameid/3786940",
+        "macOS": "open steam://rungameid/3786940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3786940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "call-of-thief",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363598"
+}

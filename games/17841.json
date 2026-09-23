@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17841,
+  "name": "Roaming Fortress",
+  "source_url": "https://www.igdb.com/games/roaming-fortress",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa5c9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roaming Fortress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "323000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/323000",
+        "Linux": "setsid steam steam://rungameid/323000",
+        "macOS": "open steam://rungameid/323000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/323000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "roaming-fortress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17841"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16017,
+  "name": "Zombie Shooter",
+  "source_url": "https://www.igdb.com/games/zombie-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86na.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "33130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/33130",
+        "Linux": "setsid steam steam://rungameid/33130",
+        "macOS": "open steam://rungameid/33130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/33130",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "zombie-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16017"
+}

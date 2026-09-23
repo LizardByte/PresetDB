@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373456,
+  "name": "Hacked: The Streamer",
+  "source_url": "https://www.igdb.com/games/hacked-the-streamer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaonc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hacked: The Streamer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2425130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2425130",
+        "Linux": "setsid steam steam://rungameid/2425130",
+        "macOS": "open steam://rungameid/2425130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2425130",
+      "protondb": {
+        "tier": "gold",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "hacked-the-streamer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373456"
+}

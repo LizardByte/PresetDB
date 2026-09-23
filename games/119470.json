@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119470,
+  "name": "Zenkat",
+  "source_url": "https://www.igdb.com/games/zenkat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobimr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zenkat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1085800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1085800",
+        "Linux": "setsid steam steam://rungameid/1085800",
+        "macOS": "open steam://rungameid/1085800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1085800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zenkat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119470"
+}

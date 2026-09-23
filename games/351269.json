@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351269,
+  "name": "Alice in the Manor",
+  "source_url": "https://www.igdb.com/games/alice-in-the-manor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coav9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alice in the Manor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3424980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3424980",
+        "Linux": "setsid steam steam://rungameid/3424980",
+        "macOS": "open steam://rungameid/3424980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3424980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alice-in-the-manor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351269"
+}

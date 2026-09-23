@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383027,
+  "name": "Follow Us",
+  "source_url": "https://www.igdb.com/games/follow-us",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzvi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Follow Us",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3014580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3014580",
+        "Linux": "setsid steam steam://rungameid/3014580",
+        "macOS": "open steam://rungameid/3014580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3014580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "follow-us",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383027"
+}

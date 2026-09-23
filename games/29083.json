@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29083,
+  "name": "Duel VR",
+  "source_url": "https://www.igdb.com/games/duel-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2azl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duel VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "612010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/612010",
+        "Linux": "setsid steam steam://rungameid/612010",
+        "macOS": "open steam://rungameid/612010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/612010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "duel-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29083"
+}

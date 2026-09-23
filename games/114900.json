@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114900,
+  "name": "Destroy the World",
+  "source_url": "https://www.igdb.com/games/destroy-the-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg3p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Destroy the World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "991070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/991070",
+        "Linux": "setsid steam steam://rungameid/991070",
+        "macOS": "open steam://rungameid/991070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/991070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "destroy-the-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114900"
+}

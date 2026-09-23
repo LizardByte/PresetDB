@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86652,
+  "name": "Stronghold HD",
+  "source_url": "https://www.igdb.com/games/stronghold-hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dr3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stronghold HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "40950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/40950",
+        "Linux": "setsid steam steam://rungameid/40950",
+        "macOS": "open steam://rungameid/40950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/40950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stronghold-hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86652"
+}

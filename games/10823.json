@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10823,
+  "name": "Shiny the Firefly",
+  "source_url": "https://www.igdb.com/games/shiny-the-firefly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86jf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shiny the Firefly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "277510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/277510",
+        "Linux": "setsid steam steam://rungameid/277510",
+        "macOS": "open steam://rungameid/277510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/277510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shiny-the-firefly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10823"
+}

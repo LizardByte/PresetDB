@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55147,
+  "name": "Elex II",
+  "source_url": "https://www.igdb.com/games/elex-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co39yr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elex II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "900040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/900040",
+        "Linux": "setsid steam steam://rungameid/900040",
+        "macOS": "open steam://rungameid/900040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/900040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "elex-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55147"
+}

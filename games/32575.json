@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32575,
+  "name": "Knights",
+  "source_url": "https://www.igdb.com/games/knights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "476240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/476240",
+        "Linux": "setsid steam steam://rungameid/476240",
+        "macOS": "open steam://rungameid/476240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/476240",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "knights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32575"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31303,
+  "name": "Found",
+  "source_url": "https://www.igdb.com/games/found",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co265g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Found",
+      "os": null,
+      "method": "steam",
+      "launch_id": "528580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/528580",
+        "Linux": "setsid steam steam://rungameid/528580",
+        "macOS": "open steam://rungameid/528580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/528580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "found",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31303"
+}

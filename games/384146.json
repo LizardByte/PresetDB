@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384146,
+  "name": "Don’t Stop Smiling",
+  "source_url": "https://www.igdb.com/games/dont-stop-smiling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7q9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don’t Stop Smiling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4229600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4229600",
+        "Linux": "setsid steam steam://rungameid/4229600",
+        "macOS": "open steam://rungameid/4229600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4229600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-stop-smiling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384146"
+}

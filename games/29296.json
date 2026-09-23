@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29296,
+  "name": "My Name is You",
+  "source_url": "https://www.igdb.com/games/my-name-is-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co252z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Name is You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601650",
+        "Linux": "setsid steam steam://rungameid/601650",
+        "macOS": "open steam://rungameid/601650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/601650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-name-is-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29296"
+}

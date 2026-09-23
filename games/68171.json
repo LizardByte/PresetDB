@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68171,
+  "name": "Hailstorm",
+  "source_url": "https://www.igdb.com/games/hailstorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bjx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hailstorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "618500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/618500",
+        "Linux": "setsid steam steam://rungameid/618500",
+        "macOS": "open steam://rungameid/618500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/618500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hailstorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68171"
+}

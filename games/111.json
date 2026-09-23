@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111,
+  "name": "Amnesia: The Dark Descent",
+  "source_url": "https://www.igdb.com/games/amnesia-the-dark-descent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qq5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amnesia: The Dark Descent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "57300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/57300",
+        "Linux": "setsid steam steam://rungameid/57300",
+        "macOS": "open steam://rungameid/57300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/57300",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 56
+      }
+    }
+  ],
+  "igdb_slug": "amnesia-the-dark-descent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111"
+}

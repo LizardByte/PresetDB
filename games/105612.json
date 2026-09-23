@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105612,
+  "name": "Navigator",
+  "source_url": "https://www.igdb.com/games/navigator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgcv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Navigator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "896370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/896370",
+        "Linux": "setsid steam steam://rungameid/896370",
+        "macOS": "open steam://rungameid/896370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/896370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "navigator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105612"
+}

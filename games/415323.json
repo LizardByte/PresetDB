@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415323,
+  "name": "Mave's Castle",
+  "source_url": "https://www.igdb.com/games/maves-castle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mave's Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5050120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5050120",
+        "Linux": "setsid steam steam://rungameid/5050120",
+        "macOS": "open steam://rungameid/5050120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5050120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "maves-castle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415323"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33842,
+  "name": "Cursed",
+  "source_url": "https://www.igdb.com/games/cursed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1syl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cursed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "431260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/431260",
+        "Linux": "setsid steam steam://rungameid/431260",
+        "macOS": "open steam://rungameid/431260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/431260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cursed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33842"
+}

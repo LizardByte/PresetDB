@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109433,
+  "name": "GyroCube VR",
+  "source_url": "https://www.igdb.com/games/gyrocube-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhjo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GyroCube VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "737840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/737840",
+        "Linux": "setsid steam steam://rungameid/737840",
+        "macOS": "open steam://rungameid/737840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/737840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gyrocube-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109433"
+}

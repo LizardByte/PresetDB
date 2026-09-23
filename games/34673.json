@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34673,
+  "name": "Uebergame",
+  "source_url": "https://www.igdb.com/games/uebergame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1txe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uebergame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "391780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/391780",
+        "Linux": "setsid steam steam://rungameid/391780",
+        "macOS": "open steam://rungameid/391780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/391780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "uebergame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34673"
+}

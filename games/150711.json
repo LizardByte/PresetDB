@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150711,
+  "name": "Crown of the Empire",
+  "source_url": "https://www.igdb.com/games/crown-of-the-empire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nws.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crown of the Empire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1113090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1113090",
+        "Linux": "setsid steam steam://rungameid/1113090",
+        "macOS": "open steam://rungameid/1113090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1113090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crown-of-the-empire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150711"
+}

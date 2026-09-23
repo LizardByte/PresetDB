@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 41123,
+  "name": "Isle in the Sky",
+  "source_url": "https://www.igdb.com/games/isle-in-the-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Isle in the Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "649040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/649040",
+        "Linux": "setsid steam steam://rungameid/649040",
+        "macOS": "open steam://rungameid/649040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/649040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "isle-in-the-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=41123"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17092,
+  "name": "The Troma Project",
+  "source_url": "https://www.igdb.com/games/the-troma-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co445q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Troma Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "279640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/279640",
+        "Linux": "setsid steam steam://rungameid/279640",
+        "macOS": "open steam://rungameid/279640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/279640",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "the-troma-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17092"
+}

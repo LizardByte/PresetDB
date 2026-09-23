@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81216,
+  "name": "Show It 2 Me",
+  "source_url": "https://www.igdb.com/games/show-it-2-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb8k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Show It 2 Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622270",
+        "Linux": "setsid steam steam://rungameid/622270",
+        "macOS": "open steam://rungameid/622270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/622270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "show-it-2-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81216"
+}

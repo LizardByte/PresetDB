@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8762,
+  "name": "Lumino City",
+  "source_url": "https://www.igdb.com/games/lumino-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2i7u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lumino City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "205020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/205020",
+        "Linux": "setsid steam steam://rungameid/205020",
+        "macOS": "open steam://rungameid/205020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/205020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lumino-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8762"
+}

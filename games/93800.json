@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93800,
+  "name": "Temptation",
+  "source_url": "https://www.igdb.com/games/temptation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1k46.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Temptation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "825000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/825000",
+        "Linux": "setsid steam steam://rungameid/825000",
+        "macOS": "open steam://rungameid/825000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/825000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "temptation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93800"
+}

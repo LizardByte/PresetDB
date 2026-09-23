@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109831,
+  "name": "Vagrant Fury",
+  "source_url": "https://www.igdb.com/games/vagrant-fury",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vagrant Fury",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881260",
+        "Linux": "setsid steam steam://rungameid/881260",
+        "macOS": "open steam://rungameid/881260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/881260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vagrant-fury",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109831"
+}

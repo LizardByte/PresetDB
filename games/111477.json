@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111477,
+  "name": "Slide to finish",
+  "source_url": "https://www.igdb.com/games/slide-to-finish",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slide to finish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955840",
+        "Linux": "setsid steam steam://rungameid/955840",
+        "macOS": "open steam://rungameid/955840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/955840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slide-to-finish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111477"
+}

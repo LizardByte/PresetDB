@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51381,
+  "name": "Age of Heroes VR",
+  "source_url": "https://www.igdb.com/games/age-of-heroes-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29el.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age of Heroes VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "586080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/586080",
+        "Linux": "setsid steam steam://rungameid/586080",
+        "macOS": "open steam://rungameid/586080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/586080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "age-of-heroes-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51381"
+}

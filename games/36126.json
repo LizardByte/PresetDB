@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36126,
+  "name": "Don't Move",
+  "source_url": "https://www.igdb.com/games/dont-move",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29r5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Move",
+      "os": null,
+      "method": "steam",
+      "launch_id": "334350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/334350",
+        "Linux": "setsid steam steam://rungameid/334350",
+        "macOS": "open steam://rungameid/334350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/334350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-move",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36126"
+}

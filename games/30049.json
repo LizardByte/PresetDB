@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30049,
+  "name": "Bitdude",
+  "source_url": "https://www.igdb.com/games/bitdude",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29xt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bitdude",
+      "os": null,
+      "method": "steam",
+      "launch_id": "569370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/569370",
+        "Linux": "setsid steam steam://rungameid/569370",
+        "macOS": "open steam://rungameid/569370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/569370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bitdude",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30049"
+}

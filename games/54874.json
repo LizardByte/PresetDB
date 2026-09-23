@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 54874,
+  "name": "Backgammon",
+  "source_url": "https://www.igdb.com/games/backgammon--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29vc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Backgammon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "696110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/696110",
+        "Linux": "setsid steam steam://rungameid/696110",
+        "macOS": "open steam://rungameid/696110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/696110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "backgammon--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=54874"
+}

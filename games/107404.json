@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107404,
+  "name": "Shadow Brawlers",
+  "source_url": "https://www.igdb.com/games/shadow-brawlers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uwz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow Brawlers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "890310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/890310",
+        "Linux": "setsid steam steam://rungameid/890310",
+        "macOS": "open steam://rungameid/890310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/890310",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "shadow-brawlers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107404"
+}

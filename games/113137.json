@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113137,
+  "name": "Fightworld",
+  "source_url": "https://www.igdb.com/games/fightworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q5d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fightworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "849090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/849090",
+        "Linux": "setsid steam steam://rungameid/849090",
+        "macOS": "open steam://rungameid/849090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/849090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fightworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113137"
+}

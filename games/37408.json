@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37408,
+  "name": "VR Guest",
+  "source_url": "https://www.igdb.com/games/vr-guest",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Guest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652180",
+        "Linux": "setsid steam steam://rungameid/652180",
+        "macOS": "open steam://rungameid/652180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-guest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37408"
+}

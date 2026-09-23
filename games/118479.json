@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118479,
+  "name": "Dead",
+  "source_url": "https://www.igdb.com/games/dead--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1t47.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1018110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1018110",
+        "Linux": "setsid steam steam://rungameid/1018110",
+        "macOS": "open steam://rungameid/1018110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1018110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dead--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118479"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416000,
+  "name": "Mycelium Protocol",
+  "source_url": "https://www.igdb.com/games/mycelium-protocol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct8r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mycelium Protocol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4426050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4426050",
+        "Linux": "setsid steam steam://rungameid/4426050",
+        "macOS": "open steam://rungameid/4426050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4426050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mycelium-protocol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416000"
+}

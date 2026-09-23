@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1021,
+  "name": "Aliens: Colonial Marines",
+  "source_url": "https://www.igdb.com/games/aliens-colonial-marines",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sj6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aliens: Colonial Marines",
+      "os": null,
+      "method": "steam",
+      "launch_id": "49540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/49540",
+        "Linux": "setsid steam steam://rungameid/49540",
+        "macOS": "open steam://rungameid/49540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/49540",
+      "protondb": {
+        "tier": "gold",
+        "reports": 53
+      }
+    }
+  ],
+  "igdb_slug": "aliens-colonial-marines",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1021"
+}

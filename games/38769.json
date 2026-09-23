@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 38769,
+  "name": "A Goo Adventure",
+  "source_url": "https://www.igdb.com/games/a-goo-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24wo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Goo Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "655470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/655470",
+        "Linux": "setsid steam steam://rungameid/655470",
+        "macOS": "open steam://rungameid/655470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/655470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "a-goo-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=38769"
+}

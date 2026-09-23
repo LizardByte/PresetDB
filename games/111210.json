@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111210,
+  "name": "Mr Husky",
+  "source_url": "https://www.igdb.com/games/mr-husky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1naa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr Husky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964210",
+        "Linux": "setsid steam steam://rungameid/964210",
+        "macOS": "open steam://rungameid/964210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/964210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mr-husky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111210"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203542,
+  "name": "Shadow of Asha",
+  "source_url": "https://www.igdb.com/games/shadow-of-asha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5l2e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow of Asha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2007000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2007000",
+        "Linux": "setsid steam steam://rungameid/2007000",
+        "macOS": "open steam://rungameid/2007000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2007000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shadow-of-asha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203542"
+}

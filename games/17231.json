@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17231,
+  "name": "Card Hunter",
+  "source_url": "https://www.igdb.com/games/card-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mvn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Card Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "293260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/293260",
+        "Linux": "setsid steam steam://rungameid/293260",
+        "macOS": "open steam://rungameid/293260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/293260",
+      "protondb": {
+        "tier": "gold",
+        "reports": 25
+      }
+    }
+  ],
+  "igdb_slug": "card-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17231"
+}

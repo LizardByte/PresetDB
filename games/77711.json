@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 77711,
+  "name": "Crash World",
+  "source_url": "https://www.igdb.com/games/crash-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nm7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crash World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852890",
+        "Linux": "setsid steam steam://rungameid/852890",
+        "macOS": "open steam://rungameid/852890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/852890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crash-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=77711"
+}

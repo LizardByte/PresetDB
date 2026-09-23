@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380030,
+  "name": "Red Cell",
+  "source_url": "https://www.igdb.com/games/red-cell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxjw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Cell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3647700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3647700",
+        "Linux": "setsid steam steam://rungameid/3647700",
+        "macOS": "open steam://rungameid/3647700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3647700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "red-cell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380030"
+}

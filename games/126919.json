@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126919,
+  "name": "Try not to die",
+  "source_url": "https://www.igdb.com/games/try-not-to-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co450a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Try not to die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1132850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1132850",
+        "Linux": "setsid steam steam://rungameid/1132850",
+        "macOS": "open steam://rungameid/1132850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1132850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "try-not-to-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126919"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5508,
+  "name": "The Banner Saga",
+  "source_url": "https://www.igdb.com/games/the-banner-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27ah.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Banner Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "237990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/237990",
+        "Linux": "setsid steam steam://rungameid/237990",
+        "macOS": "open steam://rungameid/237990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/237990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-banner-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5508"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10264,
+  "name": "Moonbase Alpha",
+  "source_url": "https://www.igdb.com/games/moonbase-alpha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moonbase Alpha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "39000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/39000",
+        "Linux": "setsid steam steam://rungameid/39000",
+        "macOS": "open steam://rungameid/39000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/39000",
+      "protondb": {
+        "tier": "silver",
+        "reports": 29
+      }
+    }
+  ],
+  "igdb_slug": "moonbase-alpha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10264"
+}

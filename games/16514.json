@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16514,
+  "name": "Cranky Cat",
+  "source_url": "https://www.igdb.com/games/cranky-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0au.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cranky Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "236290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/236290",
+        "Linux": "setsid steam steam://rungameid/236290",
+        "macOS": "open steam://rungameid/236290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/236290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cranky-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16514"
+}

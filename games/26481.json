@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26481,
+  "name": "Ravenfield",
+  "source_url": "https://www.igdb.com/games/ravenfield",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24pg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ravenfield",
+      "os": null,
+      "method": "steam",
+      "launch_id": "636480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/636480",
+        "Linux": "setsid steam steam://rungameid/636480",
+        "macOS": "open steam://rungameid/636480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/636480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ravenfield",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26481"
+}

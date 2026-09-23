@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103256,
+  "name": "Escape from Tethys",
+  "source_url": "https://www.igdb.com/games/escape-from-tethys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2elr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Tethys",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822540",
+        "Linux": "setsid steam steam://rungameid/822540",
+        "macOS": "open steam://rungameid/822540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/822540",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "escape-from-tethys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103256"
+}

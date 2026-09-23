@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86412,
+  "name": "Gamma Blast",
+  "source_url": "https://www.igdb.com/games/gamma-blast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcts.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gamma Blast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "759830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/759830",
+        "Linux": "setsid steam steam://rungameid/759830",
+        "macOS": "open steam://rungameid/759830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/759830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gamma-blast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86412"
+}

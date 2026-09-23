@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 11246,
+  "name": "Fort Meow",
+  "source_url": "https://www.igdb.com/games/fort-meow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co216b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fort Meow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "352070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/352070",
+        "Linux": "setsid steam steam://rungameid/352070",
+        "macOS": "open steam://rungameid/352070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/352070",
+      "protondb": {
+        "tier": "silver",
+        "reports": 17
+      }
+    }
+  ],
+  "igdb_slug": "fort-meow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=11246"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37419,
+  "name": "Dude Simulator",
+  "source_url": "https://www.igdb.com/games/dude-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa93t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dude Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "654990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/654990",
+        "Linux": "setsid steam steam://rungameid/654990",
+        "macOS": "open steam://rungameid/654990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/654990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dude-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37419"
+}

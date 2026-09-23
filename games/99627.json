@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99627,
+  "name": "Good Doggo",
+  "source_url": "https://www.igdb.com/games/good-doggo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gtj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Good Doggo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840060",
+        "Linux": "setsid steam steam://rungameid/840060",
+        "macOS": "open steam://rungameid/840060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/840060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "good-doggo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99627"
+}

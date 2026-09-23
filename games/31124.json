@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31124,
+  "name": "Bric",
+  "source_url": "https://www.igdb.com/games/bric",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6cx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bric",
+      "os": null,
+      "method": "steam",
+      "launch_id": "537050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/537050",
+        "Linux": "setsid steam steam://rungameid/537050",
+        "macOS": "open steam://rungameid/537050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/537050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bric",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31124"
+}

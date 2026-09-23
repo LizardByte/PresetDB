@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19064,
+  "name": "Star Chart",
+  "source_url": "https://www.igdb.com/games/star-chart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobipe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Chart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "460580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/460580",
+        "Linux": "setsid steam steam://rungameid/460580",
+        "macOS": "open steam://rungameid/460580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/460580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "star-chart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19064"
+}

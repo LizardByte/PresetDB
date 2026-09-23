@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124176,
+  "name": "Agent Roswell",
+  "source_url": "https://www.igdb.com/games/agent-roswell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l76.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agent Roswell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "931320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/931320",
+        "Linux": "setsid steam steam://rungameid/931320",
+        "macOS": "open steam://rungameid/931320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/931320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "agent-roswell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124176"
+}
