@@ -72,13 +72,14 @@ function validatePlaceholders(value, os, label) {
 
 function validatePortablePath(value, os, label) {
   // Personal home locations cannot be shared between Sunshine hosts.
-  const normalized = value.replace(/\\/g, '/');
-  const literalHome = /(?:^|[\s"'=])(?:~(?:\/|$)|[a-z]:\/(?:users|documents and settings)\/[^/\s"']+|\/(?:home|users)\/[^/\s"']+|%userprofile%|%homepath%|\$(?:home|\{home\}|\(home\)))/i;
-  if (literalHome.test(normalized)) {
+  const normalized = value.replaceAll('\\', '/');
+  const homeRoot = /(?:^|[\s"'=])(?:~\/|[a-z]:\/(?:users|documents and settings)\/|\/(?:home|users)\/)/i;
+  const homeVariable = /%userprofile%|%homepath%|\$home|\$\{home\}|\$\(home\)/i;
+  if (homeRoot.test(normalized) || homeVariable.test(normalized)) {
     throw new PresetError(`${label} contains a literal home directory; use {{HOME}}`);
   }
   if (os === 'Windows' &&
-      /(?:^|[\/\s"'=])(?:con|prn|aux|nul|com[1-9\u00B9\u00B2\u00B3]|lpt[1-9\u00B9\u00B2\u00B3])(?:\.[^/\s"']*)?(?=$|[\/\s"'])/i.test(normalized)) {
+      /(?:^|[/\s"'=])(?:con|prn|aux|nul|com[1-9\u00B9\u00B2\u00B3]|lpt[1-9\u00B9\u00B2\u00B3])(?:\.[^/\s"']*)?(?=$|[/\s"'])/i.test(normalized)) {
     throw new PresetError(`${label} contains a reserved Windows device name`);
   }
 }
