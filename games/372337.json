@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372337,
+  "name": "Darkspy",
+  "source_url": "https://www.igdb.com/games/darkspy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coan9s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darkspy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990890",
+        "Linux": "setsid steam steam://rungameid/2990890",
+        "macOS": "open steam://rungameid/2990890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2990890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darkspy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372337"
+}

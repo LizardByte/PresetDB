@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80966,
+  "name": "Warzone",
+  "source_url": "https://www.igdb.com/games/warzone--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnj0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warzone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "712230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/712230",
+        "Linux": "setsid steam steam://rungameid/712230",
+        "macOS": "open steam://rungameid/712230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/712230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "warzone--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80966"
+}

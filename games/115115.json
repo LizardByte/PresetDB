@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115115,
+  "name": "Resident Evil 3",
+  "source_url": "https://www.igdb.com/games/resident-evil-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocw1u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952060",
+        "Linux": "setsid steam steam://rungameid/952060",
+        "macOS": "open steam://rungameid/952060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/952060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "resident-evil-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115115"
+}

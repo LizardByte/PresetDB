@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107881,
+  "name": "Princess Lili",
+  "source_url": "https://www.igdb.com/games/princess-lili",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co240y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Princess Lili",
+      "os": null,
+      "method": "steam",
+      "launch_id": "876850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/876850",
+        "Linux": "setsid steam steam://rungameid/876850",
+        "macOS": "open steam://rungameid/876850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/876850",
+      "protondb": {
+        "tier": "gold",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "princess-lili",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107881"
+}

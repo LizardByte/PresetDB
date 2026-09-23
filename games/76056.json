@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76056,
+  "name": "MyTD",
+  "source_url": "https://www.igdb.com/games/mytd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobayl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MyTD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "749870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/749870",
+        "Linux": "setsid steam steam://rungameid/749870",
+        "macOS": "open steam://rungameid/749870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/749870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mytd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76056"
+}

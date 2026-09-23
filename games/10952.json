@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10952,
+  "name": "Talisman: Digital Edition",
+  "source_url": "https://www.igdb.com/games/talisman-digital-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2321.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Talisman: Digital Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "247000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/247000",
+        "Linux": "setsid steam steam://rungameid/247000",
+        "macOS": "open steam://rungameid/247000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/247000",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 49
+      }
+    }
+  ],
+  "igdb_slug": "talisman-digital-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10952"
+}

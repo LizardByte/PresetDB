@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393952,
+  "name": "Racing Game",
+  "source_url": "https://www.igdb.com/games/racing-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpy5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Racing Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "810250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/810250",
+        "Linux": "setsid steam steam://rungameid/810250",
+        "macOS": "open steam://rungameid/810250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/810250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "racing-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393952"
+}

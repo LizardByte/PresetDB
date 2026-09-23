@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348061,
+  "name": "Dracamar",
+  "source_url": "https://www.igdb.com/games/dracamar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafu0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dracamar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3306480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3306480",
+        "Linux": "setsid steam steam://rungameid/3306480",
+        "macOS": "open steam://rungameid/3306480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3306480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dracamar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348061"
+}

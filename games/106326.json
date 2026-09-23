@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106326,
+  "name": "Library",
+  "source_url": "https://www.igdb.com/games/library",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26qd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Library",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865270",
+        "Linux": "setsid steam steam://rungameid/865270",
+        "macOS": "open steam://rungameid/865270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/865270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "library",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106326"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83504,
+  "name": "Wildermyth",
+  "source_url": "https://www.igdb.com/games/wildermyth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87w9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wildermyth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "763890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/763890",
+        "Linux": "setsid steam steam://rungameid/763890",
+        "macOS": "open steam://rungameid/763890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/763890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wildermyth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83504"
+}

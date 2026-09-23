@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33044,
+  "name": "Protonwar",
+  "source_url": "https://www.igdb.com/games/protonwar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y2p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Protonwar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "461410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/461410",
+        "Linux": "setsid steam steam://rungameid/461410",
+        "macOS": "open steam://rungameid/461410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/461410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "protonwar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33044"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36349,
+  "name": "Retro Game Crunch",
+  "source_url": "https://www.igdb.com/games/retro-game-crunch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1shi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retro Game Crunch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290040",
+        "Linux": "setsid steam steam://rungameid/290040",
+        "macOS": "open steam://rungameid/290040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "retro-game-crunch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36349"
+}

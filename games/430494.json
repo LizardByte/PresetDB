@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430494,
+  "name": "CultGame",
+  "source_url": "https://www.igdb.com/games/cultgame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codeqv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CultGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2345980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2345980",
+        "Linux": "setsid steam steam://rungameid/2345980",
+        "macOS": "open steam://rungameid/2345980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2345980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cultgame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430494"
+}

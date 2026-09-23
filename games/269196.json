@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 269196,
+  "name": "Welcome, Get Out!",
+  "source_url": "https://www.igdb.com/games/welcome-get-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8gv3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome, Get Out!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1949290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1949290",
+        "Linux": "setsid steam steam://rungameid/1949290",
+        "macOS": "open steam://rungameid/1949290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1949290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "welcome-get-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=269196"
+}

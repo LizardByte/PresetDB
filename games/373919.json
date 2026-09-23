@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373919,
+  "name": "This Game Exists Now",
+  "source_url": "https://www.igdb.com/games/this-game-exists-now",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap57.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This Game Exists Now",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3890190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3890190",
+        "Linux": "setsid steam steam://rungameid/3890190",
+        "macOS": "open steam://rungameid/3890190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3890190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "this-game-exists-now",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373919"
+}

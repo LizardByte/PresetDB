@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211230,
+  "name": "Idle Spiral",
+  "source_url": "https://www.igdb.com/games/idle-spiral",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Spiral",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1827980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1827980",
+        "Linux": "setsid steam steam://rungameid/1827980",
+        "macOS": "open steam://rungameid/1827980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1827980",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "idle-spiral",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211230"
+}

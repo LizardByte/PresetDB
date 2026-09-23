@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16896,
+  "name": "Muri",
+  "source_url": "https://www.igdb.com/games/muri",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pfx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Muri",
+      "os": null,
+      "method": "steam",
+      "launch_id": "267360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/267360",
+        "Linux": "setsid steam steam://rungameid/267360",
+        "macOS": "open steam://rungameid/267360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/267360",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "muri",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16896"
+}

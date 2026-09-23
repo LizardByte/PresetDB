@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86438,
+  "name": "Spaceguy",
+  "source_url": "https://www.igdb.com/games/spaceguy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ix2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spaceguy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "796440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/796440",
+        "Linux": "setsid steam steam://rungameid/796440",
+        "macOS": "open steam://rungameid/796440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/796440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spaceguy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86438"
+}

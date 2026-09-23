@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103246,
+  "name": "Space Haven",
+  "source_url": "https://www.igdb.com/games/space-haven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xhv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Haven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "979110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/979110",
+        "Linux": "setsid steam steam://rungameid/979110",
+        "macOS": "open steam://rungameid/979110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/979110",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 28
+      }
+    }
+  ],
+  "igdb_slug": "space-haven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103246"
+}

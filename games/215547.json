@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215547,
+  "name": "Itchy Scratchy",
+  "source_url": "https://www.igdb.com/games/itchy-scratchy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co56ni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Itchy Scratchy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1992580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1992580",
+        "Linux": "setsid steam steam://rungameid/1992580",
+        "macOS": "open steam://rungameid/1992580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1992580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "itchy-scratchy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215547"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114343,
+  "name": "Aim Bot",
+  "source_url": "https://www.igdb.com/games/aim-bot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wjb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aim Bot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "995170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/995170",
+        "Linux": "setsid steam steam://rungameid/995170",
+        "macOS": "open steam://rungameid/995170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/995170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aim-bot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114343"
+}

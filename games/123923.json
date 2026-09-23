@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123923,
+  "name": "Supesu 2",
+  "source_url": "https://www.igdb.com/games/supesu-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42qf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Supesu 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1159550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1159550",
+        "Linux": "setsid steam steam://rungameid/1159550",
+        "macOS": "open steam://rungameid/1159550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1159550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "supesu-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123923"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 40529,
+  "name": "VR Slugger",
+  "source_url": "https://www.igdb.com/games/vr-slugger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co273z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Slugger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "616890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/616890",
+        "Linux": "setsid steam steam://rungameid/616890",
+        "macOS": "open steam://rungameid/616890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/616890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-slugger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=40529"
+}

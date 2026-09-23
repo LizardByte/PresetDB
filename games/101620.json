@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101620,
+  "name": "Gaze At Maze",
+  "source_url": "https://www.igdb.com/games/gaze-at-maze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co417k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gaze At Maze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861210",
+        "Linux": "setsid steam steam://rungameid/861210",
+        "macOS": "open steam://rungameid/861210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/861210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gaze-at-maze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101620"
+}

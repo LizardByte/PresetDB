@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90406,
+  "name": "Hidden Life",
+  "source_url": "https://www.igdb.com/games/hidden-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobki3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hidden Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801410",
+        "Linux": "setsid steam steam://rungameid/801410",
+        "macOS": "open steam://rungameid/801410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/801410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hidden-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90406"
+}

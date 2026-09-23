@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16650,
+  "name": "NEStalgia",
+  "source_url": "https://www.igdb.com/games/nestalgia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qtp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NEStalgia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "249550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/249550",
+        "Linux": "setsid steam steam://rungameid/249550",
+        "macOS": "open steam://rungameid/249550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/249550",
+      "protondb": {
+        "tier": "borked",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "nestalgia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16650"
+}

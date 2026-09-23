@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165352,
+  "name": "UFL",
+  "source_url": "https://www.igdb.com/games/ufl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaowu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UFL",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3023930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3023930",
+        "Linux": "setsid steam steam://rungameid/3023930",
+        "macOS": "open steam://rungameid/3023930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3023930",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "ufl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165352"
+}

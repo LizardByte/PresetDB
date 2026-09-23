@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34988,
+  "name": "Hush",
+  "source_url": "https://www.igdb.com/games/hush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8hr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "379990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/379990",
+        "Linux": "setsid steam steam://rungameid/379990",
+        "macOS": "open steam://rungameid/379990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/379990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34988"
+}

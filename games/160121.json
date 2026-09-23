@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160121,
+  "name": "Mark One",
+  "source_url": "https://www.igdb.com/games/mark-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46td.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mark One",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1298130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1298130",
+        "Linux": "setsid steam steam://rungameid/1298130",
+        "macOS": "open steam://rungameid/1298130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1298130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mark-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160121"
+}

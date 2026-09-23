@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 67918,
+  "name": "Ghoul",
+  "source_url": "https://www.igdb.com/games/ghoul",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobppp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghoul",
+      "os": null,
+      "method": "steam",
+      "launch_id": "709050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/709050",
+        "Linux": "setsid steam steam://rungameid/709050",
+        "macOS": "open steam://rungameid/709050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/709050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghoul",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=67918"
+}

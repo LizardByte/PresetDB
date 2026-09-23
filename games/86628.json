@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86628,
+  "name": "Frozen Flame",
+  "source_url": "https://www.igdb.com/games/frozen-flame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2mm7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frozen Flame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "715400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/715400",
+        "Linux": "setsid steam steam://rungameid/715400",
+        "macOS": "open steam://rungameid/715400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/715400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "frozen-flame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86628"
+}

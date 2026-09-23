@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8261,
+  "name": "Fractured Soul",
+  "source_url": "https://www.igdb.com/games/fractured-soul",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2it5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fractured Soul",
+      "os": null,
+      "method": "steam",
+      "launch_id": "307030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/307030",
+        "Linux": "setsid steam steam://rungameid/307030",
+        "macOS": "open steam://rungameid/307030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/307030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fractured-soul",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8261"
+}

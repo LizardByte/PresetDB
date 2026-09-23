@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111799,
+  "name": "Bomber Arena",
+  "source_url": "https://www.igdb.com/games/bomber-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qs4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bomber Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "971280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/971280",
+        "Linux": "setsid steam steam://rungameid/971280",
+        "macOS": "open steam://rungameid/971280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/971280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bomber-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111799"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106120,
+  "name": "The Sojourn",
+  "source_url": "https://www.igdb.com/games/the-sojourn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ne9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Sojourn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "794960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/794960",
+        "Linux": "setsid steam steam://rungameid/794960",
+        "macOS": "open steam://rungameid/794960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/794960",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "the-sojourn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106120"
+}

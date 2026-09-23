@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10358,
+  "name": "Genesis Rising",
+  "source_url": "https://www.igdb.com/games/genesis-rising",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co418b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Genesis Rising",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3230",
+        "Linux": "setsid steam steam://rungameid/3230",
+        "macOS": "open steam://rungameid/3230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "genesis-rising",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10358"
+}

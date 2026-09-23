@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36221,
+  "name": "Gunspell: Steam Edition",
+  "source_url": "https://www.igdb.com/games/gunspell-steam-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ohc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunspell: Steam Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "328100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/328100",
+        "Linux": "setsid steam steam://rungameid/328100",
+        "macOS": "open steam://rungameid/328100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/328100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gunspell-steam-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36221"
+}

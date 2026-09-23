@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125720,
+  "name": "I'm Keyboardman",
+  "source_url": "https://www.igdb.com/games/im-keyboardman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59p7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm Keyboardman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1159000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1159000",
+        "Linux": "setsid steam steam://rungameid/1159000",
+        "macOS": "open steam://rungameid/1159000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1159000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "im-keyboardman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125720"
+}

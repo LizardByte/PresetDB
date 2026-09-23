@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10568,
+  "name": "Little Farm",
+  "source_url": "https://www.igdb.com/games/little-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "15960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/15960",
+        "Linux": "setsid steam steam://rungameid/15960",
+        "macOS": "open steam://rungameid/15960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/15960",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "little-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10568"
+}

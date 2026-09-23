@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170658,
+  "name": "My Personal World",
+  "source_url": "https://www.igdb.com/games/my-personal-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lor.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Personal World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1301260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1301260",
+        "Linux": "setsid steam steam://rungameid/1301260",
+        "macOS": "open steam://rungameid/1301260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1301260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-personal-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170658"
+}

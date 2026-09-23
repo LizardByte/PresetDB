@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110443,
+  "name": "G2 Fighter",
+  "source_url": "https://www.igdb.com/games/g2-fighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3227.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "G2 Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851800",
+        "Linux": "setsid steam steam://rungameid/851800",
+        "macOS": "open steam://rungameid/851800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/851800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "g2-fighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110443"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32284,
+  "name": "VeeR Pong",
+  "source_url": "https://www.igdb.com/games/veer-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob68c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VeeR Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494850",
+        "Linux": "setsid steam steam://rungameid/494850",
+        "macOS": "open steam://rungameid/494850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/494850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "veer-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32284"
+}

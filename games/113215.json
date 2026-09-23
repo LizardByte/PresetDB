@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113215,
+  "name": "The Blame",
+  "source_url": "https://www.igdb.com/games/the-blame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobewc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Blame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "972850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/972850",
+        "Linux": "setsid steam steam://rungameid/972850",
+        "macOS": "open steam://rungameid/972850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/972850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-blame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113215"
+}

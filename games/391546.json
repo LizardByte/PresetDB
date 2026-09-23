@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391546,
+  "name": "Siro",
+  "source_url": "https://www.igdb.com/games/siro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl87.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Siro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3833600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3833600",
+        "Linux": "setsid steam steam://rungameid/3833600",
+        "macOS": "open steam://rungameid/3833600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3833600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "siro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391546"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86544,
+  "name": "Pillage",
+  "source_url": "https://www.igdb.com/games/pillage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobprh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pillage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802080",
+        "Linux": "setsid steam steam://rungameid/802080",
+        "macOS": "open steam://rungameid/802080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/802080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pillage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86544"
+}

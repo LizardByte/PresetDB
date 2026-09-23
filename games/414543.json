@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414543,
+  "name": "Moo Who?",
+  "source_url": "https://www.igdb.com/games/moo-who",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocra8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moo Who?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4948000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4948000",
+        "Linux": "setsid steam steam://rungameid/4948000",
+        "macOS": "open steam://rungameid/4948000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4948000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moo-who",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414543"
+}

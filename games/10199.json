@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10199,
+  "name": "The Path",
+  "source_url": "https://www.igdb.com/games/the-path",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64k8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Path",
+      "os": null,
+      "method": "steam",
+      "launch_id": "27000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/27000",
+        "Linux": "setsid steam steam://rungameid/27000",
+        "macOS": "open steam://rungameid/27000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/27000",
+      "protondb": {
+        "tier": "silver",
+        "reports": 16
+      }
+    }
+  ],
+  "igdb_slug": "the-path",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10199"
+}

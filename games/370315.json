@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370315,
+  "name": "The Evelyn Game",
+  "source_url": "https://www.igdb.com/games/the-evelyn-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coake0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Evelyn Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3925410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3925410",
+        "Linux": "setsid steam steam://rungameid/3925410",
+        "macOS": "open steam://rungameid/3925410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3925410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-evelyn-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370315"
+}

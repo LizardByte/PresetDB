@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16484,
+  "name": "Ragnarok Online 2",
+  "source_url": "https://www.igdb.com/games/ragnarok-online-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1toh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ragnarok Online 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "231060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/231060",
+        "Linux": "setsid steam steam://rungameid/231060",
+        "macOS": "open steam://rungameid/231060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/231060",
+      "protondb": {
+        "tier": "silver",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "ragnarok-online-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16484"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113676,
+  "name": "Splash Wars",
+  "source_url": "https://www.igdb.com/games/splash-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpeq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Splash Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989720",
+        "Linux": "setsid steam steam://rungameid/989720",
+        "macOS": "open steam://rungameid/989720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/989720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "splash-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113676"
+}

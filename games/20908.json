@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20908,
+  "name": "Jalopy",
+  "source_url": "https://www.igdb.com/games/jalopy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27on.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jalopy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "446020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/446020",
+        "Linux": "setsid steam steam://rungameid/446020",
+        "macOS": "open steam://rungameid/446020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/446020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jalopy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20908"
+}

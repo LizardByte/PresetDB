@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33609,
+  "name": "Pixelman",
+  "source_url": "https://www.igdb.com/games/pixelman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qyp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixelman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "438000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/438000",
+        "Linux": "setsid steam steam://rungameid/438000",
+        "macOS": "open steam://rungameid/438000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/438000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pixelman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33609"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76073,
+  "name": "PlayUSA",
+  "source_url": "https://www.igdb.com/games/playusa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/vx5btqx2dmtunxvwapdp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlayUSA",
+      "os": null,
+      "method": "steam",
+      "launch_id": "724110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/724110",
+        "Linux": "setsid steam steam://rungameid/724110",
+        "macOS": "open steam://rungameid/724110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/724110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "playusa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76073"
+}

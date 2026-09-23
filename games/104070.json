@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104070,
+  "name": "AmazeBowl",
+  "source_url": "https://www.igdb.com/games/amazebowl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb3v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AmazeBowl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869910",
+        "Linux": "setsid steam steam://rungameid/869910",
+        "macOS": "open steam://rungameid/869910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/869910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "amazebowl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104070"
+}

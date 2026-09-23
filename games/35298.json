@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35298,
+  "name": "Pongo",
+  "source_url": "https://www.igdb.com/games/pongo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lfo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pongo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "369000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/369000",
+        "Linux": "setsid steam steam://rungameid/369000",
+        "macOS": "open steam://rungameid/369000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/369000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pongo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35298"
+}

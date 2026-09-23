@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172755,
+  "name": "No Fair Play",
+  "source_url": "https://www.igdb.com/games/no-fair-play",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6l2f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Fair Play",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1771180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1771180",
+        "Linux": "setsid steam steam://rungameid/1771180",
+        "macOS": "open steam://rungameid/1771180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1771180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "no-fair-play",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172755"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4723,
+  "name": "Bolt",
+  "source_url": "https://www.igdb.com/games/bolt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2di2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bolt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "340990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/340990",
+        "Linux": "setsid steam steam://rungameid/340990",
+        "macOS": "open steam://rungameid/340990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/340990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bolt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4723"
+}

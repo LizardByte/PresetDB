@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32086,
+  "name": "Robots in the Wild",
+  "source_url": "https://www.igdb.com/games/robots-in-the-wild",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk6f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robots in the Wild",
+      "os": null,
+      "method": "steam",
+      "launch_id": "501270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/501270",
+        "Linux": "setsid steam steam://rungameid/501270",
+        "macOS": "open steam://rungameid/501270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/501270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "robots-in-the-wild",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32086"
+}

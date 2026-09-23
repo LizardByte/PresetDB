@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35150,
+  "name": "S.O.R.S",
+  "source_url": "https://www.igdb.com/games/sors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jq9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "S.O.R.S",
+      "os": null,
+      "method": "steam",
+      "launch_id": "374620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/374620",
+        "Linux": "setsid steam steam://rungameid/374620",
+        "macOS": "open steam://rungameid/374620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/374620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35150"
+}

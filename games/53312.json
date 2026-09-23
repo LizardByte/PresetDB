@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 53312,
+  "name": "Vault Resort",
+  "source_url": "https://www.igdb.com/games/vault-resort",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnut.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vault Resort",
+      "os": null,
+      "method": "steam",
+      "launch_id": "662500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/662500",
+        "Linux": "setsid steam steam://rungameid/662500",
+        "macOS": "open steam://rungameid/662500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/662500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vault-resort",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=53312"
+}

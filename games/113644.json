@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113644,
+  "name": "Stary",
+  "source_url": "https://www.igdb.com/games/stary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "995280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/995280",
+        "Linux": "setsid steam steam://rungameid/995280",
+        "macOS": "open steam://rungameid/995280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/995280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "stary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113644"
+}

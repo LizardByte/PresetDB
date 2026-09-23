@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10724,
+  "name": "Project Nimbus",
+  "source_url": "https://www.igdb.com/games/project-nimbus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27x3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Nimbus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "257030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/257030",
+        "Linux": "setsid steam steam://rungameid/257030",
+        "macOS": "open steam://rungameid/257030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/257030",
+      "protondb": {
+        "tier": "gold",
+        "reports": 14
+      }
+    }
+  ],
+  "igdb_slug": "project-nimbus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10724"
+}

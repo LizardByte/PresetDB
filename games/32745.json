@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32745,
+  "name": "Rage Pig",
+  "source_url": "https://www.igdb.com/games/rage-pig",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rage Pig",
+      "os": null,
+      "method": "steam",
+      "launch_id": "466480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/466480",
+        "Linux": "setsid steam steam://rungameid/466480",
+        "macOS": "open steam://rungameid/466480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/466480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rage-pig",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32745"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101332,
+  "name": "100 Chests",
+  "source_url": "https://www.igdb.com/games/100-chests",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2979.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "100 Chests",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856260",
+        "Linux": "setsid steam steam://rungameid/856260",
+        "macOS": "open steam://rungameid/856260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/856260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "100-chests",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101332"
+}

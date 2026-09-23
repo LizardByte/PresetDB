@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35523,
+  "name": "Pirate's Life",
+  "source_url": "https://www.igdb.com/games/pirates-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobolu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate's Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359370",
+        "Linux": "setsid steam steam://rungameid/359370",
+        "macOS": "open steam://rungameid/359370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pirates-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35523"
+}

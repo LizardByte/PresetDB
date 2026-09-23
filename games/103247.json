@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103247,
+  "name": "Suzy Cube",
+  "source_url": "https://www.igdb.com/games/suzy-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobawu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suzy Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "780500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/780500",
+        "Linux": "setsid steam steam://rungameid/780500",
+        "macOS": "open steam://rungameid/780500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/780500",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "suzy-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103247"
+}

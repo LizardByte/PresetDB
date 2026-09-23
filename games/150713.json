@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150713,
+  "name": "The Normal Thing",
+  "source_url": "https://www.igdb.com/games/the-normal-thing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4401.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Normal Thing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1397980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1397980",
+        "Linux": "setsid steam steam://rungameid/1397980",
+        "macOS": "open steam://rungameid/1397980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1397980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-normal-thing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150713"
+}

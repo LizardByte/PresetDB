@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16262,
+  "name": "Legend of Fae",
+  "source_url": "https://www.igdb.com/games/legend-of-fae",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rt3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legend of Fae",
+      "os": null,
+      "method": "steam",
+      "launch_id": "109200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/109200",
+        "Linux": "setsid steam steam://rungameid/109200",
+        "macOS": "open steam://rungameid/109200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/109200",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "legend-of-fae",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16262"
+}

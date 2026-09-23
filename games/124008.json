@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124008,
+  "name": "Project Haven",
+  "source_url": "https://www.igdb.com/games/project-haven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6nx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Haven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "443190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/443190",
+        "Linux": "setsid steam steam://rungameid/443190",
+        "macOS": "open steam://rungameid/443190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/443190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "project-haven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124008"
+}

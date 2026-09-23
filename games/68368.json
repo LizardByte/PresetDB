@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68368,
+  "name": "Charlie the Duck",
+  "source_url": "https://www.igdb.com/games/charlie-the-duck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66ip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Charlie the Duck",
+      "os": null,
+      "method": "steam",
+      "launch_id": "691250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/691250",
+        "Linux": "setsid steam steam://rungameid/691250",
+        "macOS": "open steam://rungameid/691250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/691250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "charlie-the-duck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68368"
+}

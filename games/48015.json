@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 48015,
+  "name": "The 2048",
+  "source_url": "https://www.igdb.com/games/the-2048",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9j2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The 2048",
+      "os": null,
+      "method": "steam",
+      "launch_id": "674310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/674310",
+        "Linux": "setsid steam steam://rungameid/674310",
+        "macOS": "open steam://rungameid/674310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/674310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-2048",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=48015"
+}

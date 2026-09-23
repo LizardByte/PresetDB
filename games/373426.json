@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373426,
+  "name": "Fred's Idle Garden",
+  "source_url": "https://www.igdb.com/games/freds-idle-garden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw1x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fred's Idle Garden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3786640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3786640",
+        "Linux": "setsid steam steam://rungameid/3786640",
+        "macOS": "open steam://rungameid/3786640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3786640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "freds-idle-garden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373426"
+}

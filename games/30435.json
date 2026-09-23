@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30435,
+  "name": "Snailiens",
+  "source_url": "https://www.igdb.com/games/snailiens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob39c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snailiens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "559280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/559280",
+        "Linux": "setsid steam steam://rungameid/559280",
+        "macOS": "open steam://rungameid/559280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/559280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "snailiens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30435"
+}

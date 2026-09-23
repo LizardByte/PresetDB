@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3512,
+  "name": "Hexen: Beyond Heretic",
+  "source_url": "https://www.igdb.com/games/hexen-beyond-heretic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mwy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexen: Beyond Heretic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2360",
+        "Linux": "setsid steam steam://rungameid/2360",
+        "macOS": "open steam://rungameid/2360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hexen-beyond-heretic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3512"
+}

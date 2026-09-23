@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148490,
+  "name": "Chrome Switcher",
+  "source_url": "https://www.igdb.com/games/chrome-switcher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n49.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chrome Switcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1594560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1594560",
+        "Linux": "setsid steam steam://rungameid/1594560",
+        "macOS": "open steam://rungameid/1594560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1594560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chrome-switcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148490"
+}

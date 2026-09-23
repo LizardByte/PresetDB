@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29301,
+  "name": "Fix Me Fix You",
+  "source_url": "https://www.igdb.com/games/fix-me-fix-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7uit.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fix Me Fix You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601570",
+        "Linux": "setsid steam steam://rungameid/601570",
+        "macOS": "open steam://rungameid/601570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/601570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fix-me-fix-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29301"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374154,
+  "name": "Mary Jane",
+  "source_url": "https://www.igdb.com/games/mary-jane",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapdj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mary Jane",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3980020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3980020",
+        "Linux": "setsid steam steam://rungameid/3980020",
+        "macOS": "open steam://rungameid/3980020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3980020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mary-jane",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374154"
+}

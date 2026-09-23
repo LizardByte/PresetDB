@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32363,
+  "name": "Ridge",
+  "source_url": "https://www.igdb.com/games/ridge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8nz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ridge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "492600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/492600",
+        "Linux": "setsid steam steam://rungameid/492600",
+        "macOS": "open steam://rungameid/492600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/492600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ridge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32363"
+}

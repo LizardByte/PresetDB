@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43121,
+  "name": "Pinball Wicked",
+  "source_url": "https://www.igdb.com/games/pinball-wicked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24qb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinball Wicked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "595960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/595960",
+        "Linux": "setsid steam steam://rungameid/595960",
+        "macOS": "open steam://rungameid/595960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/595960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pinball-wicked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43121"
+}

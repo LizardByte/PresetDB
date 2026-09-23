@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31380,
+  "name": "Embers of Magic",
+  "source_url": "https://www.igdb.com/games/embers-of-magic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2b1d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Embers of Magic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "526400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/526400",
+        "Linux": "setsid steam steam://rungameid/526400",
+        "macOS": "open steam://rungameid/526400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/526400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "embers-of-magic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31380"
+}

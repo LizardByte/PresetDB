@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30493,
+  "name": "On the Path",
+  "source_url": "https://www.igdb.com/games/on-the-path",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1thj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "On the Path",
+      "os": null,
+      "method": "steam",
+      "launch_id": "555430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/555430",
+        "Linux": "setsid steam steam://rungameid/555430",
+        "macOS": "open steam://rungameid/555430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/555430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "on-the-path",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30493"
+}

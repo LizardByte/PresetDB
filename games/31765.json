@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31765,
+  "name": "Metal Carnage",
+  "source_url": "https://www.igdb.com/games/metal-carnage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Carnage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512200",
+        "Linux": "setsid steam steam://rungameid/512200",
+        "macOS": "open steam://rungameid/512200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/512200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metal-carnage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31765"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357312,
+  "name": "Fortune",
+  "source_url": "https://www.igdb.com/games/fortune",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6h5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fortune",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3595980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3595980",
+        "Linux": "setsid steam steam://rungameid/3595980",
+        "macOS": "open steam://rungameid/3595980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3595980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fortune",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357312"
+}

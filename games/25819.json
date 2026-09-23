@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25819,
+  "name": "New Dawn",
+  "source_url": "https://www.igdb.com/games/new-dawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qtz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "New Dawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "768370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/768370",
+        "Linux": "setsid steam steam://rungameid/768370",
+        "macOS": "open steam://rungameid/768370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/768370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "new-dawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25819"
+}

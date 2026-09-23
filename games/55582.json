@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55582,
+  "name": "Goodnight",
+  "source_url": "https://www.igdb.com/games/goodnight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co295o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goodnight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "631940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/631940",
+        "Linux": "setsid steam steam://rungameid/631940",
+        "macOS": "open steam://rungameid/631940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/631940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "goodnight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55582"
+}

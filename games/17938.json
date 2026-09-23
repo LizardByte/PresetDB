@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17938,
+  "name": "Rock Zombie",
+  "source_url": "https://www.igdb.com/games/rock-zombie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6uza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rock Zombie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "328640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/328640",
+        "Linux": "setsid steam steam://rungameid/328640",
+        "macOS": "open steam://rungameid/328640"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/328640",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rock-zombie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17938"
+}

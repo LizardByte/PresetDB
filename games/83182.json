@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83182,
+  "name": "Lost Artifacts",
+  "source_url": "https://www.igdb.com/games/lost-artifacts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24es.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Artifacts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "708150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/708150",
+        "Linux": "setsid steam steam://rungameid/708150",
+        "macOS": "open steam://rungameid/708150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/708150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-artifacts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83182"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81795,
+  "name": "Click&Fight",
+  "source_url": "https://www.igdb.com/games/click-and-fight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbov.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Click&Fight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "769200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/769200",
+        "Linux": "setsid steam steam://rungameid/769200",
+        "macOS": "open steam://rungameid/769200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/769200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "click-and-fight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81795"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99630,
+  "name": "Noonie",
+  "source_url": "https://www.igdb.com/games/noonie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnjz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Noonie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840830",
+        "Linux": "setsid steam steam://rungameid/840830",
+        "macOS": "open steam://rungameid/840830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/840830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "noonie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99630"
+}

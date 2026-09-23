@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55234,
+  "name": "Nimble Fish",
+  "source_url": "https://www.igdb.com/games/nimble-fish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6k4z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nimble Fish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "704440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/704440",
+        "Linux": "setsid steam steam://rungameid/704440",
+        "macOS": "open steam://rungameid/704440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/704440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nimble-fish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55234"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267253,
+  "name": "The Last Game",
+  "source_url": "https://www.igdb.com/games/the-last-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94oq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2563800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2563800",
+        "Linux": "setsid steam steam://rungameid/2563800",
+        "macOS": "open steam://rungameid/2563800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2563800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-last-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267253"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105319,
+  "name": "Lets Beats",
+  "source_url": "https://www.igdb.com/games/lets-beats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgdz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lets Beats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880610",
+        "Linux": "setsid steam steam://rungameid/880610",
+        "macOS": "open steam://rungameid/880610"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/880610",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lets-beats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105319"
+}

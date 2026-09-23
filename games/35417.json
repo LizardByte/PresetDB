@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35417,
+  "name": "Super Furball",
+  "source_url": "https://www.igdb.com/games/super-furball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jok.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Furball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "364770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/364770",
+        "Linux": "setsid steam steam://rungameid/364770",
+        "macOS": "open steam://rungameid/364770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/364770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-furball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35417"
+}

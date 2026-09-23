@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111568,
+  "name": "Super Seeker",
+  "source_url": "https://www.igdb.com/games/super-seeker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob83j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Seeker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884880",
+        "Linux": "setsid steam steam://rungameid/884880",
+        "macOS": "open steam://rungameid/884880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/884880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-seeker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111568"
+}

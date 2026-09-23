@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24740,
+  "name": "gShift",
+  "source_url": "https://www.igdb.com/games/gshift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86ca.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "gShift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "396730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/396730",
+        "Linux": "setsid steam steam://rungameid/396730",
+        "macOS": "open steam://rungameid/396730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/396730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gshift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24740"
+}

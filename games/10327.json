@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10327,
+  "name": "Fly'n",
+  "source_url": "https://www.igdb.com/games/flyn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bls.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly'n",
+      "os": null,
+      "method": "steam",
+      "launch_id": "223730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/223730",
+        "Linux": "setsid steam steam://rungameid/223730",
+        "macOS": "open steam://rungameid/223730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/223730",
+      "protondb": {
+        "tier": "gold",
+        "reports": 17
+      }
+    }
+  ],
+  "igdb_slug": "flyn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10327"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110971,
+  "name": "Nanoswarm",
+  "source_url": "https://www.igdb.com/games/nanoswarm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobglq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nanoswarm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "960600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/960600",
+        "Linux": "setsid steam steam://rungameid/960600",
+        "macOS": "open steam://rungameid/960600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/960600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nanoswarm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110971"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111074,
+  "name": "Last Wish",
+  "source_url": "https://www.igdb.com/games/last-wish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23qt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Wish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952850",
+        "Linux": "setsid steam steam://rungameid/952850",
+        "macOS": "open steam://rungameid/952850"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/952850",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "last-wish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111074"
+}

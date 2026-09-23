@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111675,
+  "name": "Mo the Frog",
+  "source_url": "https://www.igdb.com/games/mo-the-frog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe15.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mo the Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "967290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/967290",
+        "Linux": "setsid steam steam://rungameid/967290",
+        "macOS": "open steam://rungameid/967290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/967290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mo-the-frog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111675"
+}

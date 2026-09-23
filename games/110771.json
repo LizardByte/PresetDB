@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110771,
+  "name": "Ice Agent",
+  "source_url": "https://www.igdb.com/games/ice-agent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe0w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ice Agent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914130",
+        "Linux": "setsid steam steam://rungameid/914130",
+        "macOS": "open steam://rungameid/914130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/914130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ice-agent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110771"
+}

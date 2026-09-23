@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75061,
+  "name": "Slimebrawl",
+  "source_url": "https://www.igdb.com/games/slimebrawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobac8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slimebrawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "690000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/690000",
+        "Linux": "setsid steam steam://rungameid/690000",
+        "macOS": "open steam://rungameid/690000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/690000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slimebrawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75061"
+}

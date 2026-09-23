@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401493,
+  "name": "Dendron 64",
+  "source_url": "https://www.igdb.com/games/dendron-64",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dendron 64",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4600910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4600910",
+        "Linux": "setsid steam steam://rungameid/4600910",
+        "macOS": "open steam://rungameid/4600910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4600910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dendron-64",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401493"
+}

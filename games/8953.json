@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8953,
+  "name": "Ichi",
+  "source_url": "https://www.igdb.com/games/ichi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86d3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ichi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "300300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/300300",
+        "Linux": "setsid steam steam://rungameid/300300",
+        "macOS": "open steam://rungameid/300300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/300300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ichi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8953"
+}

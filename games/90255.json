@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90255,
+  "name": "SpellKeeper",
+  "source_url": "https://www.igdb.com/games/spellkeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2inc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpellKeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "786990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/786990",
+        "Linux": "setsid steam steam://rungameid/786990",
+        "macOS": "open steam://rungameid/786990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/786990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spellkeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90255"
+}

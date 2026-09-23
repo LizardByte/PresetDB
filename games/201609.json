@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201609,
+  "name": "Godless grove",
+  "source_url": "https://www.igdb.com/games/godless-grove",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dqd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Godless grove",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1984000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1984000",
+        "Linux": "setsid steam steam://rungameid/1984000",
+        "macOS": "open steam://rungameid/1984000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1984000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "godless-grove",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201609"
+}

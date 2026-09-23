@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95138,
+  "name": "unBorn",
+  "source_url": "https://www.igdb.com/games/unborn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5dl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "unBorn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "713170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/713170",
+        "Linux": "setsid steam steam://rungameid/713170",
+        "macOS": "open steam://rungameid/713170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/713170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unborn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95138"
+}

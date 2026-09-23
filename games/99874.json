@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99874,
+  "name": "Button Pop",
+  "source_url": "https://www.igdb.com/games/button-pop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co774e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Button Pop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2244400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2244400",
+        "Linux": "setsid steam steam://rungameid/2244400",
+        "macOS": "open steam://rungameid/2244400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2244400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "button-pop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99874"
+}

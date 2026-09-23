@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200570,
+  "name": "Brave Survivor",
+  "source_url": "https://www.igdb.com/games/brave-survivor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c5n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1970520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1970520",
+        "Linux": "setsid steam steam://rungameid/1970520",
+        "macOS": "open steam://rungameid/1970520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1970520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "brave-survivor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200570"
+}

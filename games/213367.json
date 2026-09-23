@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213367,
+  "name": "Chinatris",
+  "source_url": "https://www.igdb.com/games/chinatris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5311.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chinatris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1139800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1139800",
+        "Linux": "setsid steam steam://rungameid/1139800",
+        "macOS": "open steam://rungameid/1139800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1139800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chinatris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213367"
+}

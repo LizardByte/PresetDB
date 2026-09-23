@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101692,
+  "name": "Mini Healer",
+  "source_url": "https://www.igdb.com/games/mini-healer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cfm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Healer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955740",
+        "Linux": "setsid steam steam://rungameid/955740",
+        "macOS": "open steam://rungameid/955740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/955740",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "mini-healer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101692"
+}

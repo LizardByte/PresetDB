@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34278,
+  "name": "SnakEscape",
+  "source_url": "https://www.igdb.com/games/snakescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46xr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SnakEscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "409440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/409440",
+        "Linux": "setsid steam steam://rungameid/409440",
+        "macOS": "open steam://rungameid/409440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/409440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "snakescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34278"
+}

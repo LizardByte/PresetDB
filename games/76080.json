@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76080,
+  "name": "Thug Life",
+  "source_url": "https://www.igdb.com/games/thug-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8j6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thug Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "725050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/725050",
+        "Linux": "setsid steam steam://rungameid/725050",
+        "macOS": "open steam://rungameid/725050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/725050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thug-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76080"
+}

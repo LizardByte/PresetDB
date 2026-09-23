@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199711,
+  "name": "Whatever",
+  "source_url": "https://www.igdb.com/games/whatever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hsx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Whatever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1734230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1734230",
+        "Linux": "setsid steam steam://rungameid/1734230",
+        "macOS": "open steam://rungameid/1734230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1734230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "whatever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199711"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201507,
+  "name": "Lootun",
+  "source_url": "https://www.igdb.com/games/lootun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jkr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lootun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1960270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1960270",
+        "Linux": "setsid steam steam://rungameid/1960270",
+        "macOS": "open steam://rungameid/1960270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1960270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lootun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201507"
+}

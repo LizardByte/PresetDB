@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33783,
+  "name": "DSS",
+  "source_url": "https://www.igdb.com/games/dss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7o5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DSS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "432540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/432540",
+        "Linux": "setsid steam steam://rungameid/432540",
+        "macOS": "open steam://rungameid/432540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/432540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33783"
+}

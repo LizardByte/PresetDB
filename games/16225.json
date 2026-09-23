@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16225,
+  "name": "Guardians of Graxia",
+  "source_url": "https://www.igdb.com/games/guardians-of-graxia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/xieb1gzdpd1gbf7oju2j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guardians of Graxia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "90500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/90500",
+        "Linux": "setsid steam steam://rungameid/90500",
+        "macOS": "open steam://rungameid/90500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/90500",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "guardians-of-graxia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16225"
+}

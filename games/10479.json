@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10479,
+  "name": "Kairo",
+  "source_url": "https://www.igdb.com/games/kairo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44et.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kairo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "233230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/233230",
+        "Linux": "setsid steam steam://rungameid/233230",
+        "macOS": "open steam://rungameid/233230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/233230",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "kairo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10479"
+}

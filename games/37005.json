@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37005,
+  "name": "NeoNomicon",
+  "source_url": "https://www.igdb.com/games/neonomicon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8ul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NeoNomicon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "614960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/614960",
+        "Linux": "setsid steam steam://rungameid/614960",
+        "macOS": "open steam://rungameid/614960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/614960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "neonomicon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37005"
+}

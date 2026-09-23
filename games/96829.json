@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96829,
+  "name": "S.P.I.C.E Arena",
+  "source_url": "https://www.igdb.com/games/spice-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob58a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "S.P.I.C.E Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789200",
+        "Linux": "setsid steam steam://rungameid/789200",
+        "macOS": "open steam://rungameid/789200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/789200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spice-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96829"
+}

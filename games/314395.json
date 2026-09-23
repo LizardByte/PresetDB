@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314395,
+  "name": "The Games You Make",
+  "source_url": "https://www.igdb.com/games/the-games-you-make",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobowl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Games You Make",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2852750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2852750",
+        "Linux": "setsid steam steam://rungameid/2852750",
+        "macOS": "open steam://rungameid/2852750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2852750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-games-you-make",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314395"
+}

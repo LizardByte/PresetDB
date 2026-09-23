@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318215,
+  "name": "Idle Saga",
+  "source_url": "https://www.igdb.com/games/idle-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vgs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3123450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3123450",
+        "Linux": "setsid steam steam://rungameid/3123450",
+        "macOS": "open steam://rungameid/3123450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3123450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "idle-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318215"
+}

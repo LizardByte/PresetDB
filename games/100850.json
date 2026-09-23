@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100850,
+  "name": "Battleship: Official Edition",
+  "source_url": "https://www.igdb.com/games/battleship-official-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9egh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battleship: Official Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893050",
+        "Linux": "setsid steam steam://rungameid/893050",
+        "macOS": "open steam://rungameid/893050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/893050",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "battleship-official-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100850"
+}

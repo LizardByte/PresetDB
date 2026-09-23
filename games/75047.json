@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75047,
+  "name": "BHB: BioHazard Bot",
+  "source_url": "https://www.igdb.com/games/bhb-biohazard-bot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29xg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BHB: BioHazard Bot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "711260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/711260",
+        "Linux": "setsid steam steam://rungameid/711260",
+        "macOS": "open steam://rungameid/711260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/711260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bhb-biohazard-bot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75047"
+}

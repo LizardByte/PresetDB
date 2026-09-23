@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405430,
+  "name": "My Parkour",
+  "source_url": "https://www.igdb.com/games/my-parkour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7ld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Parkour",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3399360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3399360",
+        "Linux": "setsid steam steam://rungameid/3399360",
+        "macOS": "open steam://rungameid/3399360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3399360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-parkour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405430"
+}

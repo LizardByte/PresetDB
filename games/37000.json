@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 37000,
+  "name": "Bokube",
+  "source_url": "https://www.igdb.com/games/bokube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bokube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1149490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1149490",
+        "Linux": "setsid steam steam://rungameid/1149490",
+        "macOS": "open steam://rungameid/1149490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1149490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bokube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=37000"
+}

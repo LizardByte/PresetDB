@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312443,
+  "name": "Idle Game Simulator",
+  "source_url": "https://www.igdb.com/games/idle-game-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Game Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3073860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3073860",
+        "Linux": "setsid steam steam://rungameid/3073860",
+        "macOS": "open steam://rungameid/3073860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3073860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "idle-game-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312443"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115179,
+  "name": "Gulag",
+  "source_url": "https://www.igdb.com/games/gulag",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ffw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gulag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "947230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/947230",
+        "Linux": "setsid steam steam://rungameid/947230",
+        "macOS": "open steam://rungameid/947230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/947230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gulag",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115179"
+}

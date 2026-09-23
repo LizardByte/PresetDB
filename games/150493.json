@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150493,
+  "name": "Terminal",
+  "source_url": "https://www.igdb.com/games/terminal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42zl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terminal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1479490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1479490",
+        "Linux": "setsid steam steam://rungameid/1479490",
+        "macOS": "open steam://rungameid/1479490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1479490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "terminal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150493"
+}

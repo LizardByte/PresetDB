@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33459,
+  "name": "Night Light",
+  "source_url": "https://www.igdb.com/games/night-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobv9m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "448140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/448140",
+        "Linux": "setsid steam steam://rungameid/448140",
+        "macOS": "open steam://rungameid/448140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/448140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "night-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33459"
+}

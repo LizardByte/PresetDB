@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16067,
+  "name": "Aztaka",
+  "source_url": "https://www.igdb.com/games/aztaka",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a2j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aztaka",
+      "os": null,
+      "method": "steam",
+      "launch_id": "37100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/37100",
+        "Linux": "setsid steam steam://rungameid/37100",
+        "macOS": "open steam://rungameid/37100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/37100",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "aztaka",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16067"
+}

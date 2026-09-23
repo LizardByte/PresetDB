@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180420,
+  "name": "JunkPunk",
+  "source_url": "https://www.igdb.com/games/junkpunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co485q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JunkPunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1585020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1585020",
+        "Linux": "setsid steam steam://rungameid/1585020",
+        "macOS": "open steam://rungameid/1585020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1585020",
+      "protondb": {
+        "tier": "silver",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "junkpunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180420"
+}

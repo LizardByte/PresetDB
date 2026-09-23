@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 74942,
+  "name": "Lucky Panda",
+  "source_url": "https://www.igdb.com/games/lucky-panda",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1t6c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lucky Panda",
+      "os": null,
+      "method": "steam",
+      "launch_id": "739990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/739990",
+        "Linux": "setsid steam steam://rungameid/739990",
+        "macOS": "open steam://rungameid/739990"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/739990",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lucky-panda",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=74942"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 891,
+  "name": "Team Fortress 2",
+  "source_url": "https://www.igdb.com/games/team-fortress-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rzl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Team Fortress 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/440",
+        "Linux": "setsid steam steam://rungameid/440",
+        "macOS": "open steam://rungameid/440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "team-fortress-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=891"
+}

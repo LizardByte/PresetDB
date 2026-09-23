@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216709,
+  "name": "Moshcave",
+  "source_url": "https://www.igdb.com/games/moshcave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7752.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moshcave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1838600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1838600",
+        "Linux": "setsid steam steam://rungameid/1838600",
+        "macOS": "open steam://rungameid/1838600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1838600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "moshcave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216709"
+}

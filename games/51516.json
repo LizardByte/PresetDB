@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51516,
+  "name": "TimeLock VR",
+  "source_url": "https://www.igdb.com/games/timelock-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4hbs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TimeLock VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "673450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/673450",
+        "Linux": "setsid steam steam://rungameid/673450",
+        "macOS": "open steam://rungameid/673450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/673450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "timelock-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51516"
+}

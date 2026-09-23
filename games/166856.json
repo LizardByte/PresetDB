@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166856,
+  "name": "Grand Chase Classic",
+  "source_url": "https://www.igdb.com/games/grand-chase-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclfh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grand Chase Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985810",
+        "Linux": "setsid steam steam://rungameid/985810",
+        "macOS": "open steam://rungameid/985810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/985810",
+      "protondb": {
+        "tier": "gold",
+        "reports": 93
+      }
+    }
+  ],
+  "igdb_slug": "grand-chase-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166856"
+}

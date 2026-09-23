@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27371,
+  "name": "8Days",
+  "source_url": "https://www.igdb.com/games/8days",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24vp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "8Days",
+      "os": null,
+      "method": "steam",
+      "launch_id": "409530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/409530",
+        "Linux": "setsid steam steam://rungameid/409530",
+        "macOS": "open steam://rungameid/409530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/409530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "8days",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27371"
+}

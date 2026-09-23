@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320097,
+  "name": "Thor's Breakout",
+  "source_url": "https://www.igdb.com/games/thors-breakout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8yas.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thor's Breakout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3003780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3003780",
+        "Linux": "setsid steam steam://rungameid/3003780",
+        "macOS": "open steam://rungameid/3003780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3003780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thors-breakout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320097"
+}

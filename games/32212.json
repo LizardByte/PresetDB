@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32212,
+  "name": "The Slingshot VR",
+  "source_url": "https://www.igdb.com/games/the-slingshot-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co443x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Slingshot VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "496950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/496950",
+        "Linux": "setsid steam steam://rungameid/496950",
+        "macOS": "open steam://rungameid/496950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/496950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-slingshot-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32212"
+}

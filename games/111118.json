@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111118,
+  "name": "Squally",
+  "source_url": "https://www.igdb.com/games/squally",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squally",
+      "os": null,
+      "method": "steam",
+      "launch_id": "770200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/770200",
+        "Linux": "setsid steam steam://rungameid/770200",
+        "macOS": "open steam://rungameid/770200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/770200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "squally",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111118"
+}

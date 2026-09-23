@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16464,
+  "name": "ShootMania Storm",
+  "source_url": "https://www.igdb.com/games/shootmania-storm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6p5q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ShootMania Storm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "229870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/229870",
+        "Linux": "setsid steam steam://rungameid/229870",
+        "macOS": "open steam://rungameid/229870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/229870",
+      "protondb": {
+        "tier": "gold",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "shootmania-storm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16464"
+}

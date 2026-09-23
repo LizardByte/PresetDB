@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36350,
+  "name": "Volt",
+  "source_url": "https://www.igdb.com/games/volt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6i1a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Volt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "290280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/290280",
+        "Linux": "setsid steam steam://rungameid/290280",
+        "macOS": "open steam://rungameid/290280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/290280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "volt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36350"
+}

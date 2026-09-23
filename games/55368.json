@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55368,
+  "name": "Lost Items",
+  "source_url": "https://www.igdb.com/games/lost-items",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob985.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Items",
+      "os": null,
+      "method": "steam",
+      "launch_id": "686870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/686870",
+        "Linux": "setsid steam steam://rungameid/686870",
+        "macOS": "open steam://rungameid/686870"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/686870",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-items",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55368"
+}

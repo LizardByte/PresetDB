@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202200,
+  "name": "Desert Lost",
+  "source_url": "https://www.igdb.com/games/desert-lost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5g64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desert Lost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145810",
+        "Linux": "setsid steam steam://rungameid/1145810",
+        "macOS": "open steam://rungameid/1145810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1145810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "desert-lost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202200"
+}

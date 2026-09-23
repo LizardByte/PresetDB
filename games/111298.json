@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111298,
+  "name": "Sky Tracers",
+  "source_url": "https://www.igdb.com/games/sky-tracers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpb9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sky Tracers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862670",
+        "Linux": "setsid steam steam://rungameid/862670",
+        "macOS": "open steam://rungameid/862670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/862670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sky-tracers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111298"
+}

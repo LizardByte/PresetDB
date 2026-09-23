@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16228,
+  "name": "Ancients of Ooga",
+  "source_url": "https://www.igdb.com/games/ancients-of-ooga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30eg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ancients of Ooga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "91810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/91810",
+        "Linux": "setsid steam steam://rungameid/91810",
+        "macOS": "open steam://rungameid/91810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/91810",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "ancients-of-ooga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16228"
+}

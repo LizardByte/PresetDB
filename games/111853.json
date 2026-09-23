@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111853,
+  "name": "Warpzone Drifter",
+  "source_url": "https://www.igdb.com/games/warpzone-drifter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co319q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warpzone Drifter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976120",
+        "Linux": "setsid steam steam://rungameid/976120",
+        "macOS": "open steam://rungameid/976120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/976120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "warpzone-drifter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111853"
+}

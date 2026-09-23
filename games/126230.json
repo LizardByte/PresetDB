@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126230,
+  "name": "Exsys",
+  "source_url": "https://www.igdb.com/games/exsys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zy5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exsys",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1116350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1116350",
+        "Linux": "setsid steam steam://rungameid/1116350",
+        "macOS": "open steam://rungameid/1116350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1116350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "exsys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126230"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89679,
+  "name": "Cyber Surf",
+  "source_url": "https://www.igdb.com/games/cyber-surf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cyber Surf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "735810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/735810",
+        "Linux": "setsid steam steam://rungameid/735810",
+        "macOS": "open steam://rungameid/735810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/735810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cyber-surf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89679"
+}

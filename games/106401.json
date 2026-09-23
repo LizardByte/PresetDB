@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106401,
+  "name": "Element Space",
+  "source_url": "https://www.igdb.com/games/element-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c9m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Element Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887370",
+        "Linux": "setsid steam steam://rungameid/887370",
+        "macOS": "open steam://rungameid/887370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/887370",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "element-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106401"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127091,
+  "name": "ScribbleDude",
+  "source_url": "https://www.igdb.com/games/scribbledude",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40vr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ScribbleDude",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1190930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1190930",
+        "Linux": "setsid steam steam://rungameid/1190930",
+        "macOS": "open steam://rungameid/1190930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1190930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "scribbledude",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127091"
+}

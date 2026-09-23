@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16945,
+  "name": "Global ATC Simulator",
+  "source_url": "https://www.igdb.com/games/global-atc-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41be.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Global ATC Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "270830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/270830",
+        "Linux": "setsid steam steam://rungameid/270830",
+        "macOS": "open steam://rungameid/270830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/270830",
+      "protondb": {
+        "tier": "borked",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "global-atc-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16945"
+}

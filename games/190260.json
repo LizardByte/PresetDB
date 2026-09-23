@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190260,
+  "name": "Repit",
+  "source_url": "https://www.igdb.com/games/repit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m9d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Repit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1755890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1755890",
+        "Linux": "setsid steam steam://rungameid/1755890",
+        "macOS": "open steam://rungameid/1755890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1755890",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "repit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190260"
+}

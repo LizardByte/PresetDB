@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103002,
+  "name": "Lost in Spice",
+  "source_url": "https://www.igdb.com/games/lost-in-spice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobghf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost in Spice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854330",
+        "Linux": "setsid steam steam://rungameid/854330",
+        "macOS": "open steam://rungameid/854330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/854330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-in-spice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103002"
+}

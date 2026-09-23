@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 87661,
+  "name": "Run Sausage Run!",
+  "source_url": "https://www.igdb.com/games/run-sausage-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cqs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Sausage Run!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2324300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2324300",
+        "Linux": "setsid steam steam://rungameid/2324300",
+        "macOS": "open steam://rungameid/2324300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2324300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-sausage-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=87661"
+}

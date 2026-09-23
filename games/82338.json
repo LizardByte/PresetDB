@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82338,
+  "name": "Flinch",
+  "source_url": "https://www.igdb.com/games/flinch",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flinch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "769170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/769170",
+        "Linux": "setsid steam steam://rungameid/769170",
+        "macOS": "open steam://rungameid/769170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/769170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flinch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82338"
+}

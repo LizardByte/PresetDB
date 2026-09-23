@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2136,
+  "name": "Bayonetta",
+  "source_url": "https://www.igdb.com/games/bayonetta",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nf4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bayonetta",
+      "os": null,
+      "method": "steam",
+      "launch_id": "460790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/460790",
+        "Linux": "setsid steam steam://rungameid/460790",
+        "macOS": "open steam://rungameid/460790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/460790",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bayonetta",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2136"
+}

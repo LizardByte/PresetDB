@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 2025,
+  "name": "Mount & Blade: Warband",
+  "source_url": "https://www.igdb.com/games/mount-blade-warband",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1y8y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mount & Blade: Warband",
+      "os": null,
+      "method": "steam",
+      "launch_id": "48700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/48700",
+        "Linux": "setsid steam steam://rungameid/48700",
+        "macOS": "open steam://rungameid/48700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/48700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mount-blade-warband",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=2025"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 50540,
+  "name": "Einar",
+  "source_url": "https://www.igdb.com/games/einar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25i4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Einar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "674400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/674400",
+        "Linux": "setsid steam steam://rungameid/674400",
+        "macOS": "open steam://rungameid/674400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/674400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "einar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=50540"
+}

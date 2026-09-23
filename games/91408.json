@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 91408,
+  "name": "Aloha Play",
+  "source_url": "https://www.igdb.com/games/aloha-play",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1h5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aloha Play",
+      "os": null,
+      "method": "steam",
+      "launch_id": "755040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/755040",
+        "Linux": "setsid steam steam://rungameid/755040",
+        "macOS": "open steam://rungameid/755040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/755040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "aloha-play",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=91408"
+}

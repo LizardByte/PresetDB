@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113479,
+  "name": "Trends",
+  "source_url": "https://www.igdb.com/games/trends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ja1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "944730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/944730",
+        "Linux": "setsid steam steam://rungameid/944730",
+        "macOS": "open steam://rungameid/944730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/944730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "trends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113479"
+}

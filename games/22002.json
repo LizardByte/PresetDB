@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22002,
+  "name": "Crimson Keep",
+  "source_url": "https://www.igdb.com/games/crimson-keep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co248s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crimson Keep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "632110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/632110",
+        "Linux": "setsid steam steam://rungameid/632110",
+        "macOS": "open steam://rungameid/632110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/632110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "crimson-keep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22002"
+}

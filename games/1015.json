@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1015,
+  "name": "BloodRayne",
+  "source_url": "https://www.igdb.com/games/bloodrayne",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ot8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BloodRayne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3810",
+        "Linux": "setsid steam steam://rungameid/3810",
+        "macOS": "open steam://rungameid/3810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3810",
+      "protondb": {
+        "tier": "gold",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "bloodrayne",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1015"
+}

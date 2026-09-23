@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98708,
+  "name": "Slab",
+  "source_url": "https://www.igdb.com/games/slab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co893m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "844180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/844180",
+        "Linux": "setsid steam steam://rungameid/844180",
+        "macOS": "open steam://rungameid/844180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/844180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98708"
+}

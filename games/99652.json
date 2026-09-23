@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99652,
+  "name": "Rift Keeper",
+  "source_url": "https://www.igdb.com/games/rift-keeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1igp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rift Keeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843360",
+        "Linux": "setsid steam steam://rungameid/843360",
+        "macOS": "open steam://rungameid/843360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/843360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rift-keeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99652"
+}

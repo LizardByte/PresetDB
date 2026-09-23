@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108606,
+  "name": "Transmission",
+  "source_url": "https://www.igdb.com/games/transmission",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20k1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Transmission",
+      "os": null,
+      "method": "steam",
+      "launch_id": "509950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/509950",
+        "Linux": "setsid steam steam://rungameid/509950",
+        "macOS": "open steam://rungameid/509950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/509950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "transmission",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108606"
+}

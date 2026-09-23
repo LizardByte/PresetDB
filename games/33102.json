@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33102,
+  "name": "PlayFortress",
+  "source_url": "https://www.igdb.com/games/playfortress",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlayFortress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "459880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/459880",
+        "Linux": "setsid steam steam://rungameid/459880",
+        "macOS": "open steam://rungameid/459880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/459880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "playfortress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33102"
+}

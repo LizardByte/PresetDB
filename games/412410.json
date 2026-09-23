@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412410,
+  "name": "Dionysus",
+  "source_url": "https://www.igdb.com/games/dionysus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmll.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dionysus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3002630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3002630",
+        "Linux": "setsid steam steam://rungameid/3002630",
+        "macOS": "open steam://rungameid/3002630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3002630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dionysus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412410"
+}

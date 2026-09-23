@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114880,
+  "name": "Tiny Love",
+  "source_url": "https://www.igdb.com/games/tiny-love",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6s5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Love",
+      "os": null,
+      "method": "steam",
+      "launch_id": "933930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/933930",
+        "Linux": "setsid steam steam://rungameid/933930",
+        "macOS": "open steam://rungameid/933930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/933930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tiny-love",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114880"
+}

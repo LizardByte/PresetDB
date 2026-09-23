@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9041,
+  "name": "Blackwell Unbound",
+  "source_url": "https://www.igdb.com/games/blackwell-unbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blackwell Unbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "80340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/80340",
+        "Linux": "setsid steam steam://rungameid/80340",
+        "macOS": "open steam://rungameid/80340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/80340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "blackwell-unbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9041"
+}

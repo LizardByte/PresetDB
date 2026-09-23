@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30464,
+  "name": "Empyrean",
+  "source_url": "https://www.igdb.com/games/empyrean",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95eo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Empyrean",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557700",
+        "Linux": "setsid steam steam://rungameid/557700",
+        "macOS": "open steam://rungameid/557700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/557700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "empyrean",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30464"
+}

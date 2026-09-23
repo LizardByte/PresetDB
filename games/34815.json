@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34815,
+  "name": "Alpha Runner",
+  "source_url": "https://www.igdb.com/games/alpha-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7tub.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alpha Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "387840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/387840",
+        "Linux": "setsid steam steam://rungameid/387840",
+        "macOS": "open steam://rungameid/387840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/387840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alpha-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34815"
+}

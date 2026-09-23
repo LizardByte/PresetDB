@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35545,
+  "name": "Another Star",
+  "source_url": "https://www.igdb.com/games/another-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ljq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Another Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "358030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/358030",
+        "Linux": "setsid steam steam://rungameid/358030",
+        "macOS": "open steam://rungameid/358030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/358030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "another-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35545"
+}

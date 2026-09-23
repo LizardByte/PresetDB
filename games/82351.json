@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 82351,
+  "name": "Creatura",
+  "source_url": "https://www.igdb.com/games/creatura",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pt9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creatura",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781130",
+        "Linux": "setsid steam steam://rungameid/781130",
+        "macOS": "open steam://rungameid/781130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/781130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "creatura",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=82351"
+}

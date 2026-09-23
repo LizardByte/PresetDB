@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36200,
+  "name": "planktOs",
+  "source_url": "https://www.igdb.com/games/planktos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8sg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "planktOs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "330500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/330500",
+        "Linux": "setsid steam steam://rungameid/330500",
+        "macOS": "open steam://rungameid/330500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/330500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "planktos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36200"
+}

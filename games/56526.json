@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 56526,
+  "name": "Proton Pulse +",
+  "source_url": "https://www.igdb.com/games/proton-pulse-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97hw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Proton Pulse +",
+      "os": null,
+      "method": "steam",
+      "launch_id": "381310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/381310",
+        "Linux": "setsid steam steam://rungameid/381310",
+        "macOS": "open steam://rungameid/381310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/381310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "proton-pulse-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=56526"
+}

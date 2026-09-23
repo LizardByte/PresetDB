@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 261598,
+  "name": "Botsu",
+  "source_url": "https://www.igdb.com/games/botsu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rx3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Botsu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "885160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/885160",
+        "Linux": "setsid steam steam://rungameid/885160",
+        "macOS": "open steam://rungameid/885160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/885160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "botsu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=261598"
+}

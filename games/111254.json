@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111254,
+  "name": "Owl Watch",
+  "source_url": "https://www.igdb.com/games/owl-watch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2y2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Owl Watch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887340",
+        "Linux": "setsid steam steam://rungameid/887340",
+        "macOS": "open steam://rungameid/887340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/887340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "owl-watch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111254"
+}

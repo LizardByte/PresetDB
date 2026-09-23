@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32981,
+  "name": "Dungetris",
+  "source_url": "https://www.igdb.com/games/dungetris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungetris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "462200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/462200",
+        "Linux": "setsid steam steam://rungameid/462200",
+        "macOS": "open steam://rungameid/462200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/462200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dungetris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32981"
+}

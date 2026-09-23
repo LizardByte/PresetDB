@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190320,
+  "name": "Tormentis",
+  "source_url": "https://www.igdb.com/games/tormentis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bph.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tormentis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1782480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1782480",
+        "Linux": "setsid steam steam://rungameid/1782480",
+        "macOS": "open steam://rungameid/1782480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1782480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tormentis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190320"
+}

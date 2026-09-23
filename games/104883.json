@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104883,
+  "name": "The Basilisk",
+  "source_url": "https://www.igdb.com/games/the-basilisk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4327.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Basilisk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "873410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/873410",
+        "Linux": "setsid steam steam://rungameid/873410",
+        "macOS": "open steam://rungameid/873410"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/873410",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-basilisk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104883"
+}

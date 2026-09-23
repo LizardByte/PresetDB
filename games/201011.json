@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201011,
+  "name": "Maps: U.S.A.",
+  "source_url": "https://www.igdb.com/games/maps-usa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j4e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maps: U.S.A.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1958040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1958040",
+        "Linux": "setsid steam steam://rungameid/1958040",
+        "macOS": "open steam://rungameid/1958040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1958040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "maps-usa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201011"
+}

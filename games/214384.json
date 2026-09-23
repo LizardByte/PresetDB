@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214384,
+  "name": "Homeseek",
+  "source_url": "https://www.igdb.com/games/homeseek",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co543x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Homeseek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2093000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2093000",
+        "Linux": "setsid steam steam://rungameid/2093000",
+        "macOS": "open steam://rungameid/2093000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2093000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "homeseek",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214384"
+}

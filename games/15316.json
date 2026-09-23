@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15316,
+  "name": "Zombie Playground",
+  "source_url": "https://www.igdb.com/games/zombie-playground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1pa5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Playground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "215550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/215550",
+        "Linux": "setsid steam steam://rungameid/215550",
+        "macOS": "open steam://rungameid/215550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/215550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombie-playground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15316"
+}

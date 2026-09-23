@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35637,
+  "name": "Race Online",
+  "source_url": "https://www.igdb.com/games/race-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26yi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Race Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "355010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/355010",
+        "Linux": "setsid steam steam://rungameid/355010",
+        "macOS": "open steam://rungameid/355010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/355010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "race-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35637"
+}

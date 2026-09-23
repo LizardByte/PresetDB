@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35973,
+  "name": "Bunny Bash",
+  "source_url": "https://www.igdb.com/games/bunny-bash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/p9ipvnawyzmxl7qvagqm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Bash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "340680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/340680",
+        "Linux": "setsid steam steam://rungameid/340680",
+        "macOS": "open steam://rungameid/340680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/340680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bunny-bash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35973"
+}

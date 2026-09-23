@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32969,
+  "name": "Ghost 1.0",
+  "source_url": "https://www.igdb.com/games/ghost-1-dot-0",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwpg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost 1.0",
+      "os": null,
+      "method": "steam",
+      "launch_id": "463270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/463270",
+        "Linux": "setsid steam steam://rungameid/463270",
+        "macOS": "open steam://rungameid/463270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/463270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghost-1-dot-0",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32969"
+}

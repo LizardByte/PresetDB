@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400504,
+  "name": "My Goth Girl",
+  "source_url": "https://www.igdb.com/games/my-goth-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0p2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Goth Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3621840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3621840",
+        "Linux": "setsid steam steam://rungameid/3621840",
+        "macOS": "open steam://rungameid/3621840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3621840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-goth-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400504"
+}

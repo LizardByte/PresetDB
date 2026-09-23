@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121864,
+  "name": "CyberRunner",
+  "source_url": "https://www.igdb.com/games/cyberrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o0o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CyberRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1117000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1117000",
+        "Linux": "setsid steam steam://rungameid/1117000",
+        "macOS": "open steam://rungameid/1117000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1117000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cyberrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121864"
+}

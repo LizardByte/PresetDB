@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117247,
+  "name": "Ascenxion",
+  "source_url": "https://www.igdb.com/games/ascenxion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pgq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ascenxion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1000000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1000000",
+        "Linux": "setsid steam steam://rungameid/1000000",
+        "macOS": "open steam://rungameid/1000000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1000000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ascenxion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117247"
+}

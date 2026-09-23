@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17130,
+  "name": "Unclaimed World",
+  "source_url": "https://www.igdb.com/games/unclaimed-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unclaimed World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "284100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/284100",
+        "Linux": "setsid steam steam://rungameid/284100",
+        "macOS": "open steam://rungameid/284100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/284100",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 4
+      }
+    }
+  ],
+  "igdb_slug": "unclaimed-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17130"
+}

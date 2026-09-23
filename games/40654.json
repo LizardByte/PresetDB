@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 40654,
+  "name": "Space Rocks",
+  "source_url": "https://www.igdb.com/games/space-rocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Rocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748010",
+        "Linux": "setsid steam steam://rungameid/748010",
+        "macOS": "open steam://rungameid/748010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/748010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "space-rocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=40654"
+}

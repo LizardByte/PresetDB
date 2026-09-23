@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29682,
+  "name": "Fly Away",
+  "source_url": "https://www.igdb.com/games/fly-away",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bf7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "583000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/583000",
+        "Linux": "setsid steam steam://rungameid/583000",
+        "macOS": "open steam://rungameid/583000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/583000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fly-away",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29682"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31150,
+  "name": "Killing Zombies",
+  "source_url": "https://www.igdb.com/games/killing-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6uu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Killing Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "534440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/534440",
+        "Linux": "setsid steam steam://rungameid/534440",
+        "macOS": "open steam://rungameid/534440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/534440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "killing-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31150"
+}

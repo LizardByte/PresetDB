@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 4754,
+  "name": "Alien: Isolation",
+  "source_url": "https://www.igdb.com/games/alien-isolation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vzu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien: Isolation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "214490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/214490",
+        "Linux": "setsid steam steam://rungameid/214490",
+        "macOS": "open steam://rungameid/214490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/214490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alien-isolation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=4754"
+}

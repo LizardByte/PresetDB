@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90409,
+  "name": "Reveil",
+  "source_url": "https://www.igdb.com/games/reveil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lvy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reveil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "809060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/809060",
+        "Linux": "setsid steam steam://rungameid/809060",
+        "macOS": "open steam://rungameid/809060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/809060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "reveil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90409"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110999,
+  "name": "Zombie Soldier",
+  "source_url": "https://www.igdb.com/games/zombie-soldier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobieu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Soldier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "954780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/954780",
+        "Linux": "setsid steam steam://rungameid/954780",
+        "macOS": "open steam://rungameid/954780"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/954780",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombie-soldier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110999"
+}

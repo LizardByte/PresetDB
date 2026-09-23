@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104080,
+  "name": "Dere Evil.Exe",
+  "source_url": "https://www.igdb.com/games/dere-evil-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28x5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dere Evil.Exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "871950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/871950",
+        "Linux": "setsid steam steam://rungameid/871950",
+        "macOS": "open steam://rungameid/871950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/871950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dere-evil-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104080"
+}

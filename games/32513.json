@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32513,
+  "name": "PlanetFate",
+  "source_url": "https://www.igdb.com/games/planetfate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlanetFate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485110",
+        "Linux": "setsid steam steam://rungameid/485110",
+        "macOS": "open steam://rungameid/485110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "planetfate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32513"
+}

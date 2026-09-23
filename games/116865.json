@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116865,
+  "name": "Leaf",
+  "source_url": "https://www.igdb.com/games/leaf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21ba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leaf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1048960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1048960",
+        "Linux": "setsid steam steam://rungameid/1048960",
+        "macOS": "open steam://rungameid/1048960"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1048960",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "leaf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116865"
+}

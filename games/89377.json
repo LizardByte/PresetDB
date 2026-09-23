@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89377,
+  "name": "Game Dev Studio",
+  "source_url": "https://www.igdb.com/games/game-dev-studio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q7x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Dev Studio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "773580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/773580",
+        "Linux": "setsid steam steam://rungameid/773580",
+        "macOS": "open steam://rungameid/773580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/773580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-dev-studio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89377"
+}

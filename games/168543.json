@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168543,
+  "name": "Meow Playground",
+  "source_url": "https://www.igdb.com/games/meow-playground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6o7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meow Playground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2813720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2813720",
+        "Linux": "setsid steam steam://rungameid/2813720",
+        "macOS": "open steam://rungameid/2813720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2813720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "meow-playground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168543"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86245,
+  "name": "My 1980's Dashboard",
+  "source_url": "https://www.igdb.com/games/my-1980-s-dashboard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co241k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My 1980's Dashboard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "786630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/786630",
+        "Linux": "setsid steam steam://rungameid/786630",
+        "macOS": "open steam://rungameid/786630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/786630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-1980-s-dashboard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86245"
+}

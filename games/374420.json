@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374420,
+  "name": "The Game for Free",
+  "source_url": "https://www.igdb.com/games/the-game-for-free",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coappf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Game for Free",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2475550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2475550",
+        "Linux": "setsid steam steam://rungameid/2475550",
+        "macOS": "open steam://rungameid/2475550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2475550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-game-for-free",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374420"
+}

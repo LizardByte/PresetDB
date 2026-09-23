@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100389,
+  "name": "I Pay No Rent",
+  "source_url": "https://www.igdb.com/games/i-pay-no-rent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh18.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Pay No Rent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840860",
+        "Linux": "setsid steam steam://rungameid/840860",
+        "macOS": "open steam://rungameid/840860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/840860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-pay-no-rent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100389"
+}

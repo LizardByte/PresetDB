@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90126,
+  "name": "Free At Last",
+  "source_url": "https://www.igdb.com/games/free-at-last",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zxu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Free At Last",
+      "os": null,
+      "method": "steam",
+      "launch_id": "803760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/803760",
+        "Linux": "setsid steam steam://rungameid/803760",
+        "macOS": "open steam://rungameid/803760"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/803760",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "free-at-last",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90126"
+}

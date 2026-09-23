@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102406,
+  "name": "HotFloor",
+  "source_url": "https://www.igdb.com/games/hotfloor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6hj2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HotFloor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865190",
+        "Linux": "setsid steam steam://rungameid/865190",
+        "macOS": "open steam://rungameid/865190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/865190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hotfloor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102406"
+}

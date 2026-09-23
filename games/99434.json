@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99434,
+  "name": "Simple Golfing",
+  "source_url": "https://www.igdb.com/games/simple-golfing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co54hw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simple Golfing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845060",
+        "Linux": "setsid steam steam://rungameid/845060",
+        "macOS": "open steam://rungameid/845060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/845060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "simple-golfing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99434"
+}

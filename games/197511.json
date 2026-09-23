@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197511,
+  "name": "TactiCats",
+  "source_url": "https://www.igdb.com/games/tacticats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jc9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TactiCats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1918320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1918320",
+        "Linux": "setsid steam steam://rungameid/1918320",
+        "macOS": "open steam://rungameid/1918320"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1918320",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tacticats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197511"
+}

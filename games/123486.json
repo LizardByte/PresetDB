@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123486,
+  "name": "For the Night",
+  "source_url": "https://www.igdb.com/games/for-the-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20n2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "For the Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1113630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1113630",
+        "Linux": "setsid steam steam://rungameid/1113630",
+        "macOS": "open steam://rungameid/1113630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1113630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "for-the-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123486"
+}

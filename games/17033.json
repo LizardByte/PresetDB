@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17033,
+  "name": "Revolution Ace",
+  "source_url": "https://www.igdb.com/games/revolution-ace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revolution Ace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "274560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/274560",
+        "Linux": "setsid steam steam://rungameid/274560",
+        "macOS": "open steam://rungameid/274560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/274560",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 6
+      }
+    }
+  ],
+  "igdb_slug": "revolution-ace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17033"
+}

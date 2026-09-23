@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100583,
+  "name": "Dark Sasi",
+  "source_url": "https://www.igdb.com/games/dark-sasi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qzj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Sasi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856130",
+        "Linux": "setsid steam steam://rungameid/856130",
+        "macOS": "open steam://rungameid/856130"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/856130",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dark-sasi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100583"
+}

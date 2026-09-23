@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115342,
+  "name": "Pocoman",
+  "source_url": "https://www.igdb.com/games/pocoman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vgq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pocoman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "984360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/984360",
+        "Linux": "setsid steam steam://rungameid/984360",
+        "macOS": "open steam://rungameid/984360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/984360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pocoman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115342"
+}

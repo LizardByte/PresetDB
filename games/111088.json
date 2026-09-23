@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111088,
+  "name": "GameEllen",
+  "source_url": "https://www.igdb.com/games/gameellen",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GameEllen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961060",
+        "Linux": "setsid steam steam://rungameid/961060",
+        "macOS": "open steam://rungameid/961060"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/961060",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gameellen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111088"
+}

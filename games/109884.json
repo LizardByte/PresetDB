@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109884,
+  "name": "Run'N'Get",
+  "source_url": "https://www.igdb.com/games/runnget",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgmu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run'N'Get",
+      "os": null,
+      "method": "steam",
+      "launch_id": "937970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/937970",
+        "Linux": "setsid steam steam://rungameid/937970",
+        "macOS": "open steam://rungameid/937970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/937970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "runnget",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109884"
+}

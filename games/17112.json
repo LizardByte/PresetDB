@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17112,
+  "name": "Creativerse",
+  "source_url": "https://www.igdb.com/games/creativerse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctjo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creativerse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "280790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/280790",
+        "Linux": "setsid steam steam://rungameid/280790",
+        "macOS": "open steam://rungameid/280790"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/280790",
+      "protondb": {
+        "tier": "gold",
+        "reports": 43
+      }
+    }
+  ],
+  "igdb_slug": "creativerse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17112"
+}

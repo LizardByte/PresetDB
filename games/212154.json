@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212154,
+  "name": "MMI",
+  "source_url": "https://www.igdb.com/games/mmi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lgi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MMI",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2086570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2086570",
+        "Linux": "setsid steam steam://rungameid/2086570",
+        "macOS": "open steam://rungameid/2086570"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2086570",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mmi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212154"
+}

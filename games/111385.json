@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111385,
+  "name": "VR Rome",
+  "source_url": "https://www.igdb.com/games/vr-rome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobifn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Rome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964460",
+        "Linux": "setsid steam steam://rungameid/964460",
+        "macOS": "open steam://rungameid/964460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/964460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-rome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111385"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129120,
+  "name": "SpaceVibes",
+  "source_url": "https://www.igdb.com/games/spacevibes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m0i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpaceVibes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1187430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1187430",
+        "Linux": "setsid steam steam://rungameid/1187430",
+        "macOS": "open steam://rungameid/1187430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1187430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spacevibes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129120"
+}

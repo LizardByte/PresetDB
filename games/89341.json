@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89341,
+  "name": "Unmoor",
+  "source_url": "https://www.igdb.com/games/unmoor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ulg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unmoor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789260",
+        "Linux": "setsid steam steam://rungameid/789260",
+        "macOS": "open steam://rungameid/789260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/789260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unmoor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89341"
+}

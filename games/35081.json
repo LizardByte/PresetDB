@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35081,
+  "name": "Air Brawl",
+  "source_url": "https://www.igdb.com/games/air-brawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l86.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Air Brawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "375600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/375600",
+        "Linux": "setsid steam steam://rungameid/375600",
+        "macOS": "open steam://rungameid/375600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/375600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "air-brawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35081"
+}

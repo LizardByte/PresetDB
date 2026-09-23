@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9374,
+  "name": "Pix the Cat",
+  "source_url": "https://www.igdb.com/games/pix-the-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86zp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pix the Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "330180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/330180",
+        "Linux": "setsid steam steam://rungameid/330180",
+        "macOS": "open steam://rungameid/330180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/330180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pix-the-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9374"
+}

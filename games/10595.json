@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10595,
+  "name": "Nexuiz",
+  "source_url": "https://www.igdb.com/games/nexuiz--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co509n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nexuiz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "96800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/96800",
+        "Linux": "setsid steam steam://rungameid/96800",
+        "macOS": "open steam://rungameid/96800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/96800",
+      "protondb": {
+        "tier": "silver",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "nexuiz--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10595"
+}

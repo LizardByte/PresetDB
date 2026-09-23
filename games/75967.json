@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75967,
+  "name": "Top Secret",
+  "source_url": "https://www.igdb.com/games/top-secret",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6rj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Top Secret",
+      "os": null,
+      "method": "steam",
+      "launch_id": "613980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/613980",
+        "Linux": "setsid steam steam://rungameid/613980",
+        "macOS": "open steam://rungameid/613980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/613980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "top-secret",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75967"
+}

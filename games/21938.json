@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21938,
+  "name": "Exit",
+  "source_url": "https://www.igdb.com/games/exit--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98es.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "535000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/535000",
+        "Linux": "setsid steam steam://rungameid/535000",
+        "macOS": "open steam://rungameid/535000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/535000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "exit--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21938"
+}

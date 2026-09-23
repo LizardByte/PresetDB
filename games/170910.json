@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170910,
+  "name": "Escape the City",
+  "source_url": "https://www.igdb.com/games/escape-the-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ha2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1404150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1404150",
+        "Linux": "setsid steam steam://rungameid/1404150",
+        "macOS": "open steam://rungameid/1404150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1404150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-the-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170910"
+}

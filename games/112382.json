@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112382,
+  "name": "Pranky Cat",
+  "source_url": "https://www.igdb.com/games/pranky-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co93nb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pranky Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913280",
+        "Linux": "setsid steam steam://rungameid/913280",
+        "macOS": "open steam://rungameid/913280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/913280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pranky-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112382"
+}

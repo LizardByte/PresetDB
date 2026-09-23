@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323426,
+  "name": "HitTube",
+  "source_url": "https://www.igdb.com/games/hittube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocl4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HitTube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3347830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3347830",
+        "Linux": "setsid steam steam://rungameid/3347830",
+        "macOS": "open steam://rungameid/3347830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3347830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hittube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323426"
+}

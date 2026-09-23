@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90301,
+  "name": "Pixelum",
+  "source_url": "https://www.igdb.com/games/pixelum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ve8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixelum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "668600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/668600",
+        "Linux": "setsid steam steam://rungameid/668600",
+        "macOS": "open steam://rungameid/668600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/668600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pixelum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90301"
+}

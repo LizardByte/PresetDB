@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86233,
+  "name": "Roanoke",
+  "source_url": "https://www.igdb.com/games/roanoke",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roanoke",
+      "os": null,
+      "method": "steam",
+      "launch_id": "795140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/795140",
+        "Linux": "setsid steam steam://rungameid/795140",
+        "macOS": "open steam://rungameid/795140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/795140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "roanoke",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86233"
+}

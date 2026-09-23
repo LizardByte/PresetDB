@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102145,
+  "name": "Hello Pollution!",
+  "source_url": "https://www.igdb.com/games/hello-pollution",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co295p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hello Pollution!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "846120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/846120",
+        "Linux": "setsid steam steam://rungameid/846120",
+        "macOS": "open steam://rungameid/846120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/846120",
+      "protondb": {
+        "tier": "silver",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "hello-pollution",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102145"
+}

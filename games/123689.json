@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123689,
+  "name": "Bloody Spell",
+  "source_url": "https://www.igdb.com/games/bloody-spell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp6g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloody Spell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "992300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/992300",
+        "Linux": "setsid steam steam://rungameid/992300",
+        "macOS": "open steam://rungameid/992300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/992300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bloody-spell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123689"
+}

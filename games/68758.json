@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68758,
+  "name": "Skimmerz",
+  "source_url": "https://www.igdb.com/games/skimmerz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobib4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skimmerz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "717000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/717000",
+        "Linux": "setsid steam steam://rungameid/717000",
+        "macOS": "open steam://rungameid/717000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/717000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "skimmerz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68758"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28875,
+  "name": "Immersion Chess",
+  "source_url": "https://www.igdb.com/games/immersion-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bov.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Immersion Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "631660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/631660",
+        "Linux": "setsid steam steam://rungameid/631660",
+        "macOS": "open steam://rungameid/631660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/631660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "immersion-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28875"
+}

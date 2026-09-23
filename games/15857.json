@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 15857,
+  "name": "Headlander",
+  "source_url": "https://www.igdb.com/games/headlander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/uyhtdsepz3tsqi9j55m5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Headlander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "340000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/340000",
+        "Linux": "setsid steam steam://rungameid/340000",
+        "macOS": "open steam://rungameid/340000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/340000",
+      "protondb": {
+        "tier": "gold",
+        "reports": 31
+      }
+    }
+  ],
+  "igdb_slug": "headlander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=15857"
+}

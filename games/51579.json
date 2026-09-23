@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51579,
+  "name": "Close Me",
+  "source_url": "https://www.igdb.com/games/close-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hsl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Close Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "671980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/671980",
+        "Linux": "setsid steam steam://rungameid/671980",
+        "macOS": "open steam://rungameid/671980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/671980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "close-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51579"
+}

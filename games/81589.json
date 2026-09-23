@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81589,
+  "name": "Winner Winner Chicken Dinner!",
+  "source_url": "https://www.igdb.com/games/winner-winner-chicken-dinner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob56h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Winner Winner Chicken Dinner!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781100",
+        "Linux": "setsid steam steam://rungameid/781100",
+        "macOS": "open steam://rungameid/781100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/781100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "winner-winner-chicken-dinner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81589"
+}

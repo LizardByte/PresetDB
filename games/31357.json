@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31357,
+  "name": "Slashy Hero",
+  "source_url": "https://www.igdb.com/games/slashy-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rbo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slashy Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "525740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/525740",
+        "Linux": "setsid steam steam://rungameid/525740",
+        "macOS": "open steam://rungameid/525740"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/525740",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "slashy-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31357"
+}

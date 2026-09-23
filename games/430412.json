@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430412,
+  "name": "SquareLife",
+  "source_url": "https://www.igdb.com/games/squarelife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codemj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SquareLife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4866310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4866310",
+        "Linux": "setsid steam steam://rungameid/4866310",
+        "macOS": "open steam://rungameid/4866310"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4866310",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "squarelife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430412"
+}

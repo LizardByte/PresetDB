@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1023,
+  "name": "Hacker Evolution",
+  "source_url": "https://www.igdb.com/games/hacker-evolution",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gts.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hacker Evolution",
+      "os": null,
+      "method": "steam",
+      "launch_id": "70100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/70100",
+        "Linux": "setsid steam steam://rungameid/70100",
+        "macOS": "open steam://rungameid/70100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/70100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hacker-evolution",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1023"
+}

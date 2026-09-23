@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36500,
+  "name": "Tanks vs. Aliens",
+  "source_url": "https://www.igdb.com/games/tanks-vs-aliens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co225s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tanks vs. Aliens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "634200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/634200",
+        "Linux": "setsid steam steam://rungameid/634200",
+        "macOS": "open steam://rungameid/634200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/634200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "tanks-vs-aliens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36500"
+}

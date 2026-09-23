@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30653,
+  "name": "Cage",
+  "source_url": "https://www.igdb.com/games/cage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4gl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "552140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/552140",
+        "Linux": "setsid steam steam://rungameid/552140",
+        "macOS": "open steam://rungameid/552140"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/552140",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30653"
+}

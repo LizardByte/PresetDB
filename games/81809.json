@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81809,
+  "name": "Reading Simulator",
+  "source_url": "https://www.igdb.com/games/reading-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaevl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reading Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "769690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/769690",
+        "Linux": "setsid steam steam://rungameid/769690",
+        "macOS": "open steam://rungameid/769690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/769690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "reading-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81809"
+}

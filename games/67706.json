@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 67706,
+  "name": "Zombie Panic!",
+  "source_url": "https://www.igdb.com/games/zombie-panic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3kll.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Panic!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "90044",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/90044",
+        "Linux": "setsid steam steam://rungameid/90044",
+        "macOS": "open steam://rungameid/90044"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/90044",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombie-panic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=67706"
+}

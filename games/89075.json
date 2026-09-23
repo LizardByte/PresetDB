@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89075,
+  "name": "BugOut",
+  "source_url": "https://www.igdb.com/games/bugout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mmi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BugOut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "790700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/790700",
+        "Linux": "setsid steam steam://rungameid/790700",
+        "macOS": "open steam://rungameid/790700"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/790700",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bugout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89075"
+}

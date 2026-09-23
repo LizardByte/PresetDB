@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23178,
+  "name": "Smash + Grab",
+  "source_url": "https://www.igdb.com/games/smash-plus-grab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rc0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smash + Grab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "412720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/412720",
+        "Linux": "setsid steam steam://rungameid/412720",
+        "macOS": "open steam://rungameid/412720"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/412720",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "smash-plus-grab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23178"
+}

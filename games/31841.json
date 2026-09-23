@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31841,
+  "name": "MetaWorld",
+  "source_url": "https://www.igdb.com/games/metaworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/n5xqhwn5r3thygrphhj5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MetaWorld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "511100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/511100",
+        "Linux": "setsid steam steam://rungameid/511100",
+        "macOS": "open steam://rungameid/511100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/511100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metaworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31841"
+}

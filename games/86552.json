@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86552,
+  "name": "Grim Wanderings",
+  "source_url": "https://www.igdb.com/games/grim-wanderings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcus.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grim Wanderings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "799620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/799620",
+        "Linux": "setsid steam steam://rungameid/799620",
+        "macOS": "open steam://rungameid/799620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/799620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "grim-wanderings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86552"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 83611,
+  "name": "DwarVRs",
+  "source_url": "https://www.igdb.com/games/dwarvrs",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DwarVRs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "769930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/769930",
+        "Linux": "setsid steam steam://rungameid/769930",
+        "macOS": "open steam://rungameid/769930"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/769930",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dwarvrs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=83611"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35519,
+  "name": "Taken",
+  "source_url": "https://www.igdb.com/games/taken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7in.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Taken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "359160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/359160",
+        "Linux": "setsid steam steam://rungameid/359160",
+        "macOS": "open steam://rungameid/359160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/359160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "taken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35519"
+}

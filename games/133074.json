@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133074,
+  "name": "Hero.EXE",
+  "source_url": "https://www.igdb.com/games/hero-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42d7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero.EXE",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1302770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1302770",
+        "Linux": "setsid steam steam://rungameid/1302770",
+        "macOS": "open steam://rungameid/1302770"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1302770",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hero-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133074"
+}

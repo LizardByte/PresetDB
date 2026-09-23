@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 45363,
+  "name": "Pogo",
+  "source_url": "https://www.igdb.com/games/pogo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pogo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "690550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/690550",
+        "Linux": "setsid steam steam://rungameid/690550",
+        "macOS": "open steam://rungameid/690550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/690550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pogo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=45363"
+}

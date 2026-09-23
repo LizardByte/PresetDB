@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16862,
+  "name": "Platformines",
+  "source_url": "https://www.igdb.com/games/platformines",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86fy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Platformines",
+      "os": null,
+      "method": "steam",
+      "launch_id": "264540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/264540",
+        "Linux": "setsid steam steam://rungameid/264540",
+        "macOS": "open steam://rungameid/264540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/264540",
+      "protondb": {
+        "tier": "gold",
+        "reports": 10
+      }
+    }
+  ],
+  "igdb_slug": "platformines",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16862"
+}

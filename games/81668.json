@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81668,
+  "name": "Agent girl",
+  "source_url": "https://www.igdb.com/games/agent-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2gbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agent girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "680270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/680270",
+        "Linux": "setsid steam steam://rungameid/680270",
+        "macOS": "open steam://rungameid/680270"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/680270",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "agent-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81668"
+}

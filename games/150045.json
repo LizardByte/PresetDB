@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150045,
+  "name": "Resident Evil: Revelations",
+  "source_url": "https://www.igdb.com/games/resident-evil-revelations--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zvu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil: Revelations",
+      "os": null,
+      "method": "steam",
+      "launch_id": "222480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/222480",
+        "Linux": "setsid steam steam://rungameid/222480",
+        "macOS": "open steam://rungameid/222480"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/222480",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "resident-evil-revelations--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150045"
+}

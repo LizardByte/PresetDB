@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34274,
+  "name": "Swapperoo",
+  "source_url": "https://www.igdb.com/games/swapperoo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2470.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swapperoo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "410150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/410150",
+        "Linux": "setsid steam steam://rungameid/410150",
+        "macOS": "open steam://rungameid/410150"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/410150",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "swapperoo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34274"
+}

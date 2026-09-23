@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89978,
+  "name": "Space Escape",
+  "source_url": "https://www.igdb.com/games/space-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r1b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "815830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/815830",
+        "Linux": "setsid steam steam://rungameid/815830",
+        "macOS": "open steam://rungameid/815830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/815830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "space-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89978"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16815,
+  "name": "Zombeer",
+  "source_url": "https://www.igdb.com/games/zombeer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22qh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombeer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "262190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/262190",
+        "Linux": "setsid steam steam://rungameid/262190",
+        "macOS": "open steam://rungameid/262190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/262190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombeer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16815"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149243,
+  "name": "F.U.B.A.R",
+  "source_url": "https://www.igdb.com/games/fubar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zzy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "F.U.B.A.R",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1351880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1351880",
+        "Linux": "setsid steam steam://rungameid/1351880",
+        "macOS": "open steam://rungameid/1351880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1351880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fubar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149243"
+}

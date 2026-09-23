@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 186133,
+  "name": "Go Fetch!",
+  "source_url": "https://www.igdb.com/games/go-fetch--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4be7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Fetch!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1858260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1858260",
+        "Linux": "setsid steam steam://rungameid/1858260",
+        "macOS": "open steam://rungameid/1858260"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1858260",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "go-fetch--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=186133"
+}

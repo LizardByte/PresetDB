@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249800,
+  "name": "Search All: UFO",
+  "source_url": "https://www.igdb.com/games/search-all-ufo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94q3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: UFO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2404400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2404400",
+        "Linux": "setsid steam steam://rungameid/2404400",
+        "macOS": "open steam://rungameid/2404400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2404400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "search-all-ufo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249800"
+}

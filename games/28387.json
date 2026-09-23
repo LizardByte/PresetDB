@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28387,
+  "name": "Cabal Online",
+  "source_url": "https://www.igdb.com/games/cabal-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6j7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cabal Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "253490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/253490",
+        "Linux": "setsid steam steam://rungameid/253490",
+        "macOS": "open steam://rungameid/253490"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/253490",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cabal-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28387"
+}

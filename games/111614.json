@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111614,
+  "name": "WitchAction",
+  "source_url": "https://www.igdb.com/games/witchaction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3na4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WitchAction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895860",
+        "Linux": "setsid steam steam://rungameid/895860",
+        "macOS": "open steam://rungameid/895860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/895860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "witchaction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111614"
+}

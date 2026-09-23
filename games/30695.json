@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30695,
+  "name": "Leviathan Starblade",
+  "source_url": "https://www.igdb.com/games/leviathan-starblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa22h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leviathan Starblade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "549900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/549900",
+        "Linux": "setsid steam steam://rungameid/549900",
+        "macOS": "open steam://rungameid/549900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/549900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "leviathan-starblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30695"
+}

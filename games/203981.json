@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203981,
+  "name": "Escape the Ether",
+  "source_url": "https://www.igdb.com/games/escape-the-ether",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ha3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Ether",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1943020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1943020",
+        "Linux": "setsid steam steam://rungameid/1943020",
+        "macOS": "open steam://rungameid/1943020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1943020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "escape-the-ether",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203981"
+}

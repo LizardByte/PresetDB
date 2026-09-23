@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 870,
+  "name": "Silent Hunter III",
+  "source_url": "https://www.igdb.com/games/silent-hunter-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7noz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silent Hunter III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "15210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/15210",
+        "Linux": "setsid steam steam://rungameid/15210",
+        "macOS": "open steam://rungameid/15210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/15210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "silent-hunter-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=870"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34837,
+  "name": "The Cat Machine",
+  "source_url": "https://www.igdb.com/games/the-cat-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fga.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cat Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "386900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/386900",
+        "Linux": "setsid steam steam://rungameid/386900",
+        "macOS": "open steam://rungameid/386900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/386900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-cat-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34837"
+}

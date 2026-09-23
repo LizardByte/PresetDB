@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 58114,
+  "name": "Exception",
+  "source_url": "https://www.igdb.com/games/exception",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m8z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exception",
+      "os": null,
+      "method": "steam",
+      "launch_id": "456390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/456390",
+        "Linux": "setsid steam steam://rungameid/456390",
+        "macOS": "open steam://rungameid/456390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/456390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "exception",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=58114"
+}

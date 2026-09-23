@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 62313,
+  "name": "Gunhouse",
+  "source_url": "https://www.igdb.com/games/gunhouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ys3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunhouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "704110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/704110",
+        "Linux": "setsid steam steam://rungameid/704110",
+        "macOS": "open steam://rungameid/704110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/704110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gunhouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=62313"
+}

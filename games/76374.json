@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76374,
+  "name": "Old Adventure",
+  "source_url": "https://www.igdb.com/games/old-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobazs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Old Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "688450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/688450",
+        "Linux": "setsid steam steam://rungameid/688450",
+        "macOS": "open steam://rungameid/688450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/688450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "old-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76374"
+}

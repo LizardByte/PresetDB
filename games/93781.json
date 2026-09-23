@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 93781,
+  "name": "Questlike",
+  "source_url": "https://www.igdb.com/games/questlike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobekr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Questlike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816400",
+        "Linux": "setsid steam steam://rungameid/816400",
+        "macOS": "open steam://rungameid/816400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/816400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "questlike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=93781"
+}

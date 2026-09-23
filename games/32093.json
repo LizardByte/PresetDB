@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32093,
+  "name": "Get the Gems",
+  "source_url": "https://www.igdb.com/games/get-the-gems",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co418x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get the Gems",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500940",
+        "Linux": "setsid steam steam://rungameid/500940",
+        "macOS": "open steam://rungameid/500940"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/500940",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "get-the-gems",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32093"
+}

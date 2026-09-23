@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8485,
+  "name": "Secret Agent",
+  "source_url": "https://www.igdb.com/games/secret-agent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wnv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Secret Agent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "358350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/358350",
+        "Linux": "setsid steam steam://rungameid/358350",
+        "macOS": "open steam://rungameid/358350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/358350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "secret-agent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8485"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30035,
+  "name": "GunHero",
+  "source_url": "https://www.igdb.com/games/gunhero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bjn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GunHero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568840",
+        "Linux": "setsid steam steam://rungameid/568840",
+        "macOS": "open steam://rungameid/568840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/568840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gunhero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30035"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86383,
+  "name": "FoxTail",
+  "source_url": "https://www.igdb.com/games/foxtail",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FoxTail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "581360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/581360",
+        "Linux": "setsid steam steam://rungameid/581360",
+        "macOS": "open steam://rungameid/581360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/581360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "foxtail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86383"
+}

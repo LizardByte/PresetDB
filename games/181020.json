@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181020,
+  "name": "The Last Cell",
+  "source_url": "https://www.igdb.com/games/the-last-cell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n5r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Cell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1762840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1762840",
+        "Linux": "setsid steam steam://rungameid/1762840",
+        "macOS": "open steam://rungameid/1762840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1762840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-last-cell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181020"
+}

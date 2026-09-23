@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43134,
+  "name": "Beached",
+  "source_url": "https://www.igdb.com/games/beached",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29ww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beached",
+      "os": null,
+      "method": "steam",
+      "launch_id": "652560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/652560",
+        "Linux": "setsid steam steam://rungameid/652560",
+        "macOS": "open steam://rungameid/652560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/652560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beached",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43134"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26,
+  "name": "X-COM: Apocalypse",
+  "source_url": "https://www.igdb.com/games/x-com-apocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "X-COM: Apocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "7660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/7660",
+        "Linux": "setsid steam steam://rungameid/7660",
+        "macOS": "open steam://rungameid/7660"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/7660",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "x-com-apocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26"
+}

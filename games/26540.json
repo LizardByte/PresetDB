@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26540,
+  "name": "M.E.R.C.",
+  "source_url": "https://www.igdb.com/games/merc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27yk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "M.E.R.C.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "555010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/555010",
+        "Linux": "setsid steam steam://rungameid/555010",
+        "macOS": "open steam://rungameid/555010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/555010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "merc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26540"
+}

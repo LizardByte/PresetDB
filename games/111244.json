@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111244,
+  "name": "Strange Encounter",
+  "source_url": "https://www.igdb.com/games/strange-encounter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4258.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Strange Encounter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958650",
+        "Linux": "setsid steam steam://rungameid/958650",
+        "macOS": "open steam://rungameid/958650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/958650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "strange-encounter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111244"
+}

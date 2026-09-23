@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16426,
+  "name": "Champions of Regnum",
+  "source_url": "https://www.igdb.com/games/champions-of-regnum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pqa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Champions of Regnum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "222520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/222520",
+        "Linux": "setsid steam steam://rungameid/222520",
+        "macOS": "open steam://rungameid/222520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/222520",
+      "protondb": {
+        "tier": "gold",
+        "reports": 5
+      }
+    }
+  ],
+  "igdb_slug": "champions-of-regnum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16426"
+}

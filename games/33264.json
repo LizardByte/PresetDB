@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33264,
+  "name": "WizardCraft",
+  "source_url": "https://www.igdb.com/games/wizardcraft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4vo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WizardCraft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "451900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/451900",
+        "Linux": "setsid steam steam://rungameid/451900",
+        "macOS": "open steam://rungameid/451900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/451900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "wizardcraft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33264"
+}

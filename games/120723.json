@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120723,
+  "name": "Bastide",
+  "source_url": "https://www.igdb.com/games/bastide",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wy2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bastide",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1115450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1115450",
+        "Linux": "setsid steam steam://rungameid/1115450",
+        "macOS": "open steam://rungameid/1115450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1115450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bastide",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120723"
+}

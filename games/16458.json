@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16458,
+  "name": "Risk",
+  "source_url": "https://www.igdb.com/games/risk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3bai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Risk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "227920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/227920",
+        "Linux": "setsid steam steam://rungameid/227920",
+        "macOS": "open steam://rungameid/227920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/227920",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 8
+      }
+    }
+  ],
+  "igdb_slug": "risk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16458"
+}

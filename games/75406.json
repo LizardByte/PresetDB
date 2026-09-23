@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75406,
+  "name": "My Way VR",
+  "source_url": "https://www.igdb.com/games/my-way-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobay2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Way VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "687730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/687730",
+        "Linux": "setsid steam steam://rungameid/687730",
+        "macOS": "open steam://rungameid/687730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/687730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-way-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75406"
+}

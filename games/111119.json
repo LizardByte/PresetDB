@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111119,
+  "name": "Echoes World",
+  "source_url": "https://www.igdb.com/games/echoes-world",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echoes World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "889290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/889290",
+        "Linux": "setsid steam steam://rungameid/889290",
+        "macOS": "open steam://rungameid/889290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/889290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "echoes-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111119"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348641,
+  "name": "Sync or Sink",
+  "source_url": "https://www.igdb.com/games/sync-or-sink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalyp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sync or Sink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3626910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3626910",
+        "Linux": "setsid steam steam://rungameid/3626910",
+        "macOS": "open steam://rungameid/3626910"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3626910",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sync-or-sink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348641"
+}

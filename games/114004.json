@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114004,
+  "name": "Doomblade",
+  "source_url": "https://www.igdb.com/games/doomblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jkq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doomblade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922050",
+        "Linux": "setsid steam steam://rungameid/922050",
+        "macOS": "open steam://rungameid/922050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/922050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "doomblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114004"
+}

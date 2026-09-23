@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111983,
+  "name": "Obenseuer",
+  "source_url": "https://www.igdb.com/games/obenseuer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6pr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Obenseuer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951240",
+        "Linux": "setsid steam steam://rungameid/951240",
+        "macOS": "open steam://rungameid/951240"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/951240",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 17
+      }
+    }
+  ],
+  "igdb_slug": "obenseuer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111983"
+}

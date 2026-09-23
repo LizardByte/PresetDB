@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 3966,
+  "name": "Killer7",
+  "source_url": "https://www.igdb.com/games/killer7",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobw10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Killer7",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868520",
+        "Linux": "setsid steam steam://rungameid/868520",
+        "macOS": "open steam://rungameid/868520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/868520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "killer7",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=3966"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110521,
+  "name": "Legacy of Lina",
+  "source_url": "https://www.igdb.com/games/legacy-of-lina",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa55b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legacy of Lina",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940830",
+        "Linux": "setsid steam steam://rungameid/940830",
+        "macOS": "open steam://rungameid/940830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/940830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "legacy-of-lina",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110521"
+}

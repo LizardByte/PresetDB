@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32430,
+  "name": "Toxic Terror",
+  "source_url": "https://www.igdb.com/games/toxic-terror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ty.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toxic Terror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "486630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/486630",
+        "Linux": "setsid steam steam://rungameid/486630",
+        "macOS": "open steam://rungameid/486630"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/486630",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "toxic-terror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32430"
+}

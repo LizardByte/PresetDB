@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120022,
+  "name": "Valley Run",
+  "source_url": "https://www.igdb.com/games/valley-run",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valley Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1091350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1091350",
+        "Linux": "setsid steam steam://rungameid/1091350",
+        "macOS": "open steam://rungameid/1091350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1091350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "valley-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120022"
+}

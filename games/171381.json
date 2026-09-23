@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171381,
+  "name": "eSports Manager",
+  "source_url": "https://www.igdb.com/games/esports-manager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa54i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "eSports Manager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "643370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/643370",
+        "Linux": "setsid steam steam://rungameid/643370",
+        "macOS": "open steam://rungameid/643370"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/643370",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "esports-manager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171381"
+}

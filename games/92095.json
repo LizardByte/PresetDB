@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 92095,
+  "name": "Abbot's Book",
+  "source_url": "https://www.igdb.com/games/abbots-book",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82o8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abbot's Book",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434430",
+        "Linux": "setsid steam steam://rungameid/434430",
+        "macOS": "open steam://rungameid/434430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/434430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "abbots-book",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=92095"
+}

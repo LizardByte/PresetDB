@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110114,
+  "name": "Roll!",
+  "source_url": "https://www.igdb.com/games/roll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfw5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "938280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/938280",
+        "Linux": "setsid steam steam://rungameid/938280",
+        "macOS": "open steam://rungameid/938280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/938280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "roll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110114"
+}

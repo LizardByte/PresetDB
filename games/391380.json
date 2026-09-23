@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391380,
+  "name": "Another Game About Automation",
+  "source_url": "https://www.igdb.com/games/another-game-about-automation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Another Game About Automation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3926510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3926510",
+        "Linux": "setsid steam steam://rungameid/3926510",
+        "macOS": "open steam://rungameid/3926510"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3926510",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "another-game-about-automation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391380"
+}

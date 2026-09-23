@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105690,
+  "name": "Sum",
+  "source_url": "https://www.igdb.com/games/sum",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "899100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/899100",
+        "Linux": "setsid steam steam://rungameid/899100",
+        "macOS": "open steam://rungameid/899100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/899100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105690"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 53094,
+  "name": "Third Exit",
+  "source_url": "https://www.igdb.com/games/third-exit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkjy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Third Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "685360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/685360",
+        "Linux": "setsid steam steam://rungameid/685360",
+        "macOS": "open steam://rungameid/685360"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/685360",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "third-exit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=53094"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16852,
+  "name": "Mr. Bree+",
+  "source_url": "https://www.igdb.com/games/mr-bree-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3b40.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Bree+",
+      "os": null,
+      "method": "steam",
+      "launch_id": "264220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/264220",
+        "Linux": "setsid steam steam://rungameid/264220",
+        "macOS": "open steam://rungameid/264220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/264220",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "mr-bree-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16852"
+}

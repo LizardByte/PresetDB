@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214405,
+  "name": "Moonbreaker",
+  "source_url": "https://www.igdb.com/games/moonbreaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdgm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moonbreaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845890",
+        "Linux": "setsid steam steam://rungameid/845890",
+        "macOS": "open steam://rungameid/845890"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/845890",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "moonbreaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214405"
+}

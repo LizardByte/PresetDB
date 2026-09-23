@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 44243,
+  "name": "Unlimited",
+  "source_url": "https://www.igdb.com/games/unlimited",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnv1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unlimited",
+      "os": null,
+      "method": "steam",
+      "launch_id": "672220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/672220",
+        "Linux": "setsid steam steam://rungameid/672220",
+        "macOS": "open steam://rungameid/672220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/672220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unlimited",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=44243"
+}

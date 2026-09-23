@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17192,
+  "name": "Dungeonmans",
+  "source_url": "https://www.igdb.com/games/dungeonmans",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2mve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeonmans",
+      "os": null,
+      "method": "steam",
+      "launch_id": "288120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/288120",
+        "Linux": "setsid steam steam://rungameid/288120",
+        "macOS": "open steam://rungameid/288120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/288120",
+      "protondb": {
+        "tier": "gold",
+        "reports": 15
+      }
+    }
+  ],
+  "igdb_slug": "dungeonmans",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17192"
+}

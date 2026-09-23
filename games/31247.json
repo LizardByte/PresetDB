@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31247,
+  "name": "ColecoVision Flashback",
+  "source_url": "https://www.igdb.com/games/colecovision-flashback",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29kv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ColecoVision Flashback",
+      "os": null,
+      "method": "steam",
+      "launch_id": "529860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/529860",
+        "Linux": "setsid steam steam://rungameid/529860",
+        "macOS": "open steam://rungameid/529860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/529860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "colecovision-flashback",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31247"
+}

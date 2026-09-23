@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120820,
+  "name": "Metronium",
+  "source_url": "https://www.igdb.com/games/metronium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nuy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metronium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1115470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1115470",
+        "Linux": "setsid steam steam://rungameid/1115470",
+        "macOS": "open steam://rungameid/1115470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1115470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "metronium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120820"
+}

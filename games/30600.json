@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30600,
+  "name": "Are You Ready?",
+  "source_url": "https://www.igdb.com/games/are-you-ready",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29im.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Are You Ready?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553180",
+        "Linux": "setsid steam steam://rungameid/553180",
+        "macOS": "open steam://rungameid/553180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/553180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "are-you-ready",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30600"
+}

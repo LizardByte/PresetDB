@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99147,
+  "name": "Chewbrick",
+  "source_url": "https://www.igdb.com/games/chewbrick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkkq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chewbrick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "709390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/709390",
+        "Linux": "setsid steam steam://rungameid/709390",
+        "macOS": "open steam://rungameid/709390"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/709390",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "chewbrick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99147"
+}

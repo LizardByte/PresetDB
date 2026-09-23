@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8388,
+  "name": "Atom Zombie Smasher",
+  "source_url": "https://www.igdb.com/games/atom-zombie-smasher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zi0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atom Zombie Smasher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "55040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/55040",
+        "Linux": "setsid steam steam://rungameid/55040",
+        "macOS": "open steam://rungameid/55040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/55040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "atom-zombie-smasher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8388"
+}

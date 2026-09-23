@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431246,
+  "name": "Rip Me!",
+  "source_url": "https://www.igdb.com/games/rip-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rip Me!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5458160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5458160",
+        "Linux": "setsid steam steam://rungameid/5458160",
+        "macOS": "open steam://rungameid/5458160"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5458160",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rip-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431246"
+}

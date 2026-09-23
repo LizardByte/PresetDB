@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 47989,
+  "name": "Beta Runner",
+  "source_url": "https://www.igdb.com/games/beta-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29x6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beta Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656020",
+        "Linux": "setsid steam steam://rungameid/656020",
+        "macOS": "open steam://rungameid/656020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/656020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "beta-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=47989"
+}

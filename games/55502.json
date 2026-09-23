@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55502,
+  "name": "Mayhem Above",
+  "source_url": "https://www.igdb.com/games/mayhem-above",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfnl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mayhem Above",
+      "os": null,
+      "method": "steam",
+      "launch_id": "665350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/665350",
+        "Linux": "setsid steam steam://rungameid/665350",
+        "macOS": "open steam://rungameid/665350"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/665350",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mayhem-above",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55502"
+}

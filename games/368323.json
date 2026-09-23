@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368323,
+  "name": "Meddl Dash",
+  "source_url": "https://www.igdb.com/games/meddl-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahw2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meddl Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3147900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3147900",
+        "Linux": "setsid steam steam://rungameid/3147900",
+        "macOS": "open steam://rungameid/3147900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3147900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "meddl-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368323"
+}

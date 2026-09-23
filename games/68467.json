@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68467,
+  "name": "JetmanGo",
+  "source_url": "https://www.igdb.com/games/jetmango",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27ja.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JetmanGo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "665120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/665120",
+        "Linux": "setsid steam steam://rungameid/665120",
+        "macOS": "open steam://rungameid/665120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/665120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "jetmango",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68467"
+}

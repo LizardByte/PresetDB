@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123386,
+  "name": "Outscape",
+  "source_url": "https://www.igdb.com/games/outscape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hy4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "552600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/552600",
+        "Linux": "setsid steam steam://rungameid/552600",
+        "macOS": "open steam://rungameid/552600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/552600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "outscape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123386"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107217,
+  "name": "Automachef",
+  "source_url": "https://www.igdb.com/games/automachef",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1o3b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Automachef",
+      "os": null,
+      "method": "steam",
+      "launch_id": "984800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/984800",
+        "Linux": "setsid steam steam://rungameid/984800",
+        "macOS": "open steam://rungameid/984800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/984800",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 27
+      }
+    }
+  ],
+  "igdb_slug": "automachef",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107217"
+}

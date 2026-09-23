@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113144,
+  "name": "After Hours",
+  "source_url": "https://www.igdb.com/games/after-hours",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp91.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "After Hours",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989040",
+        "Linux": "setsid steam steam://rungameid/989040",
+        "macOS": "open steam://rungameid/989040"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/989040",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "after-hours",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113144"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371305,
+  "name": "My Arcade",
+  "source_url": "https://www.igdb.com/games/my-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalzo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2226190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2226190",
+        "Linux": "setsid steam steam://rungameid/2226190",
+        "macOS": "open steam://rungameid/2226190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2226190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371305"
+}

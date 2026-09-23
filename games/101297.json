@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101297,
+  "name": "BunkerRush",
+  "source_url": "https://www.igdb.com/games/bunkerrush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjao.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BunkerRush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852180",
+        "Linux": "setsid steam steam://rungameid/852180",
+        "macOS": "open steam://rungameid/852180"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/852180",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bunkerrush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101297"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33210,
+  "name": "Age of Cavemen",
+  "source_url": "https://www.igdb.com/games/age-of-cavemen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5nh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age of Cavemen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454600",
+        "Linux": "setsid steam steam://rungameid/454600",
+        "macOS": "open steam://rungameid/454600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/454600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "age-of-cavemen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33210"
+}

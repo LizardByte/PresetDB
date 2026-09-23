@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10077,
+  "name": "Chaos Domain",
+  "source_url": "https://www.igdb.com/games/chaos-domain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nsq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chaos Domain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "287100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/287100",
+        "Linux": "setsid steam steam://rungameid/287100",
+        "macOS": "open steam://rungameid/287100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/287100",
+      "protondb": {
+        "tier": "silver",
+        "reports": 9
+      }
+    }
+  ],
+  "igdb_slug": "chaos-domain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10077"
+}
