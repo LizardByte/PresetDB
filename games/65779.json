@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 65779,
+  "name": "My Name is Addiction",
+  "source_url": "https://www.igdb.com/games/my-name-is-addiction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob199.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Name is Addiction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "713860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/713860",
+        "Linux": "setsid steam steam://rungameid/713860",
+        "macOS": "open steam://rungameid/713860"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/713860",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "my-name-is-addiction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=65779"
+}

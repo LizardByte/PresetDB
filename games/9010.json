@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 9010,
+  "name": "Rage Runner",
+  "source_url": "https://www.igdb.com/games/rage-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y8p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rage Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "279520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/279520",
+        "Linux": "setsid steam steam://rungameid/279520",
+        "macOS": "open steam://rungameid/279520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/279520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "rage-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=9010"
+}

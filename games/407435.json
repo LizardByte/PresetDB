@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407435,
+  "name": "O2",
+  "source_url": "https://www.igdb.com/games/o2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbrj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "O2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4861100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4861100",
+        "Linux": "setsid steam steam://rungameid/4861100",
+        "macOS": "open steam://rungameid/4861100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4861100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "o2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407435"
+}

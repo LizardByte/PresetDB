@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23582,
+  "name": "Lost Castle",
+  "source_url": "https://www.igdb.com/games/lost-castle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1iuv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434650",
+        "Linux": "setsid steam steam://rungameid/434650",
+        "macOS": "open steam://rungameid/434650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/434650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lost-castle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23582"
+}

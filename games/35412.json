@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35412,
+  "name": "Super Distro",
+  "source_url": "https://www.igdb.com/games/super-distro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86kh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Distro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "364690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/364690",
+        "Linux": "setsid steam steam://rungameid/364690",
+        "macOS": "open steam://rungameid/364690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/364690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "super-distro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35412"
+}

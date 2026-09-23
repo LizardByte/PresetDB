@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 34511,
+  "name": "I and Me",
+  "source_url": "https://www.igdb.com/games/i-and-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24we.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I and Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "399600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/399600",
+        "Linux": "setsid steam steam://rungameid/399600",
+        "macOS": "open steam://rungameid/399600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/399600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-and-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=34511"
+}

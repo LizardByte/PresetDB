@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7121,
+  "name": "Ninja Blade",
+  "source_url": "https://www.igdb.com/games/ninja-blade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc18s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ninja Blade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "37010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/37010",
+        "Linux": "setsid steam steam://rungameid/37010",
+        "macOS": "open steam://rungameid/37010"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/37010",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ninja-blade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7121"
+}

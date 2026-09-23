@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386643,
+  "name": "The Run",
+  "source_url": "https://www.igdb.com/games/the-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc0o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3447920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3447920",
+        "Linux": "setsid steam steam://rungameid/3447920",
+        "macOS": "open steam://rungameid/3447920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3447920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386643"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320567,
+  "name": "BoringFly",
+  "source_url": "https://www.igdb.com/games/boringfly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z22.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BoringFly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3247050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3247050",
+        "Linux": "setsid steam steam://rungameid/3247050",
+        "macOS": "open steam://rungameid/3247050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3247050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "boringfly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320567"
+}

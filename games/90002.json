@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90002,
+  "name": "VRobot",
+  "source_url": "https://www.igdb.com/games/vrobot--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob643.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRobot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "783070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/783070",
+        "Linux": "setsid steam steam://rungameid/783070",
+        "macOS": "open steam://rungameid/783070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/783070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vrobot--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90002"
+}

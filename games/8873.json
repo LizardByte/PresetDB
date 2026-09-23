@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8873,
+  "name": "Superfrog HD",
+  "source_url": "https://www.igdb.com/games/superfrog-hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hd8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Superfrog HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234000",
+        "Linux": "setsid steam steam://rungameid/234000",
+        "macOS": "open steam://rungameid/234000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/234000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "superfrog-hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8873"
+}

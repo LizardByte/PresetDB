@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128448,
+  "name": "Turtle VR",
+  "source_url": "https://www.igdb.com/games/turtle-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m2p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turtle VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "413750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/413750",
+        "Linux": "setsid steam steam://rungameid/413750",
+        "macOS": "open steam://rungameid/413750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/413750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "turtle-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128448"
+}

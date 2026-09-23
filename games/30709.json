@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30709,
+  "name": "Manastorm",
+  "source_url": "https://www.igdb.com/games/manastorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf46.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Manastorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "548560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/548560",
+        "Linux": "setsid steam steam://rungameid/548560",
+        "macOS": "open steam://rungameid/548560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/548560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "manastorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30709"
+}

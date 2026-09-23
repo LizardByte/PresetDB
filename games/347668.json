@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347668,
+  "name": "Resident Evil Requiem",
+  "source_url": "https://www.igdb.com/games/resident-evil-requiem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmj0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil Requiem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3764200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3764200",
+        "Linux": "setsid steam steam://rungameid/3764200",
+        "macOS": "open steam://rungameid/3764200"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3764200",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "resident-evil-requiem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347668"
+}

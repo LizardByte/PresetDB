@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31140,
+  "name": "VR Fun World",
+  "source_url": "https://www.igdb.com/games/vr-fun-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob64k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Fun World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "535750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/535750",
+        "Linux": "setsid steam steam://rungameid/535750",
+        "macOS": "open steam://rungameid/535750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/535750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vr-fun-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31140"
+}

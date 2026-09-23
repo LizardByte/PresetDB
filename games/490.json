@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 490,
+  "name": "Duke Nukem Forever",
+  "source_url": "https://www.igdb.com/games/duke-nukem-forever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2f1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duke Nukem Forever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "57900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/57900",
+        "Linux": "setsid steam steam://rungameid/57900",
+        "macOS": "open steam://rungameid/57900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/57900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "duke-nukem-forever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=490"
+}

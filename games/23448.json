@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23448,
+  "name": "DarkSpace",
+  "source_url": "https://www.igdb.com/games/darkspace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2iz0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DarkSpace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1122810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1122810",
+        "Linux": "setsid steam steam://rungameid/1122810",
+        "macOS": "open steam://rungameid/1122810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1122810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "darkspace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23448"
+}

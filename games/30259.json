@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30259,
+  "name": "ZombieCarz",
+  "source_url": "https://www.igdb.com/games/zombiecarz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vwk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZombieCarz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565340",
+        "Linux": "setsid steam steam://rungameid/565340",
+        "macOS": "open steam://rungameid/565340"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/565340",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "zombiecarz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30259"
+}

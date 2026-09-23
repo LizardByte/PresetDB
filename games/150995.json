@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150995,
+  "name": "Ghost of the Seas",
+  "source_url": "https://www.igdb.com/games/ghost-of-the-seas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co419h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost of the Seas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1600030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1600030",
+        "Linux": "setsid steam steam://rungameid/1600030",
+        "macOS": "open steam://rungameid/1600030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1600030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghost-of-the-seas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150995"
+}

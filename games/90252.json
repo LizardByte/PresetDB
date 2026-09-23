@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 90252,
+  "name": "Internal Storm",
+  "source_url": "https://www.igdb.com/games/internal-storm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobekn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Internal Storm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "786330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/786330",
+        "Linux": "setsid steam steam://rungameid/786330",
+        "macOS": "open steam://rungameid/786330"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/786330",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "internal-storm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=90252"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76062,
+  "name": "Gunhead",
+  "source_url": "https://www.igdb.com/games/gunhead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a6q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunhead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "704000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/704000",
+        "Linux": "setsid steam steam://rungameid/704000",
+        "macOS": "open steam://rungameid/704000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/704000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gunhead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76062"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76319,
+  "name": "Naughty Elves",
+  "source_url": "https://www.igdb.com/games/naughty-elves",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gy9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Naughty Elves",
+      "os": null,
+      "method": "steam",
+      "launch_id": "750620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/750620",
+        "Linux": "setsid steam steam://rungameid/750620",
+        "macOS": "open steam://rungameid/750620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/750620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "naughty-elves",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76319"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26839,
+  "name": "Agent Awesome",
+  "source_url": "https://www.igdb.com/games/agent-awesome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/zm31qm9lyjvu4fd7njdt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agent Awesome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "345220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/345220",
+        "Linux": "setsid steam steam://rungameid/345220",
+        "macOS": "open steam://rungameid/345220"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/345220",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "agent-awesome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26839"
+}

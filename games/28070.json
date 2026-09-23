@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28070,
+  "name": "Planet Alpha",
+  "source_url": "https://www.igdb.com/games/planet-alpha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r66.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planet Alpha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485030",
+        "Linux": "setsid steam steam://rungameid/485030",
+        "macOS": "open steam://rungameid/485030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/485030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "planet-alpha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28070"
+}

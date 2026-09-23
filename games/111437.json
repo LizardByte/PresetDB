@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111437,
+  "name": "Duck's Inferno",
+  "source_url": "https://www.igdb.com/games/ducks-inferno",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkjg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck's Inferno",
+      "os": null,
+      "method": "steam",
+      "launch_id": "930290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/930290",
+        "Linux": "setsid steam steam://rungameid/930290",
+        "macOS": "open steam://rungameid/930290"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/930290",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ducks-inferno",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111437"
+}

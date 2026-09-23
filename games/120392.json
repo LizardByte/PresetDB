@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120392,
+  "name": "Flappatron",
+  "source_url": "https://www.igdb.com/games/flappatron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4nzc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flappatron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1009750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1009750",
+        "Linux": "setsid steam steam://rungameid/1009750",
+        "macOS": "open steam://rungameid/1009750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1009750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flappatron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120392"
+}

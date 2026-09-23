@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104920,
+  "name": "Bleeding Sun",
+  "source_url": "https://www.igdb.com/games/bleeding-sun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobex4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bleeding Sun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887300",
+        "Linux": "setsid steam steam://rungameid/887300",
+        "macOS": "open steam://rungameid/887300"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/887300",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "bleeding-sun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104920"
+}

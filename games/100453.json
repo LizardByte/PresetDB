@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100453,
+  "name": "VAD",
+  "source_url": "https://www.igdb.com/games/vad",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VAD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "807430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/807430",
+        "Linux": "setsid steam steam://rungameid/807430",
+        "macOS": "open steam://rungameid/807430"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/807430",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100453"
+}

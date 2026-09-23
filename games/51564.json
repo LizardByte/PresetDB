@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51564,
+  "name": "Memes",
+  "source_url": "https://www.igdb.com/games/memes",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Memes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "633880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/633880",
+        "Linux": "setsid steam steam://rungameid/633880",
+        "macOS": "open steam://rungameid/633880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/633880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "memes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51564"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 31589,
+  "name": "SteamHammerVR",
+  "source_url": "https://www.igdb.com/games/steamhammervr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29cu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SteamHammerVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "517460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/517460",
+        "Linux": "setsid steam steam://rungameid/517460",
+        "macOS": "open steam://rungameid/517460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/517460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "steamhammervr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=31589"
+}

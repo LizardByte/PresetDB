@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1062,
+  "name": "Alan Wake",
+  "source_url": "https://www.igdb.com/games/alan-wake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alan Wake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "108710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/108710",
+        "Linux": "setsid steam steam://rungameid/108710",
+        "macOS": "open steam://rungameid/108710"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/108710",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 265
+      }
+    }
+  ],
+  "igdb_slug": "alan-wake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1062"
+}

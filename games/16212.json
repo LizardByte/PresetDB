@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16212,
+  "name": "The Polynomial",
+  "source_url": "https://www.igdb.com/games/the-polynomial",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co52ss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Polynomial",
+      "os": null,
+      "method": "steam",
+      "launch_id": "67000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/67000",
+        "Linux": "setsid steam steam://rungameid/67000",
+        "macOS": "open steam://rungameid/67000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/67000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-polynomial",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16212"
+}

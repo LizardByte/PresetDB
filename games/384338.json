@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384338,
+  "name": "Flatinside Simulator",
+  "source_url": "https://www.igdb.com/games/flatinside-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob82c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flatinside Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3318000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3318000",
+        "Linux": "setsid steam steam://rungameid/3318000",
+        "macOS": "open steam://rungameid/3318000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3318000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "flatinside-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384338"
+}

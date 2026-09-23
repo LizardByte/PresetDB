@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102570,
+  "name": "Uncharted Waters Online",
+  "source_url": "https://www.igdb.com/games/uncharted-waters-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4hrc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uncharted Waters Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "890400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/890400",
+        "Linux": "setsid steam steam://rungameid/890400",
+        "macOS": "open steam://rungameid/890400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/890400",
+      "protondb": {
+        "tier": "gold",
+        "reports": 11
+      }
+    }
+  ],
+  "igdb_slug": "uncharted-waters-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102570"
+}

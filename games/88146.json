@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 88146,
+  "name": "Cat's Bar",
+  "source_url": "https://www.igdb.com/games/cats-bar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6b0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat's Bar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "804900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/804900",
+        "Linux": "setsid steam steam://rungameid/804900",
+        "macOS": "open steam://rungameid/804900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/804900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cats-bar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=88146"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189228,
+  "name": "Agent Stilus",
+  "source_url": "https://www.igdb.com/games/agent-stilus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co572x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agent Stilus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1838080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1838080",
+        "Linux": "setsid steam steam://rungameid/1838080",
+        "macOS": "open steam://rungameid/1838080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1838080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "agent-stilus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189228"
+}

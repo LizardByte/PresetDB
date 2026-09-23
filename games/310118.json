@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310118,
+  "name": "Limbus",
+  "source_url": "https://www.igdb.com/games/limbus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kdq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Limbus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2908670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2908670",
+        "Linux": "setsid steam steam://rungameid/2908670",
+        "macOS": "open steam://rungameid/2908670"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2908670",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "limbus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310118"
+}

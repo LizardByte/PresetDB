@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207345,
+  "name": "Spellic",
+  "source_url": "https://www.igdb.com/games/spellic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mbw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spellic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2060110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2060110",
+        "Linux": "setsid steam steam://rungameid/2060110",
+        "macOS": "open steam://rungameid/2060110"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2060110",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spellic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207345"
+}

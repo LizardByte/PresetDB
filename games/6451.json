@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6451,
+  "name": "ArcheAge",
+  "source_url": "https://www.igdb.com/games/archeage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5w7l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ArcheAge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "304030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/304030",
+        "Linux": "setsid steam steam://rungameid/304030",
+        "macOS": "open steam://rungameid/304030"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/304030",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "archeage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6451"
+}

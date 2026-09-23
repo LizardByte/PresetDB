@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28889,
+  "name": "Gorescript",
+  "source_url": "https://www.igdb.com/games/gorescript",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co281a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gorescript",
+      "os": null,
+      "method": "steam",
+      "launch_id": "618690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/618690",
+        "Linux": "setsid steam steam://rungameid/618690",
+        "macOS": "open steam://rungameid/618690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/618690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "gorescript",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28889"
+}

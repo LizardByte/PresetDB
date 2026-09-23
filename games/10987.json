@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10987,
+  "name": "The Waste Land",
+  "source_url": "https://www.igdb.com/games/the-waste-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62y6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Waste Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "316970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/316970",
+        "Linux": "setsid steam steam://rungameid/316970",
+        "macOS": "open steam://rungameid/316970"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/316970",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-waste-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10987"
+}

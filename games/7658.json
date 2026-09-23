@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7658,
+  "name": "Fable Anniversary",
+  "source_url": "https://www.igdb.com/games/fable-anniversary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22lr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fable Anniversary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "288470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/288470",
+        "Linux": "setsid steam steam://rungameid/288470",
+        "macOS": "open steam://rungameid/288470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/288470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fable-anniversary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7658"
+}

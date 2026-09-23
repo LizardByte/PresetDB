@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75008,
+  "name": "More Than Just Chess",
+  "source_url": "https://www.igdb.com/games/more-than-just-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobib3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "More Than Just Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "729650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/729650",
+        "Linux": "setsid steam steam://rungameid/729650",
+        "macOS": "open steam://rungameid/729650"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/729650",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "more-than-just-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75008"
+}

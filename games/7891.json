@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7891,
+  "name": "Hammerwatch",
+  "source_url": "https://www.igdb.com/games/hammerwatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs0i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hammerwatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "239070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/239070",
+        "Linux": "setsid steam steam://rungameid/239070",
+        "macOS": "open steam://rungameid/239070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/239070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hammerwatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7891"
+}

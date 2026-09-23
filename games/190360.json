@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190360,
+  "name": "Arksync",
+  "source_url": "https://www.igdb.com/games/arksync",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86u5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arksync",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1828800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1828800",
+        "Linux": "setsid steam steam://rungameid/1828800",
+        "macOS": "open steam://rungameid/1828800"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1828800",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "arksync",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190360"
+}

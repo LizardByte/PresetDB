@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114385,
+  "name": "Seeker",
+  "source_url": "https://www.igdb.com/games/seeker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf86.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seeker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "987900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/987900",
+        "Linux": "setsid steam steam://rungameid/987900",
+        "macOS": "open steam://rungameid/987900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/987900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "seeker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114385"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 35049,
+  "name": "Protocol",
+  "source_url": "https://www.igdb.com/games/protocol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/a1azgktzorypvyx8mnhw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Protocol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "378020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/378020",
+        "Linux": "setsid steam steam://rungameid/378020",
+        "macOS": "open steam://rungameid/378020"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/378020",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "protocol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=35049"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81230,
+  "name": "TheNightfall",
+  "source_url": "https://www.igdb.com/games/thenightfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27ba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TheNightfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "611620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/611620",
+        "Linux": "setsid steam steam://rungameid/611620",
+        "macOS": "open steam://rungameid/611620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/611620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "thenightfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81230"
+}

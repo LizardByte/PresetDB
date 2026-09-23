@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6744,
+  "name": "Half-Life: Source",
+  "source_url": "https://www.igdb.com/games/half-life-source",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc360.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Half-Life: Source",
+      "os": null,
+      "method": "steam",
+      "launch_id": "280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/280",
+        "Linux": "setsid steam steam://rungameid/280",
+        "macOS": "open steam://rungameid/280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "half-life-source",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6744"
+}

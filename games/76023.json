@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76023,
+  "name": "Ghoulboy",
+  "source_url": "https://www.igdb.com/games/ghoulboy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24j5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghoulboy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "752500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/752500",
+        "Linux": "setsid steam steam://rungameid/752500",
+        "macOS": "open steam://rungameid/752500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/752500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "ghoulboy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76023"
+}

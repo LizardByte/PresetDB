@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25789,
+  "name": "Don't open the doors!",
+  "source_url": "https://www.igdb.com/games/dont-open-the-doors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3u62.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't open the doors!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "533950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/533950",
+        "Linux": "setsid steam steam://rungameid/533950",
+        "macOS": "open steam://rungameid/533950"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/533950",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "dont-open-the-doors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25789"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367884,
+  "name": "Mouse",
+  "source_url": "https://www.igdb.com/games/mouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahcy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3538100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3538100",
+        "Linux": "setsid steam steam://rungameid/3538100",
+        "macOS": "open steam://rungameid/3538100"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3538100",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367884"
+}

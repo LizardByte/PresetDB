@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55220,
+  "name": "NosTale",
+  "source_url": "https://www.igdb.com/games/nostale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4cu0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NosTale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "550470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/550470",
+        "Linux": "setsid steam steam://rungameid/550470",
+        "macOS": "open steam://rungameid/550470"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/550470",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "nostale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55220"
+}

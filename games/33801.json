@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 33801,
+  "name": "Alchemist's Awakening",
+  "source_url": "https://www.igdb.com/games/alchemists-awakening",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lb5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alchemist's Awakening",
+      "os": null,
+      "method": "steam",
+      "launch_id": "431450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/431450",
+        "Linux": "setsid steam steam://rungameid/431450",
+        "macOS": "open steam://rungameid/431450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/431450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "alchemists-awakening",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=33801"
+}

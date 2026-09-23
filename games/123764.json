@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123764,
+  "name": "The Slormancer",
+  "source_url": "https://www.igdb.com/games/the-slormancer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ohn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Slormancer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1104280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1104280",
+        "Linux": "setsid steam steam://rungameid/1104280",
+        "macOS": "open steam://rungameid/1104280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1104280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-slormancer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123764"
+}

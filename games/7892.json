@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7892,
+  "name": "Guardians of Middle-earth",
+  "source_url": "https://www.igdb.com/games/guardians-of-middle-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20ps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guardians of Middle-earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "111900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/111900",
+        "Linux": "setsid steam steam://rungameid/111900",
+        "macOS": "open steam://rungameid/111900"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/111900",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "guardians-of-middle-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7892"
+}

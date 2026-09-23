@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 80929,
+  "name": "Cutthroat",
+  "source_url": "https://www.igdb.com/games/cutthroat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pu8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cutthroat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "737380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/737380",
+        "Linux": "setsid steam steam://rungameid/737380",
+        "macOS": "open steam://rungameid/737380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/737380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cutthroat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=80929"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111475,
+  "name": "Castle Rencounter",
+  "source_url": "https://www.igdb.com/games/castle-rencounter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgcp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle Rencounter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "970620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/970620",
+        "Linux": "setsid steam steam://rungameid/970620",
+        "macOS": "open steam://rungameid/970620"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/970620",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "castle-rencounter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111475"
+}

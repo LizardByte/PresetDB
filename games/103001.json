@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103001,
+  "name": "Subterraneus",
+  "source_url": "https://www.igdb.com/games/subterraneus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42k9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Subterraneus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854120",
+        "Linux": "setsid steam steam://rungameid/854120",
+        "macOS": "open steam://rungameid/854120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/854120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "subterraneus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103001"
+}

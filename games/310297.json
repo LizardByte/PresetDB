@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310297,
+  "name": "Click the Chick",
+  "source_url": "https://www.igdb.com/games/click-the-chick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Click the Chick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3074090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3074090",
+        "Linux": "setsid steam steam://rungameid/3074090",
+        "macOS": "open steam://rungameid/3074090"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3074090",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "click-the-chick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310297"
+}

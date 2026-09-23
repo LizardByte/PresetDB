@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388450,
+  "name": "LeadCount",
+  "source_url": "https://www.igdb.com/games/leadcount",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfs2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LeadCount",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4120280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4120280",
+        "Linux": "setsid steam steam://rungameid/4120280",
+        "macOS": "open steam://rungameid/4120280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4120280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "leadcount",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388450"
+}

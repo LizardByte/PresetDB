@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 55296,
+  "name": "RunZ",
+  "source_url": "https://www.igdb.com/games/runz",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RunZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "699880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/699880",
+        "Linux": "setsid steam steam://rungameid/699880",
+        "macOS": "open steam://rungameid/699880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/699880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "runz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=55296"
+}

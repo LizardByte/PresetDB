@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7518,
+  "name": "Shank",
+  "source_url": "https://www.igdb.com/games/shank",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25f2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shank",
+      "os": null,
+      "method": "steam",
+      "launch_id": "6120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/6120",
+        "Linux": "setsid steam steam://rungameid/6120",
+        "macOS": "open steam://rungameid/6120"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/6120",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "shank",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7518"
+}

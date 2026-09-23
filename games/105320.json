@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105320,
+  "name": "The Red Moon",
+  "source_url": "https://www.igdb.com/games/the-red-moon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobew6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Red Moon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880210",
+        "Linux": "setsid steam steam://rungameid/880210",
+        "macOS": "open steam://rungameid/880210"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/880210",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-red-moon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105320"
+}

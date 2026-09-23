@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29545,
+  "name": "VRog",
+  "source_url": "https://www.igdb.com/games/vrog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "589380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/589380",
+        "Linux": "setsid steam steam://rungameid/589380",
+        "macOS": "open steam://rungameid/589380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/589380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "vrog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29545"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 8146,
+  "name": "Closure",
+  "source_url": "https://www.igdb.com/games/closure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2f4a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Closure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "72000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/72000",
+        "Linux": "setsid steam steam://rungameid/72000",
+        "macOS": "open steam://rungameid/72000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/72000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "closure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=8146"
+}

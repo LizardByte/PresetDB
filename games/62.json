@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 62,
+  "name": "The Curse of Monkey Island",
+  "source_url": "https://www.igdb.com/games/the-curse-of-monkey-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30yu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Curse of Monkey Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "730820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/730820",
+        "Linux": "setsid steam steam://rungameid/730820",
+        "macOS": "open steam://rungameid/730820"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/730820",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-curse-of-monkey-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=62"
+}

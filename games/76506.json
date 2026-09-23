@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76506,
+  "name": "Game of Life",
+  "source_url": "https://www.igdb.com/games/game-of-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6xma.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game of Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "760750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/760750",
+        "Linux": "setsid steam steam://rungameid/760750",
+        "macOS": "open steam://rungameid/760750"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/760750",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-of-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76506"
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102397,
+  "name": "Fallback",
+  "source_url": "https://www.igdb.com/games/fallback",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q4e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallback",
+      "os": null,
+      "method": "steam",
+      "launch_id": "864540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/864540",
+        "Linux": "setsid steam steam://rungameid/864540",
+        "macOS": "open steam://rungameid/864540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/864540",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 7
+      }
+    }
+  ],
+  "igdb_slug": "fallback",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102397"
+}

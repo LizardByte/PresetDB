@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 43179,
+  "name": "Game of Dragons",
+  "source_url": "https://www.igdb.com/games/game-of-dragons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bgu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game of Dragons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "391400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/391400",
+        "Linux": "setsid steam steam://rungameid/391400",
+        "macOS": "open steam://rungameid/391400"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/391400",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-of-dragons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=43179"
+}

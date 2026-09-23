@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312526,
+  "name": "Xenowars",
+  "source_url": "https://www.igdb.com/games/xenowars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mvb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xenowars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2920380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2920380",
+        "Linux": "setsid steam steam://rungameid/2920380",
+        "macOS": "open steam://rungameid/2920380"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2920380",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "xenowars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312526"
+}

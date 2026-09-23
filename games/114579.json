@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114579,
+  "name": "Run Away",
+  "source_url": "https://www.igdb.com/games/run-away--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "998690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/998690",
+        "Linux": "setsid steam steam://rungameid/998690",
+        "macOS": "open steam://rungameid/998690"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/998690",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "run-away--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114579"
+}

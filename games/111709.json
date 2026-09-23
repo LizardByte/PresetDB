@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111709,
+  "name": "Hillbilly Apocalypse",
+  "source_url": "https://www.igdb.com/games/hillbilly-apocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42h1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hillbilly Apocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603000",
+        "Linux": "setsid steam steam://rungameid/603000",
+        "macOS": "open steam://rungameid/603000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/603000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "hillbilly-apocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111709"
+}

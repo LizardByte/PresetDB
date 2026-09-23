@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 51732,
+  "name": "The Slug",
+  "source_url": "https://www.igdb.com/games/the-slug",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Slug",
+      "os": null,
+      "method": "steam",
+      "launch_id": "681070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/681070",
+        "Linux": "setsid steam steam://rungameid/681070",
+        "macOS": "open steam://rungameid/681070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/681070",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-slug",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=51732"
+}

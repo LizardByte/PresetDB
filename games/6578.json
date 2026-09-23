@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6578,
+  "name": "Quake Live",
+  "source_url": "https://www.igdb.com/games/quake-live",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ra0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quake Live",
+      "os": null,
+      "method": "steam",
+      "launch_id": "282440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/282440",
+        "Linux": "setsid steam steam://rungameid/282440",
+        "macOS": "open steam://rungameid/282440"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/282440",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "quake-live",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6578"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 36140,
+  "name": "World of Leaders",
+  "source_url": "https://www.igdb.com/games/world-of-leaders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ppl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Leaders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "335050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/335050",
+        "Linux": "setsid steam steam://rungameid/335050",
+        "macOS": "open steam://rungameid/335050"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/335050",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "world-of-leaders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=36140"
+}

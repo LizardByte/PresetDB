@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86340,
+  "name": "Eternal Dread",
+  "source_url": "https://www.igdb.com/games/eternal-dread",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qdz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eternal Dread",
+      "os": null,
+      "method": "steam",
+      "launch_id": "749920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/749920",
+        "Linux": "setsid steam steam://rungameid/749920",
+        "macOS": "open steam://rungameid/749920"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/749920",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "eternal-dread",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86340"
+}

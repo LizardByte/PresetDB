@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 16205,
+  "name": "Ride 'em Low",
+  "source_url": "https://www.igdb.com/games/ride-em-low",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6pqz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ride 'em Low",
+      "os": null,
+      "method": "steam",
+      "launch_id": "65070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/65070",
+        "Linux": "setsid steam steam://rungameid/65070",
+        "macOS": "open steam://rungameid/65070"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/65070",
+      "protondb": {
+        "tier": "bronze",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "ride-em-low",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=16205"
+}

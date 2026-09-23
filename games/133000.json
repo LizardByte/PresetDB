@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133000,
+  "name": "The Haunting",
+  "source_url": "https://www.igdb.com/games/the-haunting",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d78.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Haunting",
+      "os": null,
+      "method": "steam",
+      "launch_id": "697810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/697810",
+        "Linux": "setsid steam steam://rungameid/697810",
+        "macOS": "open steam://rungameid/697810"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/697810",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-haunting",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133000"
+}

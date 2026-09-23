@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417100,
+  "name": "Game Store Cleanup",
+  "source_url": "https://www.igdb.com/games/game-store-cleanup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Store Cleanup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5146840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5146840",
+        "Linux": "setsid steam steam://rungameid/5146840",
+        "macOS": "open steam://rungameid/5146840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5146840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "game-store-cleanup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417100"
+}

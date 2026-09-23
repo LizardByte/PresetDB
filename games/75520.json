@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75520,
+  "name": "Unknightly",
+  "source_url": "https://www.igdb.com/games/unknightly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co274a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unknightly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "726250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/726250",
+        "Linux": "setsid steam steam://rungameid/726250",
+        "macOS": "open steam://rungameid/726250"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/726250",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "unknightly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75520"
+}

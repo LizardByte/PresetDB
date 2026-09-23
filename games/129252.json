@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129252,
+  "name": "Quest Rooms",
+  "source_url": "https://www.igdb.com/games/quest-rooms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lxn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quest Rooms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234550",
+        "Linux": "setsid steam steam://rungameid/1234550",
+        "macOS": "open steam://rungameid/1234550"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1234550",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "quest-rooms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129252"
+}

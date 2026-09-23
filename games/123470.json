@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123470,
+  "name": "The Dark Wish",
+  "source_url": "https://www.igdb.com/games/the-dark-wish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sjt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dark Wish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1141540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1141540",
+        "Linux": "setsid steam steam://rungameid/1141540",
+        "macOS": "open steam://rungameid/1141540"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1141540",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-dark-wish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123470"
+}

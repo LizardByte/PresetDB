@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7880,
+  "name": "Cargo Commander",
+  "source_url": "https://www.igdb.com/games/cargo-commander--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1npq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cargo Commander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "220460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/220460",
+        "Linux": "setsid steam steam://rungameid/220460",
+        "macOS": "open steam://rungameid/220460"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/220460",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "cargo-commander--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7880"
+}

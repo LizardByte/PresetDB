@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 6273,
+  "name": "Red Faction",
+  "source_url": "https://www.igdb.com/games/red-faction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48x2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Faction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "20530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/20530",
+        "Linux": "setsid steam steam://rungameid/20530",
+        "macOS": "open steam://rungameid/20530"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/20530",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "red-faction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=6273"
+}

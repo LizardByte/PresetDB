@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390630,
+  "name": "Castles of War",
+  "source_url": "https://www.igdb.com/games/castles-of-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk2y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castles of War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4123000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4123000",
+        "Linux": "setsid steam steam://rungameid/4123000",
+        "macOS": "open steam://rungameid/4123000"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4123000",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "castles-of-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390630"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89473,
+  "name": "Mancala",
+  "source_url": "https://www.igdb.com/games/mancala",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ak3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mancala",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2198560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2198560",
+        "Linux": "setsid steam steam://rungameid/2198560",
+        "macOS": "open steam://rungameid/2198560"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2198560",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "mancala",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89473"
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 76839,
+  "name": "Heroes of Arzar",
+  "source_url": "https://www.igdb.com/games/heroes-of-arzar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2blo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes of Arzar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "628190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/628190",
+        "Linux": "setsid steam steam://rungameid/628190",
+        "macOS": "open steam://rungameid/628190"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/628190",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "heroes-of-arzar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=76839"
+}

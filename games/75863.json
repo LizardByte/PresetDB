@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 75863,
+  "name": "Marauder",
+  "source_url": "https://www.igdb.com/games/marauder--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80ff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marauder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "289600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/289600",
+        "Linux": "setsid steam steam://rungameid/289600",
+        "macOS": "open steam://rungameid/289600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/289600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "marauder--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=75863"
+}

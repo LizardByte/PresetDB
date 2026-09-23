@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415995,
+  "name": "Go Next!",
+  "source_url": "https://www.igdb.com/games/go-next",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwd3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Next!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5064170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5064170",
+        "Linux": "setsid steam steam://rungameid/5064170",
+        "macOS": "open steam://rungameid/5064170"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5064170",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "go-next",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415995"
+}

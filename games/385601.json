@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385601,
+  "name": "Neko Michi",
+  "source_url": "https://www.igdb.com/games/neko-michi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coburb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neko Michi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4083580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4083580",
+        "Linux": "setsid steam steam://rungameid/4083580",
+        "macOS": "open steam://rungameid/4083580"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/4083580",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "neko-michi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385601"
+}

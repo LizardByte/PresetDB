@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382312,
+  "name": "Upload",
+  "source_url": "https://www.igdb.com/games/upload",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob31h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Upload",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1819600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1819600",
+        "Linux": "setsid steam steam://rungameid/1819600",
+        "macOS": "open steam://rungameid/1819600"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1819600",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "upload",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382312"
+}

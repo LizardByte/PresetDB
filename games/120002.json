@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120002,
+  "name": "The Itch",
+  "source_url": "https://www.igdb.com/games/the-itch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43vh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Itch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1095520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1095520",
+        "Linux": "setsid steam steam://rungameid/1095520",
+        "macOS": "open steam://rungameid/1095520"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1095520",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "the-itch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120002"
+}

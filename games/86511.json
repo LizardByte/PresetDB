@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 86511,
+  "name": "Horizon Source",
+  "source_url": "https://www.igdb.com/games/horizon-source",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7pt8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horizon Source",
+      "os": null,
+      "method": "steam",
+      "launch_id": "788880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/788880",
+        "Linux": "setsid steam steam://rungameid/788880",
+        "macOS": "open steam://rungameid/788880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/788880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "horizon-source",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=86511"
+}

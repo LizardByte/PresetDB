@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 5570,
+  "name": "Strife",
+  "source_url": "https://www.igdb.com/games/strife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rgh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Strife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "339280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/339280",
+        "Linux": "setsid steam steam://rungameid/339280",
+        "macOS": "open steam://rungameid/339280"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/339280",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "strife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=5570"
+}

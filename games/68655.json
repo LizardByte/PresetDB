@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 68655,
+  "name": "Lock",
+  "source_url": "https://www.igdb.com/games/lock",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "720840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/720840",
+        "Linux": "setsid steam steam://rungameid/720840",
+        "macOS": "open steam://rungameid/720840"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/720840",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "lock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=68655"
+}

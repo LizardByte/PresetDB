@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 182701,
+  "name": "PewPew Live",
+  "source_url": "https://www.igdb.com/games/pewpew-live",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e0r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PewPew Live",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2074980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2074980",
+        "Linux": "setsid steam steam://rungameid/2074980",
+        "macOS": "open steam://rungameid/2074980"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/2074980",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "pewpew-live",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=182701"
+}

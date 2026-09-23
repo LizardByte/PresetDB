@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 89671,
+  "name": "Anykey",
+  "source_url": "https://www.igdb.com/games/anykey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anykey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "790450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/790450",
+        "Linux": "setsid steam steam://rungameid/790450",
+        "macOS": "open steam://rungameid/790450"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/790450",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "anykey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=89671"
+}

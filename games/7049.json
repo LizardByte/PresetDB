@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7049,
+  "name": "Legendary",
+  "source_url": "https://www.igdb.com/games/legendary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2gib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legendary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "16730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/16730",
+        "Linux": "setsid steam steam://rungameid/16730",
+        "macOS": "open steam://rungameid/16730"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/16730",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "legendary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7049"
+}

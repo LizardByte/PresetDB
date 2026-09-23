@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151909,
+  "name": "Fuzz Dungeon",
+  "source_url": "https://www.igdb.com/games/fuzz-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co38so.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fuzz Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1506080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1506080",
+        "Linux": "setsid steam steam://rungameid/1506080",
+        "macOS": "open steam://rungameid/1506080"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1506080",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "fuzz-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151909"
+}

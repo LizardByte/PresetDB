@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 7042,
+  "name": "Silver",
+  "source_url": "https://www.igdb.com/games/silver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaltz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "606680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/606680",
+        "Linux": "setsid steam steam://rungameid/606680",
+        "macOS": "open steam://rungameid/606680"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/606680",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "silver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=7042"
+}

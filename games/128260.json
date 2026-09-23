@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128260,
+  "name": "Spacer Project",
+  "source_url": "https://www.igdb.com/games/spacer-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m0h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spacer Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1202880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1202880",
+        "Linux": "setsid steam steam://rungameid/1202880",
+        "macOS": "open steam://rungameid/1202880"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1202880",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "spacer-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128260"
+}

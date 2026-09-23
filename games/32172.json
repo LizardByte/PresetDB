@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 32172,
+  "name": "I Am the Hero",
+  "source_url": "https://www.igdb.com/games/i-am-the-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mo8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am the Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "498500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/498500",
+        "Linux": "setsid steam steam://rungameid/498500",
+        "macOS": "open steam://rungameid/498500"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/498500",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "i-am-the-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=32172"
+}

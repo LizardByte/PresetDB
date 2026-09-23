@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148833,
+  "name": "Freedom",
+  "source_url": "https://www.igdb.com/games/freedom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zxy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freedom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1633230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1633230",
+        "Linux": "setsid steam steam://rungameid/1633230",
+        "macOS": "open steam://rungameid/1633230"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/1633230",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "freedom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148833"
+}

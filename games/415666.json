@@ -1,0 +1,28 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415666,
+  "name": "SinEater",
+  "source_url": "https://www.igdb.com/games/sineater",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsmz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SinEater",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5130830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5130830",
+        "Linux": "setsid steam steam://rungameid/5130830",
+        "macOS": "open steam://rungameid/5130830"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/5130830",
+      "protondb": null
+    }
+  ],
+  "igdb_slug": "sineater",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415666"
+}

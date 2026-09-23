@@ -1,0 +1,31 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379335,
+  "name": "Quiet Dan",
+  "source_url": "https://www.igdb.com/games/quiet-dan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjdt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quiet Dan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3543420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3543420",
+        "Linux": "setsid steam steam://rungameid/3543420",
+        "macOS": "open steam://rungameid/3543420"
+      },
+      "notes": null,
+      "source": "gamedb",
+      "protondb_url": "https://www.protondb.com/app/3543420",
+      "protondb": {
+        "tier": "platinum",
+        "reports": 3
+      }
+    }
+  ],
+  "igdb_slug": "quiet-dan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379335"
+}
