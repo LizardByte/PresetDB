@@ -59,6 +59,81 @@ function safeImage(url) {
   } catch { return null; }
 }
 
+function protonRatingLabel(preset) {
+  const tier = preset.protondb?.tier;
+  if (!tier) return 'Check Linux compatibility on ProtonDB';
+  let label = 'ProtonDB: ' + tier[0].toUpperCase() + tier.slice(1);
+  if (Number.isInteger(preset.protondb.reports)) label += ' (' + preset.protondb.reports + ' reports)';
+  return label;
+}
+
+function appendProtonRating(body, preset) {
+  if (!preset.protondb_url) return;
+  const proton = element('p', 'card-text');
+  proton.append(safeLink(preset.protondb_url, protonRatingLabel(preset)));
+  body.append(proton);
+}
+
+function hostSelection(body, preset) {
+  if (!preset.sunshine_by_os) return null;
+  const label = element('label', 'form-label', 'Host OS');
+  const select = element('select', 'form-select rounded-0 mb-3');
+  for (const host of Object.keys(preset.sunshine_by_os)) {
+    const option = element('option', '', host);
+    option.value = host;
+    select.append(option);
+  }
+  label.append(select);
+  body.append(label);
+  return select;
+}
+
+function appendIssueLinks(body, preset) {
+  if (preset.origin_issue) {
+    body.append(element('span', 'ms-3'), safeLink(
+      'https://github.com/LizardByte/PresetDB/issues/' + preset.origin_issue,
+      'Preset issue #' + preset.origin_issue + ' ↗'
+    ));
+  }
+  if (preset.source_issue && preset.source_issue !== preset.origin_issue) {
+    body.append(element('span', 'ms-3'), safeLink(
+      'https://github.com/LizardByte/PresetDB/issues/' + preset.source_issue,
+      'Latest update ↗'
+    ));
+  }
+}
+
+function renderPresetCard(preset) {
+  const column = element('div', 'col');
+  const card = element('article', 'card h-100 rounded-0 shadow-sm');
+  const body = element('div', 'card-body');
+  body.append(element('h3', 'h5 card-title fw-bold', preset.name));
+  if (preset.notes) body.append(element('p', 'card-text', preset.notes));
+  appendProtonRating(body, preset);
+  const hostSelect = hostSelection(body, preset);
+  const snippet = () => sunshineSnippet(preset, hostSelect?.value);
+  const command = element('pre', 'p-3 rounded bg-dark text-light overflow-auto');
+  const code = element('code', '', snippet());
+  command.append(code);
+  if (hostSelect) hostSelect.addEventListener('change', () => { code.textContent = snippet(); });
+  body.append(command);
+  const copy = element('button', 'btn btn-warning rounded-0', 'Copy Sunshine JSON');
+  copy.type = 'button';
+  copy.addEventListener('click', async () => {
+    try {
+      await navigator.clipboard.writeText(snippet());
+      copy.textContent = 'Copied';
+    } catch {
+      copy.textContent = 'Select and copy the JSON above';
+    }
+  });
+  body.append(copy);
+  appendIssueLinks(body, preset);
+  card.append(body);
+  column.append(card);
+  return column;
+}
+
 function boot() {
   const base = normalizeBasePath(globalThis.PRESET_BASE);
   const search = document.getElementById('preset-search');
@@ -109,58 +184,7 @@ function boot() {
       if (image) detail.prepend(image);
       if (record.game_db_url) detail.append(element('span', 'mx-2'), safeLink(record.game_db_url, 'View in GameDB ↗'));
       const presets = element('div', 'row row-cols-1 row-cols-lg-2 g-4 mt-2');
-      for (const preset of record.presets) {
-        const column = element('div', 'col');
-        const card = element('article', 'card h-100 rounded-0 shadow-sm');
-        const body = element('div', 'card-body');
-        body.append(element('h3', 'h5 card-title fw-bold', preset.name));
-        if (preset.notes) body.append(element('p', 'card-text', preset.notes));
-        if (preset.protondb_url) {
-          const tier = preset.protondb?.tier;
-          const reports = preset.protondb?.reports;
-          const rating = tier ? 'ProtonDB: ' + tier[0].toUpperCase() + tier.slice(1) +
-            (reports === null ? '' : ' (' + reports + ' reports)') : 'Check Linux compatibility on ProtonDB';
-          const proton = element('p', 'card-text');
-          proton.append(safeLink(preset.protondb_url, rating));
-          body.append(proton);
-        }
-        let hostSelect;
-        if (preset.sunshine_by_os) {
-          const hostLabel = element('label', 'form-label', 'Host OS');
-          hostSelect = element('select', 'form-select rounded-0 mb-3');
-          for (const host of Object.keys(preset.sunshine_by_os)) {
-            const option = element('option', '', host);
-            option.value = host;
-            hostSelect.append(option);
-          }
-          hostLabel.append(hostSelect);
-          body.append(hostLabel);
-        }
-        const snippet = () => sunshineSnippet(preset, hostSelect?.value);
-        const command = element('pre', 'p-3 rounded bg-dark text-light overflow-auto');
-        const code = element('code', '', snippet());
-        command.append(code);
-        if (hostSelect) hostSelect.addEventListener('change', () => { code.textContent = snippet(); });
-        body.append(command);
-        const copy = element('button', 'btn btn-warning rounded-0', 'Copy Sunshine JSON');
-        copy.type = 'button';
-        copy.addEventListener('click', async () => {
-          try {
-            await navigator.clipboard.writeText(snippet());
-            copy.textContent = 'Copied';
-          } catch {
-            copy.textContent = 'Select and copy the JSON above';
-          }
-        });
-        body.append(copy);
-        if (preset.origin_issue) body.append(element('span', 'ms-3'), safeLink(`https://github.com/LizardByte/PresetDB/issues/${preset.origin_issue}`, `Preset issue #${preset.origin_issue} ↗`));
-        if (preset.source_issue && preset.source_issue !== preset.origin_issue) {
-          body.append(element('span', 'ms-3'), safeLink(`https://github.com/LizardByte/PresetDB/issues/${preset.source_issue}`, 'Latest update ↗'));
-        }
-        card.append(body);
-        column.append(card);
-        presets.append(column);
-      }
+      for (const preset of record.presets) presets.append(renderPresetCard(preset));
       detail.append(presets);
       detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
     } catch (error) {
