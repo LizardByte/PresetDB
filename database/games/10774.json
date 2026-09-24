@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 10774,
+  "name": "Rise of Venice",
+  "source_url": "https://www.igdb.com/games/rise-of-venice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ykn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise of Venice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "227020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/227020",
+        "Linux": "setsid steam steam://rungameid/227020",
+        "macOS": "open steam://rungameid/227020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rise-of-venice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=10774"
+}
