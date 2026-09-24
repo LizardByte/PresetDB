@@ -94,10 +94,13 @@ jobs:
 
       - name: Comment result
         if: always() && hashFiles('report.md') != ''
-        env:
-          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
-          ISSUE_NUMBER: ${{ github.event.issue.number }}
-        run: gh issue comment "$ISSUE_NUMBER" --body-file report.md
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3  # v9.0.0
+        with:
+          github-token: ${{ secrets.GH_BOT_TOKEN }}
+          script: |
+            const fs = require('node:fs')
+            const {upsertIssueComment} = require('./src/issue-comment.js')
+            await upsertIssueComment({github, context, body: fs.readFileSync('report.md', 'utf8')})
 
       - name: Close issue
         if: steps.publish.outcome == 'success'
