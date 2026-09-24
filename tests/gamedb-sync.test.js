@@ -6,9 +6,10 @@ const fs = require('node:fs');
 const os = require('node:os');
 const path = require('node:path');
 const { execFileSync } = require('node:child_process');
-const { pcGameIds, steamCandidate, mergeGame, run } = require('../src/gamedb-sync');
+const { pcGameIds, steamCandidate, mergeGame, run, main } = require('../src/gamedb-sync');
 const { mergePreset } = require('../src/database');
 const { buildSite } = require('../src/build-site');
+const { comparePresetIds } = require('../src/record');
 
 function sourceGame(id, launchId = String(id + 1000)) {
   return {
@@ -24,6 +25,7 @@ function command(cwd, ...args) {
 
 test('PC index and Steam source select one unambiguous launch ID', () => {
   assert.deepEqual(pcGameIds({ id: 6, games: [{ id: 2 }, { id: 1 }, { id: 2 }] }), [1, 2]);
+  assert.throws(() => pcGameIds({ id: 5, games: [] }), /PC platform index/);
   assert.equal(steamCandidate(sourceGame(1)).launchId, '1001');
   assert.equal(steamCandidate({ ...sourceGame(1), platforms: [3] }), null);
   assert.equal(steamCandidate({ ...sourceGame(1), external_games: [
@@ -36,6 +38,7 @@ test('PC index and Steam source select one unambiguous launch ID', () => {
 
 test('direct import has no issue identity and refreshes only imported Steam launch data', () => {
   const game = steamCandidate(sourceGame(1));
+  assert.throws(() => mergeGame(game, { kind: 'app', id: 1, presets: [] }), /invalid PresetDB record/);
   const imported = mergeGame(game, null);
   assert.equal(imported.presets[0].id, 'steam');
   assert.equal(imported.presets[0].source, 'gamedb');
@@ -92,13 +95,12 @@ test('sync publishes each changed game file in its own commit and skips unchange
     fs.writeFileSync(path.join(gameDbDir, 'games', `${id}.json`), JSON.stringify(sourceGame(id)));
   }
 
-  let published = 0;
-  const args = {
-    gameDbDir, checkout,
-    onPublished: () => { published++; }
-  };
-  assert.equal(run(args).published, 2);
-  assert.equal(published, 2);
+  const args = { gameDbDir, checkout };
+  const outputFile = path.join(root, 'github-output');
+  assert.throws(() => main([], {}, () => {}), /Missing --gamedb/);
+  assert.equal(main(['--gamedb', gameDbDir, '--database', checkout],
+    { GITHUB_OUTPUT: outputFile }, (directory, gitArgs) => command(directory, ...gitArgs)).published, 2);
+  assert.equal(fs.readFileSync(outputFile, 'utf8'), 'changed=true\n');
   assert.equal(command(checkout, 'rev-list', '--count', 'HEAD'), '3');
   assert.equal(command(checkout, 'diff-tree', '--no-commit-id', '--name-only', '-r', 'HEAD'),
     'database/games/2.json');
@@ -122,4 +124,13 @@ test('sync publishes each changed game file in its own commit and skips unchange
   assert.equal(siteRecord.presets[0].id, 'steam');
   assert.equal(siteRecord.presets[0].origin_issue, undefined);
   assert.equal(siteRecord.presets[0].protondb_url, 'https://www.protondb.com/app/1001');
+});
+
+test('preset ordering keeps numeric issue IDs before named imports', () => {
+  assert.equal(comparePresetIds('2', '10'), -1);
+  assert.equal(comparePresetIds('10', '2'), 1);
+  assert.equal(comparePresetIds('2', '2'), 0);
+  assert.equal(comparePresetIds('2', 'steam'), -1);
+  assert.equal(comparePresetIds('steam', '2'), 1);
+  assert.ok(comparePresetIds('gog', 'steam') < 0);
 });

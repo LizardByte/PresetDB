@@ -74,7 +74,7 @@ function mergeGame(game, existing) {
 }
 
 function git(checkout, args) {
-  return execFileSync('git', args, { cwd: checkout, encoding: 'utf8', stdio: 'pipe' });
+  return execFileSync('/usr/bin/git', args, { cwd: checkout, encoding: 'utf8', stdio: 'pipe' });
 }
 
 function publishGame({ checkout, game, file, onPublished, gitCommand = git }) {
@@ -97,10 +97,9 @@ function publishGame({ checkout, game, file, onPublished, gitCommand = git }) {
       console.log(`Database branch moved while publishing game ${game.id}; retrying`);
     }
   }
-  return false;
 }
 
-function run({ gameDbDir, checkout, onPublished }) {
+function run({ gameDbDir, checkout, onPublished, gitCommand = git }) {
   const database = path.join(checkout, 'database');
   const index = JSON.parse(fs.readFileSync(path.join(gameDbDir, 'platforms', '6.json'), 'utf8'));
   const counts = { scanned: 0, eligible: 0, published: 0, current: 0 };
@@ -113,7 +112,7 @@ function run({ gameDbDir, checkout, onPublished }) {
     counts.eligible++;
     const file = path.join(database, 'games', `${id}.json`);
     if (!mergeGame(game, readRecord(file))) { counts.current++; continue; }
-    if (publishGame({ checkout, game, file, onPublished })) {
+    if (publishGame({ checkout, game, file, onPublished, gitCommand })) {
       counts.published++;
       console.log(`Published game ${id}`);
     } else counts.current++;
@@ -122,24 +121,26 @@ function run({ gameDbDir, checkout, onPublished }) {
   return counts;
 }
 
-module.exports = { pcGameIds, steamCandidate, mergeGame, publishGame, run };
-
-if (require.main === module) {
-  const args = process.argv.slice(2);
+function main(args = process.argv.slice(2), env = process.env, gitCommand = git) {
   function option(name) {
     const index = args.indexOf(name);
     if (index < 0 || !args[index + 1]) throw new Error(`Missing ${name}`);
     return args[index + 1];
   }
   let reported = false;
-  run({
+  return run({
     gameDbDir: path.resolve(option('--gamedb')),
     checkout: path.resolve(option('--database')),
+    gitCommand,
     onPublished: () => {
-      if (!reported && process.env.GITHUB_OUTPUT) {
-        fs.appendFileSync(process.env.GITHUB_OUTPUT, 'changed=true\n');
+      if (!reported && env.GITHUB_OUTPUT) {
+        fs.appendFileSync(env.GITHUB_OUTPUT, 'changed=true\n');
         reported = true;
       }
     }
   });
 }
+
+module.exports = { pcGameIds, steamCandidate, mergeGame, publishGame, run, main };
+
+if (require.main === module) main();

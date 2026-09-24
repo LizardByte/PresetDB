@@ -38,7 +38,9 @@ function comparePresetIds(left, right) {
   if (leftNumeric && rightNumeric) {
     const a = BigInt(left);
     const b = BigInt(right);
-    return a < b ? -1 : a > b ? 1 : 0;
+    if (a < b) return -1;
+    if (a > b) return 1;
+    return 0;
   }
   if (leftNumeric) return -1;
   if (rightNumeric) return 1;
