@@ -2,7 +2,7 @@
 
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { renderPresetCard } = require('../gh-pages-template/assets/js/app');
+const { renderPresetCard, browseMethodBadges } = require('../gh-pages-template/assets/js/app');
 
 class FakeElement {
   constructor(tagName) {
@@ -99,4 +99,7 @@ test('site card changes host command and copies command and Sunshine JSON', asyn
     variant_name: 'RetroArch Snes9x', command: 'retroarch' });
   assert.deepEqual(findAll(emulator, 'span').map(badge => badge.textContent),
     ['Emulator', 'RetroArch Snes9x']);
+  const browseBadges = browseMethodBadges(['steam', 'gog', 'steam']);
+  assert.deepEqual(browseBadges.children.map(badge => badge.textContent), ['Steam', 'GOG']);
+  assert.equal(browseMethodBadges([]), null);
 });

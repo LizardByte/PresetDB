@@ -1,5 +1,10 @@
 'use strict';
 
+const METHOD_NAMES = {
+  native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games',
+  gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
+};
+
 function filterItems(index, query, kind, os) {
   const needle = query.trim().toLowerCase();
   return [
@@ -26,7 +31,8 @@ function sunshineSnippet(preset, os = 'Windows') {
 
 function normalizeBasePath(value) {
   const configured = String(value || '');
-  return configured.includes('{{') ? '' : `/${configured}`.replace(/\/+/g, '/').replace(/\/$/, '');
+  if (configured.includes('{{')) return '/PresetDB';
+  return ('/' + configured).replace(/\/+/g, '/').replace(/\/$/, '') || '/PresetDB';
 }
 
 function element(tag, className, content) {
@@ -82,12 +88,8 @@ function appendProtonRating(body, preset) {
 
 function appendPresetBadges(body, preset, kind) {
   const badges = [];
-  const methods = {
-    native: 'Native', steam: 'Steam', 'epic-games': 'Epic Games',
-    gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
-  };
-  if (kind === 'game' && methods[preset.method]) {
-    badges.push(element('span', 'badge rounded-pill bg-warning text-dark me-2', methods[preset.method]));
+  if (kind === 'game' && METHOD_NAMES[preset.method]) {
+    badges.push(element('span', 'badge rounded-pill bg-warning text-dark me-2', METHOD_NAMES[preset.method]));
   }
   if (preset.os) badges.push(element('span', 'badge rounded-pill bg-secondary me-2', preset.os));
   if (preset.variant_name) {
@@ -98,6 +100,16 @@ function appendPresetBadges(body, preset, kind) {
     row.append(...badges);
     body.append(row);
   }
+}
+
+function browseMethodBadges(methods) {
+  const labels = [...new Set(methods || [])].map(method => METHOD_NAMES[method]).filter(Boolean);
+  if (!labels.length) return null;
+  const row = element('span', 'd-block mt-3');
+  for (const label of labels) {
+    row.append(element('span', 'badge rounded-pill bg-warning text-dark me-2', label));
+  }
+  return row;
 }
 
 function hostSelection(body, preset) {
@@ -207,6 +219,8 @@ function boot() {
       button.append(element('span', 'text-uppercase small text-warning fw-bold', item.kind));
       button.append(element('span', 'd-block h5 mt-2 mb-1 fw-bold', item.name));
       button.append(element('span', 'd-block text-muted', `${item.preset_count} preset${item.preset_count === 1 ? '' : 's'} · ${item.operating_systems.join(', ')}`));
+      const methodBadges = browseMethodBadges(item.launch_methods);
+      if (methodBadges) button.append(methodBadges);
       button.addEventListener('click', () => {
         const url = new URL(globalThis.location.href);
         url.searchParams.set('kind', item.kind);
@@ -270,4 +284,4 @@ function boot() {
 }
 
 if (typeof document !== 'undefined') document.addEventListener('DOMContentLoaded', boot);
-if (typeof module !== 'undefined') module.exports = { filterItems, commandForOs, sunshineSnippet, renderPresetCard, normalizeBasePath };
+if (typeof module !== 'undefined') module.exports = { filterItems, commandForOs, sunshineSnippet, renderPresetCard, browseMethodBadges, normalizeBasePath };

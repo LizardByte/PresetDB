@@ -229,6 +229,7 @@ test('issue processing and site build publish both game and app JSON', async t =
   const index = await buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output);
   assert.equal(index.games[0].preset_count, 1);
   assert.deepEqual(index.games[0].operating_systems, ['Linux', 'macOS', 'Windows']);
+  assert.deepEqual(index.games[0].launch_methods, ['emulator']);
   assert.equal(index.apps[0].id, 'app-one');
   assert.equal(index.apps[0].image_url, 'https://example.org/icon.png');
   assert.equal(JSON.parse(fs.readFileSync(path.join(output, 'apps/app-one.json'))).presets[0].name, 'App One');
@@ -251,6 +252,8 @@ test('site filters and serializes Sunshine application JSON', () => {
   assert.throws(() => commandForOs({ commands_by_os: { Windows: 'game.exe' } }, 'Linux'), /available host OS/);
   assert.equal(normalizeBasePath('/PresetDB'), '/PresetDB');
   assert.equal(normalizeBasePath('en/pr-123'), '/en/pr-123');
+  assert.equal(normalizeBasePath(''), '/PresetDB');
+  assert.equal(normalizeBasePath('{{ site.baseurl }}'), '/PresetDB');
 });
 
 test('Pages build adds a ProtonDB tier to Steam presets and keeps the source link', async t => {
@@ -267,6 +270,7 @@ test('Pages build adds a ProtonDB tier to Steam presets and keeps the source lin
   };
   const index = await buildSite(database, path.join(__dirname, '..', 'gh-pages-template'), output, fetcher);
   assert.deepEqual(index.games[0].operating_systems, ['Linux', 'macOS', 'Windows']);
+  assert.deepEqual(index.games[0].launch_methods, ['steam']);
   const published = JSON.parse(fs.readFileSync(path.join(output, 'games/100245.json')));
   assert.deepEqual(published.presets[0].protondb, { tier: 'gold', reports: 73 });
   assert.equal(published.presets[0].protondb_url, 'https://www.protondb.com/app/464920');
