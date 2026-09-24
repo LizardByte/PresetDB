@@ -13,17 +13,28 @@ on:
       - reopened
       - labeled
 
+# Skipped label events must not displace pending validation runs.
 concurrency:
-  group: ${{ github.workflow }}-${{ github.event.issue.number }}
+  group: >-
+    ${{ github.workflow }}-${{ github.event.issue.number }}-${{
+      github.event.action == 'labeled' &&
+      github.event.label.name != 'request-game-preset' &&
+      github.event.label.name != 'request-app-preset' &&
+      !startsWith(github.event.label.name, 'method-') &&
+      'ignored' || 'validate'
+    }}
   cancel-in-progress: true
 
 jobs:
   check:
+    # Issue forms apply request and method labels in separate events. The
+    # method-label event can cancel earlier runs, so it must validate too.
     if: |
       (
         github.event.action != 'labeled' ||
         github.event.label.name == 'request-game-preset' ||
-        github.event.label.name == 'request-app-preset'
+        github.event.label.name == 'request-app-preset' ||
+        startsWith(github.event.label.name, 'method-')
       ) && github.event.issue.state == 'open' && (
         contains(github.event.issue.labels.*.name, 'request-game-preset') ||
         contains(github.event.issue.labels.*.name, 'request-app-preset')
