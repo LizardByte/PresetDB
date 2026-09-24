@@ -64,7 +64,7 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
         id: item.id, name: item.name, preset_count: item.presets.length,
         image_url: item.image_url || null,
         operating_systems: [...new Set(item.presets.flatMap(supportedOs))].sort((a, b) => a.localeCompare(b)),
-        ...(kind === 'game' ? { launch_methods: [...new Set(item.presets.map(preset => preset.method))].sort() } : {})
+        ...(kind === 'game' ? { launch_methods: [...new Set(item.presets.map(preset => preset.method))].sort((a, b) => a.localeCompare(b)) } : {})
       });
     }
     index[folder].sort((a, b) => a.name.localeCompare(b.name) || String(a.id).localeCompare(String(b.id)));
