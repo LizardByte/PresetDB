@@ -1,0 +1,68 @@
+---
+name: Sync GameDB Steam presets
+permissions: {}
+
+env:
+  NODE_VERSION: '24'
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 7 * * *'
+
+concurrency:
+  group: gamedb-steam-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      # GameDB publishes its database on gh-pages.
+      - name: Checkout GameDB database
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          repository: LizardByte/GameDB
+          ref: gh-pages
+          path: gamedb
+          sparse-checkout: |
+            /games/
+            /platforms/6.json
+          sparse-checkout-cone-mode: false
+          persist-credentials: false
+
+      - name: Checkout PresetDB database
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          ref: database
+          path: database-branch
+          token: ${{ secrets.GH_BOT_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Import Steam presets
+        id: import
+        env:
+          BOT_NAME: ${{ vars.GH_BOT_NAME }}
+          BOT_EMAIL: ${{ secrets.GH_BOT_EMAIL }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git -C database-branch config user.name "$BOT_NAME"
+          git -C database-branch config user.email "$BOT_EMAIL"
+          node src/gamedb-sync.js --gamedb gamedb --database database-branch
+
+      - name: Build updated site
+        if: always() && steps.import.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+        run: gh workflow run build-pages.yml --ref master

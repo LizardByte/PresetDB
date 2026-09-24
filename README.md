@@ -19,7 +19,7 @@
   <a href="https://github.com/LizardByte/PresetDB/issues?q=is%3Aclosed+label%3Aapprove-preset"><img src="https://img.shields.io/github/issues-closed/LizardByte/PresetDB/approve-preset.svg?style=for-the-badge&label=approved&color=green" alt="Approved requests"></a>
 </div>
 
-Community maintained game and app launch presets, with [Sunshine](https://github.com/LizardByte/Sunshine) as the primary consumer. Each game or app can have many presets. Native, GOG, and app commands target a chosen host OS. Steam, Epic Games, and Microsoft Store submissions use a launch ID to generate commands for their supported launcher OSes; emulator submissions use a portable command. GitHub issue numbers provide stable IDs. Preset names use the game or app name; launch method, host OS, and optional emulator variant stay in separate fields.
+Community maintained game and app launch presets, with [Sunshine](https://github.com/LizardByte/Sunshine) as the primary consumer. Each game or app can have many presets. Native, GOG, and app commands target a chosen host OS. Steam, Epic Games, and Microsoft Store submissions use a launch ID to generate commands for their supported launcher OSes; emulator submissions use a portable command. Issue-backed presets use their GitHub issue numbers as stable IDs. Direct GameDB imports use the stable ID `steam`. Preset names use the game or app name; launch method, host OS, and optional emulator variant stay in separate fields.
 
 Each GitHub issue requests **one preset**. Game requests must identify a [GameDB](https://app.lizardbyte.dev/GameDB/) record. App requests use a separate form and require a name and official source URL for maintainer review. A bot validates the request, and an authorized reviewer enters it into the approval queue. No code or pull request is needed to contribute.
 
@@ -27,7 +27,7 @@ Each GitHub issue requests **one preset**. Game requests must identify a [GameDB
 
 The [website](https://app.lizardbyte.dev/PresetDB/) shows games and apps with available presets. Each preset shows its launch method and host details as badges, its launch command, and a Sunshine application JSON export. The exported application name is the game or app name. Replace supported path placeholders with paths on your host. Review community commands before running them. Game cover images come from GameDB; app images are submitted as HTTPS URLs for the catalog. These image URLs are not used as Sunshine `image-path` values, which require local files.
 
-The published JSON API contains `index.json`, `games/<IGDB ID>.json`, and `apps/<app slug>.json`. GameDB uses the same numeric game IDs as IGDB. An entry contains all its presets. Each preset receives the originating issue number as a stable string ID, such as "4". Records use schema version 2 with a `command` field or a `commands_by_os` map and an optional `working_directory`; the website builds Sunshine JSON from these generic fields. The migration workflow updates version 1 records on the database branch; site and approval reads also convert them during the rollout.
+The published JSON API contains `index.json`, `games/<IGDB ID>.json`, and `apps/<app slug>.json`. GameDB uses the same numeric game IDs as IGDB. An entry contains all its presets. Issue-backed presets receive the originating issue number as a stable string ID, such as "4". GameDB-imported Steam presets use "steam" and have no issue history. Records use schema version 2 with a `command` field or a `commands_by_os` map and an optional `working_directory`; the website builds Sunshine JSON from these generic fields. The migration workflow updates version 1 records on the database branch; site and approval reads also convert them during the rollout.
 
 ## Database growth
 
@@ -48,7 +48,7 @@ The website publishes [catalog statistics](https://app.lizardbyte.dev/PresetDB/s
 1. Read the [preset guidelines](docs/presetGuidelines.md). For a game, copy its [IGDB game URL](https://www.igdb.com/) and [choose a game method form](https://github.com/LizardByte/PresetDB/issues/new/choose). The bot resolves the URL slug to the IGDB numeric ID and checks GameDB. For another app, [open an app preset request](https://github.com/LizardByte/PresetDB/issues/new?template=app-preset.yml) with its official URL.
 2. Fill in one launch option. Native and GOG forms ask for the host OS. Store forms ask only for the launch ID; the emulator form asks for a portable command and an optional variant name. The bot derives the issue title and preset name from the validated game or app name. App requests still ask for the host OS.
 3. The store forms share one Launch ID concept: a numeric Steam app ID, an Epic three-part launch ID, or a Microsoft Store AUMID. The bot generates OS-specific launch commands. Native, GOG, and Emulator forms ask for a Command. Validation and the website never execute commands.
-4. To replace a preset, provide its issue number and explain the change. The bot preserves the original preset ID.
+4. To replace an issue-backed preset, provide its issue number and explain the change. The bot preserves the original preset ID. Direct GameDB imports have no issue number and cannot be replaced through an issue.
 
 ProtonDB compatibility summaries are attributed to [ProtonDB contributors](https://github.com/bdefore/protondb-data) and published under the [Open Database License](https://opendatacommons.org/licenses/odbl/). The website refreshes available tiers during its Pages build.
 
@@ -66,6 +66,8 @@ Game submissions resolve the submitted slug through [IGDB authenticated API](htt
 - `.github/workflows/`: request validation, approval, tests, and Pages build.
 - `auto_approved_users.json`: trusted approvers and game submitters eligible for automatic queueing.
 - `.readthedocs.yaml`: pull request preview builds using the shared LizardByte Jekyll script.
+
+The [GameDB Steam sync workflow](.github/workflows/sync-gamedb-steam.yml) runs daily at 07:00 UTC and can also be started manually. GameDB publishes its database on `gh-pages`, so the workflow reads that branch's PC game records and Steam external IDs. It writes eligible game files directly to the PresetDB `database` branch, with one file per commit and no issue or approval queue. Existing issue-backed Steam presets retain their numeric IDs, issue history, and contributor-managed launch values. GameDB changes to game metadata are synchronized; direct imports also receive Steam ID and command updates. Ambiguous Steam IDs are skipped. The job has a six-hour timeout; the next daily run skips unchanged files and continues the import.
 
 On each push to master, the Migrate Database workflow checks `database/migrations.json` for completed migration IDs. Before applying pending migrations, it creates a `database-backup-<pre-migration commit SHA>` branch pointing to the untouched database. It then commits the migrated records and history file to the active `database` branch and triggers a fresh Pages build. Re-runs skip completed migrations. The backup branch is never used as the working database.
 
