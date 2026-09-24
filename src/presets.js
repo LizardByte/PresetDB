@@ -72,7 +72,7 @@ function validatePlaceholders(value, os, label) {
 }
 
 function validatePortablePath(value, os, label) {
-  // Personal home locations cannot be shared between Sunshine hosts.
+  // Personal home locations cannot be shared between hosts.
   const normalized = value.replaceAll('\\', '/');
   const homeRoot = /(?:^|[\s"'=])(?:~\/|[a-z]:\/(?:users|documents and settings)\/|\/(?:home|users)\/)/i;
   const homeVariable = /%userprofile%|%homepath%|\$home|\$\{home\}|\$\(home\)/i;
@@ -127,9 +127,9 @@ function steamLaunch(id) {
   }
   const uri = 'steam://rungameid/' + id;
   return { launchId: id, commandsByOs: {
-    Windows: 'cmd /c start "" "' + uri + '"',
-    Linux: 'steam "' + uri + '"',
-    macOS: 'open "' + uri + '"'
+    Windows: uri,
+    Linux: 'setsid steam ' + uri,
+    macOS: 'open ' + uri
   } };
 }
 
@@ -141,8 +141,8 @@ function epicLaunch(id) {
   const launchId = parts.join('%3A');
   const uri = 'com.epicgames.launcher://apps/' + launchId + '?action=launch&silent=true';
   return { launchId, commandsByOs: {
-    Windows: 'cmd /c start "" "' + uri + '"',
-    macOS: 'open "' + uri + '"'
+    Windows: uri,
+    macOS: 'open ' + uri
   } };
 }
 
@@ -308,4 +308,4 @@ async function validateGameDb(preset, fetcher = globalThis.fetch, credentials = 
   return preset;
 }
 
-module.exports = { PresetError, parseIssue, validateFields, validateGameDb, fetchGameDb, resolveIgdbSlug, validatePlaceholders, slug };
+module.exports = { PresetError, parseIssue, validateFields, validateGameDb, fetchGameDb, resolveIgdbSlug, validatePlaceholders, slug, generatedLaunch };

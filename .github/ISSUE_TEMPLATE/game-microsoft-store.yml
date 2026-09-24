@@ -1,6 +1,6 @@
 ---
 name: Microsoft Store game preset
-description: Request a Sunshine Microsoft Store launch option for a GameDB game.
+description: Request a Microsoft Store launch option for a GameDB game.
 title: '[MICROSOFT STORE GAME PRESET]: '
 labels:
   - request-game-preset
@@ -25,7 +25,7 @@ body:
       description: |
         Installed app AUMID from Get-StartApps, for example
         Microsoft.WindowsCalculator_8wekyb3d8bbwe!App. A Store product ID will not launch the game.
-        The bot generates the Sunshine command for each supported launcher OS.
+        The bot generates the command for each supported launcher OS.
     validations:
       required: true
   - type: textarea

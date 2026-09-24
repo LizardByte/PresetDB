@@ -1,0 +1,87 @@
+---
+name: Migrate Database
+permissions: {}
+
+env:
+  NODE_VERSION: '24'
+
+on:
+  push:
+    branches:
+      - master
+  workflow_dispatch:
+
+concurrency:
+  group: database-migrations
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Checkout database
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          ref: database
+          path: database-branch
+          token: ${{ secrets.GH_BOT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Back up and migrate database
+        id: migrate
+        env:
+          BOT_NAME: ${{ vars.GH_BOT_NAME }}
+          BOT_EMAIL: ${{ secrets.GH_BOT_EMAIL }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git -C database-branch config user.name "$BOT_NAME"
+          git -C database-branch config user.email "$BOT_EMAIL"
+          for _ in 1 2 3 4 5; do
+            git -C database-branch fetch origin database
+            git -C database-branch reset --hard origin/database
+            pending=$(node src/migrate-database.js --database database-branch/database --pending)
+            if [[ -z "$pending" ]]; then
+              echo 'No pending database migrations'
+              exit 0
+            fi
+            source_commit=$(git -C database-branch rev-parse HEAD)
+            backup_branch="database-backup-$source_commit"
+            backup_remote=$(git -C database-branch ls-remote origin "refs/heads/$backup_branch" | cut -f1)
+            if [[ -z "$backup_remote" ]]; then
+              git -C database-branch push origin "$source_commit:refs/heads/$backup_branch"
+            elif [[ "$backup_remote" != "$source_commit" ]]; then
+              echo "Backup branch $backup_branch does not match $source_commit" >&2
+              exit 1
+            fi
+            node src/migrate-database.js --database database-branch/database \
+              --backup-branch "$backup_branch" --source-commit "$source_commit"
+            git -C database-branch add database
+            if git -C database-branch diff --cached --quiet; then
+              echo 'A pending migration produced no database changes' >&2
+              exit 1
+            fi
+            git -C database-branch commit -m 'chore: apply database migrations'
+            if git -C database-branch push origin HEAD:database; then
+              echo 'migrated=true' >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          done
+          echo 'Database changed during all five migration attempts' >&2
+          exit 1
+
+      - name: Build updated site
+        if: steps.migrate.outputs.migrated == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GH_BOT_TOKEN }}
+        run: gh workflow run build-pages.yml --ref master

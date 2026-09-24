@@ -46,6 +46,14 @@ async function processIssue(event, database, { approve = false, actor = '', fetc
   return { ...merged, preset, kind };
 }
 
+function issueTitle(preset) {
+  const name = preset.kind === 'app' ? preset.appName : preset.gameName;
+  const prefix = preset.kind === 'app'
+    ? 'APP PRESET' : preset.method.replaceAll('-', ' ').toUpperCase() + ' GAME PRESET';
+  const detail = preset.os || preset.variantName;
+  return '[' + prefix + ']: ' + name + (detail ? ' (' + detail + ')' : '');
+}
+
 function argsToObject(args) {
   const options = {};
   for (let i = 0; i < args.length; i += 2) {
@@ -61,30 +69,36 @@ function argsToObject(args) {
 async function main(args = process.argv.slice(2)) {
   const options = argsToObject(args);
   let message;
+  let title;
   let success = false;
   try {
     const event = JSON.parse(fs.readFileSync(options.event, 'utf8'));
     const result = await processIssue(event, options.database, {
       approve: options.mode === 'approve', actor: process.env.GITHUB_ACTOR || 'local'
     });
+    title = issueTitle(result.preset);
     const item = result.kind === 'game' ? `GameDB game ${result.preset.gameId}` : `app ${result.preset.appName}`;
     const entry = result.record.presets.find(preset => preset.id === result.id);
-    const preview = entry.sunshine || entry.sunshine_by_os;
+    const preview = entry.commands_by_os || { command: entry.command, ...(entry.working_directory ? { working_directory: entry.working_directory } : {}) };
     const methodLine = result.kind === 'game' ? `- Method: ${result.preset.method}\n` : '';
     message = `Preset ${result.action === 'replace' ? 'replacement' : 'request'} validated for ${item}.\n\n` +
       `- Host: ${result.preset.os || 'OS independent'}\n` + methodLine + `- Preset ID: \`${result.id}\`\n` +
       `- Status: ${options.mode === 'approve' ? 'approved and saved' : 'awaiting maintainer review'}\n\n` +
-      `Sunshine application JSON preview:\n\n\`\`\`json\n${JSON.stringify(preview, null, 2)}\n\`\`\`\n`;
+      `Launch command preview:\n\n\`\`\`json\n${JSON.stringify(preview, null, 2)}\n\`\`\`\n`;
     success = true;
   } catch (error) {
     message = `Preset validation failed: ${String(error.message).replace(/[\r\n]+/g, ' ').slice(0, 500)}\n`;
   }
   fs.mkdirSync(path.dirname(options.report), { recursive: true });
   fs.writeFileSync(options.report, message);
+  if (success && options['title-output']) {
+    fs.mkdirSync(path.dirname(options['title-output']), { recursive: true });
+    fs.writeFileSync(options['title-output'], title + '\n');
+  }
   console.log(message);
   if (!success) process.exitCode = 1;
 }
 
 if (require.main === module) main().catch(error => { console.error(error); process.exitCode = 1; });
 
-module.exports = { processIssue, requestKind };
+module.exports = { processIssue, requestKind, issueTitle, main };

@@ -1,6 +1,6 @@
 ---
 name: GOG game preset
-description: Request a Sunshine GOG launch option for a GameDB game.
+description: Request a GOG launch option for a GameDB game.
 title: '[GOG GAME PRESET]: '
 labels:
   - request-game-preset
@@ -33,7 +33,7 @@ body:
     attributes:
       label: Command
       description: |
-        Sunshine command to launch the game. Use {{HOME}} for a variable home path.
+        Command to launch the game. Use {{HOME}} for a variable home path.
         Windows also allows {{SYSTEM_DRIVE}}, {{PROGRAM_FILES}}, and {{PROGRAM_FILES_X86}}.
         Literal home directories and reserved system names are rejected.
     validations:
@@ -42,7 +42,7 @@ body:
     id: working_dir
     attributes:
       label: Working directory
-      description: Optional Sunshine working-dir value.
+      description: Optional working directory.
   - type: textarea
     id: notes
     attributes:

@@ -3,10 +3,11 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { buildStatistics } = require('./statistics');
+const { normalizeRecord } = require('./record');
 
 function supportedOs(preset) {
   if (preset.os) return [preset.os];
-  return preset.sunshine_by_os ? Object.keys(preset.sunshine_by_os) : ['Windows', 'Linux', 'macOS'];
+  return preset.commands_by_os ? Object.keys(preset.commands_by_os) : ['Windows', 'Linux', 'macOS'];
 }
 
 const PROTON_TIERS = new Set(['borked', 'bronze', 'silver', 'gold', 'platinum', 'native']);
@@ -51,7 +52,7 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
     const target = path.join(output, folder);
     fs.mkdirSync(target, { recursive: true });
     for (const file of files) {
-      const item = JSON.parse(fs.readFileSync(path.join(directory, file), 'utf8'));
+      const item = normalizeRecord(JSON.parse(fs.readFileSync(path.join(directory, file), 'utf8')));
       if (item.kind !== kind || !Array.isArray(item.presets) || item.presets.length === 0 ||
           String(item.id) !== path.basename(file, '.json')) {
         throw new Error(`Invalid database record: ${folder}/${file}`);
@@ -62,7 +63,8 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
       index[folder].push({
         id: item.id, name: item.name, preset_count: item.presets.length,
         image_url: item.image_url || null,
-        operating_systems: [...new Set(item.presets.flatMap(supportedOs))].sort((a, b) => a.localeCompare(b))
+        operating_systems: [...new Set(item.presets.flatMap(supportedOs))].sort((a, b) => a.localeCompare(b)),
+        ...(kind === 'game' ? { launch_methods: [...new Set(item.presets.map(preset => preset.method))].sort((a, b) => a.localeCompare(b)) } : {})
       });
     }
     index[folder].sort((a, b) => a.name.localeCompare(b.name) || String(a.id).localeCompare(String(b.id)));
