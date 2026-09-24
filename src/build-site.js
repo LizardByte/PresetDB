@@ -29,13 +29,24 @@ async function protonDbRating(appId, fetcher) {
   }
 }
 
-async function addProtonDb(item, fetcher, cache) {
-  for (const preset of item.presets) {
-    if (preset.method !== 'steam' || !/^[1-9]\d{0,9}$/.test(preset.launch_id || '')) continue;
-    const appId = preset.launch_id;
-    preset.protondb_url = 'https://www.protondb.com/app/' + appId;
-    if (!cache.has(appId)) cache.set(appId, await protonDbRating(appId, fetcher));
-    preset.protondb = cache.get(appId);
+async function addProtonDb(records, fetcher) {
+  const ids = [...new Set(records.flatMap(item => item.presets
+    .filter(preset => preset.method === 'steam' && /^[1-9]\d{0,9}$/.test(preset.launch_id || ''))
+    .map(preset => preset.launch_id)))];
+  const cache = new Map();
+  let next = 0;
+  await Promise.all(Array.from({ length: Math.min(32, ids.length) }, async () => {
+    while (next < ids.length) {
+      const appId = ids[next++];
+      cache.set(appId, await protonDbRating(appId, fetcher));
+    }
+  }));
+  for (const item of records) {
+    for (const preset of item.presets) {
+      if (!cache.has(preset.launch_id)) continue;
+      preset.protondb_url = 'https://www.protondb.com/app/' + preset.launch_id;
+      preset.protondb = cache.get(preset.launch_id);
+    }
   }
 }
 
@@ -44,7 +55,6 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
   fs.cpSync(template, output, { recursive: true });
   const index = { schema_version: 1, games: [], apps: [] };
   const records = [];
-  const protonCache = new Map();
   for (const [folder, kind] of [['games', 'game'], ['apps', 'app']]) {
     const directory = path.join(database, folder);
     if (!fs.existsSync(directory)) continue;
@@ -57,8 +67,6 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
           String(item.id) !== path.basename(file, '.json')) {
         throw new Error(`Invalid database record: ${folder}/${file}`);
       }
-      await addProtonDb(item, fetcher, protonCache);
-      fs.writeFileSync(path.join(target, file), JSON.stringify(item, null, 2) + '\n');
       records.push(item);
       index[folder].push({
         id: item.id, name: item.name, preset_count: item.presets.length,
@@ -68,6 +76,11 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
       });
     }
     index[folder].sort((a, b) => a.name.localeCompare(b.name) || String(a.id).localeCompare(String(b.id)));
+  }
+  await addProtonDb(records, fetcher);
+  for (const item of records) {
+    const folder = item.kind === 'game' ? 'games' : 'apps';
+    fs.writeFileSync(path.join(output, folder, `${item.id}.json`), JSON.stringify(item, null, 2) + '\n');
   }
   fs.writeFileSync(path.join(output, 'index.json'), `${JSON.stringify(index, null, 2)}\n`);
   const statistics = buildStatistics(index, records);

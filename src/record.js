@@ -32,4 +32,17 @@ function normalizeRecord(record) {
   };
 }
 
-module.exports = { normalizeRecord };
+function comparePresetIds(left, right) {
+  const leftNumeric = /^[1-9]\d*$/.test(left);
+  const rightNumeric = /^[1-9]\d*$/.test(right);
+  if (leftNumeric && rightNumeric) {
+    const a = BigInt(left);
+    const b = BigInt(right);
+    return a < b ? -1 : a > b ? 1 : 0;
+  }
+  if (leftNumeric) return -1;
+  if (rightNumeric) return 1;
+  return left.localeCompare(right);
+}
+
+module.exports = { normalizeRecord, comparePresetIds };

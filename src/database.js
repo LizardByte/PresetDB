@@ -3,7 +3,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { PresetError } = require('./presets');
-const { normalizeRecord } = require('./record');
+const { normalizeRecord, comparePresetIds } = require('./record');
 
 function recordPath(root, preset) {
   const folder = preset.kind === 'game' ? 'games' : 'apps';
@@ -94,7 +94,7 @@ function mergePreset(root, preset, {
   };
   if (previous >= 0) record.presets[previous] = entry;
   else record.presets.push(entry);
-  record.presets.sort((a, b) => Number(a.id) - Number(b.id));
+  record.presets.sort((a, b) => comparePresetIds(a.id, b.id));
   if (write) {
     fs.mkdirSync(path.dirname(file), { recursive: true });
     fs.writeFileSync(file, `${JSON.stringify(record, null, 2)}\n`);
