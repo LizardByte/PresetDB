@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30396,
+  "name": "Estiman",
+  "source_url": "https://www.igdb.com/games/estiman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57mt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Estiman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "560220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/560220",
+        "Linux": "setsid steam steam://rungameid/560220",
+        "macOS": "open steam://rungameid/560220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "estiman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30396"
+}
