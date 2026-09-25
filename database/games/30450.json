@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30450,
+  "name": "Teria",
+  "source_url": "https://www.igdb.com/games/teria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jmm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Teria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557970",
+        "Linux": "setsid steam steam://rungameid/557970",
+        "macOS": "open steam://rungameid/557970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30450"
+}
