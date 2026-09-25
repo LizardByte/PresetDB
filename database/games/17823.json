@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17823,
+  "name": "Yury",
+  "source_url": "https://www.igdb.com/games/yury",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co605r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yury",
+      "os": null,
+      "method": "steam",
+      "launch_id": "321950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/321950",
+        "Linux": "setsid steam steam://rungameid/321950",
+        "macOS": "open steam://rungameid/321950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yury",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17823"
+}
