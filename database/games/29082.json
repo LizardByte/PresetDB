@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29082,
+  "name": "VRIQ",
+  "source_url": "https://www.igdb.com/games/vriq",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1jq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRIQ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "612050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/612050",
+        "Linux": "setsid steam steam://rungameid/612050",
+        "macOS": "open steam://rungameid/612050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vriq",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29082"
+}
