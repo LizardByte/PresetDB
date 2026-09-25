@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30139,
+  "name": "Tile",
+  "source_url": "https://www.igdb.com/games/tile",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6hiz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567020",
+        "Linux": "setsid steam steam://rungameid/567020",
+        "macOS": "open steam://rungameid/567020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tile",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30139"
+}
