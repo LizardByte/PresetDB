@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20674,
+  "name": "War Rock",
+  "source_url": "https://www.igdb.com/games/war-rock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War Rock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880850",
+        "Linux": "setsid steam steam://rungameid/880850",
+        "macOS": "open steam://rungameid/880850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-rock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20674"
+}
