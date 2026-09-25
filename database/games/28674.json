@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28674,
+  "name": "Nano Project",
+  "source_url": "https://www.igdb.com/games/nano-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob58t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nano Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622320",
+        "Linux": "setsid steam steam://rungameid/622320",
+        "macOS": "open steam://rungameid/622320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nano-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28674"
+}
