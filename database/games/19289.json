@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19289,
+  "name": "Candle",
+  "source_url": "https://www.igdb.com/games/candle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2el6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Candle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "420060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/420060",
+        "Linux": "setsid steam steam://rungameid/420060",
+        "macOS": "open steam://rungameid/420060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "candle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19289"
+}
