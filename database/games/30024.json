@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30024,
+  "name": "Treehouse Basketball",
+  "source_url": "https://www.igdb.com/games/treehouse-basketball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob38c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Treehouse Basketball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568600",
+        "Linux": "setsid steam steam://rungameid/568600",
+        "macOS": "open steam://rungameid/568600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "treehouse-basketball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30024"
+}
