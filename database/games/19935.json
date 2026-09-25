@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19935,
+  "name": "Wizard of Legend",
+  "source_url": "https://www.igdb.com/games/wizard-of-legend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27gi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizard of Legend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "445980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/445980",
+        "Linux": "setsid steam steam://rungameid/445980",
+        "macOS": "open steam://rungameid/445980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wizard-of-legend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19935"
+}
