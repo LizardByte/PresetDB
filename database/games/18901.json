@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18901,
+  "name": "March of the Living",
+  "source_url": "https://www.igdb.com/games/march-of-the-living",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21c8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "March of the Living",
+      "os": null,
+      "method": "steam",
+      "launch_id": "458000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/458000",
+        "Linux": "setsid steam steam://rungameid/458000",
+        "macOS": "open steam://rungameid/458000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "march-of-the-living",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18901"
+}
