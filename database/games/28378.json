@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28378,
+  "name": "Pixel Sand",
+  "source_url": "https://www.igdb.com/games/pixel-sand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21g1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Sand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "584880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/584880",
+        "Linux": "setsid steam steam://rungameid/584880",
+        "macOS": "open steam://rungameid/584880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-sand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28378"
+}
