@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30443,
+  "name": "Odyssey",
+  "source_url": "https://www.igdb.com/games/odyssey--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coae2g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Odyssey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "558110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/558110",
+        "Linux": "setsid steam steam://rungameid/558110",
+        "macOS": "open steam://rungameid/558110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "odyssey--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30443"
+}
