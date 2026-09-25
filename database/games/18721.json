@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18721,
+  "name": "Good Robot",
+  "source_url": "https://www.igdb.com/games/good-robot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41e8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Good Robot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "358830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/358830",
+        "Linux": "setsid steam steam://rungameid/358830",
+        "macOS": "open steam://rungameid/358830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "good-robot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18721"
+}
