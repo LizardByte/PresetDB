@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25514,
+  "name": "Dead Sea",
+  "source_url": "https://www.igdb.com/games/dead-sea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/vckino6s9pkdko7z8mlp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Sea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "350220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/350220",
+        "Linux": "setsid steam steam://rungameid/350220",
+        "macOS": "open steam://rungameid/350220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-sea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25514"
+}
