@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20097,
+  "name": "Spoiler Alert",
+  "source_url": "https://www.igdb.com/games/spoiler-alert",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86z0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spoiler Alert",
+      "os": null,
+      "method": "steam",
+      "launch_id": "283230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/283230",
+        "Linux": "setsid steam steam://rungameid/283230",
+        "macOS": "open steam://rungameid/283230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spoiler-alert",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20097"
+}
