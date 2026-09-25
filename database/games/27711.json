@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27711,
+  "name": "Freaky Awesome",
+  "source_url": "https://www.igdb.com/games/freaky-awesome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24i2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freaky Awesome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622370",
+        "Linux": "setsid steam steam://rungameid/622370",
+        "macOS": "open steam://rungameid/622370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freaky-awesome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27711"
+}
