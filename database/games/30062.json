@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30062,
+  "name": "Last Answer",
+  "source_url": "https://www.igdb.com/games/last-answer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bub.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Answer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "569760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/569760",
+        "Linux": "setsid steam steam://rungameid/569760",
+        "macOS": "open steam://rungameid/569760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-answer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30062"
+}
