@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25924,
+  "name": "King Kaiju",
+  "source_url": "https://www.igdb.com/games/king-kaiju",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co252e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Kaiju",
+      "os": null,
+      "method": "steam",
+      "launch_id": "556340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/556340",
+        "Linux": "setsid steam steam://rungameid/556340",
+        "macOS": "open steam://rungameid/556340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-kaiju",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25924"
+}
