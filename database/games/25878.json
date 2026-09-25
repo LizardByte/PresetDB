@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25878,
+  "name": "Fallout: The Frontier",
+  "source_url": "https://www.igdb.com/games/fallout-the-frontier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ohf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallout: The Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1356060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1356060",
+        "Linux": "setsid steam steam://rungameid/1356060",
+        "macOS": "open steam://rungameid/1356060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fallout-the-frontier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25878"
+}
