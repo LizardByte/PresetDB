@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27946,
+  "name": "Sengoku",
+  "source_url": "https://www.igdb.com/games/sengoku--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2r9o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sengoku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "73210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/73210",
+        "Linux": "setsid steam steam://rungameid/73210",
+        "macOS": "open steam://rungameid/73210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sengoku--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27946"
+}
