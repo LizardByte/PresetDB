@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29122,
+  "name": "Smashball",
+  "source_url": "https://www.igdb.com/games/smashball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20ju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smashball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "17730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/17730",
+        "Linux": "setsid steam steam://rungameid/17730",
+        "macOS": "open steam://rungameid/17730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smashball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29122"
+}
