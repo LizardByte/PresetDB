@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28560,
+  "name": "Fort Awesome",
+  "source_url": "https://www.igdb.com/games/fort-awesome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fort Awesome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "594120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/594120",
+        "Linux": "setsid steam steam://rungameid/594120",
+        "macOS": "open steam://rungameid/594120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fort-awesome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28560"
+}
