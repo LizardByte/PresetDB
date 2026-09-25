@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24925,
+  "name": "Frog Climbers",
+  "source_url": "https://www.igdb.com/games/frog-climbers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v66.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frog Climbers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485120",
+        "Linux": "setsid steam steam://rungameid/485120",
+        "macOS": "open steam://rungameid/485120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frog-climbers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24925"
+}
