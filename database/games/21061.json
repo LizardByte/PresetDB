@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21061,
+  "name": "Ozmafia!!",
+  "source_url": "https://www.igdb.com/games/ozmafia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21we.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ozmafia!!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303290",
+        "Linux": "setsid steam steam://rungameid/303290",
+        "macOS": "open steam://rungameid/303290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ozmafia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21061"
+}
