@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27091,
+  "name": "Foxhole",
+  "source_url": "https://www.igdb.com/games/foxhole",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab4i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foxhole",
+      "os": null,
+      "method": "steam",
+      "launch_id": "505460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/505460",
+        "Linux": "setsid steam steam://rungameid/505460",
+        "macOS": "open steam://rungameid/505460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foxhole",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27091"
+}
