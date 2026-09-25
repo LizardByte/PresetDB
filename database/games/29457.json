@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29457,
+  "name": "Gaben Kingdom",
+  "source_url": "https://www.igdb.com/games/gaben-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bgl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gaben Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "593340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/593340",
+        "Linux": "setsid steam steam://rungameid/593340",
+        "macOS": "open steam://rungameid/593340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gaben-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29457"
+}
