@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29436,
+  "name": "Rocking Pilot",
+  "source_url": "https://www.igdb.com/games/rocking-pilot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob36y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocking Pilot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "593680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/593680",
+        "Linux": "setsid steam steam://rungameid/593680",
+        "macOS": "open steam://rungameid/593680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocking-pilot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29436"
+}
