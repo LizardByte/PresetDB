@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22386,
+  "name": "Fly and Destroy",
+  "source_url": "https://www.igdb.com/games/fly-and-destroy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjhh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly and Destroy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "508180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/508180",
+        "Linux": "setsid steam steam://rungameid/508180",
+        "macOS": "open steam://rungameid/508180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fly-and-destroy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22386"
+}
