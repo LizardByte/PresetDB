@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30232,
+  "name": "8BitMMO",
+  "source_url": "https://www.igdb.com/games/8bitmmo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3kth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "8BitMMO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "250420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/250420",
+        "Linux": "setsid steam steam://rungameid/250420",
+        "macOS": "open steam://rungameid/250420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "8bitmmo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30232"
+}
