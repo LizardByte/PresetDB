@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20332,
+  "name": "SuperHyperCube",
+  "source_url": "https://www.igdb.com/games/superhypercube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ewi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SuperHyperCube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "554870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/554870",
+        "Linux": "setsid steam steam://rungameid/554870",
+        "macOS": "open steam://rungameid/554870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "superhypercube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20332"
+}
