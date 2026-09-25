@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19937,
+  "name": "Forge",
+  "source_url": "https://www.igdb.com/games/forge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q6h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "223390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/223390",
+        "Linux": "setsid steam steam://rungameid/223390",
+        "macOS": "open steam://rungameid/223390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19937"
+}
