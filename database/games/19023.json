@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19023,
+  "name": "Gon' E-Choo!",
+  "source_url": "https://www.igdb.com/games/gon-e-choo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa20z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gon' E-Choo!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "384990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/384990",
+        "Linux": "setsid steam steam://rungameid/384990",
+        "macOS": "open steam://rungameid/384990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gon-e-choo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19023"
+}
