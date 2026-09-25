@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24659,
+  "name": "The Space Bar",
+  "source_url": "https://www.igdb.com/games/the-space-bar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98so.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Space Bar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2253580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2253580",
+        "Linux": "setsid steam steam://rungameid/2253580",
+        "macOS": "open steam://rungameid/2253580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-space-bar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24659"
+}
