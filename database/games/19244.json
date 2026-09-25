@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19244,
+  "name": "Forward to the Sky",
+  "source_url": "https://www.igdb.com/games/forward-to-the-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qf0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forward to the Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "333250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/333250",
+        "Linux": "setsid steam steam://rungameid/333250",
+        "macOS": "open steam://rungameid/333250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forward-to-the-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19244"
+}
