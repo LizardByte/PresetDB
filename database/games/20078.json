@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20078,
+  "name": "Super Motherload",
+  "source_url": "https://www.igdb.com/games/super-motherload",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42ob.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Motherload",
+      "os": null,
+      "method": "steam",
+      "launch_id": "269110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/269110",
+        "Linux": "setsid steam steam://rungameid/269110",
+        "macOS": "open steam://rungameid/269110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-motherload",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20078"
+}
