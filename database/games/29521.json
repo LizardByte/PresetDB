@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29521,
+  "name": "LifeBase",
+  "source_url": "https://www.igdb.com/games/lifebase",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LifeBase",
+      "os": null,
+      "method": "steam",
+      "launch_id": "590600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/590600",
+        "Linux": "setsid steam steam://rungameid/590600",
+        "macOS": "open steam://rungameid/590600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lifebase",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29521"
+}
