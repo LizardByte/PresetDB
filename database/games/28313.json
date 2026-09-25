@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28313,
+  "name": "Riptale",
+  "source_url": "https://www.igdb.com/games/riptale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27wl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Riptale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "616000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/616000",
+        "Linux": "setsid steam steam://rungameid/616000",
+        "macOS": "open steam://rungameid/616000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "riptale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28313"
+}
