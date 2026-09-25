@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25086,
+  "name": "Pirate Pop Plus",
+  "source_url": "https://www.igdb.com/games/pirate-pop-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27nw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate Pop Plus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "487350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/487350",
+        "Linux": "setsid steam steam://rungameid/487350",
+        "macOS": "open steam://rungameid/487350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirate-pop-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25086"
+}
