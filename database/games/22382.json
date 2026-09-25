@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22382,
+  "name": "Super SteamPuff",
+  "source_url": "https://www.igdb.com/games/super-steampuff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/f6uz5ltslaksubm89kim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super SteamPuff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3373610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3373610",
+        "Linux": "setsid steam steam://rungameid/3373610",
+        "macOS": "open steam://rungameid/3373610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-steampuff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22382"
+}
