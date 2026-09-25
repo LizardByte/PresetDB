@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27413,
+  "name": "Genesis Noir",
+  "source_url": "https://www.igdb.com/games/genesis-noir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2y2b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Genesis Noir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "735290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/735290",
+        "Linux": "setsid steam steam://rungameid/735290",
+        "macOS": "open steam://rungameid/735290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "genesis-noir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27413"
+}
