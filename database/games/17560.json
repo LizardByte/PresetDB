@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17560,
+  "name": "LogiGun",
+  "source_url": "https://www.igdb.com/games/logigun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45dt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LogiGun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "308360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/308360",
+        "Linux": "setsid steam steam://rungameid/308360",
+        "macOS": "open steam://rungameid/308360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "logigun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17560"
+}
