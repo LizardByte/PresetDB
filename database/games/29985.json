@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29985,
+  "name": "Little Triangle",
+  "source_url": "https://www.igdb.com/games/little-triangle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co253y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Triangle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "575050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/575050",
+        "Linux": "setsid steam steam://rungameid/575050",
+        "macOS": "open steam://rungameid/575050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-triangle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29985"
+}
