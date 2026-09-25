@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18090,
+  "name": "Shakes and Fidget",
+  "source_url": "https://www.igdb.com/games/shakes-and-fidget",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab01.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shakes and Fidget",
+      "os": null,
+      "method": "steam",
+      "launch_id": "438040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/438040",
+        "Linux": "setsid steam steam://rungameid/438040",
+        "macOS": "open steam://rungameid/438040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shakes-and-fidget",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18090"
+}
