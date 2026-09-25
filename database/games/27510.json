@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27510,
+  "name": "Bad Rats Show",
+  "source_url": "https://www.igdb.com/games/bad-rats-show",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3luw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bad Rats Show",
+      "os": null,
+      "method": "steam",
+      "launch_id": "393200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/393200",
+        "Linux": "setsid steam steam://rungameid/393200",
+        "macOS": "open steam://rungameid/393200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bad-rats-show",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27510"
+}
