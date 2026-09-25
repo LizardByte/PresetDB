@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28872,
+  "name": "The Frost",
+  "source_url": "https://www.igdb.com/games/the-frost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g8b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Frost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622540",
+        "Linux": "setsid steam steam://rungameid/622540",
+        "macOS": "open steam://rungameid/622540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-frost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28872"
+}
