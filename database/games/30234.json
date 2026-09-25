@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30234,
+  "name": "Fantasy Grounds",
+  "source_url": "https://www.igdb.com/games/fantasy-grounds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q4m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantasy Grounds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "252690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/252690",
+        "Linux": "setsid steam steam://rungameid/252690",
+        "macOS": "open steam://rungameid/252690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantasy-grounds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30234"
+}
