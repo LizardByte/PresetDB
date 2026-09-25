@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29989,
+  "name": "Magic Lantern",
+  "source_url": "https://www.igdb.com/games/magic-lantern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob37u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Lantern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "575110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/575110",
+        "Linux": "setsid steam steam://rungameid/575110",
+        "macOS": "open steam://rungameid/575110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-lantern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29989"
+}
