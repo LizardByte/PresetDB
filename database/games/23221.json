@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23221,
+  "name": "Jamestown+",
+  "source_url": "https://www.igdb.com/games/jamestown-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sw5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jamestown+",
+      "os": null,
+      "method": "steam",
+      "launch_id": "377950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/377950",
+        "Linux": "setsid steam steam://rungameid/377950",
+        "macOS": "open steam://rungameid/377950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jamestown-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23221"
+}
