@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28215,
+  "name": "The Wolf's Bite",
+  "source_url": "https://www.igdb.com/games/the-wolfs-bite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5y6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wolf's Bite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656040",
+        "Linux": "setsid steam steam://rungameid/656040",
+        "macOS": "open steam://rungameid/656040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-wolfs-bite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28215"
+}
