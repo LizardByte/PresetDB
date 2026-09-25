@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26251,
+  "name": "Ben the Exorcist",
+  "source_url": "https://www.igdb.com/games/ben-the-exorcist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22z4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ben the Exorcist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "654020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/654020",
+        "Linux": "setsid steam steam://rungameid/654020",
+        "macOS": "open steam://rungameid/654020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ben-the-exorcist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26251"
+}
