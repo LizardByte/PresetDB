@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18929,
+  "name": "Mosaic",
+  "source_url": "https://www.igdb.com/games/mosaic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1pv3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mosaic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "349270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/349270",
+        "Linux": "setsid steam steam://rungameid/349270",
+        "macOS": "open steam://rungameid/349270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mosaic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18929"
+}
