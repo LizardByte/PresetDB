@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25224,
+  "name": "The Invisible Hand",
+  "source_url": "https://www.igdb.com/games/the-invisible-hand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xv4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Invisible Hand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "628200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/628200",
+        "Linux": "setsid steam steam://rungameid/628200",
+        "macOS": "open steam://rungameid/628200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-invisible-hand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25224"
+}
