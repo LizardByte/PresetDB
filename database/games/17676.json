@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17676,
+  "name": "Bloop Reloaded",
+  "source_url": "https://www.igdb.com/games/bloop-reloaded",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1oaj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloop Reloaded",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315060",
+        "Linux": "setsid steam steam://rungameid/315060",
+        "macOS": "open steam://rungameid/315060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bloop-reloaded",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17676"
+}
