@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24840,
+  "name": "Beglitched",
+  "source_url": "https://www.igdb.com/games/beglitched",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22we.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beglitched",
+      "os": null,
+      "method": "steam",
+      "launch_id": "461220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/461220",
+        "Linux": "setsid steam steam://rungameid/461220",
+        "macOS": "open steam://rungameid/461220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beglitched",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24840"
+}
