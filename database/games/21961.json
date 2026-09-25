@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21961,
+  "name": "Fox n Forests",
+  "source_url": "https://www.igdb.com/games/fox-n-forests",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co216m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fox n Forests",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603400",
+        "Linux": "setsid steam steam://rungameid/603400",
+        "macOS": "open steam://rungameid/603400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fox-n-forests",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21961"
+}
