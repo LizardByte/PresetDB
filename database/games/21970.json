@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21970,
+  "name": "Neon Space 2",
+  "source_url": "https://www.igdb.com/games/neon-space-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Space 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "505210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/505210",
+        "Linux": "setsid steam steam://rungameid/505210",
+        "macOS": "open steam://rungameid/505210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-space-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21970"
+}
