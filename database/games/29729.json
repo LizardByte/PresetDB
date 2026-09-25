@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29729,
+  "name": "Retro Pinball",
+  "source_url": "https://www.igdb.com/games/retro-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6tej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retro Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "581590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/581590",
+        "Linux": "setsid steam steam://rungameid/581590",
+        "macOS": "open steam://rungameid/581590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retro-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29729"
+}
