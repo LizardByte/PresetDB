@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20348,
+  "name": "Polyball",
+  "source_url": "https://www.igdb.com/games/polyball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co265j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polyball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "368180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/368180",
+        "Linux": "setsid steam steam://rungameid/368180",
+        "macOS": "open steam://rungameid/368180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polyball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20348"
+}
