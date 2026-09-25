@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28802,
+  "name": "Outrunner",
+  "source_url": "https://www.igdb.com/games/outrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29cm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outrunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "620240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/620240",
+        "Linux": "setsid steam steam://rungameid/620240",
+        "macOS": "open steam://rungameid/620240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "outrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28802"
+}
