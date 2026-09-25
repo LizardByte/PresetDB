@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30270,
+  "name": "Space Hotel",
+  "source_url": "https://www.igdb.com/games/space-hotel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6hd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Hotel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "564900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/564900",
+        "Linux": "setsid steam steam://rungameid/564900",
+        "macOS": "open steam://rungameid/564900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-hotel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30270"
+}
