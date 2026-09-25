@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30130,
+  "name": "VThree",
+  "source_url": "https://www.igdb.com/games/vthree",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rtv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VThree",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567320",
+        "Linux": "setsid steam steam://rungameid/567320",
+        "macOS": "open steam://rungameid/567320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vthree",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30130"
+}
