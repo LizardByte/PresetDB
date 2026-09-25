@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27430,
+  "name": "Sparc",
+  "source_url": "https://www.igdb.com/games/sparc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24to.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sparc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601770",
+        "Linux": "setsid steam steam://rungameid/601770",
+        "macOS": "open steam://rungameid/601770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sparc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27430"
+}
