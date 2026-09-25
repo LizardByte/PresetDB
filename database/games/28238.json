@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28238,
+  "name": "Symphony of the Machine",
+  "source_url": "https://www.igdb.com/games/symphony-of-the-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3c8c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Symphony of the Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "540010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/540010",
+        "Linux": "setsid steam steam://rungameid/540010",
+        "macOS": "open steam://rungameid/540010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "symphony-of-the-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28238"
+}
