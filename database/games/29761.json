@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29761,
+  "name": "Armored Gear",
+  "source_url": "https://www.igdb.com/games/armored-gear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29it.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Armored Gear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "581000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/581000",
+        "Linux": "setsid steam steam://rungameid/581000",
+        "macOS": "open steam://rungameid/581000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "armored-gear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29761"
+}
