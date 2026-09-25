@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30394,
+  "name": "Galaxy Girls",
+  "source_url": "https://www.igdb.com/games/galaxy-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zws.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galaxy Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "560250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/560250",
+        "Linux": "setsid steam steam://rungameid/560250",
+        "macOS": "open steam://rungameid/560250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galaxy-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30394"
+}
