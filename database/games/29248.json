@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29248,
+  "name": "Gruzchik",
+  "source_url": "https://www.igdb.com/games/gruzchik",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bjc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gruzchik",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603290",
+        "Linux": "setsid steam steam://rungameid/603290",
+        "macOS": "open steam://rungameid/603290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gruzchik",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29248"
+}
