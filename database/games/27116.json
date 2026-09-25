@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27116,
+  "name": "Phoning Home",
+  "source_url": "https://www.igdb.com/games/phoning-home",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21fx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phoning Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "431650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/431650",
+        "Linux": "setsid steam steam://rungameid/431650",
+        "macOS": "open steam://rungameid/431650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phoning-home",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27116"
+}
