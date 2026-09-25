@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19940,
+  "name": "Pac-Man and the Ghostly Adventures",
+  "source_url": "https://www.igdb.com/games/pac-man-and-the-ghostly-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3dnh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pac-Man and the Ghostly Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "239720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/239720",
+        "Linux": "setsid steam steam://rungameid/239720",
+        "macOS": "open steam://rungameid/239720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pac-man-and-the-ghostly-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19940"
+}
