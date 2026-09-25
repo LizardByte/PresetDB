@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28770,
+  "name": "StarCrossed",
+  "source_url": "https://www.igdb.com/games/starcrossed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2454.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StarCrossed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "956560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/956560",
+        "Linux": "setsid steam steam://rungameid/956560",
+        "macOS": "open steam://rungameid/956560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starcrossed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28770"
+}
