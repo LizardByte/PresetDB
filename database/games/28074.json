@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28074,
+  "name": "Dogolrax",
+  "source_url": "https://www.igdb.com/games/dogolrax",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26uu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogolrax",
+      "os": null,
+      "method": "steam",
+      "launch_id": "599960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/599960",
+        "Linux": "setsid steam steam://rungameid/599960",
+        "macOS": "open steam://rungameid/599960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dogolrax",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28074"
+}
