@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30018,
+  "name": "The Strayed",
+  "source_url": "https://www.igdb.com/games/the-strayed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob31y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Strayed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567620",
+        "Linux": "setsid steam steam://rungameid/567620",
+        "macOS": "open steam://rungameid/567620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-strayed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30018"
+}
