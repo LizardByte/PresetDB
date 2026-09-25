@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29195,
+  "name": "Tropico 3: Steam Special Edition",
+  "source_url": "https://www.igdb.com/games/tropico-3-steam-special-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpyu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tropico 3: Steam Special Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "23490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/23490",
+        "Linux": "setsid steam steam://rungameid/23490",
+        "macOS": "open steam://rungameid/23490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tropico-3-steam-special-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29195"
+}
