@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27092,
+  "name": "GreedFall",
+  "source_url": "https://www.igdb.com/games/greedfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsi1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GreedFall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "606880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/606880",
+        "Linux": "setsid steam steam://rungameid/606880",
+        "macOS": "open steam://rungameid/606880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "greedfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27092"
+}
