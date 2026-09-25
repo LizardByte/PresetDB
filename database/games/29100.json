@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29100,
+  "name": "Rise of Balloons",
+  "source_url": "https://www.igdb.com/games/rise-of-balloons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27cw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise of Balloons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "610460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/610460",
+        "Linux": "setsid steam steam://rungameid/610460",
+        "macOS": "open steam://rungameid/610460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rise-of-balloons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29100"
+}
