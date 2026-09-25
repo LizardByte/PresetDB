@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28769,
+  "name": "Mr. Donovan",
+  "source_url": "https://www.igdb.com/games/mr-donovan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/x86feg54wvv1p7asoo2w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Donovan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "580510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/580510",
+        "Linux": "setsid steam steam://rungameid/580510",
+        "macOS": "open steam://rungameid/580510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-donovan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28769"
+}
