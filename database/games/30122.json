@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30122,
+  "name": "Duke of Alpha Centauri",
+  "source_url": "https://www.igdb.com/games/duke-of-alpha-centauri",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co545z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duke of Alpha Centauri",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567580",
+        "Linux": "setsid steam steam://rungameid/567580",
+        "macOS": "open steam://rungameid/567580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duke-of-alpha-centauri",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30122"
+}
