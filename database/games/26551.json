@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26551,
+  "name": "Fracture the Flag",
+  "source_url": "https://www.igdb.com/games/fracture-the-flag",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q6t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fracture the Flag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "388900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/388900",
+        "Linux": "setsid steam steam://rungameid/388900",
+        "macOS": "open steam://rungameid/388900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fracture-the-flag",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26551"
+}
