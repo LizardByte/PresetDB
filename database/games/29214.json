@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29214,
+  "name": "Running Sausage",
+  "source_url": "https://www.igdb.com/games/running-sausage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/a5hp6jvoxmbzqjd2szd4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Running Sausage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605520",
+        "Linux": "setsid steam steam://rungameid/605520",
+        "macOS": "open steam://rungameid/605520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "running-sausage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29214"
+}
