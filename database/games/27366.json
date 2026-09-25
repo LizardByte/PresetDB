@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27366,
+  "name": "Ooblets",
+  "source_url": "https://www.igdb.com/games/ooblets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dfx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ooblets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "593150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/593150",
+        "Linux": "setsid steam steam://rungameid/593150",
+        "macOS": "open steam://rungameid/593150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ooblets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27366"
+}
