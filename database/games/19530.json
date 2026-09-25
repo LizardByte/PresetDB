@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19530,
+  "name": "Quake Champions",
+  "source_url": "https://www.igdb.com/games/quake-champions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6p4x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quake Champions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "611500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/611500",
+        "Linux": "setsid steam steam://rungameid/611500",
+        "macOS": "open steam://rungameid/611500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quake-champions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19530"
+}
