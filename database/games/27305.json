@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27305,
+  "name": "The Grey Man",
+  "source_url": "https://www.igdb.com/games/the-grey-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Grey Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "502530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/502530",
+        "Linux": "setsid steam steam://rungameid/502530",
+        "macOS": "open steam://rungameid/502530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-grey-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27305"
+}
