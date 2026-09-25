@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20028,
+  "name": "Aerannis",
+  "source_url": "https://www.igdb.com/games/aerannis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d5m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aerannis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "356580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/356580",
+        "Linux": "setsid steam steam://rungameid/356580",
+        "macOS": "open steam://rungameid/356580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aerannis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20028"
+}
