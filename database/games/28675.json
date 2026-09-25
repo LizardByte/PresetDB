@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28675,
+  "name": "Amigo VR",
+  "source_url": "https://www.igdb.com/games/amigo-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29gy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amigo VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622310",
+        "Linux": "setsid steam steam://rungameid/622310",
+        "macOS": "open steam://rungameid/622310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amigo-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28675"
+}
