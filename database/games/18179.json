@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18179,
+  "name": "Particula",
+  "source_url": "https://www.igdb.com/games/particula",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qrp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Particula",
+      "os": null,
+      "method": "steam",
+      "launch_id": "343360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/343360",
+        "Linux": "setsid steam steam://rungameid/343360",
+        "macOS": "open steam://rungameid/343360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "particula",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18179"
+}
