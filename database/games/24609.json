@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24609,
+  "name": "Monumental",
+  "source_url": "https://www.igdb.com/games/monumental",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8pg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monumental",
+      "os": null,
+      "method": "steam",
+      "launch_id": "432610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/432610",
+        "Linux": "setsid steam steam://rungameid/432610",
+        "macOS": "open steam://rungameid/432610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monumental",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24609"
+}
