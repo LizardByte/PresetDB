@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25850,
+  "name": "Hunger Dungeon",
+  "source_url": "https://www.igdb.com/games/hunger-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43et.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hunger Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "513560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/513560",
+        "Linux": "setsid steam steam://rungameid/513560",
+        "macOS": "open steam://rungameid/513560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hunger-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25850"
+}
