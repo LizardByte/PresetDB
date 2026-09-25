@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29139,
+  "name": "Wild West Online",
+  "source_url": "https://www.igdb.com/games/wild-west-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild West Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "743860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/743860",
+        "Linux": "setsid steam steam://rungameid/743860",
+        "macOS": "open steam://rungameid/743860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-west-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29139"
+}
