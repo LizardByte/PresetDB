@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27777,
+  "name": "SoundStage",
+  "source_url": "https://www.igdb.com/games/soundstage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27vp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SoundStage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485780",
+        "Linux": "setsid steam steam://rungameid/485780",
+        "macOS": "open steam://rungameid/485780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soundstage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27777"
+}
