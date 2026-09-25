@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29850,
+  "name": "Sakura Agent",
+  "source_url": "https://www.igdb.com/games/sakura-agent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u11.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sakura Agent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "575510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/575510",
+        "Linux": "setsid steam steam://rungameid/575510",
+        "macOS": "open steam://rungameid/575510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sakura-agent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29850"
+}
