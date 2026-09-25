@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17514,
+  "name": "Echo of the Wilds",
+  "source_url": "https://www.igdb.com/games/echo-of-the-wilds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v0k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo of the Wilds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "305780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/305780",
+        "Linux": "setsid steam steam://rungameid/305780",
+        "macOS": "open steam://rungameid/305780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echo-of-the-wilds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17514"
+}
