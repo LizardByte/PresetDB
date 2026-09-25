@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28327,
+  "name": "One Dog Story",
+  "source_url": "https://www.igdb.com/games/one-dog-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21f3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Dog Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "588110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/588110",
+        "Linux": "setsid steam steam://rungameid/588110",
+        "macOS": "open steam://rungameid/588110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-dog-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28327"
+}
