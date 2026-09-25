@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25283,
+  "name": "Creatures Village",
+  "source_url": "https://www.igdb.com/games/creatures-village",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1yba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creatures Village",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1823900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1823900",
+        "Linux": "setsid steam steam://rungameid/1823900",
+        "macOS": "open steam://rungameid/1823900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "creatures-village",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25283"
+}
