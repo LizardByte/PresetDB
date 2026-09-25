@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29073,
+  "name": "Flagster",
+  "source_url": "https://www.igdb.com/games/flagster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bee.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flagster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "611530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/611530",
+        "Linux": "setsid steam steam://rungameid/611530",
+        "macOS": "open steam://rungameid/611530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flagster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29073"
+}
