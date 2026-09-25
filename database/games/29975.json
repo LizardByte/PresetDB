@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29975,
+  "name": "Cat or Bread?",
+  "source_url": "https://www.igdb.com/games/cat-or-bread",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co634w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat or Bread?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574820",
+        "Linux": "setsid steam steam://rungameid/574820",
+        "macOS": "open steam://rungameid/574820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-or-bread",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29975"
+}
