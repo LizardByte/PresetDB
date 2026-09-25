@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27337,
+  "name": "Boor",
+  "source_url": "https://www.igdb.com/games/boor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2336.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "450170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/450170",
+        "Linux": "setsid steam steam://rungameid/450170",
+        "macOS": "open steam://rungameid/450170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27337"
+}
