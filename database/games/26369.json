@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26369,
+  "name": "#Killallzombies",
+  "source_url": "https://www.igdb.com/games/number-killallzombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "#Killallzombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303720",
+        "Linux": "setsid steam steam://rungameid/303720",
+        "macOS": "open steam://rungameid/303720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "number-killallzombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26369"
+}
