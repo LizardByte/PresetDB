@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17537,
+  "name": "Borealis",
+  "source_url": "https://www.igdb.com/games/borealis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h9h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Borealis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "307170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/307170",
+        "Linux": "setsid steam steam://rungameid/307170",
+        "macOS": "open steam://rungameid/307170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "borealis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17537"
+}
