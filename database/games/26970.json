@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26970,
+  "name": "Minit",
+  "source_url": "https://www.igdb.com/games/minit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vcj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "609490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/609490",
+        "Linux": "setsid steam steam://rungameid/609490",
+        "macOS": "open steam://rungameid/609490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26970"
+}
