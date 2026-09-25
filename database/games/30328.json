@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30328,
+  "name": "Our Wonderful World",
+  "source_url": "https://www.igdb.com/games/our-wonderful-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6l9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Our Wonderful World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "562600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/562600",
+        "Linux": "setsid steam steam://rungameid/562600",
+        "macOS": "open steam://rungameid/562600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "our-wonderful-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30328"
+}
