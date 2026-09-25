@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17455,
+  "name": "Squirbs",
+  "source_url": "https://www.igdb.com/games/squirbs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86jz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squirbs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "429700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/429700",
+        "Linux": "setsid steam steam://rungameid/429700",
+        "macOS": "open steam://rungameid/429700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "squirbs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17455"
+}
