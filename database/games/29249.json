@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29249,
+  "name": "My Own Little Planet",
+  "source_url": "https://www.igdb.com/games/my-own-little-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6kw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Own Little Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603250",
+        "Linux": "setsid steam steam://rungameid/603250",
+        "macOS": "open steam://rungameid/603250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-own-little-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29249"
+}
