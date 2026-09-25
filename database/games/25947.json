@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25947,
+  "name": "Icarus.1",
+  "source_url": "https://www.igdb.com/games/icarus-dot-1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3wt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Icarus.1",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395470",
+        "Linux": "setsid steam steam://rungameid/395470",
+        "macOS": "open steam://rungameid/395470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "icarus-dot-1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25947"
+}
