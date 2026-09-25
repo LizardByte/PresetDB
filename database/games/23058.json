@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23058,
+  "name": "Monty on the Run",
+  "source_url": "https://www.igdb.com/games/monty-on-the-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ljk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monty on the Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2061280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2061280",
+        "Linux": "setsid steam steam://rungameid/2061280",
+        "macOS": "open steam://rungameid/2061280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monty-on-the-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23058"
+}
