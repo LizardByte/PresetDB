@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30057,
+  "name": "Rest In Peace",
+  "source_url": "https://www.igdb.com/games/rest-in-peace",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rest In Peace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "569540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/569540",
+        "Linux": "setsid steam steam://rungameid/569540",
+        "macOS": "open steam://rungameid/569540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rest-in-peace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30057"
+}
