@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28349,
+  "name": "Dreamlike Worlds",
+  "source_url": "https://www.igdb.com/games/dreamlike-worlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ayo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dreamlike Worlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "602200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/602200",
+        "Linux": "setsid steam steam://rungameid/602200",
+        "macOS": "open steam://rungameid/602200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dreamlike-worlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28349"
+}
