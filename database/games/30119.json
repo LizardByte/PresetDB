@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30119,
+  "name": "Atomic 79",
+  "source_url": "https://www.igdb.com/games/atomic-79",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20y8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atomic 79",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567370",
+        "Linux": "setsid steam steam://rungameid/567370",
+        "macOS": "open steam://rungameid/567370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atomic-79",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30119"
+}
