@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26701,
+  "name": "Turok",
+  "source_url": "https://www.igdb.com/games/turok--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2699.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turok",
+      "os": null,
+      "method": "steam",
+      "launch_id": "405820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/405820",
+        "Linux": "setsid steam steam://rungameid/405820",
+        "macOS": "open steam://rungameid/405820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turok--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26701"
+}
