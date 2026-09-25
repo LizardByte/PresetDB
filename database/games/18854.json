@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18854,
+  "name": "Let It Die",
+  "source_url": "https://www.igdb.com/games/let-it-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qiy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let It Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "794600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/794600",
+        "Linux": "setsid steam steam://rungameid/794600",
+        "macOS": "open steam://rungameid/794600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "let-it-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18854"
+}
