@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30426,
+  "name": "Children of Colossus",
+  "source_url": "https://www.igdb.com/games/children-of-colossus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob39e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Children of Colossus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "558850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/558850",
+        "Linux": "setsid steam steam://rungameid/558850",
+        "macOS": "open steam://rungameid/558850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "children-of-colossus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30426"
+}
