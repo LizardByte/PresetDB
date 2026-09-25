@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24814,
+  "name": "The Seeker",
+  "source_url": "https://www.igdb.com/games/the-seeker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dqg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Seeker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "503680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/503680",
+        "Linux": "setsid steam steam://rungameid/503680",
+        "macOS": "open steam://rungameid/503680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-seeker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24814"
+}
