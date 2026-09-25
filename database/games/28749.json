@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28749,
+  "name": "SphereFace",
+  "source_url": "https://www.igdb.com/games/sphereface",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22b4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SphereFace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "485680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/485680",
+        "Linux": "setsid steam steam://rungameid/485680",
+        "macOS": "open steam://rungameid/485680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sphereface",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28749"
+}
