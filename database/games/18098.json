@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18098,
+  "name": "Bear Simulator",
+  "source_url": "https://www.igdb.com/games/bear-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coby2w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bear Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395850",
+        "Linux": "setsid steam steam://rungameid/395850",
+        "macOS": "open steam://rungameid/395850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bear-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18098"
+}
