@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30017,
+  "name": "The Pasture",
+  "source_url": "https://www.igdb.com/games/the-pasture",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27ig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Pasture",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567680",
+        "Linux": "setsid steam steam://rungameid/567680",
+        "macOS": "open steam://rungameid/567680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-pasture",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30017"
+}
