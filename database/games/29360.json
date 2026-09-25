@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29360,
+  "name": "RoboMatch",
+  "source_url": "https://www.igdb.com/games/robomatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RoboMatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600210",
+        "Linux": "setsid steam steam://rungameid/600210",
+        "macOS": "open steam://rungameid/600210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robomatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29360"
+}
