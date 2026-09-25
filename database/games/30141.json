@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30141,
+  "name": "Tapocalypse",
+  "source_url": "https://www.igdb.com/games/tapocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tapocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567000",
+        "Linux": "setsid steam steam://rungameid/567000",
+        "macOS": "open steam://rungameid/567000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tapocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30141"
+}
