@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28885,
+  "name": "Duck Hunting",
+  "source_url": "https://www.igdb.com/games/duck-hunting",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2azg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Hunting",
+      "os": null,
+      "method": "steam",
+      "launch_id": "619330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/619330",
+        "Linux": "setsid steam steam://rungameid/619330",
+        "macOS": "open steam://rungameid/619330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duck-hunting",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28885"
+}
