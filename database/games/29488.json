@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29488,
+  "name": "Energia",
+  "source_url": "https://www.igdb.com/games/energia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2b3q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Energia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "592040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/592040",
+        "Linux": "setsid steam steam://rungameid/592040",
+        "macOS": "open steam://rungameid/592040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "energia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29488"
+}
