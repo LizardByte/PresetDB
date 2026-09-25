@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30052,
+  "name": "VRQB",
+  "source_url": "https://www.igdb.com/games/vrqb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob389.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRQB",
+      "os": null,
+      "method": "steam",
+      "launch_id": "569420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/569420",
+        "Linux": "setsid steam steam://rungameid/569420",
+        "macOS": "open steam://rungameid/569420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vrqb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30052"
+}
