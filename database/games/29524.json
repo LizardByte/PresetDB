@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29524,
+  "name": "Toaster Jam",
+  "source_url": "https://www.igdb.com/games/toaster-jam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44pj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toaster Jam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "590950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/590950",
+        "Linux": "setsid steam steam://rungameid/590950",
+        "macOS": "open steam://rungameid/590950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toaster-jam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29524"
+}
