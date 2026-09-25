@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19175,
+  "name": "Rocket Fist",
+  "source_url": "https://www.igdb.com/games/rocket-fist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27wf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocket Fist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "413500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/413500",
+        "Linux": "setsid steam steam://rungameid/413500",
+        "macOS": "open steam://rungameid/413500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocket-fist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19175"
+}
