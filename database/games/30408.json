@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30408,
+  "name": "Witch It",
+  "source_url": "https://www.igdb.com/games/witch-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/gcpders0notrgskyntou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Witch It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "559650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/559650",
+        "Linux": "setsid steam steam://rungameid/559650",
+        "macOS": "open steam://rungameid/559650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "witch-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30408"
+}
