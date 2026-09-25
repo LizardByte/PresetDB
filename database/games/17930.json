@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17930,
+  "name": "Journey of the King",
+  "source_url": "https://www.igdb.com/games/journey-of-the-king",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa223.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Journey of the King",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327960",
+        "Linux": "setsid steam steam://rungameid/327960",
+        "macOS": "open steam://rungameid/327960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "journey-of-the-king",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17930"
+}
