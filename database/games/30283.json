@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30283,
+  "name": "Warhammer 40,000: Space Wolf",
+  "source_url": "https://www.igdb.com/games/warhammer-40000-space-wolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24kh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warhammer 40,000: Space Wolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553210",
+        "Linux": "setsid steam steam://rungameid/553210",
+        "macOS": "open steam://rungameid/553210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warhammer-40000-space-wolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30283"
+}
