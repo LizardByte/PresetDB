@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30118,
+  "name": "The Deal",
+  "source_url": "https://www.igdb.com/games/the-deal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jlt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Deal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567340",
+        "Linux": "setsid steam steam://rungameid/567340",
+        "macOS": "open steam://rungameid/567340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-deal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30118"
+}
