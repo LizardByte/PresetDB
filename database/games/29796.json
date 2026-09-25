@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29796,
+  "name": "Tiny Wheels",
+  "source_url": "https://www.igdb.com/games/tiny-wheels",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27i6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Wheels",
+      "os": null,
+      "method": "steam",
+      "launch_id": "577850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/577850",
+        "Linux": "setsid steam steam://rungameid/577850",
+        "macOS": "open steam://rungameid/577850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-wheels",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29796"
+}
