@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27986,
+  "name": "Frisky Business",
+  "source_url": "https://www.igdb.com/games/frisky-business",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co216t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frisky Business",
+      "os": null,
+      "method": "steam",
+      "launch_id": "588240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/588240",
+        "Linux": "setsid steam steam://rungameid/588240",
+        "macOS": "open steam://rungameid/588240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frisky-business",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27986"
+}
