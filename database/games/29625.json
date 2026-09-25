@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29625,
+  "name": "Armored Freedom",
+  "source_url": "https://www.igdb.com/games/armored-freedom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23qn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Armored Freedom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "586150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/586150",
+        "Linux": "setsid steam steam://rungameid/586150",
+        "macOS": "open steam://rungameid/586150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "armored-freedom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29625"
+}
