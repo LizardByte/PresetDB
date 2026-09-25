@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18474,
+  "name": "Expand",
+  "source_url": "https://www.igdb.com/games/expand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24rk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Expand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "399780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/399780",
+        "Linux": "setsid steam steam://rungameid/399780",
+        "macOS": "open steam://rungameid/399780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "expand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18474"
+}
