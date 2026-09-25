@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30471,
+  "name": "IRec",
+  "source_url": "https://www.igdb.com/games/irec",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jrq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "IRec",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557260",
+        "Linux": "setsid steam steam://rungameid/557260",
+        "macOS": "open steam://rungameid/557260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "irec",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30471"
+}
