@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19048,
+  "name": "Time Machine VR",
+  "source_url": "https://www.igdb.com/games/time-machine-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h9w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Time Machine VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "356180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/356180",
+        "Linux": "setsid steam steam://rungameid/356180",
+        "macOS": "open steam://rungameid/356180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "time-machine-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19048"
+}
