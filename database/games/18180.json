@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18180,
+  "name": "Atom Universe",
+  "source_url": "https://www.igdb.com/games/atom-universe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co983m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atom Universe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "394120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/394120",
+        "Linux": "setsid steam steam://rungameid/394120",
+        "macOS": "open steam://rungameid/394120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atom-universe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18180"
+}
