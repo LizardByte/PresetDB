@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28753,
+  "name": "Terroir",
+  "source_url": "https://www.igdb.com/games/terroir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sru.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terroir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "559910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/559910",
+        "Linux": "setsid steam steam://rungameid/559910",
+        "macOS": "open steam://rungameid/559910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terroir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28753"
+}
