@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23248,
+  "name": "Frostpunk",
+  "source_url": "https://www.igdb.com/games/frostpunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coar27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frostpunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "323190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/323190",
+        "Linux": "setsid steam steam://rungameid/323190",
+        "macOS": "open steam://rungameid/323190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frostpunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23248"
+}
