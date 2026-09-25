@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18394,
+  "name": "Gremlins, Inc.",
+  "source_url": "https://www.igdb.com/games/gremlins-inc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41gu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gremlins, Inc.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "369990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/369990",
+        "Linux": "setsid steam steam://rungameid/369990",
+        "macOS": "open steam://rungameid/369990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gremlins-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18394"
+}
