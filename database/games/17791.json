@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17791,
+  "name": "Tokyo School Life",
+  "source_url": "https://www.igdb.com/games/tokyo-school-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tokyo School Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "320760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/320760",
+        "Linux": "setsid steam steam://rungameid/320760",
+        "macOS": "open steam://rungameid/320760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tokyo-school-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17791"
+}
