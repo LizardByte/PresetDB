@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18285,
+  "name": "The Last Night",
+  "source_url": "https://www.igdb.com/games/the-last-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22iw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "612400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/612400",
+        "Linux": "setsid steam steam://rungameid/612400",
+        "macOS": "open steam://rungameid/612400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18285"
+}
