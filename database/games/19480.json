@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19480,
+  "name": "The Way",
+  "source_url": "https://www.igdb.com/games/the-way",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2gzu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Way",
+      "os": null,
+      "method": "steam",
+      "launch_id": "311010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/311010",
+        "Linux": "setsid steam steam://rungameid/311010",
+        "macOS": "open steam://rungameid/311010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-way",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19480"
+}
