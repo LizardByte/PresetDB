@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18280,
+  "name": "Them's Fightin' Herds",
+  "source_url": "https://www.igdb.com/games/thems-fightin-herds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5xx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Them's Fightin' Herds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574980",
+        "Linux": "setsid steam steam://rungameid/574980",
+        "macOS": "open steam://rungameid/574980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thems-fightin-herds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18280"
+}
