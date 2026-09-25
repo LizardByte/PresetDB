@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27843,
+  "name": "Guild Wars Trilogy",
+  "source_url": "https://www.igdb.com/games/guild-wars-trilogy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wwj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guild Wars Trilogy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "29570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/29570",
+        "Linux": "setsid steam steam://rungameid/29570",
+        "macOS": "open steam://rungameid/29570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guild-wars-trilogy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27843"
+}
