@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17699,
+  "name": "Parcel",
+  "source_url": "https://www.igdb.com/games/parcel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tfd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Parcel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "316080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/316080",
+        "Linux": "setsid steam steam://rungameid/316080",
+        "macOS": "open steam://rungameid/316080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "parcel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17699"
+}
