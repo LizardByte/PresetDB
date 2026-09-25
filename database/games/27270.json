@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27270,
+  "name": "Payday 3",
+  "source_url": "https://www.igdb.com/games/payday-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocw66.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Payday 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1272080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1272080",
+        "Linux": "setsid steam steam://rungameid/1272080",
+        "macOS": "open steam://rungameid/1272080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "payday-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27270"
+}
