@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22807,
+  "name": "Tempest",
+  "source_url": "https://www.igdb.com/games/tempest--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co31w0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tempest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "418180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/418180",
+        "Linux": "setsid steam steam://rungameid/418180",
+        "macOS": "open steam://rungameid/418180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tempest--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22807"
+}
