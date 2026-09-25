@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19133,
+  "name": "Elsword",
+  "source_url": "https://www.igdb.com/games/elsword",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coauwy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elsword",
+      "os": null,
+      "method": "steam",
+      "launch_id": "237310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/237310",
+        "Linux": "setsid steam steam://rungameid/237310",
+        "macOS": "open steam://rungameid/237310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elsword",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19133"
+}
