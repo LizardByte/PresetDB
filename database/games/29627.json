@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29627,
+  "name": "Mad Dojo",
+  "source_url": "https://www.igdb.com/games/mad-dojo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46s7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Dojo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "586170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/586170",
+        "Linux": "setsid steam steam://rungameid/586170",
+        "macOS": "open steam://rungameid/586170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mad-dojo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29627"
+}
