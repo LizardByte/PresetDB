@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21601,
+  "name": "Shattered Skies",
+  "source_url": "https://www.igdb.com/games/shattered-skies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rac.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shattered Skies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "447500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/447500",
+        "Linux": "setsid steam steam://rungameid/447500",
+        "macOS": "open steam://rungameid/447500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shattered-skies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21601"
+}
