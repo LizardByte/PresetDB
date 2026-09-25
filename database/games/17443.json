@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17443,
+  "name": "Tristoy",
+  "source_url": "https://www.igdb.com/games/tristoy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/bql8xiaancjurecdtwez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tristoy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303260",
+        "Linux": "setsid steam steam://rungameid/303260",
+        "macOS": "open steam://rungameid/303260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tristoy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17443"
+}
