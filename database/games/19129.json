@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19129,
+  "name": "Dungeon League",
+  "source_url": "https://www.igdb.com/games/dungeon-league",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ck8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon League",
+      "os": null,
+      "method": "steam",
+      "launch_id": "362310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/362310",
+        "Linux": "setsid steam steam://rungameid/362310",
+        "macOS": "open steam://rungameid/362310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-league",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19129"
+}
