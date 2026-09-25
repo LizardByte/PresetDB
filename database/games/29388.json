@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29388,
+  "name": "Ovivo",
+  "source_url": "https://www.igdb.com/games/ovivo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z3g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ovivo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "597700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/597700",
+        "Linux": "setsid steam steam://rungameid/597700",
+        "macOS": "open steam://rungameid/597700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ovivo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29388"
+}
