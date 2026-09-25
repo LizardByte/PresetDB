@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20953,
+  "name": "Sparkle Unleashed",
+  "source_url": "https://www.igdb.com/games/sparkle-unleashed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24tp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sparkle Unleashed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "550450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/550450",
+        "Linux": "setsid steam steam://rungameid/550450",
+        "macOS": "open steam://rungameid/550450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sparkle-unleashed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20953"
+}
