@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17512,
+  "name": "Heroes of Issachar",
+  "source_url": "https://www.igdb.com/games/heroes-of-issachar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobonh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes of Issachar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "305720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/305720",
+        "Linux": "setsid steam steam://rungameid/305720",
+        "macOS": "open steam://rungameid/305720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heroes-of-issachar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17512"
+}
