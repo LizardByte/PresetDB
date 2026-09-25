@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22522,
+  "name": "Mutants",
+  "source_url": "https://www.igdb.com/games/mutants",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnoq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mutants",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2449300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2449300",
+        "Linux": "setsid steam steam://rungameid/2449300",
+        "macOS": "open steam://rungameid/2449300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mutants",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22522"
+}
