@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18397,
+  "name": "Event[0]",
+  "source_url": "https://www.igdb.com/games/event-0",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co241t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Event[0]",
+      "os": null,
+      "method": "steam",
+      "launch_id": "470260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/470260",
+        "Linux": "setsid steam steam://rungameid/470260",
+        "macOS": "open steam://rungameid/470260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "event-0",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18397"
+}
