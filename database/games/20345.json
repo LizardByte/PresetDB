@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20345,
+  "name": "Painters Guild",
+  "source_url": "https://www.igdb.com/games/painters-guild",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21fb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Painters Guild",
+      "os": null,
+      "method": "steam",
+      "launch_id": "384550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/384550",
+        "Linux": "setsid steam steam://rungameid/384550",
+        "macOS": "open steam://rungameid/384550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "painters-guild",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20345"
+}
