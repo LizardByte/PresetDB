@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18293,
+  "name": "EverQuest II",
+  "source_url": "https://www.igdb.com/games/everquest-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qf5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EverQuest II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "201230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/201230",
+        "Linux": "setsid steam steam://rungameid/201230",
+        "macOS": "open steam://rungameid/201230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "everquest-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18293"
+}
