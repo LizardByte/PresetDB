@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28803,
+  "name": "Evil Glitch",
+  "source_url": "https://www.igdb.com/games/evil-glitch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2151.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil Glitch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "619890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/619890",
+        "Linux": "setsid steam steam://rungameid/619890",
+        "macOS": "open steam://rungameid/619890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evil-glitch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28803"
+}
