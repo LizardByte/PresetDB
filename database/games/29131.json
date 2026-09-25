@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29131,
+  "name": "Doodle Devil",
+  "source_url": "https://www.igdb.com/games/doodle-devil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9voo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doodle Devil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "608760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/608760",
+        "Linux": "setsid steam steam://rungameid/608760",
+        "macOS": "open steam://rungameid/608760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doodle-devil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29131"
+}
