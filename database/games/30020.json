@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30020,
+  "name": "Space Slam",
+  "source_url": "https://www.igdb.com/games/space-slam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4g4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Slam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568480",
+        "Linux": "setsid steam steam://rungameid/568480",
+        "macOS": "open steam://rungameid/568480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-slam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30020"
+}
