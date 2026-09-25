@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18013,
+  "name": "Dungeon Souls",
+  "source_url": "https://www.igdb.com/games/dungeon-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hkt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "383230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/383230",
+        "Linux": "setsid steam steam://rungameid/383230",
+        "macOS": "open steam://rungameid/383230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18013"
+}
