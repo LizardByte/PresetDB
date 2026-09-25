@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30402,
+  "name": "Power Hover",
+  "source_url": "https://www.igdb.com/games/power-hover",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24qm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Power Hover",
+      "os": null,
+      "method": "steam",
+      "launch_id": "559960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/559960",
+        "Linux": "setsid steam steam://rungameid/559960",
+        "macOS": "open steam://rungameid/559960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "power-hover",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30402"
+}
