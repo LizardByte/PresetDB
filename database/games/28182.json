@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28182,
+  "name": "Reverse Crawl",
+  "source_url": "https://www.igdb.com/games/reverse-crawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1l37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reverse Crawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "400660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/400660",
+        "Linux": "setsid steam steam://rungameid/400660",
+        "macOS": "open steam://rungameid/400660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reverse-crawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28182"
+}
