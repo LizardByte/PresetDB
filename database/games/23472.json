@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23472,
+  "name": "Goosebumps: The Game",
+  "source_url": "https://www.igdb.com/games/goosebumps-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co217j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goosebumps: The Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "361360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/361360",
+        "Linux": "setsid steam steam://rungameid/361360",
+        "macOS": "open steam://rungameid/361360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goosebumps-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23472"
+}
