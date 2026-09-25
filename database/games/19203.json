@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19203,
+  "name": "Mekazoo",
+  "source_url": "https://www.igdb.com/games/mekazoo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ljg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mekazoo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "390330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/390330",
+        "Linux": "setsid steam steam://rungameid/390330",
+        "macOS": "open steam://rungameid/390330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mekazoo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19203"
+}
