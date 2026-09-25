@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23940,
+  "name": "The Maestros",
+  "source_url": "https://www.igdb.com/games/the-maestros",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Maestros",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553560",
+        "Linux": "setsid steam steam://rungameid/553560",
+        "macOS": "open steam://rungameid/553560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-maestros",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23940"
+}
