@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28791,
+  "name": "TankBlitz",
+  "source_url": "https://www.igdb.com/games/tankblitz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6dk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TankBlitz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "620710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/620710",
+        "Linux": "setsid steam steam://rungameid/620710",
+        "macOS": "open steam://rungameid/620710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tankblitz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28791"
+}
