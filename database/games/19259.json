@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19259,
+  "name": "Wander No More",
+  "source_url": "https://www.igdb.com/games/wander-no-more",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0s7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wander No More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "463020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/463020",
+        "Linux": "setsid steam steam://rungameid/463020",
+        "macOS": "open steam://rungameid/463020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wander-no-more",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19259"
+}
