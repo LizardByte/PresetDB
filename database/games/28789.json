@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28789,
+  "name": "Big Hit VR Baseball",
+  "source_url": "https://www.igdb.com/games/big-hit-vr-baseball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29xh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Big Hit VR Baseball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "620800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/620800",
+        "Linux": "setsid steam steam://rungameid/620800",
+        "macOS": "open steam://rungameid/620800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "big-hit-vr-baseball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28789"
+}
