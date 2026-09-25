@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17501,
+  "name": "Fist of Awesome",
+  "source_url": "https://www.igdb.com/games/fist-of-awesome--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gvj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fist of Awesome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "305070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/305070",
+        "Linux": "setsid steam steam://rungameid/305070",
+        "macOS": "open steam://rungameid/305070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fist-of-awesome--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17501"
+}
