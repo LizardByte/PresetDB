@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22743,
+  "name": "Molecats",
+  "source_url": "https://www.igdb.com/games/molecats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co249z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Molecats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "338290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/338290",
+        "Linux": "setsid steam steam://rungameid/338290",
+        "macOS": "open steam://rungameid/338290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "molecats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22743"
+}
