@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25336,
+  "name": "Tethered",
+  "source_url": "https://www.igdb.com/games/tethered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23ea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tethered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "431120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/431120",
+        "Linux": "setsid steam steam://rungameid/431120",
+        "macOS": "open steam://rungameid/431120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tethered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25336"
+}
