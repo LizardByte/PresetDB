@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30265,
+  "name": "Mobile Astro",
+  "source_url": "https://www.igdb.com/games/mobile-astro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d2h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mobile Astro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565110",
+        "Linux": "setsid steam steam://rungameid/565110",
+        "macOS": "open steam://rungameid/565110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mobile-astro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30265"
+}
