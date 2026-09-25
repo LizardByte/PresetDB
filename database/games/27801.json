@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27801,
+  "name": "64.0",
+  "source_url": "https://www.igdb.com/games/64-dot-0",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26ws.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "64.0",
+      "os": null,
+      "method": "steam",
+      "launch_id": "578850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/578850",
+        "Linux": "setsid steam steam://rungameid/578850",
+        "macOS": "open steam://rungameid/578850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "64-dot-0",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27801"
+}
