@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21767,
+  "name": "The Count Lucanor",
+  "source_url": "https://www.igdb.com/games/the-count-lucanor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26z2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Count Lucanor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "440880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/440880",
+        "Linux": "setsid steam steam://rungameid/440880",
+        "macOS": "open steam://rungameid/440880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-count-lucanor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21767"
+}
