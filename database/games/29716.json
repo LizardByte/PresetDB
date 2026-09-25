@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29716,
+  "name": "Super Cuber",
+  "source_url": "https://www.igdb.com/games/super-cuber",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Cuber",
+      "os": null,
+      "method": "steam",
+      "launch_id": "581800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/581800",
+        "Linux": "setsid steam steam://rungameid/581800",
+        "macOS": "open steam://rungameid/581800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-cuber",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29716"
+}
