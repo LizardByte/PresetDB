@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19440,
+  "name": "Agents of Mayhem",
+  "source_url": "https://www.igdb.com/games/agents-of-mayhem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22mh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agents of Mayhem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "304530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/304530",
+        "Linux": "setsid steam steam://rungameid/304530",
+        "macOS": "open steam://rungameid/304530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "agents-of-mayhem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19440"
+}
