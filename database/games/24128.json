@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24128,
+  "name": "Metal Fatigue",
+  "source_url": "https://www.igdb.com/games/metal-fatigue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nuk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Fatigue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888040",
+        "Linux": "setsid steam steam://rungameid/888040",
+        "macOS": "open steam://rungameid/888040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metal-fatigue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24128"
+}
