@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24044,
+  "name": "The Minims",
+  "source_url": "https://www.igdb.com/games/the-minims",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Minims",
+      "os": null,
+      "method": "steam",
+      "launch_id": "442770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/442770",
+        "Linux": "setsid steam steam://rungameid/442770",
+        "macOS": "open steam://rungameid/442770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-minims",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24044"
+}
