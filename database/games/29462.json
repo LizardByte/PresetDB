@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29462,
+  "name": "Moccasin",
+  "source_url": "https://www.igdb.com/games/moccasin",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moccasin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "593290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/593290",
+        "Linux": "setsid steam steam://rungameid/593290",
+        "macOS": "open steam://rungameid/593290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moccasin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29462"
+}
