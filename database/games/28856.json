@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28856,
+  "name": "The Crew 2",
+  "source_url": "https://www.igdb.com/games/the-crew-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab5o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Crew 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "646910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/646910",
+        "Linux": "setsid steam steam://rungameid/646910",
+        "macOS": "open steam://rungameid/646910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-crew-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28856"
+}
