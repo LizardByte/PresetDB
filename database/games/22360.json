@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22360,
+  "name": "Ziba",
+  "source_url": "https://www.igdb.com/games/ziba",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2f5d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ziba",
+      "os": null,
+      "method": "steam",
+      "launch_id": "554720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/554720",
+        "Linux": "setsid steam steam://rungameid/554720",
+        "macOS": "open steam://rungameid/554720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ziba",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22360"
+}
