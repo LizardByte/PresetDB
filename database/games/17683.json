@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17683,
+  "name": "Polarity",
+  "source_url": "https://www.igdb.com/games/polarity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86fv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polarity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315430",
+        "Linux": "setsid steam steam://rungameid/315430",
+        "macOS": "open steam://rungameid/315430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polarity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17683"
+}
