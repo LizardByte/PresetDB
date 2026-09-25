@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29410,
+  "name": "Hyper Knights",
+  "source_url": "https://www.igdb.com/games/hyper-knights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bo7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyper Knights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "597150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/597150",
+        "Linux": "setsid steam steam://rungameid/597150",
+        "macOS": "open steam://rungameid/597150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyper-knights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29410"
+}
