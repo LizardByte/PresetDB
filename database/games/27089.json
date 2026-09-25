@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27089,
+  "name": "Stars in Shadow",
+  "source_url": "https://www.igdb.com/games/stars-in-shadow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24u1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stars in Shadow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "464880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/464880",
+        "Linux": "setsid steam steam://rungameid/464880",
+        "macOS": "open steam://rungameid/464880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stars-in-shadow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27089"
+}
