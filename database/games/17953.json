@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17953,
+  "name": "Koya Rift",
+  "source_url": "https://www.igdb.com/games/koya-rift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Koya Rift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "328990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/328990",
+        "Linux": "setsid steam steam://rungameid/328990",
+        "macOS": "open steam://rungameid/328990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "koya-rift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17953"
+}
