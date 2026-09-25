@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20176,
+  "name": "Ben and Ed",
+  "source_url": "https://www.igdb.com/games/ben-and-ed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9r9j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ben and Ed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395200",
+        "Linux": "setsid steam steam://rungameid/395200",
+        "macOS": "open steam://rungameid/395200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ben-and-ed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20176"
+}
