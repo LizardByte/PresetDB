@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29645,
+  "name": "Mortem",
+  "source_url": "https://www.igdb.com/games/mortem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mortem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "585740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/585740",
+        "Linux": "setsid steam steam://rungameid/585740",
+        "macOS": "open steam://rungameid/585740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mortem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29645"
+}
