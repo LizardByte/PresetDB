@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17595,
+  "name": "Isomer",
+  "source_url": "https://www.igdb.com/games/isomer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa21y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Isomer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "311980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/311980",
+        "Linux": "setsid steam steam://rungameid/311980",
+        "macOS": "open steam://rungameid/311980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "isomer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17595"
+}
