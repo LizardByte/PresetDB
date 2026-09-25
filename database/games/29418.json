@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29418,
+  "name": "Flix and Chill",
+  "source_url": "https://www.igdb.com/games/flix-and-chill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2169.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flix and Chill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "595460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/595460",
+        "Linux": "setsid steam steam://rungameid/595460",
+        "macOS": "open steam://rungameid/595460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flix-and-chill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29418"
+}
