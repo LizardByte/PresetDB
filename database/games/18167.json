@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18167,
+  "name": "Hello Neighbor",
+  "source_url": "https://www.igdb.com/games/hello-neighbor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hello Neighbor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "521890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/521890",
+        "Linux": "setsid steam steam://rungameid/521890",
+        "macOS": "open steam://rungameid/521890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hello-neighbor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18167"
+}
