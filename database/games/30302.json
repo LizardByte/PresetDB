@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30302,
+  "name": "Void Pyramid",
+  "source_url": "https://www.igdb.com/games/void-pyramid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4v8b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Pyramid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "563430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/563430",
+        "Linux": "setsid steam steam://rungameid/563430",
+        "macOS": "open steam://rungameid/563430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-pyramid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30302"
+}
