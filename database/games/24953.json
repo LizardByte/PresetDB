@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24953,
+  "name": "Crush Online",
+  "source_url": "https://www.igdb.com/games/crush-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ptu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crush Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "475630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/475630",
+        "Linux": "setsid steam steam://rungameid/475630",
+        "macOS": "open steam://rungameid/475630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crush-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24953"
+}
