@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25074,
+  "name": "Pac-Man Museum",
+  "source_url": "https://www.igdb.com/games/pac-man-museum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbcv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pac-Man Museum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "236470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/236470",
+        "Linux": "setsid steam steam://rungameid/236470",
+        "macOS": "open steam://rungameid/236470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pac-man-museum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25074"
+}
