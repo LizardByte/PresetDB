@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29973,
+  "name": "Naughty or Nice",
+  "source_url": "https://www.igdb.com/games/naughty-or-nice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob37x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Naughty or Nice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574780",
+        "Linux": "setsid steam steam://rungameid/574780",
+        "macOS": "open steam://rungameid/574780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "naughty-or-nice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29973"
+}
