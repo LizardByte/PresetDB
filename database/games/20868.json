@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20868,
+  "name": "Duke Nukem 3D: Megaton Edition",
+  "source_url": "https://www.igdb.com/games/duke-nukem-3d-megaton-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duke Nukem 3D: Megaton Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "225140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/225140",
+        "Linux": "setsid steam steam://rungameid/225140",
+        "macOS": "open steam://rungameid/225140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duke-nukem-3d-megaton-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20868"
+}
