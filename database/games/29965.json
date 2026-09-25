@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29965,
+  "name": "Dude, Stop",
+  "source_url": "https://www.igdb.com/games/dude-stop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21m0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dude, Stop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574560",
+        "Linux": "setsid steam steam://rungameid/574560",
+        "macOS": "open steam://rungameid/574560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dude-stop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29965"
+}
