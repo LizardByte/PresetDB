@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29250,
+  "name": "Caveman Warriors",
+  "source_url": "https://www.igdb.com/games/caveman-warriors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1iep.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caveman Warriors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603420",
+        "Linux": "setsid steam steam://rungameid/603420",
+        "macOS": "open steam://rungameid/603420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "caveman-warriors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29250"
+}
