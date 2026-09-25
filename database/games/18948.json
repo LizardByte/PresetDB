@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18948,
+  "name": "Lance A Lot",
+  "source_url": "https://www.igdb.com/games/lance-a-lot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co454x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lance A Lot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "495900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/495900",
+        "Linux": "setsid steam steam://rungameid/495900",
+        "macOS": "open steam://rungameid/495900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lance-a-lot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18948"
+}
