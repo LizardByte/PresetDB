@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26188,
+  "name": "Behold the Kickmen",
+  "source_url": "https://www.igdb.com/games/behold-the-kickmen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53pb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Behold the Kickmen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "529440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/529440",
+        "Linux": "setsid steam steam://rungameid/529440",
+        "macOS": "open steam://rungameid/529440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "behold-the-kickmen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26188"
+}
