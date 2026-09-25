@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23191,
+  "name": "Goat MMO Simulator",
+  "source_url": "https://www.igdb.com/games/goat-mmo-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj9w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goat MMO Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331380",
+        "Linux": "setsid steam steam://rungameid/331380",
+        "macOS": "open steam://rungameid/331380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goat-mmo-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23191"
+}
