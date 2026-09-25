@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30359,
+  "name": "Just Ignore Them",
+  "source_url": "https://www.igdb.com/games/just-ignore-them",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5xge.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just Ignore Them",
+      "os": null,
+      "method": "steam",
+      "launch_id": "561770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/561770",
+        "Linux": "setsid steam steam://rungameid/561770",
+        "macOS": "open steam://rungameid/561770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-ignore-them",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30359"
+}
