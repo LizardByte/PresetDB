@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30011,
+  "name": "Zero-G",
+  "source_url": "https://www.igdb.com/games/zero-g",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/vermxkk9izi0gaqn2uao.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zero-G",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567890",
+        "Linux": "setsid steam steam://rungameid/567890",
+        "macOS": "open steam://rungameid/567890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zero-g",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30011"
+}
