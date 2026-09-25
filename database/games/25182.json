@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25182,
+  "name": "Pixel Gear",
+  "source_url": "https://www.igdb.com/games/pixel-gear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79fi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Gear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "618650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/618650",
+        "Linux": "setsid steam steam://rungameid/618650",
+        "macOS": "open steam://rungameid/618650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-gear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25182"
+}
