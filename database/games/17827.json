@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17827,
+  "name": "Disorder",
+  "source_url": "https://www.igdb.com/games/disorder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30ds.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disorder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "322080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/322080",
+        "Linux": "setsid steam steam://rungameid/322080",
+        "macOS": "open steam://rungameid/322080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "disorder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17827"
+}
