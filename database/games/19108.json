@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19108,
+  "name": "Story of a Cube",
+  "source_url": "https://www.igdb.com/games/story-of-a-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2264.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Story of a Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "440750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/440750",
+        "Linux": "setsid steam steam://rungameid/440750",
+        "macOS": "open steam://rungameid/440750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "story-of-a-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19108"
+}
