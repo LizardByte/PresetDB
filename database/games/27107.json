@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27107,
+  "name": "Lost Region",
+  "source_url": "https://www.igdb.com/games/lost-region",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45g1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Region",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331810",
+        "Linux": "setsid steam steam://rungameid/331810",
+        "macOS": "open steam://rungameid/331810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-region",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27107"
+}
