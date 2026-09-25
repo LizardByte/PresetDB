@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30466,
+  "name": "GemWars",
+  "source_url": "https://www.igdb.com/games/gemwars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkke.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GemWars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "556830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/556830",
+        "Linux": "setsid steam steam://rungameid/556830",
+        "macOS": "open steam://rungameid/556830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gemwars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30466"
+}
