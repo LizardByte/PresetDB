@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17548,
+  "name": "Savage Lands",
+  "source_url": "https://www.igdb.com/games/savage-lands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocshx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Savage Lands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "307880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/307880",
+        "Linux": "setsid steam steam://rungameid/307880",
+        "macOS": "open steam://rungameid/307880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "savage-lands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17548"
+}
