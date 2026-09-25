@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18475,
+  "name": "The Lonesome Fog",
+  "source_url": "https://www.igdb.com/games/the-lonesome-fog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43xx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lonesome Fog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "446830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/446830",
+        "Linux": "setsid steam steam://rungameid/446830",
+        "macOS": "open steam://rungameid/446830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lonesome-fog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18475"
+}
