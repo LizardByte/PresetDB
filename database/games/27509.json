@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27509,
+  "name": "Heaven's Vault",
+  "source_url": "https://www.igdb.com/games/heavens-vault",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2t94.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heaven's Vault",
+      "os": null,
+      "method": "steam",
+      "launch_id": "774201",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/774201",
+        "Linux": "setsid steam steam://rungameid/774201",
+        "macOS": "open steam://rungameid/774201"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heavens-vault",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27509"
+}
