@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28297,
+  "name": "Slowdrive",
+  "source_url": "https://www.igdb.com/games/slowdrive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slowdrive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "592300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/592300",
+        "Linux": "setsid steam steam://rungameid/592300",
+        "macOS": "open steam://rungameid/592300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slowdrive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28297"
+}
