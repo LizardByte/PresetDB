@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30187,
+  "name": "Evertree Inn",
+  "source_url": "https://www.igdb.com/games/evertree-inn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84r9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evertree Inn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565980",
+        "Linux": "setsid steam steam://rungameid/565980",
+        "macOS": "open steam://rungameid/565980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evertree-inn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30187"
+}
