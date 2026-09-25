@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28076,
+  "name": "HackyZack",
+  "source_url": "https://www.igdb.com/games/hackyzack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ixb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HackyZack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "508530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/508530",
+        "Linux": "setsid steam steam://rungameid/508530",
+        "macOS": "open steam://rungameid/508530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hackyzack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28076"
+}
