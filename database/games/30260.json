@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30260,
+  "name": "Twisted",
+  "source_url": "https://www.igdb.com/games/twisted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnvb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twisted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "565330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/565330",
+        "Linux": "setsid steam steam://rungameid/565330",
+        "macOS": "open steam://rungameid/565330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twisted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30260"
+}
