@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30115,
+  "name": "Orbiz",
+  "source_url": "https://www.igdb.com/games/orbiz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21f6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Orbiz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "572480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/572480",
+        "Linux": "setsid steam steam://rungameid/572480",
+        "macOS": "open steam://rungameid/572480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "orbiz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30115"
+}
