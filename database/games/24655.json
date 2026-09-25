@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24655,
+  "name": "Caromble!",
+  "source_url": "https://www.igdb.com/games/caromble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pnp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caromble!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "347660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/347660",
+        "Linux": "setsid steam steam://rungameid/347660",
+        "macOS": "open steam://rungameid/347660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "caromble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24655"
+}
