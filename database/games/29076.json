@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29076,
+  "name": "Welcome to Hanwell",
+  "source_url": "https://www.igdb.com/games/welcome-to-hanwell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co222w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Hanwell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "611750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/611750",
+        "Linux": "setsid steam steam://rungameid/611750",
+        "macOS": "open steam://rungameid/611750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-hanwell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29076"
+}
