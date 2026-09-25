@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29312,
+  "name": "Rota Craze",
+  "source_url": "https://www.igdb.com/games/rota-craze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpn3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rota Craze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "602040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/602040",
+        "Linux": "setsid steam steam://rungameid/602040",
+        "macOS": "open steam://rungameid/602040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rota-craze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29312"
+}
