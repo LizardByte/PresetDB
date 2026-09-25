@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30427,
+  "name": "Club Naughty",
+  "source_url": "https://www.igdb.com/games/club-naughty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2t5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Club Naughty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "558870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/558870",
+        "Linux": "setsid steam steam://rungameid/558870",
+        "macOS": "open steam://rungameid/558870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "club-naughty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30427"
+}
