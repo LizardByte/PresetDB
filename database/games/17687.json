@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17687,
+  "name": "Spud's Quest",
+  "source_url": "https://www.igdb.com/games/spuds-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jy5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spud's Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315610",
+        "Linux": "setsid steam steam://rungameid/315610",
+        "macOS": "open steam://rungameid/315610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spuds-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17687"
+}
