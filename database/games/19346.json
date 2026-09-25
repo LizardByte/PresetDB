@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19346,
+  "name": "ZeGame",
+  "source_url": "https://www.igdb.com/games/zegame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rxp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZeGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "437520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/437520",
+        "Linux": "setsid steam steam://rungameid/437520",
+        "macOS": "open steam://rungameid/437520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zegame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19346"
+}
