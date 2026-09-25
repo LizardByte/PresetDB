@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17729,
+  "name": "Congo",
+  "source_url": "https://www.igdb.com/games/congo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49vf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Congo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "317530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/317530",
+        "Linux": "setsid steam steam://rungameid/317530",
+        "macOS": "open steam://rungameid/317530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "congo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17729"
+}
