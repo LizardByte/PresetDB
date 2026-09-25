@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26204,
+  "name": "Project Abyss",
+  "source_url": "https://www.igdb.com/games/project-abyss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1j9i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Abyss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "552410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/552410",
+        "Linux": "setsid steam steam://rungameid/552410",
+        "macOS": "open steam://rungameid/552410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-abyss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26204"
+}
