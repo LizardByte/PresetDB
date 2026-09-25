@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26363,
+  "name": "Splasher",
+  "source_url": "https://www.igdb.com/games/splasher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z3z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Splasher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "446840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/446840",
+        "Linux": "setsid steam steam://rungameid/446840",
+        "macOS": "open steam://rungameid/446840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "splasher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26363"
+}
