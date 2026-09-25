@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23722,
+  "name": "Brave Dungeon",
+  "source_url": "https://www.igdb.com/games/brave-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co52ma.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "523790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/523790",
+        "Linux": "setsid steam steam://rungameid/523790",
+        "macOS": "open steam://rungameid/523790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brave-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23722"
+}
