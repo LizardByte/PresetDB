@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28041,
+  "name": "Towns",
+  "source_url": "https://www.igdb.com/games/towns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Towns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "221020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/221020",
+        "Linux": "setsid steam steam://rungameid/221020",
+        "macOS": "open steam://rungameid/221020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "towns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28041"
+}
