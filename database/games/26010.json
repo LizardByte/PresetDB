@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26010,
+  "name": "Z-Exemplar",
+  "source_url": "https://www.igdb.com/games/z-exemplar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/bwstpbrbadcehcjjuqms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Z-Exemplar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434750",
+        "Linux": "setsid steam steam://rungameid/434750",
+        "macOS": "open steam://rungameid/434750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "z-exemplar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26010"
+}
