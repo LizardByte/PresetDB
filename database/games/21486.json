@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21486,
+  "name": "LostWinds",
+  "source_url": "https://www.igdb.com/games/lostwinds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1plt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LostWinds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "447780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/447780",
+        "Linux": "setsid steam steam://rungameid/447780",
+        "macOS": "open steam://rungameid/447780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lostwinds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21486"
+}
