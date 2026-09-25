@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18126,
+  "name": "Hypersensitive Bob",
+  "source_url": "https://www.igdb.com/games/hypersensitive-bob",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jpj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hypersensitive Bob",
+      "os": null,
+      "method": "steam",
+      "launch_id": "444270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/444270",
+        "Linux": "setsid steam steam://rungameid/444270",
+        "macOS": "open steam://rungameid/444270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hypersensitive-bob",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18126"
+}
