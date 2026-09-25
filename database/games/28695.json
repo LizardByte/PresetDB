@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28695,
+  "name": "One Strike",
+  "source_url": "https://www.igdb.com/games/one-strike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27xq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Strike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "718730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/718730",
+        "Linux": "setsid steam steam://rungameid/718730",
+        "macOS": "open steam://rungameid/718730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-strike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28695"
+}
