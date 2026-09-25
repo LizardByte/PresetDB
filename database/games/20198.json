@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20198,
+  "name": "BoxesWithGuns",
+  "source_url": "https://www.igdb.com/games/boxeswithguns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BoxesWithGuns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "342520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/342520",
+        "Linux": "setsid steam steam://rungameid/342520",
+        "macOS": "open steam://rungameid/342520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boxeswithguns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20198"
+}
