@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20122,
+  "name": "Sometimes Always Monsters",
+  "source_url": "https://www.igdb.com/games/sometimes-always-monsters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m8l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sometimes Always Monsters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "441440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/441440",
+        "Linux": "setsid steam steam://rungameid/441440",
+        "macOS": "open steam://rungameid/441440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sometimes-always-monsters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20122"
+}
