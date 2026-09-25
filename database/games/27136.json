@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27136,
+  "name": "Blocks",
+  "source_url": "https://www.igdb.com/games/blocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dlw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "533970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/533970",
+        "Linux": "setsid steam steam://rungameid/533970",
+        "macOS": "open steam://rungameid/533970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27136"
+}
