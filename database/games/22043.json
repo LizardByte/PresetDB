@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22043,
+  "name": "Hypnorain",
+  "source_url": "https://www.igdb.com/games/hypnorain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43fz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hypnorain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "495230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/495230",
+        "Linux": "setsid steam steam://rungameid/495230",
+        "macOS": "open steam://rungameid/495230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hypnorain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22043"
+}
