@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19728,
+  "name": "Huntdown",
+  "source_url": "https://www.igdb.com/games/huntdown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26jr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Huntdown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "598550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/598550",
+        "Linux": "setsid steam steam://rungameid/598550",
+        "macOS": "open steam://rungameid/598550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "huntdown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19728"
+}
