@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25229,
+  "name": "Dwarrows",
+  "source_url": "https://www.igdb.com/games/dwarrows",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wn9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dwarrows",
+      "os": null,
+      "method": "steam",
+      "launch_id": "532750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/532750",
+        "Linux": "setsid steam steam://rungameid/532750",
+        "macOS": "open steam://rungameid/532750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dwarrows",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25229"
+}
