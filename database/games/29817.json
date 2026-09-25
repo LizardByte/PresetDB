@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29817,
+  "name": "Seclusion",
+  "source_url": "https://www.igdb.com/games/seclusion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4fw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seclusion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "578740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/578740",
+        "Linux": "setsid steam steam://rungameid/578740",
+        "macOS": "open steam://rungameid/578740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seclusion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29817"
+}
