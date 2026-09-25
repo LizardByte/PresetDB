@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26847,
+  "name": "2Dark",
+  "source_url": "https://www.igdb.com/games/2dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22je.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "2Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "435100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/435100",
+        "Linux": "setsid steam steam://rungameid/435100",
+        "macOS": "open steam://rungameid/435100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "2dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26847"
+}
