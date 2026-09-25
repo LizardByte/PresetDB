@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28967,
+  "name": "Soul Harvest",
+  "source_url": "https://www.igdb.com/games/soul-harvest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27dr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soul Harvest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "425260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/425260",
+        "Linux": "setsid steam steam://rungameid/425260",
+        "macOS": "open steam://rungameid/425260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soul-harvest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28967"
+}
