@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28168,
+  "name": "Code Vein",
+  "source_url": "https://www.igdb.com/games/code-vein",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r69.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Code Vein",
+      "os": null,
+      "method": "steam",
+      "launch_id": "678960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/678960",
+        "Linux": "setsid steam steam://rungameid/678960",
+        "macOS": "open steam://rungameid/678960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "code-vein",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28168"
+}
