@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18157,
+  "name": "The Town of Light",
+  "source_url": "https://www.igdb.com/games/the-town-of-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20cu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Town of Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433100",
+        "Linux": "setsid steam steam://rungameid/433100",
+        "macOS": "open steam://rungameid/433100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-town-of-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18157"
+}
