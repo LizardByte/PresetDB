@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26876,
+  "name": "O3DX",
+  "source_url": "https://www.igdb.com/games/o3dx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3rt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "O3DX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "363270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/363270",
+        "Linux": "setsid steam steam://rungameid/363270",
+        "macOS": "open steam://rungameid/363270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "o3dx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26876"
+}
