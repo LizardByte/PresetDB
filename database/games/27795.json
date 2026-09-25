@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27795,
+  "name": "Coffee Noir",
+  "source_url": "https://www.igdb.com/games/coffee-noir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wl3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coffee Noir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "855550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/855550",
+        "Linux": "setsid steam steam://rungameid/855550",
+        "macOS": "open steam://rungameid/855550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coffee-noir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27795"
+}
