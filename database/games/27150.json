@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27150,
+  "name": "Minion Masters",
+  "source_url": "https://www.igdb.com/games/minion-masters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8scr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minion Masters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "489520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/489520",
+        "Linux": "setsid steam steam://rungameid/489520",
+        "macOS": "open steam://rungameid/489520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minion-masters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27150"
+}
