@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29324,
+  "name": "Laser Strikers",
+  "source_url": "https://www.igdb.com/games/laser-strikers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bv1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Laser Strikers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600500",
+        "Linux": "setsid steam steam://rungameid/600500",
+        "macOS": "open steam://rungameid/600500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "laser-strikers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29324"
+}
