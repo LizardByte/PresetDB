@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18403,
+  "name": "Fantastic Contraption",
+  "source_url": "https://www.igdb.com/games/fantastic-contraption",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co237i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantastic Contraption",
+      "os": null,
+      "method": "steam",
+      "launch_id": "386690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/386690",
+        "Linux": "setsid steam steam://rungameid/386690",
+        "macOS": "open steam://rungameid/386690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantastic-contraption",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18403"
+}
