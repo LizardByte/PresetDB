@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23636,
+  "name": "TheHunter Classic",
+  "source_url": "https://www.igdb.com/games/thehunter-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u12.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TheHunter Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "253710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/253710",
+        "Linux": "setsid steam steam://rungameid/253710",
+        "macOS": "open steam://rungameid/253710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thehunter-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23636"
+}
