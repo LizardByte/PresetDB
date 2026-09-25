@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29764,
+  "name": "Little Diggel",
+  "source_url": "https://www.igdb.com/games/little-diggel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co240g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Diggel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "580960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/580960",
+        "Linux": "setsid steam steam://rungameid/580960",
+        "macOS": "open steam://rungameid/580960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-diggel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29764"
+}
