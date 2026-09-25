@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29948,
+  "name": "Red",
+  "source_url": "https://www.igdb.com/games/red",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82p2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red",
+      "os": null,
+      "method": "steam",
+      "launch_id": "573770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/573770",
+        "Linux": "setsid steam steam://rungameid/573770",
+        "macOS": "open steam://rungameid/573770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29948"
+}
