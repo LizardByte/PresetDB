@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17812,
+  "name": "The Flying Dutchman",
+  "source_url": "https://www.igdb.com/games/the-flying-dutchman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2szp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Flying Dutchman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "321600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/321600",
+        "Linux": "setsid steam steam://rungameid/321600",
+        "macOS": "open steam://rungameid/321600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-flying-dutchman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17812"
+}
