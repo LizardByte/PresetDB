@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30026,
+  "name": "Trapped Souls",
+  "source_url": "https://www.igdb.com/games/trapped-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8x4x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trapped Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568670",
+        "Linux": "setsid steam steam://rungameid/568670",
+        "macOS": "open steam://rungameid/568670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trapped-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30026"
+}
