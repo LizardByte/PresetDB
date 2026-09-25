@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28319,
+  "name": "Apocalipsis",
+  "source_url": "https://www.igdb.com/games/apocalipsis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28u9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apocalipsis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "505330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/505330",
+        "Linux": "setsid steam steam://rungameid/505330",
+        "macOS": "open steam://rungameid/505330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "apocalipsis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28319"
+}
