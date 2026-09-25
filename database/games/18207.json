@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18207,
+  "name": "Binaries",
+  "source_url": "https://www.igdb.com/games/binaries",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26x6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Binaries",
+      "os": null,
+      "method": "steam",
+      "launch_id": "435800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/435800",
+        "Linux": "setsid steam steam://rungameid/435800",
+        "macOS": "open steam://rungameid/435800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "binaries",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18207"
+}
