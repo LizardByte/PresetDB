@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19040,
+  "name": "Valiant",
+  "source_url": "https://www.igdb.com/games/valiant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/u43lfeulmlwqlc606pkf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valiant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "344180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/344180",
+        "Linux": "setsid steam steam://rungameid/344180",
+        "macOS": "open steam://rungameid/344180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "valiant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19040"
+}
