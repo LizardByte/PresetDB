@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30021,
+  "name": "Frog Hop",
+  "source_url": "https://www.igdb.com/games/frog-hop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26w5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frog Hop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568490",
+        "Linux": "setsid steam steam://rungameid/568490",
+        "macOS": "open steam://rungameid/568490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frog-hop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30021"
+}
