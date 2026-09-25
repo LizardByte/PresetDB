@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30040,
+  "name": "Revenge Quest",
+  "source_url": "https://www.igdb.com/games/revenge-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob38a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revenge Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "569130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/569130",
+        "Linux": "setsid steam steam://rungameid/569130",
+        "macOS": "open steam://rungameid/569130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "revenge-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30040"
+}
