@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19883,
+  "name": "Back in 1995",
+  "source_url": "https://www.igdb.com/games/back-in-1995",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2301.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Back in 1995",
+      "os": null,
+      "method": "steam",
+      "launch_id": "433380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/433380",
+        "Linux": "setsid steam steam://rungameid/433380",
+        "macOS": "open steam://rungameid/433380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "back-in-1995",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19883"
+}
