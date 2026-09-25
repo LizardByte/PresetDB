@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26677,
+  "name": "Subsiege",
+  "source_url": "https://www.igdb.com/games/subsiege",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jwb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Subsiege",
+      "os": null,
+      "method": "steam",
+      "launch_id": "338640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/338640",
+        "Linux": "setsid steam steam://rungameid/338640",
+        "macOS": "open steam://rungameid/338640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "subsiege",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26677"
+}
