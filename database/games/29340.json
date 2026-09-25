@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29340,
+  "name": "Trance VR",
+  "source_url": "https://www.igdb.com/games/trance-vr",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trance VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601080",
+        "Linux": "setsid steam steam://rungameid/601080",
+        "macOS": "open steam://rungameid/601080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trance-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29340"
+}
