@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29295,
+  "name": "Shadow of Conquest",
+  "source_url": "https://www.igdb.com/games/shadow-of-conquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobngq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow of Conquest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603240",
+        "Linux": "setsid steam steam://rungameid/603240",
+        "macOS": "open steam://rungameid/603240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-of-conquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29295"
+}
