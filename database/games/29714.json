@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29714,
+  "name": "Judas",
+  "source_url": "https://www.igdb.com/games/judas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53zv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Judas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "581820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/581820",
+        "Linux": "setsid steam steam://rungameid/581820",
+        "macOS": "open steam://rungameid/581820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "judas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29714"
+}
