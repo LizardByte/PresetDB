@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29292,
+  "name": "Happy Campers",
+  "source_url": "https://www.igdb.com/games/happy-campers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g2t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Campers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603120",
+        "Linux": "setsid steam steam://rungameid/603120",
+        "macOS": "open steam://rungameid/603120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "happy-campers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29292"
+}
