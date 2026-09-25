@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29244,
+  "name": "Broccoli Bob",
+  "source_url": "https://www.igdb.com/games/broccoli-bob",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zhp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Broccoli Bob",
+      "os": null,
+      "method": "steam",
+      "launch_id": "604140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/604140",
+        "Linux": "setsid steam steam://rungameid/604140",
+        "macOS": "open steam://rungameid/604140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "broccoli-bob",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29244"
+}
