@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29320,
+  "name": "Planet of Mubu",
+  "source_url": "https://www.igdb.com/games/planet-of-mubu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1o51.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planet of Mubu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "602170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/602170",
+        "Linux": "setsid steam steam://rungameid/602170",
+        "macOS": "open steam://rungameid/602170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planet-of-mubu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29320"
+}
