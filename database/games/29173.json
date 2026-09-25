@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29173,
+  "name": "Startup Company",
+  "source_url": "https://www.igdb.com/games/startup-company",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coce31.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Startup Company",
+      "os": null,
+      "method": "steam",
+      "launch_id": "606800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/606800",
+        "Linux": "setsid steam steam://rungameid/606800",
+        "macOS": "open steam://rungameid/606800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "startup-company",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29173"
+}
