@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17626,
+  "name": "Pixel Hunter",
+  "source_url": "https://www.igdb.com/games/pixel-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61bf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "313040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/313040",
+        "Linux": "setsid steam steam://rungameid/313040",
+        "macOS": "open steam://rungameid/313040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17626"
+}
