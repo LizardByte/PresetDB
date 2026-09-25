@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30092,
+  "name": "Old Friend",
+  "source_url": "https://www.igdb.com/games/old-friend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob387.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Old Friend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "570000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/570000",
+        "Linux": "setsid steam steam://rungameid/570000",
+        "macOS": "open steam://rungameid/570000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "old-friend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30092"
+}
