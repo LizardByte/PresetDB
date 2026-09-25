@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29275,
+  "name": "Free Towns",
+  "source_url": "https://www.igdb.com/games/free-towns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bg5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Free Towns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "602180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/602180",
+        "Linux": "setsid steam steam://rungameid/602180",
+        "macOS": "open steam://rungameid/602180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "free-towns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29275"
+}
