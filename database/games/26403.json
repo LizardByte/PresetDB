@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26403,
+  "name": "Days of War",
+  "source_url": "https://www.igdb.com/games/days-of-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24nq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Days of War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "454350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/454350",
+        "Linux": "setsid steam steam://rungameid/454350",
+        "macOS": "open steam://rungameid/454350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "days-of-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26403"
+}
