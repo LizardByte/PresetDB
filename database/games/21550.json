@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21550,
+  "name": "Paparazzi",
+  "source_url": "https://www.igdb.com/games/paparazzi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6uy7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paparazzi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "341360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/341360",
+        "Linux": "setsid steam steam://rungameid/341360",
+        "macOS": "open steam://rungameid/341360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paparazzi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21550"
+}
