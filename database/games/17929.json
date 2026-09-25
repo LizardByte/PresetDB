@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17929,
+  "name": "Salt",
+  "source_url": "https://www.igdb.com/games/salt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mpr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Salt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327860",
+        "Linux": "setsid steam steam://rungameid/327860",
+        "macOS": "open steam://rungameid/327860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "salt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17929"
+}
