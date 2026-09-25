@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27671,
+  "name": "ARC Continuum",
+  "source_url": "https://www.igdb.com/games/arc-continuum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23qf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ARC Continuum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "543050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/543050",
+        "Linux": "setsid steam steam://rungameid/543050",
+        "macOS": "open steam://rungameid/543050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arc-continuum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27671"
+}
