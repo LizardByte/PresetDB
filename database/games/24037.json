@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24037,
+  "name": "Three Digits",
+  "source_url": "https://www.igdb.com/games/three-digits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h79.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Three Digits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "390570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/390570",
+        "Linux": "setsid steam steam://rungameid/390570",
+        "macOS": "open steam://rungameid/390570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "three-digits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24037"
+}
