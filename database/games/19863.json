@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19863,
+  "name": "Push Me Pull You",
+  "source_url": "https://www.igdb.com/games/push-me-pull-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y48.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Push Me Pull You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "362380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/362380",
+        "Linux": "setsid steam steam://rungameid/362380",
+        "macOS": "open steam://rungameid/362380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "push-me-pull-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19863"
+}
