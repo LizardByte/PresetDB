@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18462,
+  "name": "Star Sky 2",
+  "source_url": "https://www.igdb.com/games/star-sky-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4229.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Sky 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "443460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/443460",
+        "Linux": "setsid steam steam://rungameid/443460",
+        "macOS": "open steam://rungameid/443460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-sky-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18462"
+}
