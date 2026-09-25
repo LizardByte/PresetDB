@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30312,
+  "name": "Adventures of Hooi",
+  "source_url": "https://www.igdb.com/games/adventures-of-hooi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhlb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventures of Hooi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "563140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/563140",
+        "Linux": "setsid steam steam://rungameid/563140",
+        "macOS": "open steam://rungameid/563140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "adventures-of-hooi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30312"
+}
