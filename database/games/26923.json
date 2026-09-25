@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26923,
+  "name": "Crash Force",
+  "source_url": "https://www.igdb.com/games/crash-force",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2alh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crash Force",
+      "os": null,
+      "method": "steam",
+      "launch_id": "535690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/535690",
+        "Linux": "setsid steam steam://rungameid/535690",
+        "macOS": "open steam://rungameid/535690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crash-force",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26923"
+}
