@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28691,
+  "name": "Pobeda",
+  "source_url": "https://www.igdb.com/games/pobeda",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0a9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pobeda",
+      "os": null,
+      "method": "steam",
+      "launch_id": "623580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/623580",
+        "Linux": "setsid steam steam://rungameid/623580",
+        "macOS": "open steam://rungameid/623580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pobeda",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28691"
+}
