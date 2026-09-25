@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30226,
+  "name": "Luxor 2 HD",
+  "source_url": "https://www.igdb.com/games/luxor-2-hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pyh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Luxor 2 HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "234350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/234350",
+        "Linux": "setsid steam steam://rungameid/234350",
+        "macOS": "open steam://rungameid/234350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "luxor-2-hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30226"
+}
