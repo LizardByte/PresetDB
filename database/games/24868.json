@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24868,
+  "name": "Polybius",
+  "source_url": "https://www.igdb.com/games/polybius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2gxn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polybius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906120",
+        "Linux": "setsid steam steam://rungameid/906120",
+        "macOS": "open steam://rungameid/906120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polybius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24868"
+}
