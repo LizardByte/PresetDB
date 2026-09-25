@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26221,
+  "name": "Bullshot",
+  "source_url": "https://www.igdb.com/games/bullshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mmz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bullshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "436530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/436530",
+        "Linux": "setsid steam steam://rungameid/436530",
+        "macOS": "open steam://rungameid/436530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bullshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26221"
+}
