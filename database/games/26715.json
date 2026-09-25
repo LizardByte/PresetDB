@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26715,
+  "name": "Standby",
+  "source_url": "https://www.igdb.com/games/standby",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mjx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Standby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494580",
+        "Linux": "setsid steam steam://rungameid/494580",
+        "macOS": "open steam://rungameid/494580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "standby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26715"
+}
