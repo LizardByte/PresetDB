@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26352,
+  "name": "Growtopia",
+  "source_url": "https://www.igdb.com/games/growtopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30ka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Growtopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "866020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/866020",
+        "Linux": "setsid steam steam://rungameid/866020",
+        "macOS": "open steam://rungameid/866020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "growtopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26352"
+}
