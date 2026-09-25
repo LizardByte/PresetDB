@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18216,
+  "name": "Cadence",
+  "source_url": "https://www.igdb.com/games/cadence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wkq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cadence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "362800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/362800",
+        "Linux": "setsid steam steam://rungameid/362800",
+        "macOS": "open steam://rungameid/362800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cadence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18216"
+}
