@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28528,
+  "name": "Röki",
+  "source_url": "https://www.igdb.com/games/roki",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9913.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Röki",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1067540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1067540",
+        "Linux": "setsid steam steam://rungameid/1067540",
+        "macOS": "open steam://rungameid/1067540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roki",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28528"
+}
