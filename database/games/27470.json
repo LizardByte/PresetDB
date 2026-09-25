@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27470,
+  "name": "Redactem",
+  "source_url": "https://www.igdb.com/games/redactem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9afk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Redactem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "502400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/502400",
+        "Linux": "setsid steam steam://rungameid/502400",
+        "macOS": "open steam://rungameid/502400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "redactem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27470"
+}
