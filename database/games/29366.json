@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29366,
+  "name": "Hero-E",
+  "source_url": "https://www.igdb.com/games/hero-e",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2blj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero-E",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600410",
+        "Linux": "setsid steam steam://rungameid/600410",
+        "macOS": "open steam://rungameid/600410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hero-e",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29366"
+}
