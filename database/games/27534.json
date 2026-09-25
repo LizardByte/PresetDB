@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27534,
+  "name": "Pocket Rumble",
+  "source_url": "https://www.igdb.com/games/pocket-rumble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tir.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pocket Rumble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "389050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/389050",
+        "Linux": "setsid steam steam://rungameid/389050",
+        "macOS": "open steam://rungameid/389050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pocket-rumble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27534"
+}
