@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30460,
+  "name": "Pawn",
+  "source_url": "https://www.igdb.com/games/pawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vbt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557770",
+        "Linux": "setsid steam steam://rungameid/557770",
+        "macOS": "open steam://rungameid/557770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30460"
+}
