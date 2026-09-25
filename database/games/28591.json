@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28591,
+  "name": "Zombie Kill",
+  "source_url": "https://www.igdb.com/games/zombie-kill",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Kill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "636430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/636430",
+        "Linux": "setsid steam steam://rungameid/636430",
+        "macOS": "open steam://rungameid/636430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-kill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28591"
+}
