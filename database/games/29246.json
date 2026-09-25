@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29246,
+  "name": "Don't cut your hand",
+  "source_url": "https://www.igdb.com/games/dont-cut-your-hand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26ux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't cut your hand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603350",
+        "Linux": "setsid steam steam://rungameid/603350",
+        "macOS": "open steam://rungameid/603350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-cut-your-hand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29246"
+}
