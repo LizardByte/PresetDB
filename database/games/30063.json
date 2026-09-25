@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30063,
+  "name": "Leaves: The Journey",
+  "source_url": "https://www.igdb.com/games/leaves-the-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co253e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leaves: The Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "569800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/569800",
+        "Linux": "setsid steam steam://rungameid/569800",
+        "macOS": "open steam://rungameid/569800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leaves-the-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30063"
+}
