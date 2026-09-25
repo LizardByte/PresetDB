@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24963,
+  "name": "Pavilion",
+  "source_url": "https://www.igdb.com/games/pavilion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3b6t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pavilion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "417150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/417150",
+        "Linux": "setsid steam steam://rungameid/417150",
+        "macOS": "open steam://rungameid/417150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pavilion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24963"
+}
