@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28880,
+  "name": "Trail of Destruction",
+  "source_url": "https://www.igdb.com/games/trail-of-destruction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trail of Destruction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "633430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/633430",
+        "Linux": "setsid steam steam://rungameid/633430",
+        "macOS": "open steam://rungameid/633430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trail-of-destruction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28880"
+}
