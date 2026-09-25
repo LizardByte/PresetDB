@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25314,
+  "name": "Unworthy",
+  "source_url": "https://www.igdb.com/games/unworthy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co222x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unworthy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "613190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/613190",
+        "Linux": "setsid steam steam://rungameid/613190",
+        "macOS": "open steam://rungameid/613190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unworthy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25314"
+}
