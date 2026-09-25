@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18828,
+  "name": "No Thing",
+  "source_url": "https://www.igdb.com/games/no-thing--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/iih0enui4wye7u7yume9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Thing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "444800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/444800",
+        "Linux": "setsid steam steam://rungameid/444800",
+        "macOS": "open steam://rungameid/444800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-thing--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18828"
+}
