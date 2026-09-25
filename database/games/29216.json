@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29216,
+  "name": "Dawn",
+  "source_url": "https://www.igdb.com/games/dawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24nn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605610",
+        "Linux": "setsid steam steam://rungameid/605610",
+        "macOS": "open steam://rungameid/605610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29216"
+}
