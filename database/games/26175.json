@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26175,
+  "name": "Wuppo",
+  "source_url": "https://www.igdb.com/games/wuppo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wuppo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "400630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/400630",
+        "Linux": "setsid steam steam://rungameid/400630",
+        "macOS": "open steam://rungameid/400630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wuppo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26175"
+}
