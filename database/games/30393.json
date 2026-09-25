@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30393,
+  "name": "Tower Ascent",
+  "source_url": "https://www.igdb.com/games/tower-ascent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8oim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tower Ascent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "560340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/560340",
+        "Linux": "setsid steam steam://rungameid/560340",
+        "macOS": "open steam://rungameid/560340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tower-ascent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30393"
+}
