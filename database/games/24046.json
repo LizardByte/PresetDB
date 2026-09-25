@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24046,
+  "name": "Spacejacked",
+  "source_url": "https://www.igdb.com/games/spacejacked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co275n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spacejacked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "390680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/390680",
+        "Linux": "setsid steam steam://rungameid/390680",
+        "macOS": "open steam://rungameid/390680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spacejacked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24046"
+}
