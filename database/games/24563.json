@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24563,
+  "name": "Dwarf Tower",
+  "source_url": "https://www.igdb.com/games/dwarf-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1lko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dwarf Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "335100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/335100",
+        "Linux": "setsid steam steam://rungameid/335100",
+        "macOS": "open steam://rungameid/335100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dwarf-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24563"
+}
