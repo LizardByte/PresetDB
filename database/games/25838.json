@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25838,
+  "name": "The Isle",
+  "source_url": "https://www.igdb.com/games/the-isle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaat6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Isle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "376210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/376210",
+        "Linux": "setsid steam steam://rungameid/376210",
+        "macOS": "open steam://rungameid/376210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-isle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25838"
+}
