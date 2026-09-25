@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29808,
+  "name": "Fluffy",
+  "source_url": "https://www.igdb.com/games/fluffy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bf3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fluffy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "578260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/578260",
+        "Linux": "setsid steam steam://rungameid/578260",
+        "macOS": "open steam://rungameid/578260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fluffy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29808"
+}
