@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30425,
+  "name": "Doomed Kingdoms",
+  "source_url": "https://www.igdb.com/games/doomed-kingdoms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1kex.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doomed Kingdoms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "558810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/558810",
+        "Linux": "setsid steam steam://rungameid/558810",
+        "macOS": "open steam://rungameid/558810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doomed-kingdoms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30425"
+}
