@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27457,
+  "name": "Oracle",
+  "source_url": "https://www.igdb.com/games/oracle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gz0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oracle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "576310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/576310",
+        "Linux": "setsid steam steam://rungameid/576310",
+        "macOS": "open steam://rungameid/576310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oracle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27457"
+}
