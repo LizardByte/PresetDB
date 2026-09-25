@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18015,
+  "name": "Star Sky",
+  "source_url": "https://www.igdb.com/games/star-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6v03.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "407020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/407020",
+        "Linux": "setsid steam steam://rungameid/407020",
+        "macOS": "open steam://rungameid/407020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18015"
+}
