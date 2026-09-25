@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20472,
+  "name": "Klocki",
+  "source_url": "https://www.igdb.com/games/klocki",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tz6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Klocki",
+      "os": null,
+      "method": "steam",
+      "launch_id": "499440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/499440",
+        "Linux": "setsid steam steam://rungameid/499440",
+        "macOS": "open steam://rungameid/499440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "klocki",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20472"
+}
