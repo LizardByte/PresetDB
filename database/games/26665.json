@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26665,
+  "name": "Tattletail",
+  "source_url": "https://www.igdb.com/games/tattletail",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42y5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tattletail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568090",
+        "Linux": "setsid steam steam://rungameid/568090",
+        "macOS": "open steam://rungameid/568090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tattletail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26665"
+}
