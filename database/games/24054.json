@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24054,
+  "name": "Caves of Qud",
+  "source_url": "https://www.igdb.com/games/caves-of-qud",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7eda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caves of Qud",
+      "os": null,
+      "method": "steam",
+      "launch_id": "333640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/333640",
+        "Linux": "setsid steam steam://rungameid/333640",
+        "macOS": "open steam://rungameid/333640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "caves-of-qud",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24054"
+}
