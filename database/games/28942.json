@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28942,
+  "name": "Hide vs. Seek",
+  "source_url": "https://www.igdb.com/games/hide-vs-seek",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6sa1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hide vs. Seek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "616220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/616220",
+        "Linux": "setsid steam steam://rungameid/616220",
+        "macOS": "open steam://rungameid/616220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hide-vs-seek",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28942"
+}
