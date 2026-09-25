@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29726,
+  "name": "Bold New World",
+  "source_url": "https://www.igdb.com/games/bold-new-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47jq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bold New World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "581620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/581620",
+        "Linux": "setsid steam steam://rungameid/581620",
+        "macOS": "open steam://rungameid/581620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bold-new-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29726"
+}
