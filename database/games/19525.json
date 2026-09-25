@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19525,
+  "name": "Fe",
+  "source_url": "https://www.igdb.com/games/fe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28r1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1225580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1225580",
+        "Linux": "setsid steam steam://rungameid/1225580",
+        "macOS": "open steam://rungameid/1225580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19525"
+}
