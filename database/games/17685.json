@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17685,
+  "name": "Bliss",
+  "source_url": "https://www.igdb.com/games/bliss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wdd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bliss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "315450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/315450",
+        "Linux": "setsid steam steam://rungameid/315450",
+        "macOS": "open steam://rungameid/315450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bliss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17685"
+}
