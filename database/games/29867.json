@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29867,
+  "name": "Magic Box",
+  "source_url": "https://www.igdb.com/games/magic-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "575750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/575750",
+        "Linux": "setsid steam steam://rungameid/575750",
+        "macOS": "open steam://rungameid/575750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29867"
+}
