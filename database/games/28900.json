@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28900,
+  "name": "Aftergrinder",
+  "source_url": "https://www.igdb.com/games/aftergrinder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24wk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aftergrinder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "618310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/618310",
+        "Linux": "setsid steam steam://rungameid/618310",
+        "macOS": "open steam://rungameid/618310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aftergrinder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28900"
+}
