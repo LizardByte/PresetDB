@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29661,
+  "name": "Black River",
+  "source_url": "https://www.igdb.com/games/black-river",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ju2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black River",
+      "os": null,
+      "method": "steam",
+      "launch_id": "585090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/585090",
+        "Linux": "setsid steam steam://rungameid/585090",
+        "macOS": "open steam://rungameid/585090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "black-river",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29661"
+}
