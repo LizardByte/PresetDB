@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29857,
+  "name": "2017 VR",
+  "source_url": "https://www.igdb.com/games/2017-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29d5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "2017 VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "575600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/575600",
+        "Linux": "setsid steam steam://rungameid/575600",
+        "macOS": "open steam://rungameid/575600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "2017-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29857"
+}
