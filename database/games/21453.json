@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21453,
+  "name": "My Summer Car",
+  "source_url": "https://www.igdb.com/games/my-summer-car",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9aeu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Summer Car",
+      "os": null,
+      "method": "steam",
+      "launch_id": "516750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/516750",
+        "Linux": "setsid steam steam://rungameid/516750",
+        "macOS": "open steam://rungameid/516750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-summer-car",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21453"
+}
