@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26472,
+  "name": "Disco Elysium",
+  "source_url": "https://www.igdb.com/games/disco-elysium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sfj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disco Elysium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "632470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/632470",
+        "Linux": "setsid steam steam://rungameid/632470",
+        "macOS": "open steam://rungameid/632470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "disco-elysium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26472"
+}
