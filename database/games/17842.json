@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17842,
+  "name": "Destructamundo",
+  "source_url": "https://www.igdb.com/games/destructamundo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wu3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Destructamundo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "323020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/323020",
+        "Linux": "setsid steam steam://rungameid/323020",
+        "macOS": "open steam://rungameid/323020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "destructamundo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17842"
+}
