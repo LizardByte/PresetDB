@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30230,
+  "name": "Bridge It +",
+  "source_url": "https://www.igdb.com/games/bridge-it-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a88.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bridge It +",
+      "os": null,
+      "method": "steam",
+      "launch_id": "248370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/248370",
+        "Linux": "setsid steam steam://rungameid/248370",
+        "macOS": "open steam://rungameid/248370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bridge-it-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30230"
+}
