@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18930,
+  "name": "Tokyo 42",
+  "source_url": "https://www.igdb.com/games/tokyo-42",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nnx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tokyo 42",
+      "os": null,
+      "method": "steam",
+      "launch_id": "490450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/490450",
+        "Linux": "setsid steam steam://rungameid/490450",
+        "macOS": "open steam://rungameid/490450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tokyo-42",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18930"
+}
