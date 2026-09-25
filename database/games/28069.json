@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28069,
+  "name": "Slime-san",
+  "source_url": "https://www.igdb.com/games/slime-san",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3xrn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime-san",
+      "os": null,
+      "method": "steam",
+      "launch_id": "473530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/473530",
+        "Linux": "setsid steam steam://rungameid/473530",
+        "macOS": "open steam://rungameid/473530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-san",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28069"
+}
