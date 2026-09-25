@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20309,
+  "name": "Funk of Titans",
+  "source_url": "https://www.igdb.com/games/funk-of-titans",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co400h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Funk of Titans",
+      "os": null,
+      "method": "steam",
+      "launch_id": "383750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/383750",
+        "Linux": "setsid steam steam://rungameid/383750",
+        "macOS": "open steam://rungameid/383750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "funk-of-titans",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20309"
+}
