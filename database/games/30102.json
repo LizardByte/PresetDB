@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30102,
+  "name": "Nightmare",
+  "source_url": "https://www.igdb.com/games/nightmare--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp4r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nightmare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "571910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/571910",
+        "Linux": "setsid steam steam://rungameid/571910",
+        "macOS": "open steam://rungameid/571910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nightmare--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30102"
+}
