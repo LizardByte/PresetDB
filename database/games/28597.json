@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28597,
+  "name": "Plutonium",
+  "source_url": "https://www.igdb.com/games/plutonium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocd8l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plutonium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "634700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/634700",
+        "Linux": "setsid steam steam://rungameid/634700",
+        "macOS": "open steam://rungameid/634700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plutonium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28597"
+}
