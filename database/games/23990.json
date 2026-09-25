@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23990,
+  "name": "Out of Ammo",
+  "source_url": "https://www.igdb.com/games/out-of-ammo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qpz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Out of Ammo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "451840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/451840",
+        "Linux": "setsid steam steam://rungameid/451840",
+        "macOS": "open steam://rungameid/451840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "out-of-ammo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23990"
+}
