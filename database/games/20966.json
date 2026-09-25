@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20966,
+  "name": "Hyper Void",
+  "source_url": "https://www.igdb.com/games/hyper-void",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1snh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyper Void",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568060",
+        "Linux": "setsid steam steam://rungameid/568060",
+        "macOS": "open steam://rungameid/568060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyper-void",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20966"
+}
