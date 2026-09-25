@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27146,
+  "name": "Deckbound Heroes",
+  "source_url": "https://www.igdb.com/games/deckbound-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28ae.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deckbound Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "540160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/540160",
+        "Linux": "setsid steam steam://rungameid/540160",
+        "macOS": "open steam://rungameid/540160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deckbound-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27146"
+}
