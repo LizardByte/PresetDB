@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 22211,
+  "name": "Club Life",
+  "source_url": "https://www.igdb.com/games/club-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nbt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Club Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "404180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/404180",
+        "Linux": "setsid steam steam://rungameid/404180",
+        "macOS": "open steam://rungameid/404180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "club-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=22211"
+}
