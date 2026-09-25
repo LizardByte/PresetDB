@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26952,
+  "name": "Hellenica",
+  "source_url": "https://www.igdb.com/games/hellenica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2n7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellenica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "540690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/540690",
+        "Linux": "setsid steam steam://rungameid/540690",
+        "macOS": "open steam://rungameid/540690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellenica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26952"
+}
