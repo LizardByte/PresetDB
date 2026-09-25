@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24816,
+  "name": "Thoth",
+  "source_url": "https://www.igdb.com/games/thoth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mvs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thoth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "510620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/510620",
+        "Linux": "setsid steam steam://rungameid/510620",
+        "macOS": "open steam://rungameid/510620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thoth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24816"
+}
