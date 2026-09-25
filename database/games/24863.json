@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24863,
+  "name": "Wasteland 3",
+  "source_url": "https://www.igdb.com/games/wasteland-3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2620.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wasteland 3",
+      "os": null,
+      "method": "steam",
+      "launch_id": "719040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/719040",
+        "Linux": "setsid steam steam://rungameid/719040",
+        "macOS": "open steam://rungameid/719040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wasteland-3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24863"
+}
