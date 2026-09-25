@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30156,
+  "name": "Shadow Warrior Classic Redux",
+  "source_url": "https://www.igdb.com/games/shadow-warrior-classic-redux",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobovi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow Warrior Classic Redux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "225160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/225160",
+        "Linux": "setsid steam steam://rungameid/225160",
+        "macOS": "open steam://rungameid/225160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-warrior-classic-redux",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30156"
+}
