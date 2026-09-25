@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17521,
+  "name": "The Happy Hereafter",
+  "source_url": "https://www.igdb.com/games/the-happy-hereafter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43u3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Happy Hereafter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "306200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/306200",
+        "Linux": "setsid steam steam://rungameid/306200",
+        "macOS": "open steam://rungameid/306200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-happy-hereafter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17521"
+}
