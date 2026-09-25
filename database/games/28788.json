@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28788,
+  "name": "Robot Master",
+  "source_url": "https://www.igdb.com/games/robot-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co85zh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robot Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "621000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/621000",
+        "Linux": "setsid steam steam://rungameid/621000",
+        "macOS": "open steam://rungameid/621000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robot-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28788"
+}
