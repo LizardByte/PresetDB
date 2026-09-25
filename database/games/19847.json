@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19847,
+  "name": "HunieCam Studio",
+  "source_url": "https://www.igdb.com/games/huniecam-studio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86d4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HunieCam Studio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "426000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/426000",
+        "Linux": "setsid steam steam://rungameid/426000",
+        "macOS": "open steam://rungameid/426000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "huniecam-studio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19847"
+}
