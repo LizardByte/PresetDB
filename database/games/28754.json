@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28754,
+  "name": "Starving",
+  "source_url": "https://www.igdb.com/games/starving",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0nk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starving",
+      "os": null,
+      "method": "steam",
+      "launch_id": "588090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/588090",
+        "Linux": "setsid steam steam://rungameid/588090",
+        "macOS": "open steam://rungameid/588090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starving",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28754"
+}
