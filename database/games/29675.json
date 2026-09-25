@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29675,
+  "name": "Itineris",
+  "source_url": "https://www.igdb.com/games/itineris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bqy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Itineris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "582580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/582580",
+        "Linux": "setsid steam steam://rungameid/582580",
+        "macOS": "open steam://rungameid/582580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "itineris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29675"
+}
