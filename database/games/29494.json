@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29494,
+  "name": "Breach It",
+  "source_url": "https://www.igdb.com/games/breach-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a0b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Breach It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "591790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/591790",
+        "Linux": "setsid steam steam://rungameid/591790",
+        "macOS": "open steam://rungameid/591790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "breach-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29494"
+}
