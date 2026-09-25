@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25298,
+  "name": "Dark Train",
+  "source_url": "https://www.igdb.com/games/dark-train",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1lif.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Train",
+      "os": null,
+      "method": "steam",
+      "launch_id": "532290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/532290",
+        "Linux": "setsid steam steam://rungameid/532290",
+        "macOS": "open steam://rungameid/532290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-train",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25298"
+}
