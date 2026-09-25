@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28324,
+  "name": "Titan Slayer",
+  "source_url": "https://www.igdb.com/games/titan-slayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ng.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Titan Slayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "528260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/528260",
+        "Linux": "setsid steam steam://rungameid/528260",
+        "macOS": "open steam://rungameid/528260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "titan-slayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28324"
+}
