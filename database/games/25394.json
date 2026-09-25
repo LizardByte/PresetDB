@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25394,
+  "name": "Spooky Mahjong",
+  "source_url": "https://www.igdb.com/games/spooky-mahjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41zb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spooky Mahjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1600240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1600240",
+        "Linux": "setsid steam steam://rungameid/1600240",
+        "macOS": "open steam://rungameid/1600240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spooky-mahjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25394"
+}
