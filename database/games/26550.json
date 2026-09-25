@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26550,
+  "name": "Smashbox Arena",
+  "source_url": "https://www.igdb.com/games/smashbox-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rc5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smashbox Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "530350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/530350",
+        "Linux": "setsid steam steam://rungameid/530350",
+        "macOS": "open steam://rungameid/530350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smashbox-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26550"
+}
