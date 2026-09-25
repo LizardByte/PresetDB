@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21411,
+  "name": "Firefight",
+  "source_url": "https://www.igdb.com/games/firefight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7yi9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Firefight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "500190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/500190",
+        "Linux": "setsid steam steam://rungameid/500190",
+        "macOS": "open steam://rungameid/500190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "firefight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21411"
+}
