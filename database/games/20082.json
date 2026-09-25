@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20082,
+  "name": "Ninja Senki DX",
+  "source_url": "https://www.igdb.com/games/ninja-senki-dx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vud.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ninja Senki DX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "405540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/405540",
+        "Linux": "setsid steam steam://rungameid/405540",
+        "macOS": "open steam://rungameid/405540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ninja-senki-dx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20082"
+}
