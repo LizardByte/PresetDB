@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17719,
+  "name": "République",
+  "source_url": "https://www.igdb.com/games/republique",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sgd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "République",
+      "os": null,
+      "method": "steam",
+      "launch_id": "317100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/317100",
+        "Linux": "setsid steam steam://rungameid/317100",
+        "macOS": "open steam://rungameid/317100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "republique",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17719"
+}
