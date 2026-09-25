@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28092,
+  "name": "Brawl",
+  "source_url": "https://www.igdb.com/games/brawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h11.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "365680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/365680",
+        "Linux": "setsid steam steam://rungameid/365680",
+        "macOS": "open steam://rungameid/365680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28092"
+}
