@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20392,
+  "name": "Portal Knights",
+  "source_url": "https://www.igdb.com/games/portal-knights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jjh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Portal Knights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "374040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/374040",
+        "Linux": "setsid steam steam://rungameid/374040",
+        "macOS": "open steam://rungameid/374040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "portal-knights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20392"
+}
