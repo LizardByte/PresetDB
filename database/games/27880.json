@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27880,
+  "name": "Bomb Chicken",
+  "source_url": "https://www.igdb.com/games/bomb-chicken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4aja.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bomb Chicken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "658780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/658780",
+        "Linux": "setsid steam steam://rungameid/658780",
+        "macOS": "open steam://rungameid/658780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bomb-chicken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27880"
+}
