@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27403,
+  "name": "Lightfield",
+  "source_url": "https://www.igdb.com/games/lightfield",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3xxm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lightfield",
+      "os": null,
+      "method": "steam",
+      "launch_id": "790020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/790020",
+        "Linux": "setsid steam steam://rungameid/790020",
+        "macOS": "open steam://rungameid/790020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lightfield",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27403"
+}
