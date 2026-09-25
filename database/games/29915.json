@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29915,
+  "name": "Horror Hospital",
+  "source_url": "https://www.igdb.com/games/horror-hospital",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bnc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horror Hospital",
+      "os": null,
+      "method": "steam",
+      "launch_id": "576440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/576440",
+        "Linux": "setsid steam steam://rungameid/576440",
+        "macOS": "open steam://rungameid/576440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horror-hospital",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29915"
+}
