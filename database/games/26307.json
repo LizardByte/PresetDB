@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26307,
+  "name": "Junk Jack",
+  "source_url": "https://www.igdb.com/games/junk-jack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21o6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Junk Jack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "414190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/414190",
+        "Linux": "setsid steam steam://rungameid/414190",
+        "macOS": "open steam://rungameid/414190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "junk-jack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26307"
+}
