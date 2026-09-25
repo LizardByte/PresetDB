@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30008,
+  "name": "Last Mage Standing",
+  "source_url": "https://www.igdb.com/games/last-mage-standing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4g5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Mage Standing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568030",
+        "Linux": "setsid steam steam://rungameid/568030",
+        "macOS": "open steam://rungameid/568030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-mage-standing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30008"
+}
