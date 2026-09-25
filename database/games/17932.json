@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17932,
+  "name": "Tales Runner",
+  "source_url": "https://www.igdb.com/games/tales-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co69s9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "328060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/328060",
+        "Linux": "setsid steam steam://rungameid/328060",
+        "macOS": "open steam://rungameid/328060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tales-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17932"
+}
