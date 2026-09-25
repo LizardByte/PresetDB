@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27284,
+  "name": "Quote",
+  "source_url": "https://www.igdb.com/games/quote",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/yb5vg9gsjcimsznlh2wb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quote",
+      "os": null,
+      "method": "steam",
+      "launch_id": "432890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/432890",
+        "Linux": "setsid steam steam://rungameid/432890",
+        "macOS": "open steam://rungameid/432890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quote",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27284"
+}
