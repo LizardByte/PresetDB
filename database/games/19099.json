@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19099,
+  "name": "Lost Dimension",
+  "source_url": "https://www.igdb.com/games/lost-dimension",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2541.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Dimension",
+      "os": null,
+      "method": "steam",
+      "launch_id": "626600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/626600",
+        "Linux": "setsid steam steam://rungameid/626600",
+        "macOS": "open steam://rungameid/626600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-dimension",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19099"
+}
