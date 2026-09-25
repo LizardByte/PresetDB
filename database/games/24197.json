@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24197,
+  "name": "Sally's Law",
+  "source_url": "https://www.igdb.com/games/sallys-law",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ca.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sally's Law",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512230",
+        "Linux": "setsid steam steam://rungameid/512230",
+        "macOS": "open steam://rungameid/512230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sallys-law",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24197"
+}
