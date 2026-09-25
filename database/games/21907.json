@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21907,
+  "name": "Hieroglyphika",
+  "source_url": "https://www.igdb.com/games/hieroglyphika",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42g6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hieroglyphika",
+      "os": null,
+      "method": "steam",
+      "launch_id": "434880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/434880",
+        "Linux": "setsid steam steam://rungameid/434880",
+        "macOS": "open steam://rungameid/434880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hieroglyphika",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21907"
+}
