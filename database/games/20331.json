@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20331,
+  "name": "For the King",
+  "source_url": "https://www.igdb.com/games/for-the-king",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hxc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "For the King",
+      "os": null,
+      "method": "steam",
+      "launch_id": "527230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/527230",
+        "Linux": "setsid steam steam://rungameid/527230",
+        "macOS": "open steam://rungameid/527230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "for-the-king",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20331"
+}
