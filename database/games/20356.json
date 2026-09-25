@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20356,
+  "name": "Sniper Fury",
+  "source_url": "https://www.igdb.com/games/sniper-fury",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24t9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sniper Fury",
+      "os": null,
+      "method": "steam",
+      "launch_id": "591740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/591740",
+        "Linux": "setsid steam steam://rungameid/591740",
+        "macOS": "open steam://rungameid/591740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sniper-fury",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20356"
+}
