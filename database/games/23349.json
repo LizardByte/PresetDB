@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23349,
+  "name": "Too Angry to Space",
+  "source_url": "https://www.igdb.com/games/too-angry-to-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44rn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Too Angry to Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "494990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/494990",
+        "Linux": "setsid steam steam://rungameid/494990",
+        "macOS": "open steam://rungameid/494990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "too-angry-to-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23349"
+}
