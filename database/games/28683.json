@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 28683,
+  "name": "Sweven",
+  "source_url": "https://www.igdb.com/games/sweven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co225r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sweven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622880",
+        "Linux": "setsid steam steam://rungameid/622880",
+        "macOS": "open steam://rungameid/622880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sweven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=28683"
+}
