@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26202,
+  "name": "Nex Machina",
+  "source_url": "https://www.igdb.com/games/nex-machina",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1twn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nex Machina",
+      "os": null,
+      "method": "steam",
+      "launch_id": "404540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/404540",
+        "Linux": "setsid steam steam://rungameid/404540",
+        "macOS": "open steam://rungameid/404540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nex-machina",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26202"
+}
