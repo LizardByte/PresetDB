@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24545,
+  "name": "Ripple",
+  "source_url": "https://www.igdb.com/games/ripple--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27cv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ripple",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601240",
+        "Linux": "setsid steam steam://rungameid/601240",
+        "macOS": "open steam://rungameid/601240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ripple--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24545"
+}
