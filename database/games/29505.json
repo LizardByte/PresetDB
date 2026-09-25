@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29505,
+  "name": "Space Ripper",
+  "source_url": "https://www.igdb.com/games/space-ripper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpb2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Ripper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "591010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/591010",
+        "Linux": "setsid steam steam://rungameid/591010",
+        "macOS": "open steam://rungameid/591010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-ripper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29505"
+}
