@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17993,
+  "name": "RYB",
+  "source_url": "https://www.igdb.com/games/ryb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c2m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RYB",
+      "os": null,
+      "method": "steam",
+      "launch_id": "547050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/547050",
+        "Linux": "setsid steam steam://rungameid/547050",
+        "macOS": "open steam://rungameid/547050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ryb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17993"
+}
