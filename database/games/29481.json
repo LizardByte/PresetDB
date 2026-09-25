@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29481,
+  "name": "RealBX VR",
+  "source_url": "https://www.igdb.com/games/realbx-vr",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RealBX VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "592310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/592310",
+        "Linux": "setsid steam steam://rungameid/592310",
+        "macOS": "open steam://rungameid/592310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "realbx-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29481"
+}
