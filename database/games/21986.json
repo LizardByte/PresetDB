@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21986,
+  "name": "iGrow Game",
+  "source_url": "https://www.igdb.com/games/igrow-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/p2jm9golvt2spjqme1b1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "iGrow Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "489020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/489020",
+        "Linux": "setsid steam steam://rungameid/489020",
+        "macOS": "open steam://rungameid/489020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "igrow-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21986"
+}
