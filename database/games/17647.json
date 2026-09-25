@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17647,
+  "name": "Spheritis",
+  "source_url": "https://www.igdb.com/games/spheritis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spheritis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "314050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/314050",
+        "Linux": "setsid steam steam://rungameid/314050",
+        "macOS": "open steam://rungameid/314050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spheritis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17647"
+}
