@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19442,
+  "name": "Automobilista",
+  "source_url": "https://www.igdb.com/games/automobilista",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lrp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Automobilista",
+      "os": null,
+      "method": "steam",
+      "launch_id": "431600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/431600",
+        "Linux": "setsid steam steam://rungameid/431600",
+        "macOS": "open steam://rungameid/431600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "automobilista",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19442"
+}
