@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30015,
+  "name": "Satellite Repairman",
+  "source_url": "https://www.igdb.com/games/satellite-repairman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4mds.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Satellite Repairman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "567780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/567780",
+        "Linux": "setsid steam steam://rungameid/567780",
+        "macOS": "open steam://rungameid/567780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "satellite-repairman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30015"
+}
