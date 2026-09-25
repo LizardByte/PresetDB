@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18283,
+  "name": "UnReal World",
+  "source_url": "https://www.igdb.com/games/unreal-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1syq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UnReal World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "351700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/351700",
+        "Linux": "setsid steam steam://rungameid/351700",
+        "macOS": "open steam://rungameid/351700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unreal-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18283"
+}
