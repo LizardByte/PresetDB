@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30482,
+  "name": "Germ Wars",
+  "source_url": "https://www.igdb.com/games/germ-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Germ Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "557680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/557680",
+        "Linux": "setsid steam steam://rungameid/557680",
+        "macOS": "open steam://rungameid/557680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "germ-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30482"
+}
