@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29538,
+  "name": "Defuser VR",
+  "source_url": "https://www.igdb.com/games/defuser-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2arm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Defuser VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "589180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/589180",
+        "Linux": "setsid steam steam://rungameid/589180",
+        "macOS": "open steam://rungameid/589180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "defuser-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29538"
+}
