@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29813,
+  "name": "Break Time!",
+  "source_url": "https://www.igdb.com/games/break-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26rf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Break Time!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "578470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/578470",
+        "Linux": "setsid steam steam://rungameid/578470",
+        "macOS": "open steam://rungameid/578470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "break-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29813"
+}
