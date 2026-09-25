@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29355,
+  "name": "Chess3D",
+  "source_url": "https://www.igdb.com/games/chess3d",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ahx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess3D",
+      "os": null,
+      "method": "steam",
+      "launch_id": "599670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/599670",
+        "Linux": "setsid steam steam://rungameid/599670",
+        "macOS": "open steam://rungameid/599670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess3d",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29355"
+}
