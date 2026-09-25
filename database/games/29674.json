@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29674,
+  "name": "Synch",
+  "source_url": "https://www.igdb.com/games/synch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob37l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Synch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "582830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/582830",
+        "Linux": "setsid steam steam://rungameid/582830",
+        "macOS": "open steam://rungameid/582830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "synch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29674"
+}
