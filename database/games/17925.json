@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17925,
+  "name": "Wasted",
+  "source_url": "https://www.igdb.com/games/wasted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rur.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wasted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327510",
+        "Linux": "setsid steam steam://rungameid/327510",
+        "macOS": "open steam://rungameid/327510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wasted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17925"
+}
