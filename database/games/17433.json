@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17433,
+  "name": "Metal Dead",
+  "source_url": "https://www.igdb.com/games/metal-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nui.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "302690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/302690",
+        "Linux": "setsid steam steam://rungameid/302690",
+        "macOS": "open steam://rungameid/302690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metal-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17433"
+}
