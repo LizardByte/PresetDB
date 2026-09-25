@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23490,
+  "name": "Last Will",
+  "source_url": "https://www.igdb.com/games/last-will",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qjd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Will",
+      "os": null,
+      "method": "steam",
+      "launch_id": "453720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/453720",
+        "Linux": "setsid steam steam://rungameid/453720",
+        "macOS": "open steam://rungameid/453720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-will",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23490"
+}
