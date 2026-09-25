@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19944,
+  "name": "A Bastard's Tale",
+  "source_url": "https://www.igdb.com/games/a-bastards-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30xz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Bastard's Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "371550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/371550",
+        "Linux": "setsid steam steam://rungameid/371550",
+        "macOS": "open steam://rungameid/371550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-bastards-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19944"
+}
