@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27120,
+  "name": "Planet Colonization",
+  "source_url": "https://www.igdb.com/games/planet-colonization",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kia.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planet Colonization",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1203490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1203490",
+        "Linux": "setsid steam steam://rungameid/1203490",
+        "macOS": "open steam://rungameid/1203490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planet-colonization",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27120"
+}
