@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19028,
+  "name": "Marble Mountain",
+  "source_url": "https://www.igdb.com/games/marble-mountain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9oz8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marble Mountain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "409390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/409390",
+        "Linux": "setsid steam steam://rungameid/409390",
+        "macOS": "open steam://rungameid/409390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marble-mountain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19028"
+}
