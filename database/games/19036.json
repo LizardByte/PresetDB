@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19036,
+  "name": "Colosse",
+  "source_url": "https://www.igdb.com/games/colosse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7kg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Colosse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "464540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/464540",
+        "Linux": "setsid steam steam://rungameid/464540",
+        "macOS": "open steam://rungameid/464540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "colosse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19036"
+}
