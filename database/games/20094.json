@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20094,
+  "name": "Monster Monpiece",
+  "source_url": "https://www.igdb.com/games/monster-monpiece",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p41.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Monpiece",
+      "os": null,
+      "method": "steam",
+      "launch_id": "415300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/415300",
+        "Linux": "setsid steam steam://rungameid/415300",
+        "macOS": "open steam://rungameid/415300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-monpiece",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20094"
+}
