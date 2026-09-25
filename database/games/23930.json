@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23930,
+  "name": "Blue Horizon",
+  "source_url": "https://www.igdb.com/games/blue-horizon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ple.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blue Horizon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "589740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/589740",
+        "Linux": "setsid steam steam://rungameid/589740",
+        "macOS": "open steam://rungameid/589740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blue-horizon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23930"
+}
