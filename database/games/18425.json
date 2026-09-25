@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18425,
+  "name": "Urban Empire",
+  "source_url": "https://www.igdb.com/games/urban-empire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rs2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urban Empire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "352550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/352550",
+        "Linux": "setsid steam steam://rungameid/352550",
+        "macOS": "open steam://rungameid/352550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "urban-empire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18425"
+}
