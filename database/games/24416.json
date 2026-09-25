@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 24416,
+  "name": "Harmonia",
+  "source_url": "https://www.igdb.com/games/harmonia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs6y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Harmonia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "421660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/421660",
+        "Linux": "setsid steam steam://rungameid/421660",
+        "macOS": "open steam://rungameid/421660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "harmonia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=24416"
+}
