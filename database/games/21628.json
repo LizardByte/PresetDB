@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21628,
+  "name": "Mobius Final Fantasy",
+  "source_url": "https://www.igdb.com/games/mobius-final-fantasy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6v6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mobius Final Fantasy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "536930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/536930",
+        "Linux": "setsid steam steam://rungameid/536930",
+        "macOS": "open steam://rungameid/536930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mobius-final-fantasy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21628"
+}
