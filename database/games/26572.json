@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26572,
+  "name": "Botolo",
+  "source_url": "https://www.igdb.com/games/botolo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2d5f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Botolo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "546100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/546100",
+        "Linux": "setsid steam steam://rungameid/546100",
+        "macOS": "open steam://rungameid/546100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "botolo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26572"
+}
