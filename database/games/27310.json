@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27310,
+  "name": "We Were Here",
+  "source_url": "https://www.igdb.com/games/we-were-here",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1odo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "We Were Here",
+      "os": null,
+      "method": "steam",
+      "launch_id": "582500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/582500",
+        "Linux": "setsid steam steam://rungameid/582500",
+        "macOS": "open steam://rungameid/582500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "we-were-here",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27310"
+}
