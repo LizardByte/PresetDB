@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25597,
+  "name": "Vigilantes",
+  "source_url": "https://www.igdb.com/games/vigilantes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1w0k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vigilantes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "545600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/545600",
+        "Linux": "setsid steam steam://rungameid/545600",
+        "macOS": "open steam://rungameid/545600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vigilantes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25597"
+}
