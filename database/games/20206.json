@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20206,
+  "name": "Ice Lakes",
+  "source_url": "https://www.igdb.com/games/ice-lakes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ice Lakes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "393430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/393430",
+        "Linux": "setsid steam steam://rungameid/393430",
+        "macOS": "open steam://rungameid/393430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ice-lakes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20206"
+}
