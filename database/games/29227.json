@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29227,
+  "name": "VR Chair Games",
+  "source_url": "https://www.igdb.com/games/vr-chair-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6i1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Chair Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605110",
+        "Linux": "setsid steam steam://rungameid/605110",
+        "macOS": "open steam://rungameid/605110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vr-chair-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29227"
+}
