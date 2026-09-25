@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23733,
+  "name": "Tunic",
+  "source_url": "https://www.igdb.com/games/tunic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/td1t8kb33gyo8mvhl2pc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tunic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "553420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/553420",
+        "Linux": "setsid steam steam://rungameid/553420",
+        "macOS": "open steam://rungameid/553420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tunic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23733"
+}
