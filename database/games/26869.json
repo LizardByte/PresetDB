@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26869,
+  "name": "World of Horror",
+  "source_url": "https://www.igdb.com/games/world-of-horror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xh7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Horror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913740",
+        "Linux": "setsid steam steam://rungameid/913740",
+        "macOS": "open steam://rungameid/913740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-of-horror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26869"
+}
