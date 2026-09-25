@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30320,
+  "name": "Western Adventure",
+  "source_url": "https://www.igdb.com/games/western-adventure",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Western Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "562710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/562710",
+        "Linux": "setsid steam steam://rungameid/562710",
+        "macOS": "open steam://rungameid/562710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "western-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30320"
+}
