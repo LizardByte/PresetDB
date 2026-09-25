@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29685,
+  "name": "Dark Project",
+  "source_url": "https://www.igdb.com/games/dark-project",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "583660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/583660",
+        "Linux": "setsid steam steam://rungameid/583660",
+        "macOS": "open steam://rungameid/583660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29685"
+}
