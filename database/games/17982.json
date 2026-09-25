@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17982,
+  "name": "It's A Wipe!",
+  "source_url": "https://www.igdb.com/games/its-a-wipe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qg0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It's A Wipe!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "330620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/330620",
+        "Linux": "setsid steam steam://rungameid/330620",
+        "macOS": "open steam://rungameid/330620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-a-wipe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17982"
+}
