@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17445,
+  "name": "Sentris",
+  "source_url": "https://www.igdb.com/games/sentris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/oi08etvapewian6rscgf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sentris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "303530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/303530",
+        "Linux": "setsid steam steam://rungameid/303530",
+        "macOS": "open steam://rungameid/303530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sentris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17445"
+}
