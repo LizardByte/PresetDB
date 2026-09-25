@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26722,
+  "name": "Revolve",
+  "source_url": "https://www.igdb.com/games/revolve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24ox.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revolve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "412760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/412760",
+        "Linux": "setsid steam steam://rungameid/412760",
+        "macOS": "open steam://rungameid/412760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "revolve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26722"
+}
