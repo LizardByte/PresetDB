@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29241,
+  "name": "Show Must Go On",
+  "source_url": "https://www.igdb.com/games/show-must-go-on",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jq0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Show Must Go On",
+      "os": null,
+      "method": "steam",
+      "launch_id": "604300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/604300",
+        "Linux": "setsid steam steam://rungameid/604300",
+        "macOS": "open steam://rungameid/604300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "show-must-go-on",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29241"
+}
