@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27358,
+  "name": "The Mooseman",
+  "source_url": "https://www.igdb.com/games/the-mooseman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23dn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Mooseman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574310",
+        "Linux": "setsid steam steam://rungameid/574310",
+        "macOS": "open steam://rungameid/574310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-mooseman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27358"
+}
