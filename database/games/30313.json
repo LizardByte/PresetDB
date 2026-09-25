@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30313,
+  "name": "The Cows Are Watching",
+  "source_url": "https://www.igdb.com/games/the-cows-are-watching",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rkx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cows Are Watching",
+      "os": null,
+      "method": "steam",
+      "launch_id": "563130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/563130",
+        "Linux": "setsid steam steam://rungameid/563130",
+        "macOS": "open steam://rungameid/563130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-cows-are-watching",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30313"
+}
