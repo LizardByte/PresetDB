@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18569,
+  "name": "Sora",
+  "source_url": "https://www.igdb.com/games/sora",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co54ic.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "390730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/390730",
+        "Linux": "setsid steam steam://rungameid/390730",
+        "macOS": "open steam://rungameid/390730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sora",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18569"
+}
