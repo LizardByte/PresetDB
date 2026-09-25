@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17429,
+  "name": "Dangerous",
+  "source_url": "https://www.igdb.com/games/dangerous",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8t1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dangerous",
+      "os": null,
+      "method": "steam",
+      "launch_id": "302570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/302570",
+        "Linux": "setsid steam steam://rungameid/302570",
+        "macOS": "open steam://rungameid/302570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dangerous",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17429"
+}
