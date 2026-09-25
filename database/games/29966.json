@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29966,
+  "name": "Koloro",
+  "source_url": "https://www.igdb.com/games/koloro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26nf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Koloro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574590",
+        "Linux": "setsid steam steam://rungameid/574590",
+        "macOS": "open steam://rungameid/574590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "koloro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29966"
+}
