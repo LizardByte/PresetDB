@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19448,
+  "name": "Echo",
+  "source_url": "https://www.igdb.com/games/echo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24h2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "551770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/551770",
+        "Linux": "setsid steam steam://rungameid/551770",
+        "macOS": "open steam://rungameid/551770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19448"
+}
