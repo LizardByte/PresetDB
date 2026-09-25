@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19149,
+  "name": "Time Clickers",
+  "source_url": "https://www.igdb.com/games/time-clickers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1u86.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Time Clickers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "385770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/385770",
+        "Linux": "setsid steam steam://rungameid/385770",
+        "macOS": "open steam://rungameid/385770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "time-clickers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19149"
+}
