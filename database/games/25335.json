@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25335,
+  "name": "Whispers",
+  "source_url": "https://www.igdb.com/games/whispers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/aphpzdkzgkmmhzrnvyfw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Whispers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "505760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/505760",
+        "Linux": "setsid steam steam://rungameid/505760",
+        "macOS": "open steam://rungameid/505760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whispers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25335"
+}
