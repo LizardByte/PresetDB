@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29106,
+  "name": "Games&Girls",
+  "source_url": "https://www.igdb.com/games/games-and-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co416j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Games&Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "610750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/610750",
+        "Linux": "setsid steam steam://rungameid/610750",
+        "macOS": "open steam://rungameid/610750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "games-and-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29106"
+}
