@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26370,
+  "name": "Abode",
+  "source_url": "https://www.igdb.com/games/abode",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5y4t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abode",
+      "os": null,
+      "method": "steam",
+      "launch_id": "548340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/548340",
+        "Linux": "setsid steam steam://rungameid/548340",
+        "macOS": "open steam://rungameid/548340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abode",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26370"
+}
