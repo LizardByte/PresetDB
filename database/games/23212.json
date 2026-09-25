@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23212,
+  "name": "Aven Colony",
+  "source_url": "https://www.igdb.com/games/aven-colony",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co234w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aven Colony",
+      "os": null,
+      "method": "steam",
+      "launch_id": "484900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/484900",
+        "Linux": "setsid steam steam://rungameid/484900",
+        "macOS": "open steam://rungameid/484900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aven-colony",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23212"
+}
