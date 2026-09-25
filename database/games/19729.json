@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 19729,
+  "name": "Mr. Shifty",
+  "source_url": "https://www.igdb.com/games/mr-shifty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co209u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Shifty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "489140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/489140",
+        "Linux": "setsid steam steam://rungameid/489140",
+        "macOS": "open steam://rungameid/489140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-shifty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=19729"
+}
