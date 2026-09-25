@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 20403,
+  "name": "Niffelheim",
+  "source_url": "https://www.igdb.com/games/niffelheim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27n1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Niffelheim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "351100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/351100",
+        "Linux": "setsid steam steam://rungameid/351100",
+        "macOS": "open steam://rungameid/351100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "niffelheim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=20403"
+}
