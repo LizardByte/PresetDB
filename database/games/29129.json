@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29129,
+  "name": "Last Tale",
+  "source_url": "https://www.igdb.com/games/last-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2buj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "608560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/608560",
+        "Linux": "setsid steam steam://rungameid/608560",
+        "macOS": "open steam://rungameid/608560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29129"
+}
