@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27207,
+  "name": "Totemori",
+  "source_url": "https://www.igdb.com/games/totemori",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24nj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Totemori",
+      "os": null,
+      "method": "steam",
+      "launch_id": "588180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/588180",
+        "Linux": "setsid steam steam://rungameid/588180",
+        "macOS": "open steam://rungameid/588180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "totemori",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27207"
+}
