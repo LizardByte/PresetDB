@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29110,
+  "name": "Phantom Soldier",
+  "source_url": "https://www.igdb.com/games/phantom-soldier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1pus.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phantom Soldier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "610930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/610930",
+        "Linux": "setsid steam steam://rungameid/610930",
+        "macOS": "open steam://rungameid/610930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phantom-soldier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29110"
+}
