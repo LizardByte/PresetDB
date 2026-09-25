@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25847,
+  "name": "Blameless",
+  "source_url": "https://www.igdb.com/games/blameless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co880r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blameless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "530330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/530330",
+        "Linux": "setsid steam steam://rungameid/530330",
+        "macOS": "open steam://rungameid/530330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blameless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25847"
+}
