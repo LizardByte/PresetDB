@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25661,
+  "name": "The Shrouded Isle",
+  "source_url": "https://www.igdb.com/games/the-shrouded-isle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rjj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Shrouded Isle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "501320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/501320",
+        "Linux": "setsid steam steam://rungameid/501320",
+        "macOS": "open steam://rungameid/501320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-shrouded-isle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25661"
+}
