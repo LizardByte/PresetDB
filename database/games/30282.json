@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30282,
+  "name": "In Your Face TD",
+  "source_url": "https://www.igdb.com/games/in-your-face-td",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bpb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Your Face TD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "564330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/564330",
+        "Linux": "setsid steam steam://rungameid/564330",
+        "macOS": "open steam://rungameid/564330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-your-face-td",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30282"
+}
