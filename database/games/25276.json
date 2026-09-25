@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25276,
+  "name": "Game Corp DX",
+  "source_url": "https://www.igdb.com/games/game-corp-dx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h16.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Corp DX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "399670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/399670",
+        "Linux": "setsid steam steam://rungameid/399670",
+        "macOS": "open steam://rungameid/399670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-corp-dx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25276"
+}
