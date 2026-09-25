@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26503,
+  "name": "Troll and I",
+  "source_url": "https://www.igdb.com/games/troll-and-i",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2it2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Troll and I",
+      "os": null,
+      "method": "steam",
+      "launch_id": "564070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/564070",
+        "Linux": "setsid steam steam://rungameid/564070",
+        "macOS": "open steam://rungameid/564070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "troll-and-i",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26503"
+}
