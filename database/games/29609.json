@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29609,
+  "name": "Castle Werewolf",
+  "source_url": "https://www.igdb.com/games/castle-werewolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2agp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle Werewolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "586520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/586520",
+        "Linux": "setsid steam steam://rungameid/586520",
+        "macOS": "open steam://rungameid/586520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "castle-werewolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29609"
+}
