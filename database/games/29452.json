@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29452,
+  "name": "Super Amazeballs",
+  "source_url": "https://www.igdb.com/games/super-amazeballs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nay.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Amazeballs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "594980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/594980",
+        "Linux": "setsid steam steam://rungameid/594980",
+        "macOS": "open steam://rungameid/594980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-amazeballs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29452"
+}
