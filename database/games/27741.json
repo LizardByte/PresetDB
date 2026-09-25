@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27741,
+  "name": "Darwin Project",
+  "source_url": "https://www.igdb.com/games/darwin-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wv8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darwin Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "544920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/544920",
+        "Linux": "setsid steam steam://rungameid/544920",
+        "macOS": "open steam://rungameid/544920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "darwin-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27741"
+}
