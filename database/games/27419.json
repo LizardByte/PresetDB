@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 27419,
+  "name": "Brawlout",
+  "source_url": "https://www.igdb.com/games/brawlout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r7b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brawlout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "263720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/263720",
+        "Linux": "setsid steam steam://rungameid/263720",
+        "macOS": "open steam://rungameid/263720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brawlout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=27419"
+}
