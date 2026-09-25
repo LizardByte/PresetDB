@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17510,
+  "name": "Shattered Planet",
+  "source_url": "https://www.igdb.com/games/shattered-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rjf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shattered Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "305640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/305640",
+        "Linux": "setsid steam steam://rungameid/305640",
+        "macOS": "open steam://rungameid/305640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shattered-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17510"
+}
