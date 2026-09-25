@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 21602,
+  "name": "VR Ping Pong",
+  "source_url": "https://www.igdb.com/games/vr-ping-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24kr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Ping Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "492710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/492710",
+        "Linux": "setsid steam steam://rungameid/492710",
+        "macOS": "open steam://rungameid/492710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vr-ping-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=21602"
+}
