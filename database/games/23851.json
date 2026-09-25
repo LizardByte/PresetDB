@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23851,
+  "name": "Wandersong",
+  "source_url": "https://www.igdb.com/games/wandersong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1oey.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wandersong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "530320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/530320",
+        "Linux": "setsid steam steam://rungameid/530320",
+        "macOS": "open steam://rungameid/530320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wandersong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23851"
+}
