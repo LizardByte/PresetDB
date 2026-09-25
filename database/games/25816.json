@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 25816,
+  "name": "Bit Dungeon+",
+  "source_url": "https://www.igdb.com/games/bit-dungeon-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co270t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bit Dungeon+",
+      "os": null,
+      "method": "steam",
+      "launch_id": "440020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/440020",
+        "Linux": "setsid steam steam://rungameid/440020",
+        "macOS": "open steam://rungameid/440020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bit-dungeon-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=25816"
+}
