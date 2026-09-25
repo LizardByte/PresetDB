@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18358,
+  "name": "De Mambo",
+  "source_url": "https://www.igdb.com/games/de-mambo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3gsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "De Mambo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "717540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/717540",
+        "Linux": "setsid steam steam://rungameid/717540",
+        "macOS": "open steam://rungameid/717540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "de-mambo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18358"
+}
