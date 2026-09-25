@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 26674,
+  "name": "The Lion's Song",
+  "source_url": "https://www.igdb.com/games/the-lions-song",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27b5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lion's Song",
+      "os": null,
+      "method": "steam",
+      "launch_id": "437160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/437160",
+        "Linux": "setsid steam steam://rungameid/437160",
+        "macOS": "open steam://rungameid/437160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lions-song",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=26674"
+}
