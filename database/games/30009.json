@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 30009,
+  "name": "Blind Love",
+  "source_url": "https://www.igdb.com/games/blind-love",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1nm0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blind Love",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568020",
+        "Linux": "setsid steam steam://rungameid/568020",
+        "macOS": "open steam://rungameid/568020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blind-love",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=30009"
+}
