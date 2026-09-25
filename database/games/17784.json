@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 17784,
+  "name": "Oscura: Lost Light",
+  "source_url": "https://www.igdb.com/games/oscura-lost-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8auo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oscura: Lost Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "320520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/320520",
+        "Linux": "setsid steam steam://rungameid/320520",
+        "macOS": "open steam://rungameid/320520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oscura-lost-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=17784"
+}
