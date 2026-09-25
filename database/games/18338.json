@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 18338,
+  "name": "Shoppe Keep",
+  "source_url": "https://www.igdb.com/games/shoppe-keep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2222.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shoppe Keep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "381120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/381120",
+        "Linux": "setsid steam steam://rungameid/381120",
+        "macOS": "open steam://rungameid/381120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shoppe-keep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=18338"
+}
