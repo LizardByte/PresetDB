@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 29479,
+  "name": "Roomscale Coaster",
+  "source_url": "https://www.igdb.com/games/roomscale-coaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob36z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roomscale Coaster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "592330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/592330",
+        "Linux": "setsid steam steam://rungameid/592330",
+        "macOS": "open steam://rungameid/592330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roomscale-coaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=29479"
+}
