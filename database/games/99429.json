@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99429,
+  "name": "Baiko",
+  "source_url": "https://www.igdb.com/games/baiko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfdt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Baiko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843530",
+        "Linux": "setsid steam steam://rungameid/843530",
+        "macOS": "open steam://rungameid/843530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "baiko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99429"
+}
