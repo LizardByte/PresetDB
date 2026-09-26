@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96627,
+  "name": "Darts and Friends",
+  "source_url": "https://www.igdb.com/games/darts-and-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobev6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darts and Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "832680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/832680",
+        "Linux": "setsid steam steam://rungameid/832680",
+        "macOS": "open steam://rungameid/832680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "darts-and-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96627"
+}
