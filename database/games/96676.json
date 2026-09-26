@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96676,
+  "name": "Star Boy",
+  "source_url": "https://www.igdb.com/games/star-boy",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Boy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801940",
+        "Linux": "setsid steam steam://rungameid/801940",
+        "macOS": "open steam://rungameid/801940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-boy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96676"
+}
