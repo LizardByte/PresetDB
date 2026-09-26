@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97117,
+  "name": "X-ray hospital",
+  "source_url": "https://www.igdb.com/games/x-ray-hospital",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqvg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "X-ray hospital",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850720",
+        "Linux": "setsid steam steam://rungameid/850720",
+        "macOS": "open steam://rungameid/850720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "x-ray-hospital",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97117"
+}
