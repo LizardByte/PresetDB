@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95623,
+  "name": "Ellen",
+  "source_url": "https://www.igdb.com/games/ellen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24bs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ellen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822920",
+        "Linux": "setsid steam steam://rungameid/822920",
+        "macOS": "open steam://rungameid/822920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ellen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95623"
+}
