@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99083,
+  "name": "Thunder Rally",
+  "source_url": "https://www.igdb.com/games/thunder-rally",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thunder Rally",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833500",
+        "Linux": "setsid steam steam://rungameid/833500",
+        "macOS": "open steam://rungameid/833500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thunder-rally",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99083"
+}
