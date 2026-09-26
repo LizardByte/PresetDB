@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98759,
+  "name": "Cube Universe",
+  "source_url": "https://www.igdb.com/games/cube-universe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakxc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube Universe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820070",
+        "Linux": "setsid steam steam://rungameid/820070",
+        "macOS": "open steam://rungameid/820070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube-universe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98759"
+}
