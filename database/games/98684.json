@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98684,
+  "name": "Puzzgun",
+  "source_url": "https://www.igdb.com/games/puzzgun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkkl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puzzgun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850040",
+        "Linux": "setsid steam steam://rungameid/850040",
+        "macOS": "open steam://rungameid/850040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "puzzgun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98684"
+}
