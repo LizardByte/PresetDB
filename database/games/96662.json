@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96662,
+  "name": "Lords of Kingdoms",
+  "source_url": "https://www.igdb.com/games/lords-of-kingdoms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobevd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lords of Kingdoms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "815260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/815260",
+        "Linux": "setsid steam steam://rungameid/815260",
+        "macOS": "open steam://rungameid/815260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lords-of-kingdoms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96662"
+}
