@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99728,
+  "name": "Knockdown the Ball",
+  "source_url": "https://www.igdb.com/games/knockdown-the-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfsi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knockdown the Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "841020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/841020",
+        "Linux": "setsid steam steam://rungameid/841020",
+        "macOS": "open steam://rungameid/841020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knockdown-the-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99728"
+}
