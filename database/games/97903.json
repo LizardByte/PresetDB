@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97903,
+  "name": "See Me",
+  "source_url": "https://www.igdb.com/games/see-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lzh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "See Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "805990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/805990",
+        "Linux": "setsid steam steam://rungameid/805990",
+        "macOS": "open steam://rungameid/805990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "see-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97903"
+}
