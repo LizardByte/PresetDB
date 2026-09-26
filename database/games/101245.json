@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101245,
+  "name": "Levelhead",
+  "source_url": "https://www.igdb.com/games/levelhead--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ks9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Levelhead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "792710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/792710",
+        "Linux": "setsid steam steam://rungameid/792710",
+        "macOS": "open steam://rungameid/792710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "levelhead--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101245"
+}
