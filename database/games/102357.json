@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102357,
+  "name": "Betweenside",
+  "source_url": "https://www.igdb.com/games/betweenside",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe2y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Betweenside",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860600",
+        "Linux": "setsid steam steam://rungameid/860600",
+        "macOS": "open steam://rungameid/860600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "betweenside",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102357"
+}
