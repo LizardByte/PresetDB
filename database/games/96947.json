@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96947,
+  "name": "Pi is Everything",
+  "source_url": "https://www.igdb.com/games/pi-is-everything",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf5t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pi is Everything",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840120",
+        "Linux": "setsid steam steam://rungameid/840120",
+        "macOS": "open steam://rungameid/840120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pi-is-everything",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96947"
+}
