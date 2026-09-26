@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101335,
+  "name": "ZombieHunterZ",
+  "source_url": "https://www.igdb.com/games/zombiehunterz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4xu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZombieHunterZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "857700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/857700",
+        "Linux": "setsid steam steam://rungameid/857700",
+        "macOS": "open steam://rungameid/857700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombiehunterz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101335"
+}
