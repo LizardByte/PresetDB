@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97268,
+  "name": "Legions At War",
+  "source_url": "https://www.igdb.com/games/legions-at-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co458l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legions At War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "799210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/799210",
+        "Linux": "setsid steam steam://rungameid/799210",
+        "macOS": "open steam://rungameid/799210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legions-at-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97268"
+}
