@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101457,
+  "name": "The Forgotten Void",
+  "source_url": "https://www.igdb.com/games/the-forgotten-void",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob71v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Forgotten Void",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600290",
+        "Linux": "setsid steam steam://rungameid/600290",
+        "macOS": "open steam://rungameid/600290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-forgotten-void",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101457"
+}
