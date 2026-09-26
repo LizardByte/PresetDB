@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101392,
+  "name": "Smile'N'Slide",
+  "source_url": "https://www.igdb.com/games/smilenslide",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ox.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smile'N'Slide",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860680",
+        "Linux": "setsid steam steam://rungameid/860680",
+        "macOS": "open steam://rungameid/860680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smilenslide",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101392"
+}
