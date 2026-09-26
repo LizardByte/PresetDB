@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102222,
+  "name": "Fly Killer VR",
+  "source_url": "https://www.igdb.com/games/fly-killer-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly Killer VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868560",
+        "Linux": "setsid steam steam://rungameid/868560",
+        "macOS": "open steam://rungameid/868560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fly-killer-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102222"
+}
