@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96867,
+  "name": "Brother Perro",
+  "source_url": "https://www.igdb.com/games/brother-perro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf5h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brother Perro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831100",
+        "Linux": "setsid steam steam://rungameid/831100",
+        "macOS": "open steam://rungameid/831100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brother-perro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96867"
+}
