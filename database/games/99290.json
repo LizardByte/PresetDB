@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99290,
+  "name": "Goroons",
+  "source_url": "https://www.igdb.com/games/goroons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goroons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "853590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/853590",
+        "Linux": "setsid steam steam://rungameid/853590",
+        "macOS": "open steam://rungameid/853590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goroons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99290"
+}
