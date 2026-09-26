@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99577,
+  "name": "Drifting Cloud",
+  "source_url": "https://www.igdb.com/games/drifting-cloud",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfsu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drifting Cloud",
+      "os": null,
+      "method": "steam",
+      "launch_id": "773710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/773710",
+        "Linux": "setsid steam steam://rungameid/773710",
+        "macOS": "open steam://rungameid/773710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drifting-cloud",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99577"
+}
