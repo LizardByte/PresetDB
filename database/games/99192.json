@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99192,
+  "name": "The Coin Game",
+  "source_url": "https://www.igdb.com/games/the-coin-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1x7b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Coin Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "598980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/598980",
+        "Linux": "setsid steam steam://rungameid/598980",
+        "macOS": "open steam://rungameid/598980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-coin-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99192"
+}
