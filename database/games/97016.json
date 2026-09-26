@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97016,
+  "name": "My Safe House",
+  "source_url": "https://www.igdb.com/games/my-safe-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1l0c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Safe House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "805980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/805980",
+        "Linux": "setsid steam steam://rungameid/805980",
+        "macOS": "open steam://rungameid/805980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-safe-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97016"
+}
