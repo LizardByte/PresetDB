@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102147,
+  "name": "Simian Rising",
+  "source_url": "https://www.igdb.com/games/simian-rising",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simian Rising",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848400",
+        "Linux": "setsid steam steam://rungameid/848400",
+        "macOS": "open steam://rungameid/848400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simian-rising",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102147"
+}
