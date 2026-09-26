@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100677,
+  "name": "Dungeon Adventure",
+  "source_url": "https://www.igdb.com/games/dungeon-adventure--1",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "834100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/834100",
+        "Linux": "setsid steam steam://rungameid/834100",
+        "macOS": "open steam://rungameid/834100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-adventure--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100677"
+}
