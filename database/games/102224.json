@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102224,
+  "name": "AridFortress",
+  "source_url": "https://www.igdb.com/games/aridfortress",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobccs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AridFortress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868960",
+        "Linux": "setsid steam steam://rungameid/868960",
+        "macOS": "open steam://rungameid/868960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aridfortress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102224"
+}
