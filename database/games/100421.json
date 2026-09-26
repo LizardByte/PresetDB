@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100421,
+  "name": "Project R.A.T.",
+  "source_url": "https://www.igdb.com/games/project-rat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfxp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project R.A.T.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843630",
+        "Linux": "setsid steam steam://rungameid/843630",
+        "macOS": "open steam://rungameid/843630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-rat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100421"
+}
