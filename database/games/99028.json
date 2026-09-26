@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99028,
+  "name": "You are the Apple of My Eye",
+  "source_url": "https://www.igdb.com/games/you-are-the-apple-of-my-eye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4uk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You are the Apple of My Eye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822440",
+        "Linux": "setsid steam steam://rungameid/822440",
+        "macOS": "open steam://rungameid/822440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-are-the-apple-of-my-eye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99028"
+}
