@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96641,
+  "name": "OniBushi VR",
+  "source_url": "https://www.igdb.com/games/onibushi-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobev8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OniBushi VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828410",
+        "Linux": "setsid steam steam://rungameid/828410",
+        "macOS": "open steam://rungameid/828410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "onibushi-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96641"
+}
