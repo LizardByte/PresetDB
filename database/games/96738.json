@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96738,
+  "name": "Escape from Voyna",
+  "source_url": "https://www.igdb.com/games/escape-from-voyna",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkkr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Voyna",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771400",
+        "Linux": "setsid steam steam://rungameid/771400",
+        "macOS": "open steam://rungameid/771400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-voyna",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96738"
+}
