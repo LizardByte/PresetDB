@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95664,
+  "name": "Laser Ball",
+  "source_url": "https://www.igdb.com/games/laser-ball--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co455k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Laser Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "826170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/826170",
+        "Linux": "setsid steam steam://rungameid/826170",
+        "macOS": "open steam://rungameid/826170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "laser-ball--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95664"
+}
