@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101869,
+  "name": "Cat Quest II",
+  "source_url": "https://www.igdb.com/games/cat-quest-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Quest II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914710",
+        "Linux": "setsid steam steam://rungameid/914710",
+        "macOS": "open steam://rungameid/914710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-quest-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101869"
+}
