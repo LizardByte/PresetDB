@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96690,
+  "name": "Bustories",
+  "source_url": "https://www.igdb.com/games/bustories",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co299k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bustories",
+      "os": null,
+      "method": "steam",
+      "launch_id": "778570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/778570",
+        "Linux": "setsid steam steam://rungameid/778570",
+        "macOS": "open steam://rungameid/778570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bustories",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96690"
+}
