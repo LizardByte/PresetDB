@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100416,
+  "name": "Fadeholm",
+  "source_url": "https://www.igdb.com/games/fadeholm",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fadeholm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "757500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/757500",
+        "Linux": "setsid steam steam://rungameid/757500",
+        "macOS": "open steam://rungameid/757500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fadeholm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100416"
+}
