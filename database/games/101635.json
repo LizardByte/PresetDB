@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101635,
+  "name": "Ok/Normal",
+  "source_url": "https://www.igdb.com/games/ok-slash-normal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mqs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ok/Normal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862580",
+        "Linux": "setsid steam steam://rungameid/862580",
+        "macOS": "open steam://rungameid/862580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ok-slash-normal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101635"
+}
