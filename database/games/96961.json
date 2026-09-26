@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96961,
+  "name": "Call of Bitcoin",
+  "source_url": "https://www.igdb.com/games/call-of-bitcoin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Call of Bitcoin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "836260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/836260",
+        "Linux": "setsid steam steam://rungameid/836260",
+        "macOS": "open steam://rungameid/836260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "call-of-bitcoin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96961"
+}
