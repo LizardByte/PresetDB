@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101461,
+  "name": "Green Hell",
+  "source_url": "https://www.igdb.com/games/green-hell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9d3h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Green Hell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "815370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/815370",
+        "Linux": "setsid steam steam://rungameid/815370",
+        "macOS": "open steam://rungameid/815370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "green-hell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101461"
+}
