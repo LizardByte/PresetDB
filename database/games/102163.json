@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102163,
+  "name": "Dawn of Man",
+  "source_url": "https://www.igdb.com/games/dawn-of-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1qv9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dawn of Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858810",
+        "Linux": "setsid steam steam://rungameid/858810",
+        "macOS": "open steam://rungameid/858810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dawn-of-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102163"
+}
