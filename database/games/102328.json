@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102328,
+  "name": "LifeGameSimulator",
+  "source_url": "https://www.igdb.com/games/lifegamesimulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkhq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LifeGameSimulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "846530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/846530",
+        "Linux": "setsid steam steam://rungameid/846530",
+        "macOS": "open steam://rungameid/846530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lifegamesimulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102328"
+}
