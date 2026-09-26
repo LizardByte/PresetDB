@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101624,
+  "name": "Street Level: Windows Edition",
+  "source_url": "https://www.igdb.com/games/street-level-windows-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9lm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Street Level: Windows Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861670",
+        "Linux": "setsid steam steam://rungameid/861670",
+        "macOS": "open steam://rungameid/861670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "street-level-windows-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101624"
+}
