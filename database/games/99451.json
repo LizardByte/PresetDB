@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99451,
+  "name": "The Secrets of the Forest",
+  "source_url": "https://www.igdb.com/games/the-secrets-of-the-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Secrets of the Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822770",
+        "Linux": "setsid steam steam://rungameid/822770",
+        "macOS": "open steam://rungameid/822770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-secrets-of-the-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99451"
+}
