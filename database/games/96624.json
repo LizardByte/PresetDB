@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96624,
+  "name": "Infinite Survival",
+  "source_url": "https://www.igdb.com/games/infinite-survival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobev7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinite Survival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831950",
+        "Linux": "setsid steam steam://rungameid/831950",
+        "macOS": "open steam://rungameid/831950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infinite-survival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96624"
+}
