@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100451,
+  "name": "Ventura Inc",
+  "source_url": "https://www.igdb.com/games/ventura-inc",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ventura Inc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "660730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/660730",
+        "Linux": "setsid steam steam://rungameid/660730",
+        "macOS": "open steam://rungameid/660730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ventura-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100451"
+}
