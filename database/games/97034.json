@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97034,
+  "name": "Super Punchman",
+  "source_url": "https://www.igdb.com/games/super-punchman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob83l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Punchman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845570",
+        "Linux": "setsid steam steam://rungameid/845570",
+        "macOS": "open steam://rungameid/845570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-punchman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97034"
+}
