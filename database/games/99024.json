@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99024,
+  "name": "Forward",
+  "source_url": "https://www.igdb.com/games/forward",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfup.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forward",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820190",
+        "Linux": "setsid steam steam://rungameid/820190",
+        "macOS": "open steam://rungameid/820190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forward",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99024"
+}
