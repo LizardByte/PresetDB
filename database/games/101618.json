@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101618,
+  "name": "Burgerwise the Clown",
+  "source_url": "https://www.igdb.com/games/burgerwise-the-clown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rqq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burgerwise the Clown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860430",
+        "Linux": "setsid steam steam://rungameid/860430",
+        "macOS": "open steam://rungameid/860430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burgerwise-the-clown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101618"
+}
