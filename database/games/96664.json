@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96664,
+  "name": "Build Wars",
+  "source_url": "https://www.igdb.com/games/build-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobevc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Build Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816240",
+        "Linux": "setsid steam steam://rungameid/816240",
+        "macOS": "open steam://rungameid/816240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "build-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96664"
+}
