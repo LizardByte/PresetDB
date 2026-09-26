@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101606,
+  "name": "Hakoniwa Explorer Plus",
+  "source_url": "https://www.igdb.com/games/hakoniwa-explorer-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27pp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hakoniwa Explorer Plus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "705280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/705280",
+        "Linux": "setsid steam steam://rungameid/705280",
+        "macOS": "open steam://rungameid/705280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hakoniwa-explorer-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101606"
+}
