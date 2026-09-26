@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101594,
+  "name": "Untouchable",
+  "source_url": "https://www.igdb.com/games/untouchable",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkhe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Untouchable",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819800",
+        "Linux": "setsid steam steam://rungameid/819800",
+        "macOS": "open steam://rungameid/819800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "untouchable",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101594"
+}
