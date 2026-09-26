@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101350,
+  "name": "Digit Daze",
+  "source_url": "https://www.igdb.com/games/digit-daze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs84.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Digit Daze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854560",
+        "Linux": "setsid steam steam://rungameid/854560",
+        "macOS": "open steam://rungameid/854560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "digit-daze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101350"
+}
