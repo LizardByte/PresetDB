@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102144,
+  "name": "Life Goals",
+  "source_url": "https://www.igdb.com/games/life-goals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkyc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Life Goals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838360",
+        "Linux": "setsid steam steam://rungameid/838360",
+        "macOS": "open steam://rungameid/838360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "life-goals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102144"
+}
