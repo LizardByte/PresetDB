@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96906,
+  "name": "BlindMaze",
+  "source_url": "https://www.igdb.com/games/blindmaze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf5r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlindMaze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "841570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/841570",
+        "Linux": "setsid steam steam://rungameid/841570",
+        "macOS": "open steam://rungameid/841570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blindmaze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96906"
+}
