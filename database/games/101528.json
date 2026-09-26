@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101528,
+  "name": "Modsork",
+  "source_url": "https://www.igdb.com/games/modsork",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/o9rgifa0w7xshtbgaa41.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Modsork",
+      "os": null,
+      "method": "steam",
+      "launch_id": "588200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/588200",
+        "Linux": "setsid steam steam://rungameid/588200",
+        "macOS": "open steam://rungameid/588200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "modsork",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101528"
+}
