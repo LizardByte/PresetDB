@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98337,
+  "name": "Omega Commando",
+  "source_url": "https://www.igdb.com/games/omega-commando",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Omega Commando",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852310",
+        "Linux": "setsid steam steam://rungameid/852310",
+        "macOS": "open steam://rungameid/852310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "omega-commando",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98337"
+}
