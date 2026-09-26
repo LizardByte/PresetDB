@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102100,
+  "name": "The Movie Trivia Challenge",
+  "source_url": "https://www.igdb.com/games/the-movie-trivia-challenge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5uid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Movie Trivia Challenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "875790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/875790",
+        "Linux": "setsid steam steam://rungameid/875790",
+        "macOS": "open steam://rungameid/875790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-movie-trivia-challenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102100"
+}
