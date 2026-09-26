@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102193,
+  "name": "Lilipalace",
+  "source_url": "https://www.igdb.com/games/lilipalace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45b5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lilipalace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "867120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/867120",
+        "Linux": "setsid steam steam://rungameid/867120",
+        "macOS": "open steam://rungameid/867120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lilipalace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102193"
+}
