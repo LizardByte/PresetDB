@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100395,
+  "name": "Hotel Magnate",
+  "source_url": "https://www.igdb.com/games/hotel-magnate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakc8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hotel Magnate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "832360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/832360",
+        "Linux": "setsid steam steam://rungameid/832360",
+        "macOS": "open steam://rungameid/832360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hotel-magnate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100395"
+}
