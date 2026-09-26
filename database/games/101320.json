@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101320,
+  "name": "Bum Simulator",
+  "source_url": "https://www.igdb.com/games/bum-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bum Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "855740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/855740",
+        "Linux": "setsid steam steam://rungameid/855740",
+        "macOS": "open steam://rungameid/855740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bum-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101320"
+}
