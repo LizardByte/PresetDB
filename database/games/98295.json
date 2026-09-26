@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98295,
+  "name": "MapleStory M",
+  "source_url": "https://www.igdb.com/games/maplestory-m",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8181.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MapleStory M",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3969080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3969080",
+        "Linux": "setsid steam steam://rungameid/3969080",
+        "macOS": "open steam://rungameid/3969080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maplestory-m",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98295"
+}
