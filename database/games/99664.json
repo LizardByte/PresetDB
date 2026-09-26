@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99664,
+  "name": "Turn-Based Champion",
+  "source_url": "https://www.igdb.com/games/turn-based-champion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6cg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turn-Based Champion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "847230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/847230",
+        "Linux": "setsid steam steam://rungameid/847230",
+        "macOS": "open steam://rungameid/847230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turn-based-champion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99664"
+}
