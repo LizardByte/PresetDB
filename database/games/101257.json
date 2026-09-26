@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101257,
+  "name": "HyperParasite",
+  "source_url": "https://www.igdb.com/games/hyperparasite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20bs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HyperParasite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838110",
+        "Linux": "setsid steam steam://rungameid/838110",
+        "macOS": "open steam://rungameid/838110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyperparasite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101257"
+}
