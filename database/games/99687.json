@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99687,
+  "name": "Minitime",
+  "source_url": "https://www.igdb.com/games/minitime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhm3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minitime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "821190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/821190",
+        "Linux": "setsid steam steam://rungameid/821190",
+        "macOS": "open steam://rungameid/821190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minitime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99687"
+}
