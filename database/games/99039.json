@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99039,
+  "name": "Love Simulation",
+  "source_url": "https://www.igdb.com/games/love-simulation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zi5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Love Simulation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "836480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/836480",
+        "Linux": "setsid steam steam://rungameid/836480",
+        "macOS": "open steam://rungameid/836480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "love-simulation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99039"
+}
