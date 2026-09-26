@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96230,
+  "name": "Fall Down",
+  "source_url": "https://www.igdb.com/games/fall-down--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf6e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fall Down",
+      "os": null,
+      "method": "steam",
+      "launch_id": "765530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/765530",
+        "Linux": "setsid steam steam://rungameid/765530",
+        "macOS": "open steam://rungameid/765530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fall-down--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96230"
+}
