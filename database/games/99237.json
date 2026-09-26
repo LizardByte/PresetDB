@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99237,
+  "name": "Bob the Cube",
+  "source_url": "https://www.igdb.com/games/bob-the-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfjh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bob the Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854060",
+        "Linux": "setsid steam steam://rungameid/854060",
+        "macOS": "open steam://rungameid/854060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bob-the-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99237"
+}
