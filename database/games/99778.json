@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99778,
+  "name": "WTF",
+  "source_url": "https://www.igdb.com/games/wtf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4v0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WTF",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854770",
+        "Linux": "setsid steam steam://rungameid/854770",
+        "macOS": "open steam://rungameid/854770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wtf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99778"
+}
