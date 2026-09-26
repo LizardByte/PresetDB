@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95190,
+  "name": "Nautical Life",
+  "source_url": "https://www.igdb.com/games/nautical-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3zs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nautical Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817200",
+        "Linux": "setsid steam steam://rungameid/817200",
+        "macOS": "open steam://rungameid/817200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nautical-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95190"
+}
