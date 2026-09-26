@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96875,
+  "name": "The New Girl",
+  "source_url": "https://www.igdb.com/games/the-new-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqxi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The New Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "836200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/836200",
+        "Linux": "setsid steam steam://rungameid/836200",
+        "macOS": "open steam://rungameid/836200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-new-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96875"
+}
