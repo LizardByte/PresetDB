@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97280,
+  "name": "Master Arena",
+  "source_url": "https://www.igdb.com/games/master-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jx5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Master Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "704020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/704020",
+        "Linux": "setsid steam steam://rungameid/704020",
+        "macOS": "open steam://rungameid/704020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "master-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97280"
+}
