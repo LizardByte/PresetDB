@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100468,
+  "name": "Hot Pink",
+  "source_url": "https://www.igdb.com/games/hot-pink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobds6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hot Pink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "684320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/684320",
+        "Linux": "setsid steam steam://rungameid/684320",
+        "macOS": "open steam://rungameid/684320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hot-pink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100468"
+}
