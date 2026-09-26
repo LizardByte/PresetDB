@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101610,
+  "name": "Squares",
+  "source_url": "https://www.igdb.com/games/squares--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjaq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squares",
+      "os": null,
+      "method": "steam",
+      "launch_id": "855180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/855180",
+        "Linux": "setsid steam steam://rungameid/855180",
+        "macOS": "open steam://rungameid/855180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "squares--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101610"
+}
