@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99072,
+  "name": "Skip's Sanity",
+  "source_url": "https://www.igdb.com/games/skips-sanity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjhc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skip's Sanity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850710",
+        "Linux": "setsid steam steam://rungameid/850710",
+        "macOS": "open steam://rungameid/850710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skips-sanity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99072"
+}
