@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99685,
+  "name": "Magic Masks",
+  "source_url": "https://www.igdb.com/games/magic-masks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mrs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Masks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622930",
+        "Linux": "setsid steam steam://rungameid/622930",
+        "macOS": "open steam://rungameid/622930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-masks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99685"
+}
