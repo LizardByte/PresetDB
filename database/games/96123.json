@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96123,
+  "name": "Pong Like",
+  "source_url": "https://www.igdb.com/games/pong-like",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhm9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pong Like",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828080",
+        "Linux": "setsid steam steam://rungameid/828080",
+        "macOS": "open steam://rungameid/828080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pong-like",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96123"
+}
