@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101633,
+  "name": "Ding Dong XL",
+  "source_url": "https://www.igdb.com/games/ding-dong-xl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2inz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ding Dong XL",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862570",
+        "Linux": "setsid steam steam://rungameid/862570",
+        "macOS": "open steam://rungameid/862570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ding-dong-xl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101633"
+}
