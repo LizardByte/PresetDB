@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98707,
+  "name": "The Last Front",
+  "source_url": "https://www.igdb.com/games/the-last-front",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6xi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Front",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843520",
+        "Linux": "setsid steam steam://rungameid/843520",
+        "macOS": "open steam://rungameid/843520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-front",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98707"
+}
