@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102060,
+  "name": "Imperator: Rome",
+  "source_url": "https://www.igdb.com/games/imperator-rome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22lq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Imperator: Rome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "859580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/859580",
+        "Linux": "setsid steam steam://rungameid/859580",
+        "macOS": "open steam://rungameid/859580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "imperator-rome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102060"
+}
