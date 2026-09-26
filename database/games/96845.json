@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96845,
+  "name": "Raptainment",
+  "source_url": "https://www.igdb.com/games/raptainment",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raptainment",
+      "os": null,
+      "method": "steam",
+      "launch_id": "782160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/782160",
+        "Linux": "setsid steam steam://rungameid/782160",
+        "macOS": "open steam://rungameid/782160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raptainment",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96845"
+}
