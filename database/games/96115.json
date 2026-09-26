@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96115,
+  "name": "AIdol",
+  "source_url": "https://www.igdb.com/games/aidol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AIdol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "829210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/829210",
+        "Linux": "setsid steam steam://rungameid/829210",
+        "macOS": "open steam://rungameid/829210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aidol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96115"
+}
