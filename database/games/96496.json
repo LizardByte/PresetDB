@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96496,
+  "name": "Assembly Required",
+  "source_url": "https://www.igdb.com/games/assembly-required",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe3e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Assembly Required",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777090",
+        "Linux": "setsid steam steam://rungameid/777090",
+        "macOS": "open steam://rungameid/777090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "assembly-required",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96496"
+}
