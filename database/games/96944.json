@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96944,
+  "name": "9 Balls",
+  "source_url": "https://www.igdb.com/games/9-balls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazx5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "9 Balls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "839920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/839920",
+        "Linux": "setsid steam steam://rungameid/839920",
+        "macOS": "open steam://rungameid/839920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "9-balls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96944"
+}
