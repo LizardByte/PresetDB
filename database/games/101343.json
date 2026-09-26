@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101343,
+  "name": "Tainted Fate",
+  "source_url": "https://www.igdb.com/games/tainted-fate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42v7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tainted Fate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858250",
+        "Linux": "setsid steam steam://rungameid/858250",
+        "macOS": "open steam://rungameid/858250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tainted-fate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101343"
+}
