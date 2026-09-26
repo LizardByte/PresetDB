@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99040,
+  "name": "The Hardest Dungeon",
+  "source_url": "https://www.igdb.com/games/the-hardest-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rlm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hardest Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "834340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/834340",
+        "Linux": "setsid steam steam://rungameid/834340",
+        "macOS": "open steam://rungameid/834340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hardest-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99040"
+}
