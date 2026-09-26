@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100305,
+  "name": "Rapid",
+  "source_url": "https://www.igdb.com/games/rapid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2432.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rapid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "847600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/847600",
+        "Linux": "setsid steam steam://rungameid/847600",
+        "macOS": "open steam://rungameid/847600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rapid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100305"
+}
