@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99026,
+  "name": "Last Resort Island",
+  "source_url": "https://www.igdb.com/games/last-resort-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co456k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Resort Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820910",
+        "Linux": "setsid steam steam://rungameid/820910",
+        "macOS": "open steam://rungameid/820910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-resort-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99026"
+}
