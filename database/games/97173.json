@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97173,
+  "name": "Memoir",
+  "source_url": "https://www.igdb.com/games/memoir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf69.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Memoir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "811040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/811040",
+        "Linux": "setsid steam steam://rungameid/811040",
+        "macOS": "open steam://rungameid/811040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "memoir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97173"
+}
