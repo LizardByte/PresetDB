@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96119,
+  "name": "Basketball Classics",
+  "source_url": "https://www.igdb.com/games/basketball-classics",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v95.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Basketball Classics",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819630",
+        "Linux": "setsid steam steam://rungameid/819630",
+        "macOS": "open steam://rungameid/819630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "basketball-classics",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96119"
+}
