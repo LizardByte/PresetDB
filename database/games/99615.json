@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99615,
+  "name": "BattleBeasts",
+  "source_url": "https://www.igdb.com/games/battlebeasts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2zln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BattleBeasts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "830580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/830580",
+        "Linux": "setsid steam steam://rungameid/830580",
+        "macOS": "open steam://rungameid/830580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battlebeasts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99615"
+}
