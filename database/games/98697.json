@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98697,
+  "name": "Virtual Pirate VR",
+  "source_url": "https://www.igdb.com/games/virtual-pirate-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhk5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Pirate VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "849870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/849870",
+        "Linux": "setsid steam steam://rungameid/849870",
+        "macOS": "open steam://rungameid/849870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-pirate-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98697"
+}
