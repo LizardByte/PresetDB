@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96856,
+  "name": "Logout",
+  "source_url": "https://www.igdb.com/games/logout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2403.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Logout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "798950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/798950",
+        "Linux": "setsid steam steam://rungameid/798950",
+        "macOS": "open steam://rungameid/798950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "logout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96856"
+}
