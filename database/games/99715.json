@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99715,
+  "name": "Big Surprise",
+  "source_url": "https://www.igdb.com/games/big-surprise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpat.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Big Surprise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "841410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/841410",
+        "Linux": "setsid steam steam://rungameid/841410",
+        "macOS": "open steam://rungameid/841410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "big-surprise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99715"
+}
