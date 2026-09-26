@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102160,
+  "name": "World of Feudal",
+  "source_url": "https://www.igdb.com/games/world-of-feudal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6nf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Feudal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "857570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/857570",
+        "Linux": "setsid steam steam://rungameid/857570",
+        "macOS": "open steam://rungameid/857570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-of-feudal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102160"
+}
