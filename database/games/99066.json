@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99066,
+  "name": "EEP TSM Gotthard",
+  "source_url": "https://www.igdb.com/games/eep-tsm-gotthard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl52.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EEP TSM Gotthard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "722200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/722200",
+        "Linux": "setsid steam steam://rungameid/722200",
+        "macOS": "open steam://rungameid/722200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eep-tsm-gotthard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99066"
+}
