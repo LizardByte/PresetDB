@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 59595,
+  "name": "Super Blackout",
+  "source_url": "https://www.igdb.com/games/super-blackout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7z0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Blackout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "992970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/992970",
+        "Linux": "setsid steam steam://rungameid/992970",
+        "macOS": "open steam://rungameid/992970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-blackout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=59595"
+}
