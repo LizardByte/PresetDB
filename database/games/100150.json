@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100150,
+  "name": "Trivia Vault: TV Trivia",
+  "source_url": "https://www.igdb.com/games/trivia-vault-tv-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xll.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trivia Vault: TV Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851520",
+        "Linux": "setsid steam steam://rungameid/851520",
+        "macOS": "open steam://rungameid/851520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trivia-vault-tv-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100150"
+}
