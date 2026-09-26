@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99016,
+  "name": "Magic League",
+  "source_url": "https://www.igdb.com/games/magic-league",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfuq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic League",
+      "os": null,
+      "method": "steam",
+      "launch_id": "815250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/815250",
+        "Linux": "setsid steam steam://rungameid/815250",
+        "macOS": "open steam://rungameid/815250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-league",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99016"
+}
