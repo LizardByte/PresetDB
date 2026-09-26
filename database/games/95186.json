@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95186,
+  "name": "Gallows",
+  "source_url": "https://www.igdb.com/games/gallows",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobrdt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gallows",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816550",
+        "Linux": "setsid steam steam://rungameid/816550",
+        "macOS": "open steam://rungameid/816550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gallows",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95186"
+}
