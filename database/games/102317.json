@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102317,
+  "name": "The Treehouse Man",
+  "source_url": "https://www.igdb.com/games/the-treehouse-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6qqy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Treehouse Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "841660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/841660",
+        "Linux": "setsid steam steam://rungameid/841660",
+        "macOS": "open steam://rungameid/841660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-treehouse-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102317"
+}
