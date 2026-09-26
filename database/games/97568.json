@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97568,
+  "name": "Epic Car Factory",
+  "source_url": "https://www.igdb.com/games/epic-car-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co295f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Car Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656510",
+        "Linux": "setsid steam steam://rungameid/656510",
+        "macOS": "open steam://rungameid/656510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epic-car-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97568"
+}
