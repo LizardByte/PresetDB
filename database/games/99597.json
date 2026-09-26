@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99597,
+  "name": "Neon Spaceboard",
+  "source_url": "https://www.igdb.com/games/neon-spaceboard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkxd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Spaceboard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "796930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/796930",
+        "Linux": "setsid steam steam://rungameid/796930",
+        "macOS": "open steam://rungameid/796930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-spaceboard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99597"
+}
