@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96102,
+  "name": "Spacescape",
+  "source_url": "https://www.igdb.com/games/spacescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5y4v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spacescape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "639560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/639560",
+        "Linux": "setsid steam steam://rungameid/639560",
+        "macOS": "open steam://rungameid/639560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spacescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96102"
+}
