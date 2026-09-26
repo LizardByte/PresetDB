@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95604,
+  "name": "Sinister Zombies",
+  "source_url": "https://www.igdb.com/games/sinister-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1tes.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sinister Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "832030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/832030",
+        "Linux": "setsid steam steam://rungameid/832030",
+        "macOS": "open steam://rungameid/832030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sinister-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95604"
+}
