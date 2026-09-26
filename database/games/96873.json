@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96873,
+  "name": "Humble Pie",
+  "source_url": "https://www.igdb.com/games/humble-pie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfs8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Humble Pie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "836300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/836300",
+        "Linux": "setsid steam steam://rungameid/836300",
+        "macOS": "open steam://rungameid/836300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "humble-pie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96873"
+}
