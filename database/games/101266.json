@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101266,
+  "name": "Grow: Wild West",
+  "source_url": "https://www.igdb.com/games/grow-wild-west",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdw8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grow: Wild West",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848300",
+        "Linux": "setsid steam steam://rungameid/848300",
+        "macOS": "open steam://rungameid/848300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grow-wild-west",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101266"
+}
