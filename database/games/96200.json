@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96200,
+  "name": "The Spiral Scouts",
+  "source_url": "https://www.igdb.com/games/the-spiral-scouts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sdw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Spiral Scouts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862480",
+        "Linux": "setsid steam steam://rungameid/862480",
+        "macOS": "open steam://rungameid/862480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-spiral-scouts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96200"
+}
