@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102058,
+  "name": "Outriders",
+  "source_url": "https://www.igdb.com/games/outriders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2e4r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outriders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "680420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/680420",
+        "Linux": "setsid steam steam://rungameid/680420",
+        "macOS": "open steam://rungameid/680420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "outriders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102058"
+}
