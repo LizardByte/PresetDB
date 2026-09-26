@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 81611,
+  "name": "GloGo",
+  "source_url": "https://www.igdb.com/games/glogo",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GloGo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "764080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/764080",
+        "Linux": "setsid steam steam://rungameid/764080",
+        "macOS": "open steam://rungameid/764080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "glogo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=81611"
+}
