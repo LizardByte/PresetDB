@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97242,
+  "name": "Mini-Dead",
+  "source_url": "https://www.igdb.com/games/mini-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3oeh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini-Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851530",
+        "Linux": "setsid steam steam://rungameid/851530",
+        "macOS": "open steam://rungameid/851530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97242"
+}
