@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96623,
+  "name": "Dorifto Challenge",
+  "source_url": "https://www.igdb.com/games/dorifto-challenge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp9k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dorifto Challenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831900",
+        "Linux": "setsid steam steam://rungameid/831900",
+        "macOS": "open steam://rungameid/831900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dorifto-challenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96623"
+}
