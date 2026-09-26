@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99151,
+  "name": "Virtual Foosball",
+  "source_url": "https://www.igdb.com/games/virtual-foosball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5ea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Foosball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840580",
+        "Linux": "setsid steam steam://rungameid/840580",
+        "macOS": "open steam://rungameid/840580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-foosball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99151"
+}
