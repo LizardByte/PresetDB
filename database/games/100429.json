@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100429,
+  "name": "Cube - The Jumper",
+  "source_url": "https://www.igdb.com/games/cube-the-jumper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfxo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube - The Jumper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856440",
+        "Linux": "setsid steam steam://rungameid/856440",
+        "macOS": "open steam://rungameid/856440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube-the-jumper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100429"
+}
