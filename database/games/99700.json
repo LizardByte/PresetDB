@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99700,
+  "name": "Let's Go Nuts!",
+  "source_url": "https://www.igdb.com/games/lets-go-nuts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mjq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let's Go Nuts!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848230",
+        "Linux": "setsid steam steam://rungameid/848230",
+        "macOS": "open steam://rungameid/848230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lets-go-nuts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99700"
+}
