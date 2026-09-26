@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96251,
+  "name": "Eternal Edge",
+  "source_url": "https://www.igdb.com/games/eternal-edge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3xxz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eternal Edge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "896440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/896440",
+        "Linux": "setsid steam steam://rungameid/896440",
+        "macOS": "open steam://rungameid/896440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eternal-edge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96251"
+}
