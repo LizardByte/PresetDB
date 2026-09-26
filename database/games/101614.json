@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101614,
+  "name": "Trivia Vault: Toy Trivia",
+  "source_url": "https://www.igdb.com/games/trivia-vault-toy-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44zg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trivia Vault: Toy Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860340",
+        "Linux": "setsid steam steam://rungameid/860340",
+        "macOS": "open steam://rungameid/860340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trivia-vault-toy-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101614"
+}
