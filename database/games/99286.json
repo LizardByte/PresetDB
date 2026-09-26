@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99286,
+  "name": "Arlo the Rabbit",
+  "source_url": "https://www.igdb.com/games/arlo-the-rabbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a1f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arlo the Rabbit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854450",
+        "Linux": "setsid steam steam://rungameid/854450",
+        "macOS": "open steam://rungameid/854450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arlo-the-rabbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99286"
+}
