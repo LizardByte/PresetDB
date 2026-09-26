@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102315,
+  "name": "Falling Slime",
+  "source_url": "https://www.igdb.com/games/falling-slime",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Falling Slime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838150",
+        "Linux": "setsid steam steam://rungameid/838150",
+        "macOS": "open steam://rungameid/838150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "falling-slime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102315"
+}
