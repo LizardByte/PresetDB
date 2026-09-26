@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102095,
+  "name": "Sagebrush",
+  "source_url": "https://www.igdb.com/games/sagebrush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24b6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sagebrush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "864100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/864100",
+        "Linux": "setsid steam steam://rungameid/864100",
+        "macOS": "open steam://rungameid/864100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sagebrush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102095"
+}
