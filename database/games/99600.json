@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99600,
+  "name": "Solar Battalion",
+  "source_url": "https://www.igdb.com/games/solar-battalion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhes.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solar Battalion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "803570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/803570",
+        "Linux": "setsid steam steam://rungameid/803570",
+        "macOS": "open steam://rungameid/803570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "solar-battalion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99600"
+}
