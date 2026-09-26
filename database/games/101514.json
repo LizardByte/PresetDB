@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101514,
+  "name": "Ctrl CV",
+  "source_url": "https://www.igdb.com/games/ctrl-cv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ptl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ctrl CV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "502130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/502130",
+        "Linux": "setsid steam steam://rungameid/502130",
+        "macOS": "open steam://rungameid/502130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ctrl-cv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101514"
+}
