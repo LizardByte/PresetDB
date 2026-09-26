@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102217,
+  "name": "Hallo Spaceboy",
+  "source_url": "https://www.igdb.com/games/hallo-spaceboy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vas.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hallo Spaceboy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868010",
+        "Linux": "setsid steam steam://rungameid/868010",
+        "macOS": "open steam://rungameid/868010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hallo-spaceboy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102217"
+}
