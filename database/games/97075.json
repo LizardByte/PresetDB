@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97075,
+  "name": "Try to seize me",
+  "source_url": "https://www.igdb.com/games/try-to-seize-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjjm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Try to seize me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822750",
+        "Linux": "setsid steam steam://rungameid/822750",
+        "macOS": "open steam://rungameid/822750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "try-to-seize-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97075"
+}
