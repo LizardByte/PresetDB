@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96878,
+  "name": "MineSweep",
+  "source_url": "https://www.igdb.com/games/minesweep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48yu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MineSweep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "837440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/837440",
+        "Linux": "setsid steam steam://rungameid/837440",
+        "macOS": "open steam://rungameid/837440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minesweep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96878"
+}
