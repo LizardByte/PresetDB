@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95271,
+  "name": "Synstasis",
+  "source_url": "https://www.igdb.com/games/synstasis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Synstasis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828100",
+        "Linux": "setsid steam steam://rungameid/828100",
+        "macOS": "open steam://rungameid/828100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "synstasis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95271"
+}
