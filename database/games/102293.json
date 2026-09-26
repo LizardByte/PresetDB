@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102293,
+  "name": "Empty Town",
+  "source_url": "https://www.igdb.com/games/empty-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobliq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Empty Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779620",
+        "Linux": "setsid steam steam://rungameid/779620",
+        "macOS": "open steam://rungameid/779620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "empty-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102293"
+}
