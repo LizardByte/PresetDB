@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102267,
+  "name": "DeDrive",
+  "source_url": "https://www.igdb.com/games/dedrive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3oai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeDrive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "672490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/672490",
+        "Linux": "setsid steam steam://rungameid/672490",
+        "macOS": "open steam://rungameid/672490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dedrive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102267"
+}
