@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98704,
+  "name": "Squarehead",
+  "source_url": "https://www.igdb.com/games/squarehead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4202.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squarehead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "660400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/660400",
+        "Linux": "setsid steam steam://rungameid/660400",
+        "macOS": "open steam://rungameid/660400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "squarehead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98704"
+}
