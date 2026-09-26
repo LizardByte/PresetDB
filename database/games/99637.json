@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99637,
+  "name": "Super Hero VR",
+  "source_url": "https://www.igdb.com/games/super-hero-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob83y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Hero VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "841800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/841800",
+        "Linux": "setsid steam steam://rungameid/841800",
+        "macOS": "open steam://rungameid/841800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-hero-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99637"
+}
