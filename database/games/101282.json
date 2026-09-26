@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101282,
+  "name": "NavalArt",
+  "source_url": "https://www.igdb.com/games/navalart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q0l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NavalArt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "842780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/842780",
+        "Linux": "setsid steam steam://rungameid/842780",
+        "macOS": "open steam://rungameid/842780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "navalart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101282"
+}
