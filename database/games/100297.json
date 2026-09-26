@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100297,
+  "name": "Blink",
+  "source_url": "https://www.igdb.com/games/blink--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3md9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1204360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1204360",
+        "Linux": "setsid steam steam://rungameid/1204360",
+        "macOS": "open steam://rungameid/1204360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blink--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100297"
+}
