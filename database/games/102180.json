@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102180,
+  "name": "Vein Hotel",
+  "source_url": "https://www.igdb.com/games/vein-hotel",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vein Hotel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865860",
+        "Linux": "setsid steam steam://rungameid/865860",
+        "macOS": "open steam://rungameid/865860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vein-hotel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102180"
+}
