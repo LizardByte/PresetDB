@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97084,
+  "name": "OS:Path",
+  "source_url": "https://www.igdb.com/games/os-path",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OS:Path",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831090",
+        "Linux": "setsid steam steam://rungameid/831090",
+        "macOS": "open steam://rungameid/831090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "os-path",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97084"
+}
