@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96387,
+  "name": "Sacred Stones",
+  "source_url": "https://www.igdb.com/games/sacred-stones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yso.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sacred Stones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "826040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/826040",
+        "Linux": "setsid steam steam://rungameid/826040",
+        "macOS": "open steam://rungameid/826040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sacred-stones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96387"
+}
