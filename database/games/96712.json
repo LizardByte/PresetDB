@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96712,
+  "name": "Chineze",
+  "source_url": "https://www.igdb.com/games/chineze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk6b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chineze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "760220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/760220",
+        "Linux": "setsid steam steam://rungameid/760220",
+        "macOS": "open steam://rungameid/760220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chineze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96712"
+}
