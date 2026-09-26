@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101393,
+  "name": "Bully Store",
+  "source_url": "https://www.igdb.com/games/bully-store",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bully Store",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860870",
+        "Linux": "setsid steam steam://rungameid/860870",
+        "macOS": "open steam://rungameid/860870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bully-store",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101393"
+}
