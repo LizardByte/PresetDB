@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99422,
+  "name": "Sunny Smiles",
+  "source_url": "https://www.igdb.com/games/sunny-smiles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6htf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunny Smiles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "842130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/842130",
+        "Linux": "setsid steam steam://rungameid/842130",
+        "macOS": "open steam://rungameid/842130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sunny-smiles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99422"
+}
