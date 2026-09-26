@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97088,
+  "name": "Meme Machine",
+  "source_url": "https://www.igdb.com/games/meme-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63m7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meme Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833920",
+        "Linux": "setsid steam steam://rungameid/833920",
+        "macOS": "open steam://rungameid/833920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meme-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97088"
+}
