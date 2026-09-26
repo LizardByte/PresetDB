@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102151,
+  "name": "Tank rush",
+  "source_url": "https://www.igdb.com/games/tank-rush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7i2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tank rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "849320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/849320",
+        "Linux": "setsid steam steam://rungameid/849320",
+        "macOS": "open steam://rungameid/849320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tank-rush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102151"
+}
