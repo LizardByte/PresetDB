@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100544,
+  "name": "Arena",
+  "source_url": "https://www.igdb.com/games/arena--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63ki.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "717300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/717300",
+        "Linux": "setsid steam steam://rungameid/717300",
+        "macOS": "open steam://rungameid/717300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arena--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100544"
+}
