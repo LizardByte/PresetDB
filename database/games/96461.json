@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96461,
+  "name": "Clash of Magic",
+  "source_url": "https://www.igdb.com/games/clash-of-magic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23x7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clash of Magic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845950",
+        "Linux": "setsid steam steam://rungameid/845950",
+        "macOS": "open steam://rungameid/845950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clash-of-magic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96461"
+}
