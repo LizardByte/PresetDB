@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101591,
+  "name": "Battle of Kings",
+  "source_url": "https://www.igdb.com/games/battle-of-kings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m0b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle of Kings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "779300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/779300",
+        "Linux": "setsid steam steam://rungameid/779300",
+        "macOS": "open steam://rungameid/779300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-of-kings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101591"
+}
