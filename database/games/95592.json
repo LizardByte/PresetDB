@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95592,
+  "name": "Anark.io",
+  "source_url": "https://www.igdb.com/games/anark-dot-io",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lg5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anark.io",
+      "os": null,
+      "method": "steam",
+      "launch_id": "808120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/808120",
+        "Linux": "setsid steam steam://rungameid/808120",
+        "macOS": "open steam://rungameid/808120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anark-dot-io",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95592"
+}
