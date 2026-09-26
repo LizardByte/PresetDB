@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100588,
+  "name": "The Forest Below",
+  "source_url": "https://www.igdb.com/games/the-forest-below",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob71y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Forest Below",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843620",
+        "Linux": "setsid steam steam://rungameid/843620",
+        "macOS": "open steam://rungameid/843620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-forest-below",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100588"
+}
