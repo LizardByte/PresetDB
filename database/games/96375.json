@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96375,
+  "name": "Behind Walls",
+  "source_url": "https://www.igdb.com/games/behind-walls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhvq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Behind Walls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781780",
+        "Linux": "setsid steam steam://rungameid/781780",
+        "macOS": "open steam://rungameid/781780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "behind-walls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96375"
+}
