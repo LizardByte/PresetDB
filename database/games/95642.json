@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95642,
+  "name": "Gingerbread Story",
+  "source_url": "https://www.igdb.com/games/gingerbread-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobev0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gingerbread Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817620",
+        "Linux": "setsid steam steam://rungameid/817620",
+        "macOS": "open steam://rungameid/817620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gingerbread-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95642"
+}
