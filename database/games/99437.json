@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99437,
+  "name": "My zero trip",
+  "source_url": "https://www.igdb.com/games/my-zero-trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My zero trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "837390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/837390",
+        "Linux": "setsid steam steam://rungameid/837390",
+        "macOS": "open steam://rungameid/837390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-zero-trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99437"
+}
