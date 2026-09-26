@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100586,
+  "name": "Snake, snake, snake!",
+  "source_url": "https://www.igdb.com/games/snake-snake-snake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63im.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snake, snake, snake!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "857140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/857140",
+        "Linux": "setsid steam steam://rungameid/857140",
+        "macOS": "open steam://rungameid/857140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snake-snake-snake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100586"
+}
