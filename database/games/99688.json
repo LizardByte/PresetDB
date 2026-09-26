@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99688,
+  "name": "Priest",
+  "source_url": "https://www.igdb.com/games/priest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/yfvjuqy2le8zd0pqz3ck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Priest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "832140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/832140",
+        "Linux": "setsid steam steam://rungameid/832140",
+        "macOS": "open steam://rungameid/832140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "priest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99688"
+}
