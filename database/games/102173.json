@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102173,
+  "name": "Barry Has a Secret",
+  "source_url": "https://www.igdb.com/games/barry-has-a-secret",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnbz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Barry Has a Secret",
+      "os": null,
+      "method": "steam",
+      "launch_id": "864230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/864230",
+        "Linux": "setsid steam steam://rungameid/864230",
+        "macOS": "open steam://rungameid/864230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "barry-has-a-secret",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102173"
+}
