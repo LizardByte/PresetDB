@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101631,
+  "name": "Ros",
+  "source_url": "https://www.igdb.com/games/ros",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dnw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ros",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862300",
+        "Linux": "setsid steam steam://rungameid/862300",
+        "macOS": "open steam://rungameid/862300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ros",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101631"
+}
