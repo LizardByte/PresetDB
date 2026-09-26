@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96622,
+  "name": "Zombie Derby",
+  "source_url": "https://www.igdb.com/games/zombie-derby",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l2v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Derby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "831770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/831770",
+        "Linux": "setsid steam steam://rungameid/831770",
+        "macOS": "open steam://rungameid/831770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-derby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96622"
+}
