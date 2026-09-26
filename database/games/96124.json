@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96124,
+  "name": "X-Town 3D game",
+  "source_url": "https://www.igdb.com/games/x-town-3d-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4wk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "X-Town 3D game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828160",
+        "Linux": "setsid steam steam://rungameid/828160",
+        "macOS": "open steam://rungameid/828160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "x-town-3d-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96124"
+}
