@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101625,
+  "name": "Trivia Vault: Food Trivia",
+  "source_url": "https://www.igdb.com/games/trivia-vault-food-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44yu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trivia Vault: Food Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861720",
+        "Linux": "setsid steam steam://rungameid/861720",
+        "macOS": "open steam://rungameid/861720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trivia-vault-food-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101625"
+}
