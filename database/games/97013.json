@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97013,
+  "name": "Arrowborn",
+  "source_url": "https://www.igdb.com/games/arrowborn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arrowborn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833070",
+        "Linux": "setsid steam steam://rungameid/833070",
+        "macOS": "open steam://rungameid/833070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arrowborn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97013"
+}
