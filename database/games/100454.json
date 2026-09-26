@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100454,
+  "name": "Hunt With Friends",
+  "source_url": "https://www.igdb.com/games/hunt-with-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp0g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hunt With Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843830",
+        "Linux": "setsid steam steam://rungameid/843830",
+        "macOS": "open steam://rungameid/843830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hunt-with-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100454"
+}
