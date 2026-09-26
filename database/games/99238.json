@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99238,
+  "name": "Dino Dawn",
+  "source_url": "https://www.igdb.com/games/dino-dawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfxg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dino Dawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854160",
+        "Linux": "setsid steam steam://rungameid/854160",
+        "macOS": "open steam://rungameid/854160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dino-dawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99238"
+}
