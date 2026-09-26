@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101628,
+  "name": "Bomb-Bomb",
+  "source_url": "https://www.igdb.com/games/bomb-bomb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfje.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bomb-Bomb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861790",
+        "Linux": "setsid steam steam://rungameid/861790",
+        "macOS": "open steam://rungameid/861790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bomb-bomb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101628"
+}
