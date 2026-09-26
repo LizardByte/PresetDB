@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102195,
+  "name": "Nykra",
+  "source_url": "https://www.igdb.com/games/nykra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2u7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nykra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "867660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/867660",
+        "Linux": "setsid steam steam://rungameid/867660",
+        "macOS": "open steam://rungameid/867660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nykra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102195"
+}
