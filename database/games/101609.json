@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101609,
+  "name": "WorldQuest",
+  "source_url": "https://www.igdb.com/games/worldquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4v9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WorldQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852500",
+        "Linux": "setsid steam steam://rungameid/852500",
+        "macOS": "open steam://rungameid/852500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "worldquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101609"
+}
