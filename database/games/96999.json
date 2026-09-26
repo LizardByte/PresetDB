@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96999,
+  "name": "Blocky Snake",
+  "source_url": "https://www.igdb.com/games/blocky-snake--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3j3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blocky Snake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "942310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/942310",
+        "Linux": "setsid steam steam://rungameid/942310",
+        "macOS": "open steam://rungameid/942310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blocky-snake--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96999"
+}
