@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96197,
+  "name": "Win the Game!",
+  "source_url": "https://www.igdb.com/games/win-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7xis.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Win the Game!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828150",
+        "Linux": "setsid steam steam://rungameid/828150",
+        "macOS": "open steam://rungameid/828150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "win-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96197"
+}
