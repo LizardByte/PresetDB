@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96684,
+  "name": "Broken Ties",
+  "source_url": "https://www.igdb.com/games/broken-ties",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobeve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Broken Ties",
+      "os": null,
+      "method": "steam",
+      "launch_id": "813020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/813020",
+        "Linux": "setsid steam steam://rungameid/813020",
+        "macOS": "open steam://rungameid/813020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "broken-ties",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96684"
+}
