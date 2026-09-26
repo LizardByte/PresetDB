@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101365,
+  "name": "Bulletline",
+  "source_url": "https://www.igdb.com/games/bulletline",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rxm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bulletline",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860070",
+        "Linux": "setsid steam steam://rungameid/860070",
+        "macOS": "open steam://rungameid/860070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bulletline",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101365"
+}
