@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101325,
+  "name": "Disc Golf VR",
+  "source_url": "https://www.igdb.com/games/disc-golf-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfgf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disc Golf VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856300",
+        "Linux": "setsid steam steam://rungameid/856300",
+        "macOS": "open steam://rungameid/856300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "disc-golf-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101325"
+}
