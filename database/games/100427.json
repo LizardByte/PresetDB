@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100427,
+  "name": "Fur the Game",
+  "source_url": "https://www.igdb.com/games/fur-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29sw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fur the Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856600",
+        "Linux": "setsid steam steam://rungameid/856600",
+        "macOS": "open steam://rungameid/856600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fur-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100427"
+}
