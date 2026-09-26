@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101700,
+  "name": "Idle Earth",
+  "source_url": "https://www.igdb.com/games/idle-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789750",
+        "Linux": "setsid steam steam://rungameid/789750",
+        "macOS": "open steam://rungameid/789750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101700"
+}
