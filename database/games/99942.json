@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99942,
+  "name": "Spiral",
+  "source_url": "https://www.igdb.com/games/spiral",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ps6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spiral",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1579390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1579390",
+        "Linux": "setsid steam steam://rungameid/1579390",
+        "macOS": "open steam://rungameid/1579390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spiral",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99942"
+}
