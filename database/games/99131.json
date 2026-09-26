@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99131,
+  "name": "Rising Dusk",
+  "source_url": "https://www.igdb.com/games/rising-dusk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc56z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rising Dusk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "848930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/848930",
+        "Linux": "setsid steam steam://rungameid/848930",
+        "macOS": "open steam://rungameid/848930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rising-dusk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99131"
+}
