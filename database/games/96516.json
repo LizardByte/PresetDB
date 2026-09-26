@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96516,
+  "name": "Marching Simulator",
+  "source_url": "https://www.igdb.com/games/marching-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfuy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marching Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817370",
+        "Linux": "setsid steam steam://rungameid/817370",
+        "macOS": "open steam://rungameid/817370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marching-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96516"
+}
