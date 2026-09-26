@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97691,
+  "name": "Cheese Maze",
+  "source_url": "https://www.igdb.com/games/cheese-maze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0tr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cheese Maze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819550",
+        "Linux": "setsid steam steam://rungameid/819550",
+        "macOS": "open steam://rungameid/819550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cheese-maze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97691"
+}
