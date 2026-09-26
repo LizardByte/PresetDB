@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95616,
+  "name": "Monster Crown",
+  "source_url": "https://www.igdb.com/games/monster-crown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m9i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Crown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "830370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/830370",
+        "Linux": "setsid steam steam://rungameid/830370",
+        "macOS": "open steam://rungameid/830370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-crown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95616"
+}
