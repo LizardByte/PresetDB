@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97921,
+  "name": "Pestis",
+  "source_url": "https://www.igdb.com/games/pestis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co548w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pestis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "853480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/853480",
+        "Linux": "setsid steam steam://rungameid/853480",
+        "macOS": "open steam://rungameid/853480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pestis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97921"
+}
