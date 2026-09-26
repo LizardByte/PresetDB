@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99601,
+  "name": "Monmusu Fight!",
+  "source_url": "https://www.igdb.com/games/monmusu-fight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9dmb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monmusu Fight!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "804610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/804610",
+        "Linux": "setsid steam steam://rungameid/804610",
+        "macOS": "open steam://rungameid/804610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monmusu-fight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99601"
+}
