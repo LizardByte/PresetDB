@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96204,
+  "name": "Sea Salt",
+  "source_url": "https://www.igdb.com/games/sea-salt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocw7j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sea Salt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "983350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/983350",
+        "Linux": "setsid steam steam://rungameid/983350",
+        "macOS": "open steam://rungameid/983350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sea-salt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96204"
+}
