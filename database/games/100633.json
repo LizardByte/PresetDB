@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100633,
+  "name": "Trivia Vault: Business Trivia",
+  "source_url": "https://www.igdb.com/games/trivia-vault-business-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44yq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trivia Vault: Business Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858420",
+        "Linux": "setsid steam steam://rungameid/858420",
+        "macOS": "open steam://rungameid/858420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trivia-vault-business-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100633"
+}
