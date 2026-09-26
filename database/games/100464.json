@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100464,
+  "name": "Tharn",
+  "source_url": "https://www.igdb.com/games/tharn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhkg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tharn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "837270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/837270",
+        "Linux": "setsid steam steam://rungameid/837270",
+        "macOS": "open steam://rungameid/837270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tharn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100464"
+}
