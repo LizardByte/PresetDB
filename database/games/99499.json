@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99499,
+  "name": "Deadly Delivery",
+  "source_url": "https://www.igdb.com/games/deadly-delivery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfe5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadly Delivery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819740",
+        "Linux": "setsid steam steam://rungameid/819740",
+        "macOS": "open steam://rungameid/819740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadly-delivery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99499"
+}
