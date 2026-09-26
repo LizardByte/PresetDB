@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98501,
+  "name": "Fake Lay",
+  "source_url": "https://www.igdb.com/games/fake-lay",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fake Lay",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1191420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1191420",
+        "Linux": "setsid steam steam://rungameid/1191420",
+        "macOS": "open steam://rungameid/1191420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fake-lay",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98501"
+}
