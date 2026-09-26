@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99301,
+  "name": "Clue/Cluedo: Classic",
+  "source_url": "https://www.igdb.com/games/clue-slash-cluedo-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnzq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clue/Cluedo: Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "794800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/794800",
+        "Linux": "setsid steam steam://rungameid/794800",
+        "macOS": "open steam://rungameid/794800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clue-slash-cluedo-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99301"
+}
