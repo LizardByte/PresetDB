@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101762,
+  "name": "Crazy Christmas",
+  "source_url": "https://www.igdb.com/games/crazy-christmas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45p8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Christmas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1563420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1563420",
+        "Linux": "setsid steam steam://rungameid/1563420",
+        "macOS": "open steam://rungameid/1563420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crazy-christmas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101762"
+}
