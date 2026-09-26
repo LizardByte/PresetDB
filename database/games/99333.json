@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99333,
+  "name": "Swapper Tiles",
+  "source_url": "https://www.igdb.com/games/swapper-tiles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sro.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swapper Tiles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "801660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/801660",
+        "Linux": "setsid steam steam://rungameid/801660",
+        "macOS": "open steam://rungameid/801660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swapper-tiles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99333"
+}
