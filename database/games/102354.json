@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102354,
+  "name": "MasqueradeAI",
+  "source_url": "https://www.igdb.com/games/masqueradeai",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MasqueradeAI",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860100",
+        "Linux": "setsid steam steam://rungameid/860100",
+        "macOS": "open steam://rungameid/860100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "masqueradeai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102354"
+}
