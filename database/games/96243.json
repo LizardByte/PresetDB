@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96243,
+  "name": "One Watcher",
+  "source_url": "https://www.igdb.com/games/one-watcher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkgj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Watcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "727150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/727150",
+        "Linux": "setsid steam steam://rungameid/727150",
+        "macOS": "open steam://rungameid/727150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-watcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96243"
+}
