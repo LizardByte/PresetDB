@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100543,
+  "name": "Scalak",
+  "source_url": "https://www.igdb.com/games/scalak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4x81.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scalak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858760",
+        "Linux": "setsid steam steam://rungameid/858760",
+        "macOS": "open steam://rungameid/858760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scalak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100543"
+}
