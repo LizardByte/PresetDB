@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98981,
+  "name": "My Sunny Resort",
+  "source_url": "https://www.igdb.com/games/my-sunny-resort",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pkx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Sunny Resort",
+      "os": null,
+      "method": "steam",
+      "launch_id": "821610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/821610",
+        "Linux": "setsid steam steam://rungameid/821610",
+        "macOS": "open steam://rungameid/821610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-sunny-resort",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98981"
+}
