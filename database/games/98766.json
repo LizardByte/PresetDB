@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98766,
+  "name": "Coin-Op Kingdom",
+  "source_url": "https://www.igdb.com/games/coin-op-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnjx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coin-Op Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "837780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/837780",
+        "Linux": "setsid steam steam://rungameid/837780",
+        "macOS": "open steam://rungameid/837780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coin-op-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98766"
+}
