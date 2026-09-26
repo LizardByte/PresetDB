@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99070,
+  "name": "Stargazer program",
+  "source_url": "https://www.igdb.com/games/stargazer-program",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/aiobaaydgvldnawpbfwf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stargazer program",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828250",
+        "Linux": "setsid steam steam://rungameid/828250",
+        "macOS": "open steam://rungameid/828250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stargazer-program",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99070"
+}
