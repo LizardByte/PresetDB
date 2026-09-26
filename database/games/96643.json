@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96643,
+  "name": "Beginner'sGame",
+  "source_url": "https://www.igdb.com/games/beginnersgame",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beginner'sGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "836420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/836420",
+        "Linux": "setsid steam steam://rungameid/836420",
+        "macOS": "open steam://rungameid/836420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beginnersgame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96643"
+}
