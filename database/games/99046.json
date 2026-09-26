@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99046,
+  "name": "Never Split the Party",
+  "source_url": "https://www.igdb.com/games/never-split-the-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27mz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Never Split the Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "711810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/711810",
+        "Linux": "setsid steam steam://rungameid/711810",
+        "macOS": "open steam://rungameid/711810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "never-split-the-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99046"
+}
