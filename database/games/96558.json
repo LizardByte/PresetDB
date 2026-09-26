@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96558,
+  "name": "Vox Machinae",
+  "source_url": "https://www.igdb.com/games/vox-machinae",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1j5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vox Machinae",
+      "os": null,
+      "method": "steam",
+      "launch_id": "334540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/334540",
+        "Linux": "setsid steam steam://rungameid/334540",
+        "macOS": "open steam://rungameid/334540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vox-machinae",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96558"
+}
