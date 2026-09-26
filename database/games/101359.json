@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101359,
+  "name": "USA 2020",
+  "source_url": "https://www.igdb.com/games/usa-2020",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6a1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "USA 2020",
+      "os": null,
+      "method": "steam",
+      "launch_id": "859700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/859700",
+        "Linux": "setsid steam steam://rungameid/859700",
+        "macOS": "open steam://rungameid/859700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "usa-2020",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101359"
+}
