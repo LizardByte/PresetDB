@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100452,
+  "name": "After Dreams",
+  "source_url": "https://www.igdb.com/games/after-dreams",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coarua.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "After Dreams",
+      "os": null,
+      "method": "steam",
+      "launch_id": "498710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/498710",
+        "Linux": "setsid steam steam://rungameid/498710",
+        "macOS": "open steam://rungameid/498710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "after-dreams",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100452"
+}
