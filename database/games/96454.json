@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96454,
+  "name": "Sign Here: _________",
+  "source_url": "https://www.igdb.com/games/sign-here",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf7f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sign Here: _________",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845330",
+        "Linux": "setsid steam steam://rungameid/845330",
+        "macOS": "open steam://rungameid/845330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sign-here",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96454"
+}
