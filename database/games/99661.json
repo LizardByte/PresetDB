@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99661,
+  "name": "Obscurity",
+  "source_url": "https://www.igdb.com/games/obscurity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobft6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Obscurity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "844350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/844350",
+        "Linux": "setsid steam steam://rungameid/844350",
+        "macOS": "open steam://rungameid/844350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "obscurity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99661"
+}
