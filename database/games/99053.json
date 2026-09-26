@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99053,
+  "name": "Paper Dolls",
+  "source_url": "https://www.igdb.com/games/paper-dolls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kyl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paper Dolls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851050",
+        "Linux": "setsid steam steam://rungameid/851050",
+        "macOS": "open steam://rungameid/851050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paper-dolls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99053"
+}
