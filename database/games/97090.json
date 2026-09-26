@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97090,
+  "name": "HexLab",
+  "source_url": "https://www.igdb.com/games/hexlab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ui3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HexLab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833370",
+        "Linux": "setsid steam steam://rungameid/833370",
+        "macOS": "open steam://rungameid/833370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexlab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97090"
+}
