@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101612,
+  "name": "The Rose of Segunda",
+  "source_url": "https://www.igdb.com/games/the-rose-of-segunda",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co442p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Rose of Segunda",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858050",
+        "Linux": "setsid steam steam://rungameid/858050",
+        "macOS": "open steam://rungameid/858050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-rose-of-segunda",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101612"
+}
