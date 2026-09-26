@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99025,
+  "name": "Camp W",
+  "source_url": "https://www.igdb.com/games/camp-w",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pn4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Camp W",
+      "os": null,
+      "method": "steam",
+      "launch_id": "820510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/820510",
+        "Linux": "setsid steam steam://rungameid/820510",
+        "macOS": "open steam://rungameid/820510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "camp-w",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99025"
+}
