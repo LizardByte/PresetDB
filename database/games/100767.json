@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100767,
+  "name": "Wonder Parade",
+  "source_url": "https://www.igdb.com/games/wonder-parade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lpd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wonder Parade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1138980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1138980",
+        "Linux": "setsid steam steam://rungameid/1138980",
+        "macOS": "open steam://rungameid/1138980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wonder-parade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100767"
+}
