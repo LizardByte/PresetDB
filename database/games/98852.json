@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 98852,
+  "name": "Open the Door",
+  "source_url": "https://www.igdb.com/games/open-the-door",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co52jc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Open the Door",
+      "os": null,
+      "method": "steam",
+      "launch_id": "849000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/849000",
+        "Linux": "setsid steam steam://rungameid/849000",
+        "macOS": "open steam://rungameid/849000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "open-the-door",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=98852"
+}
