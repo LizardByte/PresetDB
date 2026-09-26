@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96434,
+  "name": "Royal Adventure",
+  "source_url": "https://www.igdb.com/games/royal-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaioe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Royal Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "832650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/832650",
+        "Linux": "setsid steam steam://rungameid/832650",
+        "macOS": "open steam://rungameid/832650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "royal-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96434"
+}
