@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99588,
+  "name": "Safe House",
+  "source_url": "https://www.igdb.com/games/safe-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf90.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Safe House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "636230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/636230",
+        "Linux": "setsid steam steam://rungameid/636230",
+        "macOS": "open steam://rungameid/636230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "safe-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99588"
+}
