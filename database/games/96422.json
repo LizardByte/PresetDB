@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96422,
+  "name": "Clicker Planet",
+  "source_url": "https://www.igdb.com/games/clicker-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfkm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clicker Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "834210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/834210",
+        "Linux": "setsid steam steam://rungameid/834210",
+        "macOS": "open steam://rungameid/834210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clicker-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96422"
+}
