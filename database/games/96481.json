@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96481,
+  "name": "Stay Safe",
+  "source_url": "https://www.igdb.com/games/stay-safe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rfh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stay Safe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "818140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/818140",
+        "Linux": "setsid steam steam://rungameid/818140",
+        "macOS": "open steam://rungameid/818140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stay-safe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96481"
+}
