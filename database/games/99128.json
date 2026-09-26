@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99128,
+  "name": "Cereal Soup",
+  "source_url": "https://www.igdb.com/games/cereal-soup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mzh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cereal Soup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838900",
+        "Linux": "setsid steam steam://rungameid/838900",
+        "macOS": "open steam://rungameid/838900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cereal-soup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99128"
+}
