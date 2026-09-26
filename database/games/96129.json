@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96129,
+  "name": "Dynamite Bunny",
+  "source_url": "https://www.igdb.com/games/dynamite-bunny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3paa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dynamite Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "836280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/836280",
+        "Linux": "setsid steam steam://rungameid/836280",
+        "macOS": "open steam://rungameid/836280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dynamite-bunny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96129"
+}
