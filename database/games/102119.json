@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102119,
+  "name": "Quarantine Circular",
+  "source_url": "https://www.igdb.com/games/quarantine-circular",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vuw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quarantine Circular",
+      "os": null,
+      "method": "steam",
+      "launch_id": "853500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/853500",
+        "Linux": "setsid steam steam://rungameid/853500",
+        "macOS": "open steam://rungameid/853500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quarantine-circular",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102119"
+}
