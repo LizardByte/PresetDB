@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101546,
+  "name": "DragonCrash",
+  "source_url": "https://www.igdb.com/games/dragoncrash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4eq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DragonCrash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "681580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/681580",
+        "Linux": "setsid steam steam://rungameid/681580",
+        "macOS": "open steam://rungameid/681580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragoncrash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101546"
+}
