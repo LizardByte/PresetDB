@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96642,
+  "name": "Super Weekend Mode",
+  "source_url": "https://www.igdb.com/games/super-weekend-mode",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co249f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Weekend Mode",
+      "os": null,
+      "method": "steam",
+      "launch_id": "828590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/828590",
+        "Linux": "setsid steam steam://rungameid/828590",
+        "macOS": "open steam://rungameid/828590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-weekend-mode",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96642"
+}
