@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 95620,
+  "name": "Dark Drive",
+  "source_url": "https://www.igdb.com/games/dark-drive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnaq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Drive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822030",
+        "Linux": "setsid steam steam://rungameid/822030",
+        "macOS": "open steam://rungameid/822030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-drive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=95620"
+}
