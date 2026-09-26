@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96652,
+  "name": "Spaghet",
+  "source_url": "https://www.igdb.com/games/spaghet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobeva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spaghet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "821320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/821320",
+        "Linux": "setsid steam steam://rungameid/821320",
+        "macOS": "open steam://rungameid/821320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spaghet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96652"
+}
