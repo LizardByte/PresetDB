@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102285,
+  "name": "Doomed",
+  "source_url": "https://www.igdb.com/games/doomed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4n0l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doomed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "731720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/731720",
+        "Linux": "setsid steam steam://rungameid/731720",
+        "macOS": "open steam://rungameid/731720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doomed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102285"
+}
