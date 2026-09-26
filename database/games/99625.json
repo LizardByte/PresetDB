@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99625,
+  "name": "Signal Simulator",
+  "source_url": "https://www.igdb.com/games/signal-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1th6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Signal Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "839310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/839310",
+        "Linux": "setsid steam steam://rungameid/839310",
+        "macOS": "open steam://rungameid/839310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "signal-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99625"
+}
