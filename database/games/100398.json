@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100398,
+  "name": "Achievement Machine",
+  "source_url": "https://www.igdb.com/games/achievement-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22cr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Achievement Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851000",
+        "Linux": "setsid steam steam://rungameid/851000",
+        "macOS": "open steam://rungameid/851000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "achievement-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100398"
+}
