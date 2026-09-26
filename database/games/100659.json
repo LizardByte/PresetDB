@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100659,
+  "name": "Sea Explorer",
+  "source_url": "https://www.igdb.com/games/sea-explorer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf8a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sea Explorer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "846210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/846210",
+        "Linux": "setsid steam steam://rungameid/846210",
+        "macOS": "open steam://rungameid/846210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sea-explorer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100659"
+}
