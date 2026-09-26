@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 100660,
+  "name": "Wild West Saga",
+  "source_url": "https://www.igdb.com/games/wild-west-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vwj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild West Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "842150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/842150",
+        "Linux": "setsid steam steam://rungameid/842150",
+        "macOS": "open steam://rungameid/842150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-west-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=100660"
+}
