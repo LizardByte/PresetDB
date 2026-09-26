@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 101065,
+  "name": "Iron Danger",
+  "source_url": "https://www.igdb.com/games/iron-danger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa536.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Danger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "899310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/899310",
+        "Linux": "setsid steam steam://rungameid/899310",
+        "macOS": "open steam://rungameid/899310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-danger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=101065"
+}
