@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96645,
+  "name": "The President",
+  "source_url": "https://www.igdb.com/games/the-president",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co441k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The President",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819210",
+        "Linux": "setsid steam steam://rungameid/819210",
+        "macOS": "open steam://rungameid/819210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-president",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96645"
+}
