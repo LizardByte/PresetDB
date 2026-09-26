@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96889,
+  "name": "Undead & Beyond",
+  "source_url": "https://www.igdb.com/games/undead-and-beyond",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Undead & Beyond",
+      "os": null,
+      "method": "steam",
+      "launch_id": "839410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/839410",
+        "Linux": "setsid steam steam://rungameid/839410",
+        "macOS": "open steam://rungameid/839410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "undead-and-beyond",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96889"
+}
