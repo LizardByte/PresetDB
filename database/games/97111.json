@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 97111,
+  "name": "Fated Kingdom",
+  "source_url": "https://www.igdb.com/games/fated-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/prc2re8zwupphnaqhsae.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fated Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "837400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/837400",
+        "Linux": "setsid steam steam://rungameid/837400",
+        "macOS": "open steam://rungameid/837400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fated-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=97111"
+}
