@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96695,
+  "name": "Zig",
+  "source_url": "https://www.igdb.com/games/zig",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zig",
+      "os": null,
+      "method": "steam",
+      "launch_id": "796140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/796140",
+        "Linux": "setsid steam steam://rungameid/796140",
+        "macOS": "open steam://rungameid/796140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zig",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96695"
+}
