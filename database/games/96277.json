@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 96277,
+  "name": "Skelly Selest",
+  "source_url": "https://www.igdb.com/games/skelly-selest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tr6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skelly Selest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "685400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/685400",
+        "Linux": "setsid steam steam://rungameid/685400",
+        "macOS": "open steam://rungameid/685400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skelly-selest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=96277"
+}
