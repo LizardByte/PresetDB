@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99057,
+  "name": "God Vs Zombies",
+  "source_url": "https://www.igdb.com/games/god-vs-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfxc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "God Vs Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843500",
+        "Linux": "setsid steam steam://rungameid/843500",
+        "macOS": "open steam://rungameid/843500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "god-vs-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99057"
+}
