@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 99641,
+  "name": "Kickshot",
+  "source_url": "https://www.igdb.com/games/kickshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kickshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "842500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/842500",
+        "Linux": "setsid steam steam://rungameid/842500",
+        "macOS": "open steam://rungameid/842500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kickshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=99641"
+}
