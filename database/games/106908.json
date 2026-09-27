@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106908,
+  "name": "One Gun: Cat",
+  "source_url": "https://www.igdb.com/games/one-gun-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fkg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Gun: Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "924900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/924900",
+        "Linux": "setsid steam steam://rungameid/924900",
+        "macOS": "open steam://rungameid/924900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-gun-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106908"
+}
