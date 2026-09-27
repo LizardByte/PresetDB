@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116746,
+  "name": "Beat Miner",
+  "source_url": "https://www.igdb.com/games/beat-miner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobrew.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat Miner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "769540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/769540",
+        "Linux": "setsid steam steam://rungameid/769540",
+        "macOS": "open steam://rungameid/769540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beat-miner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116746"
+}
