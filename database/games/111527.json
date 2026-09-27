@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111527,
+  "name": "The Sky Climber",
+  "source_url": "https://www.igdb.com/games/the-sky-climber--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfk0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Sky Climber",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958690",
+        "Linux": "setsid steam steam://rungameid/958690",
+        "macOS": "open steam://rungameid/958690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-sky-climber--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111527"
+}
