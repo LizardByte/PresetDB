@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103835,
+  "name": "Basketball",
+  "source_url": "https://www.igdb.com/games/basketball--3",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Basketball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881270",
+        "Linux": "setsid steam steam://rungameid/881270",
+        "macOS": "open steam://rungameid/881270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "basketball--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103835"
+}
