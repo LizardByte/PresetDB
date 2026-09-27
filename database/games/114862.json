@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114862,
+  "name": "I'm Still Here",
+  "source_url": "https://www.igdb.com/games/im-still-here",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm Still Here",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1017760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1017760",
+        "Linux": "setsid steam steam://rungameid/1017760",
+        "macOS": "open steam://rungameid/1017760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-still-here",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114862"
+}
