@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103415,
+  "name": "Waking Violet",
+  "source_url": "https://www.igdb.com/games/waking-violet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rtz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waking Violet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845600",
+        "Linux": "setsid steam steam://rungameid/845600",
+        "macOS": "open steam://rungameid/845600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waking-violet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103415"
+}
