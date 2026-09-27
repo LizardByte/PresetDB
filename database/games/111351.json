@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111351,
+  "name": "Speaking Simulator",
+  "source_url": "https://www.igdb.com/games/speaking-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Speaking Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "966400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/966400",
+        "Linux": "setsid steam steam://rungameid/966400",
+        "macOS": "open steam://rungameid/966400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "speaking-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111351"
+}
