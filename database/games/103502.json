@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103502,
+  "name": "ZEscape",
+  "source_url": "https://www.igdb.com/games/zescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZEscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "517280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/517280",
+        "Linux": "setsid steam steam://rungameid/517280",
+        "macOS": "open steam://rungameid/517280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103502"
+}
