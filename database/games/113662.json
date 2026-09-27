@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113662,
+  "name": "Once'",
+  "source_url": "https://www.igdb.com/games/once",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qky.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Once'",
+      "os": null,
+      "method": "steam",
+      "launch_id": "411880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/411880",
+        "Linux": "setsid steam steam://rungameid/411880",
+        "macOS": "open steam://rungameid/411880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "once",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113662"
+}
