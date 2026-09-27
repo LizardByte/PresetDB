@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113069,
+  "name": "Vestige",
+  "source_url": "https://www.igdb.com/games/vestige",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5er.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vestige",
+      "os": null,
+      "method": "steam",
+      "launch_id": "975410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/975410",
+        "Linux": "setsid steam steam://rungameid/975410",
+        "macOS": "open steam://rungameid/975410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vestige",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113069"
+}
