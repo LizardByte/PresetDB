@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110354,
+  "name": "Drunk Puppet",
+  "source_url": "https://www.igdb.com/games/drunk-puppet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobine.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drunk Puppet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "944380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/944380",
+        "Linux": "setsid steam steam://rungameid/944380",
+        "macOS": "open steam://rungameid/944380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drunk-puppet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110354"
+}
