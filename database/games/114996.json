@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114996,
+  "name": "Magic Heart",
+  "source_url": "https://www.igdb.com/games/magic-heart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2z5f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Heart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1026390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1026390",
+        "Linux": "setsid steam steam://rungameid/1026390",
+        "macOS": "open steam://rungameid/1026390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-heart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114996"
+}
