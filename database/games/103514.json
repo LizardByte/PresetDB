@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103514,
+  "name": "Ark: Scorched Earth",
+  "source_url": "https://www.igdb.com/games/ark-scorched-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82bt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ark: Scorched Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "512540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/512540",
+        "Linux": "setsid steam steam://rungameid/512540",
+        "macOS": "open steam://rungameid/512540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ark-scorched-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103514"
+}
