@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116777,
+  "name": "Age of Omens",
+  "source_url": "https://www.igdb.com/games/age-of-omens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fjv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age of Omens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1016660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1016660",
+        "Linux": "setsid steam steam://rungameid/1016660",
+        "macOS": "open steam://rungameid/1016660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "age-of-omens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116777"
+}
