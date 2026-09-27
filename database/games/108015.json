@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108015,
+  "name": "WASDead",
+  "source_url": "https://www.igdb.com/games/wasdead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46ov.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WASDead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "912680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/912680",
+        "Linux": "setsid steam steam://rungameid/912680",
+        "macOS": "open steam://rungameid/912680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wasdead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108015"
+}
