@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112480,
+  "name": "RGB Run",
+  "source_url": "https://www.igdb.com/games/rgb-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfi5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RGB Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978340",
+        "Linux": "setsid steam steam://rungameid/978340",
+        "macOS": "open steam://rungameid/978340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rgb-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112480"
+}
