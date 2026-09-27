@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116167,
+  "name": "Scuos",
+  "source_url": "https://www.igdb.com/games/scuos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf8b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scuos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955120",
+        "Linux": "setsid steam steam://rungameid/955120",
+        "macOS": "open steam://rungameid/955120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scuos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116167"
+}
