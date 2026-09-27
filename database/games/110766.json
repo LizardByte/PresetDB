@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110766,
+  "name": "Megamix",
+  "source_url": "https://www.igdb.com/games/megamix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgqc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Megamix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "777140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/777140",
+        "Linux": "setsid steam steam://rungameid/777140",
+        "macOS": "open steam://rungameid/777140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "megamix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110766"
+}
