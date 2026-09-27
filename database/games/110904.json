@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110904,
+  "name": "Daemon 9",
+  "source_url": "https://www.igdb.com/games/daemon-9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1h7w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daemon 9",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892690",
+        "Linux": "setsid steam steam://rungameid/892690",
+        "macOS": "open steam://rungameid/892690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "daemon-9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110904"
+}
