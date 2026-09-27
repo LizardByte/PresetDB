@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114372,
+  "name": "The Shedding",
+  "source_url": "https://www.igdb.com/games/the-shedding",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobow6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Shedding",
+      "os": null,
+      "method": "steam",
+      "launch_id": "954720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/954720",
+        "Linux": "setsid steam steam://rungameid/954720",
+        "macOS": "open steam://rungameid/954720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-shedding",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114372"
+}
