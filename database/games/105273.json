@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105273,
+  "name": "BlackSimulator",
+  "source_url": "https://www.igdb.com/games/blacksimulator",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlackSimulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "811110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/811110",
+        "Linux": "setsid steam steam://rungameid/811110",
+        "macOS": "open steam://rungameid/811110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blacksimulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105273"
+}
