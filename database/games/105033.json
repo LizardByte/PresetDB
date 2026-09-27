@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105033,
+  "name": "Escape Lala",
+  "source_url": "https://www.igdb.com/games/escape-lala",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27r2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Lala",
+      "os": null,
+      "method": "steam",
+      "launch_id": "909190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/909190",
+        "Linux": "setsid steam steam://rungameid/909190",
+        "macOS": "open steam://rungameid/909190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-lala",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105033"
+}
