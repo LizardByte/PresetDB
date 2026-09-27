@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112972,
+  "name": "Plat4mer",
+  "source_url": "https://www.igdb.com/games/plat4mer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgqm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plat4mer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "786140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/786140",
+        "Linux": "setsid steam steam://rungameid/786140",
+        "macOS": "open steam://rungameid/786140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plat4mer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112972"
+}
