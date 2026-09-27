@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104150,
+  "name": "What A Trash Game",
+  "source_url": "https://www.igdb.com/games/what-a-trash-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3j7g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What A Trash Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "874930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/874930",
+        "Linux": "setsid steam steam://rungameid/874930",
+        "macOS": "open steam://rungameid/874930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "what-a-trash-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104150"
+}
