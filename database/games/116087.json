@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116087,
+  "name": "BreakFest",
+  "source_url": "https://www.igdb.com/games/breakfest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfj3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BreakFest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1042110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1042110",
+        "Linux": "setsid steam steam://rungameid/1042110",
+        "macOS": "open steam://rungameid/1042110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "breakfest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116087"
+}
