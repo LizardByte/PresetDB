@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120930,
+  "name": "Kumo",
+  "source_url": "https://www.igdb.com/games/kumo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46js.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kumo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1121880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1121880",
+        "Linux": "setsid steam steam://rungameid/1121880",
+        "macOS": "open steam://rungameid/1121880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kumo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120930"
+}
