@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103461,
+  "name": "Galdur",
+  "source_url": "https://www.igdb.com/games/galdur",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn1y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galdur",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882660",
+        "Linux": "setsid steam steam://rungameid/882660",
+        "macOS": "open steam://rungameid/882660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galdur",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103461"
+}
