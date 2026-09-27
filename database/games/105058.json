@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105058,
+  "name": "Dead or School",
+  "source_url": "https://www.igdb.com/games/dead-or-school",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zje.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead or School",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789760",
+        "Linux": "setsid steam steam://rungameid/789760",
+        "macOS": "open steam://rungameid/789760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-or-school",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105058"
+}
