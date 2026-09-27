@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120140,
+  "name": "Golden Fall",
+  "source_url": "https://www.igdb.com/games/golden-fall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6knw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golden Fall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884630",
+        "Linux": "setsid steam steam://rungameid/884630",
+        "macOS": "open steam://rungameid/884630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golden-fall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120140"
+}
