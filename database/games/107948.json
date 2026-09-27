@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107948,
+  "name": "Free Throw",
+  "source_url": "https://www.igdb.com/games/free-throw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhv3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Free Throw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "900060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/900060",
+        "Linux": "setsid steam steam://rungameid/900060",
+        "macOS": "open steam://rungameid/900060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "free-throw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107948"
+}
