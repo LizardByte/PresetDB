@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107453,
+  "name": "Mortal Royale",
+  "source_url": "https://www.igdb.com/games/mortal-royale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobggo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mortal Royale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922630",
+        "Linux": "setsid steam steam://rungameid/922630",
+        "macOS": "open steam://rungameid/922630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mortal-royale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107453"
+}
