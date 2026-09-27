@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105564,
+  "name": "Pylow",
+  "source_url": "https://www.igdb.com/games/pylow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1q98.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pylow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868920",
+        "Linux": "setsid steam steam://rungameid/868920",
+        "macOS": "open steam://rungameid/868920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pylow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105564"
+}
