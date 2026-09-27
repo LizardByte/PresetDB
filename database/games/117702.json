@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117702,
+  "name": "Burning Knight",
+  "source_url": "https://www.igdb.com/games/burning-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pmk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burning Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851150",
+        "Linux": "setsid steam steam://rungameid/851150",
+        "macOS": "open steam://rungameid/851150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burning-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117702"
+}
