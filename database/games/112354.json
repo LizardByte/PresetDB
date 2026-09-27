@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112354,
+  "name": "Kings' Cross",
+  "source_url": "https://www.igdb.com/games/kings-cross",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8gs7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kings' Cross",
+      "os": null,
+      "method": "steam",
+      "launch_id": "981900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/981900",
+        "Linux": "setsid steam steam://rungameid/981900",
+        "macOS": "open steam://rungameid/981900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kings-cross",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112354"
+}
