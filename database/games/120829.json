@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120829,
+  "name": "Afloat",
+  "source_url": "https://www.igdb.com/games/afloat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1org.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Afloat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1112010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1112010",
+        "Linux": "setsid steam steam://rungameid/1112010",
+        "macOS": "open steam://rungameid/1112010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "afloat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120829"
+}
