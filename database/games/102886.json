@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102886,
+  "name": "MechCorp",
+  "source_url": "https://www.igdb.com/games/mechcorp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21ce.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MechCorp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838180",
+        "Linux": "setsid steam steam://rungameid/838180",
+        "macOS": "open steam://rungameid/838180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mechcorp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102886"
+}
