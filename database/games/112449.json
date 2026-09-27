@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112449,
+  "name": "Pattern",
+  "source_url": "https://www.igdb.com/games/pattern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23up.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pattern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "969540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/969540",
+        "Linux": "setsid steam steam://rungameid/969540",
+        "macOS": "open steam://rungameid/969540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pattern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112449"
+}
