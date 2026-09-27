@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111592,
+  "name": "Rento Fortune VR",
+  "source_url": "https://www.igdb.com/games/rento-fortune-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rento Fortune VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "931150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/931150",
+        "Linux": "setsid steam steam://rungameid/931150",
+        "macOS": "open steam://rungameid/931150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rento-fortune-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111592"
+}
