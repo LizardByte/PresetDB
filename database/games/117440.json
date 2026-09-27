@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117440,
+  "name": "It Runs Red",
+  "source_url": "https://www.igdb.com/games/it-runs-red",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co449c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It Runs Red",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1068980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1068980",
+        "Linux": "setsid steam steam://rungameid/1068980",
+        "macOS": "open steam://rungameid/1068980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "it-runs-red",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117440"
+}
