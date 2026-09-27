@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114841,
+  "name": "Something is Wrong",
+  "source_url": "https://www.igdb.com/games/something-is-wrong--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf1b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Something is Wrong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1020830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1020830",
+        "Linux": "setsid steam steam://rungameid/1020830",
+        "macOS": "open steam://rungameid/1020830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "something-is-wrong--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114841"
+}
