@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111099,
+  "name": "Cinderella VR",
+  "source_url": "https://www.igdb.com/games/cinderella-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23wc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cinderella VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "935720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/935720",
+        "Linux": "setsid steam steam://rungameid/935720",
+        "macOS": "open steam://rungameid/935720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cinderella-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111099"
+}
