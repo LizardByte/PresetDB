@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113417,
+  "name": "Chrono Ghost",
+  "source_url": "https://www.igdb.com/games/chrono-ghost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jjg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chrono Ghost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "983760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/983760",
+        "Linux": "setsid steam steam://rungameid/983760",
+        "macOS": "open steam://rungameid/983760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chrono-ghost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113417"
+}
