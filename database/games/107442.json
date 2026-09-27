@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107442,
+  "name": "I <3 You!",
+  "source_url": "https://www.igdb.com/games/i-3-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1r3m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I <3 You!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "920810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/920810",
+        "Linux": "setsid steam steam://rungameid/920810",
+        "macOS": "open steam://rungameid/920810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-3-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107442"
+}
