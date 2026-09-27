@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111390,
+  "name": "Nowhere Patrol",
+  "source_url": "https://www.igdb.com/games/nowhere-patrol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g3g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nowhere Patrol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961660",
+        "Linux": "setsid steam steam://rungameid/961660",
+        "macOS": "open steam://rungameid/961660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nowhere-patrol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111390"
+}
