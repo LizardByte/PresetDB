@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108654,
+  "name": "Factory Pirates",
+  "source_url": "https://www.igdb.com/games/factory-pirates",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgcx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Factory Pirates",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817150",
+        "Linux": "setsid steam steam://rungameid/817150",
+        "macOS": "open steam://rungameid/817150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "factory-pirates",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108654"
+}
