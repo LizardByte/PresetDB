@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111002,
+  "name": "Su Hack",
+  "source_url": "https://www.igdb.com/games/su-hack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42l5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Su Hack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "956000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/956000",
+        "Linux": "setsid steam steam://rungameid/956000",
+        "macOS": "open steam://rungameid/956000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "su-hack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111002"
+}
