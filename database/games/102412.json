@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102412,
+  "name": "AnyWay!",
+  "source_url": "https://www.igdb.com/games/anyway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lkc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AnyWay!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "866510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/866510",
+        "Linux": "setsid steam steam://rungameid/866510",
+        "macOS": "open steam://rungameid/866510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anyway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102412"
+}
