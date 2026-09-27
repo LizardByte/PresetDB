@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110975,
+  "name": "Down to Hell",
+  "source_url": "https://www.igdb.com/games/down-to-hell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hhc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Down to Hell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961040",
+        "Linux": "setsid steam steam://rungameid/961040",
+        "macOS": "open steam://rungameid/961040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "down-to-hell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110975"
+}
