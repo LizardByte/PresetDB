@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110640,
+  "name": "Blackfoot Burrows",
+  "source_url": "https://www.igdb.com/games/blackfoot-burrows",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgjc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blackfoot Burrows",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952330",
+        "Linux": "setsid steam steam://rungameid/952330",
+        "macOS": "open steam://rungameid/952330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blackfoot-burrows",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110640"
+}
