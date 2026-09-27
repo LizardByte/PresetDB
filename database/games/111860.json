@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111860,
+  "name": "Vertical Fall",
+  "source_url": "https://www.igdb.com/games/vertical-fall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkxh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vertical Fall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "863310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/863310",
+        "Linux": "setsid steam steam://rungameid/863310",
+        "macOS": "open steam://rungameid/863310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vertical-fall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111860"
+}
