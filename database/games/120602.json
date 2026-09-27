@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120602,
+  "name": "Qwerty's Prison",
+  "source_url": "https://www.igdb.com/games/qwertys-prison",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y7h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Qwerty's Prison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1103000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1103000",
+        "Linux": "setsid steam steam://rungameid/1103000",
+        "macOS": "open steam://rungameid/1103000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "qwertys-prison",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120602"
+}
