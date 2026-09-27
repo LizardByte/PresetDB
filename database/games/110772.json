@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110772,
+  "name": "Shoemaker",
+  "source_url": "https://www.igdb.com/games/shoemaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shoemaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914070",
+        "Linux": "setsid steam steam://rungameid/914070",
+        "macOS": "open steam://rungameid/914070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shoemaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110772"
+}
