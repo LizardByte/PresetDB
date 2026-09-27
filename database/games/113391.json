@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113391,
+  "name": "FrostRunner",
+  "source_url": "https://www.igdb.com/games/frostrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co31ny.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FrostRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "934840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/934840",
+        "Linux": "setsid steam steam://rungameid/934840",
+        "macOS": "open steam://rungameid/934840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frostrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113391"
+}
