@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116425,
+  "name": "Instant War",
+  "source_url": "https://www.igdb.com/games/instant-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hfu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Instant War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2004290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2004290",
+        "Linux": "setsid steam steam://rungameid/2004290",
+        "macOS": "open steam://rungameid/2004290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "instant-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116425"
+}
