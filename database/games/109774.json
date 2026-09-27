@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109774,
+  "name": "Grand Guilds",
+  "source_url": "https://www.igdb.com/games/grand-guilds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1koz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grand Guilds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "939120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/939120",
+        "Linux": "setsid steam steam://rungameid/939120",
+        "macOS": "open steam://rungameid/939120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grand-guilds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109774"
+}
