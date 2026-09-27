@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113362,
+  "name": "PlanetSide Arena",
+  "source_url": "https://www.igdb.com/games/planetside-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsvm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlanetSide Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "987350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/987350",
+        "Linux": "setsid steam steam://rungameid/987350",
+        "macOS": "open steam://rungameid/987350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planetside-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113362"
+}
