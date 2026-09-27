@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105579,
+  "name": "Play With Kizami",
+  "source_url": "https://www.igdb.com/games/play-with-kizami",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pp6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play With Kizami",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892650",
+        "Linux": "setsid steam steam://rungameid/892650",
+        "macOS": "open steam://rungameid/892650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "play-with-kizami",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105579"
+}
