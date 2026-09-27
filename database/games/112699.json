@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112699,
+  "name": "Ball Out",
+  "source_url": "https://www.igdb.com/games/ball-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkhg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ball Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "970730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/970730",
+        "Linux": "setsid steam steam://rungameid/970730",
+        "macOS": "open steam://rungameid/970730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ball-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112699"
+}
