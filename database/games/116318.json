@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116318,
+  "name": "Fight Angel",
+  "source_url": "https://www.igdb.com/games/fight-angel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zna.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fight Angel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1041400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1041400",
+        "Linux": "setsid steam steam://rungameid/1041400",
+        "macOS": "open steam://rungameid/1041400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fight-angel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116318"
+}
