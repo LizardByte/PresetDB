@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102420,
+  "name": "Dicey Dungeons",
+  "source_url": "https://www.igdb.com/games/dicey-dungeons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2h3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dicey Dungeons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861540",
+        "Linux": "setsid steam steam://rungameid/861540",
+        "macOS": "open steam://rungameid/861540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dicey-dungeons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102420"
+}
