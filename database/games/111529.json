@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111529,
+  "name": "Boomerang Fu",
+  "source_url": "https://www.igdb.com/games/boomerang-fu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwpd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boomerang Fu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "965680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/965680",
+        "Linux": "setsid steam steam://rungameid/965680",
+        "macOS": "open steam://rungameid/965680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boomerang-fu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111529"
+}
