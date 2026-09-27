@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105610,
+  "name": "Fairy Rescue",
+  "source_url": "https://www.igdb.com/games/fairy-rescue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6k06.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fairy Rescue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895570",
+        "Linux": "setsid steam steam://rungameid/895570",
+        "macOS": "open steam://rungameid/895570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fairy-rescue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105610"
+}
