@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105233,
+  "name": "Rogue Heist",
+  "source_url": "https://www.igdb.com/games/rogue-heist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9f9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Heist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891430",
+        "Linux": "setsid steam steam://rungameid/891430",
+        "macOS": "open steam://rungameid/891430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-heist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105233"
+}
