@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106542,
+  "name": "Flameruby",
+  "source_url": "https://www.igdb.com/games/flameruby",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhpg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flameruby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904560",
+        "Linux": "setsid steam steam://rungameid/904560",
+        "macOS": "open steam://rungameid/904560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flameruby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106542"
+}
