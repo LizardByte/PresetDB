@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104812,
+  "name": "Hero Masters",
+  "source_url": "https://www.igdb.com/games/hero-masters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero Masters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "877240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/877240",
+        "Linux": "setsid steam steam://rungameid/877240",
+        "macOS": "open steam://rungameid/877240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hero-masters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104812"
+}
