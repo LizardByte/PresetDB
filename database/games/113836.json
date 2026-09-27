@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113836,
+  "name": "Jet Lancer",
+  "source_url": "https://www.igdb.com/games/jet-lancer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jet Lancer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913060",
+        "Linux": "setsid steam steam://rungameid/913060",
+        "macOS": "open steam://rungameid/913060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jet-lancer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113836"
+}
