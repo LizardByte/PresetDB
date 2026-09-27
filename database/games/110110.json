@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110110,
+  "name": "Can You find it?",
+  "source_url": "https://www.igdb.com/games/can-you-find-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfwc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Can You find it?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "929600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/929600",
+        "Linux": "setsid steam steam://rungameid/929600",
+        "macOS": "open steam://rungameid/929600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "can-you-find-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110110"
+}
