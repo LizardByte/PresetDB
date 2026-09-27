@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110135,
+  "name": "Count Logica",
+  "source_url": "https://www.igdb.com/games/count-logica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4xz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Count Logica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "928660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/928660",
+        "Linux": "setsid steam steam://rungameid/928660",
+        "macOS": "open steam://rungameid/928660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "count-logica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110135"
+}
