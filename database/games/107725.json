@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107725,
+  "name": "The Battle of Ages",
+  "source_url": "https://www.igdb.com/games/the-battle-of-ages",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiex.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Battle of Ages",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881910",
+        "Linux": "setsid steam steam://rungameid/881910",
+        "macOS": "open steam://rungameid/881910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-battle-of-ages",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107725"
+}
