@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111668,
+  "name": "Second Chance",
+  "source_url": "https://www.igdb.com/games/second-chance",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2zig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Second Chance",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958720",
+        "Linux": "setsid steam steam://rungameid/958720",
+        "macOS": "open steam://rungameid/958720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "second-chance",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111668"
+}
