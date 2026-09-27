@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117615,
+  "name": "My Little Army",
+  "source_url": "https://www.igdb.com/games/my-little-army",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xr0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Little Army",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1068220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1068220",
+        "Linux": "setsid steam steam://rungameid/1068220",
+        "macOS": "open steam://rungameid/1068220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-little-army",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117615"
+}
