@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109819,
+  "name": "Grimo",
+  "source_url": "https://www.igdb.com/games/grimo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn9c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grimo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802600",
+        "Linux": "setsid steam steam://rungameid/802600",
+        "macOS": "open steam://rungameid/802600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grimo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109819"
+}
