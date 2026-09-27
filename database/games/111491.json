@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111491,
+  "name": "Go Outside Simulator",
+  "source_url": "https://www.igdb.com/games/go-outside-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87s2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Outside Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955640",
+        "Linux": "setsid steam steam://rungameid/955640",
+        "macOS": "open steam://rungameid/955640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-outside-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111491"
+}
