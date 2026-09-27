@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105707,
+  "name": "One person story",
+  "source_url": "https://www.igdb.com/games/one-person-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4dnu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One person story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "863430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/863430",
+        "Linux": "setsid steam steam://rungameid/863430",
+        "macOS": "open steam://rungameid/863430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-person-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105707"
+}
