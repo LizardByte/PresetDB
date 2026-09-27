@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102919,
+  "name": "Putinization",
+  "source_url": "https://www.igdb.com/games/putinization",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgpj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Putinization",
+      "os": null,
+      "method": "steam",
+      "launch_id": "861000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/861000",
+        "Linux": "setsid steam steam://rungameid/861000",
+        "macOS": "open steam://rungameid/861000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "putinization",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102919"
+}
