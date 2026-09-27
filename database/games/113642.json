@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113642,
+  "name": "I See You",
+  "source_url": "https://www.igdb.com/games/i-see-you",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I See You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1008070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1008070",
+        "Linux": "setsid steam steam://rungameid/1008070",
+        "macOS": "open steam://rungameid/1008070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-see-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113642"
+}
