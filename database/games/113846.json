@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113846,
+  "name": "Opencast Mining",
+  "source_url": "https://www.igdb.com/games/opencast-mining",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qmr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Opencast Mining",
+      "os": null,
+      "method": "steam",
+      "launch_id": "987630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/987630",
+        "Linux": "setsid steam steam://rungameid/987630",
+        "macOS": "open steam://rungameid/987630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "opencast-mining",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113846"
+}
