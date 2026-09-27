@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113213,
+  "name": "Easy Racing",
+  "source_url": "https://www.igdb.com/games/easy-racing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg42.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Easy Racing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891290",
+        "Linux": "setsid steam steam://rungameid/891290",
+        "macOS": "open steam://rungameid/891290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "easy-racing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113213"
+}
