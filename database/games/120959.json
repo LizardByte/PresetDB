@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120959,
+  "name": "Kakuro",
+  "source_url": "https://www.igdb.com/games/kakuro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ey.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kakuro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1109740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1109740",
+        "Linux": "setsid steam steam://rungameid/1109740",
+        "macOS": "open steam://rungameid/1109740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kakuro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120959"
+}
