@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120652,
+  "name": "Neon Exile",
+  "source_url": "https://www.igdb.com/games/neon-exile",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Exile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "505020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/505020",
+        "Linux": "setsid steam steam://rungameid/505020",
+        "macOS": "open steam://rungameid/505020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-exile",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120652"
+}
