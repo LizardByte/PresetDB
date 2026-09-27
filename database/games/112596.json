@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112596,
+  "name": "Comet Crasher",
+  "source_url": "https://www.igdb.com/games/comet-crasher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfjx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Comet Crasher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862160",
+        "Linux": "setsid steam steam://rungameid/862160",
+        "macOS": "open steam://rungameid/862160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "comet-crasher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112596"
+}
