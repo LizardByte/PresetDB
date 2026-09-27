@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117040,
+  "name": "Discharge",
+  "source_url": "https://www.igdb.com/games/discharge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3on9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Discharge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "975660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/975660",
+        "Linux": "setsid steam steam://rungameid/975660",
+        "macOS": "open steam://rungameid/975660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "discharge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117040"
+}
