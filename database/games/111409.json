@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111409,
+  "name": "Halloween Puzzles",
+  "source_url": "https://www.igdb.com/games/halloween-puzzles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobghq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Halloween Puzzles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "968580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/968580",
+        "Linux": "setsid steam steam://rungameid/968580",
+        "macOS": "open steam://rungameid/968580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "halloween-puzzles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111409"
+}
