@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115415,
+  "name": "Fruit Punch",
+  "source_url": "https://www.igdb.com/games/fruit-punch",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fruit Punch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "939380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/939380",
+        "Linux": "setsid steam steam://rungameid/939380",
+        "macOS": "open steam://rungameid/939380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fruit-punch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115415"
+}
