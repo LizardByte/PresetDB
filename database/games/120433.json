@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120433,
+  "name": "Jim is Moving Out!",
+  "source_url": "https://www.igdb.com/games/jim-is-moving-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mp2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jim is Moving Out!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "643940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/643940",
+        "Linux": "setsid steam steam://rungameid/643940",
+        "macOS": "open steam://rungameid/643940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jim-is-moving-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120433"
+}
