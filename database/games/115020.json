@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115020,
+  "name": "TwoPlay Mahjong",
+  "source_url": "https://www.igdb.com/games/twoplay-mahjong",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TwoPlay Mahjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892460",
+        "Linux": "setsid steam steam://rungameid/892460",
+        "macOS": "open steam://rungameid/892460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twoplay-mahjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115020"
+}
