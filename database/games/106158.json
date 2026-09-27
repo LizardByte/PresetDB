@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106158,
+  "name": "RpgEra",
+  "source_url": "https://www.igdb.com/games/rpgera",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf9f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RpgEra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "905380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/905380",
+        "Linux": "setsid steam steam://rungameid/905380",
+        "macOS": "open steam://rungameid/905380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rpgera",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106158"
+}
