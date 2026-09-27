@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110650,
+  "name": "Suffer",
+  "source_url": "https://www.igdb.com/games/suffer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hm0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suffer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950210",
+        "Linux": "setsid steam steam://rungameid/950210",
+        "macOS": "open steam://rungameid/950210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "suffer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110650"
+}
