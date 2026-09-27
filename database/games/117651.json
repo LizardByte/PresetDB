@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117651,
+  "name": "GearStorm",
+  "source_url": "https://www.igdb.com/games/gearstorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q89.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GearStorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "393800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/393800",
+        "Linux": "setsid steam steam://rungameid/393800",
+        "macOS": "open steam://rungameid/393800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gearstorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117651"
+}
