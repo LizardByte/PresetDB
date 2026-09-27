@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118069,
+  "name": "Rubble Rush",
+  "source_url": "https://www.igdb.com/games/rubble-rush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf9d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rubble Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1018750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1018750",
+        "Linux": "setsid steam steam://rungameid/1018750",
+        "macOS": "open steam://rungameid/1018750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rubble-rush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118069"
+}
