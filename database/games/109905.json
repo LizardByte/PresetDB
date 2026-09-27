@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109905,
+  "name": "Horror Souls",
+  "source_url": "https://www.igdb.com/games/horror-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsme.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horror Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940430",
+        "Linux": "setsid steam steam://rungameid/940430",
+        "macOS": "open steam://rungameid/940430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horror-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109905"
+}
