@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104905,
+  "name": "360 No Scope Arena",
+  "source_url": "https://www.igdb.com/games/360-no-scope-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2f6q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "360 No Scope Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "883100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/883100",
+        "Linux": "setsid steam steam://rungameid/883100",
+        "macOS": "open steam://rungameid/883100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "360-no-scope-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104905"
+}
