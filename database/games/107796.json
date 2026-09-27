@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107796,
+  "name": "Don't Touch Me",
+  "source_url": "https://www.igdb.com/games/dont-touch-me",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Touch Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923050",
+        "Linux": "setsid steam steam://rungameid/923050",
+        "macOS": "open steam://rungameid/923050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-touch-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107796"
+}
