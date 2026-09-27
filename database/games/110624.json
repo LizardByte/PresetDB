@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110624,
+  "name": "Colourless",
+  "source_url": "https://www.igdb.com/games/colourless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfjz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Colourless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "953340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/953340",
+        "Linux": "setsid steam steam://rungameid/953340",
+        "macOS": "open steam://rungameid/953340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "colourless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110624"
+}
