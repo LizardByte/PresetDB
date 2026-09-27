@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113895,
+  "name": "Havocado",
+  "source_url": "https://www.igdb.com/games/havocado",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9f6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Havocado",
+      "os": null,
+      "method": "steam",
+      "launch_id": "995050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/995050",
+        "Linux": "setsid steam steam://rungameid/995050",
+        "macOS": "open steam://rungameid/995050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "havocado",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113895"
+}
