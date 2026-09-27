@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104192,
+  "name": "Animyst",
+  "source_url": "https://www.igdb.com/games/animyst",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sho.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Animyst",
+      "os": null,
+      "method": "steam",
+      "launch_id": "871100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/871100",
+        "Linux": "setsid steam steam://rungameid/871100",
+        "macOS": "open steam://rungameid/871100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "animyst",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104192"
+}
