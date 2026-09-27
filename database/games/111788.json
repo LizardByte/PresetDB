@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111788,
+  "name": "Recursive Pain",
+  "source_url": "https://www.igdb.com/games/recursive-pain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfih.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Recursive Pain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "968360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/968360",
+        "Linux": "setsid steam steam://rungameid/968360",
+        "macOS": "open steam://rungameid/968360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "recursive-pain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111788"
+}
