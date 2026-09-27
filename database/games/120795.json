@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120795,
+  "name": "Smoots Summer Games",
+  "source_url": "https://www.igdb.com/games/smoots-summer-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41p3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smoots Summer Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1601220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1601220",
+        "Linux": "setsid steam steam://rungameid/1601220",
+        "macOS": "open steam://rungameid/1601220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smoots-summer-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120795"
+}
