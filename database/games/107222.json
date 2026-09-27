@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107222,
+  "name": "Feather",
+  "source_url": "https://www.igdb.com/games/feather",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1znb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feather",
+      "os": null,
+      "method": "steam",
+      "launch_id": "545040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/545040",
+        "Linux": "setsid steam steam://rungameid/545040",
+        "macOS": "open steam://rungameid/545040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "feather",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107222"
+}
