@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106142,
+  "name": "Warman",
+  "source_url": "https://www.igdb.com/games/warman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bk1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887420",
+        "Linux": "setsid steam steam://rungameid/887420",
+        "macOS": "open steam://rungameid/887420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106142"
+}
