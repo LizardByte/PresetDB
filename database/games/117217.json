@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117217,
+  "name": "Chippy",
+  "source_url": "https://www.igdb.com/games/chippy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co268j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chippy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "602700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/602700",
+        "Linux": "setsid steam steam://rungameid/602700",
+        "macOS": "open steam://rungameid/602700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chippy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117217"
+}
