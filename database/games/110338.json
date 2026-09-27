@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110338,
+  "name": "Khospis",
+  "source_url": "https://www.igdb.com/games/khospis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobja9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Khospis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922220",
+        "Linux": "setsid steam steam://rungameid/922220",
+        "macOS": "open steam://rungameid/922220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "khospis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110338"
+}
