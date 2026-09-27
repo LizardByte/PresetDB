@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110448,
+  "name": "Blades of Worlds",
+  "source_url": "https://www.igdb.com/games/blades-of-worlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mcg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blades of Worlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869410",
+        "Linux": "setsid steam steam://rungameid/869410",
+        "macOS": "open steam://rungameid/869410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blades-of-worlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110448"
+}
