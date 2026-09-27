@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105569,
+  "name": "BattleX",
+  "source_url": "https://www.igdb.com/games/battlex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobngn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BattleX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882910",
+        "Linux": "setsid steam steam://rungameid/882910",
+        "macOS": "open steam://rungameid/882910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battlex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105569"
+}
