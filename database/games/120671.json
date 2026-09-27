@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120671,
+  "name": "Storm Tale",
+  "source_url": "https://www.igdb.com/games/storm-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co424x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Storm Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1119940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1119940",
+        "Linux": "setsid steam steam://rungameid/1119940",
+        "macOS": "open steam://rungameid/1119940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "storm-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120671"
+}
