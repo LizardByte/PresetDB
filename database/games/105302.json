@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105302,
+  "name": "Automatum",
+  "source_url": "https://www.igdb.com/games/automatum",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Automatum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "870680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/870680",
+        "Linux": "setsid steam steam://rungameid/870680",
+        "macOS": "open steam://rungameid/870680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "automatum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105302"
+}
