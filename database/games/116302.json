@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116302,
+  "name": "Peekaboo",
+  "source_url": "https://www.igdb.com/games/peekaboo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26cj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peekaboo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1048100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1048100",
+        "Linux": "setsid steam steam://rungameid/1048100",
+        "macOS": "open steam://rungameid/1048100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peekaboo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116302"
+}
