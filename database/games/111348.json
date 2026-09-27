@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111348,
+  "name": "Invaders from Dimension X",
+  "source_url": "https://www.igdb.com/games/invaders-from-dimension-x",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co447c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Invaders from Dimension X",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963860",
+        "Linux": "setsid steam steam://rungameid/963860",
+        "macOS": "open steam://rungameid/963860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "invaders-from-dimension-x",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111348"
+}
