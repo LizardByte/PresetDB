@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112607,
+  "name": "Smoked",
+  "source_url": "https://www.igdb.com/games/smoked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgv0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smoked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963570",
+        "Linux": "setsid steam steam://rungameid/963570",
+        "macOS": "open steam://rungameid/963570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smoked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112607"
+}
