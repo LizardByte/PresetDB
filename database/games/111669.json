@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111669,
+  "name": "Audio Infection",
+  "source_url": "https://www.igdb.com/games/audio-infection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lri.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Audio Infection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "911580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/911580",
+        "Linux": "setsid steam steam://rungameid/911580",
+        "macOS": "open steam://rungameid/911580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "audio-infection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111669"
+}
