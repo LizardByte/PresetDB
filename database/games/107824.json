@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107824,
+  "name": "Ape Hit",
+  "source_url": "https://www.igdb.com/games/ape-hit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lkh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ape Hit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "925360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/925360",
+        "Linux": "setsid steam steam://rungameid/925360",
+        "macOS": "open steam://rungameid/925360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ape-hit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107824"
+}
