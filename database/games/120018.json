@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120018,
+  "name": "Escape from Classroom",
+  "source_url": "https://www.igdb.com/games/escape-from-classroom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpsg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Classroom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1103300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1103300",
+        "Linux": "setsid steam steam://rungameid/1103300",
+        "macOS": "open steam://rungameid/1103300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-classroom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120018"
+}
