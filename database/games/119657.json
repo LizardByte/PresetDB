@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119657,
+  "name": "Rayball",
+  "source_url": "https://www.igdb.com/games/rayball",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rayball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1071970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1071970",
+        "Linux": "setsid steam steam://rungameid/1071970",
+        "macOS": "open steam://rungameid/1071970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rayball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119657"
+}
