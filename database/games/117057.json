@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117057,
+  "name": "Magic Clouds",
+  "source_url": "https://www.igdb.com/games/magic-clouds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Clouds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1060440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1060440",
+        "Linux": "setsid steam steam://rungameid/1060440",
+        "macOS": "open steam://rungameid/1060440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-clouds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117057"
+}
