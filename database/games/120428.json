@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120428,
+  "name": "Zeminator",
+  "source_url": "https://www.igdb.com/games/zeminator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l06.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zeminator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111970",
+        "Linux": "setsid steam steam://rungameid/1111970",
+        "macOS": "open steam://rungameid/1111970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zeminator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120428"
+}
