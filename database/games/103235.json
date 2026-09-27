@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103235,
+  "name": "DiveReal",
+  "source_url": "https://www.igdb.com/games/divereal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DiveReal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865200",
+        "Linux": "setsid steam steam://rungameid/865200",
+        "macOS": "open steam://rungameid/865200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "divereal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103235"
+}
