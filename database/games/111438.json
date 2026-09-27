@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111438,
+  "name": "Burger Lord",
+  "source_url": "https://www.igdb.com/games/burger-lord",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burger Lord",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923630",
+        "Linux": "setsid steam steam://rungameid/923630",
+        "macOS": "open steam://rungameid/923630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burger-lord",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111438"
+}
