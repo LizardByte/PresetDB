@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111778,
+  "name": "Anime and Your Life",
+  "source_url": "https://www.igdb.com/games/anime-and-your-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46bp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anime and Your Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "973240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/973240",
+        "Linux": "setsid steam steam://rungameid/973240",
+        "macOS": "open steam://rungameid/973240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anime-and-your-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111778"
+}
