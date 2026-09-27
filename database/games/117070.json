@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117070,
+  "name": "The Renovator",
+  "source_url": "https://www.igdb.com/games/the-renovator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6a1h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Renovator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1059280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1059280",
+        "Linux": "setsid steam steam://rungameid/1059280",
+        "macOS": "open steam://rungameid/1059280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-renovator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117070"
+}
