@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112713,
+  "name": "You (Can)Not Survive",
+  "source_url": "https://www.igdb.com/games/you-can-not-survive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You (Can)Not Survive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976340",
+        "Linux": "setsid steam steam://rungameid/976340",
+        "macOS": "open steam://rungameid/976340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-can-not-survive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112713"
+}
