@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115047,
+  "name": "Magic Factory",
+  "source_url": "https://www.igdb.com/games/magic-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgd5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1017380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1017380",
+        "Linux": "setsid steam steam://rungameid/1017380",
+        "macOS": "open steam://rungameid/1017380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115047"
+}
