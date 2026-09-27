@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104043,
+  "name": "Sweet Treats",
+  "source_url": "https://www.igdb.com/games/sweet-treats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42sf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sweet Treats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "855760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/855760",
+        "Linux": "setsid steam steam://rungameid/855760",
+        "macOS": "open steam://rungameid/855760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sweet-treats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104043"
+}
