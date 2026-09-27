@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117241,
+  "name": "BeatShips",
+  "source_url": "https://www.igdb.com/games/beatships",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BeatShips",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1019400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1019400",
+        "Linux": "setsid steam steam://rungameid/1019400",
+        "macOS": "open steam://rungameid/1019400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beatships",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117241"
+}
