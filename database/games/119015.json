@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119015,
+  "name": "Airhead",
+  "source_url": "https://www.igdb.com/games/airhead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fty.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Airhead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "771700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/771700",
+        "Linux": "setsid steam steam://rungameid/771700",
+        "macOS": "open steam://rungameid/771700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "airhead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119015"
+}
