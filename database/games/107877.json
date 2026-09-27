@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107877,
+  "name": "Don't Look Down",
+  "source_url": "https://www.igdb.com/games/dont-look-down",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ovk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Look Down",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869290",
+        "Linux": "setsid steam steam://rungameid/869290",
+        "macOS": "open steam://rungameid/869290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-look-down",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107877"
+}
