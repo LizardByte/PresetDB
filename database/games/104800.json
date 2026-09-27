@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104800,
+  "name": "Diary of Defender",
+  "source_url": "https://www.igdb.com/games/diary-of-defender",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfw6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Diary of Defender",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822870",
+        "Linux": "setsid steam steam://rungameid/822870",
+        "macOS": "open steam://rungameid/822870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "diary-of-defender",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104800"
+}
