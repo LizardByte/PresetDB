@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106145,
+  "name": "The Mansion",
+  "source_url": "https://www.igdb.com/games/the-mansion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6wm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Mansion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893360",
+        "Linux": "setsid steam steam://rungameid/893360",
+        "macOS": "open steam://rungameid/893360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-mansion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106145"
+}
