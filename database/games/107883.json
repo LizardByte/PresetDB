@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107883,
+  "name": "Top Down Racer",
+  "source_url": "https://www.igdb.com/games/top-down-racer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44rx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Top Down Racer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881230",
+        "Linux": "setsid steam steam://rungameid/881230",
+        "macOS": "open steam://rungameid/881230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "top-down-racer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107883"
+}
