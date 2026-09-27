@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111952,
+  "name": "Cubic Factory",
+  "source_url": "https://www.igdb.com/games/cubic-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpro.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cubic Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963590",
+        "Linux": "setsid steam steam://rungameid/963590",
+        "macOS": "open steam://rungameid/963590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cubic-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111952"
+}
