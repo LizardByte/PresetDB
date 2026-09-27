@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118828,
+  "name": "Zenodeath",
+  "source_url": "https://www.igdb.com/games/zenodeath",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l0d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zenodeath",
+      "os": null,
+      "method": "steam",
+      "launch_id": "761920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/761920",
+        "Linux": "setsid steam steam://rungameid/761920",
+        "macOS": "open steam://rungameid/761920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zenodeath",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118828"
+}
