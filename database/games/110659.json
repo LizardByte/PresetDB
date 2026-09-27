@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110659,
+  "name": "Fit it",
+  "source_url": "https://www.igdb.com/games/fit-it",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fit it",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951450",
+        "Linux": "setsid steam steam://rungameid/951450",
+        "macOS": "open steam://rungameid/951450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fit-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110659"
+}
