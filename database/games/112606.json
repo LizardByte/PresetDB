@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112606,
+  "name": "Lost on the Island",
+  "source_url": "https://www.igdb.com/games/lost-on-the-island",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost on the Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "949520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/949520",
+        "Linux": "setsid steam steam://rungameid/949520",
+        "macOS": "open steam://rungameid/949520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-on-the-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112606"
+}
