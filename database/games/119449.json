@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119449,
+  "name": "Duck Season PC",
+  "source_url": "https://www.igdb.com/games/duck-season-pc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Season PC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "746510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/746510",
+        "Linux": "setsid steam steam://rungameid/746510",
+        "macOS": "open steam://rungameid/746510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duck-season-pc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119449"
+}
