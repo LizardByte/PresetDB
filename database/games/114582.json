@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114582,
+  "name": "The Mirum",
+  "source_url": "https://www.igdb.com/games/the-mirum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6wd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Mirum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "997430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/997430",
+        "Linux": "setsid steam steam://rungameid/997430",
+        "macOS": "open steam://rungameid/997430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-mirum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114582"
+}
