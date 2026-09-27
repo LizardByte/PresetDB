@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111205,
+  "name": "Prixel",
+  "source_url": "https://www.igdb.com/games/prixel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prixel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961110",
+        "Linux": "setsid steam steam://rungameid/961110",
+        "macOS": "open steam://rungameid/961110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prixel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111205"
+}
