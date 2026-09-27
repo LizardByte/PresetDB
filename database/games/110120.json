@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110120,
+  "name": "Trip",
+  "source_url": "https://www.igdb.com/games/trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6h7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "939470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/939470",
+        "Linux": "setsid steam steam://rungameid/939470",
+        "macOS": "open steam://rungameid/939470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110120"
+}
