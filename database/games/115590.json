@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115590,
+  "name": "Jumping Master",
+  "source_url": "https://www.igdb.com/games/jumping-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53nn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jumping Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1000110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1000110",
+        "Linux": "setsid steam steam://rungameid/1000110",
+        "macOS": "open steam://rungameid/1000110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jumping-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115590"
+}
