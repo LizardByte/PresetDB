@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105341,
+  "name": "FortOfTheNight",
+  "source_url": "https://www.igdb.com/games/fortofthenight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfwa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FortOfTheNight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888740",
+        "Linux": "setsid steam steam://rungameid/888740",
+        "macOS": "open steam://rungameid/888740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fortofthenight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105341"
+}
