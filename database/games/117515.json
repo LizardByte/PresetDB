@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117515,
+  "name": "Raspberry Cube",
+  "source_url": "https://www.igdb.com/games/raspberry-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raspberry Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2001970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2001970",
+        "Linux": "setsid steam steam://rungameid/2001970",
+        "macOS": "open steam://rungameid/2001970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raspberry-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117515"
+}
