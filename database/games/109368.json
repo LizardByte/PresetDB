@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109368,
+  "name": "Tennis Story",
+  "source_url": "https://www.igdb.com/games/tennis-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dru.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tennis Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "933380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/933380",
+        "Linux": "setsid steam steam://rungameid/933380",
+        "macOS": "open steam://rungameid/933380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tennis-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109368"
+}
