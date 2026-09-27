@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109413,
+  "name": "Shadow Play",
+  "source_url": "https://www.igdb.com/games/shadow-play",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow Play",
+      "os": null,
+      "method": "steam",
+      "launch_id": "937820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/937820",
+        "Linux": "setsid steam steam://rungameid/937820",
+        "macOS": "open steam://rungameid/937820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-play",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109413"
+}
