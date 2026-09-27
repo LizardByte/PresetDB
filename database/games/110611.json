@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110611,
+  "name": "Play Girls",
+  "source_url": "https://www.igdb.com/games/play-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958300",
+        "Linux": "setsid steam steam://rungameid/958300",
+        "macOS": "open steam://rungameid/958300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "play-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110611"
+}
