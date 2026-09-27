@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119612,
+  "name": "Ubercold",
+  "source_url": "https://www.igdb.com/games/ubercold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6bh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ubercold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "980160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/980160",
+        "Linux": "setsid steam steam://rungameid/980160",
+        "macOS": "open steam://rungameid/980160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ubercold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119612"
+}
