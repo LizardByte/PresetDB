@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112593,
+  "name": "Danger!Energy",
+  "source_url": "https://www.igdb.com/games/danger-energy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4dqv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Danger!Energy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862250",
+        "Linux": "setsid steam steam://rungameid/862250",
+        "macOS": "open steam://rungameid/862250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "danger-energy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112593"
+}
