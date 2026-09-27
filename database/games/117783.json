@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117783,
+  "name": "EscapeeZ",
+  "source_url": "https://www.igdb.com/games/escapeez",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qc1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EscapeeZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1071950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1071950",
+        "Linux": "setsid steam steam://rungameid/1071950",
+        "macOS": "open steam://rungameid/1071950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escapeez",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117783"
+}
