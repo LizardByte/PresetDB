@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104071,
+  "name": "Keep Running",
+  "source_url": "https://www.igdb.com/games/keep-running",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44g9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keep Running",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869580",
+        "Linux": "setsid steam steam://rungameid/869580",
+        "macOS": "open steam://rungameid/869580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keep-running",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104071"
+}
