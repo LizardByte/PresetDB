@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107992,
+  "name": "Tech Corp.",
+  "source_url": "https://www.igdb.com/games/tech-corp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m5o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tech Corp.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "909970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/909970",
+        "Linux": "setsid steam steam://rungameid/909970",
+        "macOS": "open steam://rungameid/909970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tech-corp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107992"
+}
