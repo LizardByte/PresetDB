@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102937,
+  "name": "Playne",
+  "source_url": "https://www.igdb.com/games/playne",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2664.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Playne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865540",
+        "Linux": "setsid steam steam://rungameid/865540",
+        "macOS": "open steam://rungameid/865540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "playne",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102937"
+}
