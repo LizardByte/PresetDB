@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112974,
+  "name": "Underlight",
+  "source_url": "https://www.igdb.com/games/underlight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5de.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Underlight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "980730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/980730",
+        "Linux": "setsid steam steam://rungameid/980730",
+        "macOS": "open steam://rungameid/980730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "underlight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112974"
+}
