@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111236,
+  "name": "Random of Wars",
+  "source_url": "https://www.igdb.com/games/random-of-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hjg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Random of Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "729680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/729680",
+        "Linux": "setsid steam steam://rungameid/729680",
+        "macOS": "open steam://rungameid/729680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "random-of-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111236"
+}
