@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120794,
+  "name": "Ascend",
+  "source_url": "https://www.igdb.com/games/ascend--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lok.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ascend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940380",
+        "Linux": "setsid steam steam://rungameid/940380",
+        "macOS": "open steam://rungameid/940380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ascend--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120794"
+}
