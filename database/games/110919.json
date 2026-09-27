@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110919,
+  "name": "A Game About",
+  "source_url": "https://www.igdb.com/games/a-game-about",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ab1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Game About",
+      "os": null,
+      "method": "steam",
+      "launch_id": "927990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/927990",
+        "Linux": "setsid steam steam://rungameid/927990",
+        "macOS": "open steam://rungameid/927990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-game-about",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110919"
+}
