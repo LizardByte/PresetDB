@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117350,
+  "name": "Bitlogic",
+  "source_url": "https://www.igdb.com/games/bitlogic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44r1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bitlogic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "555340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/555340",
+        "Linux": "setsid steam steam://rungameid/555340",
+        "macOS": "open steam://rungameid/555340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bitlogic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117350"
+}
