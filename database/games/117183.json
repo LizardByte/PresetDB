@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117183,
+  "name": "Skully Pinball",
+  "source_url": "https://www.igdb.com/games/skully-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41m0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skully Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1059190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1059190",
+        "Linux": "setsid steam steam://rungameid/1059190",
+        "macOS": "open steam://rungameid/1059190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skully-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117183"
+}
