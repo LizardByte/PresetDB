@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106803,
+  "name": "Gloomhaven",
+  "source_url": "https://www.igdb.com/games/gloomhaven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q8w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gloomhaven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "780290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/780290",
+        "Linux": "setsid steam steam://rungameid/780290",
+        "macOS": "open steam://rungameid/780290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gloomhaven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106803"
+}
