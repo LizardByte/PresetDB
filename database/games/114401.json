@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114401,
+  "name": "Undholm",
+  "source_url": "https://www.igdb.com/games/undholm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5db.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Undholm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "982060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/982060",
+        "Linux": "setsid steam steam://rungameid/982060",
+        "macOS": "open steam://rungameid/982060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "undholm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114401"
+}
