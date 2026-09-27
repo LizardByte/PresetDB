@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120704,
+  "name": "Robot terminator",
+  "source_url": "https://www.igdb.com/games/robot-terminator",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robot terminator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1118940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1118940",
+        "Linux": "setsid steam steam://rungameid/1118940",
+        "macOS": "open steam://rungameid/1118940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robot-terminator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120704"
+}
