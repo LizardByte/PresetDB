@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120114,
+  "name": "Gekraxel",
+  "source_url": "https://www.igdb.com/games/gekraxel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co417x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gekraxel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "877940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/877940",
+        "Linux": "setsid steam steam://rungameid/877940",
+        "macOS": "open steam://rungameid/877940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gekraxel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120114"
+}
