@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109865,
+  "name": "GonzoVR",
+  "source_url": "https://www.igdb.com/games/gonzovr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41d2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GonzoVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "935120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/935120",
+        "Linux": "setsid steam steam://rungameid/935120",
+        "macOS": "open steam://rungameid/935120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gonzovr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109865"
+}
