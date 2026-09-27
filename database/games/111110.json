@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111110,
+  "name": "Silver Child",
+  "source_url": "https://www.igdb.com/games/silver-child",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silver Child",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958360",
+        "Linux": "setsid steam steam://rungameid/958360",
+        "macOS": "open steam://rungameid/958360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silver-child",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111110"
+}
