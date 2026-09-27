@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103188,
+  "name": "Neo Neo",
+  "source_url": "https://www.igdb.com/games/neo-neo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neo Neo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "873070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/873070",
+        "Linux": "setsid steam steam://rungameid/873070",
+        "macOS": "open steam://rungameid/873070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neo-neo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103188"
+}
