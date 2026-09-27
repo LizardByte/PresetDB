@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105173,
+  "name": "Put Anna",
+  "source_url": "https://www.igdb.com/games/put-anna",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgr4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Put Anna",
+      "os": null,
+      "method": "steam",
+      "launch_id": "897760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/897760",
+        "Linux": "setsid steam steam://rungameid/897760",
+        "macOS": "open steam://rungameid/897760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "put-anna",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105173"
+}
