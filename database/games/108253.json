@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108253,
+  "name": "Medieval Steve",
+  "source_url": "https://www.igdb.com/games/medieval-steve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nrx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Medieval Steve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656690",
+        "Linux": "setsid steam steam://rungameid/656690",
+        "macOS": "open steam://rungameid/656690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "medieval-steve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108253"
+}
