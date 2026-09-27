@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105445,
+  "name": "Gem Rush",
+  "source_url": "https://www.igdb.com/games/gem-rush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4185.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gem Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845860",
+        "Linux": "setsid steam steam://rungameid/845860",
+        "macOS": "open steam://rungameid/845860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gem-rush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105445"
+}
