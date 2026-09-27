@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103184,
+  "name": "Zombie Killing Simulator",
+  "source_url": "https://www.igdb.com/games/zombie-killing-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob55c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Killing Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "872350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/872350",
+        "Linux": "setsid steam steam://rungameid/872350",
+        "macOS": "open steam://rungameid/872350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-killing-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103184"
+}
