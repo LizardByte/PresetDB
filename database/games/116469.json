@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116469,
+  "name": "To Catch a Monkey",
+  "source_url": "https://www.igdb.com/games/to-catch-a-monkey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6as.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "To Catch a Monkey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "931780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/931780",
+        "Linux": "setsid steam steam://rungameid/931780",
+        "macOS": "open steam://rungameid/931780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "to-catch-a-monkey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116469"
+}
