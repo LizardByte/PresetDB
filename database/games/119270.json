@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119270,
+  "name": "Tales of Arise",
+  "source_url": "https://www.igdb.com/games/tales-of-arise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ls2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of Arise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "740130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/740130",
+        "Linux": "setsid steam steam://rungameid/740130",
+        "macOS": "open steam://rungameid/740130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tales-of-arise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119270"
+}
