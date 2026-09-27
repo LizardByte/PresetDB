@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114221,
+  "name": "Tekling 2",
+  "source_url": "https://www.igdb.com/games/tekling-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7hd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tekling 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "931880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/931880",
+        "Linux": "setsid steam steam://rungameid/931880",
+        "macOS": "open steam://rungameid/931880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tekling-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114221"
+}
