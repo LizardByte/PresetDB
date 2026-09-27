@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111469,
+  "name": "Among Us",
+  "source_url": "https://www.igdb.com/games/among-us",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6kqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Among Us",
+      "os": null,
+      "method": "steam",
+      "launch_id": "945360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/945360",
+        "Linux": "setsid steam steam://rungameid/945360",
+        "macOS": "open steam://rungameid/945360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "among-us",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111469"
+}
