@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120096,
+  "name": "Radiance",
+  "source_url": "https://www.igdb.com/games/radiance",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y86.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Radiance",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1104800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1104800",
+        "Linux": "setsid steam steam://rungameid/1104800",
+        "macOS": "open steam://rungameid/1104800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "radiance",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120096"
+}
