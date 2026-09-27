@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114947,
+  "name": "Chipmonk!",
+  "source_url": "https://www.igdb.com/games/chipmonk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29nx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chipmonk!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1019730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1019730",
+        "Linux": "setsid steam steam://rungameid/1019730",
+        "macOS": "open steam://rungameid/1019730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chipmonk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114947"
+}
