@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116319,
+  "name": "Kim Shooter",
+  "source_url": "https://www.igdb.com/games/kim-shooter",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kim Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1040750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1040750",
+        "Linux": "setsid steam steam://rungameid/1040750",
+        "macOS": "open steam://rungameid/1040750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kim-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116319"
+}
