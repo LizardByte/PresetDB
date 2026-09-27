@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109700,
+  "name": "Late at Night",
+  "source_url": "https://www.igdb.com/games/late-at-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2eo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Late at Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "932160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/932160",
+        "Linux": "setsid steam steam://rungameid/932160",
+        "macOS": "open steam://rungameid/932160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "late-at-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109700"
+}
