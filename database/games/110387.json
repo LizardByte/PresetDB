@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110387,
+  "name": "Achievement Dummy",
+  "source_url": "https://www.igdb.com/games/achievement-dummy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co22cj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Achievement Dummy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "948950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/948950",
+        "Linux": "setsid steam steam://rungameid/948950",
+        "macOS": "open steam://rungameid/948950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "achievement-dummy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110387"
+}
