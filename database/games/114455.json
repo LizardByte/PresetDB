@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114455,
+  "name": "Pacify",
+  "source_url": "https://www.igdb.com/games/pacify",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1j07.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pacify",
+      "os": null,
+      "method": "steam",
+      "launch_id": "967050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/967050",
+        "Linux": "setsid steam steam://rungameid/967050",
+        "macOS": "open steam://rungameid/967050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pacify",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114455"
+}
