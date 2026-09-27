@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107198,
+  "name": "UnderMine",
+  "source_url": "https://www.igdb.com/games/undermine--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2erp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UnderMine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656350",
+        "Linux": "setsid steam steam://rungameid/656350",
+        "macOS": "open steam://rungameid/656350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "undermine--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107198"
+}
