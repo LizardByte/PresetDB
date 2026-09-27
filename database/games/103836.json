@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103836,
+  "name": "Battle Simulator",
+  "source_url": "https://www.igdb.com/games/battle-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "879670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/879670",
+        "Linux": "setsid steam steam://rungameid/879670",
+        "macOS": "open steam://rungameid/879670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103836"
+}
