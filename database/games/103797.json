@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103797,
+  "name": "Don't Feed the Slimes!",
+  "source_url": "https://www.igdb.com/games/dont-feed-the-slimes",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Feed the Slimes!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878610",
+        "Linux": "setsid steam steam://rungameid/878610",
+        "macOS": "open steam://rungameid/878610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-feed-the-slimes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103797"
+}
