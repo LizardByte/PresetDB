@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112942,
+  "name": "Mystic Vale",
+  "source_url": "https://www.igdb.com/games/mystic-vale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1iws.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystic Vale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "908070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/908070",
+        "Linux": "setsid steam steam://rungameid/908070",
+        "macOS": "open steam://rungameid/908070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystic-vale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112942"
+}
