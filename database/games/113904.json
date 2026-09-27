@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113904,
+  "name": "TenMinions",
+  "source_url": "https://www.igdb.com/games/tenminions",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TenMinions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918000",
+        "Linux": "setsid steam steam://rungameid/918000",
+        "macOS": "open steam://rungameid/918000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tenminions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113904"
+}
