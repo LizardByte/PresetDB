@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115015,
+  "name": "Grumpy Witch",
+  "source_url": "https://www.igdb.com/games/grumpy-witch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobluu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grumpy Witch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "580900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/580900",
+        "Linux": "setsid steam steam://rungameid/580900",
+        "macOS": "open steam://rungameid/580900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grumpy-witch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115015"
+}
