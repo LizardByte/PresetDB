@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111226,
+  "name": "Lost Artifacts: Time Machine",
+  "source_url": "https://www.igdb.com/games/lost-artifacts-time-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24co.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Artifacts: Time Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940810",
+        "Linux": "setsid steam steam://rungameid/940810",
+        "macOS": "open steam://rungameid/940810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-artifacts-time-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111226"
+}
