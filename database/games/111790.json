@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111790,
+  "name": "Symmetric",
+  "source_url": "https://www.igdb.com/games/symmetric",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsj2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Symmetric",
+      "os": null,
+      "method": "steam",
+      "launch_id": "930930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/930930",
+        "Linux": "setsid steam steam://rungameid/930930",
+        "macOS": "open steam://rungameid/930930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "symmetric",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111790"
+}
