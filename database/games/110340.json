@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110340,
+  "name": "HotHead",
+  "source_url": "https://www.igdb.com/games/hothead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5eer.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HotHead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904680",
+        "Linux": "setsid steam steam://rungameid/904680",
+        "macOS": "open steam://rungameid/904680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hothead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110340"
+}
