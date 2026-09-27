@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109314,
+  "name": "Supaplex WOW!",
+  "source_url": "https://www.igdb.com/games/supaplex-wow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42md.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Supaplex WOW!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913670",
+        "Linux": "setsid steam steam://rungameid/913670",
+        "macOS": "open steam://rungameid/913670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "supaplex-wow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109314"
+}
