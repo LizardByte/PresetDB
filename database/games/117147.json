@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117147,
+  "name": "Aron's Adventure",
+  "source_url": "https://www.igdb.com/games/arons-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aron's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1013910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1013910",
+        "Linux": "setsid steam steam://rungameid/1013910",
+        "macOS": "open steam://rungameid/1013910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arons-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117147"
+}
