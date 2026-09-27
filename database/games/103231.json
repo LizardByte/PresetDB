@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103231,
+  "name": "Cat Food",
+  "source_url": "https://www.igdb.com/games/cat-food",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Food",
+      "os": null,
+      "method": "steam",
+      "launch_id": "863780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/863780",
+        "Linux": "setsid steam steam://rungameid/863780",
+        "macOS": "open steam://rungameid/863780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-food",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103231"
+}
