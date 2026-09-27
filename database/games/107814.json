@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107814,
+  "name": "Street Heroes",
+  "source_url": "https://www.igdb.com/games/street-heroes--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23qv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Street Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "924500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/924500",
+        "Linux": "setsid steam steam://rungameid/924500",
+        "macOS": "open steam://rungameid/924500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "street-heroes--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107814"
+}
