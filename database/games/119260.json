@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119260,
+  "name": "Bleeding Edge",
+  "source_url": "https://www.igdb.com/games/bleeding-edge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bleeding Edge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1189800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1189800",
+        "Linux": "setsid steam steam://rungameid/1189800",
+        "macOS": "open steam://rungameid/1189800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bleeding-edge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119260"
+}
