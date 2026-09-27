@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116283,
+  "name": "BlueGlow",
+  "source_url": "https://www.igdb.com/games/blueglow",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlueGlow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1039800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1039800",
+        "Linux": "setsid steam steam://rungameid/1039800",
+        "macOS": "open steam://rungameid/1039800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blueglow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116283"
+}
