@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108184,
+  "name": "Majula Frontier",
+  "source_url": "https://www.igdb.com/games/majula-frontier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qmv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Majula Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "815630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/815630",
+        "Linux": "setsid steam steam://rungameid/815630",
+        "macOS": "open steam://rungameid/815630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "majula-frontier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108184"
+}
