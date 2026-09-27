@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104153,
+  "name": "Midnight Awake",
+  "source_url": "https://www.igdb.com/games/midnight-awake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnhv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Midnight Awake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "875510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/875510",
+        "Linux": "setsid steam steam://rungameid/875510",
+        "macOS": "open steam://rungameid/875510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "midnight-awake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104153"
+}
