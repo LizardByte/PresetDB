@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116216,
+  "name": "The Scuttle",
+  "source_url": "https://www.igdb.com/games/the-scuttle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobi9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Scuttle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1024080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1024080",
+        "Linux": "setsid steam steam://rungameid/1024080",
+        "macOS": "open steam://rungameid/1024080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-scuttle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116216"
+}
