@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115561,
+  "name": "Save Thine Kingdom",
+  "source_url": "https://www.igdb.com/games/save-thine-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobch1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save Thine Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959400",
+        "Linux": "setsid steam steam://rungameid/959400",
+        "macOS": "open steam://rungameid/959400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "save-thine-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115561"
+}
