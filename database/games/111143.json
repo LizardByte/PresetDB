@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111143,
+  "name": "VR Curling",
+  "source_url": "https://www.igdb.com/games/vr-curling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6hy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Curling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959920",
+        "Linux": "setsid steam steam://rungameid/959920",
+        "macOS": "open steam://rungameid/959920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vr-curling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111143"
+}
