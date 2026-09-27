@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109350,
+  "name": "Kings",
+  "source_url": "https://www.igdb.com/games/kings--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "930420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/930420",
+        "Linux": "setsid steam steam://rungameid/930420",
+        "macOS": "open steam://rungameid/930420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kings--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109350"
+}
