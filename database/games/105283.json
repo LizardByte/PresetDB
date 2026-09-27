@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105283,
+  "name": "Infected Battlegrounds",
+  "source_url": "https://www.igdb.com/games/infected-battlegrounds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobidk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infected Battlegrounds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843730",
+        "Linux": "setsid steam steam://rungameid/843730",
+        "macOS": "open steam://rungameid/843730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infected-battlegrounds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105283"
+}
