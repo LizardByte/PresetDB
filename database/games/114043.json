@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114043,
+  "name": "Slay Together",
+  "source_url": "https://www.igdb.com/games/slay-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41my.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slay Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892510",
+        "Linux": "setsid steam steam://rungameid/892510",
+        "macOS": "open steam://rungameid/892510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slay-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114043"
+}
