@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105186,
+  "name": "Color Party",
+  "source_url": "https://www.igdb.com/games/color-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Color Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "898380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/898380",
+        "Linux": "setsid steam steam://rungameid/898380",
+        "macOS": "open steam://rungameid/898380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "color-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105186"
+}
