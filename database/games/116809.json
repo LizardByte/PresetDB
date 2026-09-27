@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116809,
+  "name": "Samurai Shodown NeoGeo Collection",
+  "source_url": "https://www.igdb.com/games/samurai-shodown-neogeo-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29ku.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Samurai Shodown NeoGeo Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "999660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/999660",
+        "Linux": "setsid steam steam://rungameid/999660",
+        "macOS": "open steam://rungameid/999660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "samurai-shodown-neogeo-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116809"
+}
