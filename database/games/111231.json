@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111231,
+  "name": "Oculto",
+  "source_url": "https://www.igdb.com/games/oculto--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jjd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oculto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952400",
+        "Linux": "setsid steam steam://rungameid/952400",
+        "macOS": "open steam://rungameid/952400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oculto--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111231"
+}
