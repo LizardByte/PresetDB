@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107394,
+  "name": "The Goracle",
+  "source_url": "https://www.igdb.com/games/the-goracle",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Goracle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869370",
+        "Linux": "setsid steam steam://rungameid/869370",
+        "macOS": "open steam://rungameid/869370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-goracle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107394"
+}
