@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112960,
+  "name": "Project Eagle",
+  "source_url": "https://www.igdb.com/games/project-eagle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27o5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Eagle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "224000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/224000",
+        "Linux": "setsid steam steam://rungameid/224000",
+        "macOS": "open steam://rungameid/224000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-eagle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112960"
+}
