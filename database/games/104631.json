@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104631,
+  "name": "Crazy Soccer",
+  "source_url": "https://www.igdb.com/games/crazy-soccer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nmu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Soccer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "735550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/735550",
+        "Linux": "setsid steam steam://rungameid/735550",
+        "macOS": "open steam://rungameid/735550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crazy-soccer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104631"
+}
