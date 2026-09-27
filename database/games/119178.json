@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119178,
+  "name": "The Complex",
+  "source_url": "https://www.igdb.com/games/the-complex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6l6b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Complex",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1107790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1107790",
+        "Linux": "setsid steam steam://rungameid/1107790",
+        "macOS": "open steam://rungameid/1107790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-complex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119178"
+}
