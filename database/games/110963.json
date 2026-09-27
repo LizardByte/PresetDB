@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110963,
+  "name": "Pang & Bang",
+  "source_url": "https://www.igdb.com/games/pang-and-bang",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e2t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pang & Bang",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958980",
+        "Linux": "setsid steam steam://rungameid/958980",
+        "macOS": "open steam://rungameid/958980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pang-and-bang",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110963"
+}
