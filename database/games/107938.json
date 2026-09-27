@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107938,
+  "name": "Death Fungeon",
+  "source_url": "https://www.igdb.com/games/death-fungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o9o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death Fungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "897630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/897630",
+        "Linux": "setsid steam steam://rungameid/897630",
+        "macOS": "open steam://rungameid/897630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "death-fungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107938"
+}
