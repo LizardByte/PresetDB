@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104083,
+  "name": "Freddy's Journey",
+  "source_url": "https://www.igdb.com/games/freddys-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobge9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freddy's Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "875520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/875520",
+        "Linux": "setsid steam steam://rungameid/875520",
+        "macOS": "open steam://rungameid/875520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freddys-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104083"
+}
