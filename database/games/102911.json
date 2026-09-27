@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102911,
+  "name": "Small person",
+  "source_url": "https://www.igdb.com/games/small-person",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Small person",
+      "os": null,
+      "method": "steam",
+      "launch_id": "859460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/859460",
+        "Linux": "setsid steam steam://rungameid/859460",
+        "macOS": "open steam://rungameid/859460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "small-person",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102911"
+}
