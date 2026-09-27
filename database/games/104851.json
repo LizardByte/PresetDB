@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104851,
+  "name": "RockBuster",
+  "source_url": "https://www.igdb.com/games/rockbuster",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RockBuster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "698230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/698230",
+        "Linux": "setsid steam steam://rungameid/698230",
+        "macOS": "open steam://rungameid/698230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rockbuster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104851"
+}
