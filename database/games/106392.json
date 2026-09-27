@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106392,
+  "name": "Sort the Cube",
+  "source_url": "https://www.igdb.com/games/sort-the-cube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41sr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sort the Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878510",
+        "Linux": "setsid steam steam://rungameid/878510",
+        "macOS": "open steam://rungameid/878510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sort-the-cube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106392"
+}
