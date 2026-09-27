@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115228,
+  "name": "SpessVR",
+  "source_url": "https://www.igdb.com/games/spessvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7nqk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpessVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "898200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/898200",
+        "Linux": "setsid steam steam://rungameid/898200",
+        "macOS": "open steam://rungameid/898200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spessvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115228"
+}
