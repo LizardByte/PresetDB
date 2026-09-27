@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111513,
+  "name": "Evil Bank Manager",
+  "source_url": "https://www.igdb.com/games/evil-bank-manager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qfc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil Bank Manager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "896160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/896160",
+        "Linux": "setsid steam steam://rungameid/896160",
+        "macOS": "open steam://rungameid/896160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evil-bank-manager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111513"
+}
