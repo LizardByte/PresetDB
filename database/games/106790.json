@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106790,
+  "name": "Bee Simulator",
+  "source_url": "https://www.igdb.com/games/bee-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1usw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bee Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914750",
+        "Linux": "setsid steam steam://rungameid/914750",
+        "macOS": "open steam://rungameid/914750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bee-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106790"
+}
