@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103706,
+  "name": "The Edge Ball",
+  "source_url": "https://www.igdb.com/games/the-edge-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobrdv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Edge Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884240",
+        "Linux": "setsid steam steam://rungameid/884240",
+        "macOS": "open steam://rungameid/884240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-edge-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103706"
+}
