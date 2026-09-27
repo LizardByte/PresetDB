@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113116,
+  "name": "Atlas",
+  "source_url": "https://www.igdb.com/games/atlas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sh8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atlas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "834910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/834910",
+        "Linux": "setsid steam steam://rungameid/834910",
+        "macOS": "open steam://rungameid/834910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atlas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113116"
+}
