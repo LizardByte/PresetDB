@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111274,
+  "name": "Space Gladiator",
+  "source_url": "https://www.igdb.com/games/space-gladiator",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Gladiator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "965110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/965110",
+        "Linux": "setsid steam steam://rungameid/965110",
+        "macOS": "open steam://rungameid/965110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-gladiator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111274"
+}
