@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103644,
+  "name": "Chess Puzzles",
+  "source_url": "https://www.igdb.com/games/chess-puzzles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhpa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess Puzzles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "874380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/874380",
+        "Linux": "setsid steam steam://rungameid/874380",
+        "macOS": "open steam://rungameid/874380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-puzzles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103644"
+}
