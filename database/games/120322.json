@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120322,
+  "name": "Dinkum",
+  "source_url": "https://www.igdb.com/games/dinkum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab4l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dinkum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1062520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1062520",
+        "Linux": "setsid steam steam://rungameid/1062520",
+        "macOS": "open steam://rungameid/1062520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dinkum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120322"
+}
