@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117114,
+  "name": "GlassSmash",
+  "source_url": "https://www.igdb.com/games/glasssmash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41b6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GlassSmash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1052220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1052220",
+        "Linux": "setsid steam steam://rungameid/1052220",
+        "macOS": "open steam://rungameid/1052220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "glasssmash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117114"
+}
