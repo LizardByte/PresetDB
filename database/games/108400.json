@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108400,
+  "name": "Kaleido Chaos",
+  "source_url": "https://www.igdb.com/games/kaleido-chaos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgjl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kaleido Chaos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850270",
+        "Linux": "setsid steam steam://rungameid/850270",
+        "macOS": "open steam://rungameid/850270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kaleido-chaos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108400"
+}
