@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117225,
+  "name": "The Elementalist",
+  "source_url": "https://www.igdb.com/games/the-elementalist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43qv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Elementalist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "973410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/973410",
+        "Linux": "setsid steam steam://rungameid/973410",
+        "macOS": "open steam://rungameid/973410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-elementalist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117225"
+}
