@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112360,
+  "name": "Nonogram",
+  "source_url": "https://www.igdb.com/games/nonogram",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2zs1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nonogram",
+      "os": null,
+      "method": "steam",
+      "launch_id": "982890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/982890",
+        "Linux": "setsid steam steam://rungameid/982890",
+        "macOS": "open steam://rungameid/982890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nonogram",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112360"
+}
