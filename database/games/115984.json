@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115984,
+  "name": "Genesis",
+  "source_url": "https://www.igdb.com/games/genesis--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2se9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Genesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "755080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/755080",
+        "Linux": "setsid steam steam://rungameid/755080",
+        "macOS": "open steam://rungameid/755080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "genesis--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115984"
+}
