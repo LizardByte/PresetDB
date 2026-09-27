@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117401,
+  "name": "Dead Quest",
+  "source_url": "https://www.igdb.com/games/dead-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobrx3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1041500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1041500",
+        "Linux": "setsid steam steam://rungameid/1041500",
+        "macOS": "open steam://rungameid/1041500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117401"
+}
