@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111870,
+  "name": "Happy Vampire Girl",
+  "source_url": "https://www.igdb.com/games/happy-vampire-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgo1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Vampire Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976840",
+        "Linux": "setsid steam steam://rungameid/976840",
+        "macOS": "open steam://rungameid/976840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "happy-vampire-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111870"
+}
