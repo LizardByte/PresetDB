@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120842,
+  "name": "MaSzyna",
+  "source_url": "https://www.igdb.com/games/maszyna",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaxm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MaSzyna",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1033030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1033030",
+        "Linux": "setsid steam steam://rungameid/1033030",
+        "macOS": "open steam://rungameid/1033030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maszyna",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120842"
+}
