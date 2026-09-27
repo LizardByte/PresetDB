@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107483,
+  "name": "The Twelve Trials",
+  "source_url": "https://www.igdb.com/games/the-twelve-trials",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6tf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Twelve Trials",
+      "os": null,
+      "method": "steam",
+      "launch_id": "929030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/929030",
+        "Linux": "setsid steam steam://rungameid/929030",
+        "macOS": "open steam://rungameid/929030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-twelve-trials",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107483"
+}
