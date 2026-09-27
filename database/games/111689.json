@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111689,
+  "name": "BattleMore",
+  "source_url": "https://www.igdb.com/games/battlemore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobflp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BattleMore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "974040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/974040",
+        "Linux": "setsid steam steam://rungameid/974040",
+        "macOS": "open steam://rungameid/974040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battlemore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111689"
+}
