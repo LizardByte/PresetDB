@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110083,
+  "name": "Dragon Defense",
+  "source_url": "https://www.igdb.com/games/dragon-defense",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnhr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Defense",
+      "os": null,
+      "method": "steam",
+      "launch_id": "846490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/846490",
+        "Linux": "setsid steam steam://rungameid/846490",
+        "macOS": "open steam://rungameid/846490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-defense",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110083"
+}
