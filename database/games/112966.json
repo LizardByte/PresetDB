@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112966,
+  "name": "Game Soup",
+  "source_url": "https://www.igdb.com/games/game-soup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Soup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "981420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/981420",
+        "Linux": "setsid steam steam://rungameid/981420",
+        "macOS": "open steam://rungameid/981420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-soup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112966"
+}
