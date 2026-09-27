@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115289,
+  "name": "Hollow Knight: Silksong",
+  "source_url": "https://www.igdb.com/games/hollow-knight-silksong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobebu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hollow Knight: Silksong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1030300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1030300",
+        "Linux": "setsid steam steam://rungameid/1030300",
+        "macOS": "open steam://rungameid/1030300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hollow-knight-silksong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115289"
+}
