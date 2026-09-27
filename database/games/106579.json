@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106579,
+  "name": "Bunny Minesweeper",
+  "source_url": "https://www.igdb.com/games/bunny-minesweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hwn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Minesweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "900790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/900790",
+        "Linux": "setsid steam steam://rungameid/900790",
+        "macOS": "open steam://rungameid/900790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunny-minesweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106579"
+}
