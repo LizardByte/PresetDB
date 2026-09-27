@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113274,
+  "name": "Bubble Burst",
+  "source_url": "https://www.igdb.com/games/bubble-burst",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhtj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bubble Burst",
+      "os": null,
+      "method": "steam",
+      "launch_id": "971500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/971500",
+        "Linux": "setsid steam steam://rungameid/971500",
+        "macOS": "open steam://rungameid/971500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bubble-burst",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113274"
+}
