@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120150,
+  "name": "Moon Tycoon",
+  "source_url": "https://www.igdb.com/games/moon-tycoon--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p4r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon Tycoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "982800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/982800",
+        "Linux": "setsid steam steam://rungameid/982800",
+        "macOS": "open steam://rungameid/982800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-tycoon--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120150"
+}
