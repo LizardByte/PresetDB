@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120613,
+  "name": "Sacre Bleu",
+  "source_url": "https://www.igdb.com/games/sacre-bleu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47aq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sacre Bleu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1081300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1081300",
+        "Linux": "setsid steam steam://rungameid/1081300",
+        "macOS": "open steam://rungameid/1081300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sacre-bleu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120613"
+}
