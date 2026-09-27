@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105024,
+  "name": "Dead by Death",
+  "source_url": "https://www.igdb.com/games/dead-by-death",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg6v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead by Death",
+      "os": null,
+      "method": "steam",
+      "launch_id": "663290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/663290",
+        "Linux": "setsid steam steam://rungameid/663290",
+        "macOS": "open steam://rungameid/663290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-by-death",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105024"
+}
