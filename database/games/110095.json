@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110095,
+  "name": "Coffee Trainer VR",
+  "source_url": "https://www.igdb.com/games/coffee-trainer-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfgm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coffee Trainer VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910210",
+        "Linux": "setsid steam steam://rungameid/910210",
+        "macOS": "open steam://rungameid/910210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coffee-trainer-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110095"
+}
