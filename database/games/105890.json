@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105890,
+  "name": "Endless Horde",
+  "source_url": "https://www.igdb.com/games/endless-horde",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jn8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Horde",
+      "os": null,
+      "method": "steam",
+      "launch_id": "618610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/618610",
+        "Linux": "setsid steam steam://rungameid/618610",
+        "macOS": "open steam://rungameid/618610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-horde",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105890"
+}
