@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105453,
+  "name": "Evergate",
+  "source_url": "https://www.igdb.com/games/evergate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m7u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evergate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845030",
+        "Linux": "setsid steam steam://rungameid/845030",
+        "macOS": "open steam://rungameid/845030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evergate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105453"
+}
