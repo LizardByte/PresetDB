@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111176,
+  "name": "Endhall",
+  "source_url": "https://www.igdb.com/games/endhall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxcl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endhall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "838990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/838990",
+        "Linux": "setsid steam steam://rungameid/838990",
+        "macOS": "open steam://rungameid/838990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endhall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111176"
+}
