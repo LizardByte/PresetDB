@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105483,
+  "name": "Adventures of the Worm",
+  "source_url": "https://www.igdb.com/games/adventures-of-the-worm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob74i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventures of the Worm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "681410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/681410",
+        "Linux": "setsid steam steam://rungameid/681410",
+        "macOS": "open steam://rungameid/681410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "adventures-of-the-worm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105483"
+}
