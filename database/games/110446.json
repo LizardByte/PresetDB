@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110446,
+  "name": "Ahegal",
+  "source_url": "https://www.igdb.com/games/ahegal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l7o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ahegal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865090",
+        "Linux": "setsid steam steam://rungameid/865090",
+        "macOS": "open steam://rungameid/865090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ahegal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110446"
+}
