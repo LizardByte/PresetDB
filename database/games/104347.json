@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104347,
+  "name": "Desert Survival",
+  "source_url": "https://www.igdb.com/games/desert-survival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgu9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desert Survival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880620",
+        "Linux": "setsid steam steam://rungameid/880620",
+        "macOS": "open steam://rungameid/880620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desert-survival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104347"
+}
