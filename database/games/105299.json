@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105299,
+  "name": "Amaze'd",
+  "source_url": "https://www.igdb.com/games/amazed--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amaze'd",
+      "os": null,
+      "method": "steam",
+      "launch_id": "870000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/870000",
+        "Linux": "setsid steam steam://rungameid/870000",
+        "macOS": "open steam://rungameid/870000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amazed--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105299"
+}
