@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104945,
+  "name": "Woodpunk",
+  "source_url": "https://www.igdb.com/games/woodpunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uhb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Woodpunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878420",
+        "Linux": "setsid steam steam://rungameid/878420",
+        "macOS": "open steam://rungameid/878420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "woodpunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104945"
+}
