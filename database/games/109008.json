@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109008,
+  "name": "Home Run High",
+  "source_url": "https://www.igdb.com/games/home-run-high",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ny3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Home Run High",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2084720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2084720",
+        "Linux": "setsid steam steam://rungameid/2084720",
+        "macOS": "open steam://rungameid/2084720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "home-run-high",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109008"
+}
