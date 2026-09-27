@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103425,
+  "name": "Adventure of a Digger",
+  "source_url": "https://www.igdb.com/games/adventure-of-a-digger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventure of a Digger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868460",
+        "Linux": "setsid steam steam://rungameid/868460",
+        "macOS": "open steam://rungameid/868460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "adventure-of-a-digger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103425"
+}
