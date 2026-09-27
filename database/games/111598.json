@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111598,
+  "name": "Ralf",
+  "source_url": "https://www.igdb.com/games/ralf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob20b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ralf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958200",
+        "Linux": "setsid steam steam://rungameid/958200",
+        "macOS": "open steam://rungameid/958200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ralf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111598"
+}
