@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106055,
+  "name": "Supaplex GO!",
+  "source_url": "https://www.igdb.com/games/supaplex-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42m9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Supaplex GO!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913650",
+        "Linux": "setsid steam steam://rungameid/913650",
+        "macOS": "open steam://rungameid/913650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "supaplex-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106055"
+}
