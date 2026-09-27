@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118340,
+  "name": "Baff",
+  "source_url": "https://www.igdb.com/games/baff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3luy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Baff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1081760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1081760",
+        "Linux": "setsid steam steam://rungameid/1081760",
+        "macOS": "open steam://rungameid/1081760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "baff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118340"
+}
