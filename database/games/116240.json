@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116240,
+  "name": "VIP Shuttle",
+  "source_url": "https://www.igdb.com/games/vip-shuttle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5eg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VIP Shuttle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1030730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1030730",
+        "Linux": "setsid steam steam://rungameid/1030730",
+        "macOS": "open steam://rungameid/1030730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vip-shuttle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116240"
+}
