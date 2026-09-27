@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111506,
+  "name": "Deadly Burrito",
+  "source_url": "https://www.igdb.com/games/deadly-burrito",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgd1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadly Burrito",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914250",
+        "Linux": "setsid steam steam://rungameid/914250",
+        "macOS": "open steam://rungameid/914250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadly-burrito",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111506"
+}
