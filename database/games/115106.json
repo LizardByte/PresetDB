@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115106,
+  "name": "Game Master Plus",
+  "source_url": "https://www.igdb.com/games/game-master-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dvx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Master Plus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950890",
+        "Linux": "setsid steam steam://rungameid/950890",
+        "macOS": "open steam://rungameid/950890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-master-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115106"
+}
