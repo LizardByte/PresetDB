@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105600,
+  "name": "LastByteStanding",
+  "source_url": "https://www.igdb.com/games/lastbytestanding",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LastByteStanding",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880330",
+        "Linux": "setsid steam steam://rungameid/880330",
+        "macOS": "open steam://rungameid/880330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lastbytestanding",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105600"
+}
