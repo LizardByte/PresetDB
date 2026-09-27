@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110112,
+  "name": "Pleasure Puzzle",
+  "source_url": "https://www.igdb.com/games/pleasure-puzzle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vg1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pleasure Puzzle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "934540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/934540",
+        "Linux": "setsid steam steam://rungameid/934540",
+        "macOS": "open steam://rungameid/934540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pleasure-puzzle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110112"
+}
