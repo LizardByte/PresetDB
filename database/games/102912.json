@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102912,
+  "name": "Sanctus Mortem",
+  "source_url": "https://www.igdb.com/games/sanctus-mortem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co242t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sanctus Mortem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858490",
+        "Linux": "setsid steam steam://rungameid/858490",
+        "macOS": "open steam://rungameid/858490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sanctus-mortem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102912"
+}
