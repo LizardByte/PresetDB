@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115677,
+  "name": "Minimal Move",
+  "source_url": "https://www.igdb.com/games/minimal-move",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1lah.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minimal Move",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976680",
+        "Linux": "setsid steam steam://rungameid/976680",
+        "macOS": "open steam://rungameid/976680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minimal-move",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115677"
+}
