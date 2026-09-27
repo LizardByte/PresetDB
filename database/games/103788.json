@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103788,
+  "name": "Welcome to... Chichester!",
+  "source_url": "https://www.igdb.com/games/welcome-to-dot-dot-dot-chichester",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob57t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to... Chichester!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "877460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/877460",
+        "Linux": "setsid steam steam://rungameid/877460",
+        "macOS": "open steam://rungameid/877460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-dot-dot-dot-chichester",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103788"
+}
