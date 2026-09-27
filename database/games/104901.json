@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104901,
+  "name": "Nom Nom Apocalypse",
+  "source_url": "https://www.igdb.com/games/nom-nom-apocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qur.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nom Nom Apocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882760",
+        "Linux": "setsid steam steam://rungameid/882760",
+        "macOS": "open steam://rungameid/882760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nom-nom-apocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104901"
+}
