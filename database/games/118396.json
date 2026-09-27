@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118396,
+  "name": "Fantasy Hero Manager",
+  "source_url": "https://www.igdb.com/games/fantasy-hero-manager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfhc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantasy Hero Manager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1083850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1083850",
+        "Linux": "setsid steam steam://rungameid/1083850",
+        "macOS": "open steam://rungameid/1083850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantasy-hero-manager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118396"
+}
