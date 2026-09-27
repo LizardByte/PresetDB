@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107412,
+  "name": "Outback",
+  "source_url": "https://www.igdb.com/games/outback",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76tl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outback",
+      "os": null,
+      "method": "steam",
+      "launch_id": "898460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/898460",
+        "Linux": "setsid steam steam://rungameid/898460",
+        "macOS": "open steam://rungameid/898460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "outback",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107412"
+}
