@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109701,
+  "name": "GraviSound",
+  "source_url": "https://www.igdb.com/games/gravisound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GraviSound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "932480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/932480",
+        "Linux": "setsid steam steam://rungameid/932480",
+        "macOS": "open steam://rungameid/932480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gravisound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109701"
+}
