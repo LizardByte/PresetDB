@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110530,
+  "name": "El Pansas",
+  "source_url": "https://www.igdb.com/games/el-pansas",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "El Pansas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "944200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/944200",
+        "Linux": "setsid steam steam://rungameid/944200",
+        "macOS": "open steam://rungameid/944200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "el-pansas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110530"
+}
