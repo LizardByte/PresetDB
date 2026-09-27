@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102440,
+  "name": "Next 4",
+  "source_url": "https://www.igdb.com/games/next-4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhp7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Next 4",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856120",
+        "Linux": "setsid steam steam://rungameid/856120",
+        "macOS": "open steam://rungameid/856120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "next-4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102440"
+}
