@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109839,
+  "name": "Stockpile",
+  "source_url": "https://www.igdb.com/games/stockpile",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co424d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stockpile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "900370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/900370",
+        "Linux": "setsid steam steam://rungameid/900370",
+        "macOS": "open steam://rungameid/900370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stockpile",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109839"
+}
