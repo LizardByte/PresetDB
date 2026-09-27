@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117648,
+  "name": "Wizardas",
+  "source_url": "https://www.igdb.com/games/wizardas",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizardas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1055280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1055280",
+        "Linux": "setsid steam steam://rungameid/1055280",
+        "macOS": "open steam://rungameid/1055280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wizardas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117648"
+}
