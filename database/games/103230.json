@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103230,
+  "name": "Made to Order",
+  "source_url": "https://www.igdb.com/games/made-to-order",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mqx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Made to Order",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860770",
+        "Linux": "setsid steam steam://rungameid/860770",
+        "macOS": "open steam://rungameid/860770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "made-to-order",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103230"
+}
