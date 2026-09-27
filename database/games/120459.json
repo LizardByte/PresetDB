@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120459,
+  "name": "Sinners",
+  "source_url": "https://www.igdb.com/games/sinners",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1t40.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sinners",
+      "os": null,
+      "method": "steam",
+      "launch_id": "990020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/990020",
+        "Linux": "setsid steam steam://rungameid/990020",
+        "macOS": "open steam://rungameid/990020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sinners",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120459"
+}
