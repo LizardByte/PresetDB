@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103445,
+  "name": "Supesu",
+  "source_url": "https://www.igdb.com/games/supesu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocblu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Supesu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "879280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/879280",
+        "Linux": "setsid steam steam://rungameid/879280",
+        "macOS": "open steam://rungameid/879280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "supesu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103445"
+}
