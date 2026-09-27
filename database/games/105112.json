@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105112,
+  "name": "MoonQuest",
+  "source_url": "https://www.igdb.com/games/moonquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co208h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MoonQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "511540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/511540",
+        "Linux": "setsid steam steam://rungameid/511540",
+        "macOS": "open steam://rungameid/511540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moonquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105112"
+}
