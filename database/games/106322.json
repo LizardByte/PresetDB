@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106322,
+  "name": "Pla_toon",
+  "source_url": "https://www.igdb.com/games/pla-toon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49rd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pla_toon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891220",
+        "Linux": "setsid steam steam://rungameid/891220",
+        "macOS": "open steam://rungameid/891220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pla-toon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106322"
+}
