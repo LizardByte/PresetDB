@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110431,
+  "name": "Spicy Deck",
+  "source_url": "https://www.igdb.com/games/spicy-deck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spicy Deck",
+      "os": null,
+      "method": "steam",
+      "launch_id": "953240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/953240",
+        "Linux": "setsid steam steam://rungameid/953240",
+        "macOS": "open steam://rungameid/953240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spicy-deck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110431"
+}
