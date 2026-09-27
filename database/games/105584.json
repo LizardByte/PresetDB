@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105584,
+  "name": "Super GMA",
+  "source_url": "https://www.igdb.com/games/super-gma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobewq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super GMA",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893940",
+        "Linux": "setsid steam steam://rungameid/893940",
+        "macOS": "open steam://rungameid/893940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-gma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105584"
+}
