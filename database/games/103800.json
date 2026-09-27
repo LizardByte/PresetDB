@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103800,
+  "name": "Sarah in the Sky",
+  "source_url": "https://www.igdb.com/games/sarah-in-the-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63ks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sarah in the Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878910",
+        "Linux": "setsid steam steam://rungameid/878910",
+        "macOS": "open steam://rungameid/878910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sarah-in-the-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103800"
+}
