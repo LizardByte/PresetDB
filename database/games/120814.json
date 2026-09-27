@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120814,
+  "name": "HorrorVale",
+  "source_url": "https://www.igdb.com/games/horrorvale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rpa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HorrorVale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1114650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1114650",
+        "Linux": "setsid steam steam://rungameid/1114650",
+        "macOS": "open steam://rungameid/1114650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horrorvale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120814"
+}
