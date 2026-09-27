@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102909,
+  "name": "Korvux",
+  "source_url": "https://www.igdb.com/games/korvux",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co452s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Korvux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "857300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/857300",
+        "Linux": "setsid steam steam://rungameid/857300",
+        "macOS": "open steam://rungameid/857300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "korvux",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102909"
+}
