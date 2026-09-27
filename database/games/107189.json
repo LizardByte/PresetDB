@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107189,
+  "name": "Stone",
+  "source_url": "https://www.igdb.com/games/stone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1z41.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "907770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/907770",
+        "Linux": "setsid steam steam://rungameid/907770",
+        "macOS": "open steam://rungameid/907770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107189"
+}
