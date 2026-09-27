@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111509,
+  "name": "7-minute HOP",
+  "source_url": "https://www.igdb.com/games/7-minute-hop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co28rf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "7-minute HOP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961210",
+        "Linux": "setsid steam steam://rungameid/961210",
+        "macOS": "open steam://rungameid/961210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "7-minute-hop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111509"
+}
