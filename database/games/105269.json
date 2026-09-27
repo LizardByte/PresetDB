@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105269,
+  "name": "Gene Rain",
+  "source_url": "https://www.igdb.com/games/gene-rain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs1z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gene Rain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "781150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/781150",
+        "Linux": "setsid steam steam://rungameid/781150",
+        "macOS": "open steam://rungameid/781150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gene-rain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105269"
+}
