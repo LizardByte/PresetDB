@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113411,
+  "name": "Oh Trap!",
+  "source_url": "https://www.igdb.com/games/oh-trap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgpu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oh Trap!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "994520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/994520",
+        "Linux": "setsid steam steam://rungameid/994520",
+        "macOS": "open steam://rungameid/994520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oh-trap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113411"
+}
