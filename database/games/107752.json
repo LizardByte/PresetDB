@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107752,
+  "name": "Zodicat",
+  "source_url": "https://www.igdb.com/games/zodicat",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zodicat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "876100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/876100",
+        "Linux": "setsid steam steam://rungameid/876100",
+        "macOS": "open steam://rungameid/876100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zodicat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107752"
+}
