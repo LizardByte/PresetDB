@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103255,
+  "name": "Red Rover",
+  "source_url": "https://www.igdb.com/games/red-rover",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Rover",
+      "os": null,
+      "method": "steam",
+      "launch_id": "819060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/819060",
+        "Linux": "setsid steam steam://rungameid/819060",
+        "macOS": "open steam://rungameid/819060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-rover",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103255"
+}
