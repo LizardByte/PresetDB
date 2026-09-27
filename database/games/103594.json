@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103594,
+  "name": "Cardboard Wars",
+  "source_url": "https://www.igdb.com/games/cardboard-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cardboard Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "728630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/728630",
+        "Linux": "setsid steam steam://rungameid/728630",
+        "macOS": "open steam://rungameid/728630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cardboard-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103594"
+}
