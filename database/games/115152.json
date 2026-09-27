@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115152,
+  "name": "Tamashii",
+  "source_url": "https://www.igdb.com/games/tamashii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24dr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tamashii",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1026400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1026400",
+        "Linux": "setsid steam steam://rungameid/1026400",
+        "macOS": "open steam://rungameid/1026400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tamashii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115152"
+}
