@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102986,
+  "name": "Cave Adventures",
+  "source_url": "https://www.igdb.com/games/cave-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co299n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cave Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "870040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/870040",
+        "Linux": "setsid steam steam://rungameid/870040",
+        "macOS": "open steam://rungameid/870040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cave-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102986"
+}
