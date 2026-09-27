@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103757,
+  "name": "Achievement Creator",
+  "source_url": "https://www.igdb.com/games/achievement-creator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3kyw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Achievement Creator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "864520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/864520",
+        "Linux": "setsid steam steam://rungameid/864520",
+        "macOS": "open steam://rungameid/864520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "achievement-creator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103757"
+}
