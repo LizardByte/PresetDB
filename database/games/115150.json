@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115150,
+  "name": "VR Sand",
+  "source_url": "https://www.igdb.com/games/vr-sand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2t0f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Sand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "632040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/632040",
+        "Linux": "setsid steam steam://rungameid/632040",
+        "macOS": "open steam://rungameid/632040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vr-sand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115150"
+}
