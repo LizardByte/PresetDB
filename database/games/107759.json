@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107759,
+  "name": "CatCatch",
+  "source_url": "https://www.igdb.com/games/catcatch",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CatCatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913210",
+        "Linux": "setsid steam steam://rungameid/913210",
+        "macOS": "open steam://rungameid/913210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catcatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107759"
+}
