@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103225,
+  "name": "DeepLands",
+  "source_url": "https://www.igdb.com/games/deeplands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gsw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeepLands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854680",
+        "Linux": "setsid steam steam://rungameid/854680",
+        "macOS": "open steam://rungameid/854680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deeplands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103225"
+}
