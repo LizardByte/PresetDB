@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106421,
+  "name": "Dominus 2",
+  "source_url": "https://www.igdb.com/games/dominus-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob58c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dominus 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "905650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/905650",
+        "Linux": "setsid steam steam://rungameid/905650",
+        "macOS": "open steam://rungameid/905650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dominus-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106421"
+}
