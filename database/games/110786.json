@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110786,
+  "name": "Lost & Found",
+  "source_url": "https://www.igdb.com/games/lost-and-found",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost & Found",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955770",
+        "Linux": "setsid steam steam://rungameid/955770",
+        "macOS": "open steam://rungameid/955770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-and-found",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110786"
+}
