@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108333,
+  "name": "Gumstein: The Awakening",
+  "source_url": "https://www.igdb.com/games/gumstein-the-awakening",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgov.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gumstein: The Awakening",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906650",
+        "Linux": "setsid steam steam://rungameid/906650",
+        "macOS": "open steam://rungameid/906650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gumstein-the-awakening",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108333"
+}
