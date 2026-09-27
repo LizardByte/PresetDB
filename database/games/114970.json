@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114970,
+  "name": "Redviil",
+  "source_url": "https://www.igdb.com/games/redviil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe17.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Redviil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1013410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1013410",
+        "Linux": "setsid steam steam://rungameid/1013410",
+        "macOS": "open steam://rungameid/1013410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "redviil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114970"
+}
