@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110621,
+  "name": "Titan Hunter",
+  "source_url": "https://www.igdb.com/games/titan-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Titan Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955700",
+        "Linux": "setsid steam steam://rungameid/955700",
+        "macOS": "open steam://rungameid/955700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "titan-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110621"
+}
