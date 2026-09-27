@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105254,
+  "name": "Codenames",
+  "source_url": "https://www.igdb.com/games/codenames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob02x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Codenames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884670",
+        "Linux": "setsid steam steam://rungameid/884670",
+        "macOS": "open steam://rungameid/884670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "codenames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105254"
+}
