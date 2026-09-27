@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108385,
+  "name": "Keyg",
+  "source_url": "https://www.igdb.com/games/keyg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qhk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keyg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922550",
+        "Linux": "setsid steam steam://rungameid/922550",
+        "macOS": "open steam://rungameid/922550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keyg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108385"
+}
