@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115439,
+  "name": "Magic Mouse",
+  "source_url": "https://www.igdb.com/games/magic-mouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgh4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Mouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985560",
+        "Linux": "setsid steam steam://rungameid/985560",
+        "macOS": "open steam://rungameid/985560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-mouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115439"
+}
