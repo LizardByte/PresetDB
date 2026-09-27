@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116766,
+  "name": "Zombie Scrapper",
+  "source_url": "https://www.igdb.com/games/zombie-scrapper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1kjy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Scrapper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "997170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/997170",
+        "Linux": "setsid steam steam://rungameid/997170",
+        "macOS": "open steam://rungameid/997170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-scrapper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116766"
+}
