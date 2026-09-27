@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110494,
+  "name": "Somos",
+  "source_url": "https://www.igdb.com/games/somos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2l3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Somos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "706510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/706510",
+        "Linux": "setsid steam steam://rungameid/706510",
+        "macOS": "open steam://rungameid/706510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "somos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110494"
+}
