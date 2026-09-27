@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102992,
+  "name": "Flaming Pixels",
+  "source_url": "https://www.igdb.com/games/flaming-pixels",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgqk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flaming Pixels",
+      "os": null,
+      "method": "steam",
+      "launch_id": "871320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/871320",
+        "Linux": "setsid steam steam://rungameid/871320",
+        "macOS": "open steam://rungameid/871320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flaming-pixels",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102992"
+}
