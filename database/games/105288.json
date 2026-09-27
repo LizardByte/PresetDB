@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105288,
+  "name": "Super Helpful Man",
+  "source_url": "https://www.igdb.com/games/super-helpful-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Helpful Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851210",
+        "Linux": "setsid steam steam://rungameid/851210",
+        "macOS": "open steam://rungameid/851210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-helpful-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105288"
+}
