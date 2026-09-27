@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103615,
+  "name": "Fun Hospital",
+  "source_url": "https://www.igdb.com/games/fun-hospital",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yuh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fun Hospital",
+      "os": null,
+      "method": "steam",
+      "launch_id": "829420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/829420",
+        "Linux": "setsid steam steam://rungameid/829420",
+        "macOS": "open steam://rungameid/829420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fun-hospital",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103615"
+}
