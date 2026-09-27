@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115894,
+  "name": "Fight This",
+  "source_url": "https://www.igdb.com/games/fight-this",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobluz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fight This",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1037900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1037900",
+        "Linux": "setsid steam steam://rungameid/1037900",
+        "macOS": "open steam://rungameid/1037900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fight-this",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115894"
+}
