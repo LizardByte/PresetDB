@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115754,
+  "name": "Dark Shiny",
+  "source_url": "https://www.igdb.com/games/dark-shiny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1rnp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Shiny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "987780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/987780",
+        "Linux": "setsid steam steam://rungameid/987780",
+        "macOS": "open steam://rungameid/987780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-shiny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115754"
+}
