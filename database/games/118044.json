@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118044,
+  "name": "Tohu",
+  "source_url": "https://www.igdb.com/games/tohu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ozi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tohu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1075200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1075200",
+        "Linux": "setsid steam steam://rungameid/1075200",
+        "macOS": "open steam://rungameid/1075200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tohu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118044"
+}
