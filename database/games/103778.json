@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103778,
+  "name": "Big Pogo Man",
+  "source_url": "https://www.igdb.com/games/big-pogo-man",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Big Pogo Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "876310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/876310",
+        "Linux": "setsid steam steam://rungameid/876310",
+        "macOS": "open steam://rungameid/876310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "big-pogo-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103778"
+}
