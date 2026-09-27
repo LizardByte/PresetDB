@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111380,
+  "name": "It's a Trap",
+  "source_url": "https://www.igdb.com/games/its-a-trap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobifk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It's a Trap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "912420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/912420",
+        "Linux": "setsid steam steam://rungameid/912420",
+        "macOS": "open steam://rungameid/912420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-a-trap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111380"
+}
