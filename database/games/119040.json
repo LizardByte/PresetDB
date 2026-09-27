@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119040,
+  "name": "Sack of Bots",
+  "source_url": "https://www.igdb.com/games/sack-of-bots",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe42.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sack of Bots",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1084930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1084930",
+        "Linux": "setsid steam steam://rungameid/1084930",
+        "macOS": "open steam://rungameid/1084930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sack-of-bots",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119040"
+}
