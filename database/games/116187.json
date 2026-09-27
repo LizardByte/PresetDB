@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116187,
+  "name": "Lofi Ping Pong",
+  "source_url": "https://www.igdb.com/games/lofi-ping-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45dr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lofi Ping Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1028570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1028570",
+        "Linux": "setsid steam steam://rungameid/1028570",
+        "macOS": "open steam://rungameid/1028570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lofi-ping-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116187"
+}
