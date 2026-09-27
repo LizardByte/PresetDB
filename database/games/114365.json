@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114365,
+  "name": "The Yellow Quiz",
+  "source_url": "https://www.igdb.com/games/the-yellow-quiz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6sw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Yellow Quiz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "966760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/966760",
+        "Linux": "setsid steam steam://rungameid/966760",
+        "macOS": "open steam://rungameid/966760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-yellow-quiz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114365"
+}
