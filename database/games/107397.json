@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107397,
+  "name": "Funky Karts",
+  "source_url": "https://www.igdb.com/games/funky-karts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co400i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Funky Karts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "872690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/872690",
+        "Linux": "setsid steam steam://rungameid/872690",
+        "macOS": "open steam://rungameid/872690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "funky-karts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107397"
+}
