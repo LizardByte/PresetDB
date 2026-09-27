@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117700,
+  "name": "Omega: The Beginning",
+  "source_url": "https://www.igdb.com/games/omega-the-beginning",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m9p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Omega: The Beginning",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1042010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1042010",
+        "Linux": "setsid steam steam://rungameid/1042010",
+        "macOS": "open steam://rungameid/1042010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "omega-the-beginning",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117700"
+}
