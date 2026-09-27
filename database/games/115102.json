@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115102,
+  "name": "Deadly Kingdom",
+  "source_url": "https://www.igdb.com/games/deadly-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgjn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadly Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1015820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1015820",
+        "Linux": "setsid steam steam://rungameid/1015820",
+        "macOS": "open steam://rungameid/1015820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadly-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115102"
+}
