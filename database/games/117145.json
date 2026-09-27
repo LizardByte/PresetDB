@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117145,
+  "name": "Cyber Hunter",
+  "source_url": "https://www.igdb.com/games/cyber-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25l9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cyber Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1209040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1209040",
+        "Linux": "setsid steam steam://rungameid/1209040",
+        "macOS": "open steam://rungameid/1209040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cyber-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117145"
+}
