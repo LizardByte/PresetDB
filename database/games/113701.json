@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113701,
+  "name": "Bitworm",
+  "source_url": "https://www.igdb.com/games/bitworm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co562k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bitworm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950570",
+        "Linux": "setsid steam steam://rungameid/950570",
+        "macOS": "open steam://rungameid/950570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bitworm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113701"
+}
