@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106436,
+  "name": "W. T. B.",
+  "source_url": "https://www.igdb.com/games/w-t-b",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob63y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "W. T. B.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "908120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/908120",
+        "Linux": "setsid steam steam://rungameid/908120",
+        "macOS": "open steam://rungameid/908120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "w-t-b",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106436"
+}
