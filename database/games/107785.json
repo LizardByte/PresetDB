@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107785,
+  "name": "Dissolution",
+  "source_url": "https://www.igdb.com/games/dissolution",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3op5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dissolution",
+      "os": null,
+      "method": "steam",
+      "launch_id": "920470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/920470",
+        "Linux": "setsid steam steam://rungameid/920470",
+        "macOS": "open steam://rungameid/920470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dissolution",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107785"
+}
