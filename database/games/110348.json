@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110348,
+  "name": "Zombie School",
+  "source_url": "https://www.igdb.com/games/zombie-school",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob556.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie School",
+      "os": null,
+      "method": "steam",
+      "launch_id": "943290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/943290",
+        "Linux": "setsid steam steam://rungameid/943290",
+        "macOS": "open steam://rungameid/943290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-school",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110348"
+}
