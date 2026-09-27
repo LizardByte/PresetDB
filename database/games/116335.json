@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116335,
+  "name": "TheMist",
+  "source_url": "https://www.igdb.com/games/themist",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TheMist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1048470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1048470",
+        "Linux": "setsid steam steam://rungameid/1048470",
+        "macOS": "open steam://rungameid/1048470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "themist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116335"
+}
