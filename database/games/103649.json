@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103649,
+  "name": "Frozen Soul",
+  "source_url": "https://www.igdb.com/games/frozen-soul",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgi4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frozen Soul",
+      "os": null,
+      "method": "steam",
+      "launch_id": "875260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/875260",
+        "Linux": "setsid steam steam://rungameid/875260",
+        "macOS": "open steam://rungameid/875260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frozen-soul",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103649"
+}
