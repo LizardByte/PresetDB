@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111153,
+  "name": "Snooker 19",
+  "source_url": "https://www.igdb.com/games/snooker-19",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snooker 19",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887800",
+        "Linux": "setsid steam steam://rungameid/887800",
+        "macOS": "open steam://rungameid/887800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snooker-19",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111153"
+}
