@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113811,
+  "name": "Cube Defender",
+  "source_url": "https://www.igdb.com/games/cube-defender",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45kz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube Defender",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1000130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1000130",
+        "Linux": "setsid steam steam://rungameid/1000130",
+        "macOS": "open steam://rungameid/1000130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube-defender",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113811"
+}
