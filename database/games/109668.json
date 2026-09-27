@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109668,
+  "name": "Stay Out of the House",
+  "source_url": "https://www.igdb.com/games/stay-out-of-the-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jad.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stay Out of the House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "896520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/896520",
+        "Linux": "setsid steam steam://rungameid/896520",
+        "macOS": "open steam://rungameid/896520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stay-out-of-the-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109668"
+}
