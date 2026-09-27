@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103804,
+  "name": "Thunderbowl",
+  "source_url": "https://www.igdb.com/games/thunderbowl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44mw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thunderbowl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "879530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/879530",
+        "Linux": "setsid steam steam://rungameid/879530",
+        "macOS": "open steam://rungameid/879530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thunderbowl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103804"
+}
