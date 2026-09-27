@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111010,
+  "name": "War in Space",
+  "source_url": "https://www.igdb.com/games/war-in-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiem.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War in Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959380",
+        "Linux": "setsid steam steam://rungameid/959380",
+        "macOS": "open steam://rungameid/959380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-in-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111010"
+}
