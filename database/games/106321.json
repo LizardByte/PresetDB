@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106321,
+  "name": "PSI Magic",
+  "source_url": "https://www.igdb.com/games/psi-magic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3b7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PSI Magic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888200",
+        "Linux": "setsid steam steam://rungameid/888200",
+        "macOS": "open steam://rungameid/888200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psi-magic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106321"
+}
