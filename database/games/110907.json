@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110907,
+  "name": "CaveDare",
+  "source_url": "https://www.igdb.com/games/cavedare",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CaveDare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913350",
+        "Linux": "setsid steam steam://rungameid/913350",
+        "macOS": "open steam://rungameid/913350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cavedare",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110907"
+}
