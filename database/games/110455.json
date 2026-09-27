@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110455,
+  "name": "Shadow Unit",
+  "source_url": "https://www.igdb.com/games/shadow-unit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow Unit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "908600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/908600",
+        "Linux": "setsid steam steam://rungameid/908600",
+        "macOS": "open steam://rungameid/908600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-unit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110455"
+}
