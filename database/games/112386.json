@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112386,
+  "name": "My Cabin and I",
+  "source_url": "https://www.igdb.com/games/my-cabin-and-i",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgur.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Cabin and I",
+      "os": null,
+      "method": "steam",
+      "launch_id": "957490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/957490",
+        "Linux": "setsid steam steam://rungameid/957490",
+        "macOS": "open steam://rungameid/957490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-cabin-and-i",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112386"
+}
