@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107247,
+  "name": "Drawkanoid",
+  "source_url": "https://www.igdb.com/games/drawkanoid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v2u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drawkanoid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951370",
+        "Linux": "setsid steam steam://rungameid/951370",
+        "macOS": "open steam://rungameid/951370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drawkanoid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107247"
+}
