@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112384,
+  "name": "Proditur",
+  "source_url": "https://www.igdb.com/games/proditur",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Proditur",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976290",
+        "Linux": "setsid steam steam://rungameid/976290",
+        "macOS": "open steam://rungameid/976290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "proditur",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112384"
+}
