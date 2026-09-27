@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105740,
+  "name": "LVN Fake News",
+  "source_url": "https://www.igdb.com/games/lvn-fake-news",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46of.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LVN Fake News",
+      "os": null,
+      "method": "steam",
+      "launch_id": "899990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/899990",
+        "Linux": "setsid steam steam://rungameid/899990",
+        "macOS": "open steam://rungameid/899990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lvn-fake-news",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105740"
+}
