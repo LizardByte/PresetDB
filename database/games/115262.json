@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115262,
+  "name": "Virtual Wave",
+  "source_url": "https://www.igdb.com/games/virtual-wave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblus.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Wave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "670120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/670120",
+        "Linux": "setsid steam steam://rungameid/670120",
+        "macOS": "open steam://rungameid/670120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-wave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115262"
+}
