@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112004,
+  "name": "TV189",
+  "source_url": "https://www.igdb.com/games/tv189",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4510.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TV189",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976230",
+        "Linux": "setsid steam steam://rungameid/976230",
+        "macOS": "open steam://rungameid/976230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tv189",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112004"
+}
