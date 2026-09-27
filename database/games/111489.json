@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111489,
+  "name": "Blind Girl",
+  "source_url": "https://www.igdb.com/games/blind-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3md7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blind Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952680",
+        "Linux": "setsid steam steam://rungameid/952680",
+        "macOS": "open steam://rungameid/952680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blind-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111489"
+}
