@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107614,
+  "name": "Hello Neighbor: Hide and Seek",
+  "source_url": "https://www.igdb.com/games/hello-neighbor-hide-and-seek",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62em.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hello Neighbor: Hide and Seek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "960420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/960420",
+        "Linux": "setsid steam steam://rungameid/960420",
+        "macOS": "open steam://rungameid/960420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hello-neighbor-hide-and-seek",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107614"
+}
