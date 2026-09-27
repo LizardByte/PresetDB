@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116232,
+  "name": "Lord of the Click",
+  "source_url": "https://www.igdb.com/games/lord-of-the-click",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kfj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lord of the Click",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1044170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1044170",
+        "Linux": "setsid steam steam://rungameid/1044170",
+        "macOS": "open steam://rungameid/1044170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lord-of-the-click",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116232"
+}
