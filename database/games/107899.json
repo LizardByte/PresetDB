@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107899,
+  "name": "Tree",
+  "source_url": "https://www.igdb.com/games/tree",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co54i7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tree",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888090",
+        "Linux": "setsid steam steam://rungameid/888090",
+        "macOS": "open steam://rungameid/888090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tree",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107899"
+}
