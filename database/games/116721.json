@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116721,
+  "name": "Biorhythm",
+  "source_url": "https://www.igdb.com/games/biorhythm--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2shh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Biorhythm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1033340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1033340",
+        "Linux": "setsid steam steam://rungameid/1033340",
+        "macOS": "open steam://rungameid/1033340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "biorhythm--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116721"
+}
