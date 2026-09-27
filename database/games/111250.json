@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111250,
+  "name": "Wildest of the Wild",
+  "source_url": "https://www.igdb.com/games/wildest-of-the-wild",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wildest of the Wild",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955530",
+        "Linux": "setsid steam steam://rungameid/955530",
+        "macOS": "open steam://rungameid/955530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wildest-of-the-wild",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111250"
+}
