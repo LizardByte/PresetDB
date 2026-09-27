@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105308,
+  "name": "1000 Stages",
+  "source_url": "https://www.igdb.com/games/1000-stages",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co297a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1000 Stages",
+      "os": null,
+      "method": "steam",
+      "launch_id": "873180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/873180",
+        "Linux": "setsid steam steam://rungameid/873180",
+        "macOS": "open steam://rungameid/873180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "1000-stages",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105308"
+}
