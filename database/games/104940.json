@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104940,
+  "name": "Hamster Daily",
+  "source_url": "https://www.igdb.com/games/hamster-daily",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgdo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hamster Daily",
+      "os": null,
+      "method": "steam",
+      "launch_id": "839590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/839590",
+        "Linux": "setsid steam steam://rungameid/839590",
+        "macOS": "open steam://rungameid/839590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hamster-daily",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104940"
+}
