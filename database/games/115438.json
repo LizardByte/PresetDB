@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115438,
+  "name": "Bashed.os",
+  "source_url": "https://www.igdb.com/games/bashed-dot-os",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bashed.os",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1034030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1034030",
+        "Linux": "setsid steam steam://rungameid/1034030",
+        "macOS": "open steam://rungameid/1034030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bashed-dot-os",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115438"
+}
