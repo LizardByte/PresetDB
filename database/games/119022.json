@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119022,
+  "name": "Galaxicus",
+  "source_url": "https://www.igdb.com/games/galaxicus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galaxicus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1019820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1019820",
+        "Linux": "setsid steam steam://rungameid/1019820",
+        "macOS": "open steam://rungameid/1019820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galaxicus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119022"
+}
