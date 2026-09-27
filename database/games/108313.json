@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108313,
+  "name": "Donut Shop",
+  "source_url": "https://www.igdb.com/games/donut-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobja4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Donut Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "825210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/825210",
+        "Linux": "setsid steam steam://rungameid/825210",
+        "macOS": "open steam://rungameid/825210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "donut-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108313"
+}
