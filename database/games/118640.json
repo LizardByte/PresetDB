@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118640,
+  "name": "reYal",
+  "source_url": "https://www.igdb.com/games/reyal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yii.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "reYal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1080780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1080780",
+        "Linux": "setsid steam steam://rungameid/1080780",
+        "macOS": "open steam://rungameid/1080780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reyal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118640"
+}
