@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120038,
+  "name": "Noyo-!",
+  "source_url": "https://www.igdb.com/games/noyo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q8u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Noyo-!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1093300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1093300",
+        "Linux": "setsid steam steam://rungameid/1093300",
+        "macOS": "open steam://rungameid/1093300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "noyo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120038"
+}
