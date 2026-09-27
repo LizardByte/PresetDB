@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114492,
+  "name": "Blinding Blade",
+  "source_url": "https://www.igdb.com/games/blinding-blade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blinding Blade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895520",
+        "Linux": "setsid steam steam://rungameid/895520",
+        "macOS": "open steam://rungameid/895520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blinding-blade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114492"
+}
