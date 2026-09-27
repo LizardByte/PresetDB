@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103025,
+  "name": "The Sibling Experiment",
+  "source_url": "https://www.igdb.com/games/the-sibling-experiment",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7jj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Sibling Experiment",
+      "os": null,
+      "method": "steam",
+      "launch_id": "568300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/568300",
+        "Linux": "setsid steam steam://rungameid/568300",
+        "macOS": "open steam://rungameid/568300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-sibling-experiment",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103025"
+}
