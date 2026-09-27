@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107834,
+  "name": "Operation Lone Wolf",
+  "source_url": "https://www.igdb.com/games/operation-lone-wolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27nk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Operation Lone Wolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "926010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/926010",
+        "Linux": "setsid steam steam://rungameid/926010",
+        "macOS": "open steam://rungameid/926010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "operation-lone-wolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107834"
+}
