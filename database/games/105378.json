@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105378,
+  "name": "WAyE",
+  "source_url": "https://www.igdb.com/games/waye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h8w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WAyE",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893060",
+        "Linux": "setsid steam steam://rungameid/893060",
+        "macOS": "open steam://rungameid/893060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105378"
+}
