@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120917,
+  "name": "Knights & Outlaws",
+  "source_url": "https://www.igdb.com/games/knights-and-outlaws",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44jx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knights & Outlaws",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1122230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1122230",
+        "Linux": "setsid steam steam://rungameid/1122230",
+        "macOS": "open steam://rungameid/1122230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knights-and-outlaws",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120917"
+}
