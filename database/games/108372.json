@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108372,
+  "name": "Lab.Gen.",
+  "source_url": "https://www.igdb.com/games/lab-dot-gen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbx8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lab.Gen.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "920800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/920800",
+        "Linux": "setsid steam steam://rungameid/920800",
+        "macOS": "open steam://rungameid/920800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lab-dot-gen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108372"
+}
