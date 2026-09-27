@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107679,
+  "name": "Esports Legend",
+  "source_url": "https://www.igdb.com/games/esports-legend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21r8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Esports Legend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "907270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/907270",
+        "Linux": "setsid steam steam://rungameid/907270",
+        "macOS": "open steam://rungameid/907270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "esports-legend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107679"
+}
