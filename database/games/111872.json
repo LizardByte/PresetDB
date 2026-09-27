@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111872,
+  "name": "Money Maker",
+  "source_url": "https://www.igdb.com/games/money-maker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6aam.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Money Maker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "977430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/977430",
+        "Linux": "setsid steam steam://rungameid/977430",
+        "macOS": "open steam://rungameid/977430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "money-maker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111872"
+}
