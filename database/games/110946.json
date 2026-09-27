@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110946,
+  "name": "I'm an adventurer",
+  "source_url": "https://www.igdb.com/games/im-an-adventurer",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm an adventurer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "953700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/953700",
+        "Linux": "setsid steam steam://rungameid/953700",
+        "macOS": "open steam://rungameid/953700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-an-adventurer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110946"
+}
