@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104840,
+  "name": "MiniCar Race",
+  "source_url": "https://www.igdb.com/games/minicar-race",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf6g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MiniCar Race",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888970",
+        "Linux": "setsid steam steam://rungameid/888970",
+        "macOS": "open steam://rungameid/888970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minicar-race",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104840"
+}
