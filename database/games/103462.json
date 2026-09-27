@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103462,
+  "name": "Immortals",
+  "source_url": "https://www.igdb.com/games/immortals",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Immortals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "883270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/883270",
+        "Linux": "setsid steam steam://rungameid/883270",
+        "macOS": "open steam://rungameid/883270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "immortals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103462"
+}
