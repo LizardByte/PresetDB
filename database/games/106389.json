@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106389,
+  "name": "SlimeGear",
+  "source_url": "https://www.igdb.com/games/slimegear",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SlimeGear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851320",
+        "Linux": "setsid steam steam://rungameid/851320",
+        "macOS": "open steam://rungameid/851320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slimegear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106389"
+}
