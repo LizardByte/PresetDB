@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113873,
+  "name": "Plague Squad",
+  "source_url": "https://www.igdb.com/games/plague-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coce01.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plague Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "997650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/997650",
+        "Linux": "setsid steam steam://rungameid/997650",
+        "macOS": "open steam://rungameid/997650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plague-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113873"
+}
