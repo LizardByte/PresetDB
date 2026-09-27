@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113293,
+  "name": "Elash",
+  "source_url": "https://www.igdb.com/games/elash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg81.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "975690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/975690",
+        "Linux": "setsid steam steam://rungameid/975690",
+        "macOS": "open steam://rungameid/975690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113293"
+}
