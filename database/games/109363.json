@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109363,
+  "name": "The Great Voyage",
+  "source_url": "https://www.igdb.com/games/the-great-voyage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43tv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Great Voyage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "932820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/932820",
+        "Linux": "setsid steam steam://rungameid/932820",
+        "macOS": "open steam://rungameid/932820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-great-voyage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109363"
+}
