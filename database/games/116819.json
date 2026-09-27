@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116819,
+  "name": "Wild Superman",
+  "source_url": "https://www.igdb.com/games/wild-superman",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Superman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "998150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/998150",
+        "Linux": "setsid steam steam://rungameid/998150",
+        "macOS": "open steam://rungameid/998150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-superman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116819"
+}
