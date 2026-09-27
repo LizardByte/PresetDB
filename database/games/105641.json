@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105641,
+  "name": "RGBCells",
+  "source_url": "https://www.igdb.com/games/rgbcells",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfi4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RGBCells",
+      "os": null,
+      "method": "steam",
+      "launch_id": "889990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/889990",
+        "Linux": "setsid steam steam://rungameid/889990",
+        "macOS": "open steam://rungameid/889990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rgbcells",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105641"
+}
