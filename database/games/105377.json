@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105377,
+  "name": "Jelly Wants More",
+  "source_url": "https://www.igdb.com/games/jelly-wants-more",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wpz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jelly Wants More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893040",
+        "Linux": "setsid steam steam://rungameid/893040",
+        "macOS": "open steam://rungameid/893040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jelly-wants-more",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105377"
+}
