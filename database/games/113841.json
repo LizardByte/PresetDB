@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113841,
+  "name": "Sonar Beat",
+  "source_url": "https://www.igdb.com/games/sonar-beat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rcj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sonar Beat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892930",
+        "Linux": "setsid steam steam://rungameid/892930",
+        "macOS": "open steam://rungameid/892930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sonar-beat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113841"
+}
