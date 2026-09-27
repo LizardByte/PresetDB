@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120142,
+  "name": "Fort",
+  "source_url": "https://www.igdb.com/games/fort--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coas7l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fort",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1103250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1103250",
+        "Linux": "setsid steam steam://rungameid/1103250",
+        "macOS": "open steam://rungameid/1103250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fort--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120142"
+}
