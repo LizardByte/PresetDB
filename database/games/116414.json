@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116414,
+  "name": "Rad",
+  "source_url": "https://www.igdb.com/games/rad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26d9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "722560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/722560",
+        "Linux": "setsid steam steam://rungameid/722560",
+        "macOS": "open steam://rungameid/722560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116414"
+}
