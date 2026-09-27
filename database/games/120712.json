@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120712,
+  "name": "Dement",
+  "source_url": "https://www.igdb.com/games/dement",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1t5c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dement",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1022990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1022990",
+        "Linux": "setsid steam steam://rungameid/1022990",
+        "macOS": "open steam://rungameid/1022990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dement",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120712"
+}
