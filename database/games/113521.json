@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113521,
+  "name": "RelayCars",
+  "source_url": "https://www.igdb.com/games/relaycars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5xcj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RelayCars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "994610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/994610",
+        "Linux": "setsid steam steam://rungameid/994610",
+        "macOS": "open steam://rungameid/994610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "relaycars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113521"
+}
