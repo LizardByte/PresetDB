@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119530,
+  "name": "7 Lives",
+  "source_url": "https://www.igdb.com/games/7-lives",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3kt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "7 Lives",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1096240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1096240",
+        "Linux": "setsid steam steam://rungameid/1096240",
+        "macOS": "open steam://rungameid/1096240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "7-lives",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119530"
+}
