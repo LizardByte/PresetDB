@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103620,
+  "name": "Meteor Shower",
+  "source_url": "https://www.igdb.com/games/meteor-shower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgkq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meteor Shower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "845650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/845650",
+        "Linux": "setsid steam steam://rungameid/845650",
+        "macOS": "open steam://rungameid/845650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meteor-shower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103620"
+}
