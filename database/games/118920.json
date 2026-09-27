@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118920,
+  "name": "Knighty Night",
+  "source_url": "https://www.igdb.com/games/knighty-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1mev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knighty Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1087480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1087480",
+        "Linux": "setsid steam steam://rungameid/1087480",
+        "macOS": "open steam://rungameid/1087480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knighty-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118920"
+}
