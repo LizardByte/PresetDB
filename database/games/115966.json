@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115966,
+  "name": "Dis: The Game",
+  "source_url": "https://www.igdb.com/games/dis-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dis: The Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1028470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1028470",
+        "Linux": "setsid steam steam://rungameid/1028470",
+        "macOS": "open steam://rungameid/1028470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dis-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115966"
+}
