@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104941,
+  "name": "Quiet as a Stone",
+  "source_url": "https://www.igdb.com/games/quiet-as-a-stone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co242z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quiet as a Stone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "872060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/872060",
+        "Linux": "setsid steam steam://rungameid/872060",
+        "macOS": "open steam://rungameid/872060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quiet-as-a-stone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104941"
+}
