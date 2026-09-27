@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111095,
+  "name": "Paroniria",
+  "source_url": "https://www.igdb.com/games/paroniria",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paroniria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "962650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/962650",
+        "Linux": "setsid steam steam://rungameid/962650",
+        "macOS": "open steam://rungameid/962650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paroniria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111095"
+}
