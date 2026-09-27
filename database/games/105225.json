@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105225,
+  "name": "Seed of Amaranth",
+  "source_url": "https://www.igdb.com/games/seed-of-amaranth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40xf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seed of Amaranth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888750",
+        "Linux": "setsid steam steam://rungameid/888750",
+        "macOS": "open steam://rungameid/888750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seed-of-amaranth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105225"
+}
