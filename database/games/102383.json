@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102383,
+  "name": "Krim: The Music Bot",
+  "source_url": "https://www.igdb.com/games/krim-the-music-bot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobq7g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Krim: The Music Bot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "863750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/863750",
+        "Linux": "setsid steam steam://rungameid/863750",
+        "macOS": "open steam://rungameid/863750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "krim-the-music-bot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102383"
+}
