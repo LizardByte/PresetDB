@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116481,
+  "name": "Die Already",
+  "source_url": "https://www.igdb.com/games/die-already",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe18.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Die Already",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1047780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1047780",
+        "Linux": "setsid steam steam://rungameid/1047780",
+        "macOS": "open steam://rungameid/1047780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "die-already",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116481"
+}
