@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114499,
+  "name": "Juice Girl",
+  "source_url": "https://www.igdb.com/games/juice-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44cc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Juice Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "775760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/775760",
+        "Linux": "setsid steam steam://rungameid/775760",
+        "macOS": "open steam://rungameid/775760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "juice-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114499"
+}
