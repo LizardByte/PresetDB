@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113325,
+  "name": "Super Grower",
+  "source_url": "https://www.igdb.com/games/super-grower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42nh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Grower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "991750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/991750",
+        "Linux": "setsid steam steam://rungameid/991750",
+        "macOS": "open steam://rungameid/991750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-grower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113325"
+}
