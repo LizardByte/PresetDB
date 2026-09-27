@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116316,
+  "name": "Maze Wars",
+  "source_url": "https://www.igdb.com/games/maze-wars",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maze Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1037950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1037950",
+        "Linux": "setsid steam steam://rungameid/1037950",
+        "macOS": "open steam://rungameid/1037950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maze-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116316"
+}
