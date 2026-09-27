@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104922,
+  "name": "Opus Mortem",
+  "source_url": "https://www.igdb.com/games/opus-mortem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8o4t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Opus Mortem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887750",
+        "Linux": "setsid steam steam://rungameid/887750",
+        "macOS": "open steam://rungameid/887750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "opus-mortem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104922"
+}
