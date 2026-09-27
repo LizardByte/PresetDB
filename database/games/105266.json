@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105266,
+  "name": "Koikoi",
+  "source_url": "https://www.igdb.com/games/koikoi",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Koikoi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "763380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/763380",
+        "Linux": "setsid steam steam://rungameid/763380",
+        "macOS": "open steam://rungameid/763380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "koikoi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105266"
+}
