@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102962,
+  "name": "Lands of the Lost",
+  "source_url": "https://www.igdb.com/games/lands-of-the-lost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4555.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lands of the Lost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868600",
+        "Linux": "setsid steam steam://rungameid/868600",
+        "macOS": "open steam://rungameid/868600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lands-of-the-lost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102962"
+}
