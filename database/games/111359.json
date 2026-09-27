@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111359,
+  "name": "BlueFear",
+  "source_url": "https://www.igdb.com/games/bluefear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlueFear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862590",
+        "Linux": "setsid steam steam://rungameid/862590",
+        "macOS": "open steam://rungameid/862590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bluefear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111359"
+}
