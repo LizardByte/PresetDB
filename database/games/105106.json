@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105106,
+  "name": "Liminal",
+  "source_url": "https://www.igdb.com/games/liminal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2otk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liminal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "885690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/885690",
+        "Linux": "setsid steam steam://rungameid/885690",
+        "macOS": "open steam://rungameid/885690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liminal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105106"
+}
