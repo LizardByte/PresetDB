@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104328,
+  "name": "Nova-Life",
+  "source_url": "https://www.igdb.com/games/nova-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bqi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nova-Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "885570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/885570",
+        "Linux": "setsid steam steam://rungameid/885570",
+        "macOS": "open steam://rungameid/885570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nova-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104328"
+}
