@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105150,
+  "name": "L-Way",
+  "source_url": "https://www.igdb.com/games/l-way",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhw6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "L-Way",
+      "os": null,
+      "method": "steam",
+      "launch_id": "894750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/894750",
+        "Linux": "setsid steam steam://rungameid/894750",
+        "macOS": "open steam://rungameid/894750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "l-way",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105150"
+}
