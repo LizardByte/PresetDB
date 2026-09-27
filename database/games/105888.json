@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105888,
+  "name": "Arch Virtual HQ",
+  "source_url": "https://www.igdb.com/games/arch-virtual-hq",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb4r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arch Virtual HQ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "608980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/608980",
+        "Linux": "setsid steam steam://rungameid/608980",
+        "macOS": "open steam://rungameid/608980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arch-virtual-hq",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105888"
+}
