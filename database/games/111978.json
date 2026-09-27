@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111978,
+  "name": "Stepbystep",
+  "source_url": "https://www.igdb.com/games/stepbystep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co423r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stepbystep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "972940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/972940",
+        "Linux": "setsid steam steam://rungameid/972940",
+        "macOS": "open steam://rungameid/972940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stepbystep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111978"
+}
