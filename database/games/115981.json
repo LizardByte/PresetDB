@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115981,
+  "name": "Vaporspace",
+  "source_url": "https://www.igdb.com/games/vaporspace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobinv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vaporspace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1031630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1031630",
+        "Linux": "setsid steam steam://rungameid/1031630",
+        "macOS": "open steam://rungameid/1031630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vaporspace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115981"
+}
