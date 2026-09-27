@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109816,
+  "name": "Sentinel Zero",
+  "source_url": "https://www.igdb.com/games/sentinel-zero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40ym.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sentinel Zero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "748780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/748780",
+        "Linux": "setsid steam steam://rungameid/748780",
+        "macOS": "open steam://rungameid/748780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sentinel-zero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109816"
+}
