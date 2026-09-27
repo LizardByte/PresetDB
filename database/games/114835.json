@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114835,
+  "name": "Fighters Legacy",
+  "source_url": "https://www.igdb.com/games/fighters-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobds7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fighters Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1024630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1024630",
+        "Linux": "setsid steam steam://rungameid/1024630",
+        "macOS": "open steam://rungameid/1024630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fighters-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114835"
+}
