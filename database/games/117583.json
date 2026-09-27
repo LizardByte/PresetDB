@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117583,
+  "name": "Mars Wars",
+  "source_url": "https://www.igdb.com/games/mars-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblum.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mars Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "981180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/981180",
+        "Linux": "setsid steam steam://rungameid/981180",
+        "macOS": "open steam://rungameid/981180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mars-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117583"
+}
