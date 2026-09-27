@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111241,
+  "name": "The Gameshow",
+  "source_url": "https://www.igdb.com/games/the-gameshow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1kl8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Gameshow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "960610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/960610",
+        "Linux": "setsid steam steam://rungameid/960610",
+        "macOS": "open steam://rungameid/960610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-gameshow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111241"
+}
