@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113541,
+  "name": "SteelLife",
+  "source_url": "https://www.igdb.com/games/steellife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46tj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SteelLife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "439420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/439420",
+        "Linux": "setsid steam steam://rungameid/439420",
+        "macOS": "open steam://rungameid/439420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "steellife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113541"
+}
