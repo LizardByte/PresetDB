@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111237,
+  "name": "At Home Alone",
+  "source_url": "https://www.igdb.com/games/at-home-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7rrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "At Home Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964350",
+        "Linux": "setsid steam steam://rungameid/964350",
+        "macOS": "open steam://rungameid/964350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "at-home-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111237"
+}
