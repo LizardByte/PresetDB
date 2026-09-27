@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104031,
+  "name": "Data Ball",
+  "source_url": "https://www.igdb.com/games/data-ball",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Data Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840810",
+        "Linux": "setsid steam steam://rungameid/840810",
+        "macOS": "open steam://rungameid/840810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "data-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104031"
+}
