@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115535,
+  "name": "Shawy Adventures",
+  "source_url": "https://www.igdb.com/games/shawy-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnj6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shawy Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "755340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/755340",
+        "Linux": "setsid steam steam://rungameid/755340",
+        "macOS": "open steam://rungameid/755340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shawy-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115535"
+}
