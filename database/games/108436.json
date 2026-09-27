@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108436,
+  "name": "Jimmy Kamikaze",
+  "source_url": "https://www.igdb.com/games/jimmy-kamikaze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jimmy Kamikaze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918370",
+        "Linux": "setsid steam steam://rungameid/918370",
+        "macOS": "open steam://rungameid/918370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jimmy-kamikaze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108436"
+}
