@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104449,
+  "name": "Camp Grizzly",
+  "source_url": "https://www.igdb.com/games/camp-grizzly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobid2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Camp Grizzly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "850840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/850840",
+        "Linux": "setsid steam steam://rungameid/850840",
+        "macOS": "open steam://rungameid/850840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "camp-grizzly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104449"
+}
