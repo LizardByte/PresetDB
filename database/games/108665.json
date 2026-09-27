@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108665,
+  "name": "Goto",
+  "source_url": "https://www.igdb.com/games/goto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41em.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906880",
+        "Linux": "setsid steam steam://rungameid/906880",
+        "macOS": "open steam://rungameid/906880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108665"
+}
