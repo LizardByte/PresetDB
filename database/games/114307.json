@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114307,
+  "name": "Beekyr",
+  "source_url": "https://www.igdb.com/games/beekyr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5xt2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beekyr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1012280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1012280",
+        "Linux": "setsid steam steam://rungameid/1012280",
+        "macOS": "open steam://rungameid/1012280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beekyr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114307"
+}
