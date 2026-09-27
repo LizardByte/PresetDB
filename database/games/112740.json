@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112740,
+  "name": "Citywars Savage",
+  "source_url": "https://www.igdb.com/games/citywars-savage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Citywars Savage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910800",
+        "Linux": "setsid steam steam://rungameid/910800",
+        "macOS": "open steam://rungameid/910800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "citywars-savage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112740"
+}
