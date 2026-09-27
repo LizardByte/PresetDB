@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105383,
+  "name": "Beauty and the Beast",
+  "source_url": "https://www.igdb.com/games/beauty-and-the-beast--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48rp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beauty and the Beast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892550",
+        "Linux": "setsid steam steam://rungameid/892550",
+        "macOS": "open steam://rungameid/892550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beauty-and-the-beast--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105383"
+}
