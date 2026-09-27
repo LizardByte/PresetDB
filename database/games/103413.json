@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103413,
+  "name": "Roguebreaker",
+  "source_url": "https://www.igdb.com/games/roguebreaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jqi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roguebreaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "731420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/731420",
+        "Linux": "setsid steam steam://rungameid/731420",
+        "macOS": "open steam://rungameid/731420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roguebreaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103413"
+}
