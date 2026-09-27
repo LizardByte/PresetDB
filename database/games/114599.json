@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114599,
+  "name": "One Million Worlds",
+  "source_url": "https://www.igdb.com/games/one-million-worlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jym.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Million Worlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1009770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1009770",
+        "Linux": "setsid steam steam://rungameid/1009770",
+        "macOS": "open steam://rungameid/1009770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-million-worlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114599"
+}
