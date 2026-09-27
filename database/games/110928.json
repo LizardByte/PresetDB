@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110928,
+  "name": "Star Thief",
+  "source_url": "https://www.igdb.com/games/star-thief",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpqg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Thief",
+      "os": null,
+      "method": "steam",
+      "launch_id": "937230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/937230",
+        "Linux": "setsid steam steam://rungameid/937230",
+        "macOS": "open steam://rungameid/937230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-thief",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110928"
+}
