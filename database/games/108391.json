@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108391,
+  "name": "Momo.exe",
+  "source_url": "https://www.igdb.com/games/momo-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27mf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Momo.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923470",
+        "Linux": "setsid steam steam://rungameid/923470",
+        "macOS": "open steam://rungameid/923470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "momo-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108391"
+}
