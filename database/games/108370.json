@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108370,
+  "name": "What would Google say?",
+  "source_url": "https://www.igdb.com/games/what-would-google-say",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnl3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What would Google say?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "920670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/920670",
+        "Linux": "setsid steam steam://rungameid/920670",
+        "macOS": "open steam://rungameid/920670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "what-would-google-say",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108370"
+}
