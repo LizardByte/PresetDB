@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109670,
+  "name": "BlamBox",
+  "source_url": "https://www.igdb.com/games/blambox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlamBox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "899270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/899270",
+        "Linux": "setsid steam steam://rungameid/899270",
+        "macOS": "open steam://rungameid/899270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blambox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109670"
+}
