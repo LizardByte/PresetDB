@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105208,
+  "name": "Switch - Black & White",
+  "source_url": "https://www.igdb.com/games/switch-black-and-white",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53oh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Switch - Black & White",
+      "os": null,
+      "method": "steam",
+      "launch_id": "879430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/879430",
+        "Linux": "setsid steam steam://rungameid/879430",
+        "macOS": "open steam://rungameid/879430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "switch-black-and-white",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105208"
+}
