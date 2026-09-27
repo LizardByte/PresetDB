@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104907,
+  "name": "Cat's Yarn",
+  "source_url": "https://www.igdb.com/games/cats-yarn",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat's Yarn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884290",
+        "Linux": "setsid steam steam://rungameid/884290",
+        "macOS": "open steam://rungameid/884290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cats-yarn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104907"
+}
