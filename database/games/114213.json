@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114213,
+  "name": "Mythical",
+  "source_url": "https://www.igdb.com/games/mythical",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pz0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mythical",
+      "os": null,
+      "method": "steam",
+      "launch_id": "933390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/933390",
+        "Linux": "setsid steam steam://rungameid/933390",
+        "macOS": "open steam://rungameid/933390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mythical",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114213"
+}
