@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111919,
+  "name": "Moatboat",
+  "source_url": "https://www.igdb.com/games/moatboat",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moatboat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "480710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/480710",
+        "Linux": "setsid steam steam://rungameid/480710",
+        "macOS": "open steam://rungameid/480710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moatboat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111919"
+}
