@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114442,
+  "name": "Parse Ally",
+  "source_url": "https://www.igdb.com/games/parse-ally",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfvs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Parse Ally",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1011310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1011310",
+        "Linux": "setsid steam steam://rungameid/1011310",
+        "macOS": "open steam://rungameid/1011310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "parse-ally",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114442"
+}
