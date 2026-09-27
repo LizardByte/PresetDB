@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102400,
+  "name": "Zombie Rampage",
+  "source_url": "https://www.igdb.com/games/zombie-rampage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob558.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Rampage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "864590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/864590",
+        "Linux": "setsid steam steam://rungameid/864590",
+        "macOS": "open steam://rungameid/864590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-rampage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102400"
+}
