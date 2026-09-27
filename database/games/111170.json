@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111170,
+  "name": "Not my day",
+  "source_url": "https://www.igdb.com/games/not-my-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobglp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not my day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951320",
+        "Linux": "setsid steam steam://rungameid/951320",
+        "macOS": "open steam://rungameid/951320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "not-my-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111170"
+}
