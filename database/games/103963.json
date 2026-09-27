@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103963,
+  "name": "RapStar Tycoon",
+  "source_url": "https://www.igdb.com/games/rapstar-tycoon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfio.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RapStar Tycoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869280",
+        "Linux": "setsid steam steam://rungameid/869280",
+        "macOS": "open steam://rungameid/869280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rapstar-tycoon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103963"
+}
