@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111695,
+  "name": "Equilinox",
+  "source_url": "https://www.igdb.com/games/equilinox--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2sij.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Equilinox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "853550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/853550",
+        "Linux": "setsid steam steam://rungameid/853550",
+        "macOS": "open steam://rungameid/853550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "equilinox--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111695"
+}
