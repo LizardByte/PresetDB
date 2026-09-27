@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120826,
+  "name": "Red Ruin",
+  "source_url": "https://www.igdb.com/games/red-ruin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ydl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Ruin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111730",
+        "Linux": "setsid steam steam://rungameid/1111730",
+        "macOS": "open steam://rungameid/1111730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-ruin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120826"
+}
