@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105215,
+  "name": "Legion's Crawl",
+  "source_url": "https://www.igdb.com/games/legions-crawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9m3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legion's Crawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "885780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/885780",
+        "Linux": "setsid steam steam://rungameid/885780",
+        "macOS": "open steam://rungameid/885780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legions-crawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105215"
+}
