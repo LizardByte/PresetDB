@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108405,
+  "name": "Deep Space",
+  "source_url": "https://www.igdb.com/games/deep-space--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co29a9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deep Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "907050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/907050",
+        "Linux": "setsid steam steam://rungameid/907050",
+        "macOS": "open steam://rungameid/907050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deep-space--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108405"
+}
