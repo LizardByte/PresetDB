@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105753,
+  "name": "Escape Game",
+  "source_url": "https://www.igdb.com/games/escape-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qcp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "898780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/898780",
+        "Linux": "setsid steam steam://rungameid/898780",
+        "macOS": "open steam://rungameid/898780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105753"
+}
