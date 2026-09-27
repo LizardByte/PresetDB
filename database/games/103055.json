@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103055,
+  "name": "World Soccer Pinball",
+  "source_url": "https://www.igdb.com/games/world-soccer-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6z1i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World Soccer Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2395840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2395840",
+        "Linux": "setsid steam steam://rungameid/2395840",
+        "macOS": "open steam://rungameid/2395840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-soccer-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103055"
+}
