@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103289,
+  "name": "Battletoads",
+  "source_url": "https://www.igdb.com/games/battletoads--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2eyl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battletoads",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1244950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1244950",
+        "Linux": "setsid steam steam://rungameid/1244950",
+        "macOS": "open steam://rungameid/1244950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battletoads--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103289"
+}
