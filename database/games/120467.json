@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120467,
+  "name": "Mage",
+  "source_url": "https://www.igdb.com/games/mage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1013100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1013100",
+        "Linux": "setsid steam steam://rungameid/1013100",
+        "macOS": "open steam://rungameid/1013100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120467"
+}
