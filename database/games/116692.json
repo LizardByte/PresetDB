@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116692,
+  "name": "Feral Frontier",
+  "source_url": "https://www.igdb.com/games/feral-frontier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9iiv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feral Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1058030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1058030",
+        "Linux": "setsid steam steam://rungameid/1058030",
+        "macOS": "open steam://rungameid/1058030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "feral-frontier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116692"
+}
