@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115955,
+  "name": "Soulrun",
+  "source_url": "https://www.igdb.com/games/soulrun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2005.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulrun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1041910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1041910",
+        "Linux": "setsid steam steam://rungameid/1041910",
+        "macOS": "open steam://rungameid/1041910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulrun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115955"
+}
