@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111495,
+  "name": "RoboBunnies In Space!",
+  "source_url": "https://www.igdb.com/games/robobunnies-in-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jbu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RoboBunnies In Space!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "941600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/941600",
+        "Linux": "setsid steam steam://rungameid/941600",
+        "macOS": "open steam://rungameid/941600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robobunnies-in-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111495"
+}
