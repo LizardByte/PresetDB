@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103785,
+  "name": "Devochka Quest",
+  "source_url": "https://www.igdb.com/games/devochka-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl2h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Devochka Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "877250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/877250",
+        "Linux": "setsid steam steam://rungameid/877250",
+        "macOS": "open steam://rungameid/877250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "devochka-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103785"
+}
