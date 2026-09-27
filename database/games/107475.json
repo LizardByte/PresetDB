@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107475,
+  "name": "Mard",
+  "source_url": "https://www.igdb.com/games/mard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgpf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "928070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/928070",
+        "Linux": "setsid steam steam://rungameid/928070",
+        "macOS": "open steam://rungameid/928070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107475"
+}
