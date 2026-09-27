@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107460,
+  "name": "Dead Prison",
+  "source_url": "https://www.igdb.com/games/dead-prison",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Prison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923820",
+        "Linux": "setsid steam steam://rungameid/923820",
+        "macOS": "open steam://rungameid/923820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-prison",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107460"
+}
