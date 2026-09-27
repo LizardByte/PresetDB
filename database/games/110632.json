@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110632,
+  "name": "The Momo Game",
+  "source_url": "https://www.igdb.com/games/the-momo-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6wb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Momo Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "954530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/954530",
+        "Linux": "setsid steam steam://rungameid/954530",
+        "macOS": "open steam://rungameid/954530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-momo-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110632"
+}
