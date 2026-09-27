@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110084,
+  "name": "Dragon Awaken",
+  "source_url": "https://www.igdb.com/games/dragon-awaken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Awaken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "824300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/824300",
+        "Linux": "setsid steam steam://rungameid/824300",
+        "macOS": "open steam://rungameid/824300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-awaken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110084"
+}
