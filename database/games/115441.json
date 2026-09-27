@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115441,
+  "name": "Bob's Cat Challenge",
+  "source_url": "https://www.igdb.com/games/bobs-cat-challenge",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bob's Cat Challenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1032230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1032230",
+        "Linux": "setsid steam steam://rungameid/1032230",
+        "macOS": "open steam://rungameid/1032230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bobs-cat-challenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115441"
+}
