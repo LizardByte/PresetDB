@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111036,
+  "name": "Abha",
+  "source_url": "https://www.igdb.com/games/abha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hbu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "794830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/794830",
+        "Linux": "setsid steam steam://rungameid/794830",
+        "macOS": "open steam://rungameid/794830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111036"
+}
