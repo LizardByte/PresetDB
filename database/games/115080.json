@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115080,
+  "name": "Mutagen Extinction",
+  "source_url": "https://www.igdb.com/games/mutagen-extinction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pgd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mutagen Extinction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1007200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1007200",
+        "Linux": "setsid steam steam://rungameid/1007200",
+        "macOS": "open steam://rungameid/1007200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mutagen-extinction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115080"
+}
