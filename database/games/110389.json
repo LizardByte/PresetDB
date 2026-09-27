@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110389,
+  "name": "Nevsky Run",
+  "source_url": "https://www.igdb.com/games/nevsky-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nevsky Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "946210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/946210",
+        "Linux": "setsid steam steam://rungameid/946210",
+        "macOS": "open steam://rungameid/946210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nevsky-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110389"
+}
