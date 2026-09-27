@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107900,
+  "name": "My Farm",
+  "source_url": "https://www.igdb.com/games/my-farm--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3piw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "889970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/889970",
+        "Linux": "setsid steam steam://rungameid/889970",
+        "macOS": "open steam://rungameid/889970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-farm--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107900"
+}
