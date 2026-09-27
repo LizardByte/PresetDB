@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104952,
+  "name": "Wayblock",
+  "source_url": "https://www.igdb.com/games/wayblock",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wayblock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "883780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/883780",
+        "Linux": "setsid steam steam://rungameid/883780",
+        "macOS": "open steam://rungameid/883780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wayblock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104952"
+}
