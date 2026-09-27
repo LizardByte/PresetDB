@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106458,
+  "name": "DrillMania",
+  "source_url": "https://www.igdb.com/games/drillmania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnhy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DrillMania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "905860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/905860",
+        "Linux": "setsid steam steam://rungameid/905860",
+        "macOS": "open steam://rungameid/905860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drillmania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106458"
+}
