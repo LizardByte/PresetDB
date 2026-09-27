@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114885,
+  "name": "GhostGame",
+  "source_url": "https://www.igdb.com/games/ghostgame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co419d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GhostGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843590",
+        "Linux": "setsid steam steam://rungameid/843590",
+        "macOS": "open steam://rungameid/843590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghostgame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114885"
+}
