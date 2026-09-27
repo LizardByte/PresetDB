@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105261,
+  "name": "Annual",
+  "source_url": "https://www.igdb.com/games/annual",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5to.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Annual",
+      "os": null,
+      "method": "steam",
+      "launch_id": "710090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/710090",
+        "Linux": "setsid steam steam://rungameid/710090",
+        "macOS": "open steam://rungameid/710090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "annual",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105261"
+}
