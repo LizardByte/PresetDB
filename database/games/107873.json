@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107873,
+  "name": "Bounty Battle",
+  "source_url": "https://www.igdb.com/games/bounty-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20yg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bounty Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860900",
+        "Linux": "setsid steam steam://rungameid/860900",
+        "macOS": "open steam://rungameid/860900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bounty-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107873"
+}
