@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110892,
+  "name": "The Legend of Evil",
+  "source_url": "https://www.igdb.com/games/the-legend-of-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co225f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legend of Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "839520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/839520",
+        "Linux": "setsid steam steam://rungameid/839520",
+        "macOS": "open steam://rungameid/839520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-legend-of-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110892"
+}
