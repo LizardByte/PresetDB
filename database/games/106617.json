@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106617,
+  "name": "Oh Boy Cheese",
+  "source_url": "https://www.igdb.com/games/oh-boy-cheese",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobja7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oh Boy Cheese",
+      "os": null,
+      "method": "steam",
+      "launch_id": "894160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/894160",
+        "Linux": "setsid steam steam://rungameid/894160",
+        "macOS": "open steam://rungameid/894160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oh-boy-cheese",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106617"
+}
