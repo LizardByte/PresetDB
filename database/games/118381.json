@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118381,
+  "name": "Armadusa",
+  "source_url": "https://www.igdb.com/games/armadusa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob55z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Armadusa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1083480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1083480",
+        "Linux": "setsid steam steam://rungameid/1083480",
+        "macOS": "open steam://rungameid/1083480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "armadusa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118381"
+}
