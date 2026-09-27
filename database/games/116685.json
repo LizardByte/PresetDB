@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116685,
+  "name": "Heave Ho",
+  "source_url": "https://www.igdb.com/games/heave-ho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45wx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heave Ho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "905340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/905340",
+        "Linux": "setsid steam steam://rungameid/905340",
+        "macOS": "open steam://rungameid/905340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heave-ho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116685"
+}
