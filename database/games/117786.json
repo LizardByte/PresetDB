@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117786,
+  "name": "Jetlad",
+  "source_url": "https://www.igdb.com/games/jetlad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ay.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jetlad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1071600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1071600",
+        "Linux": "setsid steam steam://rungameid/1071600",
+        "macOS": "open steam://rungameid/1071600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jetlad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117786"
+}
