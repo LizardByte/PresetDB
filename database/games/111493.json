@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111493,
+  "name": "Re-O-Ri",
+  "source_url": "https://www.igdb.com/games/re-o-ri",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yfm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Re-O-Ri",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958750",
+        "Linux": "setsid steam steam://rungameid/958750",
+        "macOS": "open steam://rungameid/958750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "re-o-ri",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111493"
+}
