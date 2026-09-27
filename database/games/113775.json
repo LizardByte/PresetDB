@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113775,
+  "name": "Continue",
+  "source_url": "https://www.igdb.com/games/continue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Continue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "996920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/996920",
+        "Linux": "setsid steam steam://rungameid/996920",
+        "macOS": "open steam://rungameid/996920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "continue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113775"
+}
