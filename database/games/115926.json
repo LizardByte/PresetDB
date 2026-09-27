@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115926,
+  "name": "Chromatose",
+  "source_url": "https://www.igdb.com/games/chromatose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2k1n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chromatose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1003900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1003900",
+        "Linux": "setsid steam steam://rungameid/1003900",
+        "macOS": "open steam://rungameid/1003900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chromatose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115926"
+}
