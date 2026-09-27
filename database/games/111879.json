@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111879,
+  "name": "Sierra Madre",
+  "source_url": "https://www.igdb.com/games/sierra-madre",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co413l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sierra Madre",
+      "os": null,
+      "method": "steam",
+      "launch_id": "970190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/970190",
+        "Linux": "setsid steam steam://rungameid/970190",
+        "macOS": "open steam://rungameid/970190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sierra-madre",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111879"
+}
