@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106139,
+  "name": "Don't Stop",
+  "source_url": "https://www.igdb.com/games/dont-stop",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Stop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868760",
+        "Linux": "setsid steam steam://rungameid/868760",
+        "macOS": "open steam://rungameid/868760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-stop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106139"
+}
