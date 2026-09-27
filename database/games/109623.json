@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109623,
+  "name": "TheTruth.exe",
+  "source_url": "https://www.igdb.com/games/thetruth-dot-exe",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TheTruth.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "855240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/855240",
+        "Linux": "setsid steam steam://rungameid/855240",
+        "macOS": "open steam://rungameid/855240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thetruth-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109623"
+}
