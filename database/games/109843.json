@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109843,
+  "name": "Flat Trip",
+  "source_url": "https://www.igdb.com/games/flat-trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kbd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flat Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918740",
+        "Linux": "setsid steam steam://rungameid/918740",
+        "macOS": "open steam://rungameid/918740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flat-trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109843"
+}
