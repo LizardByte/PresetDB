@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106279,
+  "name": "Among Trees",
+  "source_url": "https://www.igdb.com/games/among-trees",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Among Trees",
+      "os": null,
+      "method": "steam",
+      "launch_id": "897730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/897730",
+        "Linux": "setsid steam steam://rungameid/897730",
+        "macOS": "open steam://rungameid/897730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "among-trees",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106279"
+}
