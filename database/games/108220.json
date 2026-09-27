@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108220,
+  "name": "Boom Blast",
+  "source_url": "https://www.igdb.com/games/boom-blast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76o7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boom Blast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2626510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2626510",
+        "Linux": "setsid steam steam://rungameid/2626510",
+        "macOS": "open steam://rungameid/2626510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boom-blast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108220"
+}
