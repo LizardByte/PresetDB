@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105304,
+  "name": "Dungeon Rush",
+  "source_url": "https://www.igdb.com/games/dungeon-rush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblin.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "871230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/871230",
+        "Linux": "setsid steam steam://rungameid/871230",
+        "macOS": "open steam://rungameid/871230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-rush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105304"
+}
