@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104220,
+  "name": "LO-OP",
+  "source_url": "https://www.igdb.com/games/lo-op",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobghg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LO-OP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878640",
+        "Linux": "setsid steam steam://rungameid/878640",
+        "macOS": "open steam://rungameid/878640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lo-op",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104220"
+}
