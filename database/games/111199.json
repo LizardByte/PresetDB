@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111199,
+  "name": "Starkid's Obstacle Course",
+  "source_url": "https://www.igdb.com/games/starkids-obstacle-course",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhtk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starkid's Obstacle Course",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906370",
+        "Linux": "setsid steam steam://rungameid/906370",
+        "macOS": "open steam://rungameid/906370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starkids-obstacle-course",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111199"
+}
