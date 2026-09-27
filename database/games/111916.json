@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111916,
+  "name": "Circle of Sumo",
+  "source_url": "https://www.igdb.com/games/circle-of-sumo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ovl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Circle of Sumo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961850",
+        "Linux": "setsid steam steam://rungameid/961850",
+        "macOS": "open steam://rungameid/961850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "circle-of-sumo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111916"
+}
