@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108432,
+  "name": "MMA Simulator",
+  "source_url": "https://www.igdb.com/games/mma-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MMA Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913820",
+        "Linux": "setsid steam steam://rungameid/913820",
+        "macOS": "open steam://rungameid/913820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mma-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108432"
+}
