@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111717,
+  "name": "One Step From Eden",
+  "source_url": "https://www.igdb.com/games/one-step-from-eden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20k4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Step From Eden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "960690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/960690",
+        "Linux": "setsid steam steam://rungameid/960690",
+        "macOS": "open steam://rungameid/960690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-step-from-eden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111717"
+}
