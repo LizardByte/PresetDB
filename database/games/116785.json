@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116785,
+  "name": "Dark Hope",
+  "source_url": "https://www.igdb.com/games/dark-hope",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wkc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Hope",
+      "os": null,
+      "method": "steam",
+      "launch_id": "620350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/620350",
+        "Linux": "setsid steam steam://rungameid/620350",
+        "macOS": "open steam://rungameid/620350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-hope",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116785"
+}
