@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105133,
+  "name": "Dragonfly Chronicles",
+  "source_url": "https://www.igdb.com/games/dragonfly-chronicles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2121.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragonfly Chronicles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888760",
+        "Linux": "setsid steam steam://rungameid/888760",
+        "macOS": "open steam://rungameid/888760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragonfly-chronicles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105133"
+}
