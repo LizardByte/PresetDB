@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104835,
+  "name": "Harpoon Cat",
+  "source_url": "https://www.igdb.com/games/harpoon-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobinr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Harpoon Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887630",
+        "Linux": "setsid steam steam://rungameid/887630",
+        "macOS": "open steam://rungameid/887630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "harpoon-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104835"
+}
