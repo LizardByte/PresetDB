@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118422,
+  "name": "Alucinod",
+  "source_url": "https://www.igdb.com/games/alucinod",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wpb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alucinod",
+      "os": null,
+      "method": "steam",
+      "launch_id": "727040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/727040",
+        "Linux": "setsid steam steam://rungameid/727040",
+        "macOS": "open steam://rungameid/727040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alucinod",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118422"
+}
