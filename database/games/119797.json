@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119797,
+  "name": "Ping Redux",
+  "source_url": "https://www.igdb.com/games/ping-redux",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1t46.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ping Redux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1085900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1085900",
+        "Linux": "setsid steam steam://rungameid/1085900",
+        "macOS": "open steam://rungameid/1085900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ping-redux",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119797"
+}
