@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109384,
+  "name": "Little World of Creatures",
+  "source_url": "https://www.igdb.com/games/little-world-of-creatures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little World of Creatures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "934800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/934800",
+        "Linux": "setsid steam steam://rungameid/934800",
+        "macOS": "open steam://rungameid/934800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-world-of-creatures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109384"
+}
