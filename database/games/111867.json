@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111867,
+  "name": "Beer Bar",
+  "source_url": "https://www.igdb.com/games/beer-bar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6c5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beer Bar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976160",
+        "Linux": "setsid steam steam://rungameid/976160",
+        "macOS": "open steam://rungameid/976160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beer-bar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111867"
+}
