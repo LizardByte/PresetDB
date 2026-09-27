@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112716,
+  "name": "Hunter",
+  "source_url": "https://www.igdb.com/games/hunter--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43ez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985530",
+        "Linux": "setsid steam steam://rungameid/985530",
+        "macOS": "open steam://rungameid/985530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hunter--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112716"
+}
