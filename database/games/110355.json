@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110355,
+  "name": "Here Be Dragons",
+  "source_url": "https://www.igdb.com/games/here-be-dragons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1y4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Here Be Dragons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "945680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/945680",
+        "Linux": "setsid steam steam://rungameid/945680",
+        "macOS": "open steam://rungameid/945680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "here-be-dragons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110355"
+}
