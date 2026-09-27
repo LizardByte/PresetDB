@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102878,
+  "name": "DrillsVR",
+  "source_url": "https://www.igdb.com/games/drillsvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfge.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DrillsVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "813440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/813440",
+        "Linux": "setsid steam steam://rungameid/813440",
+        "macOS": "open steam://rungameid/813440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drillsvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102878"
+}
