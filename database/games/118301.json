@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118301,
+  "name": "Möbler",
+  "source_url": "https://www.igdb.com/games/mobler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ml7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Möbler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1033100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1033100",
+        "Linux": "setsid steam steam://rungameid/1033100",
+        "macOS": "open steam://rungameid/1033100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mobler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118301"
+}
