@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112973,
+  "name": "Fear the Night",
+  "source_url": "https://www.igdb.com/games/fear-the-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nu1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fear the Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "764920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/764920",
+        "Linux": "setsid steam steam://rungameid/764920",
+        "macOS": "open steam://rungameid/764920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fear-the-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112973"
+}
