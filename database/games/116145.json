@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116145,
+  "name": "Mistover",
+  "source_url": "https://www.igdb.com/games/mistover",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2fa6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mistover",
+      "os": null,
+      "method": "steam",
+      "launch_id": "909510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/909510",
+        "Linux": "setsid steam steam://rungameid/909510",
+        "macOS": "open steam://rungameid/909510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mistover",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116145"
+}
