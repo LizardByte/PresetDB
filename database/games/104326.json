@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104326,
+  "name": "My Russian Trip",
+  "source_url": "https://www.igdb.com/games/my-russian-trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgl1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Russian Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "885170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/885170",
+        "Linux": "setsid steam steam://rungameid/885170",
+        "macOS": "open steam://rungameid/885170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-russian-trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104326"
+}
