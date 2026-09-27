@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107422,
+  "name": "Mio Garden",
+  "source_url": "https://www.igdb.com/games/mio-garden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1l57.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mio Garden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910400",
+        "Linux": "setsid steam steam://rungameid/910400",
+        "macOS": "open steam://rungameid/910400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mio-garden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107422"
+}
