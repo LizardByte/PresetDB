@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114054,
+  "name": "The Wild Age",
+  "source_url": "https://www.igdb.com/games/the-wild-age",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3bpm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wild Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "732160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/732160",
+        "Linux": "setsid steam steam://rungameid/732160",
+        "macOS": "open steam://rungameid/732160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-wild-age",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114054"
+}
