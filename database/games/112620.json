@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112620,
+  "name": "Corma",
+  "source_url": "https://www.igdb.com/games/corma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2psn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Corma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978620",
+        "Linux": "setsid steam steam://rungameid/978620",
+        "macOS": "open steam://rungameid/978620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "corma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112620"
+}
