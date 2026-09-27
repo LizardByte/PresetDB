@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111944,
+  "name": "Murder Mystery Machine",
+  "source_url": "https://www.igdb.com/games/murder-mystery-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6pka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Murder Mystery Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "930280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/930280",
+        "Linux": "setsid steam steam://rungameid/930280",
+        "macOS": "open steam://rungameid/930280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "murder-mystery-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111944"
+}
