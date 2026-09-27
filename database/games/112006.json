@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112006,
+  "name": "Kumpels",
+  "source_url": "https://www.igdb.com/games/kumpels",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46jt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kumpels",
+      "os": null,
+      "method": "steam",
+      "launch_id": "977090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/977090",
+        "Linux": "setsid steam steam://rungameid/977090",
+        "macOS": "open steam://rungameid/977090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kumpels",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112006"
+}
