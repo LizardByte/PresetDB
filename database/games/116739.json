@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116739,
+  "name": "Stop Cats",
+  "source_url": "https://www.igdb.com/games/stop-cats",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stop Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989860",
+        "Linux": "setsid steam steam://rungameid/989860",
+        "macOS": "open steam://rungameid/989860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stop-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116739"
+}
