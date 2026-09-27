@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105334,
+  "name": "Wired",
+  "source_url": "https://www.igdb.com/games/wired",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30ok.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wired",
+      "os": null,
+      "method": "steam",
+      "launch_id": "885470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/885470",
+        "Linux": "setsid steam steam://rungameid/885470",
+        "macOS": "open steam://rungameid/885470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wired",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105334"
+}
