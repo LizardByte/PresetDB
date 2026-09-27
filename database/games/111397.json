@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111397,
+  "name": "You Shall Not Break!",
+  "source_url": "https://www.igdb.com/games/you-shall-not-break",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l6k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You Shall Not Break!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959020",
+        "Linux": "setsid steam steam://rungameid/959020",
+        "macOS": "open steam://rungameid/959020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-shall-not-break",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111397"
+}
