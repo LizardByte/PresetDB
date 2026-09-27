@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110087,
+  "name": "Suitchi",
+  "source_url": "https://www.igdb.com/games/suitchi",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suitchi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888310",
+        "Linux": "setsid steam steam://rungameid/888310",
+        "macOS": "open steam://rungameid/888310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "suitchi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110087"
+}
