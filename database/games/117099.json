@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117099,
+  "name": "Skyward",
+  "source_url": "https://www.igdb.com/games/skyward",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41mp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skyward",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1048160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1048160",
+        "Linux": "setsid steam steam://rungameid/1048160",
+        "macOS": "open steam://rungameid/1048160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skyward",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117099"
+}
