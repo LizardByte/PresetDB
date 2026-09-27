@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107391,
+  "name": "Itsy Blitzy",
+  "source_url": "https://www.igdb.com/games/itsy-blitzy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Itsy Blitzy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "858320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/858320",
+        "Linux": "setsid steam steam://rungameid/858320",
+        "macOS": "open steam://rungameid/858320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "itsy-blitzy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107391"
+}
