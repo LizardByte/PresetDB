@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112690,
+  "name": "Hunter's Trial",
+  "source_url": "https://www.igdb.com/games/hunters-trial",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgee.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hunter's Trial",
+      "os": null,
+      "method": "steam",
+      "launch_id": "945850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/945850",
+        "Linux": "setsid steam steam://rungameid/945850",
+        "macOS": "open steam://rungameid/945850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hunters-trial",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112690"
+}
