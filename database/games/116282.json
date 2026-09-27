@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116282,
+  "name": "Eri",
+  "source_url": "https://www.igdb.com/games/eri",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfn4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eri",
+      "os": null,
+      "method": "steam",
+      "launch_id": "883900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/883900",
+        "Linux": "setsid steam steam://rungameid/883900",
+        "macOS": "open steam://rungameid/883900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eri",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116282"
+}
