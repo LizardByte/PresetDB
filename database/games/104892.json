@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104892,
+  "name": "Wisgr",
+  "source_url": "https://www.igdb.com/games/wisgr",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wisgr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878340",
+        "Linux": "setsid steam steam://rungameid/878340",
+        "macOS": "open steam://rungameid/878340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wisgr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104892"
+}
