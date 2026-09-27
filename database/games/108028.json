@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108028,
+  "name": "Fred the Fraud",
+  "source_url": "https://www.igdb.com/games/fred-the-fraud",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn95.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fred the Fraud",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913490",
+        "Linux": "setsid steam steam://rungameid/913490",
+        "macOS": "open steam://rungameid/913490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fred-the-fraud",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108028"
+}
