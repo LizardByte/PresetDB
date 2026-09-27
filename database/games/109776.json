@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109776,
+  "name": "Hexen Hegemony",
+  "source_url": "https://www.igdb.com/games/hexen-hegemony",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53zs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexen Hegemony",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940630",
+        "Linux": "setsid steam steam://rungameid/940630",
+        "macOS": "open steam://rungameid/940630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexen-hegemony",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109776"
+}
