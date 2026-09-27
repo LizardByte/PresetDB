@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107932,
+  "name": "Where's Baby",
+  "source_url": "https://www.igdb.com/games/wheres-baby",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Where's Baby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895610",
+        "Linux": "setsid steam steam://rungameid/895610",
+        "macOS": "open steam://rungameid/895610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wheres-baby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107932"
+}
