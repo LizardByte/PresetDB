@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114851,
+  "name": "Tobit",
+  "source_url": "https://www.igdb.com/games/tobit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53ss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tobit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1018730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1018730",
+        "Linux": "setsid steam steam://rungameid/1018730",
+        "macOS": "open steam://rungameid/1018730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tobit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114851"
+}
