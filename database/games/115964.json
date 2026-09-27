@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115964,
+  "name": "Dwarf Block",
+  "source_url": "https://www.igdb.com/games/dwarf-block",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblv2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dwarf Block",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1027780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1027780",
+        "Linux": "setsid steam steam://rungameid/1027780",
+        "macOS": "open steam://rungameid/1027780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dwarf-block",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115964"
+}
