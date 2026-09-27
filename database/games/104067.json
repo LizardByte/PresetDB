@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104067,
+  "name": "Guess Da Meme",
+  "source_url": "https://www.igdb.com/games/guess-da-meme",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfe7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guess Da Meme",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869110",
+        "Linux": "setsid steam steam://rungameid/869110",
+        "macOS": "open steam://rungameid/869110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guess-da-meme",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104067"
+}
