@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110459,
+  "name": "Crashphalt",
+  "source_url": "https://www.igdb.com/games/crashphalt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4bld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crashphalt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "921700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/921700",
+        "Linux": "setsid steam steam://rungameid/921700",
+        "macOS": "open steam://rungameid/921700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crashphalt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110459"
+}
