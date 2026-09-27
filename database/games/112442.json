@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112442,
+  "name": "Ishmael",
+  "source_url": "https://www.igdb.com/games/ishmael",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co448i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ishmael",
+      "os": null,
+      "method": "steam",
+      "launch_id": "981310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/981310",
+        "Linux": "setsid steam steam://rungameid/981310",
+        "macOS": "open steam://rungameid/981310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ishmael",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112442"
+}
