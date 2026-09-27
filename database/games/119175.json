@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119175,
+  "name": "Monolisk",
+  "source_url": "https://www.igdb.com/games/monolisk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1lp3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monolisk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1454520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1454520",
+        "Linux": "setsid steam steam://rungameid/1454520",
+        "macOS": "open steam://rungameid/1454520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monolisk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119175"
+}
