@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102908,
+  "name": "Catsapults",
+  "source_url": "https://www.igdb.com/games/catsapults",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobizb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Catsapults",
+      "os": null,
+      "method": "steam",
+      "launch_id": "846220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/846220",
+        "Linux": "setsid steam steam://rungameid/846220",
+        "macOS": "open steam://rungameid/846220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catsapults",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102908"
+}
