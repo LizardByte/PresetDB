@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109006,
+  "name": "My Little Riding Champion",
+  "source_url": "https://www.igdb.com/games/my-little-riding-champion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qrg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Little Riding Champion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789900",
+        "Linux": "setsid steam steam://rungameid/789900",
+        "macOS": "open steam://rungameid/789900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-little-riding-champion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109006"
+}
