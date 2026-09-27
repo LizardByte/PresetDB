@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114956,
+  "name": "Candy Mandy",
+  "source_url": "https://www.igdb.com/games/candy-mandy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Candy Mandy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1022040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1022040",
+        "Linux": "setsid steam steam://rungameid/1022040",
+        "macOS": "open steam://rungameid/1022040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "candy-mandy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114956"
+}
