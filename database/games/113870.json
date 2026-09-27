@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113870,
+  "name": "Damnaze",
+  "source_url": "https://www.igdb.com/games/damnaze",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Damnaze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989140",
+        "Linux": "setsid steam steam://rungameid/989140",
+        "macOS": "open steam://rungameid/989140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "damnaze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113870"
+}
