@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111031,
+  "name": "Thrushbriar Hall",
+  "source_url": "https://www.igdb.com/games/thrushbriar-hall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ror.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thrushbriar Hall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "749150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/749150",
+        "Linux": "setsid steam steam://rungameid/749150",
+        "macOS": "open steam://rungameid/749150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thrushbriar-hall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111031"
+}
