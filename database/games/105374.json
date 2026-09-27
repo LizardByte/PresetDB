@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105374,
+  "name": "Fish Catcher",
+  "source_url": "https://www.igdb.com/games/fish-catcher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zpt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fish Catcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892490",
+        "Linux": "setsid steam steam://rungameid/892490",
+        "macOS": "open steam://rungameid/892490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fish-catcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105374"
+}
