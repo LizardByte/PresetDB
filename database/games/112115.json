@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112115,
+  "name": "The Escape",
+  "source_url": "https://www.igdb.com/games/the-escape--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob72s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "946810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/946810",
+        "Linux": "setsid steam steam://rungameid/946810",
+        "macOS": "open steam://rungameid/946810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-escape--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112115"
+}
