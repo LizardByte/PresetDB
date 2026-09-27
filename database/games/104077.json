@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104077,
+  "name": "The Fiend's Tavern",
+  "source_url": "https://www.igdb.com/games/the-fiends-tavern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7hn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Fiend's Tavern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "870510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/870510",
+        "Linux": "setsid steam steam://rungameid/870510",
+        "macOS": "open steam://rungameid/870510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-fiends-tavern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104077"
+}
