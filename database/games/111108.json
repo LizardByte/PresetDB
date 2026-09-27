@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111108,
+  "name": "Boat Basketball",
+  "source_url": "https://www.igdb.com/games/boat-basketball",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boat Basketball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952270",
+        "Linux": "setsid steam steam://rungameid/952270",
+        "macOS": "open steam://rungameid/952270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boat-basketball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111108"
+}
