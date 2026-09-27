@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118116,
+  "name": "Yellowtoy",
+  "source_url": "https://www.igdb.com/games/yellowtoy",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yellowtoy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1073380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1073380",
+        "Linux": "setsid steam steam://rungameid/1073380",
+        "macOS": "open steam://rungameid/1073380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yellowtoy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118116"
+}
