@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116051,
+  "name": "Magnibox",
+  "source_url": "https://www.igdb.com/games/magnibox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1kiz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magnibox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "999410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/999410",
+        "Linux": "setsid steam steam://rungameid/999410",
+        "macOS": "open steam://rungameid/999410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magnibox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116051"
+}
