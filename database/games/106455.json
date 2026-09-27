@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106455,
+  "name": "UniverCity",
+  "source_url": "https://www.igdb.com/games/univercity",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UniverCity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "808160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/808160",
+        "Linux": "setsid steam steam://rungameid/808160",
+        "macOS": "open steam://rungameid/808160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "univercity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106455"
+}
