@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115406,
+  "name": "Crash Landed",
+  "source_url": "https://www.igdb.com/games/crash-landed",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crash Landed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1014600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1014600",
+        "Linux": "setsid steam steam://rungameid/1014600",
+        "macOS": "open steam://rungameid/1014600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crash-landed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115406"
+}
