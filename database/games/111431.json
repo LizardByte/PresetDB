@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111431,
+  "name": "Just a Game",
+  "source_url": "https://www.igdb.com/games/just-a-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46hc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just a Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891090",
+        "Linux": "setsid steam steam://rungameid/891090",
+        "macOS": "open steam://rungameid/891090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-a-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111431"
+}
