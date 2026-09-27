@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116125,
+  "name": "Stela",
+  "source_url": "https://www.igdb.com/games/stela",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co210u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stela",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1048600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1048600",
+        "Linux": "setsid steam steam://rungameid/1048600",
+        "macOS": "open steam://rungameid/1048600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stela",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116125"
+}
