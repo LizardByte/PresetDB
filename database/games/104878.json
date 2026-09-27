@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104878,
+  "name": "Chicken Rider",
+  "source_url": "https://www.igdb.com/games/chicken-rider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57a3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chicken Rider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "871550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/871550",
+        "Linux": "setsid steam steam://rungameid/871550",
+        "macOS": "open steam://rungameid/871550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chicken-rider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104878"
+}
