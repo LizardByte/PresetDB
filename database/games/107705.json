@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107705,
+  "name": "ForzeBreak",
+  "source_url": "https://www.igdb.com/games/forzebreak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgjz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ForzeBreak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "927970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/927970",
+        "Linux": "setsid steam steam://rungameid/927970",
+        "macOS": "open steam://rungameid/927970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forzebreak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107705"
+}
