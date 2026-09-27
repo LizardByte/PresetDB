@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104903,
+  "name": "Visitor",
+  "source_url": "https://www.igdb.com/games/visitor--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pmt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Visitor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "882960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/882960",
+        "Linux": "setsid steam steam://rungameid/882960",
+        "macOS": "open steam://rungameid/882960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "visitor--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104903"
+}
