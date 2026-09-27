@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113786,
+  "name": "Zombies in the Dark",
+  "source_url": "https://www.igdb.com/games/zombies-in-the-dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l40.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombies in the Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "928410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/928410",
+        "Linux": "setsid steam steam://rungameid/928410",
+        "macOS": "open steam://rungameid/928410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombies-in-the-dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113786"
+}
