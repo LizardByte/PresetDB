@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109878,
+  "name": "Pixel Girl",
+  "source_url": "https://www.igdb.com/games/pixel-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg6b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "937140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/937140",
+        "Linux": "setsid steam steam://rungameid/937140",
+        "macOS": "open steam://rungameid/937140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109878"
+}
