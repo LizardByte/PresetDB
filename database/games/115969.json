@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115969,
+  "name": "Yinyang",
+  "source_url": "https://www.igdb.com/games/yinyang",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l5h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yinyang",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1043450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1043450",
+        "Linux": "setsid steam steam://rungameid/1043450",
+        "macOS": "open steam://rungameid/1043450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yinyang",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115969"
+}
