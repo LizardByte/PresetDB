@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111353,
+  "name": "Bugs Must Die",
+  "source_url": "https://www.igdb.com/games/bugs-must-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m91.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bugs Must Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816720",
+        "Linux": "setsid steam steam://rungameid/816720",
+        "macOS": "open steam://rungameid/816720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bugs-must-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111353"
+}
