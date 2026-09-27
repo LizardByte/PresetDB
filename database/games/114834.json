@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114834,
+  "name": "Yuki's Tale",
+  "source_url": "https://www.igdb.com/games/yukis-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l6u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yuki's Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1023260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1023260",
+        "Linux": "setsid steam steam://rungameid/1023260",
+        "macOS": "open steam://rungameid/1023260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yukis-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114834"
+}
