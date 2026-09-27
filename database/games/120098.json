@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120098,
+  "name": "Midnight Grub Session",
+  "source_url": "https://www.igdb.com/games/midnight-grub-session",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gxe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Midnight Grub Session",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1104910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1104910",
+        "Linux": "setsid steam steam://rungameid/1104910",
+        "macOS": "open steam://rungameid/1104910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "midnight-grub-session",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120098"
+}
