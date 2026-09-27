@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113261,
+  "name": "Knifeboy",
+  "source_url": "https://www.igdb.com/games/knifeboy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44je.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knifeboy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "889130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/889130",
+        "Linux": "setsid steam steam://rungameid/889130",
+        "macOS": "open steam://rungameid/889130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knifeboy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113261"
+}
