@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112615,
+  "name": "EEP 15",
+  "source_url": "https://www.igdb.com/games/eep-15",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg38.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EEP 15",
+      "os": null,
+      "method": "steam",
+      "launch_id": "957080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/957080",
+        "Linux": "setsid steam steam://rungameid/957080",
+        "macOS": "open steam://rungameid/957080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eep-15",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112615"
+}
