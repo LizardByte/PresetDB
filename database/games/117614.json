@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117614,
+  "name": "Party Bingo",
+  "source_url": "https://www.igdb.com/games/party-bingo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6701.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Party Bingo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1066730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1066730",
+        "Linux": "setsid steam steam://rungameid/1066730",
+        "macOS": "open steam://rungameid/1066730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "party-bingo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117614"
+}
