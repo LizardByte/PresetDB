@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106413,
+  "name": "Waifu School",
+  "source_url": "https://www.igdb.com/games/waifu-school",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2z1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waifu School",
+      "os": null,
+      "method": "steam",
+      "launch_id": "899630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/899630",
+        "Linux": "setsid steam steam://rungameid/899630",
+        "macOS": "open steam://rungameid/899630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waifu-school",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106413"
+}
