@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114391,
+  "name": "Sunset Giant",
+  "source_url": "https://www.igdb.com/games/sunset-giant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobidu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunset Giant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "979350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/979350",
+        "Linux": "setsid steam steam://rungameid/979350",
+        "macOS": "open steam://rungameid/979350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sunset-giant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114391"
+}
