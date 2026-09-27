@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107915,
+  "name": "Retro Snake Adventures",
+  "source_url": "https://www.igdb.com/games/retro-snake-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobid4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retro Snake Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891380",
+        "Linux": "setsid steam steam://rungameid/891380",
+        "macOS": "open steam://rungameid/891380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retro-snake-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107915"
+}
