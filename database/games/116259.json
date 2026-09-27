@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116259,
+  "name": "Full of Love",
+  "source_url": "https://www.igdb.com/games/full-of-love",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobipn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Full of Love",
+      "os": null,
+      "method": "steam",
+      "launch_id": "990940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/990940",
+        "Linux": "setsid steam steam://rungameid/990940",
+        "macOS": "open steam://rungameid/990940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "full-of-love",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116259"
+}
