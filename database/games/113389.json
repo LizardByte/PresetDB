@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113389,
+  "name": "Rogue Fable III",
+  "source_url": "https://www.igdb.com/games/rogue-fable-iii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nz2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Fable III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "956450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/956450",
+        "Linux": "setsid steam steam://rungameid/956450",
+        "macOS": "open steam://rungameid/956450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-fable-iii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113389"
+}
