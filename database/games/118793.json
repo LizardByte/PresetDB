@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118793,
+  "name": "Rocketboarder",
+  "source_url": "https://www.igdb.com/games/rocketboarder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiuf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocketboarder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "730170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/730170",
+        "Linux": "setsid steam steam://rungameid/730170",
+        "macOS": "open steam://rungameid/730170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocketboarder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118793"
+}
