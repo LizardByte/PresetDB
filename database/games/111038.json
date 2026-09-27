@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111038,
+  "name": "Broken Metal",
+  "source_url": "https://www.igdb.com/games/broken-metal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59v7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Broken Metal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "799460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/799460",
+        "Linux": "setsid steam steam://rungameid/799460",
+        "macOS": "open steam://rungameid/799460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "broken-metal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111038"
+}
