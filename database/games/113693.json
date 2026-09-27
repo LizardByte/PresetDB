@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113693,
+  "name": "Dark Sauce",
+  "source_url": "https://www.igdb.com/games/dark-sauce",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kc5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Sauce",
+      "os": null,
+      "method": "steam",
+      "launch_id": "995790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/995790",
+        "Linux": "setsid steam steam://rungameid/995790",
+        "macOS": "open steam://rungameid/995790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-sauce",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113693"
+}
