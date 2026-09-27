@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116747,
+  "name": "The Cat and the Box",
+  "source_url": "https://www.igdb.com/games/the-cat-and-the-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazp1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cat and the Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1054980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1054980",
+        "Linux": "setsid steam steam://rungameid/1054980",
+        "macOS": "open steam://rungameid/1054980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-cat-and-the-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116747"
+}
