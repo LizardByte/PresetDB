@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104900,
+  "name": "Arboreal",
+  "source_url": "https://www.igdb.com/games/arboreal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5tb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arboreal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881300",
+        "Linux": "setsid steam steam://rungameid/881300",
+        "macOS": "open steam://rungameid/881300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arboreal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104900"
+}
