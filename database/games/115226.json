@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115226,
+  "name": "Bakery Simulator",
+  "source_url": "https://www.igdb.com/games/bakery-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bakery Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1031120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1031120",
+        "Linux": "setsid steam steam://rungameid/1031120",
+        "macOS": "open steam://rungameid/1031120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bakery-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115226"
+}
