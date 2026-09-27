@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105602,
+  "name": "Juan v Juan",
+  "source_url": "https://www.igdb.com/games/juan-v-juan",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Juan v Juan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880860",
+        "Linux": "setsid steam steam://rungameid/880860",
+        "macOS": "open steam://rungameid/880860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "juan-v-juan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105602"
+}
