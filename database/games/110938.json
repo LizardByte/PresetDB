@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110938,
+  "name": "Not Heaven",
+  "source_url": "https://www.igdb.com/games/not-heaven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobglo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not Heaven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951250",
+        "Linux": "setsid steam steam://rungameid/951250",
+        "macOS": "open steam://rungameid/951250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "not-heaven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110938"
+}
