@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111564,
+  "name": "Rise of Ages",
+  "source_url": "https://www.igdb.com/games/rise-of-ages",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfmk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise of Ages",
+      "os": null,
+      "method": "steam",
+      "launch_id": "744270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/744270",
+        "Linux": "setsid steam steam://rungameid/744270",
+        "macOS": "open steam://rungameid/744270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rise-of-ages",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111564"
+}
