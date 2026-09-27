@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104448,
+  "name": "Fesnia",
+  "source_url": "https://www.igdb.com/games/fesnia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co464a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fesnia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "851290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/851290",
+        "Linux": "setsid steam steam://rungameid/851290",
+        "macOS": "open steam://rungameid/851290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fesnia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104448"
+}
