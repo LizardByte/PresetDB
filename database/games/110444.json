@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110444,
+  "name": "Starfighter X",
+  "source_url": "https://www.igdb.com/games/starfighter-x",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmst.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starfighter X",
+      "os": null,
+      "method": "steam",
+      "launch_id": "854990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/854990",
+        "Linux": "setsid steam steam://rungameid/854990",
+        "macOS": "open steam://rungameid/854990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starfighter-x",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110444"
+}
