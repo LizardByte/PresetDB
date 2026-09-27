@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109847,
+  "name": "Beat Champion",
+  "source_url": "https://www.igdb.com/games/beat-champion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pje.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat Champion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922190",
+        "Linux": "setsid steam steam://rungameid/922190",
+        "macOS": "open steam://rungameid/922190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beat-champion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109847"
+}
