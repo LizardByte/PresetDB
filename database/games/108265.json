@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108265,
+  "name": "Royal Jigsaw",
+  "source_url": "https://www.igdb.com/games/royal-jigsaw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ias.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Royal Jigsaw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1859100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1859100",
+        "Linux": "setsid steam steam://rungameid/1859100",
+        "macOS": "open steam://rungameid/1859100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "royal-jigsaw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108265"
+}
