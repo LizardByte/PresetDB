@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116690,
+  "name": "Ican",
+  "source_url": "https://www.igdb.com/games/ican",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83o0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ican",
+      "os": null,
+      "method": "steam",
+      "launch_id": "925810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/925810",
+        "Linux": "setsid steam steam://rungameid/925810",
+        "macOS": "open steam://rungameid/925810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ican",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116690"
+}
