@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102807,
+  "name": "Wunderling",
+  "source_url": "https://www.igdb.com/games/wunderling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21m1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wunderling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "732930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/732930",
+        "Linux": "setsid steam steam://rungameid/732930",
+        "macOS": "open steam://rungameid/732930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wunderling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102807"
+}
