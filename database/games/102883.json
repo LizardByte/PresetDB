@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102883,
+  "name": "Strive",
+  "source_url": "https://www.igdb.com/games/strive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9lf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Strive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "827930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/827930",
+        "Linux": "setsid steam steam://rungameid/827930",
+        "macOS": "open steam://rungameid/827930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "strive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102883"
+}
