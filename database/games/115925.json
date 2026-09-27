@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115925,
+  "name": "Freedom Finger",
+  "source_url": "https://www.igdb.com/games/freedom-finger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wlo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freedom Finger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1005410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1005410",
+        "Linux": "setsid steam steam://rungameid/1005410",
+        "macOS": "open steam://rungameid/1005410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freedom-finger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115925"
+}
