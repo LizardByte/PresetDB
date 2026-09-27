@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112985,
+  "name": "Hyss",
+  "source_url": "https://www.igdb.com/games/hyss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qdx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "982540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/982540",
+        "Linux": "setsid steam steam://rungameid/982540",
+        "macOS": "open steam://rungameid/982540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112985"
+}
