@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114301,
+  "name": "In Orbit",
+  "source_url": "https://www.igdb.com/games/in-orbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53n7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Orbit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1001550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1001550",
+        "Linux": "setsid steam steam://rungameid/1001550",
+        "macOS": "open steam://rungameid/1001550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-orbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114301"
+}
