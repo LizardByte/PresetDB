@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111521,
+  "name": "Float Night",
+  "source_url": "https://www.igdb.com/games/float-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59l3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Float Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958280",
+        "Linux": "setsid steam steam://rungameid/958280",
+        "macOS": "open steam://rungameid/958280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "float-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111521"
+}
