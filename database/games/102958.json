@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 102958,
+  "name": "Sapper boom!",
+  "source_url": "https://www.igdb.com/games/sapper-boom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf8n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sapper boom!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868190",
+        "Linux": "setsid steam steam://rungameid/868190",
+        "macOS": "open steam://rungameid/868190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sapper-boom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=102958"
+}
