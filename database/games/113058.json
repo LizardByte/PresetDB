@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113058,
+  "name": "Dog In A Box",
+  "source_url": "https://www.igdb.com/games/dog-in-a-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ouh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dog In A Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "972480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/972480",
+        "Linux": "setsid steam steam://rungameid/972480",
+        "macOS": "open steam://rungameid/972480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dog-in-a-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113058"
+}
