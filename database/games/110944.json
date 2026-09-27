@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110944,
+  "name": "Go to It",
+  "source_url": "https://www.igdb.com/games/go-to-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41en.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go to It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "953060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/953060",
+        "Linux": "setsid steam steam://rungameid/953060",
+        "macOS": "open steam://rungameid/953060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-to-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110944"
+}
