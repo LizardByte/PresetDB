@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105619,
+  "name": "Synth Ninja",
+  "source_url": "https://www.igdb.com/games/synth-ninja",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7j2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Synth Ninja",
+      "os": null,
+      "method": "steam",
+      "launch_id": "898320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/898320",
+        "Linux": "setsid steam steam://rungameid/898320",
+        "macOS": "open steam://rungameid/898320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "synth-ninja",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105619"
+}
