@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106659,
+  "name": "Alive",
+  "source_url": "https://www.igdb.com/games/alive--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906430",
+        "Linux": "setsid steam steam://rungameid/906430",
+        "macOS": "open steam://rungameid/906430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alive--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106659"
+}
