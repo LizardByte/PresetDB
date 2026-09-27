@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110441,
+  "name": "Mr. Grayscale",
+  "source_url": "https://www.igdb.com/games/mr-grayscale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46zw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Grayscale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833960",
+        "Linux": "setsid steam steam://rungameid/833960",
+        "macOS": "open steam://rungameid/833960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-grayscale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110441"
+}
