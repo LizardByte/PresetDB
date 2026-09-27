@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112792,
+  "name": "Color Knight",
+  "source_url": "https://www.igdb.com/games/color-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ngp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Color Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985090",
+        "Linux": "setsid steam steam://rungameid/985090",
+        "macOS": "open steam://rungameid/985090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "color-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112792"
+}
