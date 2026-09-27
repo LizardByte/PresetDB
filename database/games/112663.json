@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112663,
+  "name": "Red Wizard Island",
+  "source_url": "https://www.igdb.com/games/red-wizard-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ydo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Wizard Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "792390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/792390",
+        "Linux": "setsid steam steam://rungameid/792390",
+        "macOS": "open steam://rungameid/792390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-wizard-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112663"
+}
