@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109322,
+  "name": "Liberty Prime",
+  "source_url": "https://www.igdb.com/games/liberty-prime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liberty Prime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "921970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/921970",
+        "Linux": "setsid steam steam://rungameid/921970",
+        "macOS": "open steam://rungameid/921970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liberty-prime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109322"
+}
