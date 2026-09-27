@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108399,
+  "name": "Danger Room VR",
+  "source_url": "https://www.igdb.com/games/danger-room-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co299x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Danger Room VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852250",
+        "Linux": "setsid steam steam://rungameid/852250",
+        "macOS": "open steam://rungameid/852250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "danger-room-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108399"
+}
