@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119478,
+  "name": "Crunch",
+  "source_url": "https://www.igdb.com/games/crunch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25ly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crunch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1091260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1091260",
+        "Linux": "setsid steam steam://rungameid/1091260",
+        "macOS": "open steam://rungameid/1091260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crunch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119478"
+}
