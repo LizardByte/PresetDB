@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113179,
+  "name": "Alien Field",
+  "source_url": "https://www.igdb.com/games/alien-field",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xcv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Field",
+      "os": null,
+      "method": "steam",
+      "launch_id": "926350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/926350",
+        "Linux": "setsid steam steam://rungameid/926350",
+        "macOS": "open steam://rungameid/926350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-field",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113179"
+}
