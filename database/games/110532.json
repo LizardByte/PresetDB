@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110532,
+  "name": "Poisoner",
+  "source_url": "https://www.igdb.com/games/poisoner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co475s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Poisoner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "944100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/944100",
+        "Linux": "setsid steam steam://rungameid/944100",
+        "macOS": "open steam://rungameid/944100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "poisoner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110532"
+}
