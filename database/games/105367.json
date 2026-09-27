@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105367,
+  "name": "Pido1",
+  "source_url": "https://www.igdb.com/games/pido1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3c61.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pido1",
+      "os": null,
+      "method": "steam",
+      "launch_id": "894110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/894110",
+        "Linux": "setsid steam steam://rungameid/894110",
+        "macOS": "open steam://rungameid/894110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pido1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105367"
+}
