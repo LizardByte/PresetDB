@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111193,
+  "name": "Hunt 'n Sneak",
+  "source_url": "https://www.igdb.com/games/hunt-n-sneak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jny.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hunt 'n Sneak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "689610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/689610",
+        "Linux": "setsid steam steam://rungameid/689610",
+        "macOS": "open steam://rungameid/689610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hunt-n-sneak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111193"
+}
