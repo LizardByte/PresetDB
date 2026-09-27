@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109613,
+  "name": "Death Maze",
+  "source_url": "https://www.igdb.com/games/death-maze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death Maze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656840",
+        "Linux": "setsid steam steam://rungameid/656840",
+        "macOS": "open steam://rungameid/656840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "death-maze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109613"
+}
