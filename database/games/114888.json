@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114888,
+  "name": "Stealth",
+  "source_url": "https://www.igdb.com/games/stealth--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1jva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stealth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "800170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/800170",
+        "Linux": "setsid steam steam://rungameid/800170",
+        "macOS": "open steam://rungameid/800170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stealth--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114888"
+}
