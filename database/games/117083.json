@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117083,
+  "name": "Storm Chasers",
+  "source_url": "https://www.igdb.com/games/storm-chasers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co424u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Storm Chasers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862800",
+        "Linux": "setsid steam steam://rungameid/862800",
+        "macOS": "open steam://rungameid/862800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "storm-chasers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117083"
+}
