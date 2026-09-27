@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108671,
+  "name": "Fireflies",
+  "source_url": "https://www.igdb.com/games/fireflies--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zpa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fireflies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "915440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/915440",
+        "Linux": "setsid steam steam://rungameid/915440",
+        "macOS": "open steam://rungameid/915440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fireflies--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108671"
+}
