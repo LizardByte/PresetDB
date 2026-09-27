@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112844,
+  "name": "Spinheads",
+  "source_url": "https://www.igdb.com/games/spinheads",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spinheads",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978380",
+        "Linux": "setsid steam steam://rungameid/978380",
+        "macOS": "open steam://rungameid/978380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spinheads",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112844"
+}
