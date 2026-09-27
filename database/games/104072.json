@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104072,
+  "name": "Fugue",
+  "source_url": "https://www.igdb.com/games/fugue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dlu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fugue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "870400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/870400",
+        "Linux": "setsid steam steam://rungameid/870400",
+        "macOS": "open steam://rungameid/870400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fugue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104072"
+}
