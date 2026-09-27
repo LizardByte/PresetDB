@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116505,
+  "name": "Valley of the Moon",
+  "source_url": "https://www.igdb.com/games/valley-of-the-moon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob692.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valley of the Moon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1050540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1050540",
+        "Linux": "setsid steam steam://rungameid/1050540",
+        "macOS": "open steam://rungameid/1050540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "valley-of-the-moon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116505"
+}
