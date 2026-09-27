@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108331,
+  "name": "Strike Cars",
+  "source_url": "https://www.igdb.com/games/strike-cars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9li.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Strike Cars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906020",
+        "Linux": "setsid steam steam://rungameid/906020",
+        "macOS": "open steam://rungameid/906020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "strike-cars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108331"
+}
