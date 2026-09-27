@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110339,
+  "name": "Battle Species",
+  "source_url": "https://www.igdb.com/games/battle-species",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazyg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Species",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910750",
+        "Linux": "setsid steam steam://rungameid/910750",
+        "macOS": "open steam://rungameid/910750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-species",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110339"
+}
