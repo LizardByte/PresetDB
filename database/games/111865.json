@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111865,
+  "name": "Bad Note",
+  "source_url": "https://www.igdb.com/games/bad-note",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfm0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bad Note",
+      "os": null,
+      "method": "steam",
+      "launch_id": "976070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/976070",
+        "Linux": "setsid steam steam://rungameid/976070",
+        "macOS": "open steam://rungameid/976070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bad-note",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111865"
+}
