@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112120,
+  "name": "Brave Nine",
+  "source_url": "https://www.igdb.com/games/brave-nine--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4lr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Nine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2442230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2442230",
+        "Linux": "setsid steam steam://rungameid/2442230",
+        "macOS": "open steam://rungameid/2442230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brave-nine--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112120"
+}
