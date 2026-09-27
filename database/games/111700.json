@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111700,
+  "name": "Human Rocket Person",
+  "source_url": "https://www.igdb.com/games/human-rocket-person",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qdj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Human Rocket Person",
+      "os": null,
+      "method": "steam",
+      "launch_id": "965340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/965340",
+        "Linux": "setsid steam steam://rungameid/965340",
+        "macOS": "open steam://rungameid/965340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "human-rocket-person",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111700"
+}
