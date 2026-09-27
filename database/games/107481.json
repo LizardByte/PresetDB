@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107481,
+  "name": "Aesthetic World",
+  "source_url": "https://www.igdb.com/games/aesthetic-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagrd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aesthetic World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "929000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/929000",
+        "Linux": "setsid steam steam://rungameid/929000",
+        "macOS": "open steam://rungameid/929000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aesthetic-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107481"
+}
