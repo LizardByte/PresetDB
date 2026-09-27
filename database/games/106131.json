@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106131,
+  "name": "Zombow",
+  "source_url": "https://www.igdb.com/games/zombow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4xq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "823650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/823650",
+        "Linux": "setsid steam steam://rungameid/823650",
+        "macOS": "open steam://rungameid/823650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106131"
+}
