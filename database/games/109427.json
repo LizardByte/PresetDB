@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109427,
+  "name": "It's A Racing Game",
+  "source_url": "https://www.igdb.com/games/its-a-racing-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It's A Racing Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "811690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/811690",
+        "Linux": "setsid steam steam://rungameid/811690",
+        "macOS": "open steam://rungameid/811690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-a-racing-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109427"
+}
