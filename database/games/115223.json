@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115223,
+  "name": "Circle Brawl",
+  "source_url": "https://www.igdb.com/games/circle-brawl",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Circle Brawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "908660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/908660",
+        "Linux": "setsid steam steam://rungameid/908660",
+        "macOS": "open steam://rungameid/908660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "circle-brawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115223"
+}
