@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114803,
+  "name": "Torn Earth",
+  "source_url": "https://www.igdb.com/games/torn-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiow.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Torn Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952980",
+        "Linux": "setsid steam steam://rungameid/952980",
+        "macOS": "open steam://rungameid/952980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "torn-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114803"
+}
