@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104375,
+  "name": "UniteStar",
+  "source_url": "https://www.igdb.com/games/unitestar",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UniteStar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878120",
+        "Linux": "setsid steam steam://rungameid/878120",
+        "macOS": "open steam://rungameid/878120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unitestar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104375"
+}
