@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107976,
+  "name": "Farjob",
+  "source_url": "https://www.igdb.com/games/farjob",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zku.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farjob",
+      "os": null,
+      "method": "steam",
+      "launch_id": "908010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/908010",
+        "Linux": "setsid steam steam://rungameid/908010",
+        "macOS": "open steam://rungameid/908010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farjob",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107976"
+}
