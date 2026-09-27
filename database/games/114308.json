@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114308,
+  "name": "Poor Stickman",
+  "source_url": "https://www.igdb.com/games/poor-stickman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vi1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Poor Stickman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1012830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1012830",
+        "Linux": "setsid steam steam://rungameid/1012830",
+        "macOS": "open steam://rungameid/1012830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "poor-stickman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114308"
+}
