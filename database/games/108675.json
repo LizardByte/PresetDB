@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108675,
+  "name": "Space Cowboy",
+  "source_url": "https://www.igdb.com/games/space-cowboy--1",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Cowboy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918100",
+        "Linux": "setsid steam steam://rungameid/918100",
+        "macOS": "open steam://rungameid/918100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-cowboy--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108675"
+}
