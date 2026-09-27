@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110544,
+  "name": "Space Bugs",
+  "source_url": "https://www.igdb.com/games/space-bugs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobf14.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Bugs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "950910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/950910",
+        "Linux": "setsid steam steam://rungameid/950910",
+        "macOS": "open steam://rungameid/950910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-bugs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110544"
+}
