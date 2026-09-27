@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103793,
+  "name": "The Shadow of Hell",
+  "source_url": "https://www.igdb.com/games/the-shadow-of-hell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobow7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Shadow of Hell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "878480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/878480",
+        "Linux": "setsid steam steam://rungameid/878480",
+        "macOS": "open steam://rungameid/878480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-shadow-of-hell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103793"
+}
