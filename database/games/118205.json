@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118205,
+  "name": "Obey Me",
+  "source_url": "https://www.igdb.com/games/obey-me--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23if.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Obey Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1034890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1034890",
+        "Linux": "setsid steam steam://rungameid/1034890",
+        "macOS": "open steam://rungameid/1034890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "obey-me--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118205"
+}
