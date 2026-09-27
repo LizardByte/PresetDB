@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113569,
+  "name": "RD's Adventure Mini Golf",
+  "source_url": "https://www.igdb.com/games/rds-adventure-mini-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yb5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RD's Adventure Mini Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "656300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/656300",
+        "Linux": "setsid steam steam://rungameid/656300",
+        "macOS": "open steam://rungameid/656300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rds-adventure-mini-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113569"
+}
