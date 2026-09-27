@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109361,
+  "name": "Morphe",
+  "source_url": "https://www.igdb.com/games/morphe--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4usp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Morphe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "931830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/931830",
+        "Linux": "setsid steam steam://rungameid/931830",
+        "macOS": "open steam://rungameid/931830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "morphe--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109361"
+}
