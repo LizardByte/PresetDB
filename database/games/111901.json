@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111901,
+  "name": "Starcross Arena",
+  "source_url": "https://www.igdb.com/games/starcross-arena",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starcross Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "945870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/945870",
+        "Linux": "setsid steam steam://rungameid/945870",
+        "macOS": "open steam://rungameid/945870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starcross-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111901"
+}
