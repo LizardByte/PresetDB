@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115357,
+  "name": "Astronest VR",
+  "source_url": "https://www.igdb.com/games/astronest-vr",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astronest VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "987660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/987660",
+        "Linux": "setsid steam steam://rungameid/987660",
+        "macOS": "open steam://rungameid/987660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astronest-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115357"
+}
