@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115836,
+  "name": "Summerford",
+  "source_url": "https://www.igdb.com/games/summerford",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1y4d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Summerford",
+      "os": null,
+      "method": "steam",
+      "launch_id": "924120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/924120",
+        "Linux": "setsid steam steam://rungameid/924120",
+        "macOS": "open steam://rungameid/924120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "summerford",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115836"
+}
