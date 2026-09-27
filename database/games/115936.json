@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115936,
+  "name": "WarpThrough",
+  "source_url": "https://www.igdb.com/games/warpthrough",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uqi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WarpThrough",
+      "os": null,
+      "method": "steam",
+      "launch_id": "957770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/957770",
+        "Linux": "setsid steam steam://rungameid/957770",
+        "macOS": "open steam://rungameid/957770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warpthrough",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115936"
+}
