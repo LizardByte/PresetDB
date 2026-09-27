@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112688,
+  "name": "Briquid",
+  "source_url": "https://www.igdb.com/games/briquid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfiz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Briquid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "803280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/803280",
+        "Linux": "setsid steam steam://rungameid/803280",
+        "macOS": "open steam://rungameid/803280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "briquid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112688"
+}
