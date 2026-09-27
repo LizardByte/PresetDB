@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111723,
+  "name": "Spider Lander",
+  "source_url": "https://www.igdb.com/games/spider-lander",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spider Lander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "959730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/959730",
+        "Linux": "setsid steam steam://rungameid/959730",
+        "macOS": "open steam://rungameid/959730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spider-lander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111723"
+}
