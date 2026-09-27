@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111800,
+  "name": "Lost Connection",
+  "source_url": "https://www.igdb.com/games/lost-connection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavi2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Connection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "685330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/685330",
+        "Linux": "setsid steam steam://rungameid/685330",
+        "macOS": "open steam://rungameid/685330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-connection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111800"
+}
