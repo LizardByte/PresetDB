@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113263,
+  "name": "Tsukumono",
+  "source_url": "https://www.igdb.com/games/tsukumono",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6co.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tsukumono",
+      "os": null,
+      "method": "steam",
+      "launch_id": "993850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/993850",
+        "Linux": "setsid steam steam://rungameid/993850",
+        "macOS": "open steam://rungameid/993850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tsukumono",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113263"
+}
