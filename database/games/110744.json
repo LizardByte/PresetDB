@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110744,
+  "name": "Defender 3D",
+  "source_url": "https://www.igdb.com/games/defender-3d",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1igk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Defender 3D",
+      "os": null,
+      "method": "steam",
+      "launch_id": "928230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/928230",
+        "Linux": "setsid steam steam://rungameid/928230",
+        "macOS": "open steam://rungameid/928230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "defender-3d",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110744"
+}
