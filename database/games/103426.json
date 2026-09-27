@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103426,
+  "name": "Crows",
+  "source_url": "https://www.igdb.com/games/crows",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23rs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crows",
+      "os": null,
+      "method": "steam",
+      "launch_id": "870100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/870100",
+        "Linux": "setsid steam steam://rungameid/870100",
+        "macOS": "open steam://rungameid/870100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crows",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103426"
+}
