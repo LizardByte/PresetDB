@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109154,
+  "name": "Still Alive",
+  "source_url": "https://www.igdb.com/games/still-alive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co424a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Still Alive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1092560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1092560",
+        "Linux": "setsid steam steam://rungameid/1092560",
+        "macOS": "open steam://rungameid/1092560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "still-alive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109154"
+}
