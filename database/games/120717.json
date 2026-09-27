@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120717,
+  "name": "My Planet [RTS]",
+  "source_url": "https://www.igdb.com/games/my-planet-rts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co470h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Planet [RTS]",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1115090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1115090",
+        "Linux": "setsid steam steam://rungameid/1115090",
+        "macOS": "open steam://rungameid/1115090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-planet-rts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120717"
+}
