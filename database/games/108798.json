@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108798,
+  "name": "Short Life",
+  "source_url": "https://www.igdb.com/games/short-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wlp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Short Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893570",
+        "Linux": "setsid steam steam://rungameid/893570",
+        "macOS": "open steam://rungameid/893570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "short-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108798"
+}
