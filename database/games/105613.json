@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105613,
+  "name": "The Impure",
+  "source_url": "https://www.igdb.com/games/the-impure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob70v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Impure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "896040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/896040",
+        "Linux": "setsid steam steam://rungameid/896040",
+        "macOS": "open steam://rungameid/896040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-impure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105613"
+}
