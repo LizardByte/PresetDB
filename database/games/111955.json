@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111955,
+  "name": "Dereliction",
+  "source_url": "https://www.igdb.com/games/dereliction",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dereliction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "969420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/969420",
+        "Linux": "setsid steam steam://rungameid/969420",
+        "macOS": "open steam://rungameid/969420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dereliction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111955"
+}
