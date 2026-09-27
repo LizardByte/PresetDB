@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114040,
+  "name": "Here & Elsewhere",
+  "source_url": "https://www.igdb.com/games/here-and-elsewhere",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Here & Elsewhere",
+      "os": null,
+      "method": "steam",
+      "launch_id": "736920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/736920",
+        "Linux": "setsid steam steam://rungameid/736920",
+        "macOS": "open steam://rungameid/736920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "here-and-elsewhere",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114040"
+}
