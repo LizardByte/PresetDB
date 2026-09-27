@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117653,
+  "name": "My Heart Grows Fonder",
+  "source_url": "https://www.igdb.com/games/my-heart-grows-fonder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1smd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Heart Grows Fonder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "892980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/892980",
+        "Linux": "setsid steam steam://rungameid/892980",
+        "macOS": "open steam://rungameid/892980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-heart-grows-fonder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117653"
+}
