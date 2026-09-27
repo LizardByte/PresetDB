@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112614,
+  "name": "Ultra Pig",
+  "source_url": "https://www.igdb.com/games/ultra-pig",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6am.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ultra Pig",
+      "os": null,
+      "method": "steam",
+      "launch_id": "985580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/985580",
+        "Linux": "setsid steam steam://rungameid/985580",
+        "macOS": "open steam://rungameid/985580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ultra-pig",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112614"
+}
