@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108648,
+  "name": "Rams",
+  "source_url": "https://www.igdb.com/games/rams",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfdy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rams",
+      "os": null,
+      "method": "steam",
+      "launch_id": "809580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/809580",
+        "Linux": "setsid steam steam://rungameid/809580",
+        "macOS": "open steam://rungameid/809580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rams",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108648"
+}
