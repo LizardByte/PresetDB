@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114211,
+  "name": "Psychosoft Ltd.",
+  "source_url": "https://www.igdb.com/games/psychosoft-ltd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobggg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psychosoft Ltd.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1009070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1009070",
+        "Linux": "setsid steam steam://rungameid/1009070",
+        "macOS": "open steam://rungameid/1009070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psychosoft-ltd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114211"
+}
