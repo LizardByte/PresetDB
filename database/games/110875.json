@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110875,
+  "name": "Lorelai",
+  "source_url": "https://www.igdb.com/games/lorelai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1l51.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lorelai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "593960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/593960",
+        "Linux": "setsid steam steam://rungameid/593960",
+        "macOS": "open steam://rungameid/593960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lorelai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110875"
+}
