@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112794,
+  "name": "Hostile User Interface",
+  "source_url": "https://www.igdb.com/games/hostile-user-interface",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg83.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hostile User Interface",
+      "os": null,
+      "method": "steam",
+      "launch_id": "984540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/984540",
+        "Linux": "setsid steam steam://rungameid/984540",
+        "macOS": "open steam://rungameid/984540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hostile-user-interface",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112794"
+}
