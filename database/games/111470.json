@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111470,
+  "name": "Emerald Shores",
+  "source_url": "https://www.igdb.com/games/emerald-shores",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27qv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emerald Shores",
+      "os": null,
+      "method": "steam",
+      "launch_id": "970470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/970470",
+        "Linux": "setsid steam steam://rungameid/970470",
+        "macOS": "open steam://rungameid/970470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emerald-shores",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111470"
+}
