@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118133,
+  "name": "Wookie's Blade",
+  "source_url": "https://www.igdb.com/games/wookies-blade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gzm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wookie's Blade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1058750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1058750",
+        "Linux": "setsid steam steam://rungameid/1058750",
+        "macOS": "open steam://rungameid/1058750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wookies-blade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118133"
+}
