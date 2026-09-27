@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108026,
+  "name": "The Odd Battle",
+  "source_url": "https://www.igdb.com/games/the-odd-battle",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Odd Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "913420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/913420",
+        "Linux": "setsid steam steam://rungameid/913420",
+        "macOS": "open steam://rungameid/913420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-odd-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108026"
+}
