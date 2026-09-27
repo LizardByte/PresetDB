@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104207,
+  "name": "Survival Diary",
+  "source_url": "https://www.igdb.com/games/survival-diary",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Survival Diary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "868390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/868390",
+        "Linux": "setsid steam steam://rungameid/868390",
+        "macOS": "open steam://rungameid/868390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "survival-diary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104207"
+}
