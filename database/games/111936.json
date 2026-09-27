@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111936,
+  "name": "Clouded",
+  "source_url": "https://www.igdb.com/games/clouded",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clouded",
+      "os": null,
+      "method": "steam",
+      "launch_id": "886350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/886350",
+        "Linux": "setsid steam steam://rungameid/886350",
+        "macOS": "open steam://rungameid/886350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clouded",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111936"
+}
