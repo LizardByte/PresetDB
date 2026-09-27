@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103300,
+  "name": "Prey: Mooncrash",
+  "source_url": "https://www.igdb.com/games/prey-mooncrash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ku3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prey: Mooncrash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "865670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/865670",
+        "Linux": "setsid steam steam://rungameid/865670",
+        "macOS": "open steam://rungameid/865670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prey-mooncrash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103300"
+}
