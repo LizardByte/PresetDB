@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112283,
+  "name": "//Todo: today",
+  "source_url": "https://www.igdb.com/games/slash-slash-todo-today",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47co.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "//Todo: today",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1259240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1259240",
+        "Linux": "setsid steam steam://rungameid/1259240",
+        "macOS": "open steam://rungameid/1259240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slash-slash-todo-today",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112283"
+}
