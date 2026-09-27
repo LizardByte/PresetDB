@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110715,
+  "name": "VR Hero Sentry",
+  "source_url": "https://www.igdb.com/games/vr-hero-sentry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1hbp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Hero Sentry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "843080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/843080",
+        "Linux": "setsid steam steam://rungameid/843080",
+        "macOS": "open steam://rungameid/843080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vr-hero-sentry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110715"
+}
