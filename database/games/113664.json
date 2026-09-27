@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113664,
+  "name": "Once10",
+  "source_url": "https://www.igdb.com/games/once10",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qkz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Once10",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1009950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1009950",
+        "Linux": "setsid steam steam://rungameid/1009950",
+        "macOS": "open steam://rungameid/1009950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "once10",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113664"
+}
