@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119044,
+  "name": "Dark Swords",
+  "source_url": "https://www.igdb.com/games/dark-swords",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgm6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Swords",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1091010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1091010",
+        "Linux": "setsid steam steam://rungameid/1091010",
+        "macOS": "open steam://rungameid/1091010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-swords",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119044"
+}
