@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113287,
+  "name": "Girls & Sweets",
+  "source_url": "https://www.igdb.com/games/girls-and-sweets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wdh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Girls & Sweets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "993750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/993750",
+        "Linux": "setsid steam steam://rungameid/993750",
+        "macOS": "open steam://rungameid/993750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "girls-and-sweets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113287"
+}
