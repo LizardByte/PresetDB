@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108034,
+  "name": "BattleBlade",
+  "source_url": "https://www.igdb.com/games/battleblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lzp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BattleBlade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914190",
+        "Linux": "setsid steam steam://rungameid/914190",
+        "macOS": "open steam://rungameid/914190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battleblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108034"
+}
