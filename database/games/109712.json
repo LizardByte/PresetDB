@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109712,
+  "name": "Forest Plague",
+  "source_url": "https://www.igdb.com/games/forest-plague",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgk6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest Plague",
+      "os": null,
+      "method": "steam",
+      "launch_id": "935450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/935450",
+        "Linux": "setsid steam steam://rungameid/935450",
+        "macOS": "open steam://rungameid/935450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forest-plague",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109712"
+}
