@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120574,
+  "name": "Witches Brew",
+  "source_url": "https://www.igdb.com/games/witches-brew",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2z5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Witches Brew",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1008230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1008230",
+        "Linux": "setsid steam steam://rungameid/1008230",
+        "macOS": "open steam://rungameid/1008230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "witches-brew",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120574"
+}
