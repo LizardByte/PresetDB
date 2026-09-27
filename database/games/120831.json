@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120831,
+  "name": "Wildland",
+  "source_url": "https://www.igdb.com/games/wildland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26ae.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wildland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1112960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1112960",
+        "Linux": "setsid steam steam://rungameid/1112960",
+        "macOS": "open steam://rungameid/1112960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wildland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120831"
+}
