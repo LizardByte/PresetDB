@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120697,
+  "name": "CyberCorp",
+  "source_url": "https://www.igdb.com/games/cybercorp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8obp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CyberCorp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1116170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1116170",
+        "Linux": "setsid steam steam://rungameid/1116170",
+        "macOS": "open steam://rungameid/1116170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cybercorp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120697"
+}
