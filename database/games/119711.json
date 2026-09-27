@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119711,
+  "name": "Cat&rooms",
+  "source_url": "https://www.igdb.com/games/cat-and-rooms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiz7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat&rooms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1088540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1088540",
+        "Linux": "setsid steam steam://rungameid/1088540",
+        "macOS": "open steam://rungameid/1088540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-and-rooms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119711"
+}
