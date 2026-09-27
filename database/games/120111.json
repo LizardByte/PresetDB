@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120111,
+  "name": "Stupid Bat",
+  "source_url": "https://www.igdb.com/games/stupid-bat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobims.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stupid Bat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1103540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1103540",
+        "Linux": "setsid steam steam://rungameid/1103540",
+        "macOS": "open steam://rungameid/1103540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stupid-bat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120111"
+}
