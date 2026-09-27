@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119386,
+  "name": "Empire of Sin",
+  "source_url": "https://www.igdb.com/games/empire-of-sin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nbm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Empire of Sin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "604540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/604540",
+        "Linux": "setsid steam steam://rungameid/604540",
+        "macOS": "open steam://rungameid/604540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "empire-of-sin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119386"
+}
