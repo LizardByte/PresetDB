@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112627,
+  "name": "The Black Widow",
+  "source_url": "https://www.igdb.com/games/the-black-widow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co432u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Black Widow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "984930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/984930",
+        "Linux": "setsid steam steam://rungameid/984930",
+        "macOS": "open steam://rungameid/984930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-black-widow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112627"
+}
