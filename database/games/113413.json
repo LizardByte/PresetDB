@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113413,
+  "name": "The Colony",
+  "source_url": "https://www.igdb.com/games/the-colony--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob744.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Colony",
+      "os": null,
+      "method": "steam",
+      "launch_id": "998890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/998890",
+        "Linux": "setsid steam steam://rungameid/998890",
+        "macOS": "open steam://rungameid/998890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-colony--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113413"
+}
