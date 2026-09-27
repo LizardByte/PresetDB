@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108620,
+  "name": "Build It",
+  "source_url": "https://www.igdb.com/games/build-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Build It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "604630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/604630",
+        "Linux": "setsid steam steam://rungameid/604630",
+        "macOS": "open steam://rungameid/604630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "build-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108620"
+}
