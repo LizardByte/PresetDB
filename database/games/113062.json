@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113062,
+  "name": "Too Hot!",
+  "source_url": "https://www.igdb.com/games/too-hot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob181.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Too Hot!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "968540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/968540",
+        "Linux": "setsid steam steam://rungameid/968540",
+        "macOS": "open steam://rungameid/968540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "too-hot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113062"
+}
