@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111206,
+  "name": "Talk to Strangers",
+  "source_url": "https://www.igdb.com/games/talk-to-strangers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ht5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Talk to Strangers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963280",
+        "Linux": "setsid steam steam://rungameid/963280",
+        "macOS": "open steam://rungameid/963280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "talk-to-strangers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111206"
+}
