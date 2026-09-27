@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111479,
+  "name": "theViewer",
+  "source_url": "https://www.igdb.com/games/theviewer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6rf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "theViewer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "622300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/622300",
+        "Linux": "setsid steam steam://rungameid/622300",
+        "macOS": "open steam://rungameid/622300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "theviewer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111479"
+}
