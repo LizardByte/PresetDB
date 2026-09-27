@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111760,
+  "name": "EXE: Mainframe",
+  "source_url": "https://www.igdb.com/games/exe-mainframe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qg4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EXE: Mainframe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "822450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/822450",
+        "Linux": "setsid steam steam://rungameid/822450",
+        "macOS": "open steam://rungameid/822450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exe-mainframe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111760"
+}
