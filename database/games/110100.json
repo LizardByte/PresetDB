@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110100,
+  "name": "SilverFrame",
+  "source_url": "https://www.igdb.com/games/silverframe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co414a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SilverFrame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "864430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/864430",
+        "Linux": "setsid steam steam://rungameid/864430",
+        "macOS": "open steam://rungameid/864430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silverframe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110100"
+}
