@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116185,
+  "name": "My Stunt Life",
+  "source_url": "https://www.igdb.com/games/my-stunt-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pku.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Stunt Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1045650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1045650",
+        "Linux": "setsid steam steam://rungameid/1045650",
+        "macOS": "open steam://rungameid/1045650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-stunt-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116185"
+}
