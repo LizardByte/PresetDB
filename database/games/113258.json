@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113258,
+  "name": "Marble Combat",
+  "source_url": "https://www.igdb.com/games/marble-combat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qna.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marble Combat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "949000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/949000",
+        "Linux": "setsid steam steam://rungameid/949000",
+        "macOS": "open steam://rungameid/949000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marble-combat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113258"
+}
