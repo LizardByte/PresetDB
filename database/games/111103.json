@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111103,
+  "name": "The Hand of Glory",
+  "source_url": "https://www.igdb.com/games/the-hand-of-glory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20eh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hand of Glory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961010",
+        "Linux": "setsid steam steam://rungameid/961010",
+        "macOS": "open steam://rungameid/961010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hand-of-glory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111103"
+}
