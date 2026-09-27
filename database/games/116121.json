@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116121,
+  "name": "Icesolation",
+  "source_url": "https://www.igdb.com/games/icesolation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4cg2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Icesolation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "623820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/623820",
+        "Linux": "setsid steam steam://rungameid/623820",
+        "macOS": "open steam://rungameid/623820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "icesolation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116121"
+}
