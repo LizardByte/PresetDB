@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114453,
+  "name": "Byte Driver",
+  "source_url": "https://www.igdb.com/games/byte-driver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91vf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Byte Driver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "944300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/944300",
+        "Linux": "setsid steam steam://rungameid/944300",
+        "macOS": "open steam://rungameid/944300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "byte-driver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114453"
+}
