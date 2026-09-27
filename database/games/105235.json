@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105235,
+  "name": "Infinity Racer",
+  "source_url": "https://www.igdb.com/games/infinity-racer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46fg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinity Racer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "891890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/891890",
+        "Linux": "setsid steam steam://rungameid/891890",
+        "macOS": "open steam://rungameid/891890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infinity-racer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105235"
+}
