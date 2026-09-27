@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113147,
+  "name": "Jobu-Ki",
+  "source_url": "https://www.igdb.com/games/jobu-ki",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgl2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jobu-Ki",
+      "os": null,
+      "method": "steam",
+      "launch_id": "993290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/993290",
+        "Linux": "setsid steam steam://rungameid/993290",
+        "macOS": "open steam://rungameid/993290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jobu-ki",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113147"
+}
