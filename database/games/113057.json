@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113057,
+  "name": "More and More",
+  "source_url": "https://www.igdb.com/games/more-and-more",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p53.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "More and More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989370",
+        "Linux": "setsid steam steam://rungameid/989370",
+        "macOS": "open steam://rungameid/989370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "more-and-more",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113057"
+}
