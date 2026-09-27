@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110126,
+  "name": "Bulletgrounds",
+  "source_url": "https://www.igdb.com/games/bulletgrounds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpw6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bulletgrounds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "911380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/911380",
+        "Linux": "setsid steam steam://rungameid/911380",
+        "macOS": "open steam://rungameid/911380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bulletgrounds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110126"
+}
