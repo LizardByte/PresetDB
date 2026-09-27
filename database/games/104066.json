@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104066,
+  "name": "Trago",
+  "source_url": "https://www.igdb.com/games/trago",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6mt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trago",
+      "os": null,
+      "method": "steam",
+      "launch_id": "869080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/869080",
+        "Linux": "setsid steam steam://rungameid/869080",
+        "macOS": "open steam://rungameid/869080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trago",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104066"
+}
