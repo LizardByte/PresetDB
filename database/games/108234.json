@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108234,
+  "name": "One Jump Bomb",
+  "source_url": "https://www.igdb.com/games/one-jump-bomb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobglf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Jump Bomb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "876810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/876810",
+        "Linux": "setsid steam steam://rungameid/876810",
+        "macOS": "open steam://rungameid/876810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-jump-bomb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108234"
+}
