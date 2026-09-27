@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106804,
+  "name": "Robbotto",
+  "source_url": "https://www.igdb.com/games/robbotto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co27fc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robbotto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881190",
+        "Linux": "setsid steam steam://rungameid/881190",
+        "macOS": "open steam://rungameid/881190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robbotto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106804"
+}
