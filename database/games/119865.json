@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119865,
+  "name": "Gooberries",
+  "source_url": "https://www.igdb.com/games/gooberries",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2swu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gooberries",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1081070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1081070",
+        "Linux": "setsid steam steam://rungameid/1081070",
+        "macOS": "open steam://rungameid/1081070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gooberries",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119865"
+}
