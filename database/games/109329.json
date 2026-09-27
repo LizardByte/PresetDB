@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109329,
+  "name": "Farstorm",
+  "source_url": "https://www.igdb.com/games/farstorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfho.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farstorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923420",
+        "Linux": "setsid steam steam://rungameid/923420",
+        "macOS": "open steam://rungameid/923420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farstorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109329"
+}
