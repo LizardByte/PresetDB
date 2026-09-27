@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110633,
+  "name": "DotX",
+  "source_url": "https://www.igdb.com/games/dotx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4grf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DotX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "954420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/954420",
+        "Linux": "setsid steam steam://rungameid/954420",
+        "macOS": "open steam://rungameid/954420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dotx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110633"
+}
