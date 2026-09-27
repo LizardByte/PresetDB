@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111122,
+  "name": "Edge",
+  "source_url": "https://www.igdb.com/games/edge--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "963940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/963940",
+        "Linux": "setsid steam steam://rungameid/963940",
+        "macOS": "open steam://rungameid/963940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "edge--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111122"
+}
