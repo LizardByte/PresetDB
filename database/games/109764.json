@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109764,
+  "name": "Reignfall",
+  "source_url": "https://www.igdb.com/games/reignfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jqq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reignfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "935930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/935930",
+        "Linux": "setsid steam steam://rungameid/935930",
+        "macOS": "open steam://rungameid/935930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reignfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109764"
+}
