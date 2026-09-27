@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111072,
+  "name": "Alien War Girl",
+  "source_url": "https://www.igdb.com/games/alien-war-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobr4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien War Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964300",
+        "Linux": "setsid steam steam://rungameid/964300",
+        "macOS": "open steam://rungameid/964300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-war-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111072"
+}
