@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112670,
+  "name": "Saboteur!",
+  "source_url": "https://www.igdb.com/games/saboteur--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5arj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Saboteur!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "940150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/940150",
+        "Linux": "setsid steam steam://rungameid/940150",
+        "macOS": "open steam://rungameid/940150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "saboteur--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112670"
+}
