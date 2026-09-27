@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111670,
+  "name": "Psyia",
+  "source_url": "https://www.igdb.com/games/psyia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmt4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psyia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "578760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/578760",
+        "Linux": "setsid steam steam://rungameid/578760",
+        "macOS": "open steam://rungameid/578760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psyia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111670"
+}
