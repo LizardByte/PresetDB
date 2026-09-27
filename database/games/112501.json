@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112501,
+  "name": "Stackems",
+  "source_url": "https://www.igdb.com/games/stackems",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stackems",
+      "os": null,
+      "method": "steam",
+      "launch_id": "938040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/938040",
+        "Linux": "setsid steam steam://rungameid/938040",
+        "macOS": "open steam://rungameid/938040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stackems",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112501"
+}
