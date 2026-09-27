@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120156,
+  "name": "RoadRunner",
+  "source_url": "https://www.igdb.com/games/roadrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsr1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RoadRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1097940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1097940",
+        "Linux": "setsid steam steam://rungameid/1097940",
+        "macOS": "open steam://rungameid/1097940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roadrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120156"
+}
