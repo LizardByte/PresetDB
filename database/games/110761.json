@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110761,
+  "name": "The Finnish Virtual Art Gallery",
+  "source_url": "https://www.igdb.com/games/the-finnish-virtual-art-gallery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob726.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Finnish Virtual Art Gallery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "745450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/745450",
+        "Linux": "setsid steam steam://rungameid/745450",
+        "macOS": "open steam://rungameid/745450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-finnish-virtual-art-gallery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110761"
+}
