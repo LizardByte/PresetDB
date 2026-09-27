@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103591,
+  "name": "The Hand of Merlin",
+  "source_url": "https://www.igdb.com/games/the-hand-of-merlin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qtb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hand of Merlin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "600610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/600610",
+        "Linux": "setsid steam steam://rungameid/600610",
+        "macOS": "open steam://rungameid/600610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hand-of-merlin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103591"
+}
