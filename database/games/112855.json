@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112855,
+  "name": "Knights Rubbish",
+  "source_url": "https://www.igdb.com/games/knights-rubbish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobond.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knights Rubbish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "980440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/980440",
+        "Linux": "setsid steam steam://rungameid/980440",
+        "macOS": "open steam://rungameid/980440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knights-rubbish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112855"
+}
