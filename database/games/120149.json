@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120149,
+  "name": "Rest",
+  "source_url": "https://www.igdb.com/games/rest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89qt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1100320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1100320",
+        "Linux": "setsid steam steam://rungameid/1100320",
+        "macOS": "open steam://rungameid/1100320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120149"
+}
