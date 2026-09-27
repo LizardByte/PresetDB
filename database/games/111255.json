@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111255,
+  "name": "Mathel",
+  "source_url": "https://www.igdb.com/games/mathel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpwi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mathel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "933360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/933360",
+        "Linux": "setsid steam steam://rungameid/933360",
+        "macOS": "open steam://rungameid/933360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mathel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111255"
+}
