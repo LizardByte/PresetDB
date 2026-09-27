@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109317,
+  "name": "Escape the Labyrinth",
+  "source_url": "https://www.igdb.com/games/escape-the-labyrinth",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Labyrinth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "920450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/920450",
+        "Linux": "setsid steam steam://rungameid/920450",
+        "macOS": "open steam://rungameid/920450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-the-labyrinth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109317"
+}
