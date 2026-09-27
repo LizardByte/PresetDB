@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104180,
+  "name": "MultiBall",
+  "source_url": "https://www.igdb.com/games/multiball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfwb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MultiBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "877060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/877060",
+        "Linux": "setsid steam steam://rungameid/877060",
+        "macOS": "open steam://rungameid/877060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "multiball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104180"
+}
