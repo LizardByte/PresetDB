@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110679,
+  "name": "Inside Path",
+  "source_url": "https://www.igdb.com/games/inside-path",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Inside Path",
+      "os": null,
+      "method": "steam",
+      "launch_id": "946360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/946360",
+        "Linux": "setsid steam steam://rungameid/946360",
+        "macOS": "open steam://rungameid/946360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "inside-path",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110679"
+}
