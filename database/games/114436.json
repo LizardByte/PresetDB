@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114436,
+  "name": "Moot District",
+  "source_url": "https://www.igdb.com/games/moot-district",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobghd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moot District",
+      "os": null,
+      "method": "steam",
+      "launch_id": "992040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/992040",
+        "Linux": "setsid steam steam://rungameid/992040",
+        "macOS": "open steam://rungameid/992040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moot-district",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114436"
+}
