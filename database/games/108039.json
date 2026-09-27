@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108039,
+  "name": "Test Subject 901",
+  "source_url": "https://www.igdb.com/games/test-subject-901",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4303.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Test Subject 901",
+      "os": null,
+      "method": "steam",
+      "launch_id": "914450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/914450",
+        "Linux": "setsid steam steam://rungameid/914450",
+        "macOS": "open steam://rungameid/914450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "test-subject-901",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108039"
+}
