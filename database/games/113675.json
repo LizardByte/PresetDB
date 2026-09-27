@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113675,
+  "name": "Fun VR Farm",
+  "source_url": "https://www.igdb.com/games/fun-vr-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fun VR Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1007560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1007560",
+        "Linux": "setsid steam steam://rungameid/1007560",
+        "macOS": "open steam://rungameid/1007560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fun-vr-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113675"
+}
