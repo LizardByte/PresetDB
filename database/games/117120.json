@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 117120,
+  "name": "VeLM",
+  "source_url": "https://www.igdb.com/games/velm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblj4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VeLM",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1058600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1058600",
+        "Linux": "setsid steam steam://rungameid/1058600",
+        "macOS": "open steam://rungameid/1058600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "velm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=117120"
+}
