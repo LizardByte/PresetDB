@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108386,
+  "name": "Blood City",
+  "source_url": "https://www.igdb.com/games/blood-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfjo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blood City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922520",
+        "Linux": "setsid steam steam://rungameid/922520",
+        "macOS": "open steam://rungameid/922520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blood-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108386"
+}
