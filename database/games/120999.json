@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120999,
+  "name": "Boet Fighter",
+  "source_url": "https://www.igdb.com/games/boet-fighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mge.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boet Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1108350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1108350",
+        "Linux": "setsid steam steam://rungameid/1108350",
+        "macOS": "open steam://rungameid/1108350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boet-fighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120999"
+}
