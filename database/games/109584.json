@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109584,
+  "name": "This is Pool",
+  "source_url": "https://www.igdb.com/games/this-is-pool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ls.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This is Pool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1028320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1028320",
+        "Linux": "setsid steam steam://rungameid/1028320",
+        "macOS": "open steam://rungameid/1028320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-is-pool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109584"
+}
