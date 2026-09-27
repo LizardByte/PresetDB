@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113284,
+  "name": "PsyShift",
+  "source_url": "https://www.igdb.com/games/psyshift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coas9d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PsyShift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989210",
+        "Linux": "setsid steam steam://rungameid/989210",
+        "macOS": "open steam://rungameid/989210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psyshift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113284"
+}
