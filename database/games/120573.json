@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120573,
+  "name": "DunkRatz",
+  "source_url": "https://www.igdb.com/games/dunkratz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DunkRatz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1090960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1090960",
+        "Linux": "setsid steam steam://rungameid/1090960",
+        "macOS": "open steam://rungameid/1090960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dunkratz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120573"
+}
