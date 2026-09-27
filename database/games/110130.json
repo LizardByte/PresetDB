@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110130,
+  "name": "Rascals",
+  "source_url": "https://www.igdb.com/games/rascals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ya5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rascals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "916120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/916120",
+        "Linux": "setsid steam steam://rungameid/916120",
+        "macOS": "open steam://rungameid/916120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rascals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110130"
+}
