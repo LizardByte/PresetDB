@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 103640,
+  "name": "Freebot : Battle for FreeWeb",
+  "source_url": "https://www.igdb.com/games/freebot-battle-for-freeweb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgjs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freebot : Battle for FreeWeb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "873790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/873790",
+        "Linux": "setsid steam steam://rungameid/873790",
+        "macOS": "open steam://rungameid/873790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freebot-battle-for-freeweb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=103640"
+}
