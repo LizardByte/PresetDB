@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112825,
+  "name": "Gizmo",
+  "source_url": "https://www.igdb.com/games/gizmo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co23zm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gizmo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "979260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/979260",
+        "Linux": "setsid steam steam://rungameid/979260",
+        "macOS": "open steam://rungameid/979260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gizmo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112825"
+}
