@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 114545,
+  "name": "Élan Vital",
+  "source_url": "https://www.igdb.com/games/elan-vital",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Élan Vital",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1017690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1017690",
+        "Linux": "setsid steam steam://rungameid/1017690",
+        "macOS": "open steam://rungameid/1017690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elan-vital",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=114545"
+}
