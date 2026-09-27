@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111358,
+  "name": "Wildbus",
+  "source_url": "https://www.igdb.com/games/wildbus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1q4c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wildbus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "818360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/818360",
+        "Linux": "setsid steam steam://rungameid/818360",
+        "macOS": "open steam://rungameid/818360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wildbus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111358"
+}
