@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 106150,
+  "name": "Cardpocalypse",
+  "source_url": "https://www.igdb.com/games/cardpocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uqu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cardpocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904400",
+        "Linux": "setsid steam steam://rungameid/904400",
+        "macOS": "open steam://rungameid/904400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cardpocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=106150"
+}
