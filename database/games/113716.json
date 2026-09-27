@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113716,
+  "name": "The Wizard's Tower",
+  "source_url": "https://www.igdb.com/games/the-wizards-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wizard's Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "971740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/971740",
+        "Linux": "setsid steam steam://rungameid/971740",
+        "macOS": "open steam://rungameid/971740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-wizards-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113716"
+}
