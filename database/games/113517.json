@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113517,
+  "name": "Show Me the Way",
+  "source_url": "https://www.igdb.com/games/show-me-the-way",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobna3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Show Me the Way",
+      "os": null,
+      "method": "steam",
+      "launch_id": "995580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/995580",
+        "Linux": "setsid steam steam://rungameid/995580",
+        "macOS": "open steam://rungameid/995580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "show-me-the-way",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113517"
+}
