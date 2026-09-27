@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110164,
+  "name": "DreadOut 2",
+  "source_url": "https://www.igdb.com/games/dreadout-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zzt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DreadOut 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "945710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/945710",
+        "Linux": "setsid steam steam://rungameid/945710",
+        "macOS": "open steam://rungameid/945710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dreadout-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110164"
+}
