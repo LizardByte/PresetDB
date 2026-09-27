@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 104934,
+  "name": "Two Wars",
+  "source_url": "https://www.igdb.com/games/two-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ca.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Two Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "889210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/889210",
+        "Linux": "setsid steam steam://rungameid/889210",
+        "macOS": "open steam://rungameid/889210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "two-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=104934"
+}
