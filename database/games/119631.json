@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119631,
+  "name": "Pixel Life",
+  "source_url": "https://www.igdb.com/games/pixel-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblih.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "997640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/997640",
+        "Linux": "setsid steam steam://rungameid/997640",
+        "macOS": "open steam://rungameid/997640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119631"
+}
