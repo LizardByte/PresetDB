@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 105196,
+  "name": "Don't Notice Me",
+  "source_url": "https://www.igdb.com/games/dont-notice-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wtl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Notice Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "859740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/859740",
+        "Linux": "setsid steam steam://rungameid/859740",
+        "macOS": "open steam://rungameid/859740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-notice-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=105196"
+}
