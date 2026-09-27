@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113776,
+  "name": "Unknown",
+  "source_url": "https://www.igdb.com/games/unknown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnv3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unknown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "996730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/996730",
+        "Linux": "setsid steam steam://rungameid/996730",
+        "macOS": "open steam://rungameid/996730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unknown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113776"
+}
