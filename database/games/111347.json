@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 111347,
+  "name": "Moreau",
+  "source_url": "https://www.igdb.com/games/moreau",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moreau",
+      "os": null,
+      "method": "steam",
+      "launch_id": "965910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/965910",
+        "Linux": "setsid steam steam://rungameid/965910",
+        "macOS": "open steam://rungameid/965910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moreau",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=111347"
+}
