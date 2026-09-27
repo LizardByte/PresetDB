@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118589,
+  "name": "First Day",
+  "source_url": "https://www.igdb.com/games/first-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ah7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "First Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1067810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1067810",
+        "Linux": "setsid steam steam://rungameid/1067810",
+        "macOS": "open steam://rungameid/1067810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "first-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118589"
+}
