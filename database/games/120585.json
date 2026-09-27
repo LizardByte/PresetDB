@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120585,
+  "name": "Survival or die",
+  "source_url": "https://www.igdb.com/games/survival-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsj4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Survival or die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1110290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1110290",
+        "Linux": "setsid steam steam://rungameid/1110290",
+        "macOS": "open steam://rungameid/1110290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "survival-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120585"
+}
