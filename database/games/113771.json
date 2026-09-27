@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 113771,
+  "name": "Highrisers",
+  "source_url": "https://www.igdb.com/games/highrisers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Highrisers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "733820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/733820",
+        "Linux": "setsid steam steam://rungameid/733820",
+        "macOS": "open steam://rungameid/733820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "highrisers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=113771"
+}
