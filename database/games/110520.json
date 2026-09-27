@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 110520,
+  "name": "Warrior Fighter",
+  "source_url": "https://www.igdb.com/games/warrior-fighter",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warrior Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "941670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/941670",
+        "Linux": "setsid steam steam://rungameid/941670",
+        "macOS": "open steam://rungameid/941670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warrior-fighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=110520"
+}
