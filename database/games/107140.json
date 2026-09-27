@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107140,
+  "name": "Othercide",
+  "source_url": "https://www.igdb.com/games/othercide",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zv5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Othercide",
+      "os": null,
+      "method": "steam",
+      "launch_id": "798490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/798490",
+        "Linux": "setsid steam steam://rungameid/798490",
+        "macOS": "open steam://rungameid/798490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "othercide",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107140"
+}
