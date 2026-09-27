@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112358,
+  "name": "8 Queens",
+  "source_url": "https://www.igdb.com/games/8-queens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpwy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "8 Queens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "982860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/982860",
+        "Linux": "setsid steam steam://rungameid/982860",
+        "macOS": "open steam://rungameid/982860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "8-queens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112358"
+}
