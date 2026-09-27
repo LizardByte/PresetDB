@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 119273,
+  "name": "Shadows of Doubt",
+  "source_url": "https://www.igdb.com/games/shadows-of-doubt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bat.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadows of Doubt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "986130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/986130",
+        "Linux": "setsid steam steam://rungameid/986130",
+        "macOS": "open steam://rungameid/986130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadows-of-doubt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=119273"
+}
