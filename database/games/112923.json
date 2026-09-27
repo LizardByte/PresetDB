@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112923,
+  "name": "Weyrwood",
+  "source_url": "https://www.igdb.com/games/weyrwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbfn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Weyrwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955370",
+        "Linux": "setsid steam steam://rungameid/955370",
+        "macOS": "open steam://rungameid/955370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "weyrwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112923"
+}
