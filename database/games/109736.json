@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 109736,
+  "name": "Beach Pong",
+  "source_url": "https://www.igdb.com/games/beach-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfmq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beach Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "939930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/939930",
+        "Linux": "setsid steam steam://rungameid/939930",
+        "macOS": "open steam://rungameid/939930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beach-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=109736"
+}
