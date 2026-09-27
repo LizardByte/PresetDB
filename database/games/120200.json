@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120200,
+  "name": "Mighty Switch Force! Collection",
+  "source_url": "https://www.igdb.com/games/mighty-switch-force-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8y4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mighty Switch Force! Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "832320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/832320",
+        "Linux": "setsid steam steam://rungameid/832320",
+        "macOS": "open steam://rungameid/832320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mighty-switch-force-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120200"
+}
