@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115268,
+  "name": "Bunny Beats",
+  "source_url": "https://www.igdb.com/games/bunny-beats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48tz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Beats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "917640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/917640",
+        "Linux": "setsid steam steam://rungameid/917640",
+        "macOS": "open steam://rungameid/917640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunny-beats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115268"
+}
