@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 116748,
+  "name": "TaikoVR",
+  "source_url": "https://www.igdb.com/games/taikovr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl4w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TaikoVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1028540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1028540",
+        "Linux": "setsid steam steam://rungameid/1028540",
+        "macOS": "open steam://rungameid/1028540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "taikovr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=116748"
+}
