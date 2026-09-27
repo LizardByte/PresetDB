@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 118250,
+  "name": "Blocksplode",
+  "source_url": "https://www.igdb.com/games/blocksplode",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3me1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blocksplode",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1049870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1049870",
+        "Linux": "setsid steam steam://rungameid/1049870",
+        "macOS": "open steam://rungameid/1049870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blocksplode",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=118250"
+}
