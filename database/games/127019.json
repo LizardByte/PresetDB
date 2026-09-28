@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127019,
+  "name": "West Sweety",
+  "source_url": "https://www.igdb.com/games/west-sweety",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n41.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "West Sweety",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1186400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1186400",
+        "Linux": "setsid steam steam://rungameid/1186400",
+        "macOS": "open steam://rungameid/1186400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "west-sweety",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127019"
+}
