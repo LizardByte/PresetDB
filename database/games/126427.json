@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126427,
+  "name": "Lavender",
+  "source_url": "https://www.igdb.com/games/lavender",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qje.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lavender",
+      "os": null,
+      "method": "steam",
+      "launch_id": "886710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/886710",
+        "Linux": "setsid steam steam://rungameid/886710",
+        "macOS": "open steam://rungameid/886710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lavender",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126427"
+}
