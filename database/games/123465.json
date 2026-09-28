@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123465,
+  "name": "Android Helipad",
+  "source_url": "https://www.igdb.com/games/android-helipad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lhq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Android Helipad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1124310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1124310",
+        "Linux": "setsid steam steam://rungameid/1124310",
+        "macOS": "open steam://rungameid/1124310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "android-helipad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123465"
+}
