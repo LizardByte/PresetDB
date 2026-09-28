@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128333,
+  "name": "Alchemelee",
+  "source_url": "https://www.igdb.com/games/alchemelee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ljn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alchemelee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1206590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1206590",
+        "Linux": "setsid steam steam://rungameid/1206590",
+        "macOS": "open steam://rungameid/1206590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alchemelee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128333"
+}
