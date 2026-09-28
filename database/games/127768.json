@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127768,
+  "name": "Zom Nom",
+  "source_url": "https://www.igdb.com/games/zom-nom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xfv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zom Nom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1193070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1193070",
+        "Linux": "setsid steam steam://rungameid/1193070",
+        "macOS": "open steam://rungameid/1193070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zom-nom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127768"
+}
