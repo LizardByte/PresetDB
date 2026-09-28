@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123866,
+  "name": "Barro 2020",
+  "source_url": "https://www.igdb.com/games/barro-2020",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1slh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Barro 2020",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1168660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1168660",
+        "Linux": "setsid steam steam://rungameid/1168660",
+        "macOS": "open steam://rungameid/1168660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "barro-2020",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123866"
+}
