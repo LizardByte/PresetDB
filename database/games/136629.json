@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 136629,
+  "name": "Pastel",
+  "source_url": "https://www.igdb.com/games/pastel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2exp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pastel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1219000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1219000",
+        "Linux": "setsid steam steam://rungameid/1219000",
+        "macOS": "open steam://rungameid/1219000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pastel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=136629"
+}
