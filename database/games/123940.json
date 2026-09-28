@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123940,
+  "name": "1984 Rewired",
+  "source_url": "https://www.igdb.com/games/1984-rewired",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3kr1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1984 Rewired",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1151580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1151580",
+        "Linux": "setsid steam steam://rungameid/1151580",
+        "macOS": "open steam://rungameid/1151580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "1984-rewired",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123940"
+}
