@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130081,
+  "name": "Elizabeth",
+  "source_url": "https://www.igdb.com/games/elizabeth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zto.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elizabeth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1202660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1202660",
+        "Linux": "setsid steam steam://rungameid/1202660",
+        "macOS": "open steam://rungameid/1202660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elizabeth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130081"
+}
