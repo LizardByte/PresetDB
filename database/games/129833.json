@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129833,
+  "name": "Zup! F",
+  "source_url": "https://www.igdb.com/games/zup-f",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2i01.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zup! F",
+      "os": null,
+      "method": "steam",
+      "launch_id": "601220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/601220",
+        "Linux": "setsid steam steam://rungameid/601220",
+        "macOS": "open steam://rungameid/601220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zup-f",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129833"
+}
