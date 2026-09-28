@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121080,
+  "name": "Silenced",
+  "source_url": "https://www.igdb.com/games/silenced",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47c6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silenced",
+      "os": null,
+      "method": "steam",
+      "launch_id": "988960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/988960",
+        "Linux": "setsid steam steam://rungameid/988960",
+        "macOS": "open steam://rungameid/988960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silenced",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121080"
+}
