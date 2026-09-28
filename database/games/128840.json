@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128840,
+  "name": "Escape the Manor",
+  "source_url": "https://www.igdb.com/games/escape-the-manor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lpy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Manor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1225710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1225710",
+        "Linux": "setsid steam steam://rungameid/1225710",
+        "macOS": "open steam://rungameid/1225710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-the-manor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128840"
+}
