@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125698,
+  "name": "Moofa",
+  "source_url": "https://www.igdb.com/games/moofa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p4l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moofa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1125290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1125290",
+        "Linux": "setsid steam steam://rungameid/1125290",
+        "macOS": "open steam://rungameid/1125290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moofa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125698"
+}
