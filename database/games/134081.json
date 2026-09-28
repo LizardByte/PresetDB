@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 134081,
+  "name": "Disc Party",
+  "source_url": "https://www.igdb.com/games/disc-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2706.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disc Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1310690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1310690",
+        "Linux": "setsid steam steam://rungameid/1310690",
+        "macOS": "open steam://rungameid/1310690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "disc-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=134081"
+}
