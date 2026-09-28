@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132302,
+  "name": "Go Kart Run!",
+  "source_url": "https://www.igdb.com/games/go-kart-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41d9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Kart Run!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1275540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1275540",
+        "Linux": "setsid steam steam://rungameid/1275540",
+        "macOS": "open steam://rungameid/1275540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-kart-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132302"
+}
