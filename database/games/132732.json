@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132732,
+  "name": "Memoria",
+  "source_url": "https://www.igdb.com/games/memoria--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hok.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Memoria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "930410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/930410",
+        "Linux": "setsid steam steam://rungameid/930410",
+        "macOS": "open steam://rungameid/930410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "memoria--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132732"
+}
