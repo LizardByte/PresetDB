@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123550,
+  "name": "Timmy's adventures : VerbMon",
+  "source_url": "https://www.igdb.com/games/timmys-adventures-verbmon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44os.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Timmy's adventures : VerbMon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1152570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1152570",
+        "Linux": "setsid steam steam://rungameid/1152570",
+        "macOS": "open steam://rungameid/1152570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "timmys-adventures-verbmon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123550"
+}
