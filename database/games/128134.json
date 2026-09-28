@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128134,
+  "name": "Melody Flight",
+  "source_url": "https://www.igdb.com/games/melody-flight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xa9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Melody Flight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "980360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/980360",
+        "Linux": "setsid steam steam://rungameid/980360",
+        "macOS": "open steam://rungameid/980360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "melody-flight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128134"
+}
