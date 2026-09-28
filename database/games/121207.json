@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121207,
+  "name": "The Stars Between Us",
+  "source_url": "https://www.igdb.com/games/the-stars-between-us",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wvy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Stars Between Us",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1083380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1083380",
+        "Linux": "setsid steam steam://rungameid/1083380",
+        "macOS": "open steam://rungameid/1083380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-stars-between-us",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121207"
+}
