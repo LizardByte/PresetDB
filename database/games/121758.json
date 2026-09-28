@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121758,
+  "name": "Comanche",
+  "source_url": "https://www.igdb.com/games/comanche",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m6t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Comanche",
+      "os": null,
+      "method": "steam",
+      "launch_id": "879000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/879000",
+        "Linux": "setsid steam steam://rungameid/879000",
+        "macOS": "open steam://rungameid/879000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "comanche",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121758"
+}
