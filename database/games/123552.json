@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123552,
+  "name": "Last Chance VR",
+  "source_url": "https://www.igdb.com/games/last-chance-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co455v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Chance VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1151860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1151860",
+        "Linux": "setsid steam steam://rungameid/1151860",
+        "macOS": "open steam://rungameid/1151860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-chance-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123552"
+}
