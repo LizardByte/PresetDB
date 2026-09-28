@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137444,
+  "name": "Alchemist Adventure",
+  "source_url": "https://www.igdb.com/games/alchemist-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2peu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alchemist Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "521620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/521620",
+        "Linux": "setsid steam steam://rungameid/521620",
+        "macOS": "open steam://rungameid/521620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alchemist-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137444"
+}
