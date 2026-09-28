@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133049,
+  "name": "Night Spasm",
+  "source_url": "https://www.igdb.com/games/night-spasm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q5h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night Spasm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1291100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1291100",
+        "Linux": "setsid steam steam://rungameid/1291100",
+        "macOS": "open steam://rungameid/1291100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "night-spasm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133049"
+}
