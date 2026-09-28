@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138512,
+  "name": "It Steals",
+  "source_url": "https://www.igdb.com/games/it-steals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46gq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It Steals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1349060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1349060",
+        "Linux": "setsid steam steam://rungameid/1349060",
+        "macOS": "open steam://rungameid/1349060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "it-steals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138512"
+}
