@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129518,
+  "name": "ElecHead",
+  "source_url": "https://www.igdb.com/games/elechead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zcx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ElecHead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1456880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1456880",
+        "Linux": "setsid steam steam://rungameid/1456880",
+        "macOS": "open steam://rungameid/1456880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elechead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129518"
+}
