@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128993,
+  "name": "Brain vs Zombies",
+  "source_url": "https://www.igdb.com/games/brain-vs-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brain vs Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1214930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1214930",
+        "Linux": "setsid steam steam://rungameid/1214930",
+        "macOS": "open steam://rungameid/1214930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brain-vs-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128993"
+}
