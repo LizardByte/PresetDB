@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130958,
+  "name": "Gamedev simulator",
+  "source_url": "https://www.igdb.com/games/gamedev-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4168.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gamedev simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1195550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1195550",
+        "Linux": "setsid steam steam://rungameid/1195550",
+        "macOS": "open steam://rungameid/1195550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gamedev-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130958"
+}
