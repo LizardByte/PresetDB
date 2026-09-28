@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128843,
+  "name": "Birds Are Real",
+  "source_url": "https://www.igdb.com/games/birds-are-real",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ll4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Birds Are Real",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1218400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1218400",
+        "Linux": "setsid steam steam://rungameid/1218400",
+        "macOS": "open steam://rungameid/1218400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "birds-are-real",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128843"
+}
