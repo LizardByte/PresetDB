@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130219,
+  "name": "Total Madness",
+  "source_url": "https://www.igdb.com/games/total-madness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20mx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Total Madness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1245300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1245300",
+        "Linux": "setsid steam steam://rungameid/1245300",
+        "macOS": "open steam://rungameid/1245300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "total-madness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130219"
+}
