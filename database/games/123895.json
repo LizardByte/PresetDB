@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123895,
+  "name": "Santa's Visit",
+  "source_url": "https://www.igdb.com/games/santas-visit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40sq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Santa's Visit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1155810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1155810",
+        "Linux": "setsid steam steam://rungameid/1155810",
+        "macOS": "open steam://rungameid/1155810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "santas-visit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123895"
+}
