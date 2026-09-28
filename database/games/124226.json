@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124226,
+  "name": "SwarmZ",
+  "source_url": "https://www.igdb.com/games/swarmz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ri7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SwarmZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1174720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1174720",
+        "Linux": "setsid steam steam://rungameid/1174720",
+        "macOS": "open steam://rungameid/1174720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swarmz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124226"
+}
