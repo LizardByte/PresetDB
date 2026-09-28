@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121739,
+  "name": "RoboCo",
+  "source_url": "https://www.igdb.com/games/roboco",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2i5l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RoboCo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1067220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1067220",
+        "Linux": "setsid steam steam://rungameid/1067220",
+        "macOS": "open steam://rungameid/1067220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roboco",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121739"
+}
