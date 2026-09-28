@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125588,
+  "name": "Red Frost",
+  "source_url": "https://www.igdb.com/games/red-frost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2dlv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Frost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1179020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1179020",
+        "Linux": "setsid steam steam://rungameid/1179020",
+        "macOS": "open steam://rungameid/1179020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-frost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125588"
+}
