@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137829,
+  "name": "Fatal Core",
+  "source_url": "https://www.igdb.com/games/fatal-core",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ikn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fatal Core",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1578050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1578050",
+        "Linux": "setsid steam steam://rungameid/1578050",
+        "macOS": "open steam://rungameid/1578050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fatal-core",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137829"
+}
