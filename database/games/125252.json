@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125252,
+  "name": "House of Golf",
+  "source_url": "https://www.igdb.com/games/house-of-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43dt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "House of Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1195440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1195440",
+        "Linux": "setsid steam steam://rungameid/1195440",
+        "macOS": "open steam://rungameid/1195440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "house-of-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125252"
+}
