@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126566,
+  "name": "Forbidden Ingress",
+  "source_url": "https://www.igdb.com/games/forbidden-ingress",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xp9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forbidden Ingress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1175200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1175200",
+        "Linux": "setsid steam steam://rungameid/1175200",
+        "macOS": "open steam://rungameid/1175200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forbidden-ingress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126566"
+}
