@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132613,
+  "name": "Warshmallows",
+  "source_url": "https://www.igdb.com/games/warshmallows",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s1h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warshmallows",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1248150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1248150",
+        "Linux": "setsid steam steam://rungameid/1248150",
+        "macOS": "open steam://rungameid/1248150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warshmallows",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132613"
+}
