@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127715,
+  "name": "Grayland",
+  "source_url": "https://www.igdb.com/games/grayland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m87.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grayland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "297190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/297190",
+        "Linux": "setsid steam steam://rungameid/297190",
+        "macOS": "open steam://rungameid/297190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grayland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127715"
+}
