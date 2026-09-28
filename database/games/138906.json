@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138906,
+  "name": "The Invincible",
+  "source_url": "https://www.igdb.com/games/the-invincible",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61ol.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Invincible",
+      "os": null,
+      "method": "steam",
+      "launch_id": "731040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/731040",
+        "Linux": "setsid steam steam://rungameid/731040",
+        "macOS": "open steam://rungameid/731040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-invincible",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138906"
+}
