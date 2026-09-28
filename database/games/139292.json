@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139292,
+  "name": "Black Baby",
+  "source_url": "https://www.igdb.com/games/black-baby",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hna.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Baby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1521110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1521110",
+        "Linux": "setsid steam steam://rungameid/1521110",
+        "macOS": "open steam://rungameid/1521110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "black-baby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139292"
+}
