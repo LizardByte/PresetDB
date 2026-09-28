@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123565,
+  "name": "Dead Simple 21",
+  "source_url": "https://www.igdb.com/games/dead-simple-21",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gqp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Simple 21",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1156330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1156330",
+        "Linux": "setsid steam steam://rungameid/1156330",
+        "macOS": "open steam://rungameid/1156330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-simple-21",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123565"
+}
