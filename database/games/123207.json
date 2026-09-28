@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123207,
+  "name": "Lethal Wedding",
+  "source_url": "https://www.igdb.com/games/lethal-wedding",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc61j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lethal Wedding",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4624120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4624120",
+        "Linux": "setsid steam steam://rungameid/4624120",
+        "macOS": "open steam://rungameid/4624120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lethal-wedding",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123207"
+}
