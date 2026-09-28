@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127000,
+  "name": "Hope's Farm",
+  "source_url": "https://www.igdb.com/games/hopes-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43c3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hope's Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1199900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1199900",
+        "Linux": "setsid steam steam://rungameid/1199900",
+        "macOS": "open steam://rungameid/1199900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hopes-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127000"
+}
