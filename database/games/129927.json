@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129927,
+  "name": "Heavy load",
+  "source_url": "https://www.igdb.com/games/heavy-load",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heavy load",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1184360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1184360",
+        "Linux": "setsid steam steam://rungameid/1184360",
+        "macOS": "open steam://rungameid/1184360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heavy-load",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129927"
+}
