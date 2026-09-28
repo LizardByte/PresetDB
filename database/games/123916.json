@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123916,
+  "name": "Legion 51",
+  "source_url": "https://www.igdb.com/games/legion-51",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co458j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legion 51",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1158280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1158280",
+        "Linux": "setsid steam steam://rungameid/1158280",
+        "macOS": "open steam://rungameid/1158280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legion-51",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123916"
+}
