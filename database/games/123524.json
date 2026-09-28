@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123524,
+  "name": "Sword of the Slayer",
+  "source_url": "https://www.igdb.com/games/sword-of-the-slayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42t7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sword of the Slayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1152050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1152050",
+        "Linux": "setsid steam steam://rungameid/1152050",
+        "macOS": "open steam://rungameid/1152050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sword-of-the-slayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123524"
+}
