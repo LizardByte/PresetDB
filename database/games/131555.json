@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131555,
+  "name": "Uniseas",
+  "source_url": "https://www.igdb.com/games/uniseas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1zxx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uniseas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1229250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1229250",
+        "Linux": "setsid steam steam://rungameid/1229250",
+        "macOS": "open steam://rungameid/1229250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "uniseas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131555"
+}
