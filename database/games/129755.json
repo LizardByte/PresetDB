@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129755,
+  "name": "Dead Cubes",
+  "source_url": "https://www.igdb.com/games/dead-cubes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lo1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Cubes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1238320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1238320",
+        "Linux": "setsid steam steam://rungameid/1238320",
+        "macOS": "open steam://rungameid/1238320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-cubes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129755"
+}
