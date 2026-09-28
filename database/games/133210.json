@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133210,
+  "name": "Stanga",
+  "source_url": "https://www.igdb.com/games/stanga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co420z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stanga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1248670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1248670",
+        "Linux": "setsid steam steam://rungameid/1248670",
+        "macOS": "open steam://rungameid/1248670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stanga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133210"
+}
