@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133301,
+  "name": "Dirt 5",
+  "source_url": "https://www.igdb.com/games/dirt-5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2e5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dirt 5",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1038250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1038250",
+        "Linux": "setsid steam steam://rungameid/1038250",
+        "macOS": "open steam://rungameid/1038250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dirt-5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133301"
+}
