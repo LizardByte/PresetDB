@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121017,
+  "name": "RollerPlay",
+  "source_url": "https://www.igdb.com/games/rollerplay",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sky.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RollerPlay",
+      "os": null,
+      "method": "steam",
+      "launch_id": "924660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/924660",
+        "Linux": "setsid steam steam://rungameid/924660",
+        "macOS": "open steam://rungameid/924660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rollerplay",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121017"
+}
