@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133355,
+  "name": "XenovaderS",
+  "source_url": "https://www.igdb.com/games/xenovaders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l94.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "XenovaderS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1222980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1222980",
+        "Linux": "setsid steam steam://rungameid/1222980",
+        "macOS": "open steam://rungameid/1222980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xenovaders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133355"
+}
