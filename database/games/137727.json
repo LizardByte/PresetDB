@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137727,
+  "name": "Clay Game",
+  "source_url": "https://www.igdb.com/games/clay-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2prb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clay Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1276100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1276100",
+        "Linux": "setsid steam steam://rungameid/1276100",
+        "macOS": "open steam://rungameid/1276100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clay-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137727"
+}
