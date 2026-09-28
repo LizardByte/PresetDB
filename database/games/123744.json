@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123744,
+  "name": "Cat & Mouse",
+  "source_url": "https://www.igdb.com/games/cat-and-mouse--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3my7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat & Mouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1137040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1137040",
+        "Linux": "setsid steam steam://rungameid/1137040",
+        "macOS": "open steam://rungameid/1137040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-and-mouse--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123744"
+}
