@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121899,
+  "name": "The Dealer",
+  "source_url": "https://www.igdb.com/games/the-dealer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43pi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dealer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "977410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/977410",
+        "Linux": "setsid steam steam://rungameid/977410",
+        "macOS": "open steam://rungameid/977410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-dealer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121899"
+}
