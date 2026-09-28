@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130858,
+  "name": "Goose.io",
+  "source_url": "https://www.igdb.com/games/goose-dot-io",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goose.io",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1176850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1176850",
+        "Linux": "setsid steam steam://rungameid/1176850",
+        "macOS": "open steam://rungameid/1176850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goose-dot-io",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130858"
+}
