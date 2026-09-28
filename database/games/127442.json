@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127442,
+  "name": "Buggy Bump",
+  "source_url": "https://www.igdb.com/games/buggy-bump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mmh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Buggy Bump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1152800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1152800",
+        "Linux": "setsid steam steam://rungameid/1152800",
+        "macOS": "open steam://rungameid/1152800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "buggy-bump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127442"
+}
