@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126809,
+  "name": "Paul's World",
+  "source_url": "https://www.igdb.com/games/pauls-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qvv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paul's World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1160880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1160880",
+        "Linux": "setsid steam steam://rungameid/1160880",
+        "macOS": "open steam://rungameid/1160880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pauls-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126809"
+}
