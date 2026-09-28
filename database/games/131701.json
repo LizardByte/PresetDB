@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131701,
+  "name": "Beyond Extinct",
+  "source_url": "https://www.igdb.com/games/beyond-extinct",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co204l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beyond Extinct",
+      "os": null,
+      "method": "steam",
+      "launch_id": "992990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/992990",
+        "Linux": "setsid steam steam://rungameid/992990",
+        "macOS": "open steam://rungameid/992990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beyond-extinct",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131701"
+}
