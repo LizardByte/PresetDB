@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139196,
+  "name": "Prodigal",
+  "source_url": "https://www.igdb.com/games/prodigal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2hf8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prodigal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1393820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1393820",
+        "Linux": "setsid steam steam://rungameid/1393820",
+        "macOS": "open steam://rungameid/1393820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prodigal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139196"
+}
