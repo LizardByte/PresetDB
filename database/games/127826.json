@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127826,
+  "name": "Herbalist Simulator",
+  "source_url": "https://www.igdb.com/games/herbalist-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42ce.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Herbalist Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1208090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1208090",
+        "Linux": "setsid steam steam://rungameid/1208090",
+        "macOS": "open steam://rungameid/1208090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "herbalist-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127826"
+}
