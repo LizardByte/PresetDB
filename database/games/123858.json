@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123858,
+  "name": "Drill Down",
+  "source_url": "https://www.igdb.com/games/drill-down",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drill Down",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1162350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1162350",
+        "Linux": "setsid steam steam://rungameid/1162350",
+        "macOS": "open steam://rungameid/1162350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drill-down",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123858"
+}
