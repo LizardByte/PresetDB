@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121322,
+  "name": "Obsurity",
+  "source_url": "https://www.igdb.com/games/obsurity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co215z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Obsurity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1125110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1125110",
+        "Linux": "setsid steam steam://rungameid/1125110",
+        "macOS": "open steam://rungameid/1125110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "obsurity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121322"
+}
