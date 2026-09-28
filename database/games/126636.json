@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126636,
+  "name": "Twinora",
+  "source_url": "https://www.igdb.com/games/twinora",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xbn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twinora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1178770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1178770",
+        "Linux": "setsid steam steam://rungameid/1178770",
+        "macOS": "open steam://rungameid/1178770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twinora",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126636"
+}
