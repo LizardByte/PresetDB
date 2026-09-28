@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121303,
+  "name": "FPSBois",
+  "source_url": "https://www.igdb.com/games/fpsbois",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zuz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FPSBois",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1031670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1031670",
+        "Linux": "setsid steam steam://rungameid/1031670",
+        "macOS": "open steam://rungameid/1031670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fpsbois",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121303"
+}
