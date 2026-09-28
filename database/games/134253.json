@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 134253,
+  "name": "Shuffs",
+  "source_url": "https://www.igdb.com/games/shuffs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co285f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shuffs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1345240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1345240",
+        "Linux": "setsid steam steam://rungameid/1345240",
+        "macOS": "open steam://rungameid/1345240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shuffs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=134253"
+}
