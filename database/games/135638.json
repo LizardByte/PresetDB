@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 135638,
+  "name": "Last Evil",
+  "source_url": "https://www.igdb.com/games/last-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2cbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "823910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/823910",
+        "Linux": "setsid steam steam://rungameid/823910",
+        "macOS": "open steam://rungameid/823910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=135638"
+}
