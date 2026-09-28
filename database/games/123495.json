@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123495,
+  "name": "Quilly",
+  "source_url": "https://www.igdb.com/games/quilly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqdj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quilly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1137630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1137630",
+        "Linux": "setsid steam steam://rungameid/1137630",
+        "macOS": "open steam://rungameid/1137630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quilly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123495"
+}
