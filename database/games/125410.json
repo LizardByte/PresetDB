@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125410,
+  "name": "I Wanna Maker",
+  "source_url": "https://www.igdb.com/games/i-wanna-maker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2bzw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Wanna Maker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1114940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1114940",
+        "Linux": "setsid steam steam://rungameid/1114940",
+        "macOS": "open steam://rungameid/1114940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-wanna-maker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125410"
+}
