@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123721,
+  "name": "Cuties Dungeon",
+  "source_url": "https://www.igdb.com/games/cuties-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cuties Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145770",
+        "Linux": "setsid steam steam://rungameid/1145770",
+        "macOS": "open steam://rungameid/1145770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cuties-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123721"
+}
