@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121290,
+  "name": "Warfork",
+  "source_url": "https://www.igdb.com/games/warfork",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1txl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warfork",
+      "os": null,
+      "method": "steam",
+      "launch_id": "671610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/671610",
+        "Linux": "setsid steam steam://rungameid/671610",
+        "macOS": "open steam://rungameid/671610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warfork",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121290"
+}
