@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123718,
+  "name": "Kastle Krush",
+  "source_url": "https://www.igdb.com/games/kastle-krush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44fr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kastle Krush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145590",
+        "Linux": "setsid steam steam://rungameid/1145590",
+        "macOS": "open steam://rungameid/1145590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kastle-krush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123718"
+}
