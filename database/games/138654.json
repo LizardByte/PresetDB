@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138654,
+  "name": "Gone Golfing",
+  "source_url": "https://www.igdb.com/games/gone-golfing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49mq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gone Golfing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1359900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1359900",
+        "Linux": "setsid steam steam://rungameid/1359900",
+        "macOS": "open steam://rungameid/1359900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gone-golfing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138654"
+}
