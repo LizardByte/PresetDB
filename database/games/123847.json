@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123847,
+  "name": "Dungeon Chest",
+  "source_url": "https://www.igdb.com/games/dungeon-chest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p8j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Chest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1161550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1161550",
+        "Linux": "setsid steam steam://rungameid/1161550",
+        "macOS": "open steam://rungameid/1161550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-chest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123847"
+}
