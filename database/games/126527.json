@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126527,
+  "name": "Favo!+",
+  "source_url": "https://www.igdb.com/games/favo-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zmb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Favo!+",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1107510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1107510",
+        "Linux": "setsid steam steam://rungameid/1107510",
+        "macOS": "open steam://rungameid/1107510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "favo-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126527"
+}
