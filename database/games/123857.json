@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123857,
+  "name": "Earthlings Must Die",
+  "source_url": "https://www.igdb.com/games/earthlings-must-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pq5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Earthlings Must Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1162330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1162330",
+        "Linux": "setsid steam steam://rungameid/1162330",
+        "macOS": "open steam://rungameid/1162330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "earthlings-must-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123857"
+}
