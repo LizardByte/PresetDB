@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127615,
+  "name": "The Last Haven",
+  "source_url": "https://www.igdb.com/games/the-last-haven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43wc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Haven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1203930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1203930",
+        "Linux": "setsid steam steam://rungameid/1203930",
+        "macOS": "open steam://rungameid/1203930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-haven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127615"
+}
