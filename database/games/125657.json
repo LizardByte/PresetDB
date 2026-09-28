@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125657,
+  "name": "Cybermonk",
+  "source_url": "https://www.igdb.com/games/cybermonk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o0a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cybermonk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1174280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1174280",
+        "Linux": "setsid steam steam://rungameid/1174280",
+        "macOS": "open steam://rungameid/1174280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cybermonk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125657"
+}
