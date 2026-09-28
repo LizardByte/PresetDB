@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123898,
+  "name": "Galatic Management",
+  "source_url": "https://www.igdb.com/games/galatic-management",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3aad.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galatic Management",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1156910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1156910",
+        "Linux": "setsid steam steam://rungameid/1156910",
+        "macOS": "open steam://rungameid/1156910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galatic-management",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123898"
+}
