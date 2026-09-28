@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127801,
+  "name": "VolticPistol",
+  "source_url": "https://www.igdb.com/games/volticpistol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ost.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VolticPistol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1143570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1143570",
+        "Linux": "setsid steam steam://rungameid/1143570",
+        "macOS": "open steam://rungameid/1143570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "volticpistol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127801"
+}
