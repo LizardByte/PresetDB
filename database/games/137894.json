@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137894,
+  "name": "Roboquest",
+  "source_url": "https://www.igdb.com/games/roboquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9r1v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roboquest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "692890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/692890",
+        "Linux": "setsid steam steam://rungameid/692890",
+        "macOS": "open steam://rungameid/692890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roboquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137894"
+}
