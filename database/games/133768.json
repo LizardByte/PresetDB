@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133768,
+  "name": "Godlike",
+  "source_url": "https://www.igdb.com/games/godlike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q90.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Godlike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1597350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1597350",
+        "Linux": "setsid steam steam://rungameid/1597350",
+        "macOS": "open steam://rungameid/1597350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "godlike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133768"
+}
