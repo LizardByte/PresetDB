@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126159,
+  "name": "LoliTower",
+  "source_url": "https://www.igdb.com/games/lolitower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45dz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LoliTower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1160780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1160780",
+        "Linux": "setsid steam steam://rungameid/1160780",
+        "macOS": "open steam://rungameid/1160780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lolitower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126159"
+}
