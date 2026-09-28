@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128144,
+  "name": "Ruinic",
+  "source_url": "https://www.igdb.com/games/ruinic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pcg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ruinic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "984980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/984980",
+        "Linux": "setsid steam steam://rungameid/984980",
+        "macOS": "open steam://rungameid/984980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ruinic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128144"
+}
