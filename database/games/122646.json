@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122646,
+  "name": "People Playground",
+  "source_url": "https://www.igdb.com/games/people-playground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47je.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "People Playground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1118200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1118200",
+        "Linux": "setsid steam steam://rungameid/1118200",
+        "macOS": "open steam://rungameid/1118200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "people-playground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122646"
+}
