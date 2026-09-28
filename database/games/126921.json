@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126921,
+  "name": "Gunk",
+  "source_url": "https://www.igdb.com/games/gunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1131830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1131830",
+        "Linux": "setsid steam steam://rungameid/1131830",
+        "macOS": "open steam://rungameid/1131830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126921"
+}
