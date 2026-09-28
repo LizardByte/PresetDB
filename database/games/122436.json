@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122436,
+  "name": "Idiot Test",
+  "source_url": "https://www.igdb.com/games/idiot-test",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46ev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idiot Test",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1156880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1156880",
+        "Linux": "setsid steam steam://rungameid/1156880",
+        "macOS": "open steam://rungameid/1156880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idiot-test",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122436"
+}
