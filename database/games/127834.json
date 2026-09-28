@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127834,
+  "name": "Sin VR",
+  "source_url": "https://www.igdb.com/games/sin-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1vk1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sin VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "966870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/966870",
+        "Linux": "setsid steam steam://rungameid/966870",
+        "macOS": "open steam://rungameid/966870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sin-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127834"
+}
