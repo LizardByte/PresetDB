@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126709,
+  "name": "Klock",
+  "source_url": "https://www.igdb.com/games/klock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gzn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Klock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1186200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1186200",
+        "Linux": "setsid steam steam://rungameid/1186200",
+        "macOS": "open steam://rungameid/1186200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "klock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126709"
+}
