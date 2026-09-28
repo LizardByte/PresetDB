@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128231,
+  "name": "Wonder Cat",
+  "source_url": "https://www.igdb.com/games/wonder-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wonder Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1193290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1193290",
+        "Linux": "setsid steam steam://rungameid/1193290",
+        "macOS": "open steam://rungameid/1193290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wonder-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128231"
+}
