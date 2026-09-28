@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125725,
+  "name": "Space Space",
+  "source_url": "https://www.igdb.com/games/space-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41w0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1172220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1172220",
+        "Linux": "setsid steam steam://rungameid/1172220",
+        "macOS": "open steam://rungameid/1172220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125725"
+}
