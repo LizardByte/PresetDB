@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121330,
+  "name": "Hancho",
+  "source_url": "https://www.igdb.com/games/hancho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qaq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hancho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1118630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1118630",
+        "Linux": "setsid steam steam://rungameid/1118630",
+        "macOS": "open steam://rungameid/1118630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hancho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121330"
+}
