@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127157,
+  "name": "The Last Sky",
+  "source_url": "https://www.igdb.com/games/the-last-sky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co292h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Sky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "536900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/536900",
+        "Linux": "setsid steam steam://rungameid/536900",
+        "macOS": "open steam://rungameid/536900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-sky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127157"
+}
