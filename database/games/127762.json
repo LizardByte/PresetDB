@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127762,
+  "name": "Wrecker",
+  "source_url": "https://www.igdb.com/games/wrecker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nfc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wrecker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1206270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1206270",
+        "Linux": "setsid steam steam://rungameid/1206270",
+        "macOS": "open steam://rungameid/1206270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wrecker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127762"
+}
