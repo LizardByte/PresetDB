@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129454,
+  "name": "Stellaxy",
+  "source_url": "https://www.igdb.com/games/stellaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co286d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stellaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1226890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1226890",
+        "Linux": "setsid steam steam://rungameid/1226890",
+        "macOS": "open steam://rungameid/1226890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stellaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129454"
+}
