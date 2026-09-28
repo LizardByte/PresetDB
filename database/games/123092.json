@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123092,
+  "name": "Doctor Who: The Runaway",
+  "source_url": "https://www.igdb.com/games/doctor-who-the-runaway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wfn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doctor Who: The Runaway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1066400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1066400",
+        "Linux": "setsid steam steam://rungameid/1066400",
+        "macOS": "open steam://rungameid/1066400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doctor-who-the-runaway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123092"
+}
