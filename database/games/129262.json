@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129262,
+  "name": "SCP: One More Life",
+  "source_url": "https://www.igdb.com/games/scp-one-more-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40vb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SCP: One More Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1221890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1221890",
+        "Linux": "setsid steam steam://rungameid/1221890",
+        "macOS": "open steam://rungameid/1221890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scp-one-more-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129262"
+}
