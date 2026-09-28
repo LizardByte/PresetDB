@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128145,
+  "name": "CaveBugBoy",
+  "source_url": "https://www.igdb.com/games/cavebugboy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lm5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CaveBugBoy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1209980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1209980",
+        "Linux": "setsid steam steam://rungameid/1209980",
+        "macOS": "open steam://rungameid/1209980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cavebugboy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128145"
+}
