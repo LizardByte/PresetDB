@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133519,
+  "name": "Piroku",
+  "source_url": "https://www.igdb.com/games/piroku",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2csh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Piroku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1305530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1305530",
+        "Linux": "setsid steam steam://rungameid/1305530",
+        "macOS": "open steam://rungameid/1305530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "piroku",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133519"
+}
