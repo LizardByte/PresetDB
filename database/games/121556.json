@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121556,
+  "name": "Evil Robots",
+  "source_url": "https://www.igdb.com/games/evil-robots",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co463l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil Robots",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1138520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1138520",
+        "Linux": "setsid steam steam://rungameid/1138520",
+        "macOS": "open steam://rungameid/1138520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evil-robots",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121556"
+}
