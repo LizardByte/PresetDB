@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127240,
+  "name": "Until We Die",
+  "source_url": "https://www.igdb.com/games/until-we-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co31nu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Until We Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1197570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1197570",
+        "Linux": "setsid steam steam://rungameid/1197570",
+        "macOS": "open steam://rungameid/1197570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "until-we-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127240"
+}
