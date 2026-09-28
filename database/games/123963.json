@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123963,
+  "name": "Split or Steal",
+  "source_url": "https://www.igdb.com/games/split-or-steal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sjv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Split or Steal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1162930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1162930",
+        "Linux": "setsid steam steam://rungameid/1162930",
+        "macOS": "open steam://rungameid/1162930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "split-or-steal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123963"
+}
