@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121146,
+  "name": "Angry Farm",
+  "source_url": "https://www.igdb.com/games/angry-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1na4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Angry Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1029470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1029470",
+        "Linux": "setsid steam steam://rungameid/1029470",
+        "macOS": "open steam://rungameid/1029470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "angry-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121146"
+}
