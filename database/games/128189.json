@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128189,
+  "name": "Femida",
+  "source_url": "https://www.igdb.com/games/femida",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wfp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Femida",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1167640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1167640",
+        "Linux": "setsid steam steam://rungameid/1167640",
+        "macOS": "open steam://rungameid/1167640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "femida",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128189"
+}
