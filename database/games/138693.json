@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138693,
+  "name": "Nui",
+  "source_url": "https://www.igdb.com/games/nui",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5juj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nui",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1399380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1399380",
+        "Linux": "setsid steam steam://rungameid/1399380",
+        "macOS": "open steam://rungameid/1399380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nui",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138693"
+}
