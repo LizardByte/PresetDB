@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133221,
+  "name": "Help Me Now",
+  "source_url": "https://www.igdb.com/games/help-me-now",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42ag.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Help Me Now",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1257720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1257720",
+        "Linux": "setsid steam steam://rungameid/1257720",
+        "macOS": "open steam://rungameid/1257720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "help-me-now",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133221"
+}
