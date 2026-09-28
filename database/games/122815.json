@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122815,
+  "name": "Karate Cat",
+  "source_url": "https://www.igdb.com/games/karate-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44fc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Karate Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1152410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1152410",
+        "Linux": "setsid steam steam://rungameid/1152410",
+        "macOS": "open steam://rungameid/1152410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "karate-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122815"
+}
