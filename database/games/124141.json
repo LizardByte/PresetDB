@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124141,
+  "name": "Steelpaw",
+  "source_url": "https://www.igdb.com/games/steelpaw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co423a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steelpaw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1022820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1022820",
+        "Linux": "setsid steam steam://rungameid/1022820",
+        "macOS": "open steam://rungameid/1022820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "steelpaw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124141"
+}
