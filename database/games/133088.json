@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133088,
+  "name": "Falcon City",
+  "source_url": "https://www.igdb.com/games/falcon-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p2z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Falcon City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1270590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1270590",
+        "Linux": "setsid steam steam://rungameid/1270590",
+        "macOS": "open steam://rungameid/1270590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "falcon-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133088"
+}
