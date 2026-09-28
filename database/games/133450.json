@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133450,
+  "name": "Sigma Draconis",
+  "source_url": "https://www.igdb.com/games/sigma-draconis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co413p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sigma Draconis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1243360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1243360",
+        "Linux": "setsid steam steam://rungameid/1243360",
+        "macOS": "open steam://rungameid/1243360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sigma-draconis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133450"
+}
