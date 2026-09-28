@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122812,
+  "name": "Alchedungeon",
+  "source_url": "https://www.igdb.com/games/alchedungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lb4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alchedungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145060",
+        "Linux": "setsid steam steam://rungameid/1145060",
+        "macOS": "open steam://rungameid/1145060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alchedungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122812"
+}
