@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122210,
+  "name": "Angry Troll",
+  "source_url": "https://www.igdb.com/games/angry-troll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45t1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Angry Troll",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1147180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1147180",
+        "Linux": "setsid steam steam://rungameid/1147180",
+        "macOS": "open steam://rungameid/1147180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "angry-troll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122210"
+}
