@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126128,
+  "name": "BatMUD",
+  "source_url": "https://www.igdb.com/games/batmud",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pik.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BatMUD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "616920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/616920",
+        "Linux": "setsid steam steam://rungameid/616920",
+        "macOS": "open steam://rungameid/616920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "batmud",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126128"
+}
