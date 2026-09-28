@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130173,
+  "name": "Motion",
+  "source_url": "https://www.igdb.com/games/motion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Motion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "919400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/919400",
+        "Linux": "setsid steam steam://rungameid/919400",
+        "macOS": "open steam://rungameid/919400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "motion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130173"
+}
