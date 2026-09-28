@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133906,
+  "name": "Forking Hell",
+  "source_url": "https://www.igdb.com/games/forking-hell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co261h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forking Hell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1301100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1301100",
+        "Linux": "setsid steam steam://rungameid/1301100",
+        "macOS": "open steam://rungameid/1301100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forking-hell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133906"
+}
