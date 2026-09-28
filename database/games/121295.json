@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121295,
+  "name": "Grime",
+  "source_url": "https://www.igdb.com/games/grime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3hbp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1123050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1123050",
+        "Linux": "setsid steam steam://rungameid/1123050",
+        "macOS": "open steam://rungameid/1123050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121295"
+}
