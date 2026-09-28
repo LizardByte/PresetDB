@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129993,
+  "name": "Dark Water",
+  "source_url": "https://www.igdb.com/games/dark-water",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ibw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Water",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1235830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1235830",
+        "Linux": "setsid steam steam://rungameid/1235830",
+        "macOS": "open steam://rungameid/1235830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-water",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129993"
+}
