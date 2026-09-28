@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132705,
+  "name": "The Painted Forest",
+  "source_url": "https://www.igdb.com/games/the-painted-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jvd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Painted Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1255890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1255890",
+        "Linux": "setsid steam steam://rungameid/1255890",
+        "macOS": "open steam://rungameid/1255890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-painted-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132705"
+}
