@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121945,
+  "name": "Mental House",
+  "source_url": "https://www.igdb.com/games/mental-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ntg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mental House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1005420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1005420",
+        "Linux": "setsid steam steam://rungameid/1005420",
+        "macOS": "open steam://rungameid/1005420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mental-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121945"
+}
