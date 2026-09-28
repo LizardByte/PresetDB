@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121786,
+  "name": "EverStopped",
+  "source_url": "https://www.igdb.com/games/everstopped",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EverStopped",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1101180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1101180",
+        "Linux": "setsid steam steam://rungameid/1101180",
+        "macOS": "open steam://rungameid/1101180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "everstopped",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121786"
+}
