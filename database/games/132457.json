@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132457,
+  "name": "Pureya",
+  "source_url": "https://www.igdb.com/games/pureya",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2way.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pureya",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1268960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1268960",
+        "Linux": "setsid steam steam://rungameid/1268960",
+        "macOS": "open steam://rungameid/1268960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pureya",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132457"
+}
