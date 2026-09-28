@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128287,
+  "name": "Your Quest 2",
+  "source_url": "https://www.igdb.com/games/your-quest-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m44.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Your Quest 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1220510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1220510",
+        "Linux": "setsid steam steam://rungameid/1220510",
+        "macOS": "open steam://rungameid/1220510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "your-quest-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128287"
+}
