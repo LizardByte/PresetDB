@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123732,
+  "name": "Moysenland",
+  "source_url": "https://www.igdb.com/games/moysenland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46zu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moysenland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1148110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1148110",
+        "Linux": "setsid steam steam://rungameid/1148110",
+        "macOS": "open steam://rungameid/1148110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moysenland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123732"
+}
