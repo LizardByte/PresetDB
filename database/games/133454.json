@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133454,
+  "name": "Paleo Pines",
+  "source_url": "https://www.igdb.com/games/paleo-pines",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6m3v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paleo Pines",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1202200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1202200",
+        "Linux": "setsid steam steam://rungameid/1202200",
+        "macOS": "open steam://rungameid/1202200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paleo-pines",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133454"
+}
