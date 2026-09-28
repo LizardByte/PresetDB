@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132706,
+  "name": "Whisper",
+  "source_url": "https://www.igdb.com/games/whisper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46pk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Whisper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1255880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1255880",
+        "Linux": "setsid steam steam://rungameid/1255880",
+        "macOS": "open steam://rungameid/1255880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whisper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132706"
+}
