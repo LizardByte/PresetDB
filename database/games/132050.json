@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132050,
+  "name": "Mortal Shell",
+  "source_url": "https://www.igdb.com/games/mortal-shell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co227z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mortal Shell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1110910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1110910",
+        "Linux": "setsid steam steam://rungameid/1110910",
+        "macOS": "open steam://rungameid/1110910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mortal-shell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132050"
+}
