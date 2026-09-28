@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129618,
+  "name": "Balkadia",
+  "source_url": "https://www.igdb.com/games/balkadia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ory.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Balkadia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1236180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1236180",
+        "Linux": "setsid steam steam://rungameid/1236180",
+        "macOS": "open steam://rungameid/1236180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "balkadia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129618"
+}
