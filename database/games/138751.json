@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138751,
+  "name": "Server is Down",
+  "source_url": "https://www.igdb.com/games/server-is-down",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kxa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Server is Down",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1377850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1377850",
+        "Linux": "setsid steam steam://rungameid/1377850",
+        "macOS": "open steam://rungameid/1377850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "server-is-down",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138751"
+}
