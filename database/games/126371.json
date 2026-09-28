@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126371,
+  "name": "Island Marauder",
+  "source_url": "https://www.igdb.com/games/island-marauder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co448p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Island Marauder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1193900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1193900",
+        "Linux": "setsid steam steam://rungameid/1193900",
+        "macOS": "open steam://rungameid/1193900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "island-marauder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126371"
+}
