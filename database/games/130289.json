@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130289,
+  "name": "The Maze VR",
+  "source_url": "https://www.igdb.com/games/the-maze-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20i1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Maze VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1068210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1068210",
+        "Linux": "setsid steam steam://rungameid/1068210",
+        "macOS": "open steam://rungameid/1068210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-maze-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130289"
+}
