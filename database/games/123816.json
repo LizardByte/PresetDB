@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123816,
+  "name": "Dark Veer",
+  "source_url": "https://www.igdb.com/games/dark-veer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o5n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Veer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1149700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1149700",
+        "Linux": "setsid steam steam://rungameid/1149700",
+        "macOS": "open steam://rungameid/1149700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-veer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123816"
+}
