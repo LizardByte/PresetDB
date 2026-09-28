@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127228,
+  "name": "Unicorn Tails",
+  "source_url": "https://www.igdb.com/games/unicorn-tails",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3psh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unicorn Tails",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1174090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1174090",
+        "Linux": "setsid steam steam://rungameid/1174090",
+        "macOS": "open steam://rungameid/1174090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unicorn-tails",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127228"
+}
