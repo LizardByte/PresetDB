@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128282,
+  "name": "Shardhunters",
+  "source_url": "https://www.igdb.com/games/shardhunters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lzo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shardhunters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817080",
+        "Linux": "setsid steam steam://rungameid/817080",
+        "macOS": "open steam://rungameid/817080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shardhunters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128282"
+}
