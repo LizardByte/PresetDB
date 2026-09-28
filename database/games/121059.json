@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121059,
+  "name": "Aim for the Win",
+  "source_url": "https://www.igdb.com/games/aim-for-the-win",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5abc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aim for the Win",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111300",
+        "Linux": "setsid steam steam://rungameid/1111300",
+        "macOS": "open steam://rungameid/1111300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aim-for-the-win",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121059"
+}
