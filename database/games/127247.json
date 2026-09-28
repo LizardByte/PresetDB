@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127247,
+  "name": "Ephemeral Tale",
+  "source_url": "https://www.igdb.com/games/ephemeral-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co483t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ephemeral Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1204320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1204320",
+        "Linux": "setsid steam steam://rungameid/1204320",
+        "macOS": "open steam://rungameid/1204320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ephemeral-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127247"
+}
