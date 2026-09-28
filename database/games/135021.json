@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 135021,
+  "name": "Isolation Story",
+  "source_url": "https://www.igdb.com/games/isolation-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ctx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Isolation Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1299260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1299260",
+        "Linux": "setsid steam steam://rungameid/1299260",
+        "macOS": "open steam://rungameid/1299260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "isolation-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=135021"
+}
