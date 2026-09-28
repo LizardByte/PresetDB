@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123790,
+  "name": "Laser Paddles",
+  "source_url": "https://www.igdb.com/games/laser-paddles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co282h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Laser Paddles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1079050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1079050",
+        "Linux": "setsid steam steam://rungameid/1079050",
+        "macOS": "open steam://rungameid/1079050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "laser-paddles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123790"
+}
