@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130964,
+  "name": "Gem Jam",
+  "source_url": "https://www.igdb.com/games/gem-jam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gem Jam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1194200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1194200",
+        "Linux": "setsid steam steam://rungameid/1194200",
+        "macOS": "open steam://rungameid/1194200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gem-jam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130964"
+}
