@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128268,
+  "name": "Mommy",
+  "source_url": "https://www.igdb.com/games/mommy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wjd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mommy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1204220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1204220",
+        "Linux": "setsid steam steam://rungameid/1204220",
+        "macOS": "open steam://rungameid/1204220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mommy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128268"
+}
