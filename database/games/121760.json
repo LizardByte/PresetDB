@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121760,
+  "name": "Little Nightmares II",
+  "source_url": "https://www.igdb.com/games/little-nightmares-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa17l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Nightmares II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "860510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/860510",
+        "Linux": "setsid steam steam://rungameid/860510",
+        "macOS": "open steam://rungameid/860510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-nightmares-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121760"
+}
