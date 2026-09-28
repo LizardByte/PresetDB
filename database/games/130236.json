@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130236,
+  "name": "Feed the Horsebear",
+  "source_url": "https://www.igdb.com/games/feed-the-horsebear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feed the Horsebear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1246600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1246600",
+        "Linux": "setsid steam steam://rungameid/1246600",
+        "macOS": "open steam://rungameid/1246600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "feed-the-horsebear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130236"
+}
