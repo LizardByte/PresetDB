@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128036,
+  "name": "Peace Data",
+  "source_url": "https://www.igdb.com/games/peace-data",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peace Data",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1209140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1209140",
+        "Linux": "setsid steam steam://rungameid/1209140",
+        "macOS": "open steam://rungameid/1209140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peace-data",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128036"
+}
