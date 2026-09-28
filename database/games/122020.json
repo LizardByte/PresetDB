@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122020,
+  "name": "Incoming Evil",
+  "source_url": "https://www.igdb.com/games/incoming-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43jo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Incoming Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "926210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/926210",
+        "Linux": "setsid steam steam://rungameid/926210",
+        "macOS": "open steam://rungameid/926210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "incoming-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122020"
+}
