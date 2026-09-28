@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126358,
+  "name": "Swiss Knife",
+  "source_url": "https://www.igdb.com/games/swiss-knife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42sn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swiss Knife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1166910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1166910",
+        "Linux": "setsid steam steam://rungameid/1166910",
+        "macOS": "open steam://rungameid/1166910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swiss-knife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126358"
+}
