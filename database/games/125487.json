@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125487,
+  "name": "Rocketron",
+  "source_url": "https://www.igdb.com/games/rocketron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wx3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocketron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1177640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1177640",
+        "Linux": "setsid steam steam://rungameid/1177640",
+        "macOS": "open steam://rungameid/1177640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocketron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125487"
+}
