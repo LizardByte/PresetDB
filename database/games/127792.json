@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127792,
+  "name": "Man of the House",
+  "source_url": "https://www.igdb.com/games/man-of-the-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6rv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Man of the House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1148150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1148150",
+        "Linux": "setsid steam steam://rungameid/1148150",
+        "macOS": "open steam://rungameid/1148150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "man-of-the-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127792"
+}
