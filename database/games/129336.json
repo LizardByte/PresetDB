@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129336,
+  "name": "Classic Card Game Go Fish",
+  "source_url": "https://www.igdb.com/games/classic-card-game-go-fish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lmo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Classic Card Game Go Fish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1231770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1231770",
+        "Linux": "setsid steam steam://rungameid/1231770",
+        "macOS": "open steam://rungameid/1231770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "classic-card-game-go-fish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129336"
+}
