@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128262,
+  "name": "Fallen Hearts",
+  "source_url": "https://www.igdb.com/games/fallen-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1wjl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallen Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1032450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1032450",
+        "Linux": "setsid steam steam://rungameid/1032450",
+        "macOS": "open steam://rungameid/1032450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fallen-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128262"
+}
