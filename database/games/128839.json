@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128839,
+  "name": "Rotten Utopia",
+  "source_url": "https://www.igdb.com/games/rotten-utopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lz2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rotten Utopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1225890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1225890",
+        "Linux": "setsid steam steam://rungameid/1225890",
+        "macOS": "open steam://rungameid/1225890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rotten-utopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128839"
+}
