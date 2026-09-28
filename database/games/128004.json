@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128004,
+  "name": "Sands of Salzaar",
+  "source_url": "https://www.igdb.com/games/sands-of-salzaar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctr7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sands of Salzaar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1094520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1094520",
+        "Linux": "setsid steam steam://rungameid/1094520",
+        "macOS": "open steam://rungameid/1094520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sands-of-salzaar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128004"
+}
