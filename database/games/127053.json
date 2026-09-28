@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127053,
+  "name": "Gang of Four",
+  "source_url": "https://www.igdb.com/games/gang-of-four",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co416t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gang of Four",
+      "os": null,
+      "method": "steam",
+      "launch_id": "350300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/350300",
+        "Linux": "setsid steam steam://rungameid/350300",
+        "macOS": "open steam://rungameid/350300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gang-of-four",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127053"
+}
