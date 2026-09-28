@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132467,
+  "name": "Doudy",
+  "source_url": "https://www.igdb.com/games/doudy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ow9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doudy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1290160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1290160",
+        "Linux": "setsid steam steam://rungameid/1290160",
+        "macOS": "open steam://rungameid/1290160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doudy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132467"
+}
