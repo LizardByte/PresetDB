@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126165,
+  "name": "Zombie Horde",
+  "source_url": "https://www.igdb.com/games/zombie-horde",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l33.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Horde",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1163320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1163320",
+        "Linux": "setsid steam steam://rungameid/1163320",
+        "macOS": "open steam://rungameid/1163320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-horde",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126165"
+}
