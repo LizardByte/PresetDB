@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127421,
+  "name": "Election simulator",
+  "source_url": "https://www.igdb.com/games/election-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ptu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Election simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1201350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1201350",
+        "Linux": "setsid steam steam://rungameid/1201350",
+        "macOS": "open steam://rungameid/1201350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "election-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127421"
+}
