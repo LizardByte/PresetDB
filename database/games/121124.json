@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121124,
+  "name": "VRWiz",
+  "source_url": "https://www.igdb.com/games/vrwiz",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRWiz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1123020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1123020",
+        "Linux": "setsid steam steam://rungameid/1123020",
+        "macOS": "open steam://rungameid/1123020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vrwiz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121124"
+}
