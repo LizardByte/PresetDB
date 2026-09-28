@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124178,
+  "name": "Pagui",
+  "source_url": "https://www.igdb.com/games/pagui",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co25gf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pagui",
+      "os": null,
+      "method": "steam",
+      "launch_id": "986680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/986680",
+        "Linux": "setsid steam steam://rungameid/986680",
+        "macOS": "open steam://rungameid/986680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pagui",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124178"
+}
