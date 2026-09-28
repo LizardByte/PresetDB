@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125089,
+  "name": "Romguns",
+  "source_url": "https://www.igdb.com/games/romguns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1slj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Romguns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1179150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1179150",
+        "Linux": "setsid steam steam://rungameid/1179150",
+        "macOS": "open steam://rungameid/1179150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "romguns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125089"
+}
