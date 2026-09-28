@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 135840,
+  "name": "Mists of Aiden",
+  "source_url": "https://www.igdb.com/games/mists-of-aiden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2x6g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mists of Aiden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1239050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1239050",
+        "Linux": "setsid steam steam://rungameid/1239050",
+        "macOS": "open steam://rungameid/1239050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mists-of-aiden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=135840"
+}
