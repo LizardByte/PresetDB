@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130182,
+  "name": "Floppy Knights",
+  "source_url": "https://www.igdb.com/games/floppy-knights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m7q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Floppy Knights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1057800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1057800",
+        "Linux": "setsid steam steam://rungameid/1057800",
+        "macOS": "open steam://rungameid/1057800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "floppy-knights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130182"
+}
