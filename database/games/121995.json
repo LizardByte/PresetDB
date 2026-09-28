@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121995,
+  "name": "Ollie-Oop",
+  "source_url": "https://www.igdb.com/games/ollie-oop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co492g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ollie-Oop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "895760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/895760",
+        "Linux": "setsid steam steam://rungameid/895760",
+        "macOS": "open steam://rungameid/895760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ollie-oop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121995"
+}
