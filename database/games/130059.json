@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130059,
+  "name": "Million Dungeon",
+  "source_url": "https://www.igdb.com/games/million-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Million Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1021800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1021800",
+        "Linux": "setsid steam steam://rungameid/1021800",
+        "macOS": "open steam://rungameid/1021800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "million-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130059"
+}
