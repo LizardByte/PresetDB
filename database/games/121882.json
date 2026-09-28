@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121882,
+  "name": "Farmer's Life",
+  "source_url": "https://www.igdb.com/games/farmers-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xw0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farmer's Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1137750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1137750",
+        "Linux": "setsid steam steam://rungameid/1137750",
+        "macOS": "open steam://rungameid/1137750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farmers-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121882"
+}
