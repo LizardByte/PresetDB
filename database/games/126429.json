@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126429,
+  "name": "Down Ward",
+  "source_url": "https://www.igdb.com/games/down-ward",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24dv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Down Ward",
+      "os": null,
+      "method": "steam",
+      "launch_id": "904700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/904700",
+        "Linux": "setsid steam steam://rungameid/904700",
+        "macOS": "open steam://rungameid/904700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "down-ward",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126429"
+}
