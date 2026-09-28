@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129735,
+  "name": "Fly Fly Tank",
+  "source_url": "https://www.igdb.com/games/fly-fly-tank",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lqk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly Fly Tank",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1200180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1200180",
+        "Linux": "setsid steam steam://rungameid/1200180",
+        "macOS": "open steam://rungameid/1200180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fly-fly-tank",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129735"
+}
