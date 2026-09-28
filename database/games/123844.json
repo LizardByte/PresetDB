@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123844,
+  "name": "Below Sunshade",
+  "source_url": "https://www.igdb.com/games/below-sunshade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1sjs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Below Sunshade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1162170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1162170",
+        "Linux": "setsid steam steam://rungameid/1162170",
+        "macOS": "open steam://rungameid/1162170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "below-sunshade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123844"
+}
