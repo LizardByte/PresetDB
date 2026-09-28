@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124142,
+  "name": "MetrixVR",
+  "source_url": "https://www.igdb.com/games/metrixvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qor.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MetrixVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1022600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1022600",
+        "Linux": "setsid steam steam://rungameid/1022600",
+        "macOS": "open steam://rungameid/1022600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metrixvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124142"
+}
