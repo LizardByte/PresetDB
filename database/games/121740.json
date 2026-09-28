@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121740,
+  "name": "Zunius",
+  "source_url": "https://www.igdb.com/games/zunius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co435s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zunius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1058510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1058510",
+        "Linux": "setsid steam steam://rungameid/1058510",
+        "macOS": "open steam://rungameid/1058510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zunius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121740"
+}
