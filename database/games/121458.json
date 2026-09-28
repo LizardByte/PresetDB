@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121458,
+  "name": "Escape From Earth",
+  "source_url": "https://www.igdb.com/games/escape-from-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2q29.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape From Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1045310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1045310",
+        "Linux": "setsid steam steam://rungameid/1045310",
+        "macOS": "open steam://rungameid/1045310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121458"
+}
