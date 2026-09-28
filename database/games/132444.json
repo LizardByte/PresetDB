@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132444,
+  "name": "Dungeon of Dark",
+  "source_url": "https://www.igdb.com/games/dungeon-of-dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon of Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1268540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1268540",
+        "Linux": "setsid steam steam://rungameid/1268540",
+        "macOS": "open steam://rungameid/1268540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-of-dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132444"
+}
