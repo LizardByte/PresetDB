@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130232,
+  "name": "GrandNestling",
+  "source_url": "https://www.igdb.com/games/grandnestling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co290l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GrandNestling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1250670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1250670",
+        "Linux": "setsid steam steam://rungameid/1250670",
+        "macOS": "open steam://rungameid/1250670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grandnestling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130232"
+}
