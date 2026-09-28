@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128912,
+  "name": "Pizza Time Arcade",
+  "source_url": "https://www.igdb.com/games/pizza-time-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c1l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pizza Time Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1229920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1229920",
+        "Linux": "setsid steam steam://rungameid/1229920",
+        "macOS": "open steam://rungameid/1229920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pizza-time-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128912"
+}
