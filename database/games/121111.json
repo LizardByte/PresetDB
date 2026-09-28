@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121111,
+  "name": "To the Hell",
+  "source_url": "https://www.igdb.com/games/to-the-hell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44qk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "To the Hell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1122740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1122740",
+        "Linux": "setsid steam steam://rungameid/1122740",
+        "macOS": "open steam://rungameid/1122740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "to-the-hell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121111"
+}
