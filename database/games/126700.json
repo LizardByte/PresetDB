@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126700,
+  "name": "KuniTure",
+  "source_url": "https://www.igdb.com/games/kuniture",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co453k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KuniTure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1185400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1185400",
+        "Linux": "setsid steam steam://rungameid/1185400",
+        "macOS": "open steam://rungameid/1185400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kuniture",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126700"
+}
