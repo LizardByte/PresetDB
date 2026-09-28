@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125377,
+  "name": "Space Wars",
+  "source_url": "https://www.igdb.com/games/space-wars--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41wk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1176160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1176160",
+        "Linux": "setsid steam steam://rungameid/1176160",
+        "macOS": "open steam://rungameid/1176160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-wars--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125377"
+}
