@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127002,
+  "name": "Paunch",
+  "source_url": "https://www.igdb.com/games/paunch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1uou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paunch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "792220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/792220",
+        "Linux": "setsid steam steam://rungameid/792220",
+        "macOS": "open steam://rungameid/792220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paunch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127002"
+}
