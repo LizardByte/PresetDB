@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121229,
+  "name": "Main Assembly",
+  "source_url": "https://www.igdb.com/games/main-assembly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1ro5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Main Assembly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1078920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1078920",
+        "Linux": "setsid steam steam://rungameid/1078920",
+        "macOS": "open steam://rungameid/1078920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "main-assembly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121229"
+}
