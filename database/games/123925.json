@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123925,
+  "name": "Voidtrain",
+  "source_url": "https://www.igdb.com/games/voidtrain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaowg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Voidtrain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1159690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1159690",
+        "Linux": "setsid steam steam://rungameid/1159690",
+        "macOS": "open steam://rungameid/1159690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voidtrain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123925"
+}
