@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129041,
+  "name": "Jack In Town",
+  "source_url": "https://www.igdb.com/games/jack-in-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lt2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jack In Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1175500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1175500",
+        "Linux": "setsid steam steam://rungameid/1175500",
+        "macOS": "open steam://rungameid/1175500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jack-in-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129041"
+}
