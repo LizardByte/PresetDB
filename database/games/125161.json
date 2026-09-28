@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125161,
+  "name": "Neos VR",
+  "source_url": "https://www.igdb.com/games/neos-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3m9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neos VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "740250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/740250",
+        "Linux": "setsid steam steam://rungameid/740250",
+        "macOS": "open steam://rungameid/740250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neos-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125161"
+}
