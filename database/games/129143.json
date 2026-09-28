@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129143,
+  "name": "Wasteland Remastered",
+  "source_url": "https://www.igdb.com/games/wasteland-remastered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xzc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wasteland Remastered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "875800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/875800",
+        "Linux": "setsid steam steam://rungameid/875800",
+        "macOS": "open steam://rungameid/875800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wasteland-remastered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129143"
+}
