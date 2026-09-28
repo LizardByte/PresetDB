@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130077,
+  "name": "Go Far Away",
+  "source_url": "https://www.igdb.com/games/go-far-away",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lre.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Far Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1252120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1252120",
+        "Linux": "setsid steam steam://rungameid/1252120",
+        "macOS": "open steam://rungameid/1252120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-far-away",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130077"
+}
