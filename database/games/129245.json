@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129245,
+  "name": "Pixie Moon",
+  "source_url": "https://www.igdb.com/games/pixie-moon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixie Moon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1229330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1229330",
+        "Linux": "setsid steam steam://rungameid/1229330",
+        "macOS": "open steam://rungameid/1229330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixie-moon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129245"
+}
