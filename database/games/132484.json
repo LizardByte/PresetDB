@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132484,
+  "name": "Lusitania",
+  "source_url": "https://www.igdb.com/games/lusitania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45is.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lusitania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1260710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1260710",
+        "Linux": "setsid steam steam://rungameid/1260710",
+        "macOS": "open steam://rungameid/1260710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lusitania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132484"
+}
