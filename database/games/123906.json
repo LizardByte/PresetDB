@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123906,
+  "name": "A Nightmare's Trip",
+  "source_url": "https://www.igdb.com/games/a-nightmares-trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a4k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Nightmare's Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1156630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1156630",
+        "Linux": "setsid steam steam://rungameid/1156630",
+        "macOS": "open steam://rungameid/1156630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-nightmares-trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123906"
+}
