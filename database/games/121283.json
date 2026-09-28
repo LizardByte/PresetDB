@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121283,
+  "name": "FadeZone",
+  "source_url": "https://www.igdb.com/games/fadezone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zio.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FadeZone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1123080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1123080",
+        "Linux": "setsid steam steam://rungameid/1123080",
+        "macOS": "open steam://rungameid/1123080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fadezone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121283"
+}
