@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127931,
+  "name": "Deviant Dungeon",
+  "source_url": "https://www.igdb.com/games/deviant-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ojr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deviant Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1012900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1012900",
+        "Linux": "setsid steam steam://rungameid/1012900",
+        "macOS": "open steam://rungameid/1012900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deviant-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127931"
+}
