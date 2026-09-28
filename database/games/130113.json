@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130113,
+  "name": "The Botanist",
+  "source_url": "https://www.igdb.com/games/the-botanist--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c1a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Botanist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1240270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1240270",
+        "Linux": "setsid steam steam://rungameid/1240270",
+        "macOS": "open steam://rungameid/1240270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-botanist--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130113"
+}
