@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123908,
+  "name": "Galaxium",
+  "source_url": "https://www.igdb.com/games/galaxium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co31wp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galaxium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1158450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1158450",
+        "Linux": "setsid steam steam://rungameid/1158450",
+        "macOS": "open steam://rungameid/1158450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galaxium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123908"
+}
