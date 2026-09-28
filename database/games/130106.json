@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130106,
+  "name": "Nyanco Channel",
+  "source_url": "https://www.igdb.com/games/nyanco-channel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lw5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nyanco Channel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1248350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1248350",
+        "Linux": "setsid steam steam://rungameid/1248350",
+        "macOS": "open steam://rungameid/1248350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nyanco-channel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130106"
+}
