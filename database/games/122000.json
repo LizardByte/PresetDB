@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122000,
+  "name": "Eternal Concord",
+  "source_url": "https://www.igdb.com/games/eternal-concord",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1v67.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eternal Concord",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1053820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1053820",
+        "Linux": "setsid steam steam://rungameid/1053820",
+        "macOS": "open steam://rungameid/1053820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eternal-concord",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122000"
+}
