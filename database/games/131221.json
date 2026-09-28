@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131221,
+  "name": "Snowballs",
+  "source_url": "https://www.igdb.com/games/snowballs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41pz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snowballs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1198860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1198860",
+        "Linux": "setsid steam steam://rungameid/1198860",
+        "macOS": "open steam://rungameid/1198860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snowballs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131221"
+}
