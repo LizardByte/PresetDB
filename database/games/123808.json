@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123808,
+  "name": "Prison Planet",
+  "source_url": "https://www.igdb.com/games/prison-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co476h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prison Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1148410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1148410",
+        "Linux": "setsid steam steam://rungameid/1148410",
+        "macOS": "open steam://rungameid/1148410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prison-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123808"
+}
