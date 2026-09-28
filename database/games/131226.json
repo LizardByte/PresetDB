@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131226,
+  "name": "MCAS Simulation",
+  "source_url": "https://www.igdb.com/games/mcas-simulation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2luo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MCAS Simulation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1191930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1191930",
+        "Linux": "setsid steam steam://rungameid/1191930",
+        "macOS": "open steam://rungameid/1191930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mcas-simulation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131226"
+}
