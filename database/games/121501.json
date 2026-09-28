@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121501,
+  "name": "The Last Spell",
+  "source_url": "https://www.igdb.com/games/the-last-spell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2rmt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Spell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1105670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1105670",
+        "Linux": "setsid steam steam://rungameid/1105670",
+        "macOS": "open steam://rungameid/1105670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-spell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121501"
+}
