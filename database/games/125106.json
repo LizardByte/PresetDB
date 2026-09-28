@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125106,
+  "name": "Swordrite",
+  "source_url": "https://www.igdb.com/games/swordrite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oo9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swordrite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1169770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1169770",
+        "Linux": "setsid steam steam://rungameid/1169770",
+        "macOS": "open steam://rungameid/1169770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swordrite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125106"
+}
