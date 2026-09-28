@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130119,
+  "name": "Freedom Isn't Free",
+  "source_url": "https://www.igdb.com/games/freedom-isnt-free",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lqr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freedom Isn't Free",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1231720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1231720",
+        "Linux": "setsid steam steam://rungameid/1231720",
+        "macOS": "open steam://rungameid/1231720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freedom-isnt-free",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130119"
+}
