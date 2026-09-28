@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133037,
+  "name": "Duck Duck Goose",
+  "source_url": "https://www.igdb.com/games/duck-duck-goose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p7v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Duck Goose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1258090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1258090",
+        "Linux": "setsid steam steam://rungameid/1258090",
+        "macOS": "open steam://rungameid/1258090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duck-duck-goose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133037"
+}
