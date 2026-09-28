@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127774,
+  "name": "GraFi Lunar",
+  "source_url": "https://www.igdb.com/games/grafi-lunar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41f2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GraFi Lunar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1214500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1214500",
+        "Linux": "setsid steam steam://rungameid/1214500",
+        "macOS": "open steam://rungameid/1214500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grafi-lunar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127774"
+}
