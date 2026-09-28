@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121918,
+  "name": "Project SolarBot",
+  "source_url": "https://www.igdb.com/games/project-solarbot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y1x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project SolarBot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1144690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1144690",
+        "Linux": "setsid steam steam://rungameid/1144690",
+        "macOS": "open steam://rungameid/1144690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-solarbot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121918"
+}
