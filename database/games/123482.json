@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123482,
+  "name": "Lightning Wings II",
+  "source_url": "https://www.igdb.com/games/lightning-wings-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5l2w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lightning Wings II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1124850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1124850",
+        "Linux": "setsid steam steam://rungameid/1124850",
+        "macOS": "open steam://rungameid/1124850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lightning-wings-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123482"
+}
