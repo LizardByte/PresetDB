@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138332,
+  "name": "Moose Life",
+  "source_url": "https://www.igdb.com/games/moose-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p9r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moose Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1342740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1342740",
+        "Linux": "setsid steam steam://rungameid/1342740",
+        "macOS": "open steam://rungameid/1342740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moose-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138332"
+}
