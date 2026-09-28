@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126423,
+  "name": "Countrified",
+  "source_url": "https://www.igdb.com/games/countrified",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2p2p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Countrified",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1187920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1187920",
+        "Linux": "setsid steam steam://rungameid/1187920",
+        "macOS": "open steam://rungameid/1187920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "countrified",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126423"
+}
