@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123066,
+  "name": "The Video Game Machine",
+  "source_url": "https://www.igdb.com/games/the-video-game-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ro4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Video Game Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1772260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1772260",
+        "Linux": "setsid steam steam://rungameid/1772260",
+        "macOS": "open steam://rungameid/1772260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-video-game-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123066"
+}
