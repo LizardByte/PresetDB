@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133464,
+  "name": "Dust Fleet",
+  "source_url": "https://www.igdb.com/games/dust-fleet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafg1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dust Fleet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "406160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/406160",
+        "Linux": "setsid steam steam://rungameid/406160",
+        "macOS": "open steam://rungameid/406160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dust-fleet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133464"
+}
