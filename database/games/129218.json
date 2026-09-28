@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129218,
+  "name": "Kubble Star",
+  "source_url": "https://www.igdb.com/games/kubble-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ltk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kubble Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1212290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1212290",
+        "Linux": "setsid steam steam://rungameid/1212290",
+        "macOS": "open steam://rungameid/1212290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kubble-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129218"
+}
