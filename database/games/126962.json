@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126962,
+  "name": "Star Police",
+  "source_url": "https://www.igdb.com/games/star-police",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co421p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Police",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1147600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1147600",
+        "Linux": "setsid steam steam://rungameid/1147600",
+        "macOS": "open steam://rungameid/1147600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-police",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126962"
+}
