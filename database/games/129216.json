@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129216,
+  "name": "Zombie Towns",
+  "source_url": "https://www.igdb.com/games/zombie-towns",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Towns",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1223210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1223210",
+        "Linux": "setsid steam steam://rungameid/1223210",
+        "macOS": "open steam://rungameid/1223210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-towns",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129216"
+}
