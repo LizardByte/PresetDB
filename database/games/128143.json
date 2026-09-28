@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128143,
+  "name": "Fist of the Forgotten",
+  "source_url": "https://www.igdb.com/games/fist-of-the-forgotten",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2k7d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fist of the Forgotten",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1105470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1105470",
+        "Linux": "setsid steam steam://rungameid/1105470",
+        "macOS": "open steam://rungameid/1105470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fist-of-the-forgotten",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128143"
+}
