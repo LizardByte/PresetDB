@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127810,
+  "name": "Paper Tanks",
+  "source_url": "https://www.igdb.com/games/paper-tanks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1xae.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paper Tanks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1213020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1213020",
+        "Linux": "setsid steam steam://rungameid/1213020",
+        "macOS": "open steam://rungameid/1213020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paper-tanks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127810"
+}
