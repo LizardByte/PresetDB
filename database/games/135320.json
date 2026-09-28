@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 135320,
+  "name": "VoltAge:Genesis",
+  "source_url": "https://www.igdb.com/games/voltage-genesis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4n62.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VoltAge:Genesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2444810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2444810",
+        "Linux": "setsid steam steam://rungameid/2444810",
+        "macOS": "open steam://rungameid/2444810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voltage-genesis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=135320"
+}
