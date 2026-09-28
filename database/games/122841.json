@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122841,
+  "name": "Copperbell",
+  "source_url": "https://www.igdb.com/games/copperbell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co21nr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Copperbell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1039040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1039040",
+        "Linux": "setsid steam steam://rungameid/1039040",
+        "macOS": "open steam://rungameid/1039040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "copperbell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122841"
+}
