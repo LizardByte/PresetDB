@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127583,
+  "name": "Potion Party",
+  "source_url": "https://www.igdb.com/games/potion-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g4x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Potion Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1196440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1196440",
+        "Linux": "setsid steam steam://rungameid/1196440",
+        "macOS": "open steam://rungameid/1196440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "potion-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127583"
+}
