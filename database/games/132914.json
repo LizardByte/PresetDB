@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132914,
+  "name": "OctaFight",
+  "source_url": "https://www.igdb.com/games/octafight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OctaFight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1196690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1196690",
+        "Linux": "setsid steam steam://rungameid/1196690",
+        "macOS": "open steam://rungameid/1196690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "octafight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132914"
+}
