@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131612,
+  "name": "Starfall Online",
+  "source_url": "https://www.igdb.com/games/starfall-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2c0d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starfall Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "460570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/460570",
+        "Linux": "setsid steam steam://rungameid/460570",
+        "macOS": "open steam://rungameid/460570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starfall-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131612"
+}
