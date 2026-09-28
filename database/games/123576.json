@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123576,
+  "name": "Wreckout",
+  "source_url": "https://www.igdb.com/games/wreckout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nfd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wreckout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1153650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1153650",
+        "Linux": "setsid steam steam://rungameid/1153650",
+        "macOS": "open steam://rungameid/1153650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wreckout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123576"
+}
