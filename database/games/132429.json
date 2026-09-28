@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132429,
+  "name": "Hargrave",
+  "source_url": "https://www.igdb.com/games/hargrave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ufp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hargrave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1288930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1288930",
+        "Linux": "setsid steam steam://rungameid/1288930",
+        "macOS": "open steam://rungameid/1288930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hargrave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132429"
+}
