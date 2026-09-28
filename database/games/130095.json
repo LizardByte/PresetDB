@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130095,
+  "name": "Inside the Computer",
+  "source_url": "https://www.igdb.com/games/inside-the-computer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Inside the Computer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1230930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1230930",
+        "Linux": "setsid steam steam://rungameid/1230930",
+        "macOS": "open steam://rungameid/1230930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "inside-the-computer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130095"
+}
