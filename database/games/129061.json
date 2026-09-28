@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129061,
+  "name": "SpaceGeon",
+  "source_url": "https://www.igdb.com/games/spacegeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m0d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpaceGeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1212380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1212380",
+        "Linux": "setsid steam steam://rungameid/1212380",
+        "macOS": "open steam://rungameid/1212380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spacegeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129061"
+}
