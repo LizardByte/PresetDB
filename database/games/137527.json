@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 137527,
+  "name": "Left on Read",
+  "source_url": "https://www.igdb.com/games/left-on-read",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co457o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Left on Read",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1306580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1306580",
+        "Linux": "setsid steam steam://rungameid/1306580",
+        "macOS": "open steam://rungameid/1306580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "left-on-read",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=137527"
+}
