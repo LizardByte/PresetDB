@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124131,
+  "name": "Little Big Workshop",
+  "source_url": "https://www.igdb.com/games/little-big-workshop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20u4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Big Workshop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "574720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/574720",
+        "Linux": "setsid steam steam://rungameid/574720",
+        "macOS": "open steam://rungameid/574720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-big-workshop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124131"
+}
