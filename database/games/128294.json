@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128294,
+  "name": "Romantic Player",
+  "source_url": "https://www.igdb.com/games/romantic-player",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59iz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Romantic Player",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1209000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1209000",
+        "Linux": "setsid steam steam://rungameid/1209000",
+        "macOS": "open steam://rungameid/1209000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "romantic-player",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128294"
+}
