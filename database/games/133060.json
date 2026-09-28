@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133060,
+  "name": "Forest of the Dead",
+  "source_url": "https://www.igdb.com/games/forest-of-the-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zto.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest of the Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1304800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1304800",
+        "Linux": "setsid steam steam://rungameid/1304800",
+        "macOS": "open steam://rungameid/1304800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forest-of-the-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133060"
+}
