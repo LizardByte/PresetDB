@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123511,
+  "name": "KikiMimi2",
+  "source_url": "https://www.igdb.com/games/kikimimi2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44h4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KikiMimi2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1149430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1149430",
+        "Linux": "setsid steam steam://rungameid/1149430",
+        "macOS": "open steam://rungameid/1149430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kikimimi2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123511"
+}
