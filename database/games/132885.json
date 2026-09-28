@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132885,
+  "name": "Volatile",
+  "source_url": "https://www.igdb.com/games/volatile",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3osi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Volatile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234680",
+        "Linux": "setsid steam steam://rungameid/1234680",
+        "macOS": "open steam://rungameid/1234680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "volatile",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132885"
+}
