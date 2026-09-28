@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122140,
+  "name": "Feathery Ears",
+  "source_url": "https://www.igdb.com/games/feathery-ears",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co24aa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feathery Ears",
+      "os": null,
+      "method": "steam",
+      "launch_id": "992200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/992200",
+        "Linux": "setsid steam steam://rungameid/992200",
+        "macOS": "open steam://rungameid/992200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "feathery-ears",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122140"
+}
