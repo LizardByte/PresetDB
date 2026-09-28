@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133008,
+  "name": "Hunt the Muglump",
+  "source_url": "https://www.igdb.com/games/hunt-the-muglump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43f5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hunt the Muglump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1193210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1193210",
+        "Linux": "setsid steam steam://rungameid/1193210",
+        "macOS": "open steam://rungameid/1193210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hunt-the-muglump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133008"
+}
