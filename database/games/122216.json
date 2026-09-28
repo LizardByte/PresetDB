@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122216,
+  "name": "Critter Kart",
+  "source_url": "https://www.igdb.com/games/critter-kart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nw9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Critter Kart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "937520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/937520",
+        "Linux": "setsid steam steam://rungameid/937520",
+        "macOS": "open steam://rungameid/937520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "critter-kart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122216"
+}
