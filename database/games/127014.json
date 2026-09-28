@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127014,
+  "name": "The Last Deathbound",
+  "source_url": "https://www.igdb.com/games/the-last-deathbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43w8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Deathbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1190060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1190060",
+        "Linux": "setsid steam steam://rungameid/1190060",
+        "macOS": "open steam://rungameid/1190060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-deathbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127014"
+}
