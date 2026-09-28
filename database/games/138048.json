@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138048,
+  "name": "Tinyshot",
+  "source_url": "https://www.igdb.com/games/tinyshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ti2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tinyshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1278760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1278760",
+        "Linux": "setsid steam steam://rungameid/1278760",
+        "macOS": "open steam://rungameid/1278760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tinyshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138048"
+}
