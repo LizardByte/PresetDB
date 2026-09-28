@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124224,
+  "name": ">Connect",
+  "source_url": "https://www.igdb.com/games/connect",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nia.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": ">Connect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1162950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1162950",
+        "Linux": "setsid steam steam://rungameid/1162950",
+        "macOS": "open steam://rungameid/1162950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "connect",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124224"
+}
