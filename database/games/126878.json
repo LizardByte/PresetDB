@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126878,
+  "name": "Anonymous Player",
+  "source_url": "https://www.igdb.com/games/anonymous-player",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ljj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anonymous Player",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1172080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1172080",
+        "Linux": "setsid steam steam://rungameid/1172080",
+        "macOS": "open steam://rungameid/1172080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anonymous-player",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126878"
+}
