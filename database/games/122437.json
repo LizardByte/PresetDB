@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122437,
+  "name": "Art Plunge",
+  "source_url": "https://www.igdb.com/games/art-plunge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3loh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Art Plunge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "570900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/570900",
+        "Linux": "setsid steam steam://rungameid/570900",
+        "macOS": "open steam://rungameid/570900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "art-plunge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122437"
+}
