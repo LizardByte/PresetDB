@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 129037,
+  "name": "Art of Boxing",
+  "source_url": "https://www.igdb.com/games/art-of-boxing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pgi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Art of Boxing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1146010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1146010",
+        "Linux": "setsid steam steam://rungameid/1146010",
+        "macOS": "open steam://rungameid/1146010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "art-of-boxing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=129037"
+}
