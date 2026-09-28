@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138009,
+  "name": "Starship EVO",
+  "source_url": "https://www.igdb.com/games/starship-evo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ieh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starship EVO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "711980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/711980",
+        "Linux": "setsid steam steam://rungameid/711980",
+        "macOS": "open steam://rungameid/711980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starship-evo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138009"
+}
