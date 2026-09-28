@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 134586,
+  "name": "Talk To Me",
+  "source_url": "https://www.igdb.com/games/talk-to-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4me2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Talk To Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2205000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2205000",
+        "Linux": "setsid steam steam://rungameid/2205000",
+        "macOS": "open steam://rungameid/2205000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "talk-to-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=134586"
+}
