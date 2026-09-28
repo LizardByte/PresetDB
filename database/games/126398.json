@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126398,
+  "name": "Star Alliance",
+  "source_url": "https://www.igdb.com/games/star-alliance",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l5o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Alliance",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1160950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1160950",
+        "Linux": "setsid steam steam://rungameid/1160950",
+        "macOS": "open steam://rungameid/1160950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-alliance",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126398"
+}
