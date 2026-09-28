@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132994,
+  "name": "Iridium",
+  "source_url": "https://www.igdb.com/games/iridium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4kl5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iridium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1014850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1014850",
+        "Linux": "setsid steam steam://rungameid/1014850",
+        "macOS": "open steam://rungameid/1014850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iridium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132994"
+}
