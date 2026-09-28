@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126649,
+  "name": "I Will Be Your Eyes",
+  "source_url": "https://www.igdb.com/games/i-will-be-your-eyes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43he.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Will Be Your Eyes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1180000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1180000",
+        "Linux": "setsid steam steam://rungameid/1180000",
+        "macOS": "open steam://rungameid/1180000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-will-be-your-eyes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126649"
+}
