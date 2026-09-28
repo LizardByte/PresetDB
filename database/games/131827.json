@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131827,
+  "name": "Last Chick",
+  "source_url": "https://www.igdb.com/games/last-chick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20ne.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Chick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1256430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1256430",
+        "Linux": "setsid steam steam://rungameid/1256430",
+        "macOS": "open steam://rungameid/1256430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-chick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131827"
+}
