@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126432,
+  "name": "Arboria",
+  "source_url": "https://www.igdb.com/games/arboria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2pfu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arboria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "924070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/924070",
+        "Linux": "setsid steam steam://rungameid/924070",
+        "macOS": "open steam://rungameid/924070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arboria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126432"
+}
