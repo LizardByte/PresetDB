@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122523,
+  "name": "Zelle",
+  "source_url": "https://www.igdb.com/games/zelle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co26az.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zelle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "725330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/725330",
+        "Linux": "setsid steam steam://rungameid/725330",
+        "macOS": "open steam://rungameid/725330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zelle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122523"
+}
