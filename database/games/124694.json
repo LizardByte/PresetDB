@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 124694,
+  "name": "Spaceship Commander",
+  "source_url": "https://www.igdb.com/games/spaceship-commander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41vv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spaceship Commander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "833180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/833180",
+        "Linux": "setsid steam steam://rungameid/833180",
+        "macOS": "open steam://rungameid/833180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spaceship-commander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=124694"
+}
