@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 125401,
+  "name": "Low-Fi",
+  "source_url": "https://www.igdb.com/games/low-fi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2a9i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Low-Fi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "395830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/395830",
+        "Linux": "setsid steam steam://rungameid/395830",
+        "macOS": "open steam://rungameid/395830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "low-fi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=125401"
+}
