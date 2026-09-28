@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128996,
+  "name": "Impressions",
+  "source_url": "https://www.igdb.com/games/impressions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lsn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Impressions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1220330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1220330",
+        "Linux": "setsid steam steam://rungameid/1220330",
+        "macOS": "open steam://rungameid/1220330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "impressions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128996"
+}
