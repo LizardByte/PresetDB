@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132441,
+  "name": "Escape from Gulag",
+  "source_url": "https://www.igdb.com/games/escape-from-gulag",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qc9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Gulag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1274840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1274840",
+        "Linux": "setsid steam steam://rungameid/1274840",
+        "macOS": "open steam://rungameid/1274840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-gulag",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132441"
+}
