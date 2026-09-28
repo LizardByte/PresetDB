@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127708,
+  "name": "Void Breach",
+  "source_url": "https://www.igdb.com/games/void-breach",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2tr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Breach",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1204710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1204710",
+        "Linux": "setsid steam steam://rungameid/1204710",
+        "macOS": "open steam://rungameid/1204710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-breach",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127708"
+}
