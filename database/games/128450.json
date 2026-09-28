@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 128450,
+  "name": "FireTry",
+  "source_url": "https://www.igdb.com/games/firetry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co289v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FireTry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1208840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1208840",
+        "Linux": "setsid steam steam://rungameid/1208840",
+        "macOS": "open steam://rungameid/1208840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "firetry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=128450"
+}
