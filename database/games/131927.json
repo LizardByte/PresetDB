@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131927,
+  "name": "Sin: Reloaded",
+  "source_url": "https://www.igdb.com/games/sin-reloaded",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczu2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sin: Reloaded",
+      "os": null,
+      "method": "steam",
+      "launch_id": "632950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/632950",
+        "Linux": "setsid steam steam://rungameid/632950",
+        "macOS": "open steam://rungameid/632950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sin-reloaded",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131927"
+}
