@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132048,
+  "name": "French Crime",
+  "source_url": "https://www.igdb.com/games/french-crime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83ne.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "French Crime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1788120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1788120",
+        "Linux": "setsid steam steam://rungameid/1788120",
+        "macOS": "open steam://rungameid/1788120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "french-crime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132048"
+}
