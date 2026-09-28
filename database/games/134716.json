@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 134716,
+  "name": "Alien Life Lab",
+  "source_url": "https://www.igdb.com/games/alien-life-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4oc5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Life Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "680240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/680240",
+        "Linux": "setsid steam steam://rungameid/680240",
+        "macOS": "open steam://rungameid/680240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-life-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=134716"
+}
