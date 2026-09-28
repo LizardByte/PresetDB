@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132758,
+  "name": "Radarjam",
+  "source_url": "https://www.igdb.com/games/radarjam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y85.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Radarjam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1258000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1258000",
+        "Linux": "setsid steam steam://rungameid/1258000",
+        "macOS": "open steam://rungameid/1258000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "radarjam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132758"
+}
