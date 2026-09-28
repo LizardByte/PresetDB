@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127268,
+  "name": "vCoder Hero",
+  "source_url": "https://www.igdb.com/games/vcoder-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46ko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "vCoder Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "881290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/881290",
+        "Linux": "setsid steam steam://rungameid/881290",
+        "macOS": "open steam://rungameid/881290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vcoder-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127268"
+}
