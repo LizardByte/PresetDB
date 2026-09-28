@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127947,
+  "name": "Epido",
+  "source_url": "https://www.igdb.com/games/epido--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pxz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epido",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1012630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1012630",
+        "Linux": "setsid steam steam://rungameid/1012630",
+        "macOS": "open steam://rungameid/1012630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epido--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127947"
+}
