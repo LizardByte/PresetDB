@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 130208,
+  "name": "Luciform",
+  "source_url": "https://www.igdb.com/games/luciform",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2mad.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Luciform",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1239980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1239980",
+        "Linux": "setsid steam steam://rungameid/1239980",
+        "macOS": "open steam://rungameid/1239980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "luciform",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=130208"
+}
