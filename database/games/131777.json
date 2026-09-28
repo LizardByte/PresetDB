@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131777,
+  "name": "Floppy Heroes 2",
+  "source_url": "https://www.igdb.com/games/floppy-heroes-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co20hh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Floppy Heroes 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1254150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1254150",
+        "Linux": "setsid steam steam://rungameid/1254150",
+        "macOS": "open steam://rungameid/1254150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "floppy-heroes-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131777"
+}
