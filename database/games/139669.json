@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139669,
+  "name": "Crash the Core",
+  "source_url": "https://www.igdb.com/games/crash-the-core",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3bbj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crash the Core",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1291220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1291220",
+        "Linux": "setsid steam steam://rungameid/1291220",
+        "macOS": "open steam://rungameid/1291220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crash-the-core",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139669"
+}
