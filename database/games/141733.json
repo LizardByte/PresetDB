@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141733,
+  "name": "SantaCraft",
+  "source_url": "https://www.igdb.com/games/santacraft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5wt5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SantaCraft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1486840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1486840",
+        "Linux": "setsid steam steam://rungameid/1486840",
+        "macOS": "open steam://rungameid/1486840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "santacraft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141733"
+}
