@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142201,
+  "name": "Saving Grace",
+  "source_url": "https://www.igdb.com/games/saving-grace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2t4e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Saving Grace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1380400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1380400",
+        "Linux": "setsid steam steam://rungameid/1380400",
+        "macOS": "open steam://rungameid/1380400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "saving-grace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142201"
+}
