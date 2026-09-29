@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141374,
+  "name": "M.A.R.S.",
+  "source_url": "https://www.igdb.com/games/mars--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ldj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "M.A.R.S.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "314430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/314430",
+        "Linux": "setsid steam steam://rungameid/314430",
+        "macOS": "open steam://rungameid/314430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mars--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141374"
+}
