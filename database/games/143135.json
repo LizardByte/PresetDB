@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143135,
+  "name": "Mist Legacy",
+  "source_url": "https://www.igdb.com/games/mist-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s0l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mist Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1259440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1259440",
+        "Linux": "setsid steam steam://rungameid/1259440",
+        "macOS": "open steam://rungameid/1259440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mist-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143135"
+}
