@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141783,
+  "name": "Kinesis",
+  "source_url": "https://www.igdb.com/games/kinesis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2udr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kinesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1479750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1479750",
+        "Linux": "setsid steam steam://rungameid/1479750",
+        "macOS": "open steam://rungameid/1479750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kinesis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141783"
+}
