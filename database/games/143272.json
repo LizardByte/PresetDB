@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143272,
+  "name": "Pretend",
+  "source_url": "https://www.igdb.com/games/pretend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s8m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pretend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "887830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/887830",
+        "Linux": "setsid steam steam://rungameid/887830",
+        "macOS": "open steam://rungameid/887830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pretend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143272"
+}
