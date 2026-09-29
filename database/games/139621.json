@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139621,
+  "name": "Shell Shuffle",
+  "source_url": "https://www.igdb.com/games/shell-shuffle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2j0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shell Shuffle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1395450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1395450",
+        "Linux": "setsid steam steam://rungameid/1395450",
+        "macOS": "open steam://rungameid/1395450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shell-shuffle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139621"
+}
