@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141339,
+  "name": "Summerland",
+  "source_url": "https://www.igdb.com/games/summerland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2l9n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Summerland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1444110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1444110",
+        "Linux": "setsid steam steam://rungameid/1444110",
+        "macOS": "open steam://rungameid/1444110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "summerland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141339"
+}
