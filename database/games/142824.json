@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142824,
+  "name": "D-Corp",
+  "source_url": "https://www.igdb.com/games/d-corp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2oz8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "D-Corp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1285040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1285040",
+        "Linux": "setsid steam steam://rungameid/1285040",
+        "macOS": "open steam://rungameid/1285040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "d-corp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142824"
+}
