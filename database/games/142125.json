@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142125,
+  "name": "Oceanarium",
+  "source_url": "https://www.igdb.com/games/oceanarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nhn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oceanarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1479080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1479080",
+        "Linux": "setsid steam steam://rungameid/1479080",
+        "macOS": "open steam://rungameid/1479080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oceanarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142125"
+}
