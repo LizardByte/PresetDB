@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139521,
+  "name": "Last Message",
+  "source_url": "https://www.igdb.com/games/last-message",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2i9v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Message",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1141030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1141030",
+        "Linux": "setsid steam steam://rungameid/1141030",
+        "macOS": "open steam://rungameid/1141030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-message",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139521"
+}
