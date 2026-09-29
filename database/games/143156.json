@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143156,
+  "name": "Ghost in the Pool",
+  "source_url": "https://www.igdb.com/games/ghost-in-the-pool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s17.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost in the Pool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "919330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/919330",
+        "Linux": "setsid steam steam://rungameid/919330",
+        "macOS": "open steam://rungameid/919330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-in-the-pool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143156"
+}
