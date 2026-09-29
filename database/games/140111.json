@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140111,
+  "name": "Midnight Paradise",
+  "source_url": "https://www.igdb.com/games/midnight-paradise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66ue.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Midnight Paradise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2485270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2485270",
+        "Linux": "setsid steam steam://rungameid/2485270",
+        "macOS": "open steam://rungameid/2485270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "midnight-paradise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140111"
+}
