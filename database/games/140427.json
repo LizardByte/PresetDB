@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140427,
+  "name": "My Time at Sandrock",
+  "source_url": "https://www.igdb.com/games/my-time-at-sandrock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab00.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Time at Sandrock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1084600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1084600",
+        "Linux": "setsid steam steam://rungameid/1084600",
+        "macOS": "open steam://rungameid/1084600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-time-at-sandrock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140427"
+}
