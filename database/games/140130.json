@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140130,
+  "name": "Penko Park",
+  "source_url": "https://www.igdb.com/games/penko-park",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2iuw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Penko Park",
+      "os": null,
+      "method": "steam",
+      "launch_id": "852090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/852090",
+        "Linux": "setsid steam steam://rungameid/852090",
+        "macOS": "open steam://rungameid/852090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "penko-park",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140130"
+}
