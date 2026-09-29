@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139712,
+  "name": "Chipmunk's Adventures",
+  "source_url": "https://www.igdb.com/games/chipmunks-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jxy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chipmunk's Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1063300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1063300",
+        "Linux": "setsid steam steam://rungameid/1063300",
+        "macOS": "open steam://rungameid/1063300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chipmunks-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139712"
+}
