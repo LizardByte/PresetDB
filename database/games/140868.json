@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140868,
+  "name": "Time Loader",
+  "source_url": "https://www.igdb.com/games/time-loader",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2k6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Time Loader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1301950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1301950",
+        "Linux": "setsid steam steam://rungameid/1301950",
+        "macOS": "open steam://rungameid/1301950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "time-loader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140868"
+}
