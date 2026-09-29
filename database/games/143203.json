@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143203,
+  "name": "Night in Riverager",
+  "source_url": "https://www.igdb.com/games/night-in-riverager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jqr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night in Riverager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1500380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1500380",
+        "Linux": "setsid steam steam://rungameid/1500380",
+        "macOS": "open steam://rungameid/1500380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "night-in-riverager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143203"
+}
