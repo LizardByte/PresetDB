@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141214,
+  "name": "Dogman",
+  "source_url": "https://www.igdb.com/games/dogman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3oui.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1444170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1444170",
+        "Linux": "setsid steam steam://rungameid/1444170",
+        "macOS": "open steam://rungameid/1444170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dogman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141214"
+}
