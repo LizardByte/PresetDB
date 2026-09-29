@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143150,
+  "name": "Miska's Cave",
+  "source_url": "https://www.igdb.com/games/miskas-cave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s12.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miska's Cave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1517830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1517830",
+        "Linux": "setsid steam steam://rungameid/1517830",
+        "macOS": "open steam://rungameid/1517830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "miskas-cave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143150"
+}
