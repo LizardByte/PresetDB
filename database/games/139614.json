@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139614,
+  "name": "Nine Lives",
+  "source_url": "https://www.igdb.com/games/nine-lives",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2j0g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nine Lives",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1340310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1340310",
+        "Linux": "setsid steam steam://rungameid/1340310",
+        "macOS": "open steam://rungameid/1340310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nine-lives",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139614"
+}
