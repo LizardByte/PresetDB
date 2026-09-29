@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141179,
+  "name": "Book of Beasts",
+  "source_url": "https://www.igdb.com/games/book-of-beasts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2kwy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Book of Beasts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1150910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1150910",
+        "Linux": "setsid steam steam://rungameid/1150910",
+        "macOS": "open steam://rungameid/1150910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "book-of-beasts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141179"
+}
