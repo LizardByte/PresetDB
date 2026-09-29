@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142189,
+  "name": "Kill Fish",
+  "source_url": "https://www.igdb.com/games/kill-fish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nqy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill Fish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1450270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1450270",
+        "Linux": "setsid steam steam://rungameid/1450270",
+        "macOS": "open steam://rungameid/1450270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-fish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142189"
+}
