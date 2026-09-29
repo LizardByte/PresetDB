@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141225,
+  "name": "Pipo Park",
+  "source_url": "https://www.igdb.com/games/pipo-park",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2mly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pipo Park",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1485600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1485600",
+        "Linux": "setsid steam steam://rungameid/1485600",
+        "macOS": "open steam://rungameid/1485600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pipo-park",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141225"
+}
