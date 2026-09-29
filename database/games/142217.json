@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142217,
+  "name": "Sunlight",
+  "source_url": "https://www.igdb.com/games/sunlight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunlight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1451120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1451120",
+        "Linux": "setsid steam steam://rungameid/1451120",
+        "macOS": "open steam://rungameid/1451120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sunlight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142217"
+}
