@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141505,
+  "name": "Stray Blade",
+  "source_url": "https://www.igdb.com/games/stray-blade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p78.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stray Blade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1621990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1621990",
+        "Linux": "setsid steam steam://rungameid/1621990",
+        "macOS": "open steam://rungameid/1621990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stray-blade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141505"
+}
