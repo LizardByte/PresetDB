@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141393,
+  "name": "Wilderness",
+  "source_url": "https://www.igdb.com/games/wilderness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2lfz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wilderness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1405180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1405180",
+        "Linux": "setsid steam steam://rungameid/1405180",
+        "macOS": "open steam://rungameid/1405180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wilderness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141393"
+}
