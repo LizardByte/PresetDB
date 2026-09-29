@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140482,
+  "name": "Dude, Where Is My Beer?",
+  "source_url": "https://www.igdb.com/games/dude-where-is-my-beer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2jgb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dude, Where Is My Beer?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1288760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1288760",
+        "Linux": "setsid steam steam://rungameid/1288760",
+        "macOS": "open steam://rungameid/1288760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dude-where-is-my-beer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140482"
+}
