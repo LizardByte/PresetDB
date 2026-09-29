@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141428,
+  "name": "Everescape",
+  "source_url": "https://www.igdb.com/games/everescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4bm5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Everescape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "770040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/770040",
+        "Linux": "setsid steam steam://rungameid/770040",
+        "macOS": "open steam://rungameid/770040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "everescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141428"
+}
