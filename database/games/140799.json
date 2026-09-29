@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140799,
+  "name": "SCHiM",
+  "source_url": "https://www.igdb.com/games/schim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88tn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SCHiM",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1519710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1519710",
+        "Linux": "setsid steam steam://rungameid/1519710",
+        "macOS": "open steam://rungameid/1519710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "schim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140799"
+}
