@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142547,
+  "name": "Gloom and Doom",
+  "source_url": "https://www.igdb.com/games/gloom-and-doom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2of4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gloom and Doom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1372800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1372800",
+        "Linux": "setsid steam steam://rungameid/1372800",
+        "macOS": "open steam://rungameid/1372800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gloom-and-doom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142547"
+}
