@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 142098,
+  "name": "Potentia",
+  "source_url": "https://www.igdb.com/games/potentia--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2nkz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Potentia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "606980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/606980",
+        "Linux": "setsid steam steam://rungameid/606980",
+        "macOS": "open steam://rungameid/606980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "potentia--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=142098"
+}
