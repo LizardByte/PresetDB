@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139689,
+  "name": "Pirate Commander",
+  "source_url": "https://www.igdb.com/games/pirate-commander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2t6h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate Commander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1359270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1359270",
+        "Linux": "setsid steam steam://rungameid/1359270",
+        "macOS": "open steam://rungameid/1359270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirate-commander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139689"
+}
