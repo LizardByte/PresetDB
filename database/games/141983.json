@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141983,
+  "name": "Dot Debugger",
+  "source_url": "https://www.igdb.com/games/dot-debugger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2n89.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dot Debugger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "816040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/816040",
+        "Linux": "setsid steam steam://rungameid/816040",
+        "macOS": "open steam://rungameid/816040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dot-debugger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141983"
+}
