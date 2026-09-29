@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141343,
+  "name": "Micetopia",
+  "source_url": "https://www.igdb.com/games/micetopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2la1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Micetopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1324150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1324150",
+        "Linux": "setsid steam steam://rungameid/1324150",
+        "macOS": "open steam://rungameid/1324150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "micetopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141343"
+}
