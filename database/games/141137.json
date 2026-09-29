@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 141137,
+  "name": "Genokids",
+  "source_url": "https://www.igdb.com/games/genokids",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajnb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Genokids",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1239360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1239360",
+        "Linux": "setsid steam steam://rungameid/1239360",
+        "macOS": "open steam://rungameid/1239360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "genokids",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=141137"
+}
