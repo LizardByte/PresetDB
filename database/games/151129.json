@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151129,
+  "name": "Factory of Sweets",
+  "source_url": "https://www.igdb.com/games/factory-of-sweets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zik.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Factory of Sweets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1356880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1356880",
+        "Linux": "setsid steam steam://rungameid/1356880",
+        "macOS": "open steam://rungameid/1356880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "factory-of-sweets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151129"
+}
