@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150371,
+  "name": "MiniStrike",
+  "source_url": "https://www.igdb.com/games/ministrike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3of0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MiniStrike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1354460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1354460",
+        "Linux": "setsid steam steam://rungameid/1354460",
+        "macOS": "open steam://rungameid/1354460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ministrike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150371"
+}
