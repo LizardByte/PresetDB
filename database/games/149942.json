@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149942,
+  "name": "NinMaki",
+  "source_url": "https://www.igdb.com/games/ninmaki",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NinMaki",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1405050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1405050",
+        "Linux": "setsid steam steam://rungameid/1405050",
+        "macOS": "open steam://rungameid/1405050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ninmaki",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149942"
+}
