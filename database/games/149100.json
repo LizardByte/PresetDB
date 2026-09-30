@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149100,
+  "name": "Mahasona",
+  "source_url": "https://www.igdb.com/games/mahasona",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j2z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mahasona",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1236040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1236040",
+        "Linux": "setsid steam steam://rungameid/1236040",
+        "macOS": "open steam://rungameid/1236040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mahasona",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149100"
+}
