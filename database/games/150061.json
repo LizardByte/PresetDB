@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150061,
+  "name": "Ghost Sync",
+  "source_url": "https://www.igdb.com/games/ghost-sync",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co31i9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Sync",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1711540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1711540",
+        "Linux": "setsid steam steam://rungameid/1711540",
+        "macOS": "open steam://rungameid/1711540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-sync",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150061"
+}
