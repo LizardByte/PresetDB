@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 147309,
+  "name": "Dextram",
+  "source_url": "https://www.igdb.com/games/dextram",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3062.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dextram",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1066470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1066470",
+        "Linux": "setsid steam steam://rungameid/1066470",
+        "macOS": "open steam://rungameid/1066470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dextram",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=147309"
+}
