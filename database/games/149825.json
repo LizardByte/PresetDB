@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149825,
+  "name": "Side Effect",
+  "source_url": "https://www.igdb.com/games/side-effect",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co413i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Side Effect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1550480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1550480",
+        "Linux": "setsid steam steam://rungameid/1550480",
+        "macOS": "open steam://rungameid/1550480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "side-effect",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149825"
+}
