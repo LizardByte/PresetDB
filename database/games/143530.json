@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143530,
+  "name": "Warp Drive",
+  "source_url": "https://www.igdb.com/games/warp-drive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ioj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warp Drive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1163500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1163500",
+        "Linux": "setsid steam steam://rungameid/1163500",
+        "macOS": "open steam://rungameid/1163500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warp-drive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143530"
+}
