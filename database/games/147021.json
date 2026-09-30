@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 147021,
+  "name": "Phantom Abyss",
+  "source_url": "https://www.igdb.com/games/phantom-abyss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2zu9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phantom Abyss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "989440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/989440",
+        "Linux": "setsid steam steam://rungameid/989440",
+        "macOS": "open steam://rungameid/989440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phantom-abyss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=147021"
+}
