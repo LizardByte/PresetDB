@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 146859,
+  "name": "Go! Birdie",
+  "source_url": "https://www.igdb.com/games/go-birdie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41c8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go! Birdie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1480470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1480470",
+        "Linux": "setsid steam steam://rungameid/1480470",
+        "macOS": "open steam://rungameid/1480470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-birdie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=146859"
+}
