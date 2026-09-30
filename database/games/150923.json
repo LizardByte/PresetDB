@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150923,
+  "name": "Night Wanderings",
+  "source_url": "https://www.igdb.com/games/night-wanderings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night Wanderings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1592930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1592930",
+        "Linux": "setsid steam steam://rungameid/1592930",
+        "macOS": "open steam://rungameid/1592930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "night-wanderings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150923"
+}
