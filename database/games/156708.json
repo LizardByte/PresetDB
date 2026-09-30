@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156708,
+  "name": "Don't Look",
+  "source_url": "https://www.igdb.com/games/dont-look",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ovi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Look",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1377140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1377140",
+        "Linux": "setsid steam steam://rungameid/1377140",
+        "macOS": "open steam://rungameid/1377140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-look",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156708"
+}
