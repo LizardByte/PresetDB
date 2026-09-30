@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152932,
+  "name": "Fastlane Bowling",
+  "source_url": "https://www.igdb.com/games/fastlane-bowling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59dx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fastlane Bowling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1644930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1644930",
+        "Linux": "setsid steam steam://rungameid/1644930",
+        "macOS": "open steam://rungameid/1644930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fastlane-bowling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152932"
+}
