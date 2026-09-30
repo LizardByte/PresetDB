@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144745,
+  "name": "Marble World",
+  "source_url": "https://www.igdb.com/games/marble-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co52re.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marble World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1491340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1491340",
+        "Linux": "setsid steam steam://rungameid/1491340",
+        "macOS": "open steam://rungameid/1491340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marble-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144745"
+}
