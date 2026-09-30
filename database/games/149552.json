@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149552,
+  "name": "Biolum",
+  "source_url": "https://www.igdb.com/games/biolum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60xg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Biolum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1183700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1183700",
+        "Linux": "setsid steam steam://rungameid/1183700",
+        "macOS": "open steam://rungameid/1183700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "biolum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149552"
+}
