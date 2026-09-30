@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152602,
+  "name": "Mochi Jump",
+  "source_url": "https://www.igdb.com/games/mochi-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46z2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mochi Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1647110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1647110",
+        "Linux": "setsid steam steam://rungameid/1647110",
+        "macOS": "open steam://rungameid/1647110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mochi-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152602"
+}
