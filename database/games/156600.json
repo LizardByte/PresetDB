@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156600,
+  "name": "World Process",
+  "source_url": "https://www.igdb.com/games/world-process",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46qh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World Process",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1341440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1341440",
+        "Linux": "setsid steam steam://rungameid/1341440",
+        "macOS": "open steam://rungameid/1341440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-process",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156600"
+}
