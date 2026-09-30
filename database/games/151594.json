@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151594,
+  "name": "Just 15 minutes",
+  "source_url": "https://www.igdb.com/games/just-15-minutes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44db.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just 15 minutes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1643340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1643340",
+        "Linux": "setsid steam steam://rungameid/1643340",
+        "macOS": "open steam://rungameid/1643340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-15-minutes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151594"
+}
