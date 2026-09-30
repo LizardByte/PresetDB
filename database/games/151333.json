@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151333,
+  "name": "Finding Kathy",
+  "source_url": "https://www.igdb.com/games/finding-kathy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zon.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Finding Kathy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1314830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1314830",
+        "Linux": "setsid steam steam://rungameid/1314830",
+        "macOS": "open steam://rungameid/1314830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "finding-kathy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151333"
+}
