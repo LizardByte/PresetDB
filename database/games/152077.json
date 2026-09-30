@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152077,
+  "name": "Painkiller",
+  "source_url": "https://www.igdb.com/games/painkiller--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa15q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Painkiller",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2300120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2300120",
+        "Linux": "setsid steam steam://rungameid/2300120",
+        "macOS": "open steam://rungameid/2300120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "painkiller--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152077"
+}
