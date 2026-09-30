@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150709,
+  "name": "Tripill",
+  "source_url": "https://www.igdb.com/games/tripill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44y9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tripill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1434750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1434750",
+        "Linux": "setsid steam steam://rungameid/1434750",
+        "macOS": "open steam://rungameid/1434750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tripill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150709"
+}
