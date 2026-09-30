@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143525,
+  "name": "Beholder's Lair",
+  "source_url": "https://www.igdb.com/games/beholders-lair",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2t9v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beholder's Lair",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1347880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1347880",
+        "Linux": "setsid steam steam://rungameid/1347880",
+        "macOS": "open steam://rungameid/1347880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beholders-lair",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143525"
+}
