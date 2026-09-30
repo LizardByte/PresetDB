@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150932,
+  "name": "Kosta Projekt",
+  "source_url": "https://www.igdb.com/games/kosta-projekt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4530.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kosta Projekt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1344430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1344430",
+        "Linux": "setsid steam steam://rungameid/1344430",
+        "macOS": "open steam://rungameid/1344430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kosta-projekt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150932"
+}
