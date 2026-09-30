@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 155002,
+  "name": "Dungeon Looter",
+  "source_url": "https://www.igdb.com/games/dungeon-looter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p8v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Looter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1228320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1228320",
+        "Linux": "setsid steam steam://rungameid/1228320",
+        "macOS": "open steam://rungameid/1228320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-looter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=155002"
+}
