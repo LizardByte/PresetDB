@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150511,
+  "name": "Payday 2 VR",
+  "source_url": "https://www.igdb.com/games/payday-2-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co797k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Payday 2 VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "826090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/826090",
+        "Linux": "setsid steam steam://rungameid/826090",
+        "macOS": "open steam://rungameid/826090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "payday-2-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150511"
+}
