@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151808,
+  "name": "Sushi Alone",
+  "source_url": "https://www.igdb.com/games/sushi-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co709r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushi Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2063010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2063010",
+        "Linux": "setsid steam steam://rungameid/2063010",
+        "macOS": "open steam://rungameid/2063010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushi-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151808"
+}
