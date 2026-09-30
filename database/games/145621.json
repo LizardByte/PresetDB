@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145621,
+  "name": "Mamiya",
+  "source_url": "https://www.igdb.com/games/mamiya",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xy5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mamiya",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1394930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1394930",
+        "Linux": "setsid steam steam://rungameid/1394930",
+        "macOS": "open steam://rungameid/1394930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mamiya",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145621"
+}
