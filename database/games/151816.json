@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151816,
+  "name": "Familiars.io",
+  "source_url": "https://www.igdb.com/games/familiars-dot-io",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co773n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Familiars.io",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2619250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2619250",
+        "Linux": "setsid steam steam://rungameid/2619250",
+        "macOS": "open steam://rungameid/2619250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "familiars-dot-io",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151816"
+}
