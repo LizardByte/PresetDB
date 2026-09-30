@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 155410,
+  "name": "Neon Light",
+  "source_url": "https://www.igdb.com/games/neon-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q2i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1617780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1617780",
+        "Linux": "setsid steam steam://rungameid/1617780",
+        "macOS": "open steam://rungameid/1617780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=155410"
+}
