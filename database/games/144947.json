@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144947,
+  "name": "Nordicandia",
+  "source_url": "https://www.igdb.com/games/nordicandia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55fb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nordicandia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1503790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1503790",
+        "Linux": "setsid steam steam://rungameid/1503790",
+        "macOS": "open steam://rungameid/1503790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nordicandia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144947"
+}
