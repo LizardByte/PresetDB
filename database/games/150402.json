@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150402,
+  "name": "Crate Wars",
+  "source_url": "https://www.igdb.com/games/crate-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nm9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crate Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1364350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1364350",
+        "Linux": "setsid steam steam://rungameid/1364350",
+        "macOS": "open steam://rungameid/1364350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crate-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150402"
+}
