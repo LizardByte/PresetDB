@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 154043,
+  "name": "Hellslave",
+  "source_url": "https://www.igdb.com/games/hellslave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42aa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellslave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1608450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1608450",
+        "Linux": "setsid steam steam://rungameid/1608450",
+        "macOS": "open steam://rungameid/1608450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellslave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=154043"
+}
