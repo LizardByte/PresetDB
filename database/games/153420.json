@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153420,
+  "name": "Click and Relax",
+  "source_url": "https://www.igdb.com/games/click-and-relax",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45oc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Click and Relax",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1537960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1537960",
+        "Linux": "setsid steam steam://rungameid/1537960",
+        "macOS": "open steam://rungameid/1537960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "click-and-relax",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153420"
+}
