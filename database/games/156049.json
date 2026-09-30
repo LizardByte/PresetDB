@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156049,
+  "name": "Ghosty",
+  "source_url": "https://www.igdb.com/games/ghosty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co419r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghosty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1390060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1390060",
+        "Linux": "setsid steam steam://rungameid/1390060",
+        "macOS": "open steam://rungameid/1390060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghosty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156049"
+}
