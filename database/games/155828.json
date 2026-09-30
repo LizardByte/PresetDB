@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 155828,
+  "name": "The Episodic",
+  "source_url": "https://www.igdb.com/games/the-episodic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43rb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Episodic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1427150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1427150",
+        "Linux": "setsid steam steam://rungameid/1427150",
+        "macOS": "open steam://rungameid/1427150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-episodic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=155828"
+}
