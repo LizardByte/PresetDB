@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156228,
+  "name": "Huge",
+  "source_url": "https://www.igdb.com/games/huge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43eh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Huge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1650040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1650040",
+        "Linux": "setsid steam steam://rungameid/1650040",
+        "macOS": "open steam://rungameid/1650040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "huge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156228"
+}
