@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149570,
+  "name": "Little Wolf",
+  "source_url": "https://www.igdb.com/games/little-wolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45ck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Wolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1570860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1570860",
+        "Linux": "setsid steam steam://rungameid/1570860",
+        "macOS": "open steam://rungameid/1570860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-wolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149570"
+}
