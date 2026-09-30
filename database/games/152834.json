@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152834,
+  "name": "Sleepy Sunday",
+  "source_url": "https://www.igdb.com/games/sleepy-sunday",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47cs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sleepy Sunday",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1582280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1582280",
+        "Linux": "setsid steam steam://rungameid/1582280",
+        "macOS": "open steam://rungameid/1582280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sleepy-sunday",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152834"
+}
