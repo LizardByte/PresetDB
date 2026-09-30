@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153227,
+  "name": "ReBall",
+  "source_url": "https://www.igdb.com/games/reball--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co478k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ReBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1646600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1646600",
+        "Linux": "setsid steam steam://rungameid/1646600",
+        "macOS": "open steam://rungameid/1646600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reball--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153227"
+}
