@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149902,
+  "name": "ZombiesWaves",
+  "source_url": "https://www.igdb.com/games/zombieswaves",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l42.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZombiesWaves",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1534610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1534610",
+        "Linux": "setsid steam steam://rungameid/1534610",
+        "macOS": "open steam://rungameid/1534610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombieswaves",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149902"
+}
