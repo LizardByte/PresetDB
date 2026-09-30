@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144614,
+  "name": "Evo\\Wave",
+  "source_url": "https://www.igdb.com/games/evo-slash-wave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2x3o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evo\\Wave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1532180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1532180",
+        "Linux": "setsid steam steam://rungameid/1532180",
+        "macOS": "open steam://rungameid/1532180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evo-slash-wave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144614"
+}
