@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157336,
+  "name": "Knight vs. Giant",
+  "source_url": "https://www.igdb.com/games/knight-vs-giant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44k7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knight vs. Giant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "715680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/715680",
+        "Linux": "setsid steam steam://rungameid/715680",
+        "macOS": "open steam://rungameid/715680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knight-vs-giant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157336"
+}
