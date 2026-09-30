@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145194,
+  "name": "Siimi",
+  "source_url": "https://www.igdb.com/games/siimi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wpn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Siimi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1467830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1467830",
+        "Linux": "setsid steam steam://rungameid/1467830",
+        "macOS": "open steam://rungameid/1467830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "siimi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145194"
+}
