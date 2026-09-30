@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149109,
+  "name": "Aye Aye, Captain",
+  "source_url": "https://www.igdb.com/games/aye-aye-captain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lte.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aye Aye, Captain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "997020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/997020",
+        "Linux": "setsid steam steam://rungameid/997020",
+        "macOS": "open steam://rungameid/997020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aye-aye-captain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149109"
+}
