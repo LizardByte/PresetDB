@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153350,
+  "name": "Quatris",
+  "source_url": "https://www.igdb.com/games/quatris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co477c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quatris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "888140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/888140",
+        "Linux": "setsid steam steam://rungameid/888140",
+        "macOS": "open steam://rungameid/888140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quatris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153350"
+}
