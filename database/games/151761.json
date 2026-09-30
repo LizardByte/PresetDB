@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151761,
+  "name": "Conet",
+  "source_url": "https://www.igdb.com/games/conet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co386s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Conet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1442080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1442080",
+        "Linux": "setsid steam steam://rungameid/1442080",
+        "macOS": "open steam://rungameid/1442080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "conet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151761"
+}
