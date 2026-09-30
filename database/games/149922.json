@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149922,
+  "name": "Fortoresse",
+  "source_url": "https://www.igdb.com/games/fortoresse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fortoresse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1489840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1489840",
+        "Linux": "setsid steam steam://rungameid/1489840",
+        "macOS": "open steam://rungameid/1489840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fortoresse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149922"
+}
