@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157160,
+  "name": "Tricky Machines",
+  "source_url": "https://www.igdb.com/games/tricky-machines",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44xl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tricky Machines",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1495380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1495380",
+        "Linux": "setsid steam steam://rungameid/1495380",
+        "macOS": "open steam://rungameid/1495380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tricky-machines",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157160"
+}
