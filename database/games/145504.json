@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145504,
+  "name": "Whisker Squadron",
+  "source_url": "https://www.igdb.com/games/whisker-squadron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zxi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Whisker Squadron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1303400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1303400",
+        "Linux": "setsid steam steam://rungameid/1303400",
+        "macOS": "open steam://rungameid/1303400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whisker-squadron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145504"
+}
