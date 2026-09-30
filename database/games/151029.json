@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151029,
+  "name": "The Arena Guy",
+  "source_url": "https://www.igdb.com/games/the-arena-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co431o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Arena Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1399270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1399270",
+        "Linux": "setsid steam steam://rungameid/1399270",
+        "macOS": "open steam://rungameid/1399270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-arena-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151029"
+}
