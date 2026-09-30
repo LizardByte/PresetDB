@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151503,
+  "name": "Hocus Defenders",
+  "source_url": "https://www.igdb.com/games/hocus-defenders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42i0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hocus Defenders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1407430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1407430",
+        "Linux": "setsid steam steam://rungameid/1407430",
+        "macOS": "open steam://rungameid/1407430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hocus-defenders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151503"
+}
