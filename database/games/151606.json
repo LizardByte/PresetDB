@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151606,
+  "name": "Brian the Brain",
+  "source_url": "https://www.igdb.com/games/brian-the-brain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brian the Brain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1583950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1583950",
+        "Linux": "setsid steam steam://rungameid/1583950",
+        "macOS": "open steam://rungameid/1583950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brian-the-brain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151606"
+}
