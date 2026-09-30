@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 147406,
+  "name": "TrickShot",
+  "source_url": "https://www.igdb.com/games/trickshot--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44xf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TrickShot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234920",
+        "Linux": "setsid steam steam://rungameid/1234920",
+        "macOS": "open steam://rungameid/1234920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trickshot--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=147406"
+}
