@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149543,
+  "name": "Kojouji",
+  "source_url": "https://www.igdb.com/games/kojouji",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46jn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kojouji",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1327260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1327260",
+        "Linux": "setsid steam steam://rungameid/1327260",
+        "macOS": "open steam://rungameid/1327260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kojouji",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149543"
+}
