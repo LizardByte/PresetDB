@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157048,
+  "name": "Spooky Speedrun",
+  "source_url": "https://www.igdb.com/games/spooky-speedrun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41zf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spooky Speedrun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1408550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1408550",
+        "Linux": "setsid steam steam://rungameid/1408550",
+        "macOS": "open steam://rungameid/1408550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spooky-speedrun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157048"
+}
