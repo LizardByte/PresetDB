@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149128,
+  "name": "Animocity",
+  "source_url": "https://www.igdb.com/games/animocity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lj4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Animocity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1255800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1255800",
+        "Linux": "setsid steam steam://rungameid/1255800",
+        "macOS": "open steam://rungameid/1255800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "animocity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149128"
+}
