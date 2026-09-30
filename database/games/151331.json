@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151331,
+  "name": "Buggos",
+  "source_url": "https://www.igdb.com/games/buggos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4kk2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Buggos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789660",
+        "Linux": "setsid steam steam://rungameid/789660",
+        "macOS": "open steam://rungameid/789660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "buggos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151331"
+}
