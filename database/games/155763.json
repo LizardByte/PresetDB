@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 155763,
+  "name": "CLT",
+  "source_url": "https://www.igdb.com/games/clt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CLT",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1502410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1502410",
+        "Linux": "setsid steam steam://rungameid/1502410",
+        "macOS": "open steam://rungameid/1502410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=155763"
+}
