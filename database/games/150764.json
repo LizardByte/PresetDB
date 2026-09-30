@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150764,
+  "name": "Unscripted",
+  "source_url": "https://www.igdb.com/games/unscripted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pdn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unscripted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1379980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1379980",
+        "Linux": "setsid steam steam://rungameid/1379980",
+        "macOS": "open steam://rungameid/1379980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unscripted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150764"
+}
