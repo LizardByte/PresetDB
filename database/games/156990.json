@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156990,
+  "name": "Ashi",
+  "source_url": "https://www.igdb.com/games/ashi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3los.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ashi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1104150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1104150",
+        "Linux": "setsid steam steam://rungameid/1104150",
+        "macOS": "open steam://rungameid/1104150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ashi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156990"
+}
