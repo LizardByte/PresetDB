@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153356,
+  "name": "Castle of the Land",
+  "source_url": "https://www.igdb.com/games/castle-of-the-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45n7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle of the Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1471900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1471900",
+        "Linux": "setsid steam steam://rungameid/1471900",
+        "macOS": "open steam://rungameid/1471900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "castle-of-the-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153356"
+}
