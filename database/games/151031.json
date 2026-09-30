@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151031,
+  "name": "Hostile Mars",
+  "source_url": "https://www.igdb.com/games/hostile-mars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43d7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hostile Mars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1402820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1402820",
+        "Linux": "setsid steam steam://rungameid/1402820",
+        "macOS": "open steam://rungameid/1402820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hostile-mars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151031"
+}
