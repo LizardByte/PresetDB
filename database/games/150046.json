@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150046,
+  "name": "Apple Bang!",
+  "source_url": "https://www.igdb.com/games/apple-bang",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co31ce.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apple Bang!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1645140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1645140",
+        "Linux": "setsid steam steam://rungameid/1645140",
+        "macOS": "open steam://rungameid/1645140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "apple-bang",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150046"
+}
