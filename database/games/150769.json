@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150769,
+  "name": "Mummmaster!",
+  "source_url": "https://www.igdb.com/games/mummmaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pfj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mummmaster!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1489480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1489480",
+        "Linux": "setsid steam steam://rungameid/1489480",
+        "macOS": "open steam://rungameid/1489480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mummmaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150769"
+}
