@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153932,
+  "name": "Blood Field",
+  "source_url": "https://www.igdb.com/games/blood-field",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6xjp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blood Field",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1673000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1673000",
+        "Linux": "setsid steam steam://rungameid/1673000",
+        "macOS": "open steam://rungameid/1673000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blood-field",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153932"
+}
