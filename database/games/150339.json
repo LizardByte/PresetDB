@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150339,
+  "name": "Hell Pub",
+  "source_url": "https://www.igdb.com/games/hell-pub",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42a6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hell Pub",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1204970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1204970",
+        "Linux": "setsid steam steam://rungameid/1204970",
+        "macOS": "open steam://rungameid/1204970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hell-pub",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150339"
+}
