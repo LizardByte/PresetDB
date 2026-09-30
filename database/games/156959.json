@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156959,
+  "name": "Lost Astronaut",
+  "source_url": "https://www.igdb.com/games/lost-astronaut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45ff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Astronaut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1481140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1481140",
+        "Linux": "setsid steam steam://rungameid/1481140",
+        "macOS": "open steam://rungameid/1481140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-astronaut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156959"
+}
