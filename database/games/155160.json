@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 155160,
+  "name": "OMSI 2: Hamburg",
+  "source_url": "https://www.igdb.com/games/omsi-2-hamburg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsw5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OMSI 2: Hamburg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "313430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/313430",
+        "Linux": "setsid steam steam://rungameid/313430",
+        "macOS": "open steam://rungameid/313430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "omsi-2-hamburg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=155160"
+}
