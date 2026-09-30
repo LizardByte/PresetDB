@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148522,
+  "name": "Tribal Wars",
+  "source_url": "https://www.igdb.com/games/tribal-wars--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44x8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tribal Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "675690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/675690",
+        "Linux": "setsid steam steam://rungameid/675690",
+        "macOS": "open steam://rungameid/675690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tribal-wars--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148522"
+}
