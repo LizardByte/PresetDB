@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144173,
+  "name": "Hannah",
+  "source_url": "https://www.igdb.com/games/hannah",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co900n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hannah",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1466870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1466870",
+        "Linux": "setsid steam steam://rungameid/1466870",
+        "macOS": "open steam://rungameid/1466870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hannah",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144173"
+}
