@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151334,
+  "name": "Game of Drones",
+  "source_url": "https://www.igdb.com/games/game-of-drones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co416a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game of Drones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "811940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/811940",
+        "Linux": "setsid steam steam://rungameid/811940",
+        "macOS": "open steam://rungameid/811940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-of-drones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151334"
+}
