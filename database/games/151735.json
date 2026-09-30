@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151735,
+  "name": "Mindhack",
+  "source_url": "https://www.igdb.com/games/mindhack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4p7w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mindhack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1727210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1727210",
+        "Linux": "setsid steam steam://rungameid/1727210",
+        "macOS": "open steam://rungameid/1727210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mindhack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151735"
+}
