@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151448,
+  "name": "SpaceShips",
+  "source_url": "https://www.igdb.com/games/spaceships",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41vx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpaceShips",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1605950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1605950",
+        "Linux": "setsid steam steam://rungameid/1605950",
+        "macOS": "open steam://rungameid/1605950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spaceships",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151448"
+}
