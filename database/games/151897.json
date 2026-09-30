@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151897,
+  "name": "Project QT",
+  "source_url": "https://www.igdb.com/games/project-qt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co33ag.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project QT",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1571200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1571200",
+        "Linux": "setsid steam steam://rungameid/1571200",
+        "macOS": "open steam://rungameid/1571200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-qt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151897"
+}
