@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143759,
+  "name": "ALTF4",
+  "source_url": "https://www.igdb.com/games/altf4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48gq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ALTF4",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1137460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1137460",
+        "Linux": "setsid steam steam://rungameid/1137460",
+        "macOS": "open steam://rungameid/1137460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "altf4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143759"
+}
