@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 146783,
+  "name": "Command Line Pilot",
+  "source_url": "https://www.igdb.com/games/command-line-pilot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2zeh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Command Line Pilot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1481630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1481630",
+        "Linux": "setsid steam steam://rungameid/1481630",
+        "macOS": "open steam://rungameid/1481630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "command-line-pilot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=146783"
+}
