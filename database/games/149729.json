@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149729,
+  "name": "Red Adventure",
+  "source_url": "https://www.igdb.com/games/red-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1631420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1631420",
+        "Linux": "setsid steam steam://rungameid/1631420",
+        "macOS": "open steam://rungameid/1631420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149729"
+}
