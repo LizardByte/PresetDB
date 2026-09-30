@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149319,
+  "name": "Eia",
+  "source_url": "https://www.igdb.com/games/eia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4627.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1501950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1501950",
+        "Linux": "setsid steam steam://rungameid/1501950",
+        "macOS": "open steam://rungameid/1501950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149319"
+}
