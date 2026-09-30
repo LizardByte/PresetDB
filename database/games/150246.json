@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150246,
+  "name": "Virtual Soldiers",
+  "source_url": "https://www.igdb.com/games/virtual-soldiers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3opy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Soldiers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1494100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1494100",
+        "Linux": "setsid steam steam://rungameid/1494100",
+        "macOS": "open steam://rungameid/1494100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-soldiers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150246"
+}
