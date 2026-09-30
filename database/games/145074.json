@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145074,
+  "name": "War Hospital",
+  "source_url": "https://www.igdb.com/games/war-hospital",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co77mr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War Hospital",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1553000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1553000",
+        "Linux": "setsid steam steam://rungameid/1553000",
+        "macOS": "open steam://rungameid/1553000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-hospital",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145074"
+}
