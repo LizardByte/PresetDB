@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143902,
+  "name": "North Town",
+  "source_url": "https://www.igdb.com/games/north-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2yq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "North Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1295680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1295680",
+        "Linux": "setsid steam steam://rungameid/1295680",
+        "macOS": "open steam://rungameid/1295680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "north-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143902"
+}
