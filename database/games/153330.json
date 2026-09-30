@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153330,
+  "name": "BreakBlast",
+  "source_url": "https://www.igdb.com/games/breakblast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45xv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BreakBlast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1418310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1418310",
+        "Linux": "setsid steam steam://rungameid/1418310",
+        "macOS": "open steam://rungameid/1418310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "breakblast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153330"
+}
