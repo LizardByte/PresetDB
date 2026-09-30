@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153650,
+  "name": "Super Archer",
+  "source_url": "https://www.igdb.com/games/super-archer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3c6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Archer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2439870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2439870",
+        "Linux": "setsid steam steam://rungameid/2439870",
+        "macOS": "open steam://rungameid/2439870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-archer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153650"
+}
