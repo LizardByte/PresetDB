@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149488,
+  "name": "Aliens Adventure",
+  "source_url": "https://www.igdb.com/games/aliens-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45st.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aliens Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1500830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1500830",
+        "Linux": "setsid steam steam://rungameid/1500830",
+        "macOS": "open steam://rungameid/1500830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aliens-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149488"
+}
