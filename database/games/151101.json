@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151101,
+  "name": "Fish and Groove",
+  "source_url": "https://www.igdb.com/games/fish-and-groove",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fish and Groove",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1460970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1460970",
+        "Linux": "setsid steam steam://rungameid/1460970",
+        "macOS": "open steam://rungameid/1460970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fish-and-groove",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151101"
+}
