@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 154699,
+  "name": "Fear",
+  "source_url": "https://www.igdb.com/games/fear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zme.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1673140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1673140",
+        "Linux": "setsid steam steam://rungameid/1673140",
+        "macOS": "open steam://rungameid/1673140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=154699"
+}
