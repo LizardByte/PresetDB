@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144274,
+  "name": "The Bazaar",
+  "source_url": "https://www.igdb.com/games/the-bazaar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclfj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Bazaar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1617400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1617400",
+        "Linux": "setsid steam steam://rungameid/1617400",
+        "macOS": "open steam://rungameid/1617400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-bazaar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144274"
+}
