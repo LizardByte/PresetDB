@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150785,
+  "name": "Snow Wars",
+  "source_url": "https://www.igdb.com/games/snow-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41qg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snow Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1547250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1547250",
+        "Linux": "setsid steam steam://rungameid/1547250",
+        "macOS": "open steam://rungameid/1547250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snow-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150785"
+}
