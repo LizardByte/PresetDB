@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150680,
+  "name": "Soulcaster",
+  "source_url": "https://www.igdb.com/games/soulcaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41sy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulcaster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1389300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1389300",
+        "Linux": "setsid steam steam://rungameid/1389300",
+        "macOS": "open steam://rungameid/1389300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulcaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150680"
+}
