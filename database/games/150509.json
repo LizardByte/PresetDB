@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150509,
+  "name": "Nocturne",
+  "source_url": "https://www.igdb.com/games/nocturne--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vnq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nocturne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1374860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1374860",
+        "Linux": "setsid steam steam://rungameid/1374860",
+        "macOS": "open steam://rungameid/1374860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nocturne--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150509"
+}
