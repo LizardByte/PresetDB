@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150007,
+  "name": "Sonic Origins",
+  "source_url": "https://www.igdb.com/games/sonic-origins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6alo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sonic Origins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1794960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1794960",
+        "Linux": "setsid steam steam://rungameid/1794960",
+        "macOS": "open steam://rungameid/1794960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sonic-origins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150007"
+}
