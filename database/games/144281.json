@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144281,
+  "name": "Spiky",
+  "source_url": "https://www.igdb.com/games/spiky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2xim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spiky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1493660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1493660",
+        "Linux": "setsid steam steam://rungameid/1493660",
+        "macOS": "open steam://rungameid/1493660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spiky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144281"
+}
