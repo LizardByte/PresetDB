@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150310,
+  "name": "Dumpy & Bumpy",
+  "source_url": "https://www.igdb.com/games/dumpy-and-bumpy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co725k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dumpy & Bumpy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1631500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1631500",
+        "Linux": "setsid steam steam://rungameid/1631500",
+        "macOS": "open steam://rungameid/1631500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dumpy-and-bumpy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150310"
+}
