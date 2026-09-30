@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150691,
+  "name": "Stray Kitten",
+  "source_url": "https://www.igdb.com/games/stray-kitten",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co425l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stray Kitten",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1534520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1534520",
+        "Linux": "setsid steam steam://rungameid/1534520",
+        "macOS": "open steam://rungameid/1534520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stray-kitten",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150691"
+}
