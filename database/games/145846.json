@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145846,
+  "name": "SimPocalypse",
+  "source_url": "https://www.igdb.com/games/simpocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2y02.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SimPocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1351500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1351500",
+        "Linux": "setsid steam steam://rungameid/1351500",
+        "macOS": "open steam://rungameid/1351500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simpocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145846"
+}
