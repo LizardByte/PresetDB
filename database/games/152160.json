@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152160,
+  "name": "Rangerdog",
+  "source_url": "https://www.igdb.com/games/rangerdog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4786.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rangerdog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1627710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1627710",
+        "Linux": "setsid steam steam://rungameid/1627710",
+        "macOS": "open steam://rungameid/1627710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rangerdog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152160"
+}
