@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150861,
+  "name": "Fake Racing",
+  "source_url": "https://www.igdb.com/games/fake-racing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zjb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fake Racing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1481600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1481600",
+        "Linux": "setsid steam steam://rungameid/1481600",
+        "macOS": "open steam://rungameid/1481600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fake-racing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150861"
+}
