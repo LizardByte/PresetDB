@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 147564,
+  "name": "Virtual Battle",
+  "source_url": "https://www.igdb.com/games/virtual-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59fh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2071030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2071030",
+        "Linux": "setsid steam steam://rungameid/2071030",
+        "macOS": "open steam://rungameid/2071030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=147564"
+}
