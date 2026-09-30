@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148112,
+  "name": "Connected!",
+  "source_url": "https://www.igdb.com/games/connected",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Connected!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1625370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1625370",
+        "Linux": "setsid steam steam://rungameid/1625370",
+        "macOS": "open steam://rungameid/1625370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "connected",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148112"
+}
