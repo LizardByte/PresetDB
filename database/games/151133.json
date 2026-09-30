@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151133,
+  "name": "Jad",
+  "source_url": "https://www.igdb.com/games/jad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co449y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1447060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1447060",
+        "Linux": "setsid steam steam://rungameid/1447060",
+        "macOS": "open steam://rungameid/1447060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151133"
+}
