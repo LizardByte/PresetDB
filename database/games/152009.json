@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152009,
+  "name": "Why Not?",
+  "source_url": "https://www.igdb.com/games/why-not",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hty.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Why Not?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1642230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1642230",
+        "Linux": "setsid steam steam://rungameid/1642230",
+        "macOS": "open steam://rungameid/1642230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "why-not",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152009"
+}
