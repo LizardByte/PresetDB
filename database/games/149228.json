@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149228,
+  "name": "Polity",
+  "source_url": "https://www.igdb.com/games/polity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fui.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1479480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1479480",
+        "Linux": "setsid steam steam://rungameid/1479480",
+        "macOS": "open steam://rungameid/1479480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149228"
+}
