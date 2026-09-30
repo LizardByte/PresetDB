@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 146698,
+  "name": "The Stonks Market",
+  "source_url": "https://www.igdb.com/games/the-stonks-market",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2za9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Stonks Market",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1554080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1554080",
+        "Linux": "setsid steam steam://rungameid/1554080",
+        "macOS": "open steam://rungameid/1554080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-stonks-market",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=146698"
+}
