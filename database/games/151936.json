@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151936,
+  "name": "Uno: Flip",
+  "source_url": "https://www.igdb.com/games/uno-flip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob48y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uno: Flip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1246520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1246520",
+        "Linux": "setsid steam steam://rungameid/1246520",
+        "macOS": "open steam://rungameid/1246520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "uno-flip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151936"
+}
