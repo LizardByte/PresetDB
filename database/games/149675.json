@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149675,
+  "name": "Zombie Frenzy",
+  "source_url": "https://www.igdb.com/games/zombie-frenzy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l30.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Frenzy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1360250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1360250",
+        "Linux": "setsid steam steam://rungameid/1360250",
+        "macOS": "open steam://rungameid/1360250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-frenzy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149675"
+}
