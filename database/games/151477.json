@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151477,
+  "name": "Cyber-Cat",
+  "source_url": "https://www.igdb.com/games/cyber-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3o0x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cyber-Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1528710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1528710",
+        "Linux": "setsid steam steam://rungameid/1528710",
+        "macOS": "open steam://rungameid/1528710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cyber-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151477"
+}
