@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150199,
+  "name": "The Owl and Lighthouse",
+  "source_url": "https://www.igdb.com/games/the-owl-and-lighthouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66p6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Owl and Lighthouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1591500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1591500",
+        "Linux": "setsid steam steam://rungameid/1591500",
+        "macOS": "open steam://rungameid/1591500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-owl-and-lighthouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150199"
+}
