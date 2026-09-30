@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151036,
+  "name": "Le Frenchie",
+  "source_url": "https://www.igdb.com/games/le-frenchie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co457k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Le Frenchie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1589550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1589550",
+        "Linux": "setsid steam steam://rungameid/1589550",
+        "macOS": "open steam://rungameid/1589550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "le-frenchie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151036"
+}
