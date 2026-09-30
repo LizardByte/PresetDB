@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151393,
+  "name": "Spinning Kid",
+  "source_url": "https://www.igdb.com/games/spinning-kid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41yg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spinning Kid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1420950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1420950",
+        "Linux": "setsid steam steam://rungameid/1420950",
+        "macOS": "open steam://rungameid/1420950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spinning-kid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151393"
+}
