@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149264,
+  "name": "Bellatia",
+  "source_url": "https://www.igdb.com/games/bellatia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bku.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bellatia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "614450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/614450",
+        "Linux": "setsid steam steam://rungameid/614450",
+        "macOS": "open steam://rungameid/614450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bellatia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149264"
+}
