@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156993,
+  "name": "Please Wake Up",
+  "source_url": "https://www.igdb.com/games/please-wake-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vfz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Please Wake Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1397800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1397800",
+        "Linux": "setsid steam steam://rungameid/1397800",
+        "macOS": "open steam://rungameid/1397800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "please-wake-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156993"
+}
