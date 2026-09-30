@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153407,
+  "name": "Kuro Neko",
+  "source_url": "https://www.igdb.com/games/kuro-neko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46ju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kuro Neko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1450730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1450730",
+        "Linux": "setsid steam steam://rungameid/1450730",
+        "macOS": "open steam://rungameid/1450730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kuro-neko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153407"
+}
