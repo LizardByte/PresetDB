@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149294,
+  "name": "Influxis",
+  "source_url": "https://www.igdb.com/games/influxis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43le.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Influxis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1393830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1393830",
+        "Linux": "setsid steam steam://rungameid/1393830",
+        "macOS": "open steam://rungameid/1393830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "influxis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149294"
+}
