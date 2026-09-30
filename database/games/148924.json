@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148924,
+  "name": "Band of Brothers",
+  "source_url": "https://www.igdb.com/games/band-of-brothers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lwv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Band of Brothers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1505680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1505680",
+        "Linux": "setsid steam steam://rungameid/1505680",
+        "macOS": "open steam://rungameid/1505680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "band-of-brothers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148924"
+}
