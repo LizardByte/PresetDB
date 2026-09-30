@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153064,
+  "name": "Super Bot",
+  "source_url": "https://www.igdb.com/games/super-bot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46up.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Bot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1643600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1643600",
+        "Linux": "setsid steam steam://rungameid/1643600",
+        "macOS": "open steam://rungameid/1643600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-bot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153064"
+}
