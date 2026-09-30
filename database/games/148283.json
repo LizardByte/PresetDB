@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148283,
+  "name": "Dark Abyss",
+  "source_url": "https://www.igdb.com/games/dark-abyss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45z9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Abyss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1229960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1229960",
+        "Linux": "setsid steam steam://rungameid/1229960",
+        "macOS": "open steam://rungameid/1229960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-abyss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148283"
+}
