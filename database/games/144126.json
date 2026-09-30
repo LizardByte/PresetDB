@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144126,
+  "name": "Get Together",
+  "source_url": "https://www.igdb.com/games/get-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2u58.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1505540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1505540",
+        "Linux": "setsid steam steam://rungameid/1505540",
+        "macOS": "open steam://rungameid/1505540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144126"
+}
