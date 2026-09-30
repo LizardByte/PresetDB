@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144678,
+  "name": "Crazy Killer",
+  "source_url": "https://www.igdb.com/games/crazy-killer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vbh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Killer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "448460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/448460",
+        "Linux": "setsid steam steam://rungameid/448460",
+        "macOS": "open steam://rungameid/448460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crazy-killer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144678"
+}
