@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145366,
+  "name": "A Day",
+  "source_url": "https://www.igdb.com/games/a-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wyk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1507990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1507990",
+        "Linux": "setsid steam steam://rungameid/1507990",
+        "macOS": "open steam://rungameid/1507990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145366"
+}
