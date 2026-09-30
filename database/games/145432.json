@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145432,
+  "name": "Stand By Me",
+  "source_url": "https://www.igdb.com/games/stand-by-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bl8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stand By Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1484600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1484600",
+        "Linux": "setsid steam steam://rungameid/1484600",
+        "macOS": "open steam://rungameid/1484600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stand-by-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145432"
+}
