@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149649,
+  "name": "Snack Tick",
+  "source_url": "https://www.igdb.com/games/snack-tick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41pb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snack Tick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1356260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1356260",
+        "Linux": "setsid steam steam://rungameid/1356260",
+        "macOS": "open steam://rungameid/1356260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snack-tick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149649"
+}
