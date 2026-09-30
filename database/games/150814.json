@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150814,
+  "name": "Bodyless",
+  "source_url": "https://www.igdb.com/games/bodyless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mgd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bodyless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1202100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1202100",
+        "Linux": "setsid steam steam://rungameid/1202100",
+        "macOS": "open steam://rungameid/1202100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bodyless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150814"
+}
