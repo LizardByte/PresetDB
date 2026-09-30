@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145109,
+  "name": "Pixel Speedrun",
+  "source_url": "https://www.igdb.com/games/pixel-speedrun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2wa0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Speedrun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1600810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1600810",
+        "Linux": "setsid steam steam://rungameid/1600810",
+        "macOS": "open steam://rungameid/1600810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-speedrun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145109"
+}
