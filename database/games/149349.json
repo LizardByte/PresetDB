@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149349,
+  "name": "Meow Lab",
+  "source_url": "https://www.igdb.com/games/meow-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meow Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1505770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1505770",
+        "Linux": "setsid steam steam://rungameid/1505770",
+        "macOS": "open steam://rungameid/1505770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meow-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149349"
+}
