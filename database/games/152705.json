@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 152705,
+  "name": "Thousand Lives",
+  "source_url": "https://www.igdb.com/games/thousand-lives",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46df.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thousand Lives",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1631360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1631360",
+        "Linux": "setsid steam steam://rungameid/1631360",
+        "macOS": "open steam://rungameid/1631360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thousand-lives",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=152705"
+}
