@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153029,
+  "name": "Nanoscape VR",
+  "source_url": "https://www.igdb.com/games/nanoscape-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co470v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nanoscape VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1634740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1634740",
+        "Linux": "setsid steam steam://rungameid/1634740",
+        "macOS": "open steam://rungameid/1634740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nanoscape-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153029"
+}
