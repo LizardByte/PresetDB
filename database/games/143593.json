@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143593,
+  "name": "Silence Channel",
+  "source_url": "https://www.igdb.com/games/silence-channel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2tfk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silence Channel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1408860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1408860",
+        "Linux": "setsid steam steam://rungameid/1408860",
+        "macOS": "open steam://rungameid/1408860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silence-channel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143593"
+}
