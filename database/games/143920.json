@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143920,
+  "name": "Mysterious World",
+  "source_url": "https://www.igdb.com/games/mysterious-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3pk8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mysterious World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1273510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1273510",
+        "Linux": "setsid steam steam://rungameid/1273510",
+        "macOS": "open steam://rungameid/1273510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mysterious-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143920"
+}
