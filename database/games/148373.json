@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148373,
+  "name": "Hellborne",
+  "source_url": "https://www.igdb.com/games/hellborne",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3uir.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellborne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1646330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1646330",
+        "Linux": "setsid steam steam://rungameid/1646330",
+        "macOS": "open steam://rungameid/1646330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellborne",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148373"
+}
