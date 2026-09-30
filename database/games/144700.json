@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144700,
+  "name": "A Frog's Tale",
+  "source_url": "https://www.igdb.com/games/a-frogs-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2vc7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Frog's Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1561080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1561080",
+        "Linux": "setsid steam steam://rungameid/1561080",
+        "macOS": "open steam://rungameid/1561080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-frogs-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144700"
+}
