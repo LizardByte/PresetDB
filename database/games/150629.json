@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 150629,
+  "name": "Wild world",
+  "source_url": "https://www.igdb.com/games/wild-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n91.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild world",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1598710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1598710",
+        "Linux": "setsid steam steam://rungameid/1598710",
+        "macOS": "open steam://rungameid/1598710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=150629"
+}
