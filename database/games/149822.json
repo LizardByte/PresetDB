@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 149822,
+  "name": "Spooky Speakeasy",
+  "source_url": "https://www.igdb.com/games/spooky-speakeasy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spooky Speakeasy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1440940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1440940",
+        "Linux": "setsid steam steam://rungameid/1440940",
+        "macOS": "open steam://rungameid/1440940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spooky-speakeasy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=149822"
+}
