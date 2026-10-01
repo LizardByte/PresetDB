@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157544,
+  "name": "Scrapyard Simulator",
+  "source_url": "https://www.igdb.com/games/scrapyard-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40vj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scrapyard Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1391000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1391000",
+        "Linux": "setsid steam steam://rungameid/1391000",
+        "macOS": "open steam://rungameid/1391000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scrapyard-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157544"
+}
