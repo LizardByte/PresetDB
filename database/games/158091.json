@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158091,
+  "name": "Mad Mosh",
+  "source_url": "https://www.igdb.com/games/mad-mosh",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46s9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Mosh",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1359910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1359910",
+        "Linux": "setsid steam steam://rungameid/1359910",
+        "macOS": "open steam://rungameid/1359910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mad-mosh",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158091"
+}
