@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157486,
+  "name": "Slow and Steady",
+  "source_url": "https://www.igdb.com/games/slow-and-steady",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41o4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slow and Steady",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1599080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1599080",
+        "Linux": "setsid steam steam://rungameid/1599080",
+        "macOS": "open steam://rungameid/1599080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slow-and-steady",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157486"
+}
