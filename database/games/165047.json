@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165047,
+  "name": "Wurdweb",
+  "source_url": "https://www.igdb.com/games/wurdweb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qj9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wurdweb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2185880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2185880",
+        "Linux": "setsid steam steam://rungameid/2185880",
+        "macOS": "open steam://rungameid/2185880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wurdweb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165047"
+}
