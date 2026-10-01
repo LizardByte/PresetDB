@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159647,
+  "name": "Trident",
+  "source_url": "https://www.igdb.com/games/trident",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46id.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trident",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1331860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1331860",
+        "Linux": "setsid steam steam://rungameid/1331860",
+        "macOS": "open steam://rungameid/1331860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trident",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159647"
+}
