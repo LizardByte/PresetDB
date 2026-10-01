@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165780,
+  "name": "In the Dark",
+  "source_url": "https://www.igdb.com/games/in-the-dark--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hcb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In the Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1384760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1384760",
+        "Linux": "setsid steam steam://rungameid/1384760",
+        "macOS": "open steam://rungameid/1384760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-the-dark--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165780"
+}
