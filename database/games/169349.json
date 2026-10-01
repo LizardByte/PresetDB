@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 169349,
+  "name": "My First Furry",
+  "source_url": "https://www.igdb.com/games/my-first-furry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lnz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My First Furry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1717130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1717130",
+        "Linux": "setsid steam steam://rungameid/1717130",
+        "macOS": "open steam://rungameid/1717130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-first-furry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=169349"
+}
