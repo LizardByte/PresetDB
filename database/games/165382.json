@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165382,
+  "name": "TramSim Munich",
+  "source_url": "https://www.igdb.com/games/tramsim-munich",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p7k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TramSim Munich",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1736400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1736400",
+        "Linux": "setsid steam steam://rungameid/1736400",
+        "macOS": "open steam://rungameid/1736400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tramsim-munich",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165382"
+}
