@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158522,
+  "name": "Evaverse",
+  "source_url": "https://www.igdb.com/games/evaverse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zbd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evaverse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1628750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1628750",
+        "Linux": "setsid steam steam://rungameid/1628750",
+        "macOS": "open steam://rungameid/1628750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evaverse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158522"
+}
