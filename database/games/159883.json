@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159883,
+  "name": "PumPum",
+  "source_url": "https://www.igdb.com/games/pumpum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3y3s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PumPum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1595290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1595290",
+        "Linux": "setsid steam steam://rungameid/1595290",
+        "macOS": "open steam://rungameid/1595290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pumpum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159883"
+}
