@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163849,
+  "name": "Space Storeship",
+  "source_url": "https://www.igdb.com/games/space-storeship",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41w5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Storeship",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1681020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1681020",
+        "Linux": "setsid steam steam://rungameid/1681020",
+        "macOS": "open steam://rungameid/1681020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-storeship",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163849"
+}
