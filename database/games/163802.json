@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163802,
+  "name": "World of bombs",
+  "source_url": "https://www.igdb.com/games/world-of-bombs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ne9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of bombs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1710550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1710550",
+        "Linux": "setsid steam steam://rungameid/1710550",
+        "macOS": "open steam://rungameid/1710550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-of-bombs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163802"
+}
