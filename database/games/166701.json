@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166701,
+  "name": "NeverDeath",
+  "source_url": "https://www.igdb.com/games/neverdeath",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jpb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NeverDeath",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1686860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1686860",
+        "Linux": "setsid steam steam://rungameid/1686860",
+        "macOS": "open steam://rungameid/1686860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neverdeath",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166701"
+}
