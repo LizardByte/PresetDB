@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157498,
+  "name": "Two Bit Hero",
+  "source_url": "https://www.igdb.com/games/two-bit-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46is.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Two Bit Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1288380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1288380",
+        "Linux": "setsid steam steam://rungameid/1288380",
+        "macOS": "open steam://rungameid/1288380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "two-bit-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157498"
+}
