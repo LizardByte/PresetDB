@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158622,
+  "name": "JumpJumpBall",
+  "source_url": "https://www.igdb.com/games/jumpjumpball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44cm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JumpJumpBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1419770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1419770",
+        "Linux": "setsid steam steam://rungameid/1419770",
+        "macOS": "open steam://rungameid/1419770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jumpjumpball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158622"
+}
