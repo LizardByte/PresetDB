@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 167559,
+  "name": "The Ghost",
+  "source_url": "https://www.igdb.com/games/the-ghost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n32.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Ghost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1440730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1440730",
+        "Linux": "setsid steam steam://rungameid/1440730",
+        "macOS": "open steam://rungameid/1440730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-ghost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=167559"
+}
