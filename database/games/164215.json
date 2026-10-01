@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164215,
+  "name": "Dark Crypt",
+  "source_url": "https://www.igdb.com/games/dark-crypt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qxu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Crypt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1706170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1706170",
+        "Linux": "setsid steam steam://rungameid/1706170",
+        "macOS": "open steam://rungameid/1706170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-crypt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164215"
+}
