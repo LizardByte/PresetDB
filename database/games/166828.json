@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166828,
+  "name": "Toi",
+  "source_url": "https://www.igdb.com/games/toi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5njk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1467230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1467230",
+        "Linux": "setsid steam steam://rungameid/1467230",
+        "macOS": "open steam://rungameid/1467230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166828"
+}
