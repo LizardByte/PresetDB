@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158564,
+  "name": "Safari Zone",
+  "source_url": "https://www.igdb.com/games/safari-zone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yst.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Safari Zone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1421600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1421600",
+        "Linux": "setsid steam steam://rungameid/1421600",
+        "macOS": "open steam://rungameid/1421600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "safari-zone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158564"
+}
