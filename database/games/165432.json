@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165432,
+  "name": "Spine",
+  "source_url": "https://www.igdb.com/games/spine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrsi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1731290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1731290",
+        "Linux": "setsid steam steam://rungameid/1731290",
+        "macOS": "open steam://rungameid/1731290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165432"
+}
