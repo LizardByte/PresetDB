@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160221,
+  "name": "Toothy History",
+  "source_url": "https://www.igdb.com/games/toothy-history",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44rt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toothy History",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1562240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1562240",
+        "Linux": "setsid steam steam://rungameid/1562240",
+        "macOS": "open steam://rungameid/1562240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toothy-history",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160221"
+}
