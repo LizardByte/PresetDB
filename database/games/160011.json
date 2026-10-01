@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160011,
+  "name": "Internet Court",
+  "source_url": "https://www.igdb.com/games/internet-court",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46gb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Internet Court",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1286770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1286770",
+        "Linux": "setsid steam steam://rungameid/1286770",
+        "macOS": "open steam://rungameid/1286770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "internet-court",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160011"
+}
