@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158159,
+  "name": "Robo Oh",
+  "source_url": "https://www.igdb.com/games/robo-oh",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robo Oh",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1434880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1434880",
+        "Linux": "setsid steam steam://rungameid/1434880",
+        "macOS": "open steam://rungameid/1434880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robo-oh",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158159"
+}
