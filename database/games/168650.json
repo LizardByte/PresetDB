@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168650,
+  "name": "Kitt.Io",
+  "source_url": "https://www.igdb.com/games/kitt-dot-io",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gw3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitt.Io",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1314870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1314870",
+        "Linux": "setsid steam steam://rungameid/1314870",
+        "macOS": "open steam://rungameid/1314870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kitt-dot-io",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168650"
+}
