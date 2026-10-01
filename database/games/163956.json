@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163956,
+  "name": "RedEx",
+  "source_url": "https://www.igdb.com/games/redex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yd2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RedEx",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1460250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1460250",
+        "Linux": "setsid steam steam://rungameid/1460250",
+        "macOS": "open steam://rungameid/1460250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "redex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163956"
+}
