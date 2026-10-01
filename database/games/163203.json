@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163203,
+  "name": "Find Objects",
+  "source_url": "https://www.igdb.com/games/find-objects",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zoo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find Objects",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1706890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1706890",
+        "Linux": "setsid steam steam://rungameid/1706890",
+        "macOS": "open steam://rungameid/1706890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-objects",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163203"
+}
