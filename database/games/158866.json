@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158866,
+  "name": "Disarmed",
+  "source_url": "https://www.igdb.com/games/disarmed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co460r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Disarmed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1266440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1266440",
+        "Linux": "setsid steam steam://rungameid/1266440",
+        "macOS": "open steam://rungameid/1266440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "disarmed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158866"
+}
