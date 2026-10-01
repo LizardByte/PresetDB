@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160001,
+  "name": "Hexagon World",
+  "source_url": "https://www.igdb.com/games/hexagon-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42e1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexagon World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1701040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1701040",
+        "Linux": "setsid steam steam://rungameid/1701040",
+        "macOS": "open steam://rungameid/1701040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexagon-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160001"
+}
