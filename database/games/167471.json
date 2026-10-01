@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 167471,
+  "name": "Arkos",
+  "source_url": "https://www.igdb.com/games/arkos--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53bh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arkos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1596440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1596440",
+        "Linux": "setsid steam steam://rungameid/1596440",
+        "macOS": "open steam://rungameid/1596440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arkos--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=167471"
+}
