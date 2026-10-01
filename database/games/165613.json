@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165613,
+  "name": "Spectacular Sparky",
+  "source_url": "https://www.igdb.com/games/spectacular-sparky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3t2k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spectacular Sparky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1300100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1300100",
+        "Linux": "setsid steam steam://rungameid/1300100",
+        "macOS": "open steam://rungameid/1300100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spectacular-sparky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165613"
+}
