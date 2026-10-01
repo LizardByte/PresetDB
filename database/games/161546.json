@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161546,
+  "name": "Spookyard",
+  "source_url": "https://www.igdb.com/games/spookyard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41za.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spookyard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1222380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1222380",
+        "Linux": "setsid steam steam://rungameid/1222380",
+        "macOS": "open steam://rungameid/1222380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spookyard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161546"
+}
