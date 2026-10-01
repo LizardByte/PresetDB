@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161572,
+  "name": "Bowsette",
+  "source_url": "https://www.igdb.com/games/bowsette",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3mit.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bowsette",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1152120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1152120",
+        "Linux": "setsid steam steam://rungameid/1152120",
+        "macOS": "open steam://rungameid/1152120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bowsette",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161572"
+}
