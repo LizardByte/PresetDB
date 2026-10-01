@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163916,
+  "name": "Felix VR",
+  "source_url": "https://www.igdb.com/games/felix-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfgb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Felix VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "766110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/766110",
+        "Linux": "setsid steam steam://rungameid/766110",
+        "macOS": "open steam://rungameid/766110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "felix-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163916"
+}
