@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159449,
+  "name": "Zoo War",
+  "source_url": "https://www.igdb.com/games/zoo-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3l4x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zoo War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "612240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/612240",
+        "Linux": "setsid steam steam://rungameid/612240",
+        "macOS": "open steam://rungameid/612240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zoo-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159449"
+}
