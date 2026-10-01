@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159903,
+  "name": "Story",
+  "source_url": "https://www.igdb.com/games/story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46tq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1350120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1350120",
+        "Linux": "setsid steam steam://rungameid/1350120",
+        "macOS": "open steam://rungameid/1350120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159903"
+}
