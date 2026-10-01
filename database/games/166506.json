@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166506,
+  "name": "My Village Life",
+  "source_url": "https://www.igdb.com/games/my-village-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3rps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Village Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1385780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1385780",
+        "Linux": "setsid steam steam://rungameid/1385780",
+        "macOS": "open steam://rungameid/1385780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-village-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166506"
+}
