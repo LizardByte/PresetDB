@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168133,
+  "name": "DriftZ",
+  "source_url": "https://www.igdb.com/games/driftz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4grm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DriftZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1322180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1322180",
+        "Linux": "setsid steam steam://rungameid/1322180",
+        "macOS": "open steam://rungameid/1322180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "driftz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168133"
+}
