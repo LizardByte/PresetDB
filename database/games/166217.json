@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166217,
+  "name": "Selatria",
+  "source_url": "https://www.igdb.com/games/selatria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kwi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Selatria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1052040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1052040",
+        "Linux": "setsid steam steam://rungameid/1052040",
+        "macOS": "open steam://rungameid/1052040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "selatria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166217"
+}
