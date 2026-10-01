@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164120,
+  "name": "Backbeat",
+  "source_url": "https://www.igdb.com/games/backbeat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ar6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Backbeat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1585730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1585730",
+        "Linux": "setsid steam steam://rungameid/1585730",
+        "macOS": "open steam://rungameid/1585730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "backbeat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164120"
+}
