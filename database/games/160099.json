@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160099,
+  "name": "Omnia",
+  "source_url": "https://www.igdb.com/games/omnia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qkq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Omnia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1652480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1652480",
+        "Linux": "setsid steam steam://rungameid/1652480",
+        "macOS": "open steam://rungameid/1652480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "omnia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160099"
+}
