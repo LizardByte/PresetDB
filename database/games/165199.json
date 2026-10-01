@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165199,
+  "name": "Killer Bean",
+  "source_url": "https://www.igdb.com/games/killer-bean",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ht7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Killer Bean",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1597080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1597080",
+        "Linux": "setsid steam steam://rungameid/1597080",
+        "macOS": "open steam://rungameid/1597080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "killer-bean",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165199"
+}
