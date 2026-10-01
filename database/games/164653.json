@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164653,
+  "name": "Ordinary Human Game",
+  "source_url": "https://www.igdb.com/games/ordinary-human-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3k8n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ordinary Human Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1707330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1707330",
+        "Linux": "setsid steam steam://rungameid/1707330",
+        "macOS": "open steam://rungameid/1707330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ordinary-human-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164653"
+}
