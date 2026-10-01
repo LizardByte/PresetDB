@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166755,
+  "name": "HangOutGame",
+  "source_url": "https://www.igdb.com/games/hangoutgame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e2r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HangOutGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1466950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1466950",
+        "Linux": "setsid steam steam://rungameid/1466950",
+        "macOS": "open steam://rungameid/1466950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hangoutgame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166755"
+}
