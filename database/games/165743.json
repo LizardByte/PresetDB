@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165743,
+  "name": "Punkgrad",
+  "source_url": "https://www.igdb.com/games/punkgrad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mqu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Punkgrad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1699790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1699790",
+        "Linux": "setsid steam steam://rungameid/1699790",
+        "macOS": "open steam://rungameid/1699790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "punkgrad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165743"
+}
