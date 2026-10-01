@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163577,
+  "name": "My Wife",
+  "source_url": "https://www.igdb.com/games/my-wife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o2c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Wife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1703120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1703120",
+        "Linux": "setsid steam steam://rungameid/1703120",
+        "macOS": "open steam://rungameid/1703120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-wife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163577"
+}
