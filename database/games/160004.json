@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160004,
+  "name": "PC Hockey League",
+  "source_url": "https://www.igdb.com/games/pc-hockey-league",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3qw1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PC Hockey League",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1684580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1684580",
+        "Linux": "setsid steam steam://rungameid/1684580",
+        "macOS": "open steam://rungameid/1684580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pc-hockey-league",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160004"
+}
