@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168655,
+  "name": "War War",
+  "source_url": "https://www.igdb.com/games/war-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hr1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1358430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1358430",
+        "Linux": "setsid steam steam://rungameid/1358430",
+        "macOS": "open steam://rungameid/1358430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168655"
+}
