@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165953,
+  "name": "Party Parkade",
+  "source_url": "https://www.igdb.com/games/party-parkade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3r6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Party Parkade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1395600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1395600",
+        "Linux": "setsid steam steam://rungameid/1395600",
+        "macOS": "open steam://rungameid/1395600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "party-parkade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165953"
+}
