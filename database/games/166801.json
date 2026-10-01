@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166801,
+  "name": "FallTower",
+  "source_url": "https://www.igdb.com/games/falltower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gsc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FallTower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1659790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1659790",
+        "Linux": "setsid steam steam://rungameid/1659790",
+        "macOS": "open steam://rungameid/1659790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "falltower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166801"
+}
