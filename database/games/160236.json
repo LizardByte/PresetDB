@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160236,
+  "name": "The Legend of Cesar",
+  "source_url": "https://www.igdb.com/games/the-legend-of-cesar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co469a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legend of Cesar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1283800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1283800",
+        "Linux": "setsid steam steam://rungameid/1283800",
+        "macOS": "open steam://rungameid/1283800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-legend-of-cesar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160236"
+}
