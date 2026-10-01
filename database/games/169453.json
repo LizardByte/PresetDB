@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 169453,
+  "name": "Tower of Ardia",
+  "source_url": "https://www.igdb.com/games/tower-of-ardia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nlt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tower of Ardia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1551540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1551540",
+        "Linux": "setsid steam steam://rungameid/1551540",
+        "macOS": "open steam://rungameid/1551540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tower-of-ardia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=169453"
+}
