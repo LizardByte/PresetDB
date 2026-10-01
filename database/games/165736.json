@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165736,
+  "name": "Dodge It!",
+  "source_url": "https://www.igdb.com/games/dodge-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gxu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dodge It!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1720050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1720050",
+        "Linux": "setsid steam steam://rungameid/1720050",
+        "macOS": "open steam://rungameid/1720050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dodge-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165736"
+}
