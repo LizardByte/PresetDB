@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160184,
+  "name": "Fabulous Place",
+  "source_url": "https://www.igdb.com/games/fabulous-place",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3zie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fabulous Place",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1445860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1445860",
+        "Linux": "setsid steam steam://rungameid/1445860",
+        "macOS": "open steam://rungameid/1445860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fabulous-place",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160184"
+}
