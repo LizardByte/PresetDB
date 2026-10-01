@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158083,
+  "name": "Tiny Strife",
+  "source_url": "https://www.igdb.com/games/tiny-strife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44p5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Strife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1475250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1475250",
+        "Linux": "setsid steam steam://rungameid/1475250",
+        "macOS": "open steam://rungameid/1475250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-strife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158083"
+}
