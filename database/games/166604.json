@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166604,
+  "name": "You Must",
+  "source_url": "https://www.igdb.com/games/you-must",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59h1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You Must",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1726730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1726730",
+        "Linux": "setsid steam steam://rungameid/1726730",
+        "macOS": "open steam://rungameid/1726730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-must",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166604"
+}
