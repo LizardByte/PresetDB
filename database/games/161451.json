@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161451,
+  "name": "Shape Arena",
+  "source_url": "https://www.igdb.com/games/shape-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4100.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shape Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1222390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1222390",
+        "Linux": "setsid steam steam://rungameid/1222390",
+        "macOS": "open steam://rungameid/1222390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shape-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161451"
+}
