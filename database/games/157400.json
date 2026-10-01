@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157400,
+  "name": "Loch Mess",
+  "source_url": "https://www.igdb.com/games/loch-mess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45dg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loch Mess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1391650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1391650",
+        "Linux": "setsid steam steam://rungameid/1391650",
+        "macOS": "open steam://rungameid/1391650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "loch-mess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157400"
+}
