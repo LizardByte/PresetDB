@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157850,
+  "name": "Tomb Typing",
+  "source_url": "https://www.igdb.com/games/tomb-typing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44qa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tomb Typing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145200",
+        "Linux": "setsid steam steam://rungameid/1145200",
+        "macOS": "open steam://rungameid/1145200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tomb-typing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157850"
+}
