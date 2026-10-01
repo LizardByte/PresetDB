@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159653,
+  "name": "Kuguru",
+  "source_url": "https://www.igdb.com/games/kuguru",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co453e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kuguru",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1505960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1505960",
+        "Linux": "setsid steam steam://rungameid/1505960",
+        "macOS": "open steam://rungameid/1505960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kuguru",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159653"
+}
