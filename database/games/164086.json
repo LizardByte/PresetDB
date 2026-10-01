@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164086,
+  "name": "Haos",
+  "source_url": "https://www.igdb.com/games/haos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41l8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1681380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1681380",
+        "Linux": "setsid steam steam://rungameid/1681380",
+        "macOS": "open steam://rungameid/1681380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164086"
+}
