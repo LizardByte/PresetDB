@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159573,
+  "name": "The Fire",
+  "source_url": "https://www.igdb.com/games/the-fire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43s6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Fire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1360580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1360580",
+        "Linux": "setsid steam steam://rungameid/1360580",
+        "macOS": "open steam://rungameid/1360580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-fire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159573"
+}
