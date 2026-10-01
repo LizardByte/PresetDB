@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158378,
+  "name": "Tourney",
+  "source_url": "https://www.igdb.com/games/tourney",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44sz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tourney",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1631600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1631600",
+        "Linux": "setsid steam steam://rungameid/1631600",
+        "macOS": "open steam://rungameid/1631600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tourney",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158378"
+}
