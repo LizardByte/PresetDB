@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165614,
+  "name": "Shark Pinball",
+  "source_url": "https://www.igdb.com/games/shark-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6z0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shark Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2395790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2395790",
+        "Linux": "setsid steam steam://rungameid/2395790",
+        "macOS": "open steam://rungameid/2395790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shark-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165614"
+}
