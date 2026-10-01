@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158418,
+  "name": "Blub Emporium",
+  "source_url": "https://www.igdb.com/games/blub-emporium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49g1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blub Emporium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1592530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1592530",
+        "Linux": "setsid steam steam://rungameid/1592530",
+        "macOS": "open steam://rungameid/1592530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blub-emporium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158418"
+}
