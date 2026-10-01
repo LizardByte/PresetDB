@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168715,
+  "name": "What Time Is It",
+  "source_url": "https://www.igdb.com/games/what-time-is-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ht6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What Time Is It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1648720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1648720",
+        "Linux": "setsid steam steam://rungameid/1648720",
+        "macOS": "open steam://rungameid/1648720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "what-time-is-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168715"
+}
