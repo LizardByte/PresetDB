@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165776,
+  "name": "Legend of the Ape",
+  "source_url": "https://www.igdb.com/games/legend-of-the-ape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gwg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legend of the Ape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1710810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1710810",
+        "Linux": "setsid steam steam://rungameid/1710810",
+        "macOS": "open steam://rungameid/1710810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legend-of-the-ape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165776"
+}
