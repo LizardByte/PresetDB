@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168955,
+  "name": "Zup! Z",
+  "source_url": "https://www.igdb.com/games/zup-z",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h01.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zup! Z",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1218900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1218900",
+        "Linux": "setsid steam steam://rungameid/1218900",
+        "macOS": "open steam://rungameid/1218900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zup-z",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168955"
+}
