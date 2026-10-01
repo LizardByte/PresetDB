@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159223,
+  "name": "Chess with Lasers",
+  "source_url": "https://www.igdb.com/games/chess-with-lasers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocj9h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess with Lasers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1517240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1517240",
+        "Linux": "setsid steam steam://rungameid/1517240",
+        "macOS": "open steam://rungameid/1517240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-with-lasers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159223"
+}
