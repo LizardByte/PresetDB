@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161543,
+  "name": "Metal Banana",
+  "source_url": "https://www.igdb.com/games/metal-banana",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nue.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Banana",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1232900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1232900",
+        "Linux": "setsid steam steam://rungameid/1232900",
+        "macOS": "open steam://rungameid/1232900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metal-banana",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161543"
+}
