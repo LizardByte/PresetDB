@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161458,
+  "name": "Smashroom",
+  "source_url": "https://www.igdb.com/games/smashroom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ol.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smashroom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1224420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1224420",
+        "Linux": "setsid steam steam://rungameid/1224420",
+        "macOS": "open steam://rungameid/1224420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smashroom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161458"
+}
