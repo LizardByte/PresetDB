@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163096,
+  "name": "Tead",
+  "source_url": "https://www.igdb.com/games/tead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co722o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2145700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2145700",
+        "Linux": "setsid steam steam://rungameid/2145700",
+        "macOS": "open steam://rungameid/2145700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163096"
+}
