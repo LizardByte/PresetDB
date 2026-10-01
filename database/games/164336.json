@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164336,
+  "name": "The Soldiers Factory",
+  "source_url": "https://www.igdb.com/games/the-soldiers-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46bg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Soldiers Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1359800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1359800",
+        "Linux": "setsid steam steam://rungameid/1359800",
+        "macOS": "open steam://rungameid/1359800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-soldiers-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164336"
+}
