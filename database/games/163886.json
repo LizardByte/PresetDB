@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163886,
+  "name": "Jelly",
+  "source_url": "https://www.igdb.com/games/jelly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co44ao.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jelly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1705500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1705500",
+        "Linux": "setsid steam steam://rungameid/1705500",
+        "macOS": "open steam://rungameid/1705500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jelly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163886"
+}
