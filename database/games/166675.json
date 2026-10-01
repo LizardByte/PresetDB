@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166675,
+  "name": "Tux and Fanny",
+  "source_url": "https://www.igdb.com/games/tux-and-fanny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3s87.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tux and Fanny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094730",
+        "Linux": "setsid steam steam://rungameid/2094730",
+        "macOS": "open steam://rungameid/2094730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tux-and-fanny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166675"
+}
