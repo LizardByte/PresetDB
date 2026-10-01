@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 163396,
+  "name": "Dungeon Arena",
+  "source_url": "https://www.igdb.com/games/dungeon-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3p8h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1705540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1705540",
+        "Linux": "setsid steam steam://rungameid/1705540",
+        "macOS": "open steam://rungameid/1705540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=163396"
+}
