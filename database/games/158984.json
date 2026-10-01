@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158984,
+  "name": "Final Fantasy V",
+  "source_url": "https://www.igdb.com/games/final-fantasy-v--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6pld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy V",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1173810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1173810",
+        "Linux": "setsid steam steam://rungameid/1173810",
+        "macOS": "open steam://rungameid/1173810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-fantasy-v--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158984"
+}
