@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160235,
+  "name": "Hive Slayer",
+  "source_url": "https://www.igdb.com/games/hive-slayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42hq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hive Slayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910190",
+        "Linux": "setsid steam steam://rungameid/910190",
+        "macOS": "open steam://rungameid/910190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hive-slayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160235"
+}
