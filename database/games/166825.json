@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166825,
+  "name": "Mimicry",
+  "source_url": "https://www.igdb.com/games/mimicry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gxk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mimicry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1381500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1381500",
+        "Linux": "setsid steam steam://rungameid/1381500",
+        "macOS": "open steam://rungameid/1381500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mimicry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166825"
+}
