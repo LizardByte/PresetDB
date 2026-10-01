@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 166789,
+  "name": "CardMaker",
+  "source_url": "https://www.igdb.com/games/cardmaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ci0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CardMaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1595280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1595280",
+        "Linux": "setsid steam steam://rungameid/1595280",
+        "macOS": "open steam://rungameid/1595280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cardmaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=166789"
+}
