@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158199,
+  "name": "Shadownest",
+  "source_url": "https://www.igdb.com/games/shadownest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40zn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadownest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1592180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1592180",
+        "Linux": "setsid steam steam://rungameid/1592180",
+        "macOS": "open steam://rungameid/1592180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadownest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158199"
+}
