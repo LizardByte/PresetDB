@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 164995,
+  "name": "SudoKats",
+  "source_url": "https://www.igdb.com/games/sudokats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42kq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SudoKats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1706190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1706190",
+        "Linux": "setsid steam steam://rungameid/1706190",
+        "macOS": "open steam://rungameid/1706190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sudokats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=164995"
+}
