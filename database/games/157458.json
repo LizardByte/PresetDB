@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157458,
+  "name": "WeeRPG",
+  "source_url": "https://www.igdb.com/games/weerpg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n2u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WeeRPG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1586330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1586330",
+        "Linux": "setsid steam steam://rungameid/1586330",
+        "macOS": "open steam://rungameid/1586330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "weerpg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157458"
+}
