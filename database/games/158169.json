@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158169,
+  "name": "Bouncy Cat",
+  "source_url": "https://www.igdb.com/games/bouncy-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45xk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bouncy Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1338520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1338520",
+        "Linux": "setsid steam steam://rungameid/1338520",
+        "macOS": "open steam://rungameid/1338520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bouncy-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158169"
+}
