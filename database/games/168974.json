@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 168974,
+  "name": "Mibt",
+  "source_url": "https://www.igdb.com/games/mibt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lbs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mibt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1298360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1298360",
+        "Linux": "setsid steam steam://rungameid/1298360",
+        "macOS": "open steam://rungameid/1298360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mibt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=168974"
+}
