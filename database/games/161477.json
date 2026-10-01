@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161477,
+  "name": "Cosmos",
+  "source_url": "https://www.igdb.com/games/cosmos--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3nkl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cosmos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1252100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1252100",
+        "Linux": "setsid steam steam://rungameid/1252100",
+        "macOS": "open steam://rungameid/1252100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cosmos--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161477"
+}
