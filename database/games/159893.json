@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159893,
+  "name": "Foxy's Adventure",
+  "source_url": "https://www.igdb.com/games/foxys-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co465r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foxy's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1333430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1333430",
+        "Linux": "setsid steam steam://rungameid/1333430",
+        "macOS": "open steam://rungameid/1333430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foxys-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159893"
+}
