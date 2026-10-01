@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159502,
+  "name": "Hanefield Asylum",
+  "source_url": "https://www.igdb.com/games/hanefield-asylum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41l3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hanefield Asylum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1364000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1364000",
+        "Linux": "setsid steam steam://rungameid/1364000",
+        "macOS": "open steam://rungameid/1364000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hanefield-asylum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159502"
+}
