@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158585,
+  "name": "Hope Land",
+  "source_url": "https://www.igdb.com/games/hope-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co43c0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hope Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "945860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/945860",
+        "Linux": "setsid steam steam://rungameid/945860",
+        "macOS": "open steam://rungameid/945860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hope-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158585"
+}
