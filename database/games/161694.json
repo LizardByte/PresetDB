@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161694,
+  "name": "Neon Snake",
+  "source_url": "https://www.igdb.com/games/neon-snake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3q2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Snake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1572800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1572800",
+        "Linux": "setsid steam steam://rungameid/1572800",
+        "macOS": "open steam://rungameid/1572800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-snake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161694"
+}
