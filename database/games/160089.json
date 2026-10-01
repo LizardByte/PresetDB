@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160089,
+  "name": "Gun&Dun",
+  "source_url": "https://www.igdb.com/games/gun-and-dun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co41ip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gun&Dun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1704820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1704820",
+        "Linux": "setsid steam steam://rungameid/1704820",
+        "macOS": "open steam://rungameid/1704820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gun-and-dun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160089"
+}
