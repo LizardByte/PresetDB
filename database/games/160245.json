@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160245,
+  "name": "Popop!",
+  "source_url": "https://www.igdb.com/games/popop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vi6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Popop!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1583060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1583060",
+        "Linux": "setsid steam steam://rungameid/1583060",
+        "macOS": "open steam://rungameid/1583060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "popop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160245"
+}
