@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159320,
+  "name": "Science Simulator",
+  "source_url": "https://www.igdb.com/games/science-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ibk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Science Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "893910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/893910",
+        "Linux": "setsid steam steam://rungameid/893910",
+        "macOS": "open steam://rungameid/893910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "science-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159320"
+}
