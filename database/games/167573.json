@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 167573,
+  "name": "It's a Wrap!",
+  "source_url": "https://www.igdb.com/games/its-a-wrap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hfu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It's a Wrap!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1684270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1684270",
+        "Linux": "setsid steam steam://rungameid/1684270",
+        "macOS": "open steam://rungameid/1684270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-a-wrap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=167573"
+}
