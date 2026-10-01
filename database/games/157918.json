@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157918,
+  "name": "Wild Wild Chess",
+  "source_url": "https://www.igdb.com/games/wild-wild-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3n8z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Wild Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1582090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1582090",
+        "Linux": "setsid steam steam://rungameid/1582090",
+        "macOS": "open steam://rungameid/1582090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-wild-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157918"
+}
