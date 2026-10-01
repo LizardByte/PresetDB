@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161371,
+  "name": "Light Up the Room",
+  "source_url": "https://www.igdb.com/games/light-up-the-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45aw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Light Up the Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1699120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1699120",
+        "Linux": "setsid steam steam://rungameid/1699120",
+        "macOS": "open steam://rungameid/1699120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "light-up-the-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161371"
+}
