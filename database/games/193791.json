@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193791,
+  "name": "Fantatale",
+  "source_url": "https://www.igdb.com/games/fantatale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coat34.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantatale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3301040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3301040",
+        "Linux": "setsid steam steam://rungameid/3301040",
+        "macOS": "open steam://rungameid/3301040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantatale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193791"
+}
