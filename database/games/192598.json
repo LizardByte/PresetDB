@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192598,
+  "name": "Spell Sweeper",
+  "source_url": "https://www.igdb.com/games/spell-sweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mc3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spell Sweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1800120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1800120",
+        "Linux": "setsid steam steam://rungameid/1800120",
+        "macOS": "open steam://rungameid/1800120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spell-sweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192598"
+}
