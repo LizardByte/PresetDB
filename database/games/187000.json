@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187000,
+  "name": "Cham the Cat Adventure",
+  "source_url": "https://www.igdb.com/games/cham-the-cat-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5awt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cham the Cat Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2729380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2729380",
+        "Linux": "setsid steam steam://rungameid/2729380",
+        "macOS": "open steam://rungameid/2729380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cham-the-cat-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187000"
+}
