@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 182270,
+  "name": "Smelogs Playground",
+  "source_url": "https://www.igdb.com/games/smelogs-playground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6w5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smelogs Playground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1799530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1799530",
+        "Linux": "setsid steam steam://rungameid/1799530",
+        "macOS": "open steam://rungameid/1799530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smelogs-playground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=182270"
+}
