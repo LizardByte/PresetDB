@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190831,
+  "name": "PolyShot",
+  "source_url": "https://www.igdb.com/games/polyshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kyj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PolyShot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1831370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1831370",
+        "Linux": "setsid steam steam://rungameid/1831370",
+        "macOS": "open steam://rungameid/1831370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polyshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190831"
+}
