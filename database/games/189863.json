@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189863,
+  "name": "Sokobos",
+  "source_url": "https://www.igdb.com/games/sokobos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m1a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sokobos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1655890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1655890",
+        "Linux": "setsid steam steam://rungameid/1655890",
+        "macOS": "open steam://rungameid/1655890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sokobos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189863"
+}
