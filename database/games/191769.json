@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191769,
+  "name": "SquareMan",
+  "source_url": "https://www.igdb.com/games/squareman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4i27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SquareMan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1778520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1778520",
+        "Linux": "setsid steam steam://rungameid/1778520",
+        "macOS": "open steam://rungameid/1778520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "squareman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191769"
+}
