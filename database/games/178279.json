@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 178279,
+  "name": "Monopoly Madness",
+  "source_url": "https://www.igdb.com/games/monopoly-madness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49ng.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monopoly Madness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2383760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2383760",
+        "Linux": "setsid steam steam://rungameid/2383760",
+        "macOS": "open steam://rungameid/2383760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monopoly-madness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=178279"
+}
