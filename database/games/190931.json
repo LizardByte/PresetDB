@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190931,
+  "name": "Save Us",
+  "source_url": "https://www.igdb.com/games/save-us",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save Us",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1849530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1849530",
+        "Linux": "setsid steam steam://rungameid/1849530",
+        "macOS": "open steam://rungameid/1849530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "save-us",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190931"
+}
