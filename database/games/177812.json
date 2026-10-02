@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 177812,
+  "name": "I Doesn't Exist",
+  "source_url": "https://www.igdb.com/games/i-doesnt-exist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co52cc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Doesn't Exist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1943420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1943420",
+        "Linux": "setsid steam steam://rungameid/1943420",
+        "macOS": "open steam://rungameid/1943420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-doesnt-exist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=177812"
+}
