@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 169659,
+  "name": "Morte",
+  "source_url": "https://www.igdb.com/games/morte",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gxx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Morte",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1340240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1340240",
+        "Linux": "setsid steam steam://rungameid/1340240",
+        "macOS": "open steam://rungameid/1340240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "morte",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=169659"
+}
