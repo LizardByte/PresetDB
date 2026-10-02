@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171418,
+  "name": "Flingleberries!",
+  "source_url": "https://www.igdb.com/games/flingleberries",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flingleberries!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1587930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1587930",
+        "Linux": "setsid steam steam://rungameid/1587930",
+        "macOS": "open steam://rungameid/1587930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flingleberries",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171418"
+}
