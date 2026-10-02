@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191845,
+  "name": "Stranger",
+  "source_url": "https://www.igdb.com/games/stranger--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86kd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stranger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1902150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1902150",
+        "Linux": "setsid steam steam://rungameid/1902150",
+        "macOS": "open steam://rungameid/1902150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stranger--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191845"
+}
