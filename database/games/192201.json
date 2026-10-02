@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192201,
+  "name": "Chaos Girl",
+  "source_url": "https://www.igdb.com/games/chaos-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cm8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chaos Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1906110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1906110",
+        "Linux": "setsid steam steam://rungameid/1906110",
+        "macOS": "open steam://rungameid/1906110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chaos-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192201"
+}
