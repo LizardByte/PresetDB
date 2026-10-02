@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172704,
+  "name": "Project-Blemmyes",
+  "source_url": "https://www.igdb.com/games/project-blemmyes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3wqm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project-Blemmyes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1754500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1754500",
+        "Linux": "setsid steam steam://rungameid/1754500",
+        "macOS": "open steam://rungameid/1754500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-blemmyes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172704"
+}
