@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187200,
+  "name": "Chilli Con Valley",
+  "source_url": "https://www.igdb.com/games/chilli-con-valley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5con.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chilli Con Valley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1775110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1775110",
+        "Linux": "setsid steam steam://rungameid/1775110",
+        "macOS": "open steam://rungameid/1775110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chilli-con-valley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187200"
+}
