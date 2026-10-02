@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190452,
+  "name": "Sherberia",
+  "source_url": "https://www.igdb.com/games/sherberia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5l3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sherberia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1801360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1801360",
+        "Linux": "setsid steam steam://rungameid/1801360",
+        "macOS": "open steam://rungameid/1801360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sherberia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190452"
+}
