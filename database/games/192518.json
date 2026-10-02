@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192518,
+  "name": "Global Pandemic",
+  "source_url": "https://www.igdb.com/games/global-pandemic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dp4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Global Pandemic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1785190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1785190",
+        "Linux": "setsid steam steam://rungameid/1785190",
+        "macOS": "open steam://rungameid/1785190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "global-pandemic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192518"
+}
