@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193049,
+  "name": "Something",
+  "source_url": "https://www.igdb.com/games/something",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m35.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Something",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1801030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1801030",
+        "Linux": "setsid steam steam://rungameid/1801030",
+        "macOS": "open steam://rungameid/1801030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "something",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193049"
+}
