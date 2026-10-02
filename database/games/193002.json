@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193002,
+  "name": "TrinityS",
+  "source_url": "https://www.igdb.com/games/trinitys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wwc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TrinityS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1584690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1584690",
+        "Linux": "setsid steam steam://rungameid/1584690",
+        "macOS": "open steam://rungameid/1584690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trinitys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193002"
+}
