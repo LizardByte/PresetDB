@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187201,
+  "name": "Psychic",
+  "source_url": "https://www.igdb.com/games/psychic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mpz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psychic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1861780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1861780",
+        "Linux": "setsid steam steam://rungameid/1861780",
+        "macOS": "open steam://rungameid/1861780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psychic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187201"
+}
