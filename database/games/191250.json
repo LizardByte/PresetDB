@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191250,
+  "name": "001 Earth",
+  "source_url": "https://www.igdb.com/games/001-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53hl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "001 Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1860930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1860930",
+        "Linux": "setsid steam steam://rungameid/1860930",
+        "macOS": "open steam://rungameid/1860930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "001-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191250"
+}
