@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188932,
+  "name": "Miskatonic",
+  "source_url": "https://www.igdb.com/games/miskatonic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lfd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miskatonic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1618910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1618910",
+        "Linux": "setsid steam steam://rungameid/1618910",
+        "macOS": "open steam://rungameid/1618910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "miskatonic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188932"
+}
