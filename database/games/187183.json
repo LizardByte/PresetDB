@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187183,
+  "name": "Drop one NPC to another",
+  "source_url": "https://www.igdb.com/games/drop-one-npc-to-another",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hm3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drop one NPC to another",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1861700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1861700",
+        "Linux": "setsid steam steam://rungameid/1861700",
+        "macOS": "open steam://rungameid/1861700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drop-one-npc-to-another",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187183"
+}
