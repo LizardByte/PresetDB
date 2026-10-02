@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 169613,
+  "name": "Moirs",
+  "source_url": "https://www.igdb.com/games/moirs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lhe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moirs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1336460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1336460",
+        "Linux": "setsid steam steam://rungameid/1336460",
+        "macOS": "open steam://rungameid/1336460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moirs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=169613"
+}
