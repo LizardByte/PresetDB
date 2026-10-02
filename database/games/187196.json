@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187196,
+  "name": "Colony Simulator",
+  "source_url": "https://www.igdb.com/games/colony-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ctx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Colony Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1853820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1853820",
+        "Linux": "setsid steam steam://rungameid/1853820",
+        "macOS": "open steam://rungameid/1853820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "colony-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187196"
+}
