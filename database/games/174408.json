@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 174408,
+  "name": "Don't run out of Soda",
+  "source_url": "https://www.igdb.com/games/dont-run-out-of-soda",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gz7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't run out of Soda",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1766230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1766230",
+        "Linux": "setsid steam steam://rungameid/1766230",
+        "macOS": "open steam://rungameid/1766230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-run-out-of-soda",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=174408"
+}
