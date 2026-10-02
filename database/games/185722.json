@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 185722,
+  "name": "Marimoth",
+  "source_url": "https://www.igdb.com/games/marimoth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4agt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marimoth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1786660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1786660",
+        "Linux": "setsid steam steam://rungameid/1786660",
+        "macOS": "open steam://rungameid/1786660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marimoth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=185722"
+}
