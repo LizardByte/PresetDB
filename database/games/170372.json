@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170372,
+  "name": "Heroes of Dungeon",
+  "source_url": "https://www.igdb.com/games/heroes-of-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e8d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes of Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1382860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1382860",
+        "Linux": "setsid steam steam://rungameid/1382860",
+        "macOS": "open steam://rungameid/1382860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heroes-of-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170372"
+}
