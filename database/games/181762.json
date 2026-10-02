@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181762,
+  "name": "Ninja Scroller",
+  "source_url": "https://www.igdb.com/games/ninja-scroller",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6blt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ninja Scroller",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2150800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2150800",
+        "Linux": "setsid steam steam://rungameid/2150800",
+        "macOS": "open steam://rungameid/2150800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ninja-scroller",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181762"
+}
