@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189288,
+  "name": "The Hierophant",
+  "source_url": "https://www.igdb.com/games/the-hierophant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n45.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hierophant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1859800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1859800",
+        "Linux": "setsid steam steam://rungameid/1859800",
+        "macOS": "open steam://rungameid/1859800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hierophant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189288"
+}
