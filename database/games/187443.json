@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187443,
+  "name": "Jash",
+  "source_url": "https://www.igdb.com/games/jash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kl3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1849260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1849260",
+        "Linux": "setsid steam steam://rungameid/1849260",
+        "macOS": "open steam://rungameid/1849260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187443"
+}
