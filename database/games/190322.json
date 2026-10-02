@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190322,
+  "name": "Blood Nova",
+  "source_url": "https://www.igdb.com/games/blood-nova",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5br2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blood Nova",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1810270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1810270",
+        "Linux": "setsid steam steam://rungameid/1810270",
+        "macOS": "open steam://rungameid/1810270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blood-nova",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190322"
+}
