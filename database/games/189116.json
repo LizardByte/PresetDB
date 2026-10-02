@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189116,
+  "name": "Funny Panda",
+  "source_url": "https://www.igdb.com/games/funny-panda",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oki.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Funny Panda",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1870440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1870440",
+        "Linux": "setsid steam steam://rungameid/1870440",
+        "macOS": "open steam://rungameid/1870440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "funny-panda",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189116"
+}
