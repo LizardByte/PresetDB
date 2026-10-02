@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187246,
+  "name": "Warno",
+  "source_url": "https://www.igdb.com/games/warno",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4cu2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warno",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1611600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1611600",
+        "Linux": "setsid steam steam://rungameid/1611600",
+        "macOS": "open steam://rungameid/1611600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warno",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187246"
+}
