@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192032,
+  "name": "Action: Source",
+  "source_url": "https://www.igdb.com/games/action-source",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4os8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Action: Source",
+      "os": null,
+      "method": "steam",
+      "launch_id": "977050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/977050",
+        "Linux": "setsid steam steam://rungameid/977050",
+        "macOS": "open steam://rungameid/977050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "action-source",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192032"
+}
