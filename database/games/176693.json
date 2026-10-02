@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 176693,
+  "name": "Hot and Lovely",
+  "source_url": "https://www.igdb.com/games/hot-and-lovely",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40f3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hot and Lovely",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1189050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1189050",
+        "Linux": "setsid steam steam://rungameid/1189050",
+        "macOS": "open steam://rungameid/1189050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hot-and-lovely",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=176693"
+}
