@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191129,
+  "name": "F*ck This Game",
+  "source_url": "https://www.igdb.com/games/f-star-ck-this-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ova.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "F*ck This Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1794700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1794700",
+        "Linux": "setsid steam steam://rungameid/1794700",
+        "macOS": "open steam://rungameid/1794700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "f-star-ck-this-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191129"
+}
