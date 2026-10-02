@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189369,
+  "name": "Blink Planets",
+  "source_url": "https://www.igdb.com/games/blink-planets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bpk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blink Planets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1825900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1825900",
+        "Linux": "setsid steam steam://rungameid/1825900",
+        "macOS": "open steam://rungameid/1825900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blink-planets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189369"
+}
