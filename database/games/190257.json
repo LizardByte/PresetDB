@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190257,
+  "name": "Darwin's Aquarium",
+  "source_url": "https://www.igdb.com/games/darwins-aquarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5czv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darwin's Aquarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1765010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1765010",
+        "Linux": "setsid steam steam://rungameid/1765010",
+        "macOS": "open steam://rungameid/1765010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "darwins-aquarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190257"
+}
