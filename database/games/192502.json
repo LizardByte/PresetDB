@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192502,
+  "name": "Endlanders",
+  "source_url": "https://www.igdb.com/games/endlanders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fjc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endlanders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1905960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1905960",
+        "Linux": "setsid steam steam://rungameid/1905960",
+        "macOS": "open steam://rungameid/1905960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endlanders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192502"
+}
