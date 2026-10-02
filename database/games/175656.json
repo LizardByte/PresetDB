@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 175656,
+  "name": "Zombie Admin",
+  "source_url": "https://www.igdb.com/games/zombie-admin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7zf2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Admin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1143860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1143860",
+        "Linux": "setsid steam steam://rungameid/1143860",
+        "macOS": "open steam://rungameid/1143860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-admin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=175656"
+}
