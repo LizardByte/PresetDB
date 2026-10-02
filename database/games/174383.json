@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 174383,
+  "name": "Galaxy's Edge",
+  "source_url": "https://www.igdb.com/games/galaxys-edge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3yyn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galaxy's Edge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1733950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1733950",
+        "Linux": "setsid steam steam://rungameid/1733950",
+        "macOS": "open steam://rungameid/1733950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galaxys-edge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=174383"
+}
