@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173000,
+  "name": "Morbid Inhale",
+  "source_url": "https://www.igdb.com/games/morbid-inhale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Morbid Inhale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1724100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1724100",
+        "Linux": "setsid steam steam://rungameid/1724100",
+        "macOS": "open steam://rungameid/1724100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "morbid-inhale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173000"
+}
