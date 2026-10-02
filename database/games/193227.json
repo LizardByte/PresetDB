@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193227,
+  "name": "Jump If You Can!",
+  "source_url": "https://www.igdb.com/games/jump-if-you-can",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fzu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jump If You Can!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1708250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1708250",
+        "Linux": "setsid steam steam://rungameid/1708250",
+        "macOS": "open steam://rungameid/1708250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jump-if-you-can",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193227"
+}
