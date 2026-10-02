@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192734,
+  "name": "Cursed Town",
+  "source_url": "https://www.igdb.com/games/cursed-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dbj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cursed Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1776920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1776920",
+        "Linux": "setsid steam steam://rungameid/1776920",
+        "macOS": "open steam://rungameid/1776920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cursed-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192734"
+}
