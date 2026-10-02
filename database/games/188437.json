@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188437,
+  "name": "Shoot!",
+  "source_url": "https://www.igdb.com/games/shoot--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4h3v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shoot!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1756900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1756900",
+        "Linux": "setsid steam steam://rungameid/1756900",
+        "macOS": "open steam://rungameid/1756900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shoot--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188437"
+}
