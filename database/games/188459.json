@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188459,
+  "name": "Kilroy Was Here",
+  "source_url": "https://www.igdb.com/games/kilroy-was-here",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ijq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kilroy Was Here",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1868030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1868030",
+        "Linux": "setsid steam steam://rungameid/1868030",
+        "macOS": "open steam://rungameid/1868030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kilroy-was-here",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188459"
+}
