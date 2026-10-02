@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171757,
+  "name": "Kaiju Wars",
+  "source_url": "https://www.igdb.com/games/kaiju-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4p1i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kaiju Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1508400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1508400",
+        "Linux": "setsid steam steam://rungameid/1508400",
+        "macOS": "open steam://rungameid/1508400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kaiju-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171757"
+}
