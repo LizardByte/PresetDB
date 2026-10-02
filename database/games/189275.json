@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189275,
+  "name": "Flat Eye",
+  "source_url": "https://www.igdb.com/games/flat-eye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4uzj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flat Eye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1358840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1358840",
+        "Linux": "setsid steam steam://rungameid/1358840",
+        "macOS": "open steam://rungameid/1358840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flat-eye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189275"
+}
