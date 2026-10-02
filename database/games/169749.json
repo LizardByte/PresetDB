@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 169749,
+  "name": "Dinobag's Arcade",
+  "source_url": "https://www.igdb.com/games/dinobags-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dinobag's Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1633100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1633100",
+        "Linux": "setsid steam steam://rungameid/1633100",
+        "macOS": "open steam://rungameid/1633100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dinobags-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=169749"
+}
