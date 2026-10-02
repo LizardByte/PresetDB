@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187407,
+  "name": "Soul Light",
+  "source_url": "https://www.igdb.com/games/soul-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soul Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1677890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1677890",
+        "Linux": "setsid steam steam://rungameid/1677890",
+        "macOS": "open steam://rungameid/1677890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soul-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187407"
+}
