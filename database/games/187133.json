@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187133,
+  "name": "Cat Town",
+  "source_url": "https://www.igdb.com/games/cat-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cky.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1831790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1831790",
+        "Linux": "setsid steam steam://rungameid/1831790",
+        "macOS": "open steam://rungameid/1831790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187133"
+}
