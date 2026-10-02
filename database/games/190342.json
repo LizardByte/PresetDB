@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190342,
+  "name": "Yavi",
+  "source_url": "https://www.igdb.com/games/yavi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59jz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yavi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1814510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1814510",
+        "Linux": "setsid steam steam://rungameid/1814510",
+        "macOS": "open steam://rungameid/1814510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yavi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190342"
+}
