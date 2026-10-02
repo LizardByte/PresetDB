@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190744,
+  "name": "Amelie",
+  "source_url": "https://www.igdb.com/games/amelie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4q6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amelie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1835810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1835810",
+        "Linux": "setsid steam steam://rungameid/1835810",
+        "macOS": "open steam://rungameid/1835810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amelie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190744"
+}
