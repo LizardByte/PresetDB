@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192964,
+  "name": "Billy 101",
+  "source_url": "https://www.igdb.com/games/billy-101",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bmo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Billy 101",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1836280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1836280",
+        "Linux": "setsid steam steam://rungameid/1836280",
+        "macOS": "open steam://rungameid/1836280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "billy-101",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192964"
+}
