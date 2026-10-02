@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180794,
+  "name": "Hexworld",
+  "source_url": "https://www.igdb.com/games/hexworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r5w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2166020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2166020",
+        "Linux": "setsid steam steam://rungameid/2166020",
+        "macOS": "open steam://rungameid/2166020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180794"
+}
