@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 176841,
+  "name": "Scarecrow",
+  "source_url": "https://www.igdb.com/games/scarecrow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6vzy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scarecrow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2280360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2280360",
+        "Linux": "setsid steam steam://rungameid/2280360",
+        "macOS": "open steam://rungameid/2280360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scarecrow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=176841"
+}
