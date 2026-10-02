@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188444,
+  "name": "Don't Push Me",
+  "source_url": "https://www.igdb.com/games/dont-push-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gz6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Push Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1874420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1874420",
+        "Linux": "setsid steam steam://rungameid/1874420",
+        "macOS": "open steam://rungameid/1874420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-push-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188444"
+}
