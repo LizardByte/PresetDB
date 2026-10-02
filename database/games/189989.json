@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189989,
+  "name": "RFVR",
+  "source_url": "https://www.igdb.com/games/rfvr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mez.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RFVR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1743570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1743570",
+        "Linux": "setsid steam steam://rungameid/1743570",
+        "macOS": "open steam://rungameid/1743570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rfvr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189989"
+}
