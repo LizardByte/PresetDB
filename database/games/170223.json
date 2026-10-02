@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170223,
+  "name": "Onmyoudou: Arcade Edition",
+  "source_url": "https://www.igdb.com/games/onmyoudou-arcade-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Onmyoudou: Arcade Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1351840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1351840",
+        "Linux": "setsid steam steam://rungameid/1351840",
+        "macOS": "open steam://rungameid/1351840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "onmyoudou-arcade-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170223"
+}
