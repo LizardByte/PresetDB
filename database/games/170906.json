@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170906,
+  "name": "Tierra",
+  "source_url": "https://www.igdb.com/games/tierra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nhf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tierra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1686980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1686980",
+        "Linux": "setsid steam steam://rungameid/1686980",
+        "macOS": "open steam://rungameid/1686980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tierra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170906"
+}
