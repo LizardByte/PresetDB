@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188829,
+  "name": "Roll the Cat",
+  "source_url": "https://www.igdb.com/games/roll-the-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o09.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll the Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1793380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1793380",
+        "Linux": "setsid steam steam://rungameid/1793380",
+        "macOS": "open steam://rungameid/1793380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-the-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188829"
+}
