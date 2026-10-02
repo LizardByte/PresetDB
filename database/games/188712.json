@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188712,
+  "name": "Push the Box",
+  "source_url": "https://www.igdb.com/games/push-the-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Push the Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1878280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1878280",
+        "Linux": "setsid steam steam://rungameid/1878280",
+        "macOS": "open steam://rungameid/1878280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "push-the-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188712"
+}
