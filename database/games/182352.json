@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 182352,
+  "name": "Dubium",
+  "source_url": "https://www.igdb.com/games/dubium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co49a9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dubium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234040",
+        "Linux": "setsid steam steam://rungameid/1234040",
+        "macOS": "open steam://rungameid/1234040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dubium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=182352"
+}
