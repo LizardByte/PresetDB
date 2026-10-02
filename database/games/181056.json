@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181056,
+  "name": "Search All: Candy",
+  "source_url": "https://www.igdb.com/games/search-all-candy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ktu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Candy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1804760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1804760",
+        "Linux": "setsid steam steam://rungameid/1804760",
+        "macOS": "open steam://rungameid/1804760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-candy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181056"
+}
