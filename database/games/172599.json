@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172599,
+  "name": "ArrowBall",
+  "source_url": "https://www.igdb.com/games/arrowball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3w6q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ArrowBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1307310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1307310",
+        "Linux": "setsid steam steam://rungameid/1307310",
+        "macOS": "open steam://rungameid/1307310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arrowball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172599"
+}
