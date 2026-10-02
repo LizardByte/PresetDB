@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191148,
+  "name": "Brightness",
+  "source_url": "https://www.igdb.com/games/brightness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c6o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brightness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1799890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1799890",
+        "Linux": "setsid steam steam://rungameid/1799890",
+        "macOS": "open steam://rungameid/1799890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brightness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191148"
+}
