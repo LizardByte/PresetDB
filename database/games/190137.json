@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190137,
+  "name": "Donut Arena",
+  "source_url": "https://www.igdb.com/games/donut-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Donut Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "880870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/880870",
+        "Linux": "setsid steam steam://rungameid/880870",
+        "macOS": "open steam://rungameid/880870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "donut-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190137"
+}
