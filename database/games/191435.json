@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191435,
+  "name": "Animal Well",
+  "source_url": "https://www.igdb.com/games/animal-well",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4hdh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Animal Well",
+      "os": null,
+      "method": "steam",
+      "launch_id": "813230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/813230",
+        "Linux": "setsid steam steam://rungameid/813230",
+        "macOS": "open steam://rungameid/813230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "animal-well",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191435"
+}
