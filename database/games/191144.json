@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191144,
+  "name": "The Ancients",
+  "source_url": "https://www.igdb.com/games/the-ancients",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4i60.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Ancients",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1769130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1769130",
+        "Linux": "setsid steam steam://rungameid/1769130",
+        "macOS": "open steam://rungameid/1769130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-ancients",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191144"
+}
