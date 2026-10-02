@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188779,
+  "name": "Yuza",
+  "source_url": "https://www.igdb.com/games/yuza",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59ev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yuza",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1863570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1863570",
+        "Linux": "setsid steam steam://rungameid/1863570",
+        "macOS": "open steam://rungameid/1863570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yuza",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188779"
+}
