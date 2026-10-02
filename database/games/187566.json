@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187566,
+  "name": "Cat Adventure",
+  "source_url": "https://www.igdb.com/games/cat-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cjw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1858270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1858270",
+        "Linux": "setsid steam steam://rungameid/1858270",
+        "macOS": "open steam://rungameid/1858270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187566"
+}
