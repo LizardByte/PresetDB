@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193572,
+  "name": "Elon",
+  "source_url": "https://www.igdb.com/games/elon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gpf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1822880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1822880",
+        "Linux": "setsid steam steam://rungameid/1822880",
+        "macOS": "open steam://rungameid/1822880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193572"
+}
