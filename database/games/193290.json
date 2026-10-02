@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193290,
+  "name": "Froggy",
+  "source_url": "https://www.igdb.com/games/froggy--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oiy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Froggy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1791640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1791640",
+        "Linux": "setsid steam steam://rungameid/1791640",
+        "macOS": "open steam://rungameid/1791640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "froggy--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193290"
+}
