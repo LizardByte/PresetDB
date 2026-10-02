@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190891,
+  "name": "Flower Shop",
+  "source_url": "https://www.igdb.com/games/flower-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o78.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flower Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1784860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1784860",
+        "Linux": "setsid steam steam://rungameid/1784860",
+        "macOS": "open steam://rungameid/1784860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flower-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190891"
+}
