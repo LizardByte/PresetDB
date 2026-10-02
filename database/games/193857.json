@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193857,
+  "name": "Cat Museum",
+  "source_url": "https://www.igdb.com/games/cat-museum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5370.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Museum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1688100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1688100",
+        "Linux": "setsid steam steam://rungameid/1688100",
+        "macOS": "open steam://rungameid/1688100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-museum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193857"
+}
