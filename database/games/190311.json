@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190311,
+  "name": "Undead Menace",
+  "source_url": "https://www.igdb.com/games/undead-menace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i8d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Undead Menace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1740010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1740010",
+        "Linux": "setsid steam steam://rungameid/1740010",
+        "macOS": "open steam://rungameid/1740010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "undead-menace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190311"
+}
