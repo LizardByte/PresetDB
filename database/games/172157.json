@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172157,
+  "name": "Duo Defenders",
+  "source_url": "https://www.igdb.com/games/duo-defenders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4grs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duo Defenders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1335880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1335880",
+        "Linux": "setsid steam steam://rungameid/1335880",
+        "macOS": "open steam://rungameid/1335880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duo-defenders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172157"
+}
