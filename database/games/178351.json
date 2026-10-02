@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 178351,
+  "name": "Crab Game",
+  "source_url": "https://www.igdb.com/games/crab-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46sr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crab Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1782210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1782210",
+        "Linux": "setsid steam steam://rungameid/1782210",
+        "macOS": "open steam://rungameid/1782210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crab-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=178351"
+}
