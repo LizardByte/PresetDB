@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188517,
+  "name": "Destroy Simulator",
+  "source_url": "https://www.igdb.com/games/destroy-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5g6o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Destroy Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1869890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1869890",
+        "Linux": "setsid steam steam://rungameid/1869890",
+        "macOS": "open steam://rungameid/1869890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "destroy-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188517"
+}
