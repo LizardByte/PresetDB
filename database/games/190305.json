@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190305,
+  "name": "10 Seconds to Win!",
+  "source_url": "https://www.igdb.com/games/10-seconds-to-win",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cah.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "10 Seconds to Win!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1846020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1846020",
+        "Linux": "setsid steam steam://rungameid/1846020",
+        "macOS": "open steam://rungameid/1846020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "10-seconds-to-win",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190305"
+}
