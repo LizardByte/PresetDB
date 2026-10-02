@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189083,
+  "name": "Master Forge",
+  "source_url": "https://www.igdb.com/games/master-forge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Master Forge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1784730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1784730",
+        "Linux": "setsid steam steam://rungameid/1784730",
+        "macOS": "open steam://rungameid/1784730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "master-forge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189083"
+}
