@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173286,
+  "name": "Ghost Terminator",
+  "source_url": "https://www.igdb.com/games/ghost-terminator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5do2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Terminator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1751850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1751850",
+        "Linux": "setsid steam steam://rungameid/1751850",
+        "macOS": "open steam://rungameid/1751850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-terminator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173286"
+}
