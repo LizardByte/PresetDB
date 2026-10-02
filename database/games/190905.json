@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190905,
+  "name": "The Last Exterminator",
+  "source_url": "https://www.igdb.com/games/the-last-exterminator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5agw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Exterminator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "811760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/811760",
+        "Linux": "setsid steam steam://rungameid/811760",
+        "macOS": "open steam://rungameid/811760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-exterminator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190905"
+}
