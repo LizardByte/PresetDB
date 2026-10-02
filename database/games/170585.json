@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170585,
+  "name": "VRWorkout",
+  "source_url": "https://www.igdb.com/games/vrworkout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i3n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VRWorkout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1346850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1346850",
+        "Linux": "setsid steam steam://rungameid/1346850",
+        "macOS": "open steam://rungameid/1346850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vrworkout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170585"
+}
