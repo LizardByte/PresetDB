@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171761,
+  "name": "Star Island",
+  "source_url": "https://www.igdb.com/games/star-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o1m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1391960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1391960",
+        "Linux": "setsid steam steam://rungameid/1391960",
+        "macOS": "open steam://rungameid/1391960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171761"
+}
