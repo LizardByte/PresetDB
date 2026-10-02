@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187701,
+  "name": "Stop the Bus!",
+  "source_url": "https://www.igdb.com/games/stop-the-bus--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ocl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stop the Bus!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1772650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1772650",
+        "Linux": "setsid steam steam://rungameid/1772650",
+        "macOS": "open steam://rungameid/1772650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stop-the-bus--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187701"
+}
