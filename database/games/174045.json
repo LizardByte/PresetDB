@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 174045,
+  "name": "AstroBike",
+  "source_url": "https://www.igdb.com/games/astrobike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58qv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AstroBike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1539600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1539600",
+        "Linux": "setsid steam steam://rungameid/1539600",
+        "macOS": "open steam://rungameid/1539600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astrobike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=174045"
+}
