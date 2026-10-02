@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 186249,
+  "name": "Voxella",
+  "source_url": "https://www.igdb.com/games/voxella",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4bfw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Voxella",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2170500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2170500",
+        "Linux": "setsid steam steam://rungameid/2170500",
+        "macOS": "open steam://rungameid/2170500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voxella",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=186249"
+}
