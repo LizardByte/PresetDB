@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180012,
+  "name": "Knockball Pool",
+  "source_url": "https://www.igdb.com/games/knockball-pool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47tk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knockball Pool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1780900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1780900",
+        "Linux": "setsid steam steam://rungameid/1780900",
+        "macOS": "open steam://rungameid/1780900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knockball-pool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180012"
+}
