@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173895,
+  "name": "Fight.exe",
+  "source_url": "https://www.igdb.com/games/fight-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59mc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fight.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1715860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1715860",
+        "Linux": "setsid steam steam://rungameid/1715860",
+        "macOS": "open steam://rungameid/1715860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fight-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173895"
+}
