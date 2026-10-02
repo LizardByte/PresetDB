@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181651,
+  "name": "Global City",
+  "source_url": "https://www.igdb.com/games/global-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hbt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Global City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1731270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1731270",
+        "Linux": "setsid steam steam://rungameid/1731270",
+        "macOS": "open steam://rungameid/1731270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "global-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181651"
+}
