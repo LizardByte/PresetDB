@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190985,
+  "name": "Facility",
+  "source_url": "https://www.igdb.com/games/facility",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58yv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Facility",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1769570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1769570",
+        "Linux": "setsid steam steam://rungameid/1769570",
+        "macOS": "open steam://rungameid/1769570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "facility",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190985"
+}
