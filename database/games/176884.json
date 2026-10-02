@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 176884,
+  "name": "Slap the Rocks",
+  "source_url": "https://www.igdb.com/games/slap-the-rocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40fz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slap the Rocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1771520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1771520",
+        "Linux": "setsid steam steam://rungameid/1771520",
+        "macOS": "open steam://rungameid/1771520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slap-the-rocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=176884"
+}
