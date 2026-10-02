@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192759,
+  "name": "Nia",
+  "source_url": "https://www.igdb.com/games/nia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jq7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1390140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1390140",
+        "Linux": "setsid steam steam://rungameid/1390140",
+        "macOS": "open steam://rungameid/1390140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192759"
+}
