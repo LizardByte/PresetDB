@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187405,
+  "name": "Kill to Live",
+  "source_url": "https://www.igdb.com/games/kill-to-live",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ijp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill to Live",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1854890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1854890",
+        "Linux": "setsid steam steam://rungameid/1854890",
+        "macOS": "open steam://rungameid/1854890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-to-live",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187405"
+}
