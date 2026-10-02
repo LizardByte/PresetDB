@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172883,
+  "name": "Yoli",
+  "source_url": "https://www.igdb.com/games/yoli",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59ie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yoli",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1413090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1413090",
+        "Linux": "setsid steam steam://rungameid/1413090",
+        "macOS": "open steam://rungameid/1413090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yoli",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172883"
+}
