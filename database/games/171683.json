@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171683,
+  "name": "Boo Party",
+  "source_url": "https://www.igdb.com/games/boo-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ov6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boo Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1692510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1692510",
+        "Linux": "setsid steam steam://rungameid/1692510",
+        "macOS": "open steam://rungameid/1692510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boo-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171683"
+}
