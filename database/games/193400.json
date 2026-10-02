@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193400,
+  "name": "Halftime Heroes",
+  "source_url": "https://www.igdb.com/games/halftime-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dxz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Halftime Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1907900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1907900",
+        "Linux": "setsid steam steam://rungameid/1907900",
+        "macOS": "open steam://rungameid/1907900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "halftime-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193400"
+}
