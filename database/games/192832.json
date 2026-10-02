@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192832,
+  "name": "Blinky",
+  "source_url": "https://www.igdb.com/games/blinky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bpm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blinky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1842130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1842130",
+        "Linux": "setsid steam steam://rungameid/1842130",
+        "macOS": "open steam://rungameid/1842130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blinky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192832"
+}
