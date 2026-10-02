@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 177455,
+  "name": "Leximan",
+  "source_url": "https://www.igdb.com/games/leximan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leximan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017200",
+        "Linux": "setsid steam steam://rungameid/2017200",
+        "macOS": "open steam://rungameid/2017200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leximan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=177455"
+}
