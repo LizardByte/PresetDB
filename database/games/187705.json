@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187705,
+  "name": "Beat the Little Zombie",
+  "source_url": "https://www.igdb.com/games/beat-the-little-zombie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat the Little Zombie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1873280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1873280",
+        "Linux": "setsid steam steam://rungameid/1873280",
+        "macOS": "open steam://rungameid/1873280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beat-the-little-zombie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187705"
+}
