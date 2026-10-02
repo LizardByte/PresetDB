@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190988,
+  "name": "Selenwald",
+  "source_url": "https://www.igdb.com/games/selenwald",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kwk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Selenwald",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1343460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1343460",
+        "Linux": "setsid steam steam://rungameid/1343460",
+        "macOS": "open steam://rungameid/1343460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "selenwald",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190988"
+}
