@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 185264,
+  "name": "Roombattle",
+  "source_url": "https://www.igdb.com/games/roombattle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co955g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roombattle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3223000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3223000",
+        "Linux": "setsid steam steam://rungameid/3223000",
+        "macOS": "open steam://rungameid/3223000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roombattle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=185264"
+}
