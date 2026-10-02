@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181096,
+  "name": "Xenture",
+  "source_url": "https://www.igdb.com/games/xenture",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59ml.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xenture",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1786730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1786730",
+        "Linux": "setsid steam steam://rungameid/1786730",
+        "macOS": "open steam://rungameid/1786730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xenture",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181096"
+}
