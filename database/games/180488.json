@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180488,
+  "name": "Fighting Fiends",
+  "source_url": "https://www.igdb.com/games/fighting-fiends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4880.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fighting Fiends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1283430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1283430",
+        "Linux": "setsid steam steam://rungameid/1283430",
+        "macOS": "open steam://rungameid/1283430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fighting-fiends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180488"
+}
