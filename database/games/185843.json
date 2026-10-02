@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 185843,
+  "name": "Attraction",
+  "source_url": "https://www.igdb.com/games/attraction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4as1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Attraction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1840700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1840700",
+        "Linux": "setsid steam steam://rungameid/1840700",
+        "macOS": "open steam://rungameid/1840700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "attraction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=185843"
+}
