@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173213,
+  "name": "Flappy Person",
+  "source_url": "https://www.igdb.com/games/flappy-person",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gsq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flappy Person",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1431440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1431440",
+        "Linux": "setsid steam steam://rungameid/1431440",
+        "macOS": "open steam://rungameid/1431440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flappy-person",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173213"
+}
