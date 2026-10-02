@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187168,
+  "name": "It follows you",
+  "source_url": "https://www.igdb.com/games/it-follows-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hfm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It follows you",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1841780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1841780",
+        "Linux": "setsid steam steam://rungameid/1841780",
+        "macOS": "open steam://rungameid/1841780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "it-follows-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187168"
+}
