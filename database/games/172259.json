@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172259,
+  "name": "Chickenman",
+  "source_url": "https://www.igdb.com/games/chickenman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5coa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chickenman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1546550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1546550",
+        "Linux": "setsid steam steam://rungameid/1546550",
+        "macOS": "open steam://rungameid/1546550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chickenman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172259"
+}
