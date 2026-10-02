@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171207,
+  "name": "Stayhomer",
+  "source_url": "https://www.igdb.com/games/stayhomer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o98.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stayhomer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1332860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1332860",
+        "Linux": "setsid steam steam://rungameid/1332860",
+        "macOS": "open steam://rungameid/1332860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stayhomer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171207"
+}
