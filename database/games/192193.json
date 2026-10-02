@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192193,
+  "name": "Vtuber Simulator",
+  "source_url": "https://www.igdb.com/games/vtuber-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4imn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vtuber Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1704060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1704060",
+        "Linux": "setsid steam steam://rungameid/1704060",
+        "macOS": "open steam://rungameid/1704060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vtuber-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192193"
+}
