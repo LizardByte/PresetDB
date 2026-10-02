@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170063,
+  "name": "Trip Saber",
+  "source_url": "https://www.igdb.com/games/trip-saber",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5now.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trip Saber",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1737440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1737440",
+        "Linux": "setsid steam steam://rungameid/1737440",
+        "macOS": "open steam://rungameid/1737440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trip-saber",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170063"
+}
