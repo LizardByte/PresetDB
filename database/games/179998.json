@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 179998,
+  "name": "Neo Spectrum",
+  "source_url": "https://www.igdb.com/games/neo-spectrum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47sh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neo Spectrum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1803490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1803490",
+        "Linux": "setsid steam steam://rungameid/1803490",
+        "macOS": "open steam://rungameid/1803490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neo-spectrum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=179998"
+}
