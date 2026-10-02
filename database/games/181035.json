@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181035,
+  "name": "Grab Toy",
+  "source_url": "https://www.igdb.com/games/grab-toy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dt2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grab Toy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1507270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1507270",
+        "Linux": "setsid steam steam://rungameid/1507270",
+        "macOS": "open steam://rungameid/1507270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grab-toy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181035"
+}
