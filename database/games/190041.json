@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190041,
+  "name": "Alchemos",
+  "source_url": "https://www.igdb.com/games/alchemos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4fnz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alchemos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1090590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1090590",
+        "Linux": "setsid steam steam://rungameid/1090590",
+        "macOS": "open steam://rungameid/1090590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alchemos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190041"
+}
