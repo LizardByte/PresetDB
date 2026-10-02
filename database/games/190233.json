@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190233,
+  "name": "Monster Tamer",
+  "source_url": "https://www.igdb.com/games/monster-tamer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ljd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Tamer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1742540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1742540",
+        "Linux": "setsid steam steam://rungameid/1742540",
+        "macOS": "open steam://rungameid/1742540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-tamer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190233"
+}
