@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190130,
+  "name": "Driftence",
+  "source_url": "https://www.igdb.com/games/driftence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hle.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Driftence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1786570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1786570",
+        "Linux": "setsid steam steam://rungameid/1786570",
+        "macOS": "open steam://rungameid/1786570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "driftence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190130"
+}
