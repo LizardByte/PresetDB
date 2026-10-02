@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 175891,
+  "name": "Heliopedia",
+  "source_url": "https://www.igdb.com/games/heliopedia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3z9f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heliopedia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1740070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1740070",
+        "Linux": "setsid steam steam://rungameid/1740070",
+        "macOS": "open steam://rungameid/1740070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heliopedia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=175891"
+}
