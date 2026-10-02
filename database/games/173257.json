@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173257,
+  "name": "The Last War",
+  "source_url": "https://www.igdb.com/games/the-last-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n6j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1700920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1700920",
+        "Linux": "setsid steam steam://rungameid/1700920",
+        "macOS": "open steam://rungameid/1700920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173257"
+}
