@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190427,
+  "name": "Knightlife",
+  "source_url": "https://www.igdb.com/games/knightlife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5il8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knightlife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1874510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1874510",
+        "Linux": "setsid steam steam://rungameid/1874510",
+        "macOS": "open steam://rungameid/1874510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knightlife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190427"
+}
