@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 171712,
+  "name": "ChromaBeat",
+  "source_url": "https://www.igdb.com/games/chromabeat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ChromaBeat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1429150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1429150",
+        "Linux": "setsid steam steam://rungameid/1429150",
+        "macOS": "open steam://rungameid/1429150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chromabeat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=171712"
+}
