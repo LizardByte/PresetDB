@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 186036,
+  "name": "Fat Baby",
+  "source_url": "https://www.igdb.com/games/fat-baby",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4b67.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fat Baby",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1825740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1825740",
+        "Linux": "setsid steam steam://rungameid/1825740",
+        "macOS": "open steam://rungameid/1825740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fat-baby",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=186036"
+}
