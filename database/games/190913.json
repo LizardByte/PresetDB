@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190913,
+  "name": "Britannia",
+  "source_url": "https://www.igdb.com/games/britannia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c6v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Britannia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1268420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1268420",
+        "Linux": "setsid steam steam://rungameid/1268420",
+        "macOS": "open steam://rungameid/1268420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "britannia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190913"
+}
