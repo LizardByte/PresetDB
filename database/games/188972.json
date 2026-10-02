@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188972,
+  "name": "The Wolf Is Dead",
+  "source_url": "https://www.igdb.com/games/the-wolf-is-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nfa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wolf Is Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1786320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1786320",
+        "Linux": "setsid steam steam://rungameid/1786320",
+        "macOS": "open steam://rungameid/1786320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-wolf-is-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188972"
+}
