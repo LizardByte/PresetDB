@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192809,
+  "name": "Steel Shell",
+  "source_url": "https://www.igdb.com/games/steel-shell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o9m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steel Shell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1893310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1893310",
+        "Linux": "setsid steam steam://rungameid/1893310",
+        "macOS": "open steam://rungameid/1893310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "steel-shell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192809"
+}
