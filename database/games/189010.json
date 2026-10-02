@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189010,
+  "name": "Hidden Town",
+  "source_url": "https://www.igdb.com/games/hidden-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ear.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hidden Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1778470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1778470",
+        "Linux": "setsid steam steam://rungameid/1778470",
+        "macOS": "open steam://rungameid/1778470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hidden-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189010"
+}
