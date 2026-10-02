@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189311,
+  "name": "Tri-Star",
+  "source_url": "https://www.igdb.com/games/tri-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4fdu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tri-Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1755600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1755600",
+        "Linux": "setsid steam steam://rungameid/1755600",
+        "macOS": "open steam://rungameid/1755600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tri-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189311"
+}
