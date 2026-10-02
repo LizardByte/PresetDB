@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188810,
+  "name": "Dragon Evo",
+  "source_url": "https://www.igdb.com/games/dragon-evo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4igt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Evo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1808620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1808620",
+        "Linux": "setsid steam steam://rungameid/1808620",
+        "macOS": "open steam://rungameid/1808620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-evo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188810"
+}
