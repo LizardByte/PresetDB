@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192570,
+  "name": "Kromaticube",
+  "source_url": "https://www.igdb.com/games/kromaticube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5imk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kromaticube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1753440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1753440",
+        "Linux": "setsid steam steam://rungameid/1753440",
+        "macOS": "open steam://rungameid/1753440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kromaticube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192570"
+}
