@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187188,
+  "name": "Ibatic",
+  "source_url": "https://www.igdb.com/games/ibatic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h5f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ibatic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1751800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1751800",
+        "Linux": "setsid steam steam://rungameid/1751800",
+        "macOS": "open steam://rungameid/1751800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ibatic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187188"
+}
