@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170795,
+  "name": "Hungry Horace",
+  "source_url": "https://www.igdb.com/games/hungry-horace--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4guj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hungry Horace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1408630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1408630",
+        "Linux": "setsid steam steam://rungameid/1408630",
+        "macOS": "open steam://rungameid/1408630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hungry-horace--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170795"
+}
