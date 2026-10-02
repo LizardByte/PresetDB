@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 186813,
+  "name": "Over the Counter",
+  "source_url": "https://www.igdb.com/games/over-the-counter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k72.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Over the Counter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1626460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1626460",
+        "Linux": "setsid steam steam://rungameid/1626460",
+        "macOS": "open steam://rungameid/1626460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "over-the-counter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=186813"
+}
