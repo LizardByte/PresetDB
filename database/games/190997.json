@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190997,
+  "name": "Search All: Crabs",
+  "source_url": "https://www.igdb.com/games/search-all-crabs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ktw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Crabs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1888800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1888800",
+        "Linux": "setsid steam steam://rungameid/1888800",
+        "macOS": "open steam://rungameid/1888800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-crabs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190997"
+}
