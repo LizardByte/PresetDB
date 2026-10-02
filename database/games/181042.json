@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 181042,
+  "name": "Passin'Time",
+  "source_url": "https://www.igdb.com/games/passintime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kbm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Passin'Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1802070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1802070",
+        "Linux": "setsid steam steam://rungameid/1802070",
+        "macOS": "open steam://rungameid/1802070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "passintime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=181042"
+}
