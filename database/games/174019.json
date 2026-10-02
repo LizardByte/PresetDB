@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 174019,
+  "name": "Magic Time",
+  "source_url": "https://www.igdb.com/games/magic-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5igo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1754380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1754380",
+        "Linux": "setsid steam steam://rungameid/1754380",
+        "macOS": "open steam://rungameid/1754380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=174019"
+}
