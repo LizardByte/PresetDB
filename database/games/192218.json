@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192218,
+  "name": "Dotto Botto",
+  "source_url": "https://www.igdb.com/games/dotto-botto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gzy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dotto Botto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1912660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1912660",
+        "Linux": "setsid steam steam://rungameid/1912660",
+        "macOS": "open steam://rungameid/1912660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dotto-botto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192218"
+}
