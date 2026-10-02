@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189360,
+  "name": "Pico Islands",
+  "source_url": "https://www.igdb.com/games/pico-islands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kf6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pico Islands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1704540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1704540",
+        "Linux": "setsid steam steam://rungameid/1704540",
+        "macOS": "open steam://rungameid/1704540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pico-islands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189360"
+}
