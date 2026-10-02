@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172254,
+  "name": "Leman",
+  "source_url": "https://www.igdb.com/games/leman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mys.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1661360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1661360",
+        "Linux": "setsid steam steam://rungameid/1661360",
+        "macOS": "open steam://rungameid/1661360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172254"
+}
