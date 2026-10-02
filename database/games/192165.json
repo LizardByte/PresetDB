@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192165,
+  "name": "Go with the Flow",
+  "source_url": "https://www.igdb.com/games/go-with-the-flow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dsy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go with the Flow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1752600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1752600",
+        "Linux": "setsid steam steam://rungameid/1752600",
+        "macOS": "open steam://rungameid/1752600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-with-the-flow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192165"
+}
