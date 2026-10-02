@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173351,
+  "name": "Chess",
+  "source_url": "https://www.igdb.com/games/chess--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cnl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1758330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1758330",
+        "Linux": "setsid steam steam://rungameid/1758330",
+        "macOS": "open steam://rungameid/1758330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173351"
+}
