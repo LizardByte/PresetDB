@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193927,
+  "name": "Solo Knight",
+  "source_url": "https://www.igdb.com/games/solo-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vrl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solo Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3780390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3780390",
+        "Linux": "setsid steam steam://rungameid/3780390",
+        "macOS": "open steam://rungameid/3780390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "solo-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193927"
+}
