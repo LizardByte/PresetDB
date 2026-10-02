@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189886,
+  "name": "Traffic Racing",
+  "source_url": "https://www.igdb.com/games/traffic-racing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nmo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Traffic Racing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1801000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1801000",
+        "Linux": "setsid steam steam://rungameid/1801000",
+        "macOS": "open steam://rungameid/1801000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "traffic-racing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189886"
+}
