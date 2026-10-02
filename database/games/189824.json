@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189824,
+  "name": "Forgotten Souls",
+  "source_url": "https://www.igdb.com/games/forgotten-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forgotten Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "944750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/944750",
+        "Linux": "setsid steam steam://rungameid/944750",
+        "macOS": "open steam://rungameid/944750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forgotten-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189824"
+}
