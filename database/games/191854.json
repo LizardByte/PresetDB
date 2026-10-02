@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191854,
+  "name": "Fireside Hero",
+  "source_url": "https://www.igdb.com/games/fireside-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4i7b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fireside Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1306950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1306950",
+        "Linux": "setsid steam steam://rungameid/1306950",
+        "macOS": "open steam://rungameid/1306950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fireside-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191854"
+}
