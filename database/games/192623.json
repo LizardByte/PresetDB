@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192623,
+  "name": "Phantom Project",
+  "source_url": "https://www.igdb.com/games/phantom-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ked.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phantom Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1745480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1745480",
+        "Linux": "setsid steam steam://rungameid/1745480",
+        "macOS": "open steam://rungameid/1745480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phantom-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192623"
+}
