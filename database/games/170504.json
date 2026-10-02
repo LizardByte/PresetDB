@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170504,
+  "name": "Ancient Evil",
+  "source_url": "https://www.igdb.com/games/ancient-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57up.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ancient Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1341620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1341620",
+        "Linux": "setsid steam steam://rungameid/1341620",
+        "macOS": "open steam://rungameid/1341620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ancient-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170504"
+}
