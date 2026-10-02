@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190801,
+  "name": "Ceilless",
+  "source_url": "https://www.igdb.com/games/ceilless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5clf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ceilless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1758060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1758060",
+        "Linux": "setsid steam steam://rungameid/1758060",
+        "macOS": "open steam://rungameid/1758060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ceilless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190801"
+}
