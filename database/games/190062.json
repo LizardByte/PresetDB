@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190062,
+  "name": "Basault VR",
+  "source_url": "https://www.igdb.com/games/basault-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59mu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Basault VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1823830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1823830",
+        "Linux": "setsid steam steam://rungameid/1823830",
+        "macOS": "open steam://rungameid/1823830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "basault-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190062"
+}
