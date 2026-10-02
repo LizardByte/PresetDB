@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172435,
+  "name": "1000 Deaths",
+  "source_url": "https://www.igdb.com/games/1000-deaths--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1000 Deaths",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1141260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1141260",
+        "Linux": "setsid steam steam://rungameid/1141260",
+        "macOS": "open steam://rungameid/1141260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "1000-deaths--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172435"
+}
