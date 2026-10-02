@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189219,
+  "name": "Lazy Girl",
+  "source_url": "https://www.igdb.com/games/lazy-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5iro.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lazy Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1736490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1736490",
+        "Linux": "setsid steam steam://rungameid/1736490",
+        "macOS": "open steam://rungameid/1736490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lazy-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189219"
+}
