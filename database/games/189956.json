@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189956,
+  "name": "Just Go",
+  "source_url": "https://www.igdb.com/games/just-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kl4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just Go",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1862520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1862520",
+        "Linux": "setsid steam steam://rungameid/1862520",
+        "macOS": "open steam://rungameid/1862520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189956"
+}
