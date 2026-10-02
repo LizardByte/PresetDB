@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188680,
+  "name": "SCP Observer",
+  "source_url": "https://www.igdb.com/games/scp-observer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ksh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SCP Observer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1738710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1738710",
+        "Linux": "setsid steam steam://rungameid/1738710",
+        "macOS": "open steam://rungameid/1738710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scp-observer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188680"
+}
