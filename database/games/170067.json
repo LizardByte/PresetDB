@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 170067,
+  "name": "Bunch of Games",
+  "source_url": "https://www.igdb.com/games/bunch-of-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ceo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunch of Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1722440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1722440",
+        "Linux": "setsid steam steam://rungameid/1722440",
+        "macOS": "open steam://rungameid/1722440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunch-of-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=170067"
+}
