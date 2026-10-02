@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 186671,
+  "name": "50",
+  "source_url": "https://www.igdb.com/games/50",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cvs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "50",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1830480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1830480",
+        "Linux": "setsid steam steam://rungameid/1830480",
+        "macOS": "open steam://rungameid/1830480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "50",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=186671"
+}
