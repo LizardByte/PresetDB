@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 177076,
+  "name": "Battle vs. Chess",
+  "source_url": "https://www.igdb.com/games/battle-vs-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6035.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle vs. Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "211050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/211050",
+        "Linux": "setsid steam steam://rungameid/211050",
+        "macOS": "open steam://rungameid/211050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-vs-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=177076"
+}
