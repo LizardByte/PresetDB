@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 176722,
+  "name": "Foobar 0",
+  "source_url": "https://www.igdb.com/games/foobar-0",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foobar 0",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2841320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2841320",
+        "Linux": "setsid steam steam://rungameid/2841320",
+        "macOS": "open steam://rungameid/2841320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foobar-0",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=176722"
+}
