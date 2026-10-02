@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189876,
+  "name": "Fish Story",
+  "source_url": "https://www.igdb.com/games/fish-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o40.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fish Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1800980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1800980",
+        "Linux": "setsid steam steam://rungameid/1800980",
+        "macOS": "open steam://rungameid/1800980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fish-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189876"
+}
