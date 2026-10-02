@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172931,
+  "name": "Last Minute",
+  "source_url": "https://www.igdb.com/games/last-minute",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4gwd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Minute",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1730050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1730050",
+        "Linux": "setsid steam steam://rungameid/1730050",
+        "macOS": "open steam://rungameid/1730050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-minute",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172931"
+}
