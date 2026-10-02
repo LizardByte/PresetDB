@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 178701,
+  "name": "Haunted Lands",
+  "source_url": "https://www.igdb.com/games/haunted-lands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0ly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haunted Lands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2980900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2980900",
+        "Linux": "setsid steam steam://rungameid/2980900",
+        "macOS": "open steam://rungameid/2980900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haunted-lands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=178701"
+}
