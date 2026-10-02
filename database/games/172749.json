@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172749,
+  "name": "Fisherman's House",
+  "source_url": "https://www.igdb.com/games/fishermans-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o3p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fisherman's House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1745000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1745000",
+        "Linux": "setsid steam steam://rungameid/1745000",
+        "macOS": "open steam://rungameid/1745000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fishermans-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172749"
+}
