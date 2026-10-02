@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193425,
+  "name": "Dungeon Explorer",
+  "source_url": "https://www.igdb.com/games/dungeon-explorer--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Explorer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1797040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1797040",
+        "Linux": "setsid steam steam://rungameid/1797040",
+        "macOS": "open steam://rungameid/1797040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-explorer--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193425"
+}
