@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 185775,
+  "name": "Baby Storm",
+  "source_url": "https://www.igdb.com/games/baby-storm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4anp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Baby Storm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2176400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2176400",
+        "Linux": "setsid steam steam://rungameid/2176400",
+        "macOS": "open steam://rungameid/2176400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "baby-storm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=185775"
+}
