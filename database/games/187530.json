@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187530,
+  "name": "Pry into the Void",
+  "source_url": "https://www.igdb.com/games/pry-into-the-void",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79jh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pry into the Void",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1234990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1234990",
+        "Linux": "setsid steam steam://rungameid/1234990",
+        "macOS": "open steam://rungameid/1234990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pry-into-the-void",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187530"
+}
