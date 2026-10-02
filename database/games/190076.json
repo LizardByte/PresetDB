@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190076,
+  "name": "Skew Pong",
+  "source_url": "https://www.igdb.com/games/skew-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co56qa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skew Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1816690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1816690",
+        "Linux": "setsid steam steam://rungameid/1816690",
+        "macOS": "open steam://rungameid/1816690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skew-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190076"
+}
