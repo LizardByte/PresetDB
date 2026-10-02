@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191044,
+  "name": "In the End",
+  "source_url": "https://www.igdb.com/games/in-the-end",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hcc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In the End",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1879000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1879000",
+        "Linux": "setsid steam steam://rungameid/1879000",
+        "macOS": "open steam://rungameid/1879000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-the-end",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191044"
+}
