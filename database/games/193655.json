@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193655,
+  "name": "Firebird",
+  "source_url": "https://www.igdb.com/games/firebird--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5iri.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Firebird",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1633860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1633860",
+        "Linux": "setsid steam steam://rungameid/1633860",
+        "macOS": "open steam://rungameid/1633860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "firebird--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193655"
+}
