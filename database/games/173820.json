@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173820,
+  "name": "Heavenly Hammer",
+  "source_url": "https://www.igdb.com/games/heavenly-hammer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heavenly Hammer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1709000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1709000",
+        "Linux": "setsid steam steam://rungameid/1709000",
+        "macOS": "open steam://rungameid/1709000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heavenly-hammer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173820"
+}
