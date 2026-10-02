@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 182245,
+  "name": "Gone Rogue",
+  "source_url": "https://www.igdb.com/games/gone-rogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5weo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gone Rogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1803600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1803600",
+        "Linux": "setsid steam steam://rungameid/1803600",
+        "macOS": "open steam://rungameid/1803600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gone-rogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=182245"
+}
