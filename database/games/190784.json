@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190784,
+  "name": "Chibi Dash",
+  "source_url": "https://www.igdb.com/games/chibi-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5co0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chibi Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1766300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1766300",
+        "Linux": "setsid steam steam://rungameid/1766300",
+        "macOS": "open steam://rungameid/1766300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chibi-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190784"
+}
