@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189261,
+  "name": "Space Doomer",
+  "source_url": "https://www.igdb.com/games/space-doomer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m8q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Doomer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1738650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1738650",
+        "Linux": "setsid steam steam://rungameid/1738650",
+        "macOS": "open steam://rungameid/1738650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-doomer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189261"
+}
