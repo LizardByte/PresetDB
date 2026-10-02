@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 193240,
+  "name": "Escape Master",
+  "source_url": "https://www.igdb.com/games/escape-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h9u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1826480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1826480",
+        "Linux": "setsid steam steam://rungameid/1826480",
+        "macOS": "open steam://rungameid/1826480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=193240"
+}
