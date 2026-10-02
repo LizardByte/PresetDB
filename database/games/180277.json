@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180277,
+  "name": "Naiad",
+  "source_url": "https://www.igdb.com/games/naiad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocz6n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Naiad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1813860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1813860",
+        "Linux": "setsid steam steam://rungameid/1813860",
+        "macOS": "open steam://rungameid/1813860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "naiad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180277"
+}
