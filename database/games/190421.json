@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190421,
+  "name": "Dream Kitchen",
+  "source_url": "https://www.igdb.com/games/dream-kitchen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dream Kitchen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1768970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1768970",
+        "Linux": "setsid steam steam://rungameid/1768970",
+        "macOS": "open steam://rungameid/1768970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dream-kitchen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190421"
+}
