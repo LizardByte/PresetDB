@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192619,
+  "name": "Fast Fruit",
+  "source_url": "https://www.igdb.com/games/fast-fruit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59dr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fast Fruit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1824800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1824800",
+        "Linux": "setsid steam steam://rungameid/1824800",
+        "macOS": "open steam://rungameid/1824800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fast-fruit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192619"
+}
