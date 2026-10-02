@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192652,
+  "name": "Out of Orbit",
+  "source_url": "https://www.igdb.com/games/out-of-orbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k66.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Out of Orbit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1859990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1859990",
+        "Linux": "setsid steam steam://rungameid/1859990",
+        "macOS": "open steam://rungameid/1859990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "out-of-orbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192652"
+}
