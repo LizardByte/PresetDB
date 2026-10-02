@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 189118,
+  "name": "Through the World",
+  "source_url": "https://www.igdb.com/games/through-the-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ngv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Through the World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1803560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1803560",
+        "Linux": "setsid steam steam://rungameid/1803560",
+        "macOS": "open steam://rungameid/1803560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "through-the-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=189118"
+}
