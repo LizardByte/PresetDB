@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188707,
+  "name": "Turn off the light",
+  "source_url": "https://www.igdb.com/games/turn-off-the-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5npz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turn off the light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1836180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1836180",
+        "Linux": "setsid steam steam://rungameid/1836180",
+        "macOS": "open steam://rungameid/1836180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turn-off-the-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188707"
+}
