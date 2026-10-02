@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 194751,
+  "name": "Guncho",
+  "source_url": "https://www.igdb.com/games/guncho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8hbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guncho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2736220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2736220",
+        "Linux": "setsid steam steam://rungameid/2736220",
+        "macOS": "open steam://rungameid/2736220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guncho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=194751"
+}
