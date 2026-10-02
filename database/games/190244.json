@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190244,
+  "name": "Blade and Ham",
+  "source_url": "https://www.igdb.com/games/blade-and-ham",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blade and Ham",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1752400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1752400",
+        "Linux": "setsid steam steam://rungameid/1752400",
+        "macOS": "open steam://rungameid/1752400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blade-and-ham",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190244"
+}
