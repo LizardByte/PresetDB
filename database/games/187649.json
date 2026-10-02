@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 187649,
+  "name": "3x64",
+  "source_url": "https://www.igdb.com/games/3x64",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7g8u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "3x64",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1129690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1129690",
+        "Linux": "setsid steam steam://rungameid/1129690",
+        "macOS": "open steam://rungameid/1129690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "3x64",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=187649"
+}
