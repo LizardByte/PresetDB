@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 185042,
+  "name": "Garbageland",
+  "source_url": "https://www.igdb.com/games/garbageland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99e8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Garbageland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3578380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3578380",
+        "Linux": "setsid steam steam://rungameid/3578380",
+        "macOS": "open steam://rungameid/3578380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "garbageland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=185042"
+}
