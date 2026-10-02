@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172270,
+  "name": "Find the Cubs",
+  "source_url": "https://www.igdb.com/games/find-the-cubs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5azk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find the Cubs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1694180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1694180",
+        "Linux": "setsid steam steam://rungameid/1694180",
+        "macOS": "open steam://rungameid/1694180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-the-cubs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172270"
+}
