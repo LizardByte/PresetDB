@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 173265,
+  "name": "Bubble People",
+  "source_url": "https://www.igdb.com/games/bubble-people",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40fl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bubble People",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1710930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1710930",
+        "Linux": "setsid steam steam://rungameid/1710930",
+        "macOS": "open steam://rungameid/1710930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bubble-people",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=173265"
+}
