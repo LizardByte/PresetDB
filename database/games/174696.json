@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 174696,
+  "name": "Ghost Case",
+  "source_url": "https://www.igdb.com/games/ghost-case",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6f9l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Case",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4883150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4883150",
+        "Linux": "setsid steam steam://rungameid/4883150",
+        "macOS": "open steam://rungameid/4883150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-case",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=174696"
+}
