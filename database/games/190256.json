@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190256,
+  "name": "Roady Life",
+  "source_url": "https://www.igdb.com/games/roady-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4sdd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roady Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1698470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1698470",
+        "Linux": "setsid steam steam://rungameid/1698470",
+        "macOS": "open steam://rungameid/1698470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roady-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190256"
+}
