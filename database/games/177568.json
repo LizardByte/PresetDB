@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 177568,
+  "name": "Tiny Crate",
+  "source_url": "https://www.igdb.com/games/tiny-crate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavnp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Crate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3733440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3733440",
+        "Linux": "setsid steam steam://rungameid/3733440",
+        "macOS": "open steam://rungameid/3733440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-crate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=177568"
+}
