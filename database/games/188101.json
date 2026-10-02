@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188101,
+  "name": "Toasted!",
+  "source_url": "https://www.igdb.com/games/toasted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59c9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toasted!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1299000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1299000",
+        "Linux": "setsid steam steam://rungameid/1299000",
+        "macOS": "open steam://rungameid/1299000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toasted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188101"
+}
