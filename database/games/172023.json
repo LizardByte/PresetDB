@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 172023,
+  "name": "My Friendly Neighborhood",
+  "source_url": "https://www.igdb.com/games/my-friendly-neighborhood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9c2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Friendly Neighborhood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1574260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1574260",
+        "Linux": "setsid steam steam://rungameid/1574260",
+        "macOS": "open steam://rungameid/1574260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-friendly-neighborhood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=172023"
+}
