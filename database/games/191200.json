@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 191200,
+  "name": "Mikoshi",
+  "source_url": "https://www.igdb.com/games/mikoshi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lcm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mikoshi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1823090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1823090",
+        "Linux": "setsid steam steam://rungameid/1823090",
+        "macOS": "open steam://rungameid/1823090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mikoshi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=191200"
+}
