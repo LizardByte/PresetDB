@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197127,
+  "name": "News Reacts",
+  "source_url": "https://www.igdb.com/games/news-reacts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "News Reacts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1775300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1775300",
+        "Linux": "setsid steam steam://rungameid/1775300",
+        "macOS": "open steam://rungameid/1775300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "news-reacts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197127"
+}
