@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204524,
+  "name": "Bread & Fred",
+  "source_url": "https://www.igdb.com/games/bread-and-fred",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88n4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bread & Fred",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1607680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1607680",
+        "Linux": "setsid steam steam://rungameid/1607680",
+        "macOS": "open steam://rungameid/1607680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bread-and-fred",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204524"
+}
