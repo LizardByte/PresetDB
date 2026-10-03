@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203914,
+  "name": "Boltcraft",
+  "source_url": "https://www.igdb.com/games/boltcraft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9fgl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boltcraft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2005930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2005930",
+        "Linux": "setsid steam steam://rungameid/2005930",
+        "macOS": "open steam://rungameid/2005930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boltcraft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203914"
+}
