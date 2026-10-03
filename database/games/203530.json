@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203530,
+  "name": "Chance at Life",
+  "source_url": "https://www.igdb.com/games/chance-at-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cm1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chance at Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2000540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2000540",
+        "Linux": "setsid steam steam://rungameid/2000540",
+        "macOS": "open steam://rungameid/2000540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chance-at-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203530"
+}
