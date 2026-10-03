@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203545,
+  "name": "Pacifish",
+  "source_url": "https://www.igdb.com/games/pacifish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k7p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pacifish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1996930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1996930",
+        "Linux": "setsid steam steam://rungameid/1996930",
+        "macOS": "open steam://rungameid/1996930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pacifish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203545"
+}
