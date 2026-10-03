@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195775,
+  "name": "IDF-ASD",
+  "source_url": "https://www.igdb.com/games/idf-asd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h61.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "IDF-ASD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1933570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1933570",
+        "Linux": "setsid steam steam://rungameid/1933570",
+        "macOS": "open steam://rungameid/1933570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idf-asd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195775"
+}
