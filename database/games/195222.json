@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195222,
+  "name": "I Human Machine",
+  "source_url": "https://www.igdb.com/games/i-human-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h7v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Human Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1886960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1886960",
+        "Linux": "setsid steam steam://rungameid/1886960",
+        "macOS": "open steam://rungameid/1886960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-human-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195222"
+}
