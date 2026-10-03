@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200034,
+  "name": "Your Computer Might Be at Risk",
+  "source_url": "https://www.igdb.com/games/your-computer-might-be-at-risk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59h5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Your Computer Might Be at Risk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1969620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1969620",
+        "Linux": "setsid steam steam://rungameid/1969620",
+        "macOS": "open steam://rungameid/1969620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "your-computer-might-be-at-risk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200034"
+}
