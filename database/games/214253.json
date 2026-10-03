@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214253,
+  "name": "Little Hellions",
+  "source_url": "https://www.igdb.com/games/little-hellions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5a78.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Hellions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2104110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2104110",
+        "Linux": "setsid steam steam://rungameid/2104110",
+        "macOS": "open steam://rungameid/2104110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-hellions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214253"
+}
