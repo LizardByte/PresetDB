@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203502,
+  "name": "RTX Sweeper",
+  "source_url": "https://www.igdb.com/games/rtx-sweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4trs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RTX Sweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1196300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1196300",
+        "Linux": "setsid steam steam://rungameid/1196300",
+        "macOS": "open steam://rungameid/1196300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rtx-sweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203502"
+}
