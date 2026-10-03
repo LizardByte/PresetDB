@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211914,
+  "name": "Goo Gladiators",
+  "source_url": "https://www.igdb.com/games/goo-gladiators",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5drx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goo Gladiators",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1966500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1966500",
+        "Linux": "setsid steam steam://rungameid/1966500",
+        "macOS": "open steam://rungameid/1966500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goo-gladiators",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211914"
+}
