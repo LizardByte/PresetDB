@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219803,
+  "name": "Good Bear",
+  "source_url": "https://www.igdb.com/games/good-bear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jgb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Good Bear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1091330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1091330",
+        "Linux": "setsid steam steam://rungameid/1091330",
+        "macOS": "open steam://rungameid/1091330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "good-bear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219803"
+}
