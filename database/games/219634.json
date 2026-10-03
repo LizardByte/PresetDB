@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219634,
+  "name": "The First Mountain",
+  "source_url": "https://www.igdb.com/games/the-first-mountain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5q59.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The First Mountain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2149980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2149980",
+        "Linux": "setsid steam steam://rungameid/2149980",
+        "macOS": "open steam://rungameid/2149980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-first-mountain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219634"
+}
