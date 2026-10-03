@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210337,
+  "name": "Error Found",
+  "source_url": "https://www.igdb.com/games/error-found",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co50nz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Error Found",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2093750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2093750",
+        "Linux": "setsid steam steam://rungameid/2093750",
+        "macOS": "open steam://rungameid/2093750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "error-found",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210337"
+}
