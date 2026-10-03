@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200524,
+  "name": "Rowfall",
+  "source_url": "https://www.igdb.com/games/rowfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o3n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rowfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1507280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1507280",
+        "Linux": "setsid steam steam://rungameid/1507280",
+        "macOS": "open steam://rungameid/1507280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rowfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200524"
+}
