@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207306,
+  "name": "SnailQuest",
+  "source_url": "https://www.igdb.com/games/snailquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lzq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SnailQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2015740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2015740",
+        "Linux": "setsid steam steam://rungameid/2015740",
+        "macOS": "open steam://rungameid/2015740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snailquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207306"
+}
