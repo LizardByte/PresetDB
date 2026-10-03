@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195545,
+  "name": "Reset Memory",
+  "source_url": "https://www.igdb.com/games/reset-memory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mdc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reset Memory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1920460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1920460",
+        "Linux": "setsid steam steam://rungameid/1920460",
+        "macOS": "open steam://rungameid/1920460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reset-memory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195545"
+}
