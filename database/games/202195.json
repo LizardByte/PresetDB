@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202195,
+  "name": "No-Go",
+  "source_url": "https://www.igdb.com/games/no-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jsn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No-Go",
+      "os": null,
+      "method": "steam",
+      "launch_id": "941710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/941710",
+        "Linux": "setsid steam steam://rungameid/941710",
+        "macOS": "open steam://rungameid/941710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202195"
+}
