@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219310,
+  "name": "Finger Soccer",
+  "source_url": "https://www.igdb.com/games/finger-soccer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Finger Soccer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2155080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2155080",
+        "Linux": "setsid steam steam://rungameid/2155080",
+        "macOS": "open steam://rungameid/2155080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "finger-soccer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219310"
+}
