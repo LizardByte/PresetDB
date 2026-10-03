@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218108,
+  "name": "Unscramble Heroes",
+  "source_url": "https://www.igdb.com/games/unscramble-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ahk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unscramble Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2152000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2152000",
+        "Linux": "setsid steam steam://rungameid/2152000",
+        "macOS": "open steam://rungameid/2152000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unscramble-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218108"
+}
