@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207407,
+  "name": "Chompies!",
+  "source_url": "https://www.igdb.com/games/chompies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cp1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chompies!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2061540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2061540",
+        "Linux": "setsid steam steam://rungameid/2061540",
+        "macOS": "open steam://rungameid/2061540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chompies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207407"
+}
