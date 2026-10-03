@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211815,
+  "name": "Veterum",
+  "source_url": "https://www.igdb.com/games/veterum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co701v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Veterum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1864690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1864690",
+        "Linux": "setsid steam steam://rungameid/1864690",
+        "macOS": "open steam://rungameid/1864690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "veterum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211815"
+}
