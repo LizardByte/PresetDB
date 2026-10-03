@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215743,
+  "name": "The Hard Game",
+  "source_url": "https://www.igdb.com/games/the-hard-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co568i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hard Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2125460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2125460",
+        "Linux": "setsid steam steam://rungameid/2125460",
+        "macOS": "open steam://rungameid/2125460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hard-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215743"
+}
