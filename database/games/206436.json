@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 206436,
+  "name": "7 Days Heroes",
+  "source_url": "https://www.igdb.com/games/7-days-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4xb8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "7 Days Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2209320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2209320",
+        "Linux": "setsid steam steam://rungameid/2209320",
+        "macOS": "open steam://rungameid/2209320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "7-days-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=206436"
+}
