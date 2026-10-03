@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202751,
+  "name": "Dissent",
+  "source_url": "https://www.igdb.com/games/dissent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gx6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dissent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1979210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1979210",
+        "Linux": "setsid steam steam://rungameid/1979210",
+        "macOS": "open steam://rungameid/1979210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dissent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202751"
+}
