@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214037,
+  "name": "Guilded Hearts",
+  "source_url": "https://www.igdb.com/games/guilded-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7d26.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guilded Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2105700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2105700",
+        "Linux": "setsid steam steam://rungameid/2105700",
+        "macOS": "open steam://rungameid/2105700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guilded-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214037"
+}
