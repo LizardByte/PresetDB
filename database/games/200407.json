@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200407,
+  "name": "Taste of Heaven",
+  "source_url": "https://www.igdb.com/games/taste-of-heaven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5je8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Taste of Heaven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1835080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1835080",
+        "Linux": "setsid steam steam://rungameid/1835080",
+        "macOS": "open steam://rungameid/1835080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "taste-of-heaven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200407"
+}
