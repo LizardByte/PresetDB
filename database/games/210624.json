@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210624,
+  "name": "Bounty Star",
+  "source_url": "https://www.igdb.com/games/bounty-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqsj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bounty Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1497430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1497430",
+        "Linux": "setsid steam steam://rungameid/1497430",
+        "macOS": "open steam://rungameid/1497430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bounty-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210624"
+}
