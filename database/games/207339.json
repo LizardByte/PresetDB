@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207339,
+  "name": "Usagi Health Club",
+  "source_url": "https://www.igdb.com/games/usagi-health-club",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5icf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Usagi Health Club",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1806630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1806630",
+        "Linux": "setsid steam steam://rungameid/1806630",
+        "macOS": "open steam://rungameid/1806630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "usagi-health-club",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207339"
+}
