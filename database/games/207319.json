@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207319,
+  "name": "Rusty Seas",
+  "source_url": "https://www.igdb.com/games/rusty-seas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o9p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rusty Seas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2050070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2050070",
+        "Linux": "setsid steam steam://rungameid/2050070",
+        "macOS": "open steam://rungameid/2050070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rusty-seas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207319"
+}
