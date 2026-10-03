@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213720,
+  "name": "Wizarre",
+  "source_url": "https://www.igdb.com/games/wizarre",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6f7k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizarre",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2614360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2614360",
+        "Linux": "setsid steam steam://rungameid/2614360",
+        "macOS": "open steam://rungameid/2614360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wizarre",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213720"
+}
