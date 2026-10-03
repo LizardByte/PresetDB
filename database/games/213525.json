@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213525,
+  "name": "Stuff Enuff",
+  "source_url": "https://www.igdb.com/games/stuff-enuff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stuff Enuff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1989970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1989970",
+        "Linux": "setsid steam steam://rungameid/1989970",
+        "macOS": "open steam://rungameid/1989970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stuff-enuff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213525"
+}
