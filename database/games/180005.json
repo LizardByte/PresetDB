@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180005,
+  "name": "Gachi Dash",
+  "source_url": "https://www.igdb.com/games/gachi-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hbb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gachi Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1782620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1782620",
+        "Linux": "setsid steam steam://rungameid/1782620",
+        "macOS": "open steam://rungameid/1782620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gachi-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180005"
+}
