@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201674,
+  "name": "Rob",
+  "source_url": "https://www.igdb.com/games/rob",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mjo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rob",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1961190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1961190",
+        "Linux": "setsid steam steam://rungameid/1961190",
+        "macOS": "open steam://rungameid/1961190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rob",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201674"
+}
