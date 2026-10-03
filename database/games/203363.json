@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203363,
+  "name": "Roomli",
+  "source_url": "https://www.igdb.com/games/roomli",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4tfo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roomli",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2010740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2010740",
+        "Linux": "setsid steam steam://rungameid/2010740",
+        "macOS": "open steam://rungameid/2010740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roomli",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203363"
+}
