@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210860,
+  "name": "Virusum",
+  "source_url": "https://www.igdb.com/games/virusum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i1i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virusum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2096040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2096040",
+        "Linux": "setsid steam steam://rungameid/2096040",
+        "macOS": "open steam://rungameid/2096040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virusum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210860"
+}
