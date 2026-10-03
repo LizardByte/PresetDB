@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199322,
+  "name": "Lone Bastion",
+  "source_url": "https://www.igdb.com/games/lone-bastion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jjx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lone Bastion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1971170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1971170",
+        "Linux": "setsid steam steam://rungameid/1971170",
+        "macOS": "open steam://rungameid/1971170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lone-bastion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199322"
+}
