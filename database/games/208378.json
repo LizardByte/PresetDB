@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208378,
+  "name": "ColorCube",
+  "source_url": "https://www.igdb.com/games/colorcube--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cu2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ColorCube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2066920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2066920",
+        "Linux": "setsid steam steam://rungameid/2066920",
+        "macOS": "open steam://rungameid/2066920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "colorcube--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208378"
+}
