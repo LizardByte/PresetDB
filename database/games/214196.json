@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214196,
+  "name": "Spam Text",
+  "source_url": "https://www.igdb.com/games/spam-text",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53yr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spam Text",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2113290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2113290",
+        "Linux": "setsid steam steam://rungameid/2113290",
+        "macOS": "open steam://rungameid/2113290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spam-text",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214196"
+}
