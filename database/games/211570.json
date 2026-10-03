@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211570,
+  "name": "Gaz",
+  "source_url": "https://www.igdb.com/games/gaz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dlv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gaz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1985520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1985520",
+        "Linux": "setsid steam steam://rungameid/1985520",
+        "macOS": "open steam://rungameid/1985520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gaz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211570"
+}
