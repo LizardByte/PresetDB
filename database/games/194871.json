@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 194871,
+  "name": "Dead Man's Diary",
+  "source_url": "https://www.igdb.com/games/dead-mans-diary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4l5a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Man's Diary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1808700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1808700",
+        "Linux": "setsid steam steam://rungameid/1808700",
+        "macOS": "open steam://rungameid/1808700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-mans-diary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=194871"
+}
