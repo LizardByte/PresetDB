@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211033,
+  "name": "Glitch Hunt",
+  "source_url": "https://www.igdb.com/games/glitch-hunt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9bs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glitch Hunt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1966400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1966400",
+        "Linux": "setsid steam steam://rungameid/1966400",
+        "macOS": "open steam://rungameid/1966400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "glitch-hunt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211033"
+}
