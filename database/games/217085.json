@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217085,
+  "name": "Silen House",
+  "source_url": "https://www.igdb.com/games/silen-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58ma.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silen House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2129200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2129200",
+        "Linux": "setsid steam steam://rungameid/2129200",
+        "macOS": "open steam://rungameid/2129200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silen-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217085"
+}
