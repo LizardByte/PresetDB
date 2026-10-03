@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204693,
+  "name": "Haunted Mansion",
+  "source_url": "https://www.igdb.com/games/haunted-mansion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e4c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haunted Mansion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017980",
+        "Linux": "setsid steam steam://rungameid/2017980",
+        "macOS": "open steam://rungameid/2017980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haunted-mansion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204693"
+}
