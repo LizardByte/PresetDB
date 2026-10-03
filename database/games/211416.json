@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211416,
+  "name": "Al-Ankabut",
+  "source_url": "https://www.igdb.com/games/al-ankabut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co575y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Al-Ankabut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1714500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1714500",
+        "Linux": "setsid steam steam://rungameid/1714500",
+        "macOS": "open steam://rungameid/1714500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "al-ankabut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211416"
+}
