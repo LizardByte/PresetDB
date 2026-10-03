@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217465,
+  "name": "Just A Guy",
+  "source_url": "https://www.igdb.com/games/just-a-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8yy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just A Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1578970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1578970",
+        "Linux": "setsid steam steam://rungameid/1578970",
+        "macOS": "open steam://rungameid/1578970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-a-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217465"
+}
