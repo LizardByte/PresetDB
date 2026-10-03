@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216977,
+  "name": "Offline",
+  "source_url": "https://www.igdb.com/games/offline",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6nxz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Offline",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1592580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1592580",
+        "Linux": "setsid steam steam://rungameid/1592580",
+        "macOS": "open steam://rungameid/1592580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "offline",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216977"
+}
