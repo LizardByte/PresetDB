@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212047,
+  "name": "My Familiar",
+  "source_url": "https://www.igdb.com/games/my-familiar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lnv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Familiar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1502750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1502750",
+        "Linux": "setsid steam steam://rungameid/1502750",
+        "macOS": "open steam://rungameid/1502750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-familiar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212047"
+}
