@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201702,
+  "name": "Princess of Seas",
+  "source_url": "https://www.igdb.com/games/princess-of-seas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Princess of Seas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1957380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1957380",
+        "Linux": "setsid steam steam://rungameid/1957380",
+        "macOS": "open steam://rungameid/1957380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "princess-of-seas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201702"
+}
