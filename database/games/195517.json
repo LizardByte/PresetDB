@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195517,
+  "name": "Return to Monkey Island",
+  "source_url": "https://www.igdb.com/games/return-to-monkey-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co56kr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Return to Monkey Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2060130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2060130",
+        "Linux": "setsid steam steam://rungameid/2060130",
+        "macOS": "open steam://rungameid/2060130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "return-to-monkey-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195517"
+}
