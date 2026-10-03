@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200551,
+  "name": "Zenless Zone Zero",
+  "source_url": "https://www.igdb.com/games/zenless-zone-zero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnek.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zenless Zone Zero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4162040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4162040",
+        "Linux": "setsid steam steam://rungameid/4162040",
+        "macOS": "open steam://rungameid/4162040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zenless-zone-zero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200551"
+}
