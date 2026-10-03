@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202529,
+  "name": "Piggy Jump",
+  "source_url": "https://www.igdb.com/games/piggy-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kfj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Piggy Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1993940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1993940",
+        "Linux": "setsid steam steam://rungameid/1993940",
+        "macOS": "open steam://rungameid/1993940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "piggy-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202529"
+}
