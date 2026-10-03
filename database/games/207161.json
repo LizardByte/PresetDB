@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207161,
+  "name": "My Little Universe",
+  "source_url": "https://www.igdb.com/games/my-little-universe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7tsm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Little Universe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2328750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2328750",
+        "Linux": "setsid steam steam://rungameid/2328750",
+        "macOS": "open steam://rungameid/2328750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-little-universe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207161"
+}
