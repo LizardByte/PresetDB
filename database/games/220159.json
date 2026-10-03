@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220159,
+  "name": "Clash of Panzer",
+  "source_url": "https://www.igdb.com/games/clash-of-panzer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73rg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clash of Panzer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2377960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2377960",
+        "Linux": "setsid steam steam://rungameid/2377960",
+        "macOS": "open steam://rungameid/2377960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clash-of-panzer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220159"
+}
