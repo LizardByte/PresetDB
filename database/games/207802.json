@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207802,
+  "name": "Maelstrom",
+  "source_url": "https://www.igdb.com/games/maelstrom--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hhv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maelstrom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2058660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2058660",
+        "Linux": "setsid steam steam://rungameid/2058660",
+        "macOS": "open steam://rungameid/2058660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maelstrom--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207802"
+}
