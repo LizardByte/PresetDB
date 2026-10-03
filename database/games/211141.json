@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211141,
+  "name": "Bravery",
+  "source_url": "https://www.igdb.com/games/bravery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c5l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bravery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2027270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2027270",
+        "Linux": "setsid steam steam://rungameid/2027270",
+        "macOS": "open steam://rungameid/2027270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bravery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211141"
+}
