@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217369,
+  "name": "Kasaba",
+  "source_url": "https://www.igdb.com/games/kasaba",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58ve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kasaba",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2136350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2136350",
+        "Linux": "setsid steam steam://rungameid/2136350",
+        "macOS": "open steam://rungameid/2136350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kasaba",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217369"
+}
