@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216890,
+  "name": "Slime Hero",
+  "source_url": "https://www.igdb.com/games/slime-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cvd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2138400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2138400",
+        "Linux": "setsid steam steam://rungameid/2138400",
+        "macOS": "open steam://rungameid/2138400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216890"
+}
