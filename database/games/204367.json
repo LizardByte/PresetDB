@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204367,
+  "name": "Time Flies",
+  "source_url": "https://www.igdb.com/games/time-flies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ulb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Time Flies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2000120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2000120",
+        "Linux": "setsid steam steam://rungameid/2000120",
+        "macOS": "open steam://rungameid/2000120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "time-flies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204367"
+}
