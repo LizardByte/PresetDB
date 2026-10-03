@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219317,
+  "name": "Forest Spring",
+  "source_url": "https://www.igdb.com/games/forest-spring",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5eq5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest Spring",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2147710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2147710",
+        "Linux": "setsid steam steam://rungameid/2147710",
+        "macOS": "open steam://rungameid/2147710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forest-spring",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219317"
+}
