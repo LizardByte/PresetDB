@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210885,
+  "name": "Drain Runner",
+  "source_url": "https://www.igdb.com/games/drain-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co52ie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drain Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2013780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2013780",
+        "Linux": "setsid steam steam://rungameid/2013780",
+        "macOS": "open steam://rungameid/2013780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drain-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210885"
+}
