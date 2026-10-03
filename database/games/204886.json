@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204886,
+  "name": "SCP: Secret Files",
+  "source_url": "https://www.igdb.com/games/scp-secret-files",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4vdn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SCP: Secret Files",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1718130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1718130",
+        "Linux": "setsid steam steam://rungameid/1718130",
+        "macOS": "open steam://rungameid/1718130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scp-secret-files",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204886"
+}
