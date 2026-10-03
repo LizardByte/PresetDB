@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200899,
+  "name": "Wildfrost",
+  "source_url": "https://www.igdb.com/games/wildfrost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qsu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wildfrost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1811990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1811990",
+        "Linux": "setsid steam steam://rungameid/1811990",
+        "macOS": "open steam://rungameid/1811990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wildfrost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200899"
+}
