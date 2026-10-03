@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214442,
+  "name": "Save and Conquer",
+  "source_url": "https://www.igdb.com/games/save-and-conquer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ibe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save and Conquer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2123000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2123000",
+        "Linux": "setsid steam steam://rungameid/2123000",
+        "macOS": "open steam://rungameid/2123000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "save-and-conquer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214442"
+}
