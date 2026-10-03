@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219800,
+  "name": "Golden Egg",
+  "source_url": "https://www.igdb.com/games/golden-egg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ozx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golden Egg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2150930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2150930",
+        "Linux": "setsid steam steam://rungameid/2150930",
+        "macOS": "open steam://rungameid/2150930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golden-egg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219800"
+}
