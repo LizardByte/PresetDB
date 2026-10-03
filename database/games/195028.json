@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195028,
+  "name": "Trust No Bunny",
+  "source_url": "https://www.igdb.com/games/trust-no-bunny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4led.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trust No Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2025660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2025660",
+        "Linux": "setsid steam steam://rungameid/2025660",
+        "macOS": "open steam://rungameid/2025660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trust-no-bunny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195028"
+}
