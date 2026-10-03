@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204545,
+  "name": "Enemy of the State",
+  "source_url": "https://www.igdb.com/games/enemy-of-the-state",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4uxv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Enemy of the State",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2012040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2012040",
+        "Linux": "setsid steam steam://rungameid/2012040",
+        "macOS": "open steam://rungameid/2012040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "enemy-of-the-state",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204545"
+}
