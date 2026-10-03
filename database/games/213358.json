@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213358,
+  "name": "That Golf Game",
+  "source_url": "https://www.igdb.com/games/that-golf-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mi8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "That Golf Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2106200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2106200",
+        "Linux": "setsid steam steam://rungameid/2106200",
+        "macOS": "open steam://rungameid/2106200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "that-golf-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213358"
+}
