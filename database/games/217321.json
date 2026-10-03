@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217321,
+  "name": "Lunars",
+  "source_url": "https://www.igdb.com/games/lunars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2uf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lunars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1031080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1031080",
+        "Linux": "setsid steam steam://rungameid/1031080",
+        "macOS": "open steam://rungameid/1031080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lunars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217321"
+}
