@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203923,
+  "name": "War Tanks",
+  "source_url": "https://www.igdb.com/games/war-tanks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hr0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War Tanks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2018320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2018320",
+        "Linux": "setsid steam steam://rungameid/2018320",
+        "macOS": "open steam://rungameid/2018320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-tanks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203923"
+}
