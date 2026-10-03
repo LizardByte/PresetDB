@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215358,
+  "name": "Good Game",
+  "source_url": "https://www.igdb.com/games/good-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55vm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Good Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2101680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2101680",
+        "Linux": "setsid steam steam://rungameid/2101680",
+        "macOS": "open steam://rungameid/2101680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "good-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215358"
+}
