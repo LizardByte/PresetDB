@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219392,
+  "name": "The Human Story",
+  "source_url": "https://www.igdb.com/games/the-human-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5erl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Human Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2082690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2082690",
+        "Linux": "setsid steam steam://rungameid/2082690",
+        "macOS": "open steam://rungameid/2082690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-human-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219392"
+}
