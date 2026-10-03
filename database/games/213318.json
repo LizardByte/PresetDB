@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213318,
+  "name": "Griddy",
+  "source_url": "https://www.igdb.com/games/griddy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dv0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Griddy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2104790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2104790",
+        "Linux": "setsid steam steam://rungameid/2104790",
+        "macOS": "open steam://rungameid/2104790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "griddy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213318"
+}
