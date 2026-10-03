@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197391,
+  "name": "Words",
+  "source_url": "https://www.igdb.com/games/words",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59sd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Words",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1936380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1936380",
+        "Linux": "setsid steam steam://rungameid/1936380",
+        "macOS": "open steam://rungameid/1936380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "words",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197391"
+}
