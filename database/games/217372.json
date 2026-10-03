@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217372,
+  "name": "Match Village",
+  "source_url": "https://www.igdb.com/games/match-village",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ozn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Match Village",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2003370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2003370",
+        "Linux": "setsid steam steam://rungameid/2003370",
+        "macOS": "open steam://rungameid/2003370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "match-village",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217372"
+}
