@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213775,
+  "name": "Warmonium",
+  "source_url": "https://www.igdb.com/games/warmonium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65od.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warmonium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1850490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1850490",
+        "Linux": "setsid steam steam://rungameid/1850490",
+        "macOS": "open steam://rungameid/1850490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warmonium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213775"
+}
