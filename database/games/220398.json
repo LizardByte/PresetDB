@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220398,
+  "name": "Loading...",
+  "source_url": "https://www.igdb.com/games/loading-dot-dot-dot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahnr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loading...",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2163660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2163660",
+        "Linux": "setsid steam steam://rungameid/2163660",
+        "macOS": "open steam://rungameid/2163660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "loading-dot-dot-dot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220398"
+}
