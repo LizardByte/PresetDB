@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200346,
+  "name": "The Last Tater",
+  "source_url": "https://www.igdb.com/games/the-last-tater",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4q5u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Tater",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1959490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1959490",
+        "Linux": "setsid steam steam://rungameid/1959490",
+        "macOS": "open steam://rungameid/1959490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-tater",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200346"
+}
