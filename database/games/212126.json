@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212126,
+  "name": "Human or Not",
+  "source_url": "https://www.igdb.com/games/human-or-not",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Human or Not",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1891600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1891600",
+        "Linux": "setsid steam steam://rungameid/1891600",
+        "macOS": "open steam://rungameid/1891600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "human-or-not",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212126"
+}
