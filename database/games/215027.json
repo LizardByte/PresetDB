@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215027,
+  "name": "AIdventure",
+  "source_url": "https://www.igdb.com/games/aidventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xk0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AIdventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2114790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2114790",
+        "Linux": "setsid steam steam://rungameid/2114790",
+        "macOS": "open steam://rungameid/2114790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aidventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215027"
+}
