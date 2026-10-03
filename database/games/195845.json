@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195845,
+  "name": "Sniper",
+  "source_url": "https://www.igdb.com/games/sniper--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m04.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sniper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1876900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1876900",
+        "Linux": "setsid steam steam://rungameid/1876900",
+        "macOS": "open steam://rungameid/1876900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sniper--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195845"
+}
