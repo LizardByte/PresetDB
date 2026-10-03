@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218976,
+  "name": "Zombies",
+  "source_url": "https://www.igdb.com/games/zombies--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dl7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2149000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2149000",
+        "Linux": "setsid steam steam://rungameid/2149000",
+        "macOS": "open steam://rungameid/2149000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombies--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218976"
+}
