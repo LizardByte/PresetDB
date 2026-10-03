@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207541,
+  "name": "Pizza Death",
+  "source_url": "https://www.igdb.com/games/pizza-death",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co502w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pizza Death",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2006360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2006360",
+        "Linux": "setsid steam steam://rungameid/2006360",
+        "macOS": "open steam://rungameid/2006360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pizza-death",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207541"
+}
