@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208226,
+  "name": "Unilogue",
+  "source_url": "https://www.igdb.com/games/unilogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ia4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unilogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2018840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2018840",
+        "Linux": "setsid steam steam://rungameid/2018840",
+        "macOS": "open steam://rungameid/2018840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unilogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208226"
+}
