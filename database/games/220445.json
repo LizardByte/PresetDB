@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220445,
+  "name": "Mini Skull",
+  "source_url": "https://www.igdb.com/games/mini-skull",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ffv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Skull",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2144510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2144510",
+        "Linux": "setsid steam steam://rungameid/2144510",
+        "macOS": "open steam://rungameid/2144510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-skull",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220445"
+}
