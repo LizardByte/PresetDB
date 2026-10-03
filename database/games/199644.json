@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199644,
+  "name": "Into the Dark",
+  "source_url": "https://www.igdb.com/games/into-the-dark--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hcn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Into the Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1938330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1938330",
+        "Linux": "setsid steam steam://rungameid/1938330",
+        "macOS": "open steam://rungameid/1938330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "into-the-dark--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199644"
+}
