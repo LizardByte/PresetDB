@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201324,
+  "name": "Amarantus",
+  "source_url": "https://www.igdb.com/games/amarantus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4r5s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amarantus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1941100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1941100",
+        "Linux": "setsid steam steam://rungameid/1941100",
+        "macOS": "open steam://rungameid/1941100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amarantus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201324"
+}
