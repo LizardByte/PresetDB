@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200772,
+  "name": "Play with Neko",
+  "source_url": "https://www.igdb.com/games/play-with-neko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4qo2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play with Neko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1181130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1181130",
+        "Linux": "setsid steam steam://rungameid/1181130",
+        "macOS": "open steam://rungameid/1181130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "play-with-neko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200772"
+}
