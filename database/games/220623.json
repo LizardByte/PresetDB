@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220623,
+  "name": "Party Quest",
+  "source_url": "https://www.igdb.com/games/party-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97sm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Party Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1922190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1922190",
+        "Linux": "setsid steam steam://rungameid/1922190",
+        "macOS": "open steam://rungameid/1922190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "party-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220623"
+}
