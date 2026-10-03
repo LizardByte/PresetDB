@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220720,
+  "name": "Word Attack",
+  "source_url": "https://www.igdb.com/games/word-attack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Word Attack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1679680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1679680",
+        "Linux": "setsid steam steam://rungameid/1679680",
+        "macOS": "open steam://rungameid/1679680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "word-attack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220720"
+}
