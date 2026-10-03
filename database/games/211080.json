@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211080,
+  "name": "Anitons",
+  "source_url": "https://www.igdb.com/games/anitons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57x7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anitons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1261360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1261360",
+        "Linux": "setsid steam steam://rungameid/1261360",
+        "macOS": "open steam://rungameid/1261360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anitons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211080"
+}
