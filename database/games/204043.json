@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204043,
+  "name": "Miko Melee",
+  "source_url": "https://www.igdb.com/games/miko-melee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miko Melee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2006260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2006260",
+        "Linux": "setsid steam steam://rungameid/2006260",
+        "macOS": "open steam://rungameid/2006260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "miko-melee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204043"
+}
