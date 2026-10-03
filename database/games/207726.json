@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207726,
+  "name": "Dango!",
+  "source_url": "https://www.igdb.com/games/dango",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cya.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dango!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1900930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1900930",
+        "Linux": "setsid steam steam://rungameid/1900930",
+        "macOS": "open steam://rungameid/1900930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dango",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207726"
+}
