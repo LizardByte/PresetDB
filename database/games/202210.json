@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202210,
+  "name": "Anime Gas Station",
+  "source_url": "https://www.igdb.com/games/anime-gas-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57wu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anime Gas Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1866110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1866110",
+        "Linux": "setsid steam steam://rungameid/1866110",
+        "macOS": "open steam://rungameid/1866110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anime-gas-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202210"
+}
