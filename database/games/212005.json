@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212005,
+  "name": "Mystic Gate",
+  "source_url": "https://www.igdb.com/games/mystic-gate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystic Gate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2088750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2088750",
+        "Linux": "setsid steam steam://rungameid/2088750",
+        "macOS": "open steam://rungameid/2088750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystic-gate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212005"
+}
