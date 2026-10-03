@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204520,
+  "name": "Soulitaire",
+  "source_url": "https://www.igdb.com/games/soulitaire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4uyr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulitaire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1953770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1953770",
+        "Linux": "setsid steam steam://rungameid/1953770",
+        "macOS": "open steam://rungameid/1953770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulitaire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204520"
+}
