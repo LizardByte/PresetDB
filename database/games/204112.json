@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204112,
+  "name": "Tales of the Death",
+  "source_url": "https://www.igdb.com/games/tales-of-the-death",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jd6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of the Death",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1981230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1981230",
+        "Linux": "setsid steam steam://rungameid/1981230",
+        "macOS": "open steam://rungameid/1981230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tales-of-the-death",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204112"
+}
