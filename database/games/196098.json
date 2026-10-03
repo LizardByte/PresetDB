@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196098,
+  "name": "Haunt",
+  "source_url": "https://www.igdb.com/games/haunt--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e3z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haunt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1816530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1816530",
+        "Linux": "setsid steam steam://rungameid/1816530",
+        "macOS": "open steam://rungameid/1816530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haunt--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196098"
+}
