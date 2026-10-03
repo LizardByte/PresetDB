@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217351,
+  "name": "Pirate Dragons",
+  "source_url": "https://www.igdb.com/games/pirate-dragons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58ux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate Dragons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1835120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1835120",
+        "Linux": "setsid steam steam://rungameid/1835120",
+        "macOS": "open steam://rungameid/1835120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirate-dragons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217351"
+}
