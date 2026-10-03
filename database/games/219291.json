@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219291,
+  "name": "Farm Wars",
+  "source_url": "https://www.igdb.com/games/farm-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5epe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farm Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094930",
+        "Linux": "setsid steam steam://rungameid/2094930",
+        "macOS": "open steam://rungameid/2094930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farm-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219291"
+}
