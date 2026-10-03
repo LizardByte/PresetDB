@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204516,
+  "name": "Lovebirb",
+  "source_url": "https://www.igdb.com/games/lovebirb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0t1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lovebirb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2105990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2105990",
+        "Linux": "setsid steam steam://rungameid/2105990",
+        "macOS": "open steam://rungameid/2105990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lovebirb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204516"
+}
