@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220699,
+  "name": "Tokki",
+  "source_url": "https://www.igdb.com/games/tokki",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lpb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tokki",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2154000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2154000",
+        "Linux": "setsid steam steam://rungameid/2154000",
+        "macOS": "open steam://rungameid/2154000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tokki",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220699"
+}
