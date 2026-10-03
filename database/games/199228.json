@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199228,
+  "name": "Mini Mecum",
+  "source_url": "https://www.igdb.com/games/mini-mecum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5le9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Mecum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1965840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1965840",
+        "Linux": "setsid steam steam://rungameid/1965840",
+        "macOS": "open steam://rungameid/1965840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-mecum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199228"
+}
