@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208417,
+  "name": "Ravenswatch",
+  "source_url": "https://www.igdb.com/games/ravenswatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs4b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ravenswatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2071280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2071280",
+        "Linux": "setsid steam steam://rungameid/2071280",
+        "macOS": "open steam://rungameid/2071280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ravenswatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208417"
+}
