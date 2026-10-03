@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195877,
+  "name": "Splatter",
+  "source_url": "https://www.igdb.com/games/splatter--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nwl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Splatter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1768920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1768920",
+        "Linux": "setsid steam steam://rungameid/1768920",
+        "macOS": "open steam://rungameid/1768920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "splatter--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195877"
+}
