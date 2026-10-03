@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207326,
+  "name": "Music Store Simulator",
+  "source_url": "https://www.igdb.com/games/music-store-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ln7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Music Store Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2000160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2000160",
+        "Linux": "setsid steam steam://rungameid/2000160",
+        "macOS": "open steam://rungameid/2000160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "music-store-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207326"
+}
