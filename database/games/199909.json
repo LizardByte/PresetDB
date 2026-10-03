@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199909,
+  "name": "Life's Too Short",
+  "source_url": "https://www.igdb.com/games/lifes-too-short",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71r6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Life's Too Short",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4209750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4209750",
+        "Linux": "setsid steam steam://rungameid/4209750",
+        "macOS": "open steam://rungameid/4209750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lifes-too-short",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199909"
+}
