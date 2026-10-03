@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219724,
+  "name": "Bite Me",
+  "source_url": "https://www.igdb.com/games/bite-me--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h9q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bite Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2136480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2136480",
+        "Linux": "setsid steam steam://rungameid/2136480",
+        "macOS": "open steam://rungameid/2136480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bite-me--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219724"
+}
