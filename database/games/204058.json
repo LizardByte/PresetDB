@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204058,
+  "name": "Nine Lives or Less",
+  "source_url": "https://www.igdb.com/games/nine-lives-or-less",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jre.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nine Lives or Less",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2001060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2001060",
+        "Linux": "setsid steam steam://rungameid/2001060",
+        "macOS": "open steam://rungameid/2001060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nine-lives-or-less",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204058"
+}
