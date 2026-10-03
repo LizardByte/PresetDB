@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200900,
+  "name": "Gunbrella",
+  "source_url": "https://www.igdb.com/games/gunbrella",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ylu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunbrella",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1580180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1580180",
+        "Linux": "setsid steam steam://rungameid/1580180",
+        "macOS": "open steam://rungameid/1580180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gunbrella",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200900"
+}
