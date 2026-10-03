@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219871,
+  "name": "Kalt",
+  "source_url": "https://www.igdb.com/games/kalt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5f4t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kalt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1414080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1414080",
+        "Linux": "setsid steam steam://rungameid/1414080",
+        "macOS": "open steam://rungameid/1414080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kalt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219871"
+}
