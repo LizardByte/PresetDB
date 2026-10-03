@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203839,
+  "name": "Atria",
+  "source_url": "https://www.igdb.com/games/atria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co592d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2011030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2011030",
+        "Linux": "setsid steam steam://rungameid/2011030",
+        "macOS": "open steam://rungameid/2011030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203839"
+}
