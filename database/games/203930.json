@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203930,
+  "name": "Chess vs. Chat",
+  "source_url": "https://www.igdb.com/games/chess-vs-chat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cnw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess vs. Chat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1888920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1888920",
+        "Linux": "setsid steam steam://rungameid/1888920",
+        "macOS": "open steam://rungameid/1888920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-vs-chat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203930"
+}
