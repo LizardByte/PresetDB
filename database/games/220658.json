@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220658,
+  "name": "Project: Dream",
+  "source_url": "https://www.igdb.com/games/project-dream",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lr6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project: Dream",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2149400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2149400",
+        "Linux": "setsid steam steam://rungameid/2149400",
+        "macOS": "open steam://rungameid/2149400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-dream",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220658"
+}
