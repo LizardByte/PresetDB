@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211946,
+  "name": "The Cold Forest",
+  "source_url": "https://www.igdb.com/games/the-cold-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mzi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cold Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094170",
+        "Linux": "setsid steam steam://rungameid/2094170",
+        "macOS": "open steam://rungameid/2094170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-cold-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211946"
+}
