@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218824,
+  "name": "Reflex Runner",
+  "source_url": "https://www.igdb.com/games/reflex-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ejh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reflex Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2121770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2121770",
+        "Linux": "setsid steam steam://rungameid/2121770",
+        "macOS": "open steam://rungameid/2121770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reflex-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218824"
+}
