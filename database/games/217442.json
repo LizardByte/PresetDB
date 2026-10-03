@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217442,
+  "name": "Oxygen",
+  "source_url": "https://www.igdb.com/games/oxygen--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5f4k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oxygen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2061430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2061430",
+        "Linux": "setsid steam steam://rungameid/2061430",
+        "macOS": "open steam://rungameid/2061430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oxygen--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217442"
+}
