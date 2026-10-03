@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213247,
+  "name": "A Simple Request",
+  "source_url": "https://www.igdb.com/games/a-simple-request",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co585e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Simple Request",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2074050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2074050",
+        "Linux": "setsid steam steam://rungameid/2074050",
+        "macOS": "open steam://rungameid/2074050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-simple-request",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213247"
+}
