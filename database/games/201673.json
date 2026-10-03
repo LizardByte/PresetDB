@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201673,
+  "name": "Cryptr",
+  "source_url": "https://www.igdb.com/games/cryptr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5d9d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cryptr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1972360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1972360",
+        "Linux": "setsid steam steam://rungameid/1972360",
+        "macOS": "open steam://rungameid/1972360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cryptr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201673"
+}
