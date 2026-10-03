@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215297,
+  "name": "Cake4D",
+  "source_url": "https://www.igdb.com/games/cake4d",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55sx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cake4D",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1863030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1863030",
+        "Linux": "setsid steam steam://rungameid/1863030",
+        "macOS": "open steam://rungameid/1863030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cake4d",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215297"
+}
