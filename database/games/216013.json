@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216013,
+  "name": "Hero's Journey",
+  "source_url": "https://www.igdb.com/games/heros-journey--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fjp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero's Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2123350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2123350",
+        "Linux": "setsid steam steam://rungameid/2123350",
+        "macOS": "open steam://rungameid/2123350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heros-journey--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216013"
+}
