@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217407,
+  "name": "Future Mirror",
+  "source_url": "https://www.igdb.com/games/future-mirror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58wi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Future Mirror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2002200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2002200",
+        "Linux": "setsid steam steam://rungameid/2002200",
+        "macOS": "open steam://rungameid/2002200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "future-mirror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217407"
+}
