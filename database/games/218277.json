@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218277,
+  "name": "Portal with RTX",
+  "source_url": "https://www.igdb.com/games/portal-with-rtx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5b9z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Portal with RTX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2012840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2012840",
+        "Linux": "setsid steam steam://rungameid/2012840",
+        "macOS": "open steam://rungameid/2012840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "portal-with-rtx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218277"
+}
