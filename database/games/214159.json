@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214159,
+  "name": "Meow Defence",
+  "source_url": "https://www.igdb.com/games/meow-defence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53xx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meow Defence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2085320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2085320",
+        "Linux": "setsid steam steam://rungameid/2085320",
+        "macOS": "open steam://rungameid/2085320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meow-defence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214159"
+}
