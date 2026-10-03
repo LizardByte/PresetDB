@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217183,
+  "name": "Lights Out",
+  "source_url": "https://www.igdb.com/games/lights-out--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58p5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lights Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2098030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2098030",
+        "Linux": "setsid steam steam://rungameid/2098030",
+        "macOS": "open steam://rungameid/2098030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lights-out--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217183"
+}
