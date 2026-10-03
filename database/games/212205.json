@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212205,
+  "name": "One Handed",
+  "source_url": "https://www.igdb.com/games/one-handed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jye.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Handed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2090220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2090220",
+        "Linux": "setsid steam steam://rungameid/2090220",
+        "macOS": "open steam://rungameid/2090220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-handed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212205"
+}
