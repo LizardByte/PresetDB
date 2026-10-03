@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204331,
+  "name": "Thnt",
+  "source_url": "https://www.igdb.com/games/thnt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ng4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thnt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1857900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1857900",
+        "Linux": "setsid steam steam://rungameid/1857900",
+        "macOS": "open steam://rungameid/1857900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thnt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204331"
+}
