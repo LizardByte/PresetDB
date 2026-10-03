@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217013,
+  "name": "Automatica",
+  "source_url": "https://www.igdb.com/games/automatica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58ka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Automatica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1061800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1061800",
+        "Linux": "setsid steam steam://rungameid/1061800",
+        "macOS": "open steam://rungameid/1061800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "automatica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217013"
+}
