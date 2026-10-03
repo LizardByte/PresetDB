@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216489,
+  "name": "VR Tribes",
+  "source_url": "https://www.igdb.com/games/vr-tribes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ioc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VR Tribes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1927440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1927440",
+        "Linux": "setsid steam steam://rungameid/1927440",
+        "macOS": "open steam://rungameid/1927440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vr-tribes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216489"
+}
