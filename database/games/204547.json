@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204547,
+  "name": "Sunday Gold",
+  "source_url": "https://www.igdb.com/games/sunday-gold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9s54.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunday Gold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1969440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1969440",
+        "Linux": "setsid steam steam://rungameid/1969440",
+        "macOS": "open steam://rungameid/1969440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sunday-gold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204547"
+}
