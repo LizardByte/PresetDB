@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220730,
+  "name": "X-Racer",
+  "source_url": "https://www.igdb.com/games/x-racer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ipo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "X-Racer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2162880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2162880",
+        "Linux": "setsid steam steam://rungameid/2162880",
+        "macOS": "open steam://rungameid/2162880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "x-racer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220730"
+}
