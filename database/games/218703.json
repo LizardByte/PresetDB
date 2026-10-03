@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218703,
+  "name": "Click to Sail",
+  "source_url": "https://www.igdb.com/games/click-to-sail",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5byr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Click to Sail",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2149430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2149430",
+        "Linux": "setsid steam steam://rungameid/2149430",
+        "macOS": "open steam://rungameid/2149430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "click-to-sail",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218703"
+}
