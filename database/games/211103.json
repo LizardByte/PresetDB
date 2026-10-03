@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211103,
+  "name": "What the Fortress!?",
+  "source_url": "https://www.igdb.com/games/what-the-fortress",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ht5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What the Fortress!?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2067910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2067910",
+        "Linux": "setsid steam steam://rungameid/2067910",
+        "macOS": "open steam://rungameid/2067910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "what-the-fortress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211103"
+}
