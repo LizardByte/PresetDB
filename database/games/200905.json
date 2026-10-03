@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200905,
+  "name": "OneShot: World Machine Edition",
+  "source_url": "https://www.igdb.com/games/oneshot-world-machine-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ldh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OneShot: World Machine Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2915460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2915460",
+        "Linux": "setsid steam steam://rungameid/2915460",
+        "macOS": "open steam://rungameid/2915460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oneshot-world-machine-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200905"
+}
