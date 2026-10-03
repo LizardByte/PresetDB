@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212597,
+  "name": "Approval",
+  "source_url": "https://www.igdb.com/games/approval",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5805.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Approval",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2099880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2099880",
+        "Linux": "setsid steam steam://rungameid/2099880",
+        "macOS": "open steam://rungameid/2099880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "approval",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212597"
+}
