@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217017,
+  "name": "Heart of the Machine",
+  "source_url": "https://www.igdb.com/games/heart-of-the-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heart of the Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2001070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2001070",
+        "Linux": "setsid steam steam://rungameid/2001070",
+        "macOS": "open steam://rungameid/2001070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heart-of-the-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217017"
+}
