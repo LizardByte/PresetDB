@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201217,
+  "name": "Forsaken Barn",
+  "source_url": "https://www.igdb.com/games/forsaken-barn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5obm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forsaken Barn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1342750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1342750",
+        "Linux": "setsid steam steam://rungameid/1342750",
+        "macOS": "open steam://rungameid/1342750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forsaken-barn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201217"
+}
