@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 198439,
+  "name": "American Arcadia",
+  "source_url": "https://www.igdb.com/games/american-arcadia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6pr7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "American Arcadia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1249040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1249040",
+        "Linux": "setsid steam steam://rungameid/1249040",
+        "macOS": "open steam://rungameid/1249040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "american-arcadia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=198439"
+}
