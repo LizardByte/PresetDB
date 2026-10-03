@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196570,
+  "name": "Familiar",
+  "source_url": "https://www.igdb.com/games/familiar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5918.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Familiar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1880690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1880690",
+        "Linux": "setsid steam steam://rungameid/1880690",
+        "macOS": "open steam://rungameid/1880690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "familiar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196570"
+}
