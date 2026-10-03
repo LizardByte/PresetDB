@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207080,
+  "name": "Omega Squad",
+  "source_url": "https://www.igdb.com/games/omega-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Omega Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2062330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2062330",
+        "Linux": "setsid steam steam://rungameid/2062330",
+        "macOS": "open steam://rungameid/2062330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "omega-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207080"
+}
