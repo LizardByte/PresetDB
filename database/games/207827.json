@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207827,
+  "name": "Alara Prime",
+  "source_url": "https://www.igdb.com/games/alara-prime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coae6u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alara Prime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "971700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/971700",
+        "Linux": "setsid steam steam://rungameid/971700",
+        "macOS": "open steam://rungameid/971700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alara-prime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207827"
+}
