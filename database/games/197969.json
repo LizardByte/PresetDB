@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197969,
+  "name": "4D Chess",
+  "source_url": "https://www.igdb.com/games/4d-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "4D Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1960620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1960620",
+        "Linux": "setsid steam steam://rungameid/1960620",
+        "macOS": "open steam://rungameid/1960620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "4d-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197969"
+}
