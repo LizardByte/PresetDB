@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196271,
+  "name": "G-Zilla",
+  "source_url": "https://www.igdb.com/games/g-zilla",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ml6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "G-Zilla",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1939700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1939700",
+        "Linux": "setsid steam steam://rungameid/1939700",
+        "macOS": "open steam://rungameid/1939700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "g-zilla",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196271"
+}
