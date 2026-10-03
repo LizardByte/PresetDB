@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202442,
+  "name": "Castle Greyrot",
+  "source_url": "https://www.igdb.com/games/castle-greyrot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cji.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castle Greyrot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1622010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1622010",
+        "Linux": "setsid steam steam://rungameid/1622010",
+        "macOS": "open steam://rungameid/1622010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "castle-greyrot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202442"
+}
