@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211015,
+  "name": "Delusional",
+  "source_url": "https://www.igdb.com/games/delusional",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5g4x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Delusional",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1997800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1997800",
+        "Linux": "setsid steam steam://rungameid/1997800",
+        "macOS": "open steam://rungameid/1997800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "delusional",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211015"
+}
