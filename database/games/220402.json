@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220402,
+  "name": "Lone Wolf",
+  "source_url": "https://www.igdb.com/games/lone-wolf--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co96wj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lone Wolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "348930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/348930",
+        "Linux": "setsid steam steam://rungameid/348930",
+        "macOS": "open steam://rungameid/348930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lone-wolf--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220402"
+}
