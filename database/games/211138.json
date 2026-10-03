@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211138,
+  "name": "Voxrush",
+  "source_url": "https://www.igdb.com/games/voxrush--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53bd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Voxrush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2057070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2057070",
+        "Linux": "setsid steam steam://rungameid/2057070",
+        "macOS": "open steam://rungameid/2057070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voxrush--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211138"
+}
