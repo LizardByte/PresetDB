@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201006,
+  "name": "Kongeer",
+  "source_url": "https://www.igdb.com/games/kongeer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5im4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kongeer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1925930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1925930",
+        "Linux": "setsid steam steam://rungameid/1925930",
+        "macOS": "open steam://rungameid/1925930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kongeer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201006"
+}
