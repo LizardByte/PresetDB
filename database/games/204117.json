@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204117,
+  "name": "Penguins Can Fly",
+  "source_url": "https://www.igdb.com/games/penguins-can-fly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kd4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Penguins Can Fly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2007050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2007050",
+        "Linux": "setsid steam steam://rungameid/2007050",
+        "macOS": "open steam://rungameid/2007050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "penguins-can-fly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204117"
+}
