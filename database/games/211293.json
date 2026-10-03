@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211293,
+  "name": "Run, Doodleguy!",
+  "source_url": "https://www.igdb.com/games/run-doodleguy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tgo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run, Doodleguy!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1684260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1684260",
+        "Linux": "setsid steam steam://rungameid/1684260",
+        "macOS": "open steam://rungameid/1684260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-doodleguy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211293"
+}
