@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217278,
+  "name": "Axon Hero",
+  "source_url": "https://www.igdb.com/games/axon-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58st.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Axon Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1743670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1743670",
+        "Linux": "setsid steam steam://rungameid/1743670",
+        "macOS": "open steam://rungameid/1743670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "axon-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217278"
+}
