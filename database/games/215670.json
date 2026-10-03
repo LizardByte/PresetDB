@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215670,
+  "name": "Wandering Duelist",
+  "source_url": "https://www.igdb.com/games/wandering-duelist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ioe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wandering Duelist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2111470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2111470",
+        "Linux": "setsid steam steam://rungameid/2111470",
+        "macOS": "open steam://rungameid/2111470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wandering-duelist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215670"
+}
