@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199306,
+  "name": "Nemire",
+  "source_url": "https://www.igdb.com/games/nemire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j6h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nemire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1955120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1955120",
+        "Linux": "setsid steam steam://rungameid/1955120",
+        "macOS": "open steam://rungameid/1955120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nemire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199306"
+}
