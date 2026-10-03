@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215345,
+  "name": "Imaginari",
+  "source_url": "https://www.igdb.com/games/imaginari",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55v8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Imaginari",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2069560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2069560",
+        "Linux": "setsid steam steam://rungameid/2069560",
+        "macOS": "open steam://rungameid/2069560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "imaginari",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215345"
+}
