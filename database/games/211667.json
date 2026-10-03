@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211667,
+  "name": "Colony",
+  "source_url": "https://www.igdb.com/games/colony--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ctw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Colony",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017050",
+        "Linux": "setsid steam steam://rungameid/2017050",
+        "macOS": "open steam://rungameid/2017050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "colony--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211667"
+}
