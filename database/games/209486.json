@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 209486,
+  "name": "Invadead",
+  "source_url": "https://www.igdb.com/games/invadead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hd4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Invadead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2078580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2078580",
+        "Linux": "setsid steam steam://rungameid/2078580",
+        "macOS": "open steam://rungameid/2078580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "invadead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=209486"
+}
