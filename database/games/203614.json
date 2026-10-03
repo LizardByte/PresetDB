@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203614,
+  "name": "Hero of War",
+  "source_url": "https://www.igdb.com/games/hero-of-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero of War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017630",
+        "Linux": "setsid steam steam://rungameid/2017630",
+        "macOS": "open steam://rungameid/2017630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hero-of-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203614"
+}
