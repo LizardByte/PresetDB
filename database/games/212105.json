@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212105,
+  "name": "Liquid Havoc",
+  "source_url": "https://www.igdb.com/games/liquid-havoc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i5z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liquid Havoc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2005570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2005570",
+        "Linux": "setsid steam steam://rungameid/2005570",
+        "macOS": "open steam://rungameid/2005570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liquid-havoc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212105"
+}
