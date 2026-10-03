@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217297,
+  "name": "RPG Town",
+  "source_url": "https://www.igdb.com/games/rpg-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58tb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RPG Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1874230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1874230",
+        "Linux": "setsid steam steam://rungameid/1874230",
+        "macOS": "open steam://rungameid/1874230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rpg-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217297"
+}
