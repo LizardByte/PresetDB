@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215644,
+  "name": "Let Me Out",
+  "source_url": "https://www.igdb.com/games/let-me-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8obj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let Me Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2130550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2130550",
+        "Linux": "setsid steam steam://rungameid/2130550",
+        "macOS": "open steam://rungameid/2130550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "let-me-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215644"
+}
