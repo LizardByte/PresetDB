@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207510,
+  "name": "Shadowsense.",
+  "source_url": "https://www.igdb.com/games/shadowsense",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5l2k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadowsense.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2018420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2018420",
+        "Linux": "setsid steam steam://rungameid/2018420",
+        "macOS": "open steam://rungameid/2018420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadowsense",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207510"
+}
