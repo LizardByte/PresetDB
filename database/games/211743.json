@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211743,
+  "name": "The Green Light",
+  "source_url": "https://www.igdb.com/games/the-green-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n3r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Green Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1962950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1962950",
+        "Linux": "setsid steam steam://rungameid/1962950",
+        "macOS": "open steam://rungameid/1962950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-green-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211743"
+}
