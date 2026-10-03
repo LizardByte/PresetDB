@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217185,
+  "name": "Mimic Man",
+  "source_url": "https://www.igdb.com/games/mimic-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6cw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mimic Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "802160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/802160",
+        "Linux": "setsid steam steam://rungameid/802160",
+        "macOS": "open steam://rungameid/802160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mimic-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217185"
+}
