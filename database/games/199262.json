@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199262,
+  "name": "Wibble",
+  "source_url": "https://www.igdb.com/games/wibble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4slv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wibble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1951680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1951680",
+        "Linux": "setsid steam steam://rungameid/1951680",
+        "macOS": "open steam://rungameid/1951680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wibble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199262"
+}
