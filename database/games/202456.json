@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202456,
+  "name": "Demonoire",
+  "source_url": "https://www.igdb.com/games/demonoire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5g5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Demonoire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1995130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1995130",
+        "Linux": "setsid steam steam://rungameid/1995130",
+        "macOS": "open steam://rungameid/1995130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "demonoire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202456"
+}
