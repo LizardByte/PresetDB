@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207089,
+  "name": "PomoFarm",
+  "source_url": "https://www.igdb.com/games/pomofarm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kyy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PomoFarm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2060480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2060480",
+        "Linux": "setsid steam steam://rungameid/2060480",
+        "macOS": "open steam://rungameid/2060480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pomofarm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207089"
+}
