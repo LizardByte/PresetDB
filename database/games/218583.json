@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218583,
+  "name": "Death Corp",
+  "source_url": "https://www.igdb.com/games/death-corp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67tl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death Corp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2146280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2146280",
+        "Linux": "setsid steam steam://rungameid/2146280",
+        "macOS": "open steam://rungameid/2146280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "death-corp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218583"
+}
