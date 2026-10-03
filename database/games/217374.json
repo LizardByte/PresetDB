@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217374,
+  "name": "Coffeehouse",
+  "source_url": "https://www.igdb.com/games/coffeehouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58vj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coffeehouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1947890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1947890",
+        "Linux": "setsid steam steam://rungameid/1947890",
+        "macOS": "open steam://rungameid/1947890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coffeehouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217374"
+}
