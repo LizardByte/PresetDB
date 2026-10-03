@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220660,
+  "name": "Project Malice",
+  "source_url": "https://www.igdb.com/games/project-malice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i8i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Malice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2157060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2157060",
+        "Linux": "setsid steam steam://rungameid/2157060",
+        "macOS": "open steam://rungameid/2157060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-malice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220660"
+}
