@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215462,
+  "name": "Arrow",
+  "source_url": "https://www.igdb.com/games/arrow--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5604.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arrow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2110440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2110440",
+        "Linux": "setsid steam steam://rungameid/2110440",
+        "macOS": "open steam://rungameid/2110440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arrow--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215462"
+}
