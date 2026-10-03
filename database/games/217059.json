@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217059,
+  "name": "Until Lights Out",
+  "source_url": "https://www.igdb.com/games/until-lights-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ths.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Until Lights Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2131380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2131380",
+        "Linux": "setsid steam steam://rungameid/2131380",
+        "macOS": "open steam://rungameid/2131380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "until-lights-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217059"
+}
