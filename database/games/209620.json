@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 209620,
+  "name": "Kingdom Eighties",
+  "source_url": "https://www.igdb.com/games/kingdom-eighties",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6voy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingdom Eighties",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1956040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1956040",
+        "Linux": "setsid steam steam://rungameid/1956040",
+        "macOS": "open steam://rungameid/1956040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kingdom-eighties",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=209620"
+}
