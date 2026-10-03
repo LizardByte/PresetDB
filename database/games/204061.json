@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204061,
+  "name": "Maidenless",
+  "source_url": "https://www.igdb.com/games/maidenless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakud.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maidenless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1972250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1972250",
+        "Linux": "setsid steam steam://rungameid/1972250",
+        "macOS": "open steam://rungameid/1972250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maidenless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204061"
+}
