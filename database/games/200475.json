@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200475,
+  "name": "The Bathhouse",
+  "source_url": "https://www.igdb.com/games/the-bathhouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gj0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Bathhouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1956830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1956830",
+        "Linux": "setsid steam steam://rungameid/1956830",
+        "macOS": "open steam://rungameid/1956830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-bathhouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200475"
+}
