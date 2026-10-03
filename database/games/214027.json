@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214027,
+  "name": "Top Down Zombies",
+  "source_url": "https://www.igdb.com/games/top-down-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53va.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Top Down Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2020130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2020130",
+        "Linux": "setsid steam steam://rungameid/2020130",
+        "macOS": "open steam://rungameid/2020130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "top-down-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214027"
+}
