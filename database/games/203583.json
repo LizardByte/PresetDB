@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203583,
+  "name": "City Things",
+  "source_url": "https://www.igdb.com/games/city-things",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cr9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "City Things",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2007850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2007850",
+        "Linux": "setsid steam steam://rungameid/2007850",
+        "macOS": "open steam://rungameid/2007850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "city-things",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203583"
+}
