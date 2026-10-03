@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220458,
+  "name": "NSG",
+  "source_url": "https://www.igdb.com/games/nsg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qd7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NSG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2151430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2151430",
+        "Linux": "setsid steam steam://rungameid/2151430",
+        "macOS": "open steam://rungameid/2151430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nsg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220458"
+}
