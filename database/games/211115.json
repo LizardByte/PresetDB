@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211115,
+  "name": "Stereo Boy",
+  "source_url": "https://www.igdb.com/games/stereo-boy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5oaz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stereo Boy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2073530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2073530",
+        "Linux": "setsid steam steam://rungameid/2073530",
+        "macOS": "open steam://rungameid/2073530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stereo-boy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211115"
+}
