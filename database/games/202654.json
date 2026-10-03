@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202654,
+  "name": "Arcadia",
+  "source_url": "https://www.igdb.com/games/arcadia--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa52x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcadia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1998840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1998840",
+        "Linux": "setsid steam steam://rungameid/1998840",
+        "macOS": "open steam://rungameid/1998840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcadia--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202654"
+}
