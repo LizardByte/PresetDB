@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220020,
+  "name": "Expense",
+  "source_url": "https://www.igdb.com/games/expense",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h1g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Expense",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2095870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2095870",
+        "Linux": "setsid steam steam://rungameid/2095870",
+        "macOS": "open steam://rungameid/2095870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "expense",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220020"
+}
