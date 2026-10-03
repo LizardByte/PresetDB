@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213433,
+  "name": "Asterogues",
+  "source_url": "https://www.igdb.com/games/asterogues",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co585u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Asterogues",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2083240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2083240",
+        "Linux": "setsid steam steam://rungameid/2083240",
+        "macOS": "open steam://rungameid/2083240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "asterogues",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213433"
+}
