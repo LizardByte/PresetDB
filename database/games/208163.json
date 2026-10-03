@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208163,
+  "name": "Ocean Man",
+  "source_url": "https://www.igdb.com/games/ocean-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b2u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ocean Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2317540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2317540",
+        "Linux": "setsid steam steam://rungameid/2317540",
+        "macOS": "open steam://rungameid/2317540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ocean-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208163"
+}
