@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220448,
+  "name": "Night Light",
+  "source_url": "https://www.igdb.com/games/night-light--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobv9l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2142610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2142610",
+        "Linux": "setsid steam steam://rungameid/2142610",
+        "macOS": "open steam://rungameid/2142610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "night-light--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220448"
+}
