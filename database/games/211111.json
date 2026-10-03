@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211111,
+  "name": "Blastonier",
+  "source_url": "https://www.igdb.com/games/blastonier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5box.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blastonier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2027420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2027420",
+        "Linux": "setsid steam steam://rungameid/2027420",
+        "macOS": "open steam://rungameid/2027420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blastonier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211111"
+}
