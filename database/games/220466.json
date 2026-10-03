@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220466,
+  "name": "Pixel Chan",
+  "source_url": "https://www.igdb.com/games/pixel-chan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pixel Chan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2145960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2145960",
+        "Linux": "setsid steam steam://rungameid/2145960",
+        "macOS": "open steam://rungameid/2145960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixel-chan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220466"
+}
