@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215819,
+  "name": "RollCats",
+  "source_url": "https://www.igdb.com/games/rollcats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co56ei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RollCats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2091700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2091700",
+        "Linux": "setsid steam steam://rungameid/2091700",
+        "macOS": "open steam://rungameid/2091700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rollcats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215819"
+}
