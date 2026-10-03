@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215301,
+  "name": "FreshWomen",
+  "source_url": "https://www.igdb.com/games/freshwomen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57gl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FreshWomen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1350650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1350650",
+        "Linux": "setsid steam steam://rungameid/1350650",
+        "macOS": "open steam://rungameid/1350650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freshwomen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215301"
+}
