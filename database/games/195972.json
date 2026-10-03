@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195972,
+  "name": "Pinballer",
+  "source_url": "https://www.igdb.com/games/pinballer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kfs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinballer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1786690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1786690",
+        "Linux": "setsid steam steam://rungameid/1786690",
+        "macOS": "open steam://rungameid/1786690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pinballer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195972"
+}
