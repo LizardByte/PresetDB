@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217425,
+  "name": "Astro",
+  "source_url": "https://www.igdb.com/games/astro--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fjo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2064970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2064970",
+        "Linux": "setsid steam steam://rungameid/2064970",
+        "macOS": "open steam://rungameid/2064970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astro--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217425"
+}
