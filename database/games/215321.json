@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215321,
+  "name": "Rex",
+  "source_url": "https://www.igdb.com/games/rex--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i9x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rex",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2129050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2129050",
+        "Linux": "setsid steam steam://rungameid/2129050",
+        "macOS": "open steam://rungameid/2129050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rex--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215321"
+}
