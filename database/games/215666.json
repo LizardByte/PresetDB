@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215666,
+  "name": "War of Wizards",
+  "source_url": "https://www.igdb.com/games/war-of-wizards",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5667.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War of Wizards",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2009460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2009460",
+        "Linux": "setsid steam steam://rungameid/2009460",
+        "macOS": "open steam://rungameid/2009460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-of-wizards",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215666"
+}
