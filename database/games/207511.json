@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207511,
+  "name": "Colonia",
+  "source_url": "https://www.igdb.com/games/colonia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ctu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Colonia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2016020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2016020",
+        "Linux": "setsid steam steam://rungameid/2016020",
+        "macOS": "open steam://rungameid/2016020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "colonia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207511"
+}
