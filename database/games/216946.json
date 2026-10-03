@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216946,
+  "name": "Q'Redux",
+  "source_url": "https://www.igdb.com/games/qredux",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58ia.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Q'Redux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1606000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1606000",
+        "Linux": "setsid steam steam://rungameid/1606000",
+        "macOS": "open steam://rungameid/1606000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "qredux",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216946"
+}
