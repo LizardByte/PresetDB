@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212980,
+  "name": "Magneko",
+  "source_url": "https://www.igdb.com/games/magneko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magneko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2051020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2051020",
+        "Linux": "setsid steam steam://rungameid/2051020",
+        "macOS": "open steam://rungameid/2051020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magneko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212980"
+}
