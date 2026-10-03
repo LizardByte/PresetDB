@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215726,
+  "name": "TimeLost",
+  "source_url": "https://www.igdb.com/games/timelost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ja1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TimeLost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2121320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2121320",
+        "Linux": "setsid steam steam://rungameid/2121320",
+        "macOS": "open steam://rungameid/2121320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "timelost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215726"
+}
