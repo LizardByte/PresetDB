@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 209419,
+  "name": "Ninza",
+  "source_url": "https://www.igdb.com/games/ninza",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co745x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ninza",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2187320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2187320",
+        "Linux": "setsid steam steam://rungameid/2187320",
+        "macOS": "open steam://rungameid/2187320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ninza",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=209419"
+}
