@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213413,
+  "name": "Tribe Explorer",
+  "source_url": "https://www.igdb.com/games/tribe-explorer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5noe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tribe Explorer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2110070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2110070",
+        "Linux": "setsid steam steam://rungameid/2110070",
+        "macOS": "open steam://rungameid/2110070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tribe-explorer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213413"
+}
