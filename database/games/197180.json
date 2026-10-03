@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197180,
+  "name": "Potatoes",
+  "source_url": "https://www.igdb.com/games/potatoes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ml0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Potatoes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1913900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1913900",
+        "Linux": "setsid steam steam://rungameid/1913900",
+        "macOS": "open steam://rungameid/1913900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "potatoes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197180"
+}
