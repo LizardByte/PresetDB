@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200469,
+  "name": "Soda Sabotage",
+  "source_url": "https://www.igdb.com/games/soda-sabotage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m14.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soda Sabotage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1940500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1940500",
+        "Linux": "setsid steam steam://rungameid/1940500",
+        "macOS": "open steam://rungameid/1940500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soda-sabotage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200469"
+}
