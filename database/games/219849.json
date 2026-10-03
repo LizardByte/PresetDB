@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219849,
+  "name": "Ignite",
+  "source_url": "https://www.igdb.com/games/ignite--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k2z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ignite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2103180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2103180",
+        "Linux": "setsid steam steam://rungameid/2103180",
+        "macOS": "open steam://rungameid/2103180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ignite--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219849"
+}
