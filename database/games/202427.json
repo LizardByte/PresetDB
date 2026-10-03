@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202427,
+  "name": "Unbearable",
+  "source_url": "https://www.igdb.com/games/unbearable",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i7c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unbearable",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1990060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1990060",
+        "Linux": "setsid steam steam://rungameid/1990060",
+        "macOS": "open steam://rungameid/1990060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unbearable",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202427"
+}
