@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207603,
+  "name": "SCP: Intrusion",
+  "source_url": "https://www.igdb.com/games/scp-intrusion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ksd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SCP: Intrusion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1970720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1970720",
+        "Linux": "setsid steam steam://rungameid/1970720",
+        "macOS": "open steam://rungameid/1970720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scp-intrusion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207603"
+}
