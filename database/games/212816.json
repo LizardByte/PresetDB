@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212816,
+  "name": "Furnish Master",
+  "source_url": "https://www.igdb.com/games/furnish-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7syr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Furnish Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2004080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2004080",
+        "Linux": "setsid steam steam://rungameid/2004080",
+        "macOS": "open steam://rungameid/2004080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "furnish-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212816"
+}
