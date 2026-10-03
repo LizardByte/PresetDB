@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 205172,
+  "name": "Atari Mania",
+  "source_url": "https://www.igdb.com/games/atari-mania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co592q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atari Mania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1911800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1911800",
+        "Linux": "setsid steam steam://rungameid/1911800",
+        "macOS": "open steam://rungameid/1911800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atari-mania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=205172"
+}
