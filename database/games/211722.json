@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211722,
+  "name": "Gossamer Matrix",
+  "source_url": "https://www.igdb.com/games/gossamer-matrix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5dsl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gossamer Matrix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2002840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2002840",
+        "Linux": "setsid steam steam://rungameid/2002840",
+        "macOS": "open steam://rungameid/2002840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gossamer-matrix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211722"
+}
