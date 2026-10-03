@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212853,
+  "name": "The Classrooms",
+  "source_url": "https://www.igdb.com/games/the-classrooms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafmp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Classrooms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2099110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2099110",
+        "Linux": "setsid steam steam://rungameid/2099110",
+        "macOS": "open steam://rungameid/2099110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-classrooms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212853"
+}
