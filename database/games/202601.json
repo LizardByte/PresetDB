@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202601,
+  "name": "Amanda the Adventurer",
+  "source_url": "https://www.igdb.com/games/amanda-the-adventurer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amanda the Adventurer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2166060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2166060",
+        "Linux": "setsid steam steam://rungameid/2166060",
+        "macOS": "open steam://rungameid/2166060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amanda-the-adventurer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202601"
+}
