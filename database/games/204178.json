@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204178,
+  "name": "Lost Marbles",
+  "source_url": "https://www.igdb.com/games/lost-marbles--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co847r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Marbles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "966190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/966190",
+        "Linux": "setsid steam steam://rungameid/966190",
+        "macOS": "open steam://rungameid/966190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-marbles--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204178"
+}
