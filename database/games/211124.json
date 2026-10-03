@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211124,
+  "name": "Monkey Milk",
+  "source_url": "https://www.igdb.com/games/monkey-milk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lic.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monkey Milk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2082290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2082290",
+        "Linux": "setsid steam steam://rungameid/2082290",
+        "macOS": "open steam://rungameid/2082290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monkey-milk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211124"
+}
