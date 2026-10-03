@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199223,
+  "name": "Kelvin",
+  "source_url": "https://www.igdb.com/games/kelvin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5iix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kelvin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1945160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1945160",
+        "Linux": "setsid steam steam://rungameid/1945160",
+        "macOS": "open steam://rungameid/1945160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kelvin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199223"
+}
