@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216600,
+  "name": "Dreamed Away",
+  "source_url": "https://www.igdb.com/games/dreamed-away",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lct.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dreamed Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1919900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1919900",
+        "Linux": "setsid steam steam://rungameid/1919900",
+        "macOS": "open steam://rungameid/1919900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dreamed-away",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216600"
+}
