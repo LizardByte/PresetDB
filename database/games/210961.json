@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210961,
+  "name": "Spread",
+  "source_url": "https://www.igdb.com/games/spread",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nxe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spread",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094120",
+        "Linux": "setsid steam steam://rungameid/2094120",
+        "macOS": "open steam://rungameid/2094120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spread",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210961"
+}
