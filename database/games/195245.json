@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195245,
+  "name": "The Ducksuckers",
+  "source_url": "https://www.igdb.com/games/the-ducksuckers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n1g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Ducksuckers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1945000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1945000",
+        "Linux": "setsid steam steam://rungameid/1945000",
+        "macOS": "open steam://rungameid/1945000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-ducksuckers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195245"
+}
