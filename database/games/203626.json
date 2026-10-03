@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203626,
+  "name": "Chickweed",
+  "source_url": "https://www.igdb.com/games/chickweed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cod.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chickweed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1995120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1995120",
+        "Linux": "setsid steam steam://rungameid/1995120",
+        "macOS": "open steam://rungameid/1995120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chickweed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203626"
+}
