@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217478,
+  "name": "Grey Eminence",
+  "source_url": "https://www.igdb.com/games/grey-eminence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9d1i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grey Eminence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1858700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1858700",
+        "Linux": "setsid steam steam://rungameid/1858700",
+        "macOS": "open steam://rungameid/1858700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grey-eminence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217478"
+}
