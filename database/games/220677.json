@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220677,
+  "name": "My Giant Friend",
+  "source_url": "https://www.igdb.com/games/my-giant-friend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fp8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Giant Friend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2122360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2122360",
+        "Linux": "setsid steam steam://rungameid/2122360",
+        "macOS": "open steam://rungameid/2122360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-giant-friend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220677"
+}
