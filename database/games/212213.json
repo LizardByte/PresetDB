@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212213,
+  "name": "Velaster",
+  "source_url": "https://www.igdb.com/games/velaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hzg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Velaster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1897060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1897060",
+        "Linux": "setsid steam steam://rungameid/1897060",
+        "macOS": "open steam://rungameid/1897060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "velaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212213"
+}
