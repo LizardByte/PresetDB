@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201429,
+  "name": "Fly By Knight",
+  "source_url": "https://www.igdb.com/games/fly-by-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o7c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly By Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1997060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1997060",
+        "Linux": "setsid steam steam://rungameid/1997060",
+        "macOS": "open steam://rungameid/1997060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fly-by-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201429"
+}
