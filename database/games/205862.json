@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 205862,
+  "name": "Boulder Island",
+  "source_url": "https://www.igdb.com/games/boulder-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5c42.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boulder Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2026790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2026790",
+        "Linux": "setsid steam steam://rungameid/2026790",
+        "macOS": "open steam://rungameid/2026790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boulder-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=205862"
+}
