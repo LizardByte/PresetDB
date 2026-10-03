@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220462,
+  "name": "Pax Augusta",
+  "source_url": "https://www.igdb.com/games/pax-augusta",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8oz8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pax Augusta",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1989760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1989760",
+        "Linux": "setsid steam steam://rungameid/1989760",
+        "macOS": "open steam://rungameid/1989760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pax-augusta",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220462"
+}
