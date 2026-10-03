@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195254,
+  "name": "Hit Him",
+  "source_url": "https://www.igdb.com/games/hit-him",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ebn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hit Him",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1935160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1935160",
+        "Linux": "setsid steam steam://rungameid/1935160",
+        "macOS": "open steam://rungameid/1935160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hit-him",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195254"
+}
