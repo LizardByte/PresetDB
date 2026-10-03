@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219615,
+  "name": "Search All: Mice",
+  "source_url": "https://www.igdb.com/games/search-all-mice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5sqc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Mice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2164610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2164610",
+        "Linux": "setsid steam steam://rungameid/2164610",
+        "macOS": "open steam://rungameid/2164610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-mice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219615"
+}
