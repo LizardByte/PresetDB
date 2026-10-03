@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219259,
+  "name": "Warpaws",
+  "source_url": "https://www.igdb.com/games/warpaws",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5eoo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warpaws",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1852360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1852360",
+        "Linux": "setsid steam steam://rungameid/1852360",
+        "macOS": "open steam://rungameid/1852360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warpaws",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219259"
+}
