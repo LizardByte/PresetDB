@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202726,
+  "name": "Holy Shit",
+  "source_url": "https://www.igdb.com/games/holy-shit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4wmo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Holy Shit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1993910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1993910",
+        "Linux": "setsid steam steam://rungameid/1993910",
+        "macOS": "open steam://rungameid/1993910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "holy-shit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202726"
+}
