@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219580,
+  "name": "Super Company",
+  "source_url": "https://www.igdb.com/games/super-company",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8snf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Company",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1830280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1830280",
+        "Linux": "setsid steam steam://rungameid/1830280",
+        "macOS": "open steam://rungameid/1830280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-company",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219580"
+}
