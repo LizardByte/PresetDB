@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201223,
+  "name": "Garbage Collect",
+  "source_url": "https://www.igdb.com/games/garbage-collect",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5df8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Garbage Collect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1979480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1979480",
+        "Linux": "setsid steam steam://rungameid/1979480",
+        "macOS": "open steam://rungameid/1979480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "garbage-collect",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201223"
+}
