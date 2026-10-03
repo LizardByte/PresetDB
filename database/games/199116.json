@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199116,
+  "name": "Brotato",
+  "source_url": "https://www.igdb.com/games/brotato",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaauv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brotato",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1942280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1942280",
+        "Linux": "setsid steam steam://rungameid/1942280",
+        "macOS": "open steam://rungameid/1942280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brotato",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199116"
+}
