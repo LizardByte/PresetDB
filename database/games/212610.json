@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212610,
+  "name": "Project: Swap",
+  "source_url": "https://www.igdb.com/games/project-swap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5moy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project: Swap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2091980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2091980",
+        "Linux": "setsid steam steam://rungameid/2091980",
+        "macOS": "open steam://rungameid/2091980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-swap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212610"
+}
