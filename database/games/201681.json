@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201681,
+  "name": "Hand of Doom",
+  "source_url": "https://www.igdb.com/games/hand-of-doom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hand of Doom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1924400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1924400",
+        "Linux": "setsid steam steam://rungameid/1924400",
+        "macOS": "open steam://rungameid/1924400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hand-of-doom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201681"
+}
