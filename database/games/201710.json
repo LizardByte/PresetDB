@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201710,
+  "name": "Skylost",
+  "source_url": "https://www.igdb.com/games/skylost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lv9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skylost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1977890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1977890",
+        "Linux": "setsid steam steam://rungameid/1977890",
+        "macOS": "open steam://rungameid/1977890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skylost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201710"
+}
