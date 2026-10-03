@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204518,
+  "name": "Oddada",
+  "source_url": "https://www.igdb.com/games/oddada",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4uyo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oddada",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1627870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1627870",
+        "Linux": "setsid steam steam://rungameid/1627870",
+        "macOS": "open steam://rungameid/1627870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oddada",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204518"
+}
