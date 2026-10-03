@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214153,
+  "name": "Monster Loves You Too!",
+  "source_url": "https://www.igdb.com/games/monster-loves-you-too",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5p0v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Loves You Too!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1149000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1149000",
+        "Linux": "setsid steam steam://rungameid/1149000",
+        "macOS": "open steam://rungameid/1149000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-loves-you-too",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214153"
+}
