@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207300,
+  "name": "Project Romboid",
+  "source_url": "https://www.igdb.com/games/project-romboid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Romboid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2051750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2051750",
+        "Linux": "setsid steam steam://rungameid/2051750",
+        "macOS": "open steam://rungameid/2051750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-romboid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207300"
+}
