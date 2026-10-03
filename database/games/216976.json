@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216976,
+  "name": "Oblivion Eclipse",
+  "source_url": "https://www.igdb.com/games/oblivion-eclipse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58j5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oblivion Eclipse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2016560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2016560",
+        "Linux": "setsid steam steam://rungameid/2016560",
+        "macOS": "open steam://rungameid/2016560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oblivion-eclipse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216976"
+}
