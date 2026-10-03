@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217103,
+  "name": "Cozy Room",
+  "source_url": "https://www.igdb.com/games/cozy-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gnn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2007350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2007350",
+        "Linux": "setsid steam steam://rungameid/2007350",
+        "macOS": "open steam://rungameid/2007350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217103"
+}
