@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195388,
+  "name": "Merge Hero",
+  "source_url": "https://www.igdb.com/games/merge-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lb5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Merge Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1867100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1867100",
+        "Linux": "setsid steam steam://rungameid/1867100",
+        "macOS": "open steam://rungameid/1867100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "merge-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195388"
+}
