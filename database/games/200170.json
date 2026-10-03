@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200170,
+  "name": "Aletta",
+  "source_url": "https://www.igdb.com/games/aletta",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co576z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aletta",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1980400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1980400",
+        "Linux": "setsid steam steam://rungameid/1980400",
+        "macOS": "open steam://rungameid/1980400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aletta",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200170"
+}
