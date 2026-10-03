@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216705,
+  "name": "Bing in Wonderland",
+  "source_url": "https://www.igdb.com/games/bing-in-wonderland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gme.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bing in Wonderland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1710100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1710100",
+        "Linux": "setsid steam steam://rungameid/1710100",
+        "macOS": "open steam://rungameid/1710100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bing-in-wonderland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216705"
+}
