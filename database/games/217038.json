@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217038,
+  "name": "CrazyCaps",
+  "source_url": "https://www.igdb.com/games/crazycaps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5p0i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CrazyCaps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2118750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2118750",
+        "Linux": "setsid steam steam://rungameid/2118750",
+        "macOS": "open steam://rungameid/2118750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crazycaps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217038"
+}
