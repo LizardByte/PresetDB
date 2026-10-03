@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219511,
+  "name": "4D Golf",
+  "source_url": "https://www.igdb.com/games/4d-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co856c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "4D Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2147950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2147950",
+        "Linux": "setsid steam steam://rungameid/2147950",
+        "macOS": "open steam://rungameid/2147950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "4d-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219511"
+}
