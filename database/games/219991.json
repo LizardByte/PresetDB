@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219991,
+  "name": "Alien Invasion",
+  "source_url": "https://www.igdb.com/games/alien-invasion--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5f5m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Invasion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2096120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2096120",
+        "Linux": "setsid steam steam://rungameid/2096120",
+        "macOS": "open steam://rungameid/2096120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-invasion--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219991"
+}
