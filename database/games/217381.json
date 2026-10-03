@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217381,
+  "name": "I Am Die",
+  "source_url": "https://www.igdb.com/games/i-am-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58vq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1645880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1645880",
+        "Linux": "setsid steam steam://rungameid/1645880",
+        "macOS": "open steam://rungameid/1645880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217381"
+}
