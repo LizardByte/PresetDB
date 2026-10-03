@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211189,
+  "name": "Mana Valley",
+  "source_url": "https://www.igdb.com/games/mana-valley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5j3w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mana Valley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1983360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1983360",
+        "Linux": "setsid steam steam://rungameid/1983360",
+        "macOS": "open steam://rungameid/1983360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mana-valley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211189"
+}
