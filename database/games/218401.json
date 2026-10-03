@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218401,
+  "name": "Her World",
+  "source_url": "https://www.igdb.com/games/her-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5bck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Her World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2119940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2119940",
+        "Linux": "setsid steam steam://rungameid/2119940",
+        "macOS": "open steam://rungameid/2119940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "her-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218401"
+}
