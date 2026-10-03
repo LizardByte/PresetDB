@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217030,
+  "name": "Darfall",
+  "source_url": "https://www.igdb.com/games/darfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91q8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1961600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1961600",
+        "Linux": "setsid steam steam://rungameid/1961600",
+        "macOS": "open steam://rungameid/1961600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "darfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217030"
+}
