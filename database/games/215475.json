@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215475,
+  "name": "Bowling Hills",
+  "source_url": "https://www.igdb.com/games/bowling-hills",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co560j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bowling Hills",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2125190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2125190",
+        "Linux": "setsid steam steam://rungameid/2125190",
+        "macOS": "open steam://rungameid/2125190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bowling-hills",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215475"
+}
