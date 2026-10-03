@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207704,
+  "name": "Red Tower",
+  "source_url": "https://www.igdb.com/games/red-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m5c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2065280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2065280",
+        "Linux": "setsid steam steam://rungameid/2065280",
+        "macOS": "open steam://rungameid/2065280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207704"
+}
