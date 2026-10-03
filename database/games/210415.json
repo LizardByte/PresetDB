@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210415,
+  "name": "Graphwar",
+  "source_url": "https://www.igdb.com/games/graphwar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gb4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Graphwar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1899700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1899700",
+        "Linux": "setsid steam steam://rungameid/1899700",
+        "macOS": "open steam://rungameid/1899700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "graphwar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210415"
+}
