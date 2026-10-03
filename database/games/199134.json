@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199134,
+  "name": "Yours Truly",
+  "source_url": "https://www.igdb.com/games/yours-truly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59he.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yours Truly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1836350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1836350",
+        "Linux": "setsid steam steam://rungameid/1836350",
+        "macOS": "open steam://rungameid/1836350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yours-truly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199134"
+}
