@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211555,
+  "name": "KaBoom!",
+  "source_url": "https://www.igdb.com/games/kaboom--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5huo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KaBoom!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2055370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2055370",
+        "Linux": "setsid steam steam://rungameid/2055370",
+        "macOS": "open steam://rungameid/2055370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kaboom--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211555"
+}
