@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219726,
+  "name": "BoozeBall",
+  "source_url": "https://www.igdb.com/games/boozeball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5f1y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BoozeBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2153840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2153840",
+        "Linux": "setsid steam steam://rungameid/2153840",
+        "macOS": "open steam://rungameid/2153840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boozeball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219726"
+}
