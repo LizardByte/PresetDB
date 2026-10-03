@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214123,
+  "name": "Kitty's Venture",
+  "source_url": "https://www.igdb.com/games/kittys-venture",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53ww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitty's Venture",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2105880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2105880",
+        "Linux": "setsid steam steam://rungameid/2105880",
+        "macOS": "open steam://rungameid/2105880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kittys-venture",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214123"
+}
