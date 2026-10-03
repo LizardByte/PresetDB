@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196963,
+  "name": "This is Torture Together",
+  "source_url": "https://www.igdb.com/games/this-is-torture-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ng1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This is Torture Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "930880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/930880",
+        "Linux": "setsid steam steam://rungameid/930880",
+        "macOS": "open steam://rungameid/930880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-is-torture-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196963"
+}
