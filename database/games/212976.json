@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212976,
+  "name": "Kube",
+  "source_url": "https://www.igdb.com/games/kube--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5imr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1820860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1820860",
+        "Linux": "setsid steam steam://rungameid/1820860",
+        "macOS": "open steam://rungameid/1820860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kube--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212976"
+}
