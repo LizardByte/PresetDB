@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212901,
+  "name": "AimX",
+  "source_url": "https://www.igdb.com/games/aimx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co574s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AimX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2061680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2061680",
+        "Linux": "setsid steam steam://rungameid/2061680",
+        "macOS": "open steam://rungameid/2061680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aimx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212901"
+}
