@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212011,
+  "name": "Phantom Matrix",
+  "source_url": "https://www.igdb.com/games/phantom-matrix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phantom Matrix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "803640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/803640",
+        "Linux": "setsid steam steam://rungameid/803640",
+        "macOS": "open steam://rungameid/803640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phantom-matrix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212011"
+}
