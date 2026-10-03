@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201518,
+  "name": "Spider Slingers",
+  "source_url": "https://www.igdb.com/games/spider-slingers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mci.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spider Slingers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1952780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1952780",
+        "Linux": "setsid steam steam://rungameid/1952780",
+        "macOS": "open steam://rungameid/1952780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spider-slingers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201518"
+}
