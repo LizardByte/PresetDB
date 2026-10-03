@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216978,
+  "name": "OHV",
+  "source_url": "https://www.igdb.com/games/ohv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9a54.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OHV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1783780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1783780",
+        "Linux": "setsid steam steam://rungameid/1783780",
+        "macOS": "open steam://rungameid/1783780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ohv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216978"
+}
