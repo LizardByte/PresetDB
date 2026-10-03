@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212814,
+  "name": "Chill Town",
+  "source_url": "https://www.igdb.com/games/chill-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chill Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1940200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1940200",
+        "Linux": "setsid steam steam://rungameid/1940200",
+        "macOS": "open steam://rungameid/1940200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chill-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212814"
+}
