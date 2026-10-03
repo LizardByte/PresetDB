@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219235,
+  "name": "Deep Dungeon",
+  "source_url": "https://www.igdb.com/games/deep-dungeon--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gsu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deep Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2150180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2150180",
+        "Linux": "setsid steam steam://rungameid/2150180",
+        "macOS": "open steam://rungameid/2150180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deep-dungeon--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219235"
+}
