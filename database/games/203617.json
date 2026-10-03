@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203617,
+  "name": "Evil's Den",
+  "source_url": "https://www.igdb.com/games/evils-den",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hgv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil's Den",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1789340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1789340",
+        "Linux": "setsid steam steam://rungameid/1789340",
+        "macOS": "open steam://rungameid/1789340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evils-den",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203617"
+}
