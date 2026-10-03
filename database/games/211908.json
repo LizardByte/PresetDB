@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211908,
+  "name": "Ultrafun",
+  "source_url": "https://www.igdb.com/games/ultrafun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5i6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ultrafun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1983520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1983520",
+        "Linux": "setsid steam steam://rungameid/1983520",
+        "macOS": "open steam://rungameid/1983520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ultrafun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211908"
+}
