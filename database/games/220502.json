@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220502,
+  "name": "Starr Ringer",
+  "source_url": "https://www.igdb.com/games/starr-ringer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fhb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starr Ringer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2099120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2099120",
+        "Linux": "setsid steam steam://rungameid/2099120",
+        "macOS": "open steam://rungameid/2099120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starr-ringer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220502"
+}
