@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195623,
+  "name": "Trigger Spree",
+  "source_url": "https://www.igdb.com/games/trigger-spree",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trigger Spree",
+      "os": null,
+      "method": "steam",
+      "launch_id": "655750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/655750",
+        "Linux": "setsid steam steam://rungameid/655750",
+        "macOS": "open steam://rungameid/655750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trigger-spree",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195623"
+}
