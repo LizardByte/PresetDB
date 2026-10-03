@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207409,
+  "name": "Mouse People",
+  "source_url": "https://www.igdb.com/games/mouse-people",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lla.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mouse People",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2011550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2011550",
+        "Linux": "setsid steam steam://rungameid/2011550",
+        "macOS": "open steam://rungameid/2011550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mouse-people",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207409"
+}
