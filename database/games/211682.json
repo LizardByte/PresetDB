@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211682,
+  "name": "Fly to hope",
+  "source_url": "https://www.igdb.com/games/fly-to-hope",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o8c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly to hope",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2097920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2097920",
+        "Linux": "setsid steam steam://rungameid/2097920",
+        "macOS": "open steam://rungameid/2097920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fly-to-hope",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211682"
+}
