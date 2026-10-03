@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215024,
+  "name": "Last Words",
+  "source_url": "https://www.igdb.com/games/last-words",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhq9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Words",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1705650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1705650",
+        "Linux": "setsid steam steam://rungameid/1705650",
+        "macOS": "open steam://rungameid/1705650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-words",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215024"
+}
