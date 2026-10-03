@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201407,
+  "name": "Frontier",
+  "source_url": "https://www.igdb.com/games/frontier--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ojb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1990090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1990090",
+        "Linux": "setsid steam steam://rungameid/1990090",
+        "macOS": "open steam://rungameid/1990090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frontier--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201407"
+}
