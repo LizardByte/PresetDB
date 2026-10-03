@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218283,
+  "name": "Flightless",
+  "source_url": "https://www.igdb.com/games/flightless--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5b6j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flightless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1941200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1941200",
+        "Linux": "setsid steam steam://rungameid/1941200",
+        "macOS": "open steam://rungameid/1941200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flightless--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218283"
+}
