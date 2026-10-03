@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204118,
+  "name": "Pirates Things",
+  "source_url": "https://www.igdb.com/games/pirates-things",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kgv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirates Things",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2010600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2010600",
+        "Linux": "setsid steam steam://rungameid/2010600",
+        "macOS": "open steam://rungameid/2010600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirates-things",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204118"
+}
