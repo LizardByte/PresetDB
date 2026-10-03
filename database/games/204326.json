@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204326,
+  "name": "Don't Get Distracted",
+  "source_url": "https://www.igdb.com/games/dont-get-distracted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gz1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Get Distracted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1773360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1773360",
+        "Linux": "setsid steam steam://rungameid/1773360",
+        "macOS": "open steam://rungameid/1773360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-get-distracted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204326"
+}
