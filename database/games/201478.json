@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201478,
+  "name": "That Which Was Lost",
+  "source_url": "https://www.igdb.com/games/that-which-was-lost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "That Which Was Lost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1989630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1989630",
+        "Linux": "setsid steam steam://rungameid/1989630",
+        "macOS": "open steam://rungameid/1989630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "that-which-was-lost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201478"
+}
