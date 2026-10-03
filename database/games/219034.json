@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219034,
+  "name": "Bonnie's Bakery",
+  "source_url": "https://www.igdb.com/games/bonnies-bakery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e0w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bonnie's Bakery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2417580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2417580",
+        "Linux": "setsid steam steam://rungameid/2417580",
+        "macOS": "open steam://rungameid/2417580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bonnies-bakery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219034"
+}
