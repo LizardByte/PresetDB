@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213007,
+  "name": "Furry Superstar",
+  "source_url": "https://www.igdb.com/games/furry-superstar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5olx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Furry Superstar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2096170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2096170",
+        "Linux": "setsid steam steam://rungameid/2096170",
+        "macOS": "open steam://rungameid/2096170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "furry-superstar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213007"
+}
