@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199090,
+  "name": "Yes My Lord",
+  "source_url": "https://www.igdb.com/games/yes-my-lord",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59k5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yes My Lord",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1802850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1802850",
+        "Linux": "setsid steam steam://rungameid/1802850",
+        "macOS": "open steam://rungameid/1802850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yes-my-lord",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199090"
+}
