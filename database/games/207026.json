@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207026,
+  "name": "Final Fantasy VII",
+  "source_url": "https://www.igdb.com/games/final-fantasy-vii--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn9o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy VII",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3837340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3837340",
+        "Linux": "setsid steam steam://rungameid/3837340",
+        "macOS": "open steam://rungameid/3837340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-fantasy-vii--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207026"
+}
