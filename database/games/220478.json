@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220478,
+  "name": "Quiet Town",
+  "source_url": "https://www.igdb.com/games/quiet-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs7h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quiet Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1345520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1345520",
+        "Linux": "setsid steam steam://rungameid/1345520",
+        "macOS": "open steam://rungameid/1345520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quiet-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220478"
+}
