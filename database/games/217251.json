@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217251,
+  "name": "Ill Ness",
+  "source_url": "https://www.igdb.com/games/ill-ness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58s3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ill Ness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1894120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1894120",
+        "Linux": "setsid steam steam://rungameid/1894120",
+        "macOS": "open steam://rungameid/1894120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ill-ness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217251"
+}
