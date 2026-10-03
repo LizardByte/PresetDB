@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220481,
+  "name": "RC Dash",
+  "source_url": "https://www.igdb.com/games/rc-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fgt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RC Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2132060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2132060",
+        "Linux": "setsid steam steam://rungameid/2132060",
+        "macOS": "open steam://rungameid/2132060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rc-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220481"
+}
