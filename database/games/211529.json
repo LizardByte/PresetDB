@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211529,
+  "name": "The Last Tree",
+  "source_url": "https://www.igdb.com/games/the-last-tree--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ouo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Tree",
+      "os": null,
+      "method": "steam",
+      "launch_id": "605210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/605210",
+        "Linux": "setsid steam steam://rungameid/605210",
+        "macOS": "open steam://rungameid/605210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-tree--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211529"
+}
