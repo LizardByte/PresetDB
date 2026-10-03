@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203247,
+  "name": "Cheaphaven",
+  "source_url": "https://www.igdb.com/games/cheaphaven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zua.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cheaphaven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1707850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1707850",
+        "Linux": "setsid steam steam://rungameid/1707850",
+        "macOS": "open steam://rungameid/1707850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cheaphaven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203247"
+}
