@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208503,
+  "name": "Fire Fighter",
+  "source_url": "https://www.igdb.com/games/fire-fighter--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7yi8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fire Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "667450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/667450",
+        "Linux": "setsid steam steam://rungameid/667450",
+        "macOS": "open steam://rungameid/667450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fire-fighter--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208503"
+}
