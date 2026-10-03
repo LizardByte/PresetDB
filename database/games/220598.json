@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220598,
+  "name": "Smash Therapy",
+  "source_url": "https://www.igdb.com/games/smash-therapy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fn2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smash Therapy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1956490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1956490",
+        "Linux": "setsid steam steam://rungameid/1956490",
+        "macOS": "open steam://rungameid/1956490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smash-therapy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220598"
+}
