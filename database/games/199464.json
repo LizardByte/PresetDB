@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199464,
+  "name": "Urubu",
+  "source_url": "https://www.igdb.com/games/urubu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5icd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urubu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1939290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1939290",
+        "Linux": "setsid steam steam://rungameid/1939290",
+        "macOS": "open steam://rungameid/1939290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "urubu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199464"
+}
