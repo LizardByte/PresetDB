@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216476,
+  "name": "Zim's Word Game",
+  "source_url": "https://www.igdb.com/games/zims-word-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57yh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zim's Word Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "789450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/789450",
+        "Linux": "setsid steam steam://rungameid/789450",
+        "macOS": "open steam://rungameid/789450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zims-word-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216476"
+}
