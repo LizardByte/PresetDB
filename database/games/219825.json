@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219825,
+  "name": "Heavy Hearts",
+  "source_url": "https://www.igdb.com/games/heavy-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnx9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heavy Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1920840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1920840",
+        "Linux": "setsid steam steam://rungameid/1920840",
+        "macOS": "open steam://rungameid/1920840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heavy-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219825"
+}
