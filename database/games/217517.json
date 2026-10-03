@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217517,
+  "name": "Battle Sage",
+  "source_url": "https://www.igdb.com/games/battle-sage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co590k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Sage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1905550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1905550",
+        "Linux": "setsid steam steam://rungameid/1905550",
+        "macOS": "open steam://rungameid/1905550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-sage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217517"
+}
