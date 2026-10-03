@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220424,
+  "name": "Grist",
+  "source_url": "https://www.igdb.com/games/grist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazoj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2164660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2164660",
+        "Linux": "setsid steam steam://rungameid/2164660",
+        "macOS": "open steam://rungameid/2164660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220424"
+}
