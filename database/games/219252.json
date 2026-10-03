@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219252,
+  "name": "Epic Survivors",
+  "source_url": "https://www.igdb.com/games/epic-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5eof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2116300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2116300",
+        "Linux": "setsid steam steam://rungameid/2116300",
+        "macOS": "open steam://rungameid/2116300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epic-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219252"
+}
