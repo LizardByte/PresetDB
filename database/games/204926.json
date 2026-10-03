@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204926,
+  "name": "Warbox Sandbox",
+  "source_url": "https://www.igdb.com/games/warbox-sandbox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hpo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warbox Sandbox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2050680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2050680",
+        "Linux": "setsid steam steam://rungameid/2050680",
+        "macOS": "open steam://rungameid/2050680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warbox-sandbox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204926"
+}
