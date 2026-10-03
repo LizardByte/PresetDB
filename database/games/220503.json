@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220503,
+  "name": "StarStruck",
+  "source_url": "https://www.igdb.com/games/starstruck--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fhc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StarStruck",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2116970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2116970",
+        "Linux": "setsid steam steam://rungameid/2116970",
+        "macOS": "open steam://rungameid/2116970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starstruck--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220503"
+}
