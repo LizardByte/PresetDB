@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203634,
+  "name": "PaperPlane",
+  "source_url": "https://www.igdb.com/games/paperplane",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k9i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PaperPlane",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017910",
+        "Linux": "setsid steam steam://rungameid/2017910",
+        "macOS": "open steam://rungameid/2017910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paperplane",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203634"
+}
