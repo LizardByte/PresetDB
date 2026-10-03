@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201711,
+  "name": "C.A.R.L.",
+  "source_url": "https://www.igdb.com/games/carl--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "C.A.R.L.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "513910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/513910",
+        "Linux": "setsid steam steam://rungameid/513910",
+        "macOS": "open steam://rungameid/513910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "carl--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201711"
+}
