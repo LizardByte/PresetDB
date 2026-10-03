@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211375,
+  "name": "Dodge",
+  "source_url": "https://www.igdb.com/games/dodge--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co516i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dodge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2100090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2100090",
+        "Linux": "setsid steam steam://rungameid/2100090",
+        "macOS": "open steam://rungameid/2100090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dodge--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211375"
+}
