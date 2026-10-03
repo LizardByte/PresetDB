@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207532,
+  "name": "Crate Knight",
+  "source_url": "https://www.igdb.com/games/crate-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5d6j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crate Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1694150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1694150",
+        "Linux": "setsid steam steam://rungameid/1694150",
+        "macOS": "open steam://rungameid/1694150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crate-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207532"
+}
