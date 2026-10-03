@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211711,
+  "name": "Nihmory",
+  "source_url": "https://www.igdb.com/games/nihmory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nihmory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1806920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1806920",
+        "Linux": "setsid steam steam://rungameid/1806920",
+        "macOS": "open steam://rungameid/1806920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nihmory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211711"
+}
