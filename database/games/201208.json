@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201208,
+  "name": "SUMBR",
+  "source_url": "https://www.igdb.com/games/sumbr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coachm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SUMBR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3968150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3968150",
+        "Linux": "setsid steam steam://rungameid/3968150",
+        "macOS": "open steam://rungameid/3968150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sumbr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201208"
+}
