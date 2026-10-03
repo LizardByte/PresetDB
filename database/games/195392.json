@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195392,
+  "name": "Down The Dead",
+  "source_url": "https://www.igdb.com/games/down-the-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Down The Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1936250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1936250",
+        "Linux": "setsid steam steam://rungameid/1936250",
+        "macOS": "open steam://rungameid/1936250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "down-the-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195392"
+}
