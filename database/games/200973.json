@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200973,
+  "name": "Space Crafting",
+  "source_url": "https://www.igdb.com/games/space-crafting",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m8g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Crafting",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1989200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1989200",
+        "Linux": "setsid steam steam://rungameid/1989200",
+        "macOS": "open steam://rungameid/1989200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-crafting",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200973"
+}
