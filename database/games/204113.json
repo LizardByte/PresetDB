@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204113,
+  "name": "The Abandoned Planet",
+  "source_url": "https://www.igdb.com/games/the-abandoned-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65gt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Abandoned Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2014470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2014470",
+        "Linux": "setsid steam steam://rungameid/2014470",
+        "macOS": "open steam://rungameid/2014470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-abandoned-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204113"
+}
