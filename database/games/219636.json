@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219636,
+  "name": "Mezzanine",
+  "source_url": "https://www.igdb.com/games/mezzanine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k2i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mezzanine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1617280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1617280",
+        "Linux": "setsid steam steam://rungameid/1617280",
+        "macOS": "open steam://rungameid/1617280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mezzanine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219636"
+}
