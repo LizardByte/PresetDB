@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201448,
+  "name": "Space Turbo 2",
+  "source_url": "https://www.igdb.com/games/space-turbo-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5man.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Turbo 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1995470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1995470",
+        "Linux": "setsid steam steam://rungameid/1995470",
+        "macOS": "open steam://rungameid/1995470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-turbo-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201448"
+}
