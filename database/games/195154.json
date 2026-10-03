@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195154,
+  "name": "Arcade Squad",
+  "source_url": "https://www.igdb.com/games/arcade-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5819.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1937130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1937130",
+        "Linux": "setsid steam steam://rungameid/1937130",
+        "macOS": "open steam://rungameid/1937130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcade-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195154"
+}
