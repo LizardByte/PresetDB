@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204419,
+  "name": "Here to There",
+  "source_url": "https://www.igdb.com/games/here-to-there",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Here to There",
+      "os": null,
+      "method": "steam",
+      "launch_id": "924420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/924420",
+        "Linux": "setsid steam steam://rungameid/924420",
+        "macOS": "open steam://rungameid/924420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "here-to-there",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204419"
+}
