@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208824,
+  "name": "Lewis Carroll's Alice",
+  "source_url": "https://www.igdb.com/games/lewis-carrolls-alice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ivx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lewis Carroll's Alice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2079530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2079530",
+        "Linux": "setsid steam steam://rungameid/2079530",
+        "macOS": "open steam://rungameid/2079530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lewis-carrolls-alice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208824"
+}
