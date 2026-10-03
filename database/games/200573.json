@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 200573,
+  "name": "Raccoon Tales",
+  "source_url": "https://www.igdb.com/games/raccoon-tales",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4r6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raccoon Tales",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1963180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1963180",
+        "Linux": "setsid steam steam://rungameid/1963180",
+        "macOS": "open steam://rungameid/1963180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raccoon-tales",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=200573"
+}
