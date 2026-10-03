@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201220,
+  "name": "The Last Man",
+  "source_url": "https://www.igdb.com/games/the-last-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5n66.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1953530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1953530",
+        "Linux": "setsid steam steam://rungameid/1953530",
+        "macOS": "open steam://rungameid/1953530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201220"
+}
