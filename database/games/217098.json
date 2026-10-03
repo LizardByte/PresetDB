@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217098,
+  "name": "Polterguys",
+  "source_url": "https://www.igdb.com/games/polterguys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6g3r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polterguys",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1043520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1043520",
+        "Linux": "setsid steam steam://rungameid/1043520",
+        "macOS": "open steam://rungameid/1043520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polterguys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217098"
+}
