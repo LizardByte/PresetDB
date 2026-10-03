@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211134,
+  "name": "Fire All Humans",
+  "source_url": "https://www.igdb.com/games/fire-all-humans",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5b04.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fire All Humans",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2092810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2092810",
+        "Linux": "setsid steam steam://rungameid/2092810",
+        "macOS": "open steam://rungameid/2092810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fire-all-humans",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211134"
+}
