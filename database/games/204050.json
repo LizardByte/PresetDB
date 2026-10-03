@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204050,
+  "name": "Outside the Window",
+  "source_url": "https://www.igdb.com/games/outside-the-window",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k6l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outside the Window",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1824130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1824130",
+        "Linux": "setsid steam steam://rungameid/1824130",
+        "macOS": "open steam://rungameid/1824130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "outside-the-window",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204050"
+}
