@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214445,
+  "name": "Island Cities",
+  "source_url": "https://www.igdb.com/games/island-cities",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fb2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Island Cities",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2093900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2093900",
+        "Linux": "setsid steam steam://rungameid/2093900",
+        "macOS": "open steam://rungameid/2093900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "island-cities",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214445"
+}
