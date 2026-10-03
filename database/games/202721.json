@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202721,
+  "name": "EpicRecovery",
+  "source_url": "https://www.igdb.com/games/epicrecovery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h3z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EpicRecovery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1995180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1995180",
+        "Linux": "setsid steam steam://rungameid/1995180",
+        "macOS": "open steam://rungameid/1995180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epicrecovery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202721"
+}
