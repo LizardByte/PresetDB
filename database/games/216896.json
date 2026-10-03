@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216896,
+  "name": "Soul Dier",
+  "source_url": "https://www.igdb.com/games/soul-dier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58gw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soul Dier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2134980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2134980",
+        "Linux": "setsid steam steam://rungameid/2134980",
+        "macOS": "open steam://rungameid/2134980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soul-dier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216896"
+}
