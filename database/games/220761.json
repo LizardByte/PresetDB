@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220761,
+  "name": "Nanomon",
+  "source_url": "https://www.igdb.com/games/nanomon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nanomon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1498060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1498060",
+        "Linux": "setsid steam steam://rungameid/1498060",
+        "macOS": "open steam://rungameid/1498060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nanomon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220761"
+}
