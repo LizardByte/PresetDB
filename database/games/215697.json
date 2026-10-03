@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215697,
+  "name": "Pete's Peril",
+  "source_url": "https://www.igdb.com/games/petes-peril",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co992j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pete's Peril",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2128120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2128120",
+        "Linux": "setsid steam steam://rungameid/2128120",
+        "macOS": "open steam://rungameid/2128120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "petes-peril",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215697"
+}
