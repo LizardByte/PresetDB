@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220390,
+  "name": "Lillusion",
+  "source_url": "https://www.igdb.com/games/lillusion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lillusion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1937300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1937300",
+        "Linux": "setsid steam steam://rungameid/1937300",
+        "macOS": "open steam://rungameid/1937300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lillusion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220390"
+}
