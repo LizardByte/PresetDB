@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216647,
+  "name": "MonsterCare",
+  "source_url": "https://www.igdb.com/games/monstercare",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co588p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MonsterCare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1719970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1719970",
+        "Linux": "setsid steam steam://rungameid/1719970",
+        "macOS": "open steam://rungameid/1719970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monstercare",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216647"
+}
