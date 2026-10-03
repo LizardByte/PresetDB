@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220380,
+  "name": "Horoscopicus",
+  "source_url": "https://www.igdb.com/games/horoscopicus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horoscopicus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1798670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1798670",
+        "Linux": "setsid steam steam://rungameid/1798670",
+        "macOS": "open steam://rungameid/1798670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horoscopicus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220380"
+}
