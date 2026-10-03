@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 208602,
+  "name": "Pindeavor",
+  "source_url": "https://www.igdb.com/games/pindeavor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kfz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pindeavor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2069440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2069440",
+        "Linux": "setsid steam steam://rungameid/2069440",
+        "macOS": "open steam://rungameid/2069440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pindeavor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=208602"
+}
