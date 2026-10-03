@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220544,
+  "name": "ChatFight!",
+  "source_url": "https://www.igdb.com/games/chatfight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5k2u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ChatFight!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2095570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2095570",
+        "Linux": "setsid steam steam://rungameid/2095570",
+        "macOS": "open steam://rungameid/2095570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chatfight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220544"
+}
