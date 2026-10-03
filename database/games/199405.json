@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199405,
+  "name": "Is Simon There?",
+  "source_url": "https://www.igdb.com/games/is-simon-there",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Is Simon There?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1961300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1961300",
+        "Linux": "setsid steam steam://rungameid/1961300",
+        "macOS": "open steam://rungameid/1961300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "is-simon-there",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199405"
+}
