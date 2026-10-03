@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202469,
+  "name": "Mad Bullz",
+  "source_url": "https://www.igdb.com/games/mad-bullz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4sol.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Bullz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1986170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1986170",
+        "Linux": "setsid steam steam://rungameid/1986170",
+        "macOS": "open steam://rungameid/1986170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mad-bullz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202469"
+}
