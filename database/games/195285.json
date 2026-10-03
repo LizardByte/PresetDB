@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195285,
+  "name": "Banana Shooter",
+  "source_url": "https://www.igdb.com/games/banana-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co755v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banana Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1949740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1949740",
+        "Linux": "setsid steam steam://rungameid/1949740",
+        "macOS": "open steam://rungameid/1949740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banana-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195285"
+}
