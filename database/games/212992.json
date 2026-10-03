@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212992,
+  "name": "I am Bjorn",
+  "source_url": "https://www.igdb.com/games/i-am-bjorn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h52.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I am Bjorn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2062300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2062300",
+        "Linux": "setsid steam steam://rungameid/2062300",
+        "macOS": "open steam://rungameid/2062300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-bjorn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212992"
+}
