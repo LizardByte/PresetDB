@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207297,
+  "name": "Just Sign!",
+  "source_url": "https://www.igdb.com/games/just-sign",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kl9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just Sign!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2062910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2062910",
+        "Linux": "setsid steam steam://rungameid/2062910",
+        "macOS": "open steam://rungameid/2062910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-sign",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207297"
+}
