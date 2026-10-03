@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204116,
+  "name": "Madman Catcher",
+  "source_url": "https://www.igdb.com/games/madman-catcher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hhm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Madman Catcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2015120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2015120",
+        "Linux": "setsid steam steam://rungameid/2015120",
+        "macOS": "open steam://rungameid/2015120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "madman-catcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204116"
+}
