@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220687,
+  "name": "RetroRange",
+  "source_url": "https://www.igdb.com/games/retrorange",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fpi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RetroRange",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2140150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2140150",
+        "Linux": "setsid steam steam://rungameid/2140150",
+        "macOS": "open steam://rungameid/2140150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retrorange",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220687"
+}
