@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211122,
+  "name": "Tribe War",
+  "source_url": "https://www.igdb.com/games/tribe-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tribe War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2087850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2087850",
+        "Linux": "setsid steam steam://rungameid/2087850",
+        "macOS": "open steam://rungameid/2087850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tribe-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211122"
+}
