@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197149,
+  "name": "Spelldash",
+  "source_url": "https://www.igdb.com/games/spelldash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mbp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spelldash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1919240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1919240",
+        "Linux": "setsid steam steam://rungameid/1919240",
+        "macOS": "open steam://rungameid/1919240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spelldash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197149"
+}
