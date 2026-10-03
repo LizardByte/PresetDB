@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202425,
+  "name": "Road Trip",
+  "source_url": "https://www.igdb.com/games/road-trip--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mji.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Road Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1998390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1998390",
+        "Linux": "setsid steam steam://rungameid/1998390",
+        "macOS": "open steam://rungameid/1998390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "road-trip--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202425"
+}
