@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215613,
+  "name": "Microscopic",
+  "source_url": "https://www.igdb.com/games/microscopic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co564s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Microscopic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2105430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2105430",
+        "Linux": "setsid steam steam://rungameid/2105430",
+        "macOS": "open steam://rungameid/2105430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "microscopic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215613"
+}
