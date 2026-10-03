@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 217338,
+  "name": "Creatures of War",
+  "source_url": "https://www.igdb.com/games/creatures-of-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8u2p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creatures of War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1733080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1733080",
+        "Linux": "setsid steam steam://rungameid/1733080",
+        "macOS": "open steam://rungameid/1733080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "creatures-of-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=217338"
+}
