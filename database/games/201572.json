@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201572,
+  "name": "Run Build Pew!",
+  "source_url": "https://www.igdb.com/games/run-build-pew",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5o65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Build Pew!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1980350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1980350",
+        "Linux": "setsid steam steam://rungameid/1980350",
+        "macOS": "open steam://rungameid/1980350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-build-pew",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201572"
+}
