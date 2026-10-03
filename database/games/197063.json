@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197063,
+  "name": "My Gaming Club",
+  "source_url": "https://www.igdb.com/games/my-gaming-club",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lo5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Gaming Club",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1862690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1862690",
+        "Linux": "setsid steam steam://rungameid/1862690",
+        "macOS": "open steam://rungameid/1862690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-gaming-club",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197063"
+}
