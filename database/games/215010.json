@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215010,
+  "name": "Coonwood",
+  "source_url": "https://www.igdb.com/games/coonwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55fv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coonwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1554170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1554170",
+        "Linux": "setsid steam steam://rungameid/1554170",
+        "macOS": "open steam://rungameid/1554170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coonwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215010"
+}
