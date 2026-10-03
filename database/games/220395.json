@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220395,
+  "name": "Littlelands",
+  "source_url": "https://www.igdb.com/games/littlelands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84bx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Littlelands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2083660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2083660",
+        "Linux": "setsid steam steam://rungameid/2083660",
+        "macOS": "open steam://rungameid/2083660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "littlelands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220395"
+}
