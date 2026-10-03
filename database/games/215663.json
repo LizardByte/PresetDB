@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215663,
+  "name": "Zen Golf",
+  "source_url": "https://www.igdb.com/games/zen-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5666.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zen Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2124690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2124690",
+        "Linux": "setsid steam steam://rungameid/2124690",
+        "macOS": "open steam://rungameid/2124690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zen-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215663"
+}
