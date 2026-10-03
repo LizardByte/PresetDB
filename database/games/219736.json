@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219736,
+  "name": "Cat Herder",
+  "source_url": "https://www.igdb.com/games/cat-herder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5s7u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Herder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2083180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2083180",
+        "Linux": "setsid steam steam://rungameid/2083180",
+        "macOS": "open steam://rungameid/2083180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-herder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219736"
+}
