@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 212928,
+  "name": "Spellstruck",
+  "source_url": "https://www.igdb.com/games/spellstruck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5mc1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spellstruck",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2101470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2101470",
+        "Linux": "setsid steam steam://rungameid/2101470",
+        "macOS": "open steam://rungameid/2101470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spellstruck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=212928"
+}
