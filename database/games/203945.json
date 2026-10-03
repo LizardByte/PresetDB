@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203945,
+  "name": "ElvenEscape",
+  "source_url": "https://www.igdb.com/games/elvenescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gpl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ElvenEscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "807980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/807980",
+        "Linux": "setsid steam steam://rungameid/807980",
+        "macOS": "open steam://rungameid/807980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elvenescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203945"
+}
