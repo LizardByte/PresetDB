@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211384,
+  "name": "Chess Survivors",
+  "source_url": "https://www.igdb.com/games/chess-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co516s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2065000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2065000",
+        "Linux": "setsid steam steam://rungameid/2065000",
+        "macOS": "open steam://rungameid/2065000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211384"
+}
