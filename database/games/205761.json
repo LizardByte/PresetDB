@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 205761,
+  "name": "Ein's Sword",
+  "source_url": "https://www.igdb.com/games/eins-sword",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gnp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ein's Sword",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2054760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2054760",
+        "Linux": "setsid steam steam://rungameid/2054760",
+        "macOS": "open steam://rungameid/2054760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eins-sword",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=205761"
+}
