@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215240,
+  "name": "Frebbventure",
+  "source_url": "https://www.igdb.com/games/frebbventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co55qr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frebbventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2004670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2004670",
+        "Linux": "setsid steam steam://rungameid/2004670",
+        "macOS": "open steam://rungameid/2004670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frebbventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215240"
+}
