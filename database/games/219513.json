@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219513,
+  "name": "4X4",
+  "source_url": "https://www.igdb.com/games/4x4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5q5l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "4X4",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2099900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2099900",
+        "Linux": "setsid steam steam://rungameid/2099900",
+        "macOS": "open steam://rungameid/2099900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "4x4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219513"
+}
