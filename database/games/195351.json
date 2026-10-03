@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 195351,
+  "name": "Snot",
+  "source_url": "https://www.igdb.com/games/snot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5m09.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1928660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1928660",
+        "Linux": "setsid steam steam://rungameid/1928660",
+        "macOS": "open steam://rungameid/1928660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=195351"
+}
