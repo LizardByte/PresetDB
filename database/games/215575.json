@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215575,
+  "name": "Flerp",
+  "source_url": "https://www.igdb.com/games/flerp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e18.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flerp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2083900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2083900",
+        "Linux": "setsid steam steam://rungameid/2083900",
+        "macOS": "open steam://rungameid/2083900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flerp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215575"
+}
