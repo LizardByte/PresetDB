@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204981,
+  "name": "What's Missing?",
+  "source_url": "https://www.igdb.com/games/whats-missing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ht4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What's Missing?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2009500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2009500",
+        "Linux": "setsid steam steam://rungameid/2009500",
+        "macOS": "open steam://rungameid/2009500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whats-missing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204981"
+}
