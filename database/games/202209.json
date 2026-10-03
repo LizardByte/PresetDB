@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 202209,
+  "name": "Pleasure Airlines",
+  "source_url": "https://www.igdb.com/games/pleasure-airlines",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7u2w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pleasure Airlines",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1085110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1085110",
+        "Linux": "setsid steam steam://rungameid/1085110",
+        "macOS": "open steam://rungameid/1085110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pleasure-airlines",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=202209"
+}
