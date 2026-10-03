@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197161,
+  "name": "Hero Chest",
+  "source_url": "https://www.igdb.com/games/hero-chest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e85.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero Chest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1905210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1905210",
+        "Linux": "setsid steam steam://rungameid/1905210",
+        "macOS": "open steam://rungameid/1905210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hero-chest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197161"
+}
