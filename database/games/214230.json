@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214230,
+  "name": "Just Jump",
+  "source_url": "https://www.igdb.com/games/just-jump--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai19.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2056800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2056800",
+        "Linux": "setsid steam steam://rungameid/2056800",
+        "macOS": "open steam://rungameid/2056800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-jump--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214230"
+}
