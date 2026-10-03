@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 199279,
+  "name": "Garden Galaxy",
+  "source_url": "https://www.igdb.com/games/garden-galaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co56kq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Garden Galaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1970460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1970460",
+        "Linux": "setsid steam steam://rungameid/1970460",
+        "macOS": "open steam://rungameid/1970460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "garden-galaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=199279"
+}
