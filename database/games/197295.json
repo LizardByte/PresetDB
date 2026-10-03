@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197295,
+  "name": "New Horizon",
+  "source_url": "https://www.igdb.com/games/new-horizon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5jpk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "New Horizon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1952400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1952400",
+        "Linux": "setsid steam steam://rungameid/1952400",
+        "macOS": "open steam://rungameid/1952400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "new-horizon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197295"
+}
