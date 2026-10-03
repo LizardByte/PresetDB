@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 213802,
+  "name": "Alien War",
+  "source_url": "https://www.igdb.com/games/alien-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gj3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2136860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2136860",
+        "Linux": "setsid steam steam://rungameid/2136860",
+        "macOS": "open steam://rungameid/2136860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=213802"
+}
