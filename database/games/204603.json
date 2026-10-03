@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 204603,
+  "name": "Smithworks",
+  "source_url": "https://www.igdb.com/games/smithworks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lzg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smithworks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1568540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1568540",
+        "Linux": "setsid steam steam://rungameid/1568540",
+        "macOS": "open steam://rungameid/1568540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smithworks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=204603"
+}
