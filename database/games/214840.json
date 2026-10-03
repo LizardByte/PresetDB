@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214840,
+  "name": "Gummy Jump",
+  "source_url": "https://www.igdb.com/games/gummy-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gb5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gummy Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2078820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2078820",
+        "Linux": "setsid steam steam://rungameid/2078820",
+        "macOS": "open steam://rungameid/2078820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gummy-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214840"
+}
