@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 196398,
+  "name": "Little Ninja",
+  "source_url": "https://www.igdb.com/games/little-ninja",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5iys.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Ninja",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1923730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1923730",
+        "Linux": "setsid steam steam://rungameid/1923730",
+        "macOS": "open steam://rungameid/1923730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-ninja",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=196398"
+}
