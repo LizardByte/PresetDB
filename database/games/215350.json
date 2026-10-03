@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 215350,
+  "name": "Hansel and Gretel",
+  "source_url": "https://www.igdb.com/games/hansel-and-gretel--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hcy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hansel and Gretel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2082950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2082950",
+        "Linux": "setsid steam steam://rungameid/2082950",
+        "macOS": "open steam://rungameid/2082950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hansel-and-gretel--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=215350"
+}
