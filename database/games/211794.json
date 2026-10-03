@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211794,
+  "name": "Don't Stop You'll Die",
+  "source_url": "https://www.igdb.com/games/dont-stop-youll-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gz9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Stop You'll Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2090500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2090500",
+        "Linux": "setsid steam steam://rungameid/2090500",
+        "macOS": "open steam://rungameid/2090500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-stop-youll-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211794"
+}
