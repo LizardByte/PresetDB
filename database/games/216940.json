@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 216940,
+  "name": "Public Bounce",
+  "source_url": "https://www.igdb.com/games/public-bounce",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co58i4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Public Bounce",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1967180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1967180",
+        "Linux": "setsid steam steam://rungameid/1967180",
+        "macOS": "open steam://rungameid/1967180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "public-bounce",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=216940"
+}
