@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197085,
+  "name": "I Am Mouse",
+  "source_url": "https://www.igdb.com/games/i-am-mouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h57.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am Mouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1421520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1421520",
+        "Linux": "setsid steam steam://rungameid/1421520",
+        "macOS": "open steam://rungameid/1421520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-mouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197085"
+}
