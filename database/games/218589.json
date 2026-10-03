@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 218589,
+  "name": "Lost Fleet",
+  "source_url": "https://www.igdb.com/games/lost-fleet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hvf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Fleet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1911780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1911780",
+        "Linux": "setsid steam steam://rungameid/1911780",
+        "macOS": "open steam://rungameid/1911780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-fleet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=218589"
+}
