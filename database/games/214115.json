@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 214115,
+  "name": "ATCo2",
+  "source_url": "https://www.igdb.com/games/atco2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co53wo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ATCo2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2108400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2108400",
+        "Linux": "setsid steam steam://rungameid/2108400",
+        "macOS": "open steam://rungameid/2108400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atco2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=214115"
+}
