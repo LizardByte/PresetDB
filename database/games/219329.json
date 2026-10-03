@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 219329,
+  "name": "Gimmiko",
+  "source_url": "https://www.igdb.com/games/gimmiko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8of3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gimmiko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2101420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2101420",
+        "Linux": "setsid steam steam://rungameid/2101420",
+        "macOS": "open steam://rungameid/2101420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gimmiko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=219329"
+}
