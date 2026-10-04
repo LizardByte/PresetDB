@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247608,
+  "name": "Nomad Station",
+  "source_url": "https://www.igdb.com/games/nomad-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6flp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nomad Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2386790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2386790",
+        "Linux": "setsid steam steam://rungameid/2386790",
+        "macOS": "open steam://rungameid/2386790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nomad-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247608"
+}
