@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224511,
+  "name": "Thick as Thieves",
+  "source_url": "https://www.igdb.com/games/thick-as-thieves",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc2gk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thick as Thieves",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3341000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3341000",
+        "Linux": "setsid steam steam://rungameid/3341000",
+        "macOS": "open steam://rungameid/3341000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thick-as-thieves",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224511"
+}
