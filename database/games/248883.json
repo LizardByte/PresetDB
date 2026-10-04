@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248883,
+  "name": "AutoHeroes",
+  "source_url": "https://www.igdb.com/games/autoheroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7h0t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AutoHeroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2403940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2403940",
+        "Linux": "setsid steam steam://rungameid/2403940",
+        "macOS": "open steam://rungameid/2403940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "autoheroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248883"
+}
