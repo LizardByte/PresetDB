@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240638,
+  "name": "Hot Blood",
+  "source_url": "https://www.igdb.com/games/hot-blood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68en.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hot Blood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2129090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2129090",
+        "Linux": "setsid steam steam://rungameid/2129090",
+        "macOS": "open steam://rungameid/2129090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hot-blood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240638"
+}
