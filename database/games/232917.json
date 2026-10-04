@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232917,
+  "name": "Easy Game",
+  "source_url": "https://www.igdb.com/games/easy-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61p5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Easy Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2257380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2257380",
+        "Linux": "setsid steam steam://rungameid/2257380",
+        "macOS": "open steam://rungameid/2257380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "easy-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232917"
+}
