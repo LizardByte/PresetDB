@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238592,
+  "name": "Highscore",
+  "source_url": "https://www.igdb.com/games/highscore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7b3i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Highscore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2136550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2136550",
+        "Linux": "setsid steam steam://rungameid/2136550",
+        "macOS": "open steam://rungameid/2136550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "highscore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238592"
+}
