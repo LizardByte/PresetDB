@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222847,
+  "name": "Banana Quest",
+  "source_url": "https://www.igdb.com/games/banana-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5p2k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banana Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2175080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2175080",
+        "Linux": "setsid steam steam://rungameid/2175080",
+        "macOS": "open steam://rungameid/2175080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banana-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222847"
+}
