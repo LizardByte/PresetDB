@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245988,
+  "name": "Arcade Classics",
+  "source_url": "https://www.igdb.com/games/arcade-classics--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gjf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade Classics",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2170700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2170700",
+        "Linux": "setsid steam steam://rungameid/2170700",
+        "macOS": "open steam://rungameid/2170700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcade-classics--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245988"
+}
