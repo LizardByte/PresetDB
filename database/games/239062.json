@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239062,
+  "name": "Quacktown Smackdown",
+  "source_url": "https://www.igdb.com/games/quacktown-smackdown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co681x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quacktown Smackdown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2300400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2300400",
+        "Linux": "setsid steam steam://rungameid/2300400",
+        "macOS": "open steam://rungameid/2300400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quacktown-smackdown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239062"
+}
