@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236007,
+  "name": "Broken System",
+  "source_url": "https://www.igdb.com/games/broken-system",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co648a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Broken System",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2092320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2092320",
+        "Linux": "setsid steam steam://rungameid/2092320",
+        "macOS": "open steam://rungameid/2092320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "broken-system",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236007"
+}
