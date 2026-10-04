@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234346,
+  "name": "Island Bender",
+  "source_url": "https://www.igdb.com/games/island-bender",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6agj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Island Bender",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2224760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2224760",
+        "Linux": "setsid steam steam://rungameid/2224760",
+        "macOS": "open steam://rungameid/2224760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "island-bender",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234346"
+}
