@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235205,
+  "name": "SokoMage",
+  "source_url": "https://www.igdb.com/games/sokomage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lfg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SokoMage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2271380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2271380",
+        "Linux": "setsid steam steam://rungameid/2271380",
+        "macOS": "open steam://rungameid/2271380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sokomage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235205"
+}
