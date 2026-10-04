@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235536,
+  "name": "Vlobs",
+  "source_url": "https://www.igdb.com/games/vlobs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63vb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vlobs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2253080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2253080",
+        "Linux": "setsid steam steam://rungameid/2253080",
+        "macOS": "open steam://rungameid/2253080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vlobs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235536"
+}
