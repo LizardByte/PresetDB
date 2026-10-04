@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247154,
+  "name": "Derpy Dino",
+  "source_url": "https://www.igdb.com/games/derpy-dino",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6qzz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Derpy Dino",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2387100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2387100",
+        "Linux": "setsid steam steam://rungameid/2387100",
+        "macOS": "open steam://rungameid/2387100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "derpy-dino",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247154"
+}
