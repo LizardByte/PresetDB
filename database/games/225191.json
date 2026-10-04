@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225191,
+  "name": "Follow the Crown",
+  "source_url": "https://www.igdb.com/games/follow-the-crown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tnu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Follow the Crown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2181830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2181830",
+        "Linux": "setsid steam steam://rungameid/2181830",
+        "macOS": "open steam://rungameid/2181830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "follow-the-crown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225191"
+}
