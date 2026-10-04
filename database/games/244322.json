@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244322,
+  "name": "Insane Escape",
+  "source_url": "https://www.igdb.com/games/insane-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cuz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Insane Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2342320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2342320",
+        "Linux": "setsid steam steam://rungameid/2342320",
+        "macOS": "open steam://rungameid/2342320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "insane-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244322"
+}
