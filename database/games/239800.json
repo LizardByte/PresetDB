@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239800,
+  "name": "Discounty",
+  "source_url": "https://www.igdb.com/games/discounty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yma.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Discounty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2274620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2274620",
+        "Linux": "setsid steam steam://rungameid/2274620",
+        "macOS": "open steam://rungameid/2274620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "discounty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239800"
+}
