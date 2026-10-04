@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243150,
+  "name": "Wild Legion",
+  "source_url": "https://www.igdb.com/games/wild-legion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73l3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Legion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2359760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2359760",
+        "Linux": "setsid steam steam://rungameid/2359760",
+        "macOS": "open steam://rungameid/2359760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-legion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243150"
+}
