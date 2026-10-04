@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226386,
+  "name": "My Dream Setup",
+  "source_url": "https://www.igdb.com/games/my-dream-setup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6u8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Dream Setup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2200780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2200780",
+        "Linux": "setsid steam steam://rungameid/2200780",
+        "macOS": "open steam://rungameid/2200780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-dream-setup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226386"
+}
