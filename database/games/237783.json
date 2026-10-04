@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237783,
+  "name": "Vanessa",
+  "source_url": "https://www.igdb.com/games/vanessa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvnl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vanessa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2105330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2105330",
+        "Linux": "setsid steam steam://rungameid/2105330",
+        "macOS": "open steam://rungameid/2105330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vanessa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237783"
+}
