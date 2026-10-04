@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246779,
+  "name": "Square Wave",
+  "source_url": "https://www.igdb.com/games/square-wave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ex5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Square Wave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2381880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2381880",
+        "Linux": "setsid steam steam://rungameid/2381880",
+        "macOS": "open steam://rungameid/2381880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "square-wave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246779"
+}
