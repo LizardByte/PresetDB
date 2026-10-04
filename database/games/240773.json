@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240773,
+  "name": "Fury",
+  "source_url": "https://www.igdb.com/games/fury--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7h0v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fury",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2327350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2327350",
+        "Linux": "setsid steam steam://rungameid/2327350",
+        "macOS": "open steam://rungameid/2327350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fury--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240773"
+}
