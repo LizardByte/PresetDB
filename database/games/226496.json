@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226496,
+  "name": "V's Rage",
+  "source_url": "https://www.igdb.com/games/vs-rage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7nso.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "V's Rage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2167530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2167530",
+        "Linux": "setsid steam steam://rungameid/2167530",
+        "macOS": "open steam://rungameid/2167530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vs-rage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226496"
+}
