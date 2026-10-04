@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231341,
+  "name": "Waiter",
+  "source_url": "https://www.igdb.com/games/waiter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co601y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waiter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2264240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2264240",
+        "Linux": "setsid steam steam://rungameid/2264240",
+        "macOS": "open steam://rungameid/2264240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waiter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231341"
+}
