@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238345,
+  "name": "THZ",
+  "source_url": "https://www.igdb.com/games/thz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65zw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "THZ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2300260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2300260",
+        "Linux": "setsid steam steam://rungameid/2300260",
+        "macOS": "open steam://rungameid/2300260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238345"
+}
