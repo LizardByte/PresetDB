@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236767,
+  "name": "Sugar Shack",
+  "source_url": "https://www.igdb.com/games/sugar-shack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lh5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sugar Shack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1813130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1813130",
+        "Linux": "setsid steam steam://rungameid/1813130",
+        "macOS": "open steam://rungameid/1813130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sugar-shack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236767"
+}
