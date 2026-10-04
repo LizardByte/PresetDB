@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236230,
+  "name": "Bunny Game",
+  "source_url": "https://www.igdb.com/games/bunny-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vtk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2180890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2180890",
+        "Linux": "setsid steam steam://rungameid/2180890",
+        "macOS": "open steam://rungameid/2180890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunny-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236230"
+}
