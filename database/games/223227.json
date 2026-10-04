@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223227,
+  "name": "Ghost Bus Simulator",
+  "source_url": "https://www.igdb.com/games/ghost-bus-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5v7u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Bus Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2161600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2161600",
+        "Linux": "setsid steam steam://rungameid/2161600",
+        "macOS": "open steam://rungameid/2161600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-bus-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223227"
+}
