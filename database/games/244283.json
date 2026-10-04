@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244283,
+  "name": "Goobies",
+  "source_url": "https://www.igdb.com/games/goobies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goobies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2294130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2294130",
+        "Linux": "setsid steam steam://rungameid/2294130",
+        "macOS": "open steam://rungameid/2294130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goobies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244283"
+}
