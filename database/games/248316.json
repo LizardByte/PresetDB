@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248316,
+  "name": "Times & Galaxy",
+  "source_url": "https://www.igdb.com/games/times-and-galaxy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6g64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Times & Galaxy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "883230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/883230",
+        "Linux": "setsid steam steam://rungameid/883230",
+        "macOS": "open steam://rungameid/883230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "times-and-galaxy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248316"
+}
