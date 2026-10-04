@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232927,
+  "name": "TeamPunk",
+  "source_url": "https://www.igdb.com/games/teampunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62h4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TeamPunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2251080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2251080",
+        "Linux": "setsid steam steam://rungameid/2251080",
+        "macOS": "open steam://rungameid/2251080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teampunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232927"
+}
