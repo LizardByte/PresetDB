@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235693,
+  "name": "Ink Bunny",
+  "source_url": "https://www.igdb.com/games/ink-bunny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hfo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ink Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1868240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1868240",
+        "Linux": "setsid steam steam://rungameid/1868240",
+        "macOS": "open steam://rungameid/1868240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ink-bunny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235693"
+}
