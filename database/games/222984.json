@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222984,
+  "name": "Sowon",
+  "source_url": "https://www.igdb.com/games/sowon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5pc3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sowon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2104560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2104560",
+        "Linux": "setsid steam steam://rungameid/2104560",
+        "macOS": "open steam://rungameid/2104560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sowon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222984"
+}
