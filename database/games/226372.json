@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226372,
+  "name": "Rerun",
+  "source_url": "https://www.igdb.com/games/rerun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62ax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rerun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2161130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2161130",
+        "Linux": "setsid steam steam://rungameid/2161130",
+        "macOS": "open steam://rungameid/2161130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rerun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226372"
+}
