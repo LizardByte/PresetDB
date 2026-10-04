@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242428,
+  "name": "Tribefort",
+  "source_url": "https://www.igdb.com/games/tribefort",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6abc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tribefort",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2309250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2309250",
+        "Linux": "setsid steam steam://rungameid/2309250",
+        "macOS": "open steam://rungameid/2309250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tribefort",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242428"
+}
