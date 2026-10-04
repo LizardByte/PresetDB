@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235705,
+  "name": "Goblin Colony",
+  "source_url": "https://www.igdb.com/games/goblin-colony",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9epn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goblin Colony",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2276800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2276800",
+        "Linux": "setsid steam steam://rungameid/2276800",
+        "macOS": "open steam://rungameid/2276800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goblin-colony",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235705"
+}
