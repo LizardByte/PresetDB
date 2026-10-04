@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237665,
+  "name": "AquaHero",
+  "source_url": "https://www.igdb.com/games/aquahero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65mo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AquaHero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2280630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2280630",
+        "Linux": "setsid steam steam://rungameid/2280630",
+        "macOS": "open steam://rungameid/2280630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aquahero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237665"
+}
