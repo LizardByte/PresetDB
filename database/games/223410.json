@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223410,
+  "name": "Arcade vs Player",
+  "source_url": "https://www.igdb.com/games/arcade-vs-player",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qa1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade vs Player",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2183780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2183780",
+        "Linux": "setsid steam steam://rungameid/2183780",
+        "macOS": "open steam://rungameid/2183780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcade-vs-player",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223410"
+}
