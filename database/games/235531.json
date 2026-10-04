@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235531,
+  "name": "Upgrader",
+  "source_url": "https://www.igdb.com/games/upgrader",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63v5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Upgrader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2086880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2086880",
+        "Linux": "setsid steam steam://rungameid/2086880",
+        "macOS": "open steam://rungameid/2086880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "upgrader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235531"
+}
