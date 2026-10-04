@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243680,
+  "name": "Bold",
+  "source_url": "https://www.igdb.com/games/bold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nhl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2375650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2375650",
+        "Linux": "setsid steam steam://rungameid/2375650",
+        "macOS": "open steam://rungameid/2375650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243680"
+}
