@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236303,
+  "name": "Lair of Anubis",
+  "source_url": "https://www.igdb.com/games/lair-of-anubis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lair of Anubis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2121000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2121000",
+        "Linux": "setsid steam steam://rungameid/2121000",
+        "macOS": "open steam://rungameid/2121000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lair-of-anubis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236303"
+}
