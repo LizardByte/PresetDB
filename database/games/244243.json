@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244243,
+  "name": "Death Must Die",
+  "source_url": "https://www.igdb.com/games/death-must-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ngo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death Must Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2334730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2334730",
+        "Linux": "setsid steam steam://rungameid/2334730",
+        "macOS": "open steam://rungameid/2334730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "death-must-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244243"
+}
