@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 233890,
+  "name": "Don't Get Lost",
+  "source_url": "https://www.igdb.com/games/dont-get-lost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63ct.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Get Lost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1442360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1442360",
+        "Linux": "setsid steam steam://rungameid/1442360",
+        "macOS": "open steam://rungameid/1442360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-get-lost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=233890"
+}
