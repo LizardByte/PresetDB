@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 227254,
+  "name": "Cave Heroes",
+  "source_url": "https://www.igdb.com/games/cave-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79gv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cave Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2631210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2631210",
+        "Linux": "setsid steam steam://rungameid/2631210",
+        "macOS": "open steam://rungameid/2631210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cave-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=227254"
+}
