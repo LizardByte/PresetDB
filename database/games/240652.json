@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240652,
+  "name": "StormEdge",
+  "source_url": "https://www.igdb.com/games/stormedge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaiyd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StormEdge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2321350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2321350",
+        "Linux": "setsid steam steam://rungameid/2321350",
+        "macOS": "open steam://rungameid/2321350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stormedge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240652"
+}
