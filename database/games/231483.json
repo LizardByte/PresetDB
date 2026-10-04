@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231483,
+  "name": "Bad Pixels",
+  "source_url": "https://www.igdb.com/games/bad-pixels",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxyu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bad Pixels",
+      "os": null,
+      "method": "steam",
+      "launch_id": "952100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/952100",
+        "Linux": "setsid steam steam://rungameid/952100",
+        "macOS": "open steam://rungameid/952100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bad-pixels",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231483"
+}
