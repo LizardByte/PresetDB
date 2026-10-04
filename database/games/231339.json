@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231339,
+  "name": "Futr8",
+  "source_url": "https://www.igdb.com/games/futr8",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co601w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Futr8",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2054300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2054300",
+        "Linux": "setsid steam steam://rungameid/2054300",
+        "macOS": "open steam://rungameid/2054300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "futr8",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231339"
+}
