@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220839,
+  "name": "Win the Diamond",
+  "source_url": "https://www.igdb.com/games/win-the-diamond",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Win the Diamond",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1938430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1938430",
+        "Linux": "setsid steam steam://rungameid/1938430",
+        "macOS": "open steam://rungameid/1938430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "win-the-diamond",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220839"
+}
