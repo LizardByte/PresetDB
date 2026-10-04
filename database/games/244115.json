@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244115,
+  "name": "Sparky Marky",
+  "source_url": "https://www.igdb.com/games/sparky-marky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rqf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sparky Marky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2380240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2380240",
+        "Linux": "setsid steam steam://rungameid/2380240",
+        "macOS": "open steam://rungameid/2380240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sparky-marky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244115"
+}
