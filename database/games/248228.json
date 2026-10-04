@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248228,
+  "name": "Borefest",
+  "source_url": "https://www.igdb.com/games/borefest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6qug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Borefest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2404190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2404190",
+        "Linux": "setsid steam steam://rungameid/2404190",
+        "macOS": "open steam://rungameid/2404190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "borefest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248228"
+}
