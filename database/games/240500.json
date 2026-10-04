@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240500,
+  "name": "Alien Frontier",
+  "source_url": "https://www.igdb.com/games/alien-frontier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co685a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2330810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2330810",
+        "Linux": "setsid steam steam://rungameid/2330810",
+        "macOS": "open steam://rungameid/2330810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-frontier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240500"
+}
