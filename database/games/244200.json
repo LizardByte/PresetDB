@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244200,
+  "name": "Unrelaxing Quacks",
+  "source_url": "https://www.igdb.com/games/unrelaxing-quacks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ind.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unrelaxing Quacks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2331980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2331980",
+        "Linux": "setsid steam steam://rungameid/2331980",
+        "macOS": "open steam://rungameid/2331980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unrelaxing-quacks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244200"
+}
