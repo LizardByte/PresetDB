@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235177,
+  "name": "The Last Werewolf",
+  "source_url": "https://www.igdb.com/games/the-last-werewolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g06.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Werewolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2212520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2212520",
+        "Linux": "setsid steam steam://rungameid/2212520",
+        "macOS": "open steam://rungameid/2212520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-werewolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235177"
+}
