@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240823,
+  "name": "Crazy Cars",
+  "source_url": "https://www.igdb.com/games/crazy-cars--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68jm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crazy Cars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2284060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2284060",
+        "Linux": "setsid steam steam://rungameid/2284060",
+        "macOS": "open steam://rungameid/2284060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crazy-cars--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240823"
+}
