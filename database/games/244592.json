@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244592,
+  "name": "Pirate Patrol",
+  "source_url": "https://www.igdb.com/games/pirate-patrol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co808m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate Patrol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2339490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2339490",
+        "Linux": "setsid steam steam://rungameid/2339490",
+        "macOS": "open steam://rungameid/2339490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirate-patrol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244592"
+}
