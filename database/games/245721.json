@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245721,
+  "name": "Wizard's Watch",
+  "source_url": "https://www.igdb.com/games/wizards-watch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6kby.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizard's Watch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2348530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2348530",
+        "Linux": "setsid steam steam://rungameid/2348530",
+        "macOS": "open steam://rungameid/2348530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wizards-watch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245721"
+}
