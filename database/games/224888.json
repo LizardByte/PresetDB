@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224888,
+  "name": "Space Bot",
+  "source_url": "https://www.igdb.com/games/space-bot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qyb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Bot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2123110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2123110",
+        "Linux": "setsid steam steam://rungameid/2123110",
+        "macOS": "open steam://rungameid/2123110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-bot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224888"
+}
