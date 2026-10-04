@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235415,
+  "name": "Paranoia Party",
+  "source_url": "https://www.igdb.com/games/paranoia-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67p5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paranoia Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2255140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2255140",
+        "Linux": "setsid steam steam://rungameid/2255140",
+        "macOS": "open steam://rungameid/2255140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paranoia-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235415"
+}
