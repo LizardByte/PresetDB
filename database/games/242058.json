@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242058,
+  "name": "Flea the Cat",
+  "source_url": "https://www.igdb.com/games/flea-the-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b8v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flea the Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2326770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2326770",
+        "Linux": "setsid steam steam://rungameid/2326770",
+        "macOS": "open steam://rungameid/2326770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flea-the-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242058"
+}
