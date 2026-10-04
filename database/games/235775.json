@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235775,
+  "name": "Sanctus",
+  "source_url": "https://www.igdb.com/games/sanctus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co641p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sanctus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1846570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1846570",
+        "Linux": "setsid steam steam://rungameid/1846570",
+        "macOS": "open steam://rungameid/1846570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sanctus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235775"
+}
