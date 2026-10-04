@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247764,
+  "name": "Penguin Noir",
+  "source_url": "https://www.igdb.com/games/penguin-noir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6foo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Penguin Noir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2384350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2384350",
+        "Linux": "setsid steam steam://rungameid/2384350",
+        "macOS": "open steam://rungameid/2384350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "penguin-noir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247764"
+}
