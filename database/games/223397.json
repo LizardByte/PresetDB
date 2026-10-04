@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223397,
+  "name": "Jetpack Guy",
+  "source_url": "https://www.igdb.com/games/jetpack-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hgp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jetpack Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1250700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1250700",
+        "Linux": "setsid steam steam://rungameid/1250700",
+        "macOS": "open steam://rungameid/1250700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jetpack-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223397"
+}
