@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234675,
+  "name": "Battle Grid",
+  "source_url": "https://www.igdb.com/games/battle-grid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6hfd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Grid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2281480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2281480",
+        "Linux": "setsid steam steam://rungameid/2281480",
+        "macOS": "open steam://rungameid/2281480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-grid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234675"
+}
