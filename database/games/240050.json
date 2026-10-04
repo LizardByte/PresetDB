@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240050,
+  "name": "Within",
+  "source_url": "https://www.igdb.com/games/within--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co738u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Within",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2321260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2321260",
+        "Linux": "setsid steam steam://rungameid/2321260",
+        "macOS": "open steam://rungameid/2321260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "within--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240050"
+}
