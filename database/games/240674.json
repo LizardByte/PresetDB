@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240674,
+  "name": "Five Nights at Stalin",
+  "source_url": "https://www.igdb.com/games/five-nights-at-stalin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68fm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Five Nights at Stalin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2059290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2059290",
+        "Linux": "setsid steam steam://rungameid/2059290",
+        "macOS": "open steam://rungameid/2059290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "five-nights-at-stalin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240674"
+}
