@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 241787,
+  "name": "Mimi and Lisa",
+  "source_url": "https://www.igdb.com/games/mimi-and-lisa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b4i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mimi and Lisa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2323440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2323440",
+        "Linux": "setsid steam steam://rungameid/2323440",
+        "macOS": "open steam://rungameid/2323440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mimi-and-lisa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=241787"
+}
