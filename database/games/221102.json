@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221102,
+  "name": "Elin",
+  "source_url": "https://www.igdb.com/games/elin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eas.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2135150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2135150",
+        "Linux": "setsid steam steam://rungameid/2135150",
+        "macOS": "open steam://rungameid/2135150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221102"
+}
