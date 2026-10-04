@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228624,
+  "name": "Pantheon",
+  "source_url": "https://www.igdb.com/games/pantheon--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ver.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pantheon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "937360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/937360",
+        "Linux": "setsid steam steam://rungameid/937360",
+        "macOS": "open steam://rungameid/937360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pantheon--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228624"
+}
