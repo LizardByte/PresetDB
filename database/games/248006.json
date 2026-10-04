@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248006,
+  "name": "Castlewatch",
+  "source_url": "https://www.igdb.com/games/castlewatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fv9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castlewatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2376020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2376020",
+        "Linux": "setsid steam steam://rungameid/2376020",
+        "macOS": "open steam://rungameid/2376020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "castlewatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248006"
+}
