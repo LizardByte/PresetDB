@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231358,
+  "name": "Johny Explorer",
+  "source_url": "https://www.igdb.com/games/johny-explorer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62vx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Johny Explorer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2252830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2252830",
+        "Linux": "setsid steam steam://rungameid/2252830",
+        "macOS": "open steam://rungameid/2252830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "johny-explorer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231358"
+}
