@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223434,
+  "name": "Must Flee",
+  "source_url": "https://www.igdb.com/games/must-flee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vkc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Must Flee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2149940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2149940",
+        "Linux": "setsid steam steam://rungameid/2149940",
+        "macOS": "open steam://rungameid/2149940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "must-flee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223434"
+}
