@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244233,
+  "name": "Goolems",
+  "source_url": "https://www.igdb.com/games/goolems",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6csi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goolems",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2166950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2166950",
+        "Linux": "setsid steam steam://rungameid/2166950",
+        "macOS": "open steam://rungameid/2166950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goolems",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244233"
+}
