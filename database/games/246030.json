@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246030,
+  "name": "Frog Island",
+  "source_url": "https://www.igdb.com/games/frog-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9is.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frog Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2332150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2332150",
+        "Linux": "setsid steam steam://rungameid/2332150",
+        "macOS": "open steam://rungameid/2332150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frog-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246030"
+}
