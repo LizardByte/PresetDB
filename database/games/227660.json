@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 227660,
+  "name": "GrandTraveler",
+  "source_url": "https://www.igdb.com/games/grandtraveler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tlt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GrandTraveler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2218830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2218830",
+        "Linux": "setsid steam steam://rungameid/2218830",
+        "macOS": "open steam://rungameid/2218830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grandtraveler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=227660"
+}
