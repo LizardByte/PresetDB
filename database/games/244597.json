@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244597,
+  "name": "Glum",
+  "source_url": "https://www.igdb.com/games/glum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zwi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2235550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2235550",
+        "Linux": "setsid steam steam://rungameid/2235550",
+        "macOS": "open steam://rungameid/2235550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "glum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244597"
+}
