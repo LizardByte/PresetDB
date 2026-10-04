@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236603,
+  "name": "Yuma",
+  "source_url": "https://www.igdb.com/games/yuma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0cx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yuma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2199280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2199280",
+        "Linux": "setsid steam steam://rungameid/2199280",
+        "macOS": "open steam://rungameid/2199280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yuma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236603"
+}
