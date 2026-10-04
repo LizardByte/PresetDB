@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221754,
+  "name": "Lost Hammer",
+  "source_url": "https://www.igdb.com/games/lost-hammer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hvg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Hammer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2167890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2167890",
+        "Linux": "setsid steam steam://rungameid/2167890",
+        "macOS": "open steam://rungameid/2167890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-hammer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221754"
+}
