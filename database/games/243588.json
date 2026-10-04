@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243588,
+  "name": "Celestial Raider",
+  "source_url": "https://www.igdb.com/games/celestial-raider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9py.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Celestial Raider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2370800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2370800",
+        "Linux": "setsid steam steam://rungameid/2370800",
+        "macOS": "open steam://rungameid/2370800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "celestial-raider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243588"
+}
