@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234131,
+  "name": "Hyper Pop",
+  "source_url": "https://www.igdb.com/games/hyper-pop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68x1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyper Pop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2286110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2286110",
+        "Linux": "setsid steam steam://rungameid/2286110",
+        "macOS": "open steam://rungameid/2286110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyper-pop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234131"
+}
