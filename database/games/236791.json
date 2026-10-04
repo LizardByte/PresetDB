@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236791,
+  "name": "Gridlocke",
+  "source_url": "https://www.igdb.com/games/gridlocke",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b3n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gridlocke",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2258300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2258300",
+        "Linux": "setsid steam steam://rungameid/2258300",
+        "macOS": "open steam://rungameid/2258300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gridlocke",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236791"
+}
