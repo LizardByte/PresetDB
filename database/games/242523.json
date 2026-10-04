@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242523,
+  "name": "Eightrun",
+  "source_url": "https://www.igdb.com/games/eightrun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6afu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eightrun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2272150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2272150",
+        "Linux": "setsid steam steam://rungameid/2272150",
+        "macOS": "open steam://rungameid/2272150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eightrun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242523"
+}
