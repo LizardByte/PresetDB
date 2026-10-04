@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236181,
+  "name": "Custom Goban",
+  "source_url": "https://www.igdb.com/games/custom-goban",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64d1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Custom Goban",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2223570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2223570",
+        "Linux": "setsid steam steam://rungameid/2223570",
+        "macOS": "open steam://rungameid/2223570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "custom-goban",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236181"
+}
