@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224752,
+  "name": "Miszou",
+  "source_url": "https://www.igdb.com/games/miszou",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hxz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miszou",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2143020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2143020",
+        "Linux": "setsid steam steam://rungameid/2143020",
+        "macOS": "open steam://rungameid/2143020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "miszou",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224752"
+}
