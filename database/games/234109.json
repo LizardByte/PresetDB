@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234109,
+  "name": "Pop Survivor",
+  "source_url": "https://www.igdb.com/games/pop-survivor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62kg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pop Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2102410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2102410",
+        "Linux": "setsid steam steam://rungameid/2102410",
+        "macOS": "open steam://rungameid/2102410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pop-survivor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234109"
+}
