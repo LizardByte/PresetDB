@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244022,
+  "name": "Project Apidom",
+  "source_url": "https://www.igdb.com/games/project-apidom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6maw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Apidom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2350700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2350700",
+        "Linux": "setsid steam steam://rungameid/2350700",
+        "macOS": "open steam://rungameid/2350700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-apidom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244022"
+}
