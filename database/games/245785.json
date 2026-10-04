@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245785,
+  "name": "Amazon Quest",
+  "source_url": "https://www.igdb.com/games/amazon-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7c6x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amazon Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2087510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2087510",
+        "Linux": "setsid steam steam://rungameid/2087510",
+        "macOS": "open steam://rungameid/2087510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amazon-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245785"
+}
