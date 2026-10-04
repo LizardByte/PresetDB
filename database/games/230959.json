@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230959,
+  "name": "Red Flower",
+  "source_url": "https://www.igdb.com/games/red-flower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i9j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Flower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2250100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2250100",
+        "Linux": "setsid steam steam://rungameid/2250100",
+        "macOS": "open steam://rungameid/2250100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-flower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230959"
+}
