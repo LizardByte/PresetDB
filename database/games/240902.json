@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240902,
+  "name": "Cities: Skylines II",
+  "source_url": "https://www.igdb.com/games/cities-skylines-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaasz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cities: Skylines II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "949230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/949230",
+        "Linux": "setsid steam steam://rungameid/949230",
+        "macOS": "open steam://rungameid/949230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cities-skylines-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240902"
+}
