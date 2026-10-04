@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226812,
+  "name": "Echo of the Last Light",
+  "source_url": "https://www.igdb.com/games/echo-of-the-last-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r12.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo of the Last Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2200030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2200030",
+        "Linux": "setsid steam steam://rungameid/2200030",
+        "macOS": "open steam://rungameid/2200030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echo-of-the-last-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226812"
+}
