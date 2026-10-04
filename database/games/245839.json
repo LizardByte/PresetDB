@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245839,
+  "name": "Betroyal",
+  "source_url": "https://www.igdb.com/games/betroyal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dyd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Betroyal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2309840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2309840",
+        "Linux": "setsid steam steam://rungameid/2309840",
+        "macOS": "open steam://rungameid/2309840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "betroyal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245839"
+}
