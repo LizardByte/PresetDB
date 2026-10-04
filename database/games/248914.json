@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248914,
+  "name": "VISK",
+  "source_url": "https://www.igdb.com/games/visk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zne.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "VISK",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2405640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2405640",
+        "Linux": "setsid steam steam://rungameid/2405640",
+        "macOS": "open steam://rungameid/2405640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "visk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248914"
+}
