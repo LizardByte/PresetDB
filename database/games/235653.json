@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235653,
+  "name": "idle Party Leader",
+  "source_url": "https://www.igdb.com/games/idle-party-leader",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63yf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "idle Party Leader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2234440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2234440",
+        "Linux": "setsid steam steam://rungameid/2234440",
+        "macOS": "open steam://rungameid/2234440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-party-leader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235653"
+}
