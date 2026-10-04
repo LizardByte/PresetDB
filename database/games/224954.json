@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224954,
+  "name": "Osiris",
+  "source_url": "https://www.igdb.com/games/osiris--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ue5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Osiris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2063900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2063900",
+        "Linux": "setsid steam steam://rungameid/2063900",
+        "macOS": "open steam://rungameid/2063900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "osiris--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224954"
+}
