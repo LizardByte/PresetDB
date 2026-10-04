@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224532,
+  "name": "Find the Key",
+  "source_url": "https://www.igdb.com/games/find-the-key",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6opl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find the Key",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2195200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2195200",
+        "Linux": "setsid steam steam://rungameid/2195200",
+        "macOS": "open steam://rungameid/2195200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-the-key",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224532"
+}
