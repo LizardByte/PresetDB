@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230615,
+  "name": "The Passenger",
+  "source_url": "https://www.igdb.com/games/the-passenger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zbb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Passenger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2162160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2162160",
+        "Linux": "setsid steam steam://rungameid/2162160",
+        "macOS": "open steam://rungameid/2162160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-passenger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230615"
+}
