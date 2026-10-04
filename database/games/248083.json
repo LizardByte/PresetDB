@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248083,
+  "name": "Munchy Mammals",
+  "source_url": "https://www.igdb.com/games/munchy-mammals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7q7r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Munchy Mammals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2382920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2382920",
+        "Linux": "setsid steam steam://rungameid/2382920",
+        "macOS": "open steam://rungameid/2382920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "munchy-mammals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248083"
+}
