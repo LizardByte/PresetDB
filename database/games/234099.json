@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234099,
+  "name": "Squiggle Drop",
+  "source_url": "https://www.igdb.com/games/squiggle-drop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62jk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squiggle Drop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2838400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2838400",
+        "Linux": "setsid steam steam://rungameid/2838400",
+        "macOS": "open steam://rungameid/2838400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "squiggle-drop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234099"
+}
