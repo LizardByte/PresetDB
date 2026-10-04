@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238731,
+  "name": "EbiTapes",
+  "source_url": "https://www.igdb.com/games/ebitapes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6v8c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EbiTapes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2221850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2221850",
+        "Linux": "setsid steam steam://rungameid/2221850",
+        "macOS": "open steam://rungameid/2221850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ebitapes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238731"
+}
