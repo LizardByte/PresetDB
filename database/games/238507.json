@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238507,
+  "name": "The Final Bastion",
+  "source_url": "https://www.igdb.com/games/the-final-bastion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co664c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Final Bastion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2193630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2193630",
+        "Linux": "setsid steam steam://rungameid/2193630",
+        "macOS": "open steam://rungameid/2193630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-final-bastion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238507"
+}
