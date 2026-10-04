@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226717,
+  "name": "Contain",
+  "source_url": "https://www.igdb.com/games/contain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Contain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2186700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2186700",
+        "Linux": "setsid steam steam://rungameid/2186700",
+        "macOS": "open steam://rungameid/2186700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "contain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226717"
+}
