@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234537,
+  "name": "Sakura Battle",
+  "source_url": "https://www.igdb.com/games/sakura-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65wm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sakura Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2285950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2285950",
+        "Linux": "setsid steam steam://rungameid/2285950",
+        "macOS": "open steam://rungameid/2285950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sakura-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234537"
+}
