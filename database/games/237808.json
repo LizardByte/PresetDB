@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237808,
+  "name": "SpiderAttack",
+  "source_url": "https://www.igdb.com/games/spiderattack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65r3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpiderAttack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2313210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2313210",
+        "Linux": "setsid steam steam://rungameid/2313210",
+        "macOS": "open steam://rungameid/2313210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spiderattack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237808"
+}
