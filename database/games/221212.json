@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221212,
+  "name": "Together We Live",
+  "source_url": "https://www.igdb.com/games/together-we-live",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jtf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Together We Live",
+      "os": null,
+      "method": "steam",
+      "launch_id": "743940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/743940",
+        "Linux": "setsid steam steam://rungameid/743940",
+        "macOS": "open steam://rungameid/743940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "together-we-live",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221212"
+}
