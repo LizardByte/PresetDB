@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235752,
+  "name": "100% Hits",
+  "source_url": "https://www.igdb.com/games/100-percent-hits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6aq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "100% Hits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2242070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2242070",
+        "Linux": "setsid steam steam://rungameid/2242070",
+        "macOS": "open steam://rungameid/2242070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "100-percent-hits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235752"
+}
