@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231155,
+  "name": "Juan Sin Miedo",
+  "source_url": "https://www.igdb.com/games/juan-sin-miedo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zwe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Juan Sin Miedo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2166190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2166190",
+        "Linux": "setsid steam steam://rungameid/2166190",
+        "macOS": "open steam://rungameid/2166190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "juan-sin-miedo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231155"
+}
