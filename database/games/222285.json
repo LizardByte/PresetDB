@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222285,
+  "name": "Silence Coffee Shop",
+  "source_url": "https://www.igdb.com/games/silence-coffee-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5kzm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silence Coffee Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2163000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2163000",
+        "Linux": "setsid steam steam://rungameid/2163000",
+        "macOS": "open steam://rungameid/2163000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silence-coffee-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222285"
+}
