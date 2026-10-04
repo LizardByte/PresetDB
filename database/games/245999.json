@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245999,
+  "name": "Garage Sale",
+  "source_url": "https://www.igdb.com/games/garage-sale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ex2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Garage Sale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2104990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2104990",
+        "Linux": "setsid steam steam://rungameid/2104990",
+        "macOS": "open steam://rungameid/2104990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "garage-sale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245999"
+}
