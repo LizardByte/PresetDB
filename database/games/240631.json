@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240631,
+  "name": "BanHown",
+  "source_url": "https://www.igdb.com/games/banhown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68ef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BanHown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2269590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2269590",
+        "Linux": "setsid steam steam://rungameid/2269590",
+        "macOS": "open steam://rungameid/2269590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banhown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240631"
+}
