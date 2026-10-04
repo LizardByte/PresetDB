@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230608,
+  "name": "Trophy Chaser",
+  "source_url": "https://www.igdb.com/games/trophy-chaser",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zau.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trophy Chaser",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2244640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2244640",
+        "Linux": "setsid steam steam://rungameid/2244640",
+        "macOS": "open steam://rungameid/2244640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trophy-chaser",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230608"
+}
