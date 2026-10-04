@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228087,
+  "name": "Lost in Memory",
+  "source_url": "https://www.igdb.com/games/lost-in-memory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ukh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost in Memory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2209370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2209370",
+        "Linux": "setsid steam steam://rungameid/2209370",
+        "macOS": "open steam://rungameid/2209370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-in-memory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228087"
+}
