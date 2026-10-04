@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239836,
+  "name": "Fishjong",
+  "source_url": "https://www.igdb.com/games/fishjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67en.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fishjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2314790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2314790",
+        "Linux": "setsid steam steam://rungameid/2314790",
+        "macOS": "open steam://rungameid/2314790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fishjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239836"
+}
