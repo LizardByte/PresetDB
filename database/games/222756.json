@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222756,
+  "name": "Her Name",
+  "source_url": "https://www.igdb.com/games/her-name",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ofp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Her Name",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2143760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2143760",
+        "Linux": "setsid steam steam://rungameid/2143760",
+        "macOS": "open steam://rungameid/2143760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "her-name",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222756"
+}
