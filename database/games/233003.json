@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 233003,
+  "name": "Daily Dadish",
+  "source_url": "https://www.igdb.com/games/daily-dadish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62ra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daily Dadish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2274700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2274700",
+        "Linux": "setsid steam steam://rungameid/2274700",
+        "macOS": "open steam://rungameid/2274700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "daily-dadish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=233003"
+}
