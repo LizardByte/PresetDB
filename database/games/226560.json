@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226560,
+  "name": "Fear of Mine",
+  "source_url": "https://www.igdb.com/games/fear-of-mine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5sy7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fear of Mine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1929480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1929480",
+        "Linux": "setsid steam steam://rungameid/1929480",
+        "macOS": "open steam://rungameid/1929480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fear-of-mine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226560"
+}
