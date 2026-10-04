@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245828,
+  "name": "Gobyworld",
+  "source_url": "https://www.igdb.com/games/gobyworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6e8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gobyworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2374340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2374340",
+        "Linux": "setsid steam steam://rungameid/2374340",
+        "macOS": "open steam://rungameid/2374340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gobyworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245828"
+}
