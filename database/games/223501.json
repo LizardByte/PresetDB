@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223501,
+  "name": "Bunni Gunni Classic",
+  "source_url": "https://www.igdb.com/games/bunni-gunni-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5pym.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunni Gunni Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2065490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2065490",
+        "Linux": "setsid steam steam://rungameid/2065490",
+        "macOS": "open steam://rungameid/2065490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunni-gunni-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223501"
+}
