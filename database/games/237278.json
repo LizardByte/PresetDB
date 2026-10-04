@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237278,
+  "name": "RGB Simulator",
+  "source_url": "https://www.igdb.com/games/rgb-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co656i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RGB Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1408380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1408380",
+        "Linux": "setsid steam steam://rungameid/1408380",
+        "macOS": "open steam://rungameid/1408380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rgb-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237278"
+}
