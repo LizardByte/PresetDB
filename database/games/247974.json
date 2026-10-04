@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247974,
+  "name": "Destroy All Zombies",
+  "source_url": "https://www.igdb.com/games/destroy-all-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fuf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Destroy All Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2394610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2394610",
+        "Linux": "setsid steam steam://rungameid/2394610",
+        "macOS": "open steam://rungameid/2394610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "destroy-all-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247974"
+}
