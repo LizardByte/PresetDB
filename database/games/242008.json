@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242008,
+  "name": "Metal War",
+  "source_url": "https://www.igdb.com/games/metal-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co69qh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2214260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2214260",
+        "Linux": "setsid steam steam://rungameid/2214260",
+        "macOS": "open steam://rungameid/2214260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metal-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242008"
+}
