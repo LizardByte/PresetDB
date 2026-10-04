@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235902,
+  "name": "HotBunz",
+  "source_url": "https://www.igdb.com/games/hotbunz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6io6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HotBunz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2229230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2229230",
+        "Linux": "setsid steam steam://rungameid/2229230",
+        "macOS": "open steam://rungameid/2229230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hotbunz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235902"
+}
