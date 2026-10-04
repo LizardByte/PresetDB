@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230240,
+  "name": "MareQuest",
+  "source_url": "https://www.igdb.com/games/marequest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gbq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MareQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2184130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2184130",
+        "Linux": "setsid steam steam://rungameid/2184130",
+        "macOS": "open steam://rungameid/2184130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marequest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230240"
+}
