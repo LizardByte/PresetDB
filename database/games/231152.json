@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231152,
+  "name": "King's Hand",
+  "source_url": "https://www.igdb.com/games/kings-hand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61xy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King's Hand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2249890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2249890",
+        "Linux": "setsid steam steam://rungameid/2249890",
+        "macOS": "open steam://rungameid/2249890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kings-hand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231152"
+}
