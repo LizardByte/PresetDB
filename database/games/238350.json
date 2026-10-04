@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238350,
+  "name": "Wak Attak",
+  "source_url": "https://www.igdb.com/games/wak-attak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6603.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wak Attak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2285160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2285160",
+        "Linux": "setsid steam steam://rungameid/2285160",
+        "macOS": "open steam://rungameid/2285160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wak-attak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238350"
+}
