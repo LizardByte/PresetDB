@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235451,
+  "name": "See You Later",
+  "source_url": "https://www.igdb.com/games/see-you-later",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jse.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "See You Later",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2234600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2234600",
+        "Linux": "setsid steam steam://rungameid/2234600",
+        "macOS": "open steam://rungameid/2234600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "see-you-later",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235451"
+}
