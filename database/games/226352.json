@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226352,
+  "name": "HellRazor64",
+  "source_url": "https://www.igdb.com/games/hellrazor64",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5uiv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HellRazor64",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2196140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2196140",
+        "Linux": "setsid steam steam://rungameid/2196140",
+        "macOS": "open steam://rungameid/2196140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellrazor64",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226352"
+}
