@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246765,
+  "name": "Mine",
+  "source_url": "https://www.igdb.com/games/mine--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hxq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2390860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2390860",
+        "Linux": "setsid steam steam://rungameid/2390860",
+        "macOS": "open steam://rungameid/2390860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mine--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246765"
+}
