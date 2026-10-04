@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244116,
+  "name": "Rewind or Die",
+  "source_url": "https://www.igdb.com/games/rewind-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rnc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rewind or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2329130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2329130",
+        "Linux": "setsid steam steam://rungameid/2329130",
+        "macOS": "open steam://rungameid/2329130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rewind-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244116"
+}
