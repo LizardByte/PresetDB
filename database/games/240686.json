@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240686,
+  "name": "Hexical",
+  "source_url": "https://www.igdb.com/games/hexical",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqq7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexical",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2283110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2283110",
+        "Linux": "setsid steam steam://rungameid/2283110",
+        "macOS": "open steam://rungameid/2283110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexical",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240686"
+}
