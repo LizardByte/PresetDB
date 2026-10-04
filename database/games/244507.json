@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244507,
+  "name": "Dungeon Golf",
+  "source_url": "https://www.igdb.com/games/dungeon-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6mqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2144040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2144040",
+        "Linux": "setsid steam steam://rungameid/2144040",
+        "macOS": "open steam://rungameid/2144040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244507"
+}
