@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244240,
+  "name": "Project Unknown",
+  "source_url": "https://www.igdb.com/games/project-unknown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fmy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Unknown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2115390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2115390",
+        "Linux": "setsid steam steam://rungameid/2115390",
+        "macOS": "open steam://rungameid/2115390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-unknown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244240"
+}
