@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226561,
+  "name": "Fiend's Archive",
+  "source_url": "https://www.igdb.com/games/fiends-archive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gwo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fiend's Archive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2202380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2202380",
+        "Linux": "setsid steam steam://rungameid/2202380",
+        "macOS": "open steam://rungameid/2202380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fiends-archive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226561"
+}
