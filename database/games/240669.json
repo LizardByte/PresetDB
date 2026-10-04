@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240669,
+  "name": "The Sewer Job",
+  "source_url": "https://www.igdb.com/games/the-sewer-job",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co85dd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Sewer Job",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2319870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2319870",
+        "Linux": "setsid steam steam://rungameid/2319870",
+        "macOS": "open steam://rungameid/2319870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-sewer-job",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240669"
+}
