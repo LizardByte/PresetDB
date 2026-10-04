@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234018,
+  "name": "Abandoned Drive-in",
+  "source_url": "https://www.igdb.com/games/abandoned-drive-in",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62gq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abandoned Drive-in",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2271420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2271420",
+        "Linux": "setsid steam steam://rungameid/2271420",
+        "macOS": "open steam://rungameid/2271420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abandoned-drive-in",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234018"
+}
