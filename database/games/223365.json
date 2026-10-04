@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223365,
+  "name": "BadSmith",
+  "source_url": "https://www.igdb.com/games/badsmith",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ptq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BadSmith",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2152830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2152830",
+        "Linux": "setsid steam steam://rungameid/2152830",
+        "macOS": "open steam://rungameid/2152830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "badsmith",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223365"
+}
