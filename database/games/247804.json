@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247804,
+  "name": "Drake's Dungeon",
+  "source_url": "https://www.igdb.com/games/drakes-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fpn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drake's Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2313670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2313670",
+        "Linux": "setsid steam steam://rungameid/2313670",
+        "macOS": "open steam://rungameid/2313670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drakes-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247804"
+}
