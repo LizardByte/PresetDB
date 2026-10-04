@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237069,
+  "name": "Fancy!",
+  "source_url": "https://www.igdb.com/games/fancy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co650i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fancy!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2173730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2173730",
+        "Linux": "setsid steam steam://rungameid/2173730",
+        "macOS": "open steam://rungameid/2173730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fancy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237069"
+}
