@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221758,
+  "name": "The Most Awesome Game Ever Made",
+  "source_url": "https://www.igdb.com/games/the-most-awesome-game-ever-made",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tns.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Most Awesome Game Ever Made",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2128220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2128220",
+        "Linux": "setsid steam steam://rungameid/2128220",
+        "macOS": "open steam://rungameid/2128220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-most-awesome-game-ever-made",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221758"
+}
