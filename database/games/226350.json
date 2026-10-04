@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226350,
+  "name": "Crispy Puppy",
+  "source_url": "https://www.igdb.com/games/crispy-puppy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gr6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crispy Puppy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2203660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2203660",
+        "Linux": "setsid steam steam://rungameid/2203660",
+        "macOS": "open steam://rungameid/2203660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crispy-puppy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226350"
+}
