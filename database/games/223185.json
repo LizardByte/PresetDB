@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223185,
+  "name": "Camping",
+  "source_url": "https://www.igdb.com/games/camping",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5q5a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Camping",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2181230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2181230",
+        "Linux": "setsid steam steam://rungameid/2181230",
+        "macOS": "open steam://rungameid/2181230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "camping",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223185"
+}
