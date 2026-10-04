@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237201,
+  "name": "Anime City",
+  "source_url": "https://www.igdb.com/games/anime-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2m8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Anime City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2215410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2215410",
+        "Linux": "setsid steam steam://rungameid/2215410",
+        "macOS": "open steam://rungameid/2215410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anime-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237201"
+}
