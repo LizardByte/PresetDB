@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244424,
+  "name": "Moon's Creed",
+  "source_url": "https://www.igdb.com/games/moons-creed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj94.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon's Creed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2340510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2340510",
+        "Linux": "setsid steam steam://rungameid/2340510",
+        "macOS": "open steam://rungameid/2340510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moons-creed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244424"
+}
