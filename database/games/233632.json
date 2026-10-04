@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 233632,
+  "name": "Skyfighter Arcade",
+  "source_url": "https://www.igdb.com/games/skyfighter-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co623v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skyfighter Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2262060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2262060",
+        "Linux": "setsid steam steam://rungameid/2262060",
+        "macOS": "open steam://rungameid/2262060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skyfighter-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=233632"
+}
