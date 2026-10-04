@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239847,
+  "name": "Chest",
+  "source_url": "https://www.igdb.com/games/chest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6qwm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2290300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2290300",
+        "Linux": "setsid steam steam://rungameid/2290300",
+        "macOS": "open steam://rungameid/2290300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239847"
+}
