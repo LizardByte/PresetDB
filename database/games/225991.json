@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225991,
+  "name": "Cuppy's",
+  "source_url": "https://www.igdb.com/games/cuppys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcq0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cuppy's",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2195090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2195090",
+        "Linux": "setsid steam steam://rungameid/2195090",
+        "macOS": "open steam://rungameid/2195090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cuppys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225991"
+}
