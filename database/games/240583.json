@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240583,
+  "name": "Search All: Fruits",
+  "source_url": "https://www.igdb.com/games/search-all-fruits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b44.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Fruits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2333060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2333060",
+        "Linux": "setsid steam steam://rungameid/2333060",
+        "macOS": "open steam://rungameid/2333060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-fruits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240583"
+}
