@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223265,
+  "name": "Pandamonium",
+  "source_url": "https://www.igdb.com/games/pandamonium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pandamonium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182390",
+        "Linux": "setsid steam steam://rungameid/2182390",
+        "macOS": "open steam://rungameid/2182390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pandamonium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223265"
+}
