@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234368,
+  "name": "Sky Rider",
+  "source_url": "https://www.igdb.com/games/sky-rider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62t7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sky Rider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2022040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2022040",
+        "Linux": "setsid steam steam://rungameid/2022040",
+        "macOS": "open steam://rungameid/2022040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sky-rider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234368"
+}
