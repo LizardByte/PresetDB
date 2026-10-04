@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244438,
+  "name": "Grow on the Go",
+  "source_url": "https://www.igdb.com/games/grow-on-the-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84ch.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grow on the Go",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2369970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2369970",
+        "Linux": "setsid steam steam://rungameid/2369970",
+        "macOS": "open steam://rungameid/2369970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grow-on-the-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244438"
+}
