@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232438,
+  "name": "Old Shadow",
+  "source_url": "https://www.igdb.com/games/old-shadow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60z9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Old Shadow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2256770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2256770",
+        "Linux": "setsid steam steam://rungameid/2256770",
+        "macOS": "open steam://rungameid/2256770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "old-shadow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232438"
+}
