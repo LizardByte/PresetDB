@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238384,
+  "name": "The King of Cats",
+  "source_url": "https://www.igdb.com/games/the-king-of-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co672v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The King of Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2265680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2265680",
+        "Linux": "setsid steam steam://rungameid/2265680",
+        "macOS": "open steam://rungameid/2265680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-king-of-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238384"
+}
