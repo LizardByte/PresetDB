@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234702,
+  "name": "Persona 4 Golden",
+  "source_url": "https://www.igdb.com/games/persona-4-golden--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4k1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Persona 4 Golden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1113000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1113000",
+        "Linux": "setsid steam steam://rungameid/1113000",
+        "macOS": "open steam://rungameid/1113000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "persona-4-golden--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234702"
+}
