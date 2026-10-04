@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222768,
+  "name": "La Villa de la Muerte",
+  "source_url": "https://www.igdb.com/games/la-villa-de-la-muerte",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7tu5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "La Villa de la Muerte",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1900530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1900530",
+        "Linux": "setsid steam steam://rungameid/1900530",
+        "macOS": "open steam://rungameid/1900530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "la-villa-de-la-muerte",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222768"
+}
