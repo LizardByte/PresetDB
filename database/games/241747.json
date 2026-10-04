@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 241747,
+  "name": "Psycasso",
+  "source_url": "https://www.igdb.com/games/psycasso--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocx44.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psycasso",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3250080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3250080",
+        "Linux": "setsid steam steam://rungameid/3250080",
+        "macOS": "open steam://rungameid/3250080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psycasso--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=241747"
+}
