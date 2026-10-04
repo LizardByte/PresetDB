@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244852,
+  "name": "Golf vs. Zombies",
+  "source_url": "https://www.igdb.com/games/golf-vs-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71qp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golf vs. Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2330380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2330380",
+        "Linux": "setsid steam steam://rungameid/2330380",
+        "macOS": "open steam://rungameid/2330380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golf-vs-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244852"
+}
