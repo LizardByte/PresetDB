@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236592,
+  "name": "Last Eclipse",
+  "source_url": "https://www.igdb.com/games/last-eclipse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64ou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Eclipse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2223460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2223460",
+        "Linux": "setsid steam steam://rungameid/2223460",
+        "macOS": "open steam://rungameid/2223460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-eclipse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236592"
+}
