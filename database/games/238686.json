@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238686,
+  "name": "The Guard",
+  "source_url": "https://www.igdb.com/games/the-guard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co669r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Guard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2320620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2320620",
+        "Linux": "setsid steam steam://rungameid/2320620",
+        "macOS": "open steam://rungameid/2320620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-guard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238686"
+}
