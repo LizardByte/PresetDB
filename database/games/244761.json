@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244761,
+  "name": "Gold Rush",
+  "source_url": "https://www.igdb.com/games/gold-rush--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6d6z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gold Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2327850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2327850",
+        "Linux": "setsid steam steam://rungameid/2327850",
+        "macOS": "open steam://rungameid/2327850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gold-rush--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244761"
+}
