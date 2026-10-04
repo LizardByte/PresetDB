@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248000,
+  "name": "Ignistone",
+  "source_url": "https://www.igdb.com/games/ignistone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6iyf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ignistone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2393890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2393890",
+        "Linux": "setsid steam steam://rungameid/2393890",
+        "macOS": "open steam://rungameid/2393890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ignistone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248000"
+}
