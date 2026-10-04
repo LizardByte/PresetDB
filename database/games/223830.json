@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223830,
+  "name": "Jewel Run",
+  "source_url": "https://www.igdb.com/games/jewel-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78tp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jewel Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2097850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2097850",
+        "Linux": "setsid steam steam://rungameid/2097850",
+        "macOS": "open steam://rungameid/2097850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jewel-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223830"
+}
