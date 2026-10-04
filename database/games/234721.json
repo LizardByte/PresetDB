@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234721,
+  "name": "ByLo",
+  "source_url": "https://www.igdb.com/games/bylo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7udh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ByLo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1127620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1127620",
+        "Linux": "setsid steam steam://rungameid/1127620",
+        "macOS": "open steam://rungameid/1127620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bylo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234721"
+}
