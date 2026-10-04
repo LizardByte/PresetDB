@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236313,
+  "name": "Wheel Stars",
+  "source_url": "https://www.igdb.com/games/wheel-stars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6wvc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wheel Stars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2250300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2250300",
+        "Linux": "setsid steam steam://rungameid/2250300",
+        "macOS": "open steam://rungameid/2250300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wheel-stars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236313"
+}
