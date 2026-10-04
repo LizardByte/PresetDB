@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224587,
+  "name": "Pogo Party",
+  "source_url": "https://www.igdb.com/games/pogo-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i3f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pogo Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2090120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2090120",
+        "Linux": "setsid steam steam://rungameid/2090120",
+        "macOS": "open steam://rungameid/2090120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pogo-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224587"
+}
