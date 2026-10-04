@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236300,
+  "name": "Iron Diamond",
+  "source_url": "https://www.igdb.com/games/iron-diamond",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64gp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Diamond",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2226980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2226980",
+        "Linux": "setsid steam steam://rungameid/2226980",
+        "macOS": "open steam://rungameid/2226980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-diamond",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236300"
+}
