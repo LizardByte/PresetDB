@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224620,
+  "name": "Green Valley",
+  "source_url": "https://www.igdb.com/games/green-valley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qpi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Green Valley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2195500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2195500",
+        "Linux": "setsid steam steam://rungameid/2195500",
+        "macOS": "open steam://rungameid/2195500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "green-valley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224620"
+}
