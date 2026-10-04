@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237223,
+  "name": "Endless Alice",
+  "source_url": "https://www.igdb.com/games/endless-alice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9028.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Alice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1425000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1425000",
+        "Linux": "setsid steam steam://rungameid/1425000",
+        "macOS": "open steam://rungameid/1425000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-alice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237223"
+}
