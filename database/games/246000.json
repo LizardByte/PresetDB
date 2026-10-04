@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246000,
+  "name": "Pigeon Strike",
+  "source_url": "https://www.igdb.com/games/pigeon-strike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rl4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pigeon Strike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2331360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2331360",
+        "Linux": "setsid steam steam://rungameid/2331360",
+        "macOS": "open steam://rungameid/2331360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pigeon-strike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246000"
+}
