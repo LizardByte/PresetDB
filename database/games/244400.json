@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244400,
+  "name": "Drilbert",
+  "source_url": "https://www.igdb.com/games/drilbert",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cx2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drilbert",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2338630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2338630",
+        "Linux": "setsid steam steam://rungameid/2338630",
+        "macOS": "open steam://rungameid/2338630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drilbert",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244400"
+}
