@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230929,
+  "name": "Mix-A-Max",
+  "source_url": "https://www.igdb.com/games/mix-a-max",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mix-A-Max",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1619940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1619940",
+        "Linux": "setsid steam steam://rungameid/1619940",
+        "macOS": "open steam://rungameid/1619940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mix-a-max",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230929"
+}
