@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235513,
+  "name": "Jump Tale",
+  "source_url": "https://www.igdb.com/games/jump-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63ul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jump Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2275960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2275960",
+        "Linux": "setsid steam steam://rungameid/2275960",
+        "macOS": "open steam://rungameid/2275960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jump-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235513"
+}
