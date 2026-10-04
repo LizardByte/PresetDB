@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225222,
+  "name": "Dark Sweeper",
+  "source_url": "https://www.igdb.com/games/dark-sweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rk3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Sweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2186940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2186940",
+        "Linux": "setsid steam steam://rungameid/2186940",
+        "macOS": "open steam://rungameid/2186940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-sweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225222"
+}
