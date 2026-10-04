@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237136,
+  "name": "Heistfest",
+  "source_url": "https://www.igdb.com/games/heistfest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8s8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heistfest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1451220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1451220",
+        "Linux": "setsid steam steam://rungameid/1451220",
+        "macOS": "open steam://rungameid/1451220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heistfest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237136"
+}
