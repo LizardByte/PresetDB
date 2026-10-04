@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239755,
+  "name": "Dark Rune",
+  "source_url": "https://www.igdb.com/games/dark-rune",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67c9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Rune",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2313960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2313960",
+        "Linux": "setsid steam steam://rungameid/2313960",
+        "macOS": "open steam://rungameid/2313960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-rune",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239755"
+}
