@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221425,
+  "name": "Still Joking",
+  "source_url": "https://www.igdb.com/games/still-joking",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co996j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Still Joking",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2147330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2147330",
+        "Linux": "setsid steam steam://rungameid/2147330",
+        "macOS": "open steam://rungameid/2147330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "still-joking",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221425"
+}
