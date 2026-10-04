@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234246,
+  "name": "Fumpers",
+  "source_url": "https://www.igdb.com/games/fumpers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62or.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fumpers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2280670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2280670",
+        "Linux": "setsid steam steam://rungameid/2280670",
+        "macOS": "open steam://rungameid/2280670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fumpers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234246"
+}
