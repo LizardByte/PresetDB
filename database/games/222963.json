@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222963,
+  "name": "Kingdom of Secrets",
+  "source_url": "https://www.igdb.com/games/kingdom-of-secrets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5pak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingdom of Secrets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2154530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2154530",
+        "Linux": "setsid steam steam://rungameid/2154530",
+        "macOS": "open steam://rungameid/2154530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kingdom-of-secrets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222963"
+}
