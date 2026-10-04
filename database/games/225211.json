@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225211,
+  "name": "Gum Ball Run",
+  "source_url": "https://www.igdb.com/games/gum-ball-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tre.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gum Ball Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2124930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2124930",
+        "Linux": "setsid steam steam://rungameid/2124930",
+        "macOS": "open steam://rungameid/2124930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gum-ball-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225211"
+}
