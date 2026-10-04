@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224690,
+  "name": "New Citizen",
+  "source_url": "https://www.igdb.com/games/new-citizen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5s10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "New Citizen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2019700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2019700",
+        "Linux": "setsid steam steam://rungameid/2019700",
+        "macOS": "open steam://rungameid/2019700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "new-citizen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224690"
+}
