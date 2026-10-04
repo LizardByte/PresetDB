@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225615,
+  "name": "Shadows Over Loathing",
+  "source_url": "https://www.igdb.com/games/shadows-over-loathing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rue.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadows Over Loathing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1939160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1939160",
+        "Linux": "setsid steam steam://rungameid/1939160",
+        "macOS": "open steam://rungameid/1939160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadows-over-loathing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225615"
+}
