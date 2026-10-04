@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226179,
+  "name": "Dice Game",
+  "source_url": "https://www.igdb.com/games/dice-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5unj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dice Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2203690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2203690",
+        "Linux": "setsid steam steam://rungameid/2203690",
+        "macOS": "open steam://rungameid/2203690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dice-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226179"
+}
