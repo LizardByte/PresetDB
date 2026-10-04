@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224263,
+  "name": "Farmistic",
+  "source_url": "https://www.igdb.com/games/farmistic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co75ew.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farmistic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2174790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2174790",
+        "Linux": "setsid steam steam://rungameid/2174790",
+        "macOS": "open steam://rungameid/2174790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farmistic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224263"
+}
