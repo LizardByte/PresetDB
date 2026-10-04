@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223214,
+  "name": "The Last Humble Bee",
+  "source_url": "https://www.igdb.com/games/the-last-humble-bee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ijv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Humble Bee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2190150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2190150",
+        "Linux": "setsid steam steam://rungameid/2190150",
+        "macOS": "open steam://rungameid/2190150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-humble-bee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223214"
+}
