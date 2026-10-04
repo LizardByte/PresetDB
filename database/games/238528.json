@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238528,
+  "name": "The Lost Sheep",
+  "source_url": "https://www.igdb.com/games/the-lost-sheep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co664w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lost Sheep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2298350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2298350",
+        "Linux": "setsid steam steam://rungameid/2298350",
+        "macOS": "open steam://rungameid/2298350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lost-sheep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238528"
+}
