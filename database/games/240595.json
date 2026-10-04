@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240595,
+  "name": "The Gunslinger",
+  "source_url": "https://www.igdb.com/games/the-gunslinger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68de.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Gunslinger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2297260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2297260",
+        "Linux": "setsid steam steam://rungameid/2297260",
+        "macOS": "open steam://rungameid/2297260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-gunslinger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240595"
+}
