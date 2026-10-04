@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234651,
+  "name": "True Colours",
+  "source_url": "https://www.igdb.com/games/true-colours",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ims.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "True Colours",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2205230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2205230",
+        "Linux": "setsid steam steam://rungameid/2205230",
+        "macOS": "open steam://rungameid/2205230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "true-colours",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234651"
+}
