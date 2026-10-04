@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225601,
+  "name": "Legend of Zero",
+  "source_url": "https://www.igdb.com/games/legend-of-zero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rr0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legend of Zero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094340",
+        "Linux": "setsid steam steam://rungameid/2094340",
+        "macOS": "open steam://rungameid/2094340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legend-of-zero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225601"
+}
