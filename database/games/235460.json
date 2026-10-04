@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235460,
+  "name": "Zombie Squad",
+  "source_url": "https://www.igdb.com/games/zombie-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63t6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2230560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2230560",
+        "Linux": "setsid steam steam://rungameid/2230560",
+        "macOS": "open steam://rungameid/2230560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235460"
+}
