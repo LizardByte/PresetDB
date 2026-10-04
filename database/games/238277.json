@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238277,
+  "name": "Inky & Blinky",
+  "source_url": "https://www.igdb.com/games/inky-and-blinky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hfq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Inky & Blinky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2230120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2230120",
+        "Linux": "setsid steam steam://rungameid/2230120",
+        "macOS": "open steam://rungameid/2230120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "inky-and-blinky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238277"
+}
