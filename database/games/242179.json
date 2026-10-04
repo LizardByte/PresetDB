@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242179,
+  "name": "Milky Animals",
+  "source_url": "https://www.igdb.com/games/milky-animals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co69yb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Milky Animals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2344800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2344800",
+        "Linux": "setsid steam steam://rungameid/2344800",
+        "macOS": "open steam://rungameid/2344800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "milky-animals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242179"
+}
