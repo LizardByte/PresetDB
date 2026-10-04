@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243201,
+  "name": "Cars",
+  "source_url": "https://www.igdb.com/games/cars--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bbm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "331160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/331160",
+        "Linux": "setsid steam steam://rungameid/331160",
+        "macOS": "open steam://rungameid/331160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cars--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243201"
+}
