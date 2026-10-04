@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231597,
+  "name": "SpaceDog",
+  "source_url": "https://www.igdb.com/games/spacedog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67lk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpaceDog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2260090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2260090",
+        "Linux": "setsid steam steam://rungameid/2260090",
+        "macOS": "open steam://rungameid/2260090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spacedog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231597"
+}
