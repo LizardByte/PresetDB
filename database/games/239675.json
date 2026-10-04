@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239675,
+  "name": "Punt",
+  "source_url": "https://www.igdb.com/games/punt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabfi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Punt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "507500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/507500",
+        "Linux": "setsid steam steam://rungameid/507500",
+        "macOS": "open steam://rungameid/507500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "punt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239675"
+}
