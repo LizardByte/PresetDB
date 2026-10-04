@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235750,
+  "name": "Dawn One",
+  "source_url": "https://www.igdb.com/games/dawn-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocx36.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dawn One",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2127340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2127340",
+        "Linux": "setsid steam steam://rungameid/2127340",
+        "macOS": "open steam://rungameid/2127340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dawn-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235750"
+}
