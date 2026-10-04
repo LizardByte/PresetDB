@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244768,
+  "name": "Cat Needs",
+  "source_url": "https://www.igdb.com/games/cat-needs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9693.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Needs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2341050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2341050",
+        "Linux": "setsid steam steam://rungameid/2341050",
+        "macOS": "open steam://rungameid/2341050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-needs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244768"
+}
