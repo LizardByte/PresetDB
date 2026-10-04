@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235761,
+  "name": "Offsea",
+  "source_url": "https://www.igdb.com/games/offsea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocd5e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Offsea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2210220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2210220",
+        "Linux": "setsid steam steam://rungameid/2210220",
+        "macOS": "open steam://rungameid/2210220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "offsea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235761"
+}
