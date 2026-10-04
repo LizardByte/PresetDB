@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244035,
+  "name": "Cease To Breathe",
+  "source_url": "https://www.igdb.com/games/cease-to-breathe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6sid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cease To Breathe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1873170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1873170",
+        "Linux": "setsid steam steam://rungameid/1873170",
+        "macOS": "open steam://rungameid/1873170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cease-to-breathe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244035"
+}
