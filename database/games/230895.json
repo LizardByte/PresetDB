@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230895,
+  "name": "Origin",
+  "source_url": "https://www.igdb.com/games/origin--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zmz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Origin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2239060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2239060",
+        "Linux": "setsid steam steam://rungameid/2239060",
+        "macOS": "open steam://rungameid/2239060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "origin--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230895"
+}
