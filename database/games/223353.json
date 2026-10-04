@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223353,
+  "name": "Void",
+  "source_url": "https://www.igdb.com/games/void--5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qam.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2146960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2146960",
+        "Linux": "setsid steam steam://rungameid/2146960",
+        "macOS": "open steam://rungameid/2146960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void--5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223353"
+}
