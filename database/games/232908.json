@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232908,
+  "name": "SteamWorld Build",
+  "source_url": "https://www.igdb.com/games/steamworld-build",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65c5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SteamWorld Build",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2134770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2134770",
+        "Linux": "setsid steam steam://rungameid/2134770",
+        "macOS": "open steam://rungameid/2134770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "steamworld-build",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232908"
+}
