@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231826,
+  "name": "Kong Hero",
+  "source_url": "https://www.igdb.com/games/kong-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60sc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kong Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2267010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2267010",
+        "Linux": "setsid steam steam://rungameid/2267010",
+        "macOS": "open steam://rungameid/2267010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kong-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231826"
+}
