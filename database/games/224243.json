@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224243,
+  "name": "From the Ashes",
+  "source_url": "https://www.igdb.com/games/from-the-ashes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hay.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "From the Ashes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2188500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2188500",
+        "Linux": "setsid steam steam://rungameid/2188500",
+        "macOS": "open steam://rungameid/2188500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "from-the-ashes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224243"
+}
