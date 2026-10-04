@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223166,
+  "name": "Trail of Toads",
+  "source_url": "https://www.igdb.com/games/trail-of-toads",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6306.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trail of Toads",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2117110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2117110",
+        "Linux": "setsid steam steam://rungameid/2117110",
+        "macOS": "open steam://rungameid/2117110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trail-of-toads",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223166"
+}
