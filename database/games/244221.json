@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244221,
+  "name": "Go Go Jump!!",
+  "source_url": "https://www.igdb.com/games/go-go-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8jx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Go Jump!!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2098080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2098080",
+        "Linux": "setsid steam steam://rungameid/2098080",
+        "macOS": "open steam://rungameid/2098080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-go-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244221"
+}
