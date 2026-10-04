@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224151,
+  "name": "Human Zoo",
+  "source_url": "https://www.igdb.com/games/human-zoo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rmy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Human Zoo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2181640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2181640",
+        "Linux": "setsid steam steam://rungameid/2181640",
+        "macOS": "open steam://rungameid/2181640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "human-zoo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224151"
+}
