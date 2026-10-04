@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244126,
+  "name": "Buddies in Boxes",
+  "source_url": "https://www.igdb.com/games/buddies-in-boxes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cpk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Buddies in Boxes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094000",
+        "Linux": "setsid steam steam://rungameid/2094000",
+        "macOS": "open steam://rungameid/2094000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "buddies-in-boxes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244126"
+}
