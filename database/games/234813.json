@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234813,
+  "name": "Turn Out the Lights",
+  "source_url": "https://www.igdb.com/games/turn-out-the-lights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65f8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turn Out the Lights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2300570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2300570",
+        "Linux": "setsid steam steam://rungameid/2300570",
+        "macOS": "open steam://rungameid/2300570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turn-out-the-lights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234813"
+}
