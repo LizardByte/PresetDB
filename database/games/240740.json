@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240740,
+  "name": "Milkshake!",
+  "source_url": "https://www.igdb.com/games/milkshake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7un.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Milkshake!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2319220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2319220",
+        "Linux": "setsid steam steam://rungameid/2319220",
+        "macOS": "open steam://rungameid/2319220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "milkshake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240740"
+}
