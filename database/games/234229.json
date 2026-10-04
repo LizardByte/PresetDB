@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234229,
+  "name": "Beep's Escape",
+  "source_url": "https://www.igdb.com/games/beeps-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7glw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beep's Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2286990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2286990",
+        "Linux": "setsid steam steam://rungameid/2286990",
+        "macOS": "open steam://rungameid/2286990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beeps-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234229"
+}
