@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223528,
+  "name": "Mice Tea",
+  "source_url": "https://www.igdb.com/games/mice-tea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65vn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mice Tea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2108950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2108950",
+        "Linux": "setsid steam steam://rungameid/2108950",
+        "macOS": "open steam://rungameid/2108950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mice-tea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223528"
+}
