@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239105,
+  "name": "Knight Raider",
+  "source_url": "https://www.igdb.com/games/knight-raider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66oz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knight Raider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2310220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2310220",
+        "Linux": "setsid steam steam://rungameid/2310220",
+        "macOS": "open steam://rungameid/2310220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knight-raider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239105"
+}
