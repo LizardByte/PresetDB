@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230963,
+  "name": "Alien Up",
+  "source_url": "https://www.igdb.com/games/alien-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zox.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2251840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2251840",
+        "Linux": "setsid steam steam://rungameid/2251840",
+        "macOS": "open steam://rungameid/2251840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230963"
+}
