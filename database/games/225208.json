@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225208,
+  "name": "Magic Bubbles",
+  "source_url": "https://www.igdb.com/games/magic-bubbles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Bubbles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2163890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2163890",
+        "Linux": "setsid steam steam://rungameid/2163890",
+        "macOS": "open steam://rungameid/2163890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-bubbles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225208"
+}
