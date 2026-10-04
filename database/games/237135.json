@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237135,
+  "name": "Exilium",
+  "source_url": "https://www.igdb.com/games/exilium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gvu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exilium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2197240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2197240",
+        "Linux": "setsid steam steam://rungameid/2197240",
+        "macOS": "open steam://rungameid/2197240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exilium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237135"
+}
