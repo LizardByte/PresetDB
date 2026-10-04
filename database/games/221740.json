@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221740,
+  "name": "Suika Game",
+  "source_url": "https://www.igdb.com/games/suika-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasl5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suika Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4572790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4572790",
+        "Linux": "setsid steam steam://rungameid/4572790",
+        "macOS": "open steam://rungameid/4572790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "suika-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221740"
+}
