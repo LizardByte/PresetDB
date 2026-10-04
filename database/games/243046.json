@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243046,
+  "name": "See No Fear",
+  "source_url": "https://www.igdb.com/games/see-no-fear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b7w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "See No Fear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2455820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2455820",
+        "Linux": "setsid steam steam://rungameid/2455820",
+        "macOS": "open steam://rungameid/2455820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "see-no-fear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243046"
+}
