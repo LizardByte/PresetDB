@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245893,
+  "name": "Sunrise GP",
+  "source_url": "https://www.igdb.com/games/sunrise-gp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6sfg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunrise GP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2670800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2670800",
+        "Linux": "setsid steam steam://rungameid/2670800",
+        "macOS": "open steam://rungameid/2670800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sunrise-gp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245893"
+}
