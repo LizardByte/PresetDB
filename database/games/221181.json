@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221181,
+  "name": "Together With Me",
+  "source_url": "https://www.igdb.com/games/together-with-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gfg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Together With Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2174330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2174330",
+        "Linux": "setsid steam steam://rungameid/2174330",
+        "macOS": "open steam://rungameid/2174330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "together-with-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221181"
+}
