@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236104,
+  "name": "Open At Nine",
+  "source_url": "https://www.igdb.com/games/open-at-nine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64ax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Open At Nine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2270600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2270600",
+        "Linux": "setsid steam steam://rungameid/2270600",
+        "macOS": "open steam://rungameid/2270600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "open-at-nine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236104"
+}
