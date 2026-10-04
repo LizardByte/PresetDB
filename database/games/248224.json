@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248224,
+  "name": "Eddie's Arcade",
+  "source_url": "https://www.igdb.com/games/eddies-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6g28.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eddie's Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2403660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2403660",
+        "Linux": "setsid steam steam://rungameid/2403660",
+        "macOS": "open steam://rungameid/2403660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eddies-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248224"
+}
