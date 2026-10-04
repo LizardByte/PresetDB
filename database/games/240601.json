@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240601,
+  "name": "Asteroid Arcade",
+  "source_url": "https://www.igdb.com/games/asteroid-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68dl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Asteroid Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2329390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2329390",
+        "Linux": "setsid steam steam://rungameid/2329390",
+        "macOS": "open steam://rungameid/2329390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "asteroid-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240601"
+}
