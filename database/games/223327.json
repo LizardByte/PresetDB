@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223327,
+  "name": "Under the Sky World",
+  "source_url": "https://www.igdb.com/games/under-the-sky-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9eq0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Under the Sky World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2185760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2185760",
+        "Linux": "setsid steam steam://rungameid/2185760",
+        "macOS": "open steam://rungameid/2185760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "under-the-sky-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223327"
+}
