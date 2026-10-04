@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 241854,
+  "name": "Dirty Room",
+  "source_url": "https://www.igdb.com/games/dirty-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6axc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dirty Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2331000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2331000",
+        "Linux": "setsid steam steam://rungameid/2331000",
+        "macOS": "open steam://rungameid/2331000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dirty-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=241854"
+}
