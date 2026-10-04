@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238489,
+  "name": "MicroCrawl",
+  "source_url": "https://www.igdb.com/games/microcrawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hxe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MicroCrawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2250400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2250400",
+        "Linux": "setsid steam steam://rungameid/2250400",
+        "macOS": "open steam://rungameid/2250400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "microcrawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238489"
+}
