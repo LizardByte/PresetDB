@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240807,
+  "name": "Access Denied: Escape",
+  "source_url": "https://www.igdb.com/games/access-denied-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6y2s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Access Denied: Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2317300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2317300",
+        "Linux": "setsid steam steam://rungameid/2317300",
+        "macOS": "open steam://rungameid/2317300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "access-denied-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240807"
+}
