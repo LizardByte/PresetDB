@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246866,
+  "name": "Busy Bee",
+  "source_url": "https://www.igdb.com/games/busy-bee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88ej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Busy Bee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2375090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2375090",
+        "Linux": "setsid steam steam://rungameid/2375090",
+        "macOS": "open steam://rungameid/2375090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "busy-bee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246866"
+}
