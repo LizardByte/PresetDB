@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230525,
+  "name": "Cat Life",
+  "source_url": "https://www.igdb.com/games/cat-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5z6b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2204760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2204760",
+        "Linux": "setsid steam steam://rungameid/2204760",
+        "macOS": "open steam://rungameid/2204760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230525"
+}
