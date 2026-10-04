@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235603,
+  "name": "Ghost Reaper",
+  "source_url": "https://www.igdb.com/games/ghost-reaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63wz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Reaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2231840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2231840",
+        "Linux": "setsid steam steam://rungameid/2231840",
+        "macOS": "open steam://rungameid/2231840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-reaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235603"
+}
