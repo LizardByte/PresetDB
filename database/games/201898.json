@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 201898,
+  "name": "Band of Mercenaries",
+  "source_url": "https://www.igdb.com/games/band-of-mercenaries",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co59jc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Band of Mercenaries",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1975470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1975470",
+        "Linux": "setsid steam steam://rungameid/1975470",
+        "macOS": "open steam://rungameid/1975470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "band-of-mercenaries",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=201898"
+}
