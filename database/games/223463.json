@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223463,
+  "name": "Reeve",
+  "source_url": "https://www.igdb.com/games/reeve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5u16.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reeve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2167910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2167910",
+        "Linux": "setsid steam steam://rungameid/2167910",
+        "macOS": "open steam://rungameid/2167910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reeve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223463"
+}
