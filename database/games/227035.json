@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 227035,
+  "name": "MeMoMi",
+  "source_url": "https://www.igdb.com/games/memomi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hx6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MeMoMi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094760",
+        "Linux": "setsid steam steam://rungameid/2094760",
+        "macOS": "open steam://rungameid/2094760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "memomi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=227035"
+}
