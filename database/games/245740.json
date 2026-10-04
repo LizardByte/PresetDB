@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245740,
+  "name": "PieClicker",
+  "source_url": "https://www.igdb.com/games/pieclicker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dvf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PieClicker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2380870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2380870",
+        "Linux": "setsid steam steam://rungameid/2380870",
+        "macOS": "open steam://rungameid/2380870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pieclicker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245740"
+}
