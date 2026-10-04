@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228750,
+  "name": "Winfray",
+  "source_url": "https://www.igdb.com/games/winfray",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Winfray",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2228320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2228320",
+        "Linux": "setsid steam steam://rungameid/2228320",
+        "macOS": "open steam://rungameid/2228320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "winfray",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228750"
+}
