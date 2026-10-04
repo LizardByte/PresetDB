@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246923,
+  "name": "Project: InfoGrid",
+  "source_url": "https://www.igdb.com/games/project-infogrid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6f25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project: InfoGrid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2381930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2381930",
+        "Linux": "setsid steam steam://rungameid/2381930",
+        "macOS": "open steam://rungameid/2381930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-infogrid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246923"
+}
