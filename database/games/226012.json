@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226012,
+  "name": "Talus",
+  "source_url": "https://www.igdb.com/games/talus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ig6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Talus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2209940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2209940",
+        "Linux": "setsid steam steam://rungameid/2209940",
+        "macOS": "open steam://rungameid/2209940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "talus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226012"
+}
