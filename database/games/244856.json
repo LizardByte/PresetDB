@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244856,
+  "name": "Captain Pawsome",
+  "source_url": "https://www.igdb.com/games/captain-pawsome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7865.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Captain Pawsome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1551000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1551000",
+        "Linux": "setsid steam steam://rungameid/1551000",
+        "macOS": "open steam://rungameid/1551000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "captain-pawsome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244856"
+}
