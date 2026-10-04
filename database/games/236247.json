@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236247,
+  "name": "Simple Rally",
+  "source_url": "https://www.igdb.com/games/simple-rally",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64f4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simple Rally",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2240700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2240700",
+        "Linux": "setsid steam steam://rungameid/2240700",
+        "macOS": "open steam://rungameid/2240700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simple-rally",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236247"
+}
