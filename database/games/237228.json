@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237228,
+  "name": "Arcane Wilds",
+  "source_url": "https://www.igdb.com/games/arcane-wilds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co654y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcane Wilds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1492050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1492050",
+        "Linux": "setsid steam steam://rungameid/1492050",
+        "macOS": "open steam://rungameid/1492050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcane-wilds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237228"
+}
