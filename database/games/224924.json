@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224924,
+  "name": "Peck'Em",
+  "source_url": "https://www.igdb.com/games/peckem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i2l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peck'Em",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2123330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2123330",
+        "Linux": "setsid steam steam://rungameid/2123330",
+        "macOS": "open steam://rungameid/2123330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peckem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224924"
+}
