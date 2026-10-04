@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224548,
+  "name": "Infected Friend",
+  "source_url": "https://www.igdb.com/games/infected-friend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rl2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infected Friend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2136300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2136300",
+        "Linux": "setsid steam steam://rungameid/2136300",
+        "macOS": "open steam://rungameid/2136300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infected-friend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224548"
+}
