@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237100,
+  "name": "Blacklight",
+  "source_url": "https://www.igdb.com/games/blacklight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co651d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blacklight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2244620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2244620",
+        "Linux": "setsid steam steam://rungameid/2244620",
+        "macOS": "open steam://rungameid/2244620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blacklight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237100"
+}
