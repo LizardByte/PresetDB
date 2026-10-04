@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244872,
+  "name": "Foxblade",
+  "source_url": "https://www.igdb.com/games/foxblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r1g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foxblade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2351100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2351100",
+        "Linux": "setsid steam steam://rungameid/2351100",
+        "macOS": "open steam://rungameid/2351100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foxblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244872"
+}
