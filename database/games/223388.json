@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223388,
+  "name": "HatMania",
+  "source_url": "https://www.igdb.com/games/hatmania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5reg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HatMania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1839050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1839050",
+        "Linux": "setsid steam steam://rungameid/1839050",
+        "macOS": "open steam://rungameid/1839050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hatmania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223388"
+}
