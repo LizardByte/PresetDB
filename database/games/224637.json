@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224637,
+  "name": "Knock'Em Out",
+  "source_url": "https://www.igdb.com/games/knockem-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80t8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knock'Em Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2192900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2192900",
+        "Linux": "setsid steam steam://rungameid/2192900",
+        "macOS": "open steam://rungameid/2192900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knockem-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224637"
+}
