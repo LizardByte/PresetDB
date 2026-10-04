@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247431,
+  "name": "Piano at 5 am",
+  "source_url": "https://www.igdb.com/games/piano-at-5-am",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fd0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Piano at 5 am",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2378460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2378460",
+        "Linux": "setsid steam steam://rungameid/2378460",
+        "macOS": "open steam://rungameid/2378460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "piano-at-5-am",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247431"
+}
