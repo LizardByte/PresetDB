@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228006,
+  "name": "Medusa",
+  "source_url": "https://www.igdb.com/games/medusa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ufi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Medusa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2213600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2213600",
+        "Linux": "setsid steam steam://rungameid/2213600",
+        "macOS": "open steam://rungameid/2213600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "medusa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228006"
+}
