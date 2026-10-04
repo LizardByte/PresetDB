@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224249,
+  "name": "FlipScapes",
+  "source_url": "https://www.igdb.com/games/flipscapes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6w1j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FlipScapes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2176580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2176580",
+        "Linux": "setsid steam steam://rungameid/2176580",
+        "macOS": "open steam://rungameid/2176580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flipscapes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224249"
+}
