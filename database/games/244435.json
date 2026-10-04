@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244435,
+  "name": "Meow Legion",
+  "source_url": "https://www.igdb.com/games/meow-legion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cxy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meow Legion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2345550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2345550",
+        "Linux": "setsid steam steam://rungameid/2345550",
+        "macOS": "open steam://rungameid/2345550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meow-legion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244435"
+}
