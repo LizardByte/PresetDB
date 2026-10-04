@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238806,
+  "name": "Vagrant Knight",
+  "source_url": "https://www.igdb.com/games/vagrant-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6l0b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vagrant Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2301690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2301690",
+        "Linux": "setsid steam steam://rungameid/2301690",
+        "macOS": "open steam://rungameid/2301690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vagrant-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238806"
+}
