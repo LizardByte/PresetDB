@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235983,
+  "name": "Farsiders",
+  "source_url": "https://www.igdb.com/games/farsiders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co647k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farsiders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2281310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2281310",
+        "Linux": "setsid steam steam://rungameid/2281310",
+        "macOS": "open steam://rungameid/2281310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farsiders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235983"
+}
