@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236491,
+  "name": "Furry Sweeper",
+  "source_url": "https://www.igdb.com/games/furry-sweeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co682v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Furry Sweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2279560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2279560",
+        "Linux": "setsid steam steam://rungameid/2279560",
+        "macOS": "open steam://rungameid/2279560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "furry-sweeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236491"
+}
