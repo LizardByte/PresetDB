@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223478,
+  "name": "I Fought the Lawn",
+  "source_url": "https://www.igdb.com/games/i-fought-the-lawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5pxu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Fought the Lawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2181480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2181480",
+        "Linux": "setsid steam steam://rungameid/2181480",
+        "macOS": "open steam://rungameid/2181480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-fought-the-lawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223478"
+}
