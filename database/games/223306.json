@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223306,
+  "name": "Hell O Corn",
+  "source_url": "https://www.igdb.com/games/hell-o-corn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qan.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hell O Corn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2189230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2189230",
+        "Linux": "setsid steam steam://rungameid/2189230",
+        "macOS": "open steam://rungameid/2189230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hell-o-corn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223306"
+}
