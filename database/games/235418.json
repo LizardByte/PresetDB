@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235418,
+  "name": "Pirates Journey",
+  "source_url": "https://www.igdb.com/games/pirates-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i35.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirates Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2099670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2099670",
+        "Linux": "setsid steam steam://rungameid/2099670",
+        "macOS": "open steam://rungameid/2099670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirates-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235418"
+}
