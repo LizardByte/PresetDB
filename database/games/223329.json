@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223329,
+  "name": "Dan's Odyssey",
+  "source_url": "https://www.igdb.com/games/dans-odyssey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qa2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dan's Odyssey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182170",
+        "Linux": "setsid steam steam://rungameid/2182170",
+        "macOS": "open steam://rungameid/2182170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dans-odyssey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223329"
+}
