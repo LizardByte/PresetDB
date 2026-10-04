@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222912,
+  "name": "Neko Night",
+  "source_url": "https://www.igdb.com/games/neko-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5p72.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neko Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1982200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1982200",
+        "Linux": "setsid steam steam://rungameid/1982200",
+        "macOS": "open steam://rungameid/1982200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neko-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222912"
+}
