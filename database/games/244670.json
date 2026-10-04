@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244670,
+  "name": "Almost",
+  "source_url": "https://www.igdb.com/games/almost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanwr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Almost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2280150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2280150",
+        "Linux": "setsid steam steam://rungameid/2280150",
+        "macOS": "open steam://rungameid/2280150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "almost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244670"
+}
