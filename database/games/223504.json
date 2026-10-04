@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223504,
+  "name": "Chaqs",
+  "source_url": "https://www.igdb.com/games/chaqs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qco.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chaqs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2183200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2183200",
+        "Linux": "setsid steam steam://rungameid/2183200",
+        "macOS": "open steam://rungameid/2183200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chaqs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223504"
+}
