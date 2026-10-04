@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248892,
+  "name": "Get Out Joey!",
+  "source_url": "https://www.igdb.com/games/get-out-joey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gkv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Out Joey!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2384890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2384890",
+        "Linux": "setsid steam steam://rungameid/2384890",
+        "macOS": "open steam://rungameid/2384890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-out-joey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248892"
+}
