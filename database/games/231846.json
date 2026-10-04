@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231846,
+  "name": "Mad Miner",
+  "source_url": "https://www.igdb.com/games/mad-miner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7jce.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Miner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2458700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2458700",
+        "Linux": "setsid steam steam://rungameid/2458700",
+        "macOS": "open steam://rungameid/2458700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mad-miner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231846"
+}
