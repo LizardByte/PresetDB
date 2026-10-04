@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235050,
+  "name": "Clear the Space",
+  "source_url": "https://www.igdb.com/games/clear-the-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co671s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clear the Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2284770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2284770",
+        "Linux": "setsid steam steam://rungameid/2284770",
+        "macOS": "open steam://rungameid/2284770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clear-the-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235050"
+}
