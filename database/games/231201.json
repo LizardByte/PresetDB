@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231201,
+  "name": "Choi",
+  "source_url": "https://www.igdb.com/games/choi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zxm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Choi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2256550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2256550",
+        "Linux": "setsid steam steam://rungameid/2256550",
+        "macOS": "open steam://rungameid/2256550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "choi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231201"
+}
