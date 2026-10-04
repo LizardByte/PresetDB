@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244178,
+  "name": "Go-Go Town!",
+  "source_url": "https://www.igdb.com/games/go-go-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc62d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go-Go Town!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2195120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2195120",
+        "Linux": "setsid steam steam://rungameid/2195120",
+        "macOS": "open steam://rungameid/2195120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-go-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244178"
+}
