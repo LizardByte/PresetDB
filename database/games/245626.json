@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245626,
+  "name": "King of the Arcade",
+  "source_url": "https://www.igdb.com/games/king-of-the-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rmk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King of the Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2398290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2398290",
+        "Linux": "setsid steam steam://rungameid/2398290",
+        "macOS": "open steam://rungameid/2398290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-of-the-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245626"
+}
