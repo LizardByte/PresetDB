@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223384,
+  "name": "Sky Traveler",
+  "source_url": "https://www.igdb.com/games/sky-traveler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sky Traveler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2174460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2174460",
+        "Linux": "setsid steam steam://rungameid/2174460",
+        "macOS": "open steam://rungameid/2174460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sky-traveler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223384"
+}
