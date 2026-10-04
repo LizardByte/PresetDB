@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224554,
+  "name": "Red Rebellion",
+  "source_url": "https://www.igdb.com/games/red-rebellion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapht.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Rebellion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2114160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2114160",
+        "Linux": "setsid steam steam://rungameid/2114160",
+        "macOS": "open steam://rungameid/2114160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-rebellion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224554"
+}
