@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231728,
+  "name": "Friend or Foe",
+  "source_url": "https://www.igdb.com/games/friend-or-foe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60lz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Friend or Foe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1948140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1948140",
+        "Linux": "setsid steam steam://rungameid/1948140",
+        "macOS": "open steam://rungameid/1948140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "friend-or-foe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231728"
+}
