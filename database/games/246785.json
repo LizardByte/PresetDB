@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246785,
+  "name": "Slime Knight",
+  "source_url": "https://www.igdb.com/games/slime-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rpg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2395360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2395360",
+        "Linux": "setsid steam steam://rungameid/2395360",
+        "macOS": "open steam://rungameid/2395360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246785"
+}
