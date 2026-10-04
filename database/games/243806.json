@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243806,
+  "name": "Rogue Hex",
+  "source_url": "https://www.igdb.com/games/rogue-hex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wqo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Hex",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2275940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2275940",
+        "Linux": "setsid steam steam://rungameid/2275940",
+        "macOS": "open steam://rungameid/2275940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-hex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243806"
+}
