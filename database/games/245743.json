@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245743,
+  "name": "Run a Café",
+  "source_url": "https://www.igdb.com/games/run-a-cafe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rfl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run a Café",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2372250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2372250",
+        "Linux": "setsid steam steam://rungameid/2372250",
+        "macOS": "open steam://rungameid/2372250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-a-cafe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245743"
+}
