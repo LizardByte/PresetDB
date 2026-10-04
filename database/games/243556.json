@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243556,
+  "name": "Hot Ice",
+  "source_url": "https://www.igdb.com/games/hot-ice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bt9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hot Ice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2298560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2298560",
+        "Linux": "setsid steam steam://rungameid/2298560",
+        "macOS": "open steam://rungameid/2298560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hot-ice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243556"
+}
