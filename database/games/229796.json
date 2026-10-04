@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 229796,
+  "name": "Gasnator",
+  "source_url": "https://www.igdb.com/games/gasnator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5xm4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gasnator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1963950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1963950",
+        "Linux": "setsid steam steam://rungameid/1963950",
+        "macOS": "open steam://rungameid/1963950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gasnator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=229796"
+}
