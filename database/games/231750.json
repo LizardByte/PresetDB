@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231750,
+  "name": "Endless Stars",
+  "source_url": "https://www.igdb.com/games/endless-stars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60mb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Stars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2136200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2136200",
+        "Linux": "setsid steam steam://rungameid/2136200",
+        "macOS": "open steam://rungameid/2136200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-stars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231750"
+}
