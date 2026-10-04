@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231304,
+  "name": "Neko Neko Rampage",
+  "source_url": "https://www.igdb.com/games/neko-neko-rampage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zyk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neko Neko Rampage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1030000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1030000",
+        "Linux": "setsid steam steam://rungameid/1030000",
+        "macOS": "open steam://rungameid/1030000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neko-neko-rampage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231304"
+}
