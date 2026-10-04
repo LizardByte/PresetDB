@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223269,
+  "name": "Pip 6",
+  "source_url": "https://www.igdb.com/games/pip-6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5q73.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pip 6",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2190270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2190270",
+        "Linux": "setsid steam steam://rungameid/2190270",
+        "macOS": "open steam://rungameid/2190270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pip-6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223269"
+}
