@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237042,
+  "name": "Burst Hero",
+  "source_url": "https://www.igdb.com/games/burst-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burst Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2220480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2220480",
+        "Linux": "setsid steam steam://rungameid/2220480",
+        "macOS": "open steam://rungameid/2220480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burst-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237042"
+}
