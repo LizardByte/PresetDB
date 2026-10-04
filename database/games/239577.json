@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239577,
+  "name": "Embervale.TV",
+  "source_url": "https://www.igdb.com/games/embervale-dot-tv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob10b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Embervale.TV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2364430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2364430",
+        "Linux": "setsid steam steam://rungameid/2364430",
+        "macOS": "open steam://rungameid/2364430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "embervale-dot-tv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239577"
+}
