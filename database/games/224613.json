@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224613,
+  "name": "Creepy Forest",
+  "source_url": "https://www.igdb.com/games/creepy-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ue6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creepy Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2193900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2193900",
+        "Linux": "setsid steam steam://rungameid/2193900",
+        "macOS": "open steam://rungameid/2193900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "creepy-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224613"
+}
