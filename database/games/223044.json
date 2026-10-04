@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223044,
+  "name": "Jump Ball",
+  "source_url": "https://www.igdb.com/games/jump-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5pm9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jump Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2141640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2141640",
+        "Linux": "setsid steam steam://rungameid/2141640",
+        "macOS": "open steam://rungameid/2141640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jump-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223044"
+}
