@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238749,
+  "name": "Shadows of the Night",
+  "source_url": "https://www.igdb.com/games/shadows-of-the-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66b6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadows of the Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2302020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2302020",
+        "Linux": "setsid steam steam://rungameid/2302020",
+        "macOS": "open steam://rungameid/2302020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadows-of-the-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238749"
+}
