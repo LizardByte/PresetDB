@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244920,
+  "name": "Backgaminion",
+  "source_url": "https://www.igdb.com/games/backgaminion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Backgaminion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2335510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2335510",
+        "Linux": "setsid steam steam://rungameid/2335510",
+        "macOS": "open steam://rungameid/2335510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "backgaminion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244920"
+}
