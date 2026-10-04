@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235946,
+  "name": "TactiCube",
+  "source_url": "https://www.igdb.com/games/tacticube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co646i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TactiCube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1918350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1918350",
+        "Linux": "setsid steam steam://rungameid/1918350",
+        "macOS": "open steam://rungameid/1918350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tacticube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235946"
+}
