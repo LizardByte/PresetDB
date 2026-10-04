@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 241406,
+  "name": "Porndle",
+  "source_url": "https://www.igdb.com/games/porndle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6939.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Porndle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2312190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2312190",
+        "Linux": "setsid steam steam://rungameid/2312190",
+        "macOS": "open steam://rungameid/2312190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "porndle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=241406"
+}
