@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230889,
+  "name": "Mofina Island",
+  "source_url": "https://www.igdb.com/games/mofina-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zmq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mofina Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2237000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2237000",
+        "Linux": "setsid steam steam://rungameid/2237000",
+        "macOS": "open steam://rungameid/2237000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mofina-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230889"
+}
