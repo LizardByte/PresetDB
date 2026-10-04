@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237131,
+  "name": "Kink.inc",
+  "source_url": "https://www.igdb.com/games/kink-dot-inc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6b2c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kink.inc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2190210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2190210",
+        "Linux": "setsid steam steam://rungameid/2190210",
+        "macOS": "open steam://rungameid/2190210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kink-dot-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237131"
+}
