@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237806,
+  "name": "Animal Academy",
+  "source_url": "https://www.igdb.com/games/animal-academy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65r4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Animal Academy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2219880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2219880",
+        "Linux": "setsid steam steam://rungameid/2219880",
+        "macOS": "open steam://rungameid/2219880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "animal-academy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237806"
+}
