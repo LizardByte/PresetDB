@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240130,
+  "name": "YinYang Street",
+  "source_url": "https://www.igdb.com/games/yinyang-street",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6p65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "YinYang Street",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2334040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2334040",
+        "Linux": "setsid steam steam://rungameid/2334040",
+        "macOS": "open steam://rungameid/2334040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yinyang-street",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240130"
+}
