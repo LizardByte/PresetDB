@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236354,
+  "name": "One Armed Bandit",
+  "source_url": "https://www.igdb.com/games/one-armed-bandit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i1d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Armed Bandit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2239800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2239800",
+        "Linux": "setsid steam steam://rungameid/2239800",
+        "macOS": "open steam://rungameid/2239800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-armed-bandit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236354"
+}
