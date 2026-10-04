@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223359,
+  "name": "Rebellion",
+  "source_url": "https://www.igdb.com/games/rebellion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5u17.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rebellion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2128910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2128910",
+        "Linux": "setsid steam steam://rungameid/2128910",
+        "macOS": "open steam://rungameid/2128910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rebellion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223359"
+}
