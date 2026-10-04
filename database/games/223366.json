@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223366,
+  "name": "Cat N Can",
+  "source_url": "https://www.igdb.com/games/cat-n-can",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tr0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat N Can",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2156150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2156150",
+        "Linux": "setsid steam steam://rungameid/2156150",
+        "macOS": "open steam://rungameid/2156150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-n-can",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223366"
+}
