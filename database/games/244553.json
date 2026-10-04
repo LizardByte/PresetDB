@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244553,
+  "name": "Grippy Golf",
+  "source_url": "https://www.igdb.com/games/grippy-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grippy Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2299080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2299080",
+        "Linux": "setsid steam steam://rungameid/2299080",
+        "macOS": "open steam://rungameid/2299080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grippy-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244553"
+}
