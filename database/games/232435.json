@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232435,
+  "name": "Rogue Blaster",
+  "source_url": "https://www.igdb.com/games/rogue-blaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60z5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Blaster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2168880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2168880",
+        "Linux": "setsid steam steam://rungameid/2168880",
+        "macOS": "open steam://rungameid/2168880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-blaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232435"
+}
