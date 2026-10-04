@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223813,
+  "name": "Hungry Caveman",
+  "source_url": "https://www.igdb.com/games/hungry-caveman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6iz7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hungry Caveman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2166250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2166250",
+        "Linux": "setsid steam steam://rungameid/2166250",
+        "macOS": "open steam://rungameid/2166250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hungry-caveman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223813"
+}
