@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243573,
+  "name": "Endless Pinball",
+  "source_url": "https://www.igdb.com/games/endless-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6btq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2365540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2365540",
+        "Linux": "setsid steam steam://rungameid/2365540",
+        "macOS": "open steam://rungameid/2365540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243573"
+}
