@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244636,
+  "name": "Hat'venture",
+  "source_url": "https://www.igdb.com/games/hatventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6d3j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hat'venture",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2317890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2317890",
+        "Linux": "setsid steam steam://rungameid/2317890",
+        "macOS": "open steam://rungameid/2317890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hatventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244636"
+}
