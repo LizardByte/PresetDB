@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240586,
+  "name": "SharkKing",
+  "source_url": "https://www.igdb.com/games/sharkking",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68d7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SharkKing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2307830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2307830",
+        "Linux": "setsid steam steam://rungameid/2307830",
+        "macOS": "open steam://rungameid/2307830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sharkking",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240586"
+}
