@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224312,
+  "name": "Edge Islands",
+  "source_url": "https://www.igdb.com/games/edge-islands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9n4z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edge Islands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2111020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2111020",
+        "Linux": "setsid steam steam://rungameid/2111020",
+        "macOS": "open steam://rungameid/2111020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "edge-islands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224312"
+}
