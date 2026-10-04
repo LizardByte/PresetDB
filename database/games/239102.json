@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239102,
+  "name": "Ball vs. Zombie",
+  "source_url": "https://www.igdb.com/games/ball-vs-zombie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gla.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ball vs. Zombie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2259100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2259100",
+        "Linux": "setsid steam steam://rungameid/2259100",
+        "macOS": "open steam://rungameid/2259100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ball-vs-zombie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239102"
+}
