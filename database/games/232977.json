@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232977,
+  "name": "Torch",
+  "source_url": "https://www.igdb.com/games/torch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62vc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Torch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2098940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2098940",
+        "Linux": "setsid steam steam://rungameid/2098940",
+        "macOS": "open steam://rungameid/2098940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "torch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232977"
+}
