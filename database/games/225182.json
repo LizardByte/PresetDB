@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225182,
+  "name": "Togum",
+  "source_url": "https://www.igdb.com/games/togum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rjs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Togum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1105960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1105960",
+        "Linux": "setsid steam steam://rungameid/1105960",
+        "macOS": "open steam://rungameid/1105960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "togum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225182"
+}
