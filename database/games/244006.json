@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244006,
+  "name": "Lobby Loitering",
+  "source_url": "https://www.igdb.com/games/lobby-loitering",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dfw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lobby Loitering",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2340300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2340300",
+        "Linux": "setsid steam steam://rungameid/2340300",
+        "macOS": "open steam://rungameid/2340300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lobby-loitering",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244006"
+}
