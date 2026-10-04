@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 229335,
+  "name": "Tricky Tracks",
+  "source_url": "https://www.igdb.com/games/tricky-tracks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6x73.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tricky Tracks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2122000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2122000",
+        "Linux": "setsid steam steam://rungameid/2122000",
+        "macOS": "open steam://rungameid/2122000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tricky-tracks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=229335"
+}
