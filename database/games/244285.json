@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244285,
+  "name": "The Way of Death",
+  "source_url": "https://www.igdb.com/games/the-way-of-death",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97s9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Way of Death",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2346000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2346000",
+        "Linux": "setsid steam steam://rungameid/2346000",
+        "macOS": "open steam://rungameid/2346000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-way-of-death",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244285"
+}
