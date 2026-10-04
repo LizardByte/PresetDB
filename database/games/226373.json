@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226373,
+  "name": "Maniac",
+  "source_url": "https://www.igdb.com/games/maniac",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7y8v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maniac",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1482380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1482380",
+        "Linux": "setsid steam steam://rungameid/1482380",
+        "macOS": "open steam://rungameid/1482380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maniac",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226373"
+}
