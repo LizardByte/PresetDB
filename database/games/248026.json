@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248026,
+  "name": "Friday",
+  "source_url": "https://www.igdb.com/games/friday--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6fvu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Friday",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2382020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2382020",
+        "Linux": "setsid steam steam://rungameid/2382020",
+        "macOS": "open steam://rungameid/2382020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "friday--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248026"
+}
