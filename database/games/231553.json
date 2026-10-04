@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231553,
+  "name": "Maximum",
+  "source_url": "https://www.igdb.com/games/maximum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60e9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maximum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2265400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2265400",
+        "Linux": "setsid steam steam://rungameid/2265400",
+        "macOS": "open steam://rungameid/2265400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maximum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231553"
+}
