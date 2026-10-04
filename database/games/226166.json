@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226166,
+  "name": "Lims",
+  "source_url": "https://www.igdb.com/games/lims",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5skj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lims",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2210410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2210410",
+        "Linux": "setsid steam steam://rungameid/2210410",
+        "macOS": "open steam://rungameid/2210410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lims",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226166"
+}
