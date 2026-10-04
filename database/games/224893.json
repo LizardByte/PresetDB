@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224893,
+  "name": "DrugRunner",
+  "source_url": "https://www.igdb.com/games/drugrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4x7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DrugRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2197000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2197000",
+        "Linux": "setsid steam steam://rungameid/2197000",
+        "macOS": "open steam://rungameid/2197000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drugrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224893"
+}
