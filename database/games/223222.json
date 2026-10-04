@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223222,
+  "name": "Sacred Ember",
+  "source_url": "https://www.igdb.com/games/sacred-ember",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tkc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sacred Ember",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2157050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2157050",
+        "Linux": "setsid steam steam://rungameid/2157050",
+        "macOS": "open steam://rungameid/2157050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sacred-ember",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223222"
+}
