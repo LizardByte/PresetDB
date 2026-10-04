@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223924,
+  "name": "Sand:box",
+  "source_url": "https://www.igdb.com/games/sand-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7eq4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sand:box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2179380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2179380",
+        "Linux": "setsid steam steam://rungameid/2179380",
+        "macOS": "open steam://rungameid/2179380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sand-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223924"
+}
