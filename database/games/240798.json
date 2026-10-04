@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240798,
+  "name": "Dying Breed",
+  "source_url": "https://www.igdb.com/games/dying-breed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamy2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dying Breed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2088550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2088550",
+        "Linux": "setsid steam steam://rungameid/2088550",
+        "macOS": "open steam://rungameid/2088550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dying-breed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240798"
+}
