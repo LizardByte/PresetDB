@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235789,
+  "name": "Attack Zone",
+  "source_url": "https://www.igdb.com/games/attack-zone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91us.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Attack Zone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2241540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2241540",
+        "Linux": "setsid steam steam://rungameid/2241540",
+        "macOS": "open steam://rungameid/2241540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "attack-zone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235789"
+}
