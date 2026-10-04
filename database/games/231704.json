@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231704,
+  "name": "Kitten Kingdom",
+  "source_url": "https://www.igdb.com/games/kitten-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60lf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitten Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2261690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2261690",
+        "Linux": "setsid steam steam://rungameid/2261690",
+        "macOS": "open steam://rungameid/2261690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kitten-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231704"
+}
