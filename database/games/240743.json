@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240743,
+  "name": "Running Riot",
+  "source_url": "https://www.igdb.com/games/running-riot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68hj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Running Riot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2284000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2284000",
+        "Linux": "setsid steam steam://rungameid/2284000",
+        "macOS": "open steam://rungameid/2284000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "running-riot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240743"
+}
