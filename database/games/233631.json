@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 233631,
+  "name": "M Doll",
+  "source_url": "https://www.igdb.com/games/m-doll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62xi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "M Doll",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2105250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2105250",
+        "Linux": "setsid steam steam://rungameid/2105250",
+        "macOS": "open steam://rungameid/2105250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "m-doll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=233631"
+}
