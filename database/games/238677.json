@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238677,
+  "name": "Battlemon",
+  "source_url": "https://www.igdb.com/games/battlemon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8bt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battlemon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2206160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2206160",
+        "Linux": "setsid steam steam://rungameid/2206160",
+        "macOS": "open steam://rungameid/2206160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battlemon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238677"
+}
