@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244434,
+  "name": "Super Retro GP",
+  "source_url": "https://www.igdb.com/games/super-retro-gp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8u4t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Retro GP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2367600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2367600",
+        "Linux": "setsid steam steam://rungameid/2367600",
+        "macOS": "open steam://rungameid/2367600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-retro-gp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244434"
+}
