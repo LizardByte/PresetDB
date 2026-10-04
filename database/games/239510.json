@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239510,
+  "name": "Dance Fight",
+  "source_url": "https://www.igdb.com/games/dance-fight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coay17.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dance Fight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2229380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2229380",
+        "Linux": "setsid steam steam://rungameid/2229380",
+        "macOS": "open steam://rungameid/2229380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dance-fight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239510"
+}
