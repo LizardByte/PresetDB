@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244182,
+  "name": "Idle Biceps",
+  "source_url": "https://www.igdb.com/games/idle-biceps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp29.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Biceps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2355250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2355250",
+        "Linux": "setsid steam steam://rungameid/2355250",
+        "macOS": "open steam://rungameid/2355250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-biceps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244182"
+}
