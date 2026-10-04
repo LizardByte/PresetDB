@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224805,
+  "name": "WinterThunder",
+  "source_url": "https://www.igdb.com/games/winterthunder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qur.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WinterThunder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2167010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2167010",
+        "Linux": "setsid steam steam://rungameid/2167010",
+        "macOS": "open steam://rungameid/2167010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "winterthunder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224805"
+}
