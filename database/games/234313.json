@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234313,
+  "name": "Fight & Crush",
+  "source_url": "https://www.igdb.com/games/fight-and-crush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fight & Crush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2270970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2270970",
+        "Linux": "setsid steam steam://rungameid/2270970",
+        "macOS": "open steam://rungameid/2270970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fight-and-crush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234313"
+}
