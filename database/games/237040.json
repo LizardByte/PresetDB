@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237040,
+  "name": "Haunt Monster",
+  "source_url": "https://www.igdb.com/games/haunt-monster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64zp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haunt Monster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1961960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1961960",
+        "Linux": "setsid steam steam://rungameid/1961960",
+        "macOS": "open steam://rungameid/1961960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haunt-monster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237040"
+}
