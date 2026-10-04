@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236318,
+  "name": "GameDev Life Simulator",
+  "source_url": "https://www.igdb.com/games/gamedev-life-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64h5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GameDev Life Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2256790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2256790",
+        "Linux": "setsid steam steam://rungameid/2256790",
+        "macOS": "open steam://rungameid/2256790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gamedev-life-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236318"
+}
