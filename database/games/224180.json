@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224180,
+  "name": "Another_World",
+  "source_url": "https://www.igdb.com/games/another-world--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Another_World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1246390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1246390",
+        "Linux": "setsid steam steam://rungameid/1246390",
+        "macOS": "open steam://rungameid/1246390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "another-world--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224180"
+}
