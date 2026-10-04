@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 227788,
+  "name": "Project: Playtime",
+  "source_url": "https://www.igdb.com/games/project-playtime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co683v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project: Playtime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1961460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1961460",
+        "Linux": "setsid steam steam://rungameid/1961460",
+        "macOS": "open steam://rungameid/1961460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-playtime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=227788"
+}
