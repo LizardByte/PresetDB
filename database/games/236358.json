@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236358,
+  "name": "Sisypush",
+  "source_url": "https://www.igdb.com/games/sisypush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rpa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sisypush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2219240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2219240",
+        "Linux": "setsid steam steam://rungameid/2219240",
+        "macOS": "open steam://rungameid/2219240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sisypush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236358"
+}
