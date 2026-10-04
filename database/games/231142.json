@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231142,
+  "name": "Pip X",
+  "source_url": "https://www.igdb.com/games/pip-x",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i33.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pip X",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2273630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2273630",
+        "Linux": "setsid steam steam://rungameid/2273630",
+        "macOS": "open steam://rungameid/2273630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pip-x",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231142"
+}
