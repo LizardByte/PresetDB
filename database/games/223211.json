@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223211,
+  "name": "Furry Arena",
+  "source_url": "https://www.igdb.com/games/furry-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hb0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Furry Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2176790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2176790",
+        "Linux": "setsid steam steam://rungameid/2176790",
+        "macOS": "open steam://rungameid/2176790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "furry-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223211"
+}
