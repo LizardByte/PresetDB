@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223032,
+  "name": "Red Sea",
+  "source_url": "https://www.igdb.com/games/red-sea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co687f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Sea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2192330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2192330",
+        "Linux": "setsid steam steam://rungameid/2192330",
+        "macOS": "open steam://rungameid/2192330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-sea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223032"
+}
