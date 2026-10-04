@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222930,
+  "name": "Off to Sleep",
+  "source_url": "https://www.igdb.com/games/off-to-sleep--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5p9b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Off to Sleep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2125300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2125300",
+        "Linux": "setsid steam steam://rungameid/2125300",
+        "macOS": "open steam://rungameid/2125300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "off-to-sleep--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222930"
+}
