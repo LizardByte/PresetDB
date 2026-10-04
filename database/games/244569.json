@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244569,
+  "name": "Forgotten House",
+  "source_url": "https://www.igdb.com/games/forgotten-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co972t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forgotten House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2111430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2111430",
+        "Linux": "setsid steam steam://rungameid/2111430",
+        "macOS": "open steam://rungameid/2111430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forgotten-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244569"
+}
