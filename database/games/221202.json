@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221202,
+  "name": "My Mistress",
+  "source_url": "https://www.igdb.com/games/my-mistress",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5riz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Mistress",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1506250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1506250",
+        "Linux": "setsid steam steam://rungameid/1506250",
+        "macOS": "open steam://rungameid/1506250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-mistress",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221202"
+}
