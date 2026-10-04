@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223951,
+  "name": "PenguInn",
+  "source_url": "https://www.igdb.com/games/penguinn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5s3i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PenguInn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2133130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2133130",
+        "Linux": "setsid steam steam://rungameid/2133130",
+        "macOS": "open steam://rungameid/2133130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "penguinn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223951"
+}
