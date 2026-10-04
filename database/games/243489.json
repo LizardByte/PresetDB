@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243489,
+  "name": "Things to Get",
+  "source_url": "https://www.igdb.com/games/things-to-get",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bre.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Things to Get",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2345890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2345890",
+        "Linux": "setsid steam steam://rungameid/2345890",
+        "macOS": "open steam://rungameid/2345890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "things-to-get",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243489"
+}
