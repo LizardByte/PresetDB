@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230888,
+  "name": "Kung Fu School",
+  "source_url": "https://www.igdb.com/games/kung-fu-school",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65fn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kung Fu School",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2203510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2203510",
+        "Linux": "setsid steam steam://rungameid/2203510",
+        "macOS": "open steam://rungameid/2203510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kung-fu-school",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230888"
+}
