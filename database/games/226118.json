@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226118,
+  "name": "Wild Rumble",
+  "source_url": "https://www.igdb.com/games/wild-rumble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Rumble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2004060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2004060",
+        "Linux": "setsid steam steam://rungameid/2004060",
+        "macOS": "open steam://rungameid/2004060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-rumble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226118"
+}
