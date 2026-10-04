@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242491,
+  "name": "Dungeon Legend",
+  "source_url": "https://www.igdb.com/games/dungeon-legend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6adq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Legend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2360670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2360670",
+        "Linux": "setsid steam steam://rungameid/2360670",
+        "macOS": "open steam://rungameid/2360670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-legend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242491"
+}
