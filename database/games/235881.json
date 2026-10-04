@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235881,
+  "name": "PhotonVerse",
+  "source_url": "https://www.igdb.com/games/photonverse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i2t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PhotonVerse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2262330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2262330",
+        "Linux": "setsid steam steam://rungameid/2262330",
+        "macOS": "open steam://rungameid/2262330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "photonverse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235881"
+}
