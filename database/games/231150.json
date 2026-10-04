@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231150,
+  "name": "Image",
+  "source_url": "https://www.igdb.com/games/image",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6j2l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Image",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2193380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2193380",
+        "Linux": "setsid steam steam://rungameid/2193380",
+        "macOS": "open steam://rungameid/2193380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "image",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231150"
+}
