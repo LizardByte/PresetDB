@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244448,
+  "name": "BeatShot",
+  "source_url": "https://www.igdb.com/games/beatshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7glq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BeatShot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2126580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2126580",
+        "Linux": "setsid steam steam://rungameid/2126580",
+        "macOS": "open steam://rungameid/2126580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beatshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244448"
+}
