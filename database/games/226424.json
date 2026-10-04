@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226424,
+  "name": "Mystic Forest",
+  "source_url": "https://www.igdb.com/games/mystic-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5sui.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystic Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2189910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2189910",
+        "Linux": "setsid steam steam://rungameid/2189910",
+        "macOS": "open steam://rungameid/2189910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystic-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226424"
+}
