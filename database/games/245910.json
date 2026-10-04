@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245910,
+  "name": "Mystillion",
+  "source_url": "https://www.igdb.com/games/mystillion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6e0d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystillion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2365020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2365020",
+        "Linux": "setsid steam steam://rungameid/2365020",
+        "macOS": "open steam://rungameid/2365020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystillion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245910"
+}
