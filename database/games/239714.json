@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239714,
+  "name": "Game Collecting Simulator",
+  "source_url": "https://www.igdb.com/games/game-collecting-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67b6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Collecting Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2320030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2320030",
+        "Linux": "setsid steam steam://rungameid/2320030",
+        "macOS": "open steam://rungameid/2320030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-collecting-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239714"
+}
