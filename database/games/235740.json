@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235740,
+  "name": "Endless Samurai",
+  "source_url": "https://www.igdb.com/games/endless-samurai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co640q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Samurai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2263450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2263450",
+        "Linux": "setsid steam steam://rungameid/2263450",
+        "macOS": "open steam://rungameid/2263450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-samurai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235740"
+}
