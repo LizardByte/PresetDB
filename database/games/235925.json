@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235925,
+  "name": "Wingsuit Hero",
+  "source_url": "https://www.igdb.com/games/wingsuit-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co645w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wingsuit Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2234570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2234570",
+        "Linux": "setsid steam steam://rungameid/2234570",
+        "macOS": "open steam://rungameid/2234570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wingsuit-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235925"
+}
