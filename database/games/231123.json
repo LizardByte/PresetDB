@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231123,
+  "name": "Scrapyard Arena",
+  "source_url": "https://www.igdb.com/games/scrapyard-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zvi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scrapyard Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2253780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2253780",
+        "Linux": "setsid steam steam://rungameid/2253780",
+        "macOS": "open steam://rungameid/2253780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scrapyard-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231123"
+}
