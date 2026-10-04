@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234969,
+  "name": "Infinity",
+  "source_url": "https://www.igdb.com/games/infinity--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63bv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1285090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1285090",
+        "Linux": "setsid steam steam://rungameid/1285090",
+        "macOS": "open steam://rungameid/1285090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infinity--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234969"
+}
