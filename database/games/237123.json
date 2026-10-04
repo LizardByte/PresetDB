@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237123,
+  "name": "Moonlight Peaks",
+  "source_url": "https://www.igdb.com/games/moonlight-peaks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vvs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moonlight Peaks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2209900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2209900",
+        "Linux": "setsid steam steam://rungameid/2209900",
+        "macOS": "open steam://rungameid/2209900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moonlight-peaks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237123"
+}
