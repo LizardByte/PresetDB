@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223367,
+  "name": "Player Non Player",
+  "source_url": "https://www.igdb.com/games/player-non-player",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Player Non Player",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2175690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2175690",
+        "Linux": "setsid steam steam://rungameid/2175690",
+        "macOS": "open steam://rungameid/2175690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "player-non-player",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223367"
+}
