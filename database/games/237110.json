@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237110,
+  "name": "Magicube",
+  "source_url": "https://www.igdb.com/games/magicube",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co651o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magicube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2216120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2216120",
+        "Linux": "setsid steam steam://rungameid/2216120",
+        "macOS": "open steam://rungameid/2216120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magicube",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237110"
+}
