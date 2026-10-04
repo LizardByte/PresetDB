@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225978,
+  "name": "Tiny Detour",
+  "source_url": "https://www.igdb.com/games/tiny-detour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vm8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Detour",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2181110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2181110",
+        "Linux": "setsid steam steam://rungameid/2181110",
+        "macOS": "open steam://rungameid/2181110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-detour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225978"
+}
