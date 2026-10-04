@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231488,
+  "name": "RetroSpace",
+  "source_url": "https://www.igdb.com/games/retrospace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod15a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RetroSpace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2067820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2067820",
+        "Linux": "setsid steam steam://rungameid/2067820",
+        "macOS": "open steam://rungameid/2067820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retrospace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231488"
+}
