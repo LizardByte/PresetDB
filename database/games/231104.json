@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231104,
+  "name": "Zooblies",
+  "source_url": "https://www.igdb.com/games/zooblies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zv4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zooblies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2260360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2260360",
+        "Linux": "setsid steam steam://rungameid/2260360",
+        "macOS": "open steam://rungameid/2260360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zooblies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231104"
+}
