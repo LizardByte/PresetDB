@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231191,
+  "name": "No Questions Asked",
+  "source_url": "https://www.igdb.com/games/no-questions-asked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co616l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Questions Asked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2259180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2259180",
+        "Linux": "setsid steam steam://rungameid/2259180",
+        "macOS": "open steam://rungameid/2259180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-questions-asked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231191"
+}
