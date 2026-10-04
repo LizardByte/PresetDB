@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226001,
+  "name": "Neon Noir",
+  "source_url": "https://www.igdb.com/games/neon-noir",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zh9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Noir",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2184870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2184870",
+        "Linux": "setsid steam steam://rungameid/2184870",
+        "macOS": "open steam://rungameid/2184870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-noir",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226001"
+}
