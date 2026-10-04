@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221752,
+  "name": "Portal War",
+  "source_url": "https://www.igdb.com/games/portal-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Portal War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2169040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2169040",
+        "Linux": "setsid steam steam://rungameid/2169040",
+        "macOS": "open steam://rungameid/2169040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "portal-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221752"
+}
