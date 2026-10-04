@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223163,
+  "name": "The Unfettered",
+  "source_url": "https://www.igdb.com/games/the-unfettered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7p1x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Unfettered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2156330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2156330",
+        "Linux": "setsid steam steam://rungameid/2156330",
+        "macOS": "open steam://rungameid/2156330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-unfettered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223163"
+}
