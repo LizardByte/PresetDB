@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238657,
+  "name": "HexLands",
+  "source_url": "https://www.igdb.com/games/hexlands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobofv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HexLands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2244650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2244650",
+        "Linux": "setsid steam steam://rungameid/2244650",
+        "macOS": "open steam://rungameid/2244650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexlands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238657"
+}
