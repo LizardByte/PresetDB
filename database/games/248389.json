@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248389,
+  "name": "Rabbit Simulator",
+  "source_url": "https://www.igdb.com/games/rabbit-simulator--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6g8k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rabbit Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2343380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2343380",
+        "Linux": "setsid steam steam://rungameid/2343380",
+        "macOS": "open steam://rungameid/2343380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rabbit-simulator--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248389"
+}
