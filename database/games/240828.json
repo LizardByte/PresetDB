@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240828,
+  "name": "Fantasy Boy",
+  "source_url": "https://www.igdb.com/games/fantasy-boy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co992u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantasy Boy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2321950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2321950",
+        "Linux": "setsid steam steam://rungameid/2321950",
+        "macOS": "open steam://rungameid/2321950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantasy-boy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240828"
+}
