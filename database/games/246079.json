@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246079,
+  "name": "Raging Bytes",
+  "source_url": "https://www.igdb.com/games/raging-bytes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ipv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raging Bytes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2348260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2348260",
+        "Linux": "setsid steam steam://rungameid/2348260",
+        "macOS": "open steam://rungameid/2348260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raging-bytes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246079"
+}
