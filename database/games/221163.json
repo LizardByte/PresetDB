@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221163,
+  "name": "Jester's Quest",
+  "source_url": "https://www.igdb.com/games/jesters-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gey.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jester's Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "638940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/638940",
+        "Linux": "setsid steam steam://rungameid/638940",
+        "macOS": "open steam://rungameid/638940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jesters-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221163"
+}
