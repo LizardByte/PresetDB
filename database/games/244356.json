@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244356,
+  "name": "That Rocket Game",
+  "source_url": "https://www.igdb.com/games/that-rocket-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cvu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "That Rocket Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2371750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2371750",
+        "Linux": "setsid steam steam://rungameid/2371750",
+        "macOS": "open steam://rungameid/2371750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "that-rocket-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244356"
+}
