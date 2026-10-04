@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 227629,
+  "name": "Sushiman",
+  "source_url": "https://www.igdb.com/games/sushiman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7e6b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushiman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2173350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2173350",
+        "Linux": "setsid steam steam://rungameid/2173350",
+        "macOS": "open steam://rungameid/2173350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushiman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=227629"
+}
