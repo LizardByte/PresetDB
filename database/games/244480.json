@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244480,
+  "name": "Flyto",
+  "source_url": "https://www.igdb.com/games/flyto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cz7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flyto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2415770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2415770",
+        "Linux": "setsid steam steam://rungameid/2415770",
+        "macOS": "open steam://rungameid/2415770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flyto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244480"
+}
