@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244135,
+  "name": "One More Try",
+  "source_url": "https://www.igdb.com/games/one-more-try",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i1g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One More Try",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2330160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2330160",
+        "Linux": "setsid steam steam://rungameid/2330160",
+        "macOS": "open steam://rungameid/2330160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-more-try",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244135"
+}
