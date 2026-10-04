@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245946,
+  "name": "Hag",
+  "source_url": "https://www.igdb.com/games/hag",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76vi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2325170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2325170",
+        "Linux": "setsid steam steam://rungameid/2325170",
+        "macOS": "open steam://rungameid/2325170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hag",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245946"
+}
