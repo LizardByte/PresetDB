@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226469,
+  "name": "Gourdlets",
+  "source_url": "https://www.igdb.com/games/gourdlets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5u20.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gourdlets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2013730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2013730",
+        "Linux": "setsid steam steam://rungameid/2013730",
+        "macOS": "open steam://rungameid/2013730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gourdlets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226469"
+}
