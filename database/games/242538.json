@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242538,
+  "name": "Mudborne",
+  "source_url": "https://www.igdb.com/games/mudborne",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9js4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mudborne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2355150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2355150",
+        "Linux": "setsid steam steam://rungameid/2355150",
+        "macOS": "open steam://rungameid/2355150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mudborne",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242538"
+}
