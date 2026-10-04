@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242571,
+  "name": "Yello Adventures",
+  "source_url": "https://www.igdb.com/games/yello-adventures",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6aw2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yello Adventures",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2528100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2528100",
+        "Linux": "setsid steam steam://rungameid/2528100",
+        "macOS": "open steam://rungameid/2528100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yello-adventures",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242571"
+}
