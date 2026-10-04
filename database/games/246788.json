@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246788,
+  "name": "Simply Survive",
+  "source_url": "https://www.igdb.com/games/simply-survive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9dit.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simply Survive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2373030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2373030",
+        "Linux": "setsid steam steam://rungameid/2373030",
+        "macOS": "open steam://rungameid/2373030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simply-survive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246788"
+}
