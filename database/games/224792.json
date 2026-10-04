@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224792,
+  "name": "Peebi",
+  "source_url": "https://www.igdb.com/games/peebi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vmz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peebi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2096730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2096730",
+        "Linux": "setsid steam steam://rungameid/2096730",
+        "macOS": "open steam://rungameid/2096730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peebi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224792"
+}
