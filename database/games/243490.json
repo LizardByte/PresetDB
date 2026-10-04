@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243490,
+  "name": "T.I.MO",
+  "source_url": "https://www.igdb.com/games/timo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6brf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "T.I.MO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1701340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1701340",
+        "Linux": "setsid steam steam://rungameid/1701340",
+        "macOS": "open steam://rungameid/1701340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "timo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243490"
+}
