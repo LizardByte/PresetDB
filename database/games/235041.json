@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235041,
+  "name": "Zombinions",
+  "source_url": "https://www.igdb.com/games/zombinions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7iq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombinions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2206400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2206400",
+        "Linux": "setsid steam steam://rungameid/2206400",
+        "macOS": "open steam://rungameid/2206400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombinions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235041"
+}
