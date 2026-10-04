@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236013,
+  "name": "TEOM",
+  "source_url": "https://www.igdb.com/games/teom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co648g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TEOM",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964490",
+        "Linux": "setsid steam steam://rungameid/964490",
+        "macOS": "open steam://rungameid/964490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236013"
+}
