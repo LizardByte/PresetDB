@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247970,
+  "name": "HatLand",
+  "source_url": "https://www.igdb.com/games/hatland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HatLand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2388480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2388480",
+        "Linux": "setsid steam steam://rungameid/2388480",
+        "macOS": "open steam://rungameid/2388480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hatland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247970"
+}
