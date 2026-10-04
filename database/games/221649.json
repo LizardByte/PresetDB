@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221649,
+  "name": "Judero",
+  "source_url": "https://www.igdb.com/games/judero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5inh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Judero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1960900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1960900",
+        "Linux": "setsid steam steam://rungameid/1960900",
+        "macOS": "open steam://rungameid/1960900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "judero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221649"
+}
