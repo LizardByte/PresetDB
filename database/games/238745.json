@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238745,
+  "name": "The Meme Hunter",
+  "source_url": "https://www.igdb.com/games/the-meme-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ycc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Meme Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2310300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2310300",
+        "Linux": "setsid steam steam://rungameid/2310300",
+        "macOS": "open steam://rungameid/2310300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-meme-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238745"
+}
