@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230347,
+  "name": "Lucky Goal",
+  "source_url": "https://www.igdb.com/games/lucky-goal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ypm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lucky Goal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2174420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2174420",
+        "Linux": "setsid steam steam://rungameid/2174420",
+        "macOS": "open steam://rungameid/2174420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lucky-goal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230347"
+}
