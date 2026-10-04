@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223270,
+  "name": "Dead of Darkness",
+  "source_url": "https://www.igdb.com/games/dead-of-darkness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79g8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead of Darkness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2157210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2157210",
+        "Linux": "setsid steam steam://rungameid/2157210",
+        "macOS": "open steam://rungameid/2157210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-of-darkness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223270"
+}
