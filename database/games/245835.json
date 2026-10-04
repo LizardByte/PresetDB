@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245835,
+  "name": "Brewess",
+  "source_url": "https://www.igdb.com/games/brewess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dy7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brewess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2371650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2371650",
+        "Linux": "setsid steam steam://rungameid/2371650",
+        "macOS": "open steam://rungameid/2371650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brewess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245835"
+}
