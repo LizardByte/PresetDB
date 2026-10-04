@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231798,
+  "name": "Chasmal",
+  "source_url": "https://www.igdb.com/games/chasmal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co622f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chasmal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2222830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2222830",
+        "Linux": "setsid steam steam://rungameid/2222830",
+        "macOS": "open steam://rungameid/2222830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chasmal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231798"
+}
