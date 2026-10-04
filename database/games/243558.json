@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243558,
+  "name": "Human Multiplayer Game",
+  "source_url": "https://www.igdb.com/games/human-multiplayer-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6btb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Human Multiplayer Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2338260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2338260",
+        "Linux": "setsid steam steam://rungameid/2338260",
+        "macOS": "open steam://rungameid/2338260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "human-multiplayer-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243558"
+}
