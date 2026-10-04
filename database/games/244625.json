@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244625,
+  "name": "Escape Space",
+  "source_url": "https://www.igdb.com/games/escape-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7f6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2131020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2131020",
+        "Linux": "setsid steam steam://rungameid/2131020",
+        "macOS": "open steam://rungameid/2131020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244625"
+}
