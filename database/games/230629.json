@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230629,
+  "name": "Sessions",
+  "source_url": "https://www.igdb.com/games/sessions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa918.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sessions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2241660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2241660",
+        "Linux": "setsid steam steam://rungameid/2241660",
+        "macOS": "open steam://rungameid/2241660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sessions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230629"
+}
