@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232646,
+  "name": "Tet",
+  "source_url": "https://www.igdb.com/games/tet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co624u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2246700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2246700",
+        "Linux": "setsid steam steam://rungameid/2246700",
+        "macOS": "open steam://rungameid/2246700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232646"
+}
