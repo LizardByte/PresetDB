@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240654,
+  "name": "Fantasy Survivors",
+  "source_url": "https://www.igdb.com/games/fantasy-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanr6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantasy Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2220870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2220870",
+        "Linux": "setsid steam steam://rungameid/2220870",
+        "macOS": "open steam://rungameid/2220870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantasy-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240654"
+}
