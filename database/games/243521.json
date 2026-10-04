@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243521,
+  "name": "Scroter",
+  "source_url": "https://www.igdb.com/games/scroter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzgc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scroter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2344450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2344450",
+        "Linux": "setsid steam steam://rungameid/2344450",
+        "macOS": "open steam://rungameid/2344450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scroter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243521"
+}
