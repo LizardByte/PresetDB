@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226513,
+  "name": "Digital Frida",
+  "source_url": "https://www.igdb.com/games/digital-frida",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5swt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Digital Frida",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2209580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2209580",
+        "Linux": "setsid steam steam://rungameid/2209580",
+        "macOS": "open steam://rungameid/2209580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "digital-frida",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226513"
+}
