@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236733,
+  "name": "Suikoro",
+  "source_url": "https://www.igdb.com/games/suikoro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64sk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suikoro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2214480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2214480",
+        "Linux": "setsid steam steam://rungameid/2214480",
+        "macOS": "open steam://rungameid/2214480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "suikoro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236733"
+}
