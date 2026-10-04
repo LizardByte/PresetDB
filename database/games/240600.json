@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240600,
+  "name": "Sliding Swords",
+  "source_url": "https://www.igdb.com/games/sliding-swords",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68dk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sliding Swords",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2308890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2308890",
+        "Linux": "setsid steam steam://rungameid/2308890",
+        "macOS": "open steam://rungameid/2308890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sliding-swords",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240600"
+}
