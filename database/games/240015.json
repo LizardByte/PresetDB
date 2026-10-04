@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240015,
+  "name": "Robocock",
+  "source_url": "https://www.igdb.com/games/robocock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67nl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robocock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2319100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2319100",
+        "Linux": "setsid steam steam://rungameid/2319100",
+        "macOS": "open steam://rungameid/2319100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robocock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240015"
+}
