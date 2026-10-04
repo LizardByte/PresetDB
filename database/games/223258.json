@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223258,
+  "name": "World of Naples",
+  "source_url": "https://www.igdb.com/games/world-of-naples",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vle.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World of Naples",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2128410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2128410",
+        "Linux": "setsid steam steam://rungameid/2128410",
+        "macOS": "open steam://rungameid/2128410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-of-naples",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223258"
+}
