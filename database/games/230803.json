@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230803,
+  "name": "Those Who Crawl",
+  "source_url": "https://www.igdb.com/games/those-who-crawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co616i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Those Who Crawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2228830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2228830",
+        "Linux": "setsid steam steam://rungameid/2228830",
+        "macOS": "open steam://rungameid/2228830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "those-who-crawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230803"
+}
