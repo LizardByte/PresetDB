@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234530,
+  "name": "Aria: Genesis",
+  "source_url": "https://www.igdb.com/games/aria-genesis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65wk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aria: Genesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1687250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1687250",
+        "Linux": "setsid steam steam://rungameid/1687250",
+        "macOS": "open steam://rungameid/1687250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aria-genesis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234530"
+}
