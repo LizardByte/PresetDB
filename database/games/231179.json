@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231179,
+  "name": "Find the Whales",
+  "source_url": "https://www.igdb.com/games/find-the-whales",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co616n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find the Whales",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2261920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2261920",
+        "Linux": "setsid steam steam://rungameid/2261920",
+        "macOS": "open steam://rungameid/2261920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-the-whales",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231179"
+}
