@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240668,
+  "name": "Corlero",
+  "source_url": "https://www.igdb.com/games/corlero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68fg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Corlero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1991350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1991350",
+        "Linux": "setsid steam steam://rungameid/1991350",
+        "macOS": "open steam://rungameid/1991350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "corlero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240668"
+}
