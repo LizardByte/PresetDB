@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237242,
+  "name": "DunHero",
+  "source_url": "https://www.igdb.com/games/dunhero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1cg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DunHero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2270210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2270210",
+        "Linux": "setsid steam steam://rungameid/2270210",
+        "macOS": "open steam://rungameid/2270210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dunhero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237242"
+}
