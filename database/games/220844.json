@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 220844,
+  "name": "Morrow",
+  "source_url": "https://www.igdb.com/games/morrow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5fuq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Morrow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2160230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2160230",
+        "Linux": "setsid steam steam://rungameid/2160230",
+        "macOS": "open steam://rungameid/2160230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "morrow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=220844"
+}
