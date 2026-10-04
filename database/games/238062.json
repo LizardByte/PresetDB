@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238062,
+  "name": "SkyIsland",
+  "source_url": "https://www.igdb.com/games/skyisland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co671p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkyIsland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2302640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2302640",
+        "Linux": "setsid steam steam://rungameid/2302640",
+        "macOS": "open steam://rungameid/2302640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skyisland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238062"
+}
