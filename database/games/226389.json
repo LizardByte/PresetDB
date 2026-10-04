@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226389,
+  "name": "Pal",
+  "source_url": "https://www.igdb.com/games/pal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i21.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2174080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2174080",
+        "Linux": "setsid steam steam://rungameid/2174080",
+        "macOS": "open steam://rungameid/2174080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226389"
+}
