@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236280,
+  "name": "Chai",
+  "source_url": "https://www.igdb.com/games/chai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gp1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2094380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2094380",
+        "Linux": "setsid steam steam://rungameid/2094380",
+        "macOS": "open steam://rungameid/2094380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236280"
+}
