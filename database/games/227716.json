@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 227716,
+  "name": "Dark Siren",
+  "source_url": "https://www.igdb.com/games/dark-siren",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gsh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Siren",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1575450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1575450",
+        "Linux": "setsid steam steam://rungameid/1575450",
+        "macOS": "open steam://rungameid/1575450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-siren",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=227716"
+}
