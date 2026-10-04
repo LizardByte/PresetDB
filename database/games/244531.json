@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244531,
+  "name": "Siren Forest",
+  "source_url": "https://www.igdb.com/games/siren-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6d0o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Siren Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2358350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2358350",
+        "Linux": "setsid steam steam://rungameid/2358350",
+        "macOS": "open steam://rungameid/2358350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "siren-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244531"
+}
