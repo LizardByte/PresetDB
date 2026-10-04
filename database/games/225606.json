@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225606,
+  "name": "Peek a Boo",
+  "source_url": "https://www.igdb.com/games/peek-a-boo--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peek a Boo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2187740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2187740",
+        "Linux": "setsid steam steam://rungameid/2187740",
+        "macOS": "open steam://rungameid/2187740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peek-a-boo--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225606"
+}
