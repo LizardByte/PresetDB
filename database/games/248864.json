@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248864,
+  "name": "Sync Adventure",
+  "source_url": "https://www.igdb.com/games/sync-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sync Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2404280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2404280",
+        "Linux": "setsid steam steam://rungameid/2404280",
+        "macOS": "open steam://rungameid/2404280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sync-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248864"
+}
