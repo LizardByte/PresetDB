@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234288,
+  "name": "Full Moon Kit",
+  "source_url": "https://www.igdb.com/games/full-moon-kit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62qu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Full Moon Kit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2204220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2204220",
+        "Linux": "setsid steam steam://rungameid/2204220",
+        "macOS": "open steam://rungameid/2204220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "full-moon-kit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234288"
+}
