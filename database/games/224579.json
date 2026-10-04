@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224579,
+  "name": "The Bunnyman",
+  "source_url": "https://www.igdb.com/games/the-bunnyman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5tr3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Bunnyman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2179900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2179900",
+        "Linux": "setsid steam steam://rungameid/2179900",
+        "macOS": "open steam://rungameid/2179900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-bunnyman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224579"
+}
