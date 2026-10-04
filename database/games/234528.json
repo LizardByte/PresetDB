@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234528,
+  "name": "Mayhem Heroes",
+  "source_url": "https://www.igdb.com/games/mayhem-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6l6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mayhem Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2272430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2272430",
+        "Linux": "setsid steam steam://rungameid/2272430",
+        "macOS": "open steam://rungameid/2272430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mayhem-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234528"
+}
