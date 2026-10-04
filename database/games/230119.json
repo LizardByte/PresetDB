@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230119,
+  "name": "Lights",
+  "source_url": "https://www.igdb.com/games/lights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5y8v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1815890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1815890",
+        "Linux": "setsid steam steam://rungameid/1815890",
+        "macOS": "open steam://rungameid/1815890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230119"
+}
