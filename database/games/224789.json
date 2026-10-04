@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224789,
+  "name": "Monster Mystery",
+  "source_url": "https://www.igdb.com/games/monster-mystery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rj0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Mystery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2097160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2097160",
+        "Linux": "setsid steam steam://rungameid/2097160",
+        "macOS": "open steam://rungameid/2097160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-mystery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224789"
+}
