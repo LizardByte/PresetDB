@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240819,
+  "name": "Alpacalypse",
+  "source_url": "https://www.igdb.com/games/alpacalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co69q9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alpacalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2325060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2325060",
+        "Linux": "setsid steam steam://rungameid/2325060",
+        "macOS": "open steam://rungameid/2325060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alpacalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240819"
+}
