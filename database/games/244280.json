@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244280,
+  "name": "Round Trip",
+  "source_url": "https://www.igdb.com/games/round-trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6roq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Round Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2275780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2275780",
+        "Linux": "setsid steam steam://rungameid/2275780",
+        "macOS": "open steam://rungameid/2275780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "round-trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244280"
+}
