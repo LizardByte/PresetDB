@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231795,
+  "name": "Oblivion Eagle",
+  "source_url": "https://www.igdb.com/games/oblivion-eagle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6zwn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oblivion Eagle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2256950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2256950",
+        "Linux": "setsid steam steam://rungameid/2256950",
+        "macOS": "open steam://rungameid/2256950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oblivion-eagle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231795"
+}
