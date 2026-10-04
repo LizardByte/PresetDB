@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235675,
+  "name": "It's Dark Inside",
+  "source_url": "https://www.igdb.com/games/its-dark-inside",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc29x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It's Dark Inside",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2141000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2141000",
+        "Linux": "setsid steam steam://rungameid/2141000",
+        "macOS": "open steam://rungameid/2141000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-dark-inside",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235675"
+}
