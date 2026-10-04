@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237156,
+  "name": "Enter the Slayer",
+  "source_url": "https://www.igdb.com/games/enter-the-slayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co787b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Enter the Slayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2245000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2245000",
+        "Linux": "setsid steam steam://rungameid/2245000",
+        "macOS": "open steam://rungameid/2245000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "enter-the-slayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237156"
+}
