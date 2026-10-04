@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239841,
+  "name": "Folklands",
+  "source_url": "https://www.igdb.com/games/folklands",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7a2n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Folklands",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2282890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2282890",
+        "Linux": "setsid steam steam://rungameid/2282890",
+        "macOS": "open steam://rungameid/2282890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "folklands",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239841"
+}
