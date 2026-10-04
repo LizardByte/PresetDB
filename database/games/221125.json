@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221125,
+  "name": "Sinister Entity",
+  "source_url": "https://www.igdb.com/games/sinister-entity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7o9w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sinister Entity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2164870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2164870",
+        "Linux": "setsid steam steam://rungameid/2164870",
+        "macOS": "open steam://rungameid/2164870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sinister-entity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221125"
+}
