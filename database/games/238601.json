@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238601,
+  "name": "Ragmonton",
+  "source_url": "https://www.igdb.com/games/ragmonton",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i91.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ragmonton",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2253110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2253110",
+        "Linux": "setsid steam steam://rungameid/2253110",
+        "macOS": "open steam://rungameid/2253110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ragmonton",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238601"
+}
