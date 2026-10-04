@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237775,
+  "name": "Aby's Playground",
+  "source_url": "https://www.igdb.com/games/abys-playground",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65pi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aby's Playground",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2268440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2268440",
+        "Linux": "setsid steam steam://rungameid/2268440",
+        "macOS": "open steam://rungameid/2268440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abys-playground",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237775"
+}
