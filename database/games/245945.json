@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245945,
+  "name": "Resourcer",
+  "source_url": "https://www.igdb.com/games/resourcer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6e1l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resourcer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2186370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2186370",
+        "Linux": "setsid steam steam://rungameid/2186370",
+        "macOS": "open steam://rungameid/2186370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "resourcer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245945"
+}
