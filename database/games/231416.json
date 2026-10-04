@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231416,
+  "name": "Jackie",
+  "source_url": "https://www.igdb.com/games/jackie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6078.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jackie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2245820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2245820",
+        "Linux": "setsid steam steam://rungameid/2245820",
+        "macOS": "open steam://rungameid/2245820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jackie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231416"
+}
