@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231043,
+  "name": "Party Party Time",
+  "source_url": "https://www.igdb.com/games/party-party-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co896k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Party Party Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2250820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2250820",
+        "Linux": "setsid steam steam://rungameid/2250820",
+        "macOS": "open steam://rungameid/2250820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "party-party-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231043"
+}
