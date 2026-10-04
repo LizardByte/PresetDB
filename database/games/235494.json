@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235494,
+  "name": "PetShop",
+  "source_url": "https://www.igdb.com/games/petshop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63u2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PetShop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2225420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2225420",
+        "Linux": "setsid steam steam://rungameid/2225420",
+        "macOS": "open steam://rungameid/2225420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "petshop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235494"
+}
