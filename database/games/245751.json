@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245751,
+  "name": "Mirthwood",
+  "source_url": "https://www.igdb.com/games/mirthwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6izh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mirthwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2272900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2272900",
+        "Linux": "setsid steam steam://rungameid/2272900",
+        "macOS": "open steam://rungameid/2272900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mirthwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245751"
+}
