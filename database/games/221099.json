@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221099,
+  "name": "Step By Step Hero",
+  "source_url": "https://www.igdb.com/games/step-by-step-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7iem.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Step By Step Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2171530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2171530",
+        "Linux": "setsid steam steam://rungameid/2171530",
+        "macOS": "open steam://rungameid/2171530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "step-by-step-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221099"
+}
