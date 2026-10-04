@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240812,
+  "name": "Goospace",
+  "source_url": "https://www.igdb.com/games/goospace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68jc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goospace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2326190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2326190",
+        "Linux": "setsid steam steam://rungameid/2326190",
+        "macOS": "open steam://rungameid/2326190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goospace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240812"
+}
