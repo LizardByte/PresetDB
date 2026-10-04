@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237072,
+  "name": "StarRaver",
+  "source_url": "https://www.igdb.com/games/starraver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rq6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StarRaver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2240690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2240690",
+        "Linux": "setsid steam steam://rungameid/2240690",
+        "macOS": "open steam://rungameid/2240690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starraver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237072"
+}
