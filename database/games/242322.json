@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 242322,
+  "name": "Frogun Encore",
+  "source_url": "https://www.igdb.com/games/frogun-encore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocr4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frogun Encore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2312160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2312160",
+        "Linux": "setsid steam steam://rungameid/2312160",
+        "macOS": "open steam://rungameid/2312160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frogun-encore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=242322"
+}
