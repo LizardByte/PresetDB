@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245916,
+  "name": "IGS Classic Arcade Collection",
+  "source_url": "https://www.igdb.com/games/igs-classic-arcade-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp73.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "IGS Classic Arcade Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3417140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3417140",
+        "Linux": "setsid steam steam://rungameid/3417140",
+        "macOS": "open steam://rungameid/3417140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "igs-classic-arcade-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245916"
+}
