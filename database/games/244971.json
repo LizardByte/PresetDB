@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244971,
+  "name": "Oneway.exe",
+  "source_url": "https://www.igdb.com/games/oneway-dot-exe--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zag.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oneway.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2349570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2349570",
+        "Linux": "setsid steam steam://rungameid/2349570",
+        "macOS": "open steam://rungameid/2349570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oneway-dot-exe--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244971"
+}
