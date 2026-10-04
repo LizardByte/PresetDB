@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236523,
+  "name": "Web Crawlies",
+  "source_url": "https://www.igdb.com/games/web-crawlies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eqx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Web Crawlies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2298990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2298990",
+        "Linux": "setsid steam steam://rungameid/2298990",
+        "macOS": "open steam://rungameid/2298990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "web-crawlies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236523"
+}
