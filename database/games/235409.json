@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235409,
+  "name": "Linked Worlds",
+  "source_url": "https://www.igdb.com/games/linked-worlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68zm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Linked Worlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2015360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2015360",
+        "Linux": "setsid steam steam://rungameid/2015360",
+        "macOS": "open steam://rungameid/2015360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "linked-worlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235409"
+}
