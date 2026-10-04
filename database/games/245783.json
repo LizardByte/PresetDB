@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245783,
+  "name": "BeDo",
+  "source_url": "https://www.igdb.com/games/bedo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6dwc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BeDo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2325340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2325340",
+        "Linux": "setsid steam steam://rungameid/2325340",
+        "macOS": "open steam://rungameid/2325340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bedo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245783"
+}
