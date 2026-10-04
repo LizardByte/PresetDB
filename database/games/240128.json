@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240128,
+  "name": "Leta Adventure",
+  "source_url": "https://www.igdb.com/games/leta-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67ss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leta Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2285410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2285410",
+        "Linux": "setsid steam steam://rungameid/2285410",
+        "macOS": "open steam://rungameid/2285410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leta-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240128"
+}
