@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226100,
+  "name": "Adventure Awaits",
+  "source_url": "https://www.igdb.com/games/adventure-awaits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5siy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventure Awaits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2198730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2198730",
+        "Linux": "setsid steam steam://rungameid/2198730",
+        "macOS": "open steam://rungameid/2198730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "adventure-awaits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226100"
+}
