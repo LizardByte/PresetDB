@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 232975,
+  "name": "Qdice",
+  "source_url": "https://www.igdb.com/games/qdice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61qu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Qdice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2255020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2255020",
+        "Linux": "setsid steam steam://rungameid/2255020",
+        "macOS": "open steam://rungameid/2255020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "qdice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=232975"
+}
