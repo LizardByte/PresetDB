@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244608,
+  "name": "Infest",
+  "source_url": "https://www.igdb.com/games/infest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6id3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2341560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2341560",
+        "Linux": "setsid steam steam://rungameid/2341560",
+        "macOS": "open steam://rungameid/2341560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244608"
+}
