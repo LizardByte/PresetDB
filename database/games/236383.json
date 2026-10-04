@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236383,
+  "name": "Stack World",
+  "source_url": "https://www.igdb.com/games/stack-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocadv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stack World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1935300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1935300",
+        "Linux": "setsid steam steam://rungameid/1935300",
+        "macOS": "open steam://rungameid/1935300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stack-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236383"
+}
