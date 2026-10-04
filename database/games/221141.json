@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221141,
+  "name": "Vajont VR",
+  "source_url": "https://www.igdb.com/games/vajont-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ge7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vajont VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2109440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2109440",
+        "Linux": "setsid steam steam://rungameid/2109440",
+        "macOS": "open steam://rungameid/2109440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vajont-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221141"
+}
