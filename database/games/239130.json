@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 239130,
+  "name": "Canine",
+  "source_url": "https://www.igdb.com/games/canine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7tm6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Canine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2334780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2334780",
+        "Linux": "setsid steam steam://rungameid/2334780",
+        "macOS": "open steam://rungameid/2334780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "canine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=239130"
+}
