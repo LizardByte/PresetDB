@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236457,
+  "name": "Frayspace",
+  "source_url": "https://www.igdb.com/games/frayspace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64l1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frayspace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1973100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1973100",
+        "Linux": "setsid steam steam://rungameid/1973100",
+        "macOS": "open steam://rungameid/1973100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frayspace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236457"
+}
