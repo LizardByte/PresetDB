@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225183,
+  "name": "Cats Kill Zombies",
+  "source_url": "https://www.igdb.com/games/cats-kill-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cats Kill Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2177880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2177880",
+        "Linux": "setsid steam steam://rungameid/2177880",
+        "macOS": "open steam://rungameid/2177880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cats-kill-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225183"
+}
