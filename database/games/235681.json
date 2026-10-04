@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235681,
+  "name": "GoPogo",
+  "source_url": "https://www.igdb.com/games/gopogo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63z7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GoPogo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1481370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1481370",
+        "Linux": "setsid steam steam://rungameid/1481370",
+        "macOS": "open steam://rungameid/1481370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gopogo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235681"
+}
