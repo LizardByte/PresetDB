@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 241503,
+  "name": "Scavenger",
+  "source_url": "https://www.igdb.com/games/scavenger--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ayq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scavenger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2329980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2329980",
+        "Linux": "setsid steam steam://rungameid/2329980",
+        "macOS": "open steam://rungameid/2329980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scavenger--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=241503"
+}
