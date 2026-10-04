@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237102,
+  "name": "Alive Paint",
+  "source_url": "https://www.igdb.com/games/alive-paint",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gj4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alive Paint",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1706480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1706480",
+        "Linux": "setsid steam steam://rungameid/1706480",
+        "macOS": "open steam://rungameid/1706480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alive-paint",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237102"
+}
