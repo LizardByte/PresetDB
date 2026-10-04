@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244662,
+  "name": "Game of Rollink",
+  "source_url": "https://www.igdb.com/games/game-of-rollink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6d49.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game of Rollink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2220730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2220730",
+        "Linux": "setsid steam steam://rungameid/2220730",
+        "macOS": "open steam://rungameid/2220730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-of-rollink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244662"
+}
