@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224666,
+  "name": "Beam Cat",
+  "source_url": "https://www.igdb.com/games/beam-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qqq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beam Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2190080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2190080",
+        "Linux": "setsid steam steam://rungameid/2190080",
+        "macOS": "open steam://rungameid/2190080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beam-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224666"
+}
