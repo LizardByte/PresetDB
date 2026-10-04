@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240524,
+  "name": "BadMan",
+  "source_url": "https://www.igdb.com/games/badman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co688t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BadMan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2288570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2288570",
+        "Linux": "setsid steam steam://rungameid/2288570",
+        "macOS": "open steam://rungameid/2288570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "badman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240524"
+}
