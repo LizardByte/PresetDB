@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244100,
+  "name": "Run Penguin Run",
+  "source_url": "https://www.igdb.com/games/run-penguin-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8crj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run Penguin Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2375100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2375100",
+        "Linux": "setsid steam steam://rungameid/2375100",
+        "macOS": "open steam://rungameid/2375100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-penguin-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244100"
+}
