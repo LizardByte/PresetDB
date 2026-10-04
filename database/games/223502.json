@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223502,
+  "name": "CampNight",
+  "source_url": "https://www.igdb.com/games/campnight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qad.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CampNight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2175510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2175510",
+        "Linux": "setsid steam steam://rungameid/2175510",
+        "macOS": "open steam://rungameid/2175510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "campnight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223502"
+}
