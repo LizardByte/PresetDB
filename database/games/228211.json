@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228211,
+  "name": "Unstable Portal",
+  "source_url": "https://www.igdb.com/games/unstable-portal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ing.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unstable Portal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2214760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2214760",
+        "Linux": "setsid steam steam://rungameid/2214760",
+        "macOS": "open steam://rungameid/2214760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unstable-portal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228211"
+}
