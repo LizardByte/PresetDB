@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236209,
+  "name": "Silent Scream",
+  "source_url": "https://www.igdb.com/games/silent-scream",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ngl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silent Scream",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1955750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1955750",
+        "Linux": "setsid steam steam://rungameid/1955750",
+        "macOS": "open steam://rungameid/1955750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silent-scream",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236209"
+}
