@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245829,
+  "name": "Kook",
+  "source_url": "https://www.igdb.com/games/kook",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8b7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kook",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2329690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2329690",
+        "Linux": "setsid steam steam://rungameid/2329690",
+        "macOS": "open steam://rungameid/2329690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kook",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245829"
+}
