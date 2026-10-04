@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238430,
+  "name": "Dragon Survivors",
+  "source_url": "https://www.igdb.com/games/dragon-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co662a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2270220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2270220",
+        "Linux": "setsid steam steam://rungameid/2270220",
+        "macOS": "open steam://rungameid/2270220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238430"
+}
