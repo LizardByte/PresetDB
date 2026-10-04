@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245923,
+  "name": "Warbits+",
+  "source_url": "https://www.igdb.com/games/warbits-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6e0v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warbits+",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2338990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2338990",
+        "Linux": "setsid steam steam://rungameid/2338990",
+        "macOS": "open steam://rungameid/2338990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warbits-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245923"
+}
