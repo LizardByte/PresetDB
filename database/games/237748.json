@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237748,
+  "name": "Who Run the City",
+  "source_url": "https://www.igdb.com/games/who-run-the-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65p6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who Run the City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1943060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1943060",
+        "Linux": "setsid steam steam://rungameid/1943060",
+        "macOS": "open steam://rungameid/1943060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "who-run-the-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237748"
+}
