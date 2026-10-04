@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223282,
+  "name": "AdvLite",
+  "source_url": "https://www.igdb.com/games/advlite",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gil.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AdvLite",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2112020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2112020",
+        "Linux": "setsid steam steam://rungameid/2112020",
+        "macOS": "open steam://rungameid/2112020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "advlite",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223282"
+}
