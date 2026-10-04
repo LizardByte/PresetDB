@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240704,
+  "name": "Pitch Black",
+  "source_url": "https://www.igdb.com/games/pitch-black--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pitch Black",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2323400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2323400",
+        "Linux": "setsid steam steam://rungameid/2323400",
+        "macOS": "open steam://rungameid/2323400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pitch-black--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240704"
+}
