@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243474,
+  "name": "Snake",
+  "source_url": "https://www.igdb.com/games/snake--9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rpj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2233360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2233360",
+        "Linux": "setsid steam steam://rungameid/2233360",
+        "macOS": "open steam://rungameid/2233360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snake--9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243474"
+}
