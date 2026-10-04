@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223358,
+  "name": "Save the Queen",
+  "source_url": "https://www.igdb.com/games/save-the-queen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5sqw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save the Queen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2188470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2188470",
+        "Linux": "setsid steam steam://rungameid/2188470",
+        "macOS": "open steam://rungameid/2188470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "save-the-queen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223358"
+}
