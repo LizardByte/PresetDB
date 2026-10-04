@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230960,
+  "name": "Arena Battle",
+  "source_url": "https://www.igdb.com/games/arena-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5zou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arena Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2221160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2221160",
+        "Linux": "setsid steam steam://rungameid/2221160",
+        "macOS": "open steam://rungameid/2221160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arena-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230960"
+}
