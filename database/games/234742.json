@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234742,
+  "name": "One Shot Challenge",
+  "source_url": "https://www.igdb.com/games/one-shot-challenge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6347.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Shot Challenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2192850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2192850",
+        "Linux": "setsid steam steam://rungameid/2192850",
+        "macOS": "open steam://rungameid/2192850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-shot-challenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234742"
+}
