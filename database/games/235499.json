@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235499,
+  "name": "Rayland 2",
+  "source_url": "https://www.igdb.com/games/rayland-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co789e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rayland 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2271000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2271000",
+        "Linux": "setsid steam steam://rungameid/2271000",
+        "macOS": "open steam://rungameid/2271000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rayland-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235499"
+}
