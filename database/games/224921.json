@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224921,
+  "name": "Tyken",
+  "source_url": "https://www.igdb.com/games/tyken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qze.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tyken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182870",
+        "Linux": "setsid steam steam://rungameid/2182870",
+        "macOS": "open steam://rungameid/2182870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tyken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224921"
+}
