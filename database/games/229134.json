@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 229134,
+  "name": "Without Escape",
+  "source_url": "https://www.igdb.com/games/without-escape--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co66ta.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Without Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "720730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/720730",
+        "Linux": "setsid steam steam://rungameid/720730",
+        "macOS": "open steam://rungameid/720730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "without-escape--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=229134"
+}
