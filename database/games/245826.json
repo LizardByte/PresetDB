@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 245826,
+  "name": "Monster Museum",
+  "source_url": "https://www.igdb.com/games/monster-museum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Museum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2358440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2358440",
+        "Linux": "setsid steam steam://rungameid/2358440",
+        "macOS": "open steam://rungameid/2358440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-museum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=245826"
+}
