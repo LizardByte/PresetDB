@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238467,
+  "name": "Nonotown",
+  "source_url": "https://www.igdb.com/games/nonotown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i0k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nonotown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2240720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2240720",
+        "Linux": "setsid steam steam://rungameid/2240720",
+        "macOS": "open steam://rungameid/2240720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nonotown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238467"
+}
