@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224721,
+  "name": "EternaMine",
+  "source_url": "https://www.igdb.com/games/eternamine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coank8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EternaMine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2175570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2175570",
+        "Linux": "setsid steam steam://rungameid/2175570",
+        "macOS": "open steam://rungameid/2175570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eternamine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224721"
+}
