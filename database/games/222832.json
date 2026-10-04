@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 222832,
+  "name": "Shinonome",
+  "source_url": "https://www.igdb.com/games/shinonome",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5p12.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shinonome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1977910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1977910",
+        "Linux": "setsid steam steam://rungameid/1977910",
+        "macOS": "open steam://rungameid/1977910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shinonome",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=222832"
+}
