@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225103,
+  "name": "Tales of Spark",
+  "source_url": "https://www.igdb.com/games/tales-of-spark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co775s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of Spark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2165390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2165390",
+        "Linux": "setsid steam steam://rungameid/2165390",
+        "macOS": "open steam://rungameid/2165390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tales-of-spark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225103"
+}
