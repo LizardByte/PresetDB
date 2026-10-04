@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240141,
+  "name": "Crymachina",
+  "source_url": "https://www.igdb.com/games/crymachina",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67t8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crymachina",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2258500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2258500",
+        "Linux": "setsid steam steam://rungameid/2258500",
+        "macOS": "open steam://rungameid/2258500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crymachina",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240141"
+}
