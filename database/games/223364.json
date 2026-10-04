@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223364,
+  "name": "IronKnight",
+  "source_url": "https://www.igdb.com/games/ironknight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5qai.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "IronKnight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2191530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2191530",
+        "Linux": "setsid steam steam://rungameid/2191530",
+        "macOS": "open steam://rungameid/2191530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ironknight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223364"
+}
