@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 225995,
+  "name": "Gray",
+  "source_url": "https://www.igdb.com/games/gray",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagg9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gray",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2196440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2196440",
+        "Linux": "setsid steam steam://rungameid/2196440",
+        "macOS": "open steam://rungameid/2196440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gray",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=225995"
+}
