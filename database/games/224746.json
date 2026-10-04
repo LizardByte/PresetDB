@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224746,
+  "name": "Voice over",
+  "source_url": "https://www.igdb.com/games/voice-over",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vn4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Voice over",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1894920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1894920",
+        "Linux": "setsid steam steam://rungameid/1894920",
+        "macOS": "open steam://rungameid/1894920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voice-over",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224746"
+}
