@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 229801,
+  "name": "EllrLand",
+  "source_url": "https://www.igdb.com/games/ellrland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5xm8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EllrLand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1265390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1265390",
+        "Linux": "setsid steam steam://rungameid/1265390",
+        "macOS": "open steam://rungameid/1265390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ellrland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=229801"
+}
