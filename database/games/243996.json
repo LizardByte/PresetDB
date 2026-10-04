@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243996,
+  "name": "New Heights",
+  "source_url": "https://www.igdb.com/games/new-heights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rql.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "New Heights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2179440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2179440",
+        "Linux": "setsid steam steam://rungameid/2179440",
+        "macOS": "open steam://rungameid/2179440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "new-heights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243996"
+}
