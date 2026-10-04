@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236201,
+  "name": "Neuron",
+  "source_url": "https://www.igdb.com/games/neuron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64du.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neuron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2238660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2238660",
+        "Linux": "setsid steam steam://rungameid/2238660",
+        "macOS": "open steam://rungameid/2238660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neuron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236201"
+}
