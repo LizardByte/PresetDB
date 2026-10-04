@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237104,
+  "name": "Office Mayhem",
+  "source_url": "https://www.igdb.com/games/office-mayhem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i14.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Office Mayhem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2250210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2250210",
+        "Linux": "setsid steam steam://rungameid/2250210",
+        "macOS": "open steam://rungameid/2250210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "office-mayhem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237104"
+}
