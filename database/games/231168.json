@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231168,
+  "name": "Hexrogue",
+  "source_url": "https://www.igdb.com/games/hexrogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hdx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexrogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1924940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1924940",
+        "Linux": "setsid steam steam://rungameid/1924940",
+        "macOS": "open steam://rungameid/1924940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexrogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231168"
+}
