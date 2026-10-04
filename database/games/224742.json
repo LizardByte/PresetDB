@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224742,
+  "name": "Lucky Island",
+  "source_url": "https://www.igdb.com/games/lucky-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6iz8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lucky Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2195650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2195650",
+        "Linux": "setsid steam steam://rungameid/2195650",
+        "macOS": "open steam://rungameid/2195650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lucky-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224742"
+}
