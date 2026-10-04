@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244418,
+  "name": "The Last Castle",
+  "source_url": "https://www.igdb.com/games/the-last-castle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6cxi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2316680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2316680",
+        "Linux": "setsid steam steam://rungameid/2316680",
+        "macOS": "open steam://rungameid/2316680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-castle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244418"
+}
