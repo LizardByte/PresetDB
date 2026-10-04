@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 248885,
+  "name": "Rise Again",
+  "source_url": "https://www.igdb.com/games/rise-again",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakm7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise Again",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2345170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2345170",
+        "Linux": "setsid steam steam://rungameid/2345170",
+        "macOS": "open steam://rungameid/2345170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rise-again",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=248885"
+}
