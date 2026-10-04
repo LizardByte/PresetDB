@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 246826,
+  "name": "Kreeps",
+  "source_url": "https://www.igdb.com/games/kreeps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rme.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kreeps",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2351570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2351570",
+        "Linux": "setsid steam steam://rungameid/2351570",
+        "macOS": "open steam://rungameid/2351570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kreeps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=246826"
+}
