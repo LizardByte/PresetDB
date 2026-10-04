@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230120,
+  "name": "Test Your Knowledge: Cats",
+  "source_url": "https://www.igdb.com/games/test-your-knowledge-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5y8w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Test Your Knowledge: Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "918180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/918180",
+        "Linux": "setsid steam steam://rungameid/918180",
+        "macOS": "open steam://rungameid/918180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "test-your-knowledge-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230120"
+}
