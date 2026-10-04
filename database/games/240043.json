@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240043,
+  "name": "Aniballs",
+  "source_url": "https://www.igdb.com/games/aniballs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gjl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aniballs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2328910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2328910",
+        "Linux": "setsid steam steam://rungameid/2328910",
+        "macOS": "open steam://rungameid/2328910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aniballs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240043"
+}
