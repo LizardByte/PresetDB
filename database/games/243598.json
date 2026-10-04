@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243598,
+  "name": "Abandoned World",
+  "source_url": "https://www.igdb.com/games/abandoned-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bui.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abandoned World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2300600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2300600",
+        "Linux": "setsid steam steam://rungameid/2300600",
+        "macOS": "open steam://rungameid/2300600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abandoned-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243598"
+}
