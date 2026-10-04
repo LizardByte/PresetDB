@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 233880,
+  "name": "Side Scape",
+  "source_url": "https://www.igdb.com/games/side-scape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co671w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Side Scape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2280510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2280510",
+        "Linux": "setsid steam steam://rungameid/2280510",
+        "macOS": "open steam://rungameid/2280510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "side-scape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=233880"
+}
