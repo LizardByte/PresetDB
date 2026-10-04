@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224591,
+  "name": "Me With Me",
+  "source_url": "https://www.igdb.com/games/me-with-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coauf5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Me With Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2181710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2181710",
+        "Linux": "setsid steam steam://rungameid/2181710",
+        "macOS": "open steam://rungameid/2181710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "me-with-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224591"
+}
