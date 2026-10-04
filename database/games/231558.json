@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 231558,
+  "name": "Rougle",
+  "source_url": "https://www.igdb.com/games/rougle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co60ed.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rougle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2271280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2271280",
+        "Linux": "setsid steam steam://rungameid/2271280",
+        "macOS": "open steam://rungameid/2271280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rougle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=231558"
+}
