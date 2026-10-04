@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 237740,
+  "name": "Parts Unknown",
+  "source_url": "https://www.igdb.com/games/parts-unknown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65p3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Parts Unknown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2255760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2255760",
+        "Linux": "setsid steam steam://rungameid/2255760",
+        "macOS": "open steam://rungameid/2255760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "parts-unknown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=237740"
+}
