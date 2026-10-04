@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230569,
+  "name": "Aska",
+  "source_url": "https://www.igdb.com/games/aska",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aska",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1898300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1898300",
+        "Linux": "setsid steam steam://rungameid/1898300",
+        "macOS": "open steam://rungameid/1898300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aska",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230569"
+}
