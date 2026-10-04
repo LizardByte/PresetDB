@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226046,
+  "name": "Ravyne",
+  "source_url": "https://www.igdb.com/games/ravyne",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5sd9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ravyne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2141900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2141900",
+        "Linux": "setsid steam steam://rungameid/2141900",
+        "macOS": "open steam://rungameid/2141900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ravyne",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226046"
+}
