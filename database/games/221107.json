@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221107,
+  "name": "Deadly Harvest",
+  "source_url": "https://www.igdb.com/games/deadly-harvest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gd8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadly Harvest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2158130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2158130",
+        "Linux": "setsid steam steam://rungameid/2158130",
+        "macOS": "open steam://rungameid/2158130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadly-harvest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221107"
+}
