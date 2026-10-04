@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226479,
+  "name": "Pocket Planet",
+  "source_url": "https://www.igdb.com/games/pocket-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5sw3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pocket Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2197980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2197980",
+        "Linux": "setsid steam steam://rungameid/2197980",
+        "macOS": "open steam://rungameid/2197980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pocket-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226479"
+}
