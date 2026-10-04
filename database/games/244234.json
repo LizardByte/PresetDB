@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244234,
+  "name": "Elemental Survivors",
+  "source_url": "https://www.igdb.com/games/elemental-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6z0k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elemental Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2180000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2180000",
+        "Linux": "setsid steam steam://rungameid/2180000",
+        "macOS": "open steam://rungameid/2180000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elemental-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244234"
+}
