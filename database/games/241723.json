@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 241723,
+  "name": "Zynga Poker",
+  "source_url": "https://www.igdb.com/games/zynga-poker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co69dg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zynga Poker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3635220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3635220",
+        "Linux": "setsid steam steam://rungameid/3635220",
+        "macOS": "open steam://rungameid/3635220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zynga-poker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=241723"
+}
