@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235663,
+  "name": "Not Me!",
+  "source_url": "https://www.igdb.com/games/not-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63yq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not Me!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2202150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2202150",
+        "Linux": "setsid steam steam://rungameid/2202150",
+        "macOS": "open steam://rungameid/2202150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "not-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235663"
+}
