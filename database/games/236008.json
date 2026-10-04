@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236008,
+  "name": "Digital Virus",
+  "source_url": "https://www.igdb.com/games/digital-virus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co648b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Digital Virus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2247950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2247950",
+        "Linux": "setsid steam steam://rungameid/2247950",
+        "macOS": "open steam://rungameid/2247950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "digital-virus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236008"
+}
