@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 234575,
+  "name": "Seroutte",
+  "source_url": "https://www.igdb.com/games/seroutte",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co630m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seroutte",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2265380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2265380",
+        "Linux": "setsid steam steam://rungameid/2265380",
+        "macOS": "open steam://rungameid/2265380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seroutte",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=234575"
+}
