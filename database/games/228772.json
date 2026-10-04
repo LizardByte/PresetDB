@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228772,
+  "name": "Who Knocks",
+  "source_url": "https://www.igdb.com/games/who-knocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5vu8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who Knocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2211640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2211640",
+        "Linux": "setsid steam steam://rungameid/2211640",
+        "macOS": "open steam://rungameid/2211640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "who-knocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228772"
+}
