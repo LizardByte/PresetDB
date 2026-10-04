@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236479,
+  "name": "Ratopia",
+  "source_url": "https://www.igdb.com/games/ratopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bre.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ratopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2244130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2244130",
+        "Linux": "setsid steam steam://rungameid/2244130",
+        "macOS": "open steam://rungameid/2244130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ratopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236479"
+}
