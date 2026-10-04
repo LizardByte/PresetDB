@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 230912,
+  "name": "Find the Birds",
+  "source_url": "https://www.igdb.com/games/find-the-birds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co61j1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find the Birds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2272940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2272940",
+        "Linux": "setsid steam steam://rungameid/2272940",
+        "macOS": "open steam://rungameid/2272940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-the-birds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=230912"
+}
