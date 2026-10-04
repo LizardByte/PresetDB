@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 244540,
+  "name": "Magic Garden",
+  "source_url": "https://www.igdb.com/games/magic-garden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6d0v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Garden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2348190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2348190",
+        "Linux": "setsid steam steam://rungameid/2348190",
+        "macOS": "open steam://rungameid/2348190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-garden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=244540"
+}
