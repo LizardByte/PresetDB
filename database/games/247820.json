@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247820,
+  "name": "Dreamkeeper",
+  "source_url": "https://www.igdb.com/games/dreamkeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ukb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dreamkeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2311950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2311950",
+        "Linux": "setsid steam steam://rungameid/2311950",
+        "macOS": "open steam://rungameid/2311950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dreamkeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247820"
+}
