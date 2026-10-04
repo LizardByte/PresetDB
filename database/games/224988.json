@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224988,
+  "name": "Sausage Wars",
+  "source_url": "https://www.igdb.com/games/sausage-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ibd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sausage Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2290210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2290210",
+        "Linux": "setsid steam steam://rungameid/2290210",
+        "macOS": "open steam://rungameid/2290210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sausage-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224988"
+}
