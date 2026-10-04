@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 247652,
+  "name": "EcoMahjong",
+  "source_url": "https://www.igdb.com/games/ecomahjong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EcoMahjong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2385360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2385360",
+        "Linux": "setsid steam steam://rungameid/2385360",
+        "macOS": "open steam://rungameid/2385360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ecomahjong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=247652"
+}
