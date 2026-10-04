@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 235416,
+  "name": "Swarm Horror",
+  "source_url": "https://www.igdb.com/games/swarm-horror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co63rv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swarm Horror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2260220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2260220",
+        "Linux": "setsid steam steam://rungameid/2260220",
+        "macOS": "open steam://rungameid/2260220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swarm-horror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=235416"
+}
