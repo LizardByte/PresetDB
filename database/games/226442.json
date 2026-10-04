@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 226442,
+  "name": "SnekMP",
+  "source_url": "https://www.igdb.com/games/snekmp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7idd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SnekMP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2211660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2211660",
+        "Linux": "setsid steam steam://rungameid/2211660",
+        "macOS": "open steam://rungameid/2211660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snekmp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=226442"
+}
