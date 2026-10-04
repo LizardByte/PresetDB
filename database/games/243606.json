@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243606,
+  "name": "Back to the Dark",
+  "source_url": "https://www.igdb.com/games/back-to-the-dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bup.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Back to the Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2372560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2372560",
+        "Linux": "setsid steam steam://rungameid/2372560",
+        "macOS": "open steam://rungameid/2372560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "back-to-the-dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243606"
+}
