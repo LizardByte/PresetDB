@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 221750,
+  "name": "The Thing at the Window",
+  "source_url": "https://www.igdb.com/games/the-thing-at-the-window",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5ozy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Thing at the Window",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1135560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1135560",
+        "Linux": "setsid steam steam://rungameid/1135560",
+        "macOS": "open steam://rungameid/1135560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-thing-at-the-window",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=221750"
+}
