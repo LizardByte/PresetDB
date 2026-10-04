@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236352,
+  "name": "Epic Dragon",
+  "source_url": "https://www.igdb.com/games/epic-dragon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co64i5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Dragon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2231310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2231310",
+        "Linux": "setsid steam steam://rungameid/2231310",
+        "macOS": "open steam://rungameid/2231310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epic-dragon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236352"
+}
