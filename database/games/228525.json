@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 228525,
+  "name": "Hades II",
+  "source_url": "https://www.igdb.com/games/hades-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaknx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hades II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1145350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1145350",
+        "Linux": "setsid steam steam://rungameid/1145350",
+        "macOS": "open steam://rungameid/1145350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hades-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=228525"
+}
