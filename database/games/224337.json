@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224337,
+  "name": "Dear Nostalgia",
+  "source_url": "https://www.igdb.com/games/dear-nostalgia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5rha.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dear Nostalgia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2166600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2166600",
+        "Linux": "setsid steam steam://rungameid/2166600",
+        "macOS": "open steam://rungameid/2166600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dear-nostalgia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224337"
+}
