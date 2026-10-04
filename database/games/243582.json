@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 243582,
+  "name": "Dark Dead",
+  "source_url": "https://www.igdb.com/games/dark-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6bu1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2354900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2354900",
+        "Linux": "setsid steam steam://rungameid/2354900",
+        "macOS": "open steam://rungameid/2354900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=243582"
+}
