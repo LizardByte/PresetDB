@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 236648,
+  "name": "Diced Pilot",
+  "source_url": "https://www.igdb.com/games/diced-pilot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gtm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Diced Pilot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2233370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2233370",
+        "Linux": "setsid steam steam://rungameid/2233370",
+        "macOS": "open steam://rungameid/2233370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "diced-pilot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=236648"
+}
