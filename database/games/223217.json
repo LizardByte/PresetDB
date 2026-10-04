@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223217,
+  "name": "Dwarf Star",
+  "source_url": "https://www.igdb.com/games/dwarf-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5q6h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dwarf Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2159440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2159440",
+        "Linux": "setsid steam steam://rungameid/2159440",
+        "macOS": "open steam://rungameid/2159440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dwarf-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223217"
+}
