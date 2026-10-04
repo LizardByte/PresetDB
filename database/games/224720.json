@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 224720,
+  "name": "Seven Spirits",
+  "source_url": "https://www.igdb.com/games/seven-spirits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5s3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seven Spirits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2000460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2000460",
+        "Linux": "setsid steam steam://rungameid/2000460",
+        "macOS": "open steam://rungameid/2000460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seven-spirits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=224720"
+}
