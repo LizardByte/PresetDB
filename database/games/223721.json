@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223721,
+  "name": "Nowhere Manor",
+  "source_url": "https://www.igdb.com/games/nowhere-manor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6eie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nowhere Manor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017120",
+        "Linux": "setsid steam steam://rungameid/2017120",
+        "macOS": "open steam://rungameid/2017120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nowhere-manor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223721"
+}
