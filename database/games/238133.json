@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 238133,
+  "name": "Pogo Girlfriend",
+  "source_url": "https://www.igdb.com/games/pogo-girlfriend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co65x4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pogo Girlfriend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2318880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2318880",
+        "Linux": "setsid steam steam://rungameid/2318880",
+        "macOS": "open steam://rungameid/2318880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pogo-girlfriend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=238133"
+}
