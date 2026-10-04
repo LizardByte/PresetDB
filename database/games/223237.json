@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 223237,
+  "name": "Under the Shack",
+  "source_url": "https://www.igdb.com/games/under-the-shack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5q6s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Under the Shack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2159020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2159020",
+        "Linux": "setsid steam steam://rungameid/2159020",
+        "macOS": "open steam://rungameid/2159020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "under-the-shack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=223237"
+}
