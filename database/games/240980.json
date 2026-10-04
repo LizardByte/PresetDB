@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 240980,
+  "name": "The Last Grape",
+  "source_url": "https://www.igdb.com/games/the-last-grape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co68pw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Grape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2322300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2322300",
+        "Linux": "setsid steam steam://rungameid/2322300",
+        "macOS": "open steam://rungameid/2322300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-grape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=240980"
+}
