@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 251823,
+  "name": "Final Nation",
+  "source_url": "https://www.igdb.com/games/final-nation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ku9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Nation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2395000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2395000",
+        "Linux": "setsid steam steam://rungameid/2395000",
+        "macOS": "open steam://rungameid/2395000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-nation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=251823"
+}
