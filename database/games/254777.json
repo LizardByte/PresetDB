@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 254777,
+  "name": "Main Action",
+  "source_url": "https://www.igdb.com/games/main-action",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6odc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Main Action",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2450870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2450870",
+        "Linux": "setsid steam steam://rungameid/2450870",
+        "macOS": "open steam://rungameid/2450870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "main-action",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=254777"
+}
