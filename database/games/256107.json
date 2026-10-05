@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256107,
+  "name": "CometSoldier",
+  "source_url": "https://www.igdb.com/games/cometsoldier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6q8s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CometSoldier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2495820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2495820",
+        "Linux": "setsid steam steam://rungameid/2495820",
+        "macOS": "open steam://rungameid/2495820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cometsoldier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256107"
+}
