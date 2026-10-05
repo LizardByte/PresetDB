@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265801,
+  "name": "Unparalleled",
+  "source_url": "https://www.igdb.com/games/unparalleled",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71v0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unparalleled",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2579600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2579600",
+        "Linux": "setsid steam steam://rungameid/2579600",
+        "macOS": "open steam://rungameid/2579600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unparalleled",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265801"
+}
