@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260649,
+  "name": "SoulQuest",
+  "source_url": "https://www.igdb.com/games/soulquest--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co817t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SoulQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2512450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2512450",
+        "Linux": "setsid steam steam://rungameid/2512450",
+        "macOS": "open steam://rungameid/2512450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulquest--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260649"
+}
