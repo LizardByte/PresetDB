@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258652,
+  "name": "Silicon Zephyr",
+  "source_url": "https://www.igdb.com/games/silicon-zephyr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8s5a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silicon Zephyr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2222320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2222320",
+        "Linux": "setsid steam steam://rungameid/2222320",
+        "macOS": "open steam://rungameid/2222320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silicon-zephyr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258652"
+}
