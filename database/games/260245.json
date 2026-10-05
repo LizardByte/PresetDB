@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260245,
+  "name": "Rune Golf",
+  "source_url": "https://www.igdb.com/games/rune-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6w9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rune Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2531040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2531040",
+        "Linux": "setsid steam steam://rungameid/2531040",
+        "macOS": "open steam://rungameid/2531040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rune-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260245"
+}
