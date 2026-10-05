@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264567,
+  "name": "First Up",
+  "source_url": "https://www.igdb.com/games/first-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co70vj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "First Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2584280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2584280",
+        "Linux": "setsid steam steam://rungameid/2584280",
+        "macOS": "open steam://rungameid/2584280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "first-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264567"
+}
