@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264914,
+  "name": "Old School",
+  "source_url": "https://www.igdb.com/games/old-school--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7769.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Old School",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2529120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2529120",
+        "Linux": "setsid steam steam://rungameid/2529120",
+        "macOS": "open steam://rungameid/2529120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "old-school--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264914"
+}
