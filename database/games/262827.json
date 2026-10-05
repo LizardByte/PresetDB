@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 262827,
+  "name": "Lindwyrm",
+  "source_url": "https://www.igdb.com/games/lindwyrm--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ufo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lindwyrm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2280020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2280020",
+        "Linux": "setsid steam steam://rungameid/2280020",
+        "macOS": "open steam://rungameid/2280020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lindwyrm--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=262827"
+}
