@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266101,
+  "name": "Brick on the Head",
+  "source_url": "https://www.igdb.com/games/brick-on-the-head",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co72bx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brick on the Head",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2592000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2592000",
+        "Linux": "setsid steam steam://rungameid/2592000",
+        "macOS": "open steam://rungameid/2592000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brick-on-the-head",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266101"
+}
