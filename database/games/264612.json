@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264612,
+  "name": "Sun-Rise.exe",
+  "source_url": "https://www.igdb.com/games/sun-rise-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co788w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sun-Rise.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2564940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2564940",
+        "Linux": "setsid steam steam://rungameid/2564940",
+        "macOS": "open steam://rungameid/2564940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sun-rise-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264612"
+}
