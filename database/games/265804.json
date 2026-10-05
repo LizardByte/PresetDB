@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265804,
+  "name": "Chroma Wars",
+  "source_url": "https://www.igdb.com/games/chroma-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e34.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chroma Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2500470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2500470",
+        "Linux": "setsid steam steam://rungameid/2500470",
+        "macOS": "open steam://rungameid/2500470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chroma-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265804"
+}
