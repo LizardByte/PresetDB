@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260339,
+  "name": "Servonauts",
+  "source_url": "https://www.igdb.com/games/servonauts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99l8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Servonauts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2514400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2514400",
+        "Linux": "setsid steam steam://rungameid/2514400",
+        "macOS": "open steam://rungameid/2514400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "servonauts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260339"
+}
