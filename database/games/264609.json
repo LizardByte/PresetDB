@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264609,
+  "name": "The Hangman",
+  "source_url": "https://www.igdb.com/games/the-hangman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co70wn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hangman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2558500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2558500",
+        "Linux": "setsid steam steam://rungameid/2558500",
+        "macOS": "open steam://rungameid/2558500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hangman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264609"
+}
