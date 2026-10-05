@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 259043,
+  "name": "Bleak Winter",
+  "source_url": "https://www.igdb.com/games/bleak-winter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6uql.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bleak Winter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2461880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2461880",
+        "Linux": "setsid steam steam://rungameid/2461880",
+        "macOS": "open steam://rungameid/2461880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bleak-winter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=259043"
+}
