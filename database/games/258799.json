@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258799,
+  "name": "Magic Inn",
+  "source_url": "https://www.igdb.com/games/magic-inn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ygu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Inn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2468630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2468630",
+        "Linux": "setsid steam steam://rungameid/2468630",
+        "macOS": "open steam://rungameid/2468630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-inn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258799"
+}
