@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258498,
+  "name": "OdiChat",
+  "source_url": "https://www.igdb.com/games/odichat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8u1u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OdiChat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2474280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2474280",
+        "Linux": "setsid steam steam://rungameid/2474280",
+        "macOS": "open steam://rungameid/2474280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "odichat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258498"
+}
