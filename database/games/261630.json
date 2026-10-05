@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 261630,
+  "name": "Spy Cats",
+  "source_url": "https://www.igdb.com/games/spy-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6xuq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spy Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2484980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2484980",
+        "Linux": "setsid steam steam://rungameid/2484980",
+        "macOS": "open steam://rungameid/2484980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spy-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=261630"
+}
