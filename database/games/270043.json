@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270043,
+  "name": "Friend Ship",
+  "source_url": "https://www.igdb.com/games/friend-ship",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctq6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Friend Ship",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2605680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2605680",
+        "Linux": "setsid steam steam://rungameid/2605680",
+        "macOS": "open steam://rungameid/2605680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "friend-ship",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270043"
+}
