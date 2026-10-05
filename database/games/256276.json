@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256276,
+  "name": "Lofi Ball",
+  "source_url": "https://www.igdb.com/games/lofi-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9oma.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lofi Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2009850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2009850",
+        "Linux": "setsid steam steam://rungameid/2009850",
+        "macOS": "open steam://rungameid/2009850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lofi-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256276"
+}
