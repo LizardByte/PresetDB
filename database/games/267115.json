@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267115,
+  "name": "Curator",
+  "source_url": "https://www.igdb.com/games/curator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73fz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Curator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2561390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2561390",
+        "Linux": "setsid steam steam://rungameid/2561390",
+        "macOS": "open steam://rungameid/2561390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "curator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267115"
+}
