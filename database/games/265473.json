@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265473,
+  "name": "Mononeko",
+  "source_url": "https://www.igdb.com/games/mononeko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rhy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mononeko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2458120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2458120",
+        "Linux": "setsid steam steam://rungameid/2458120",
+        "macOS": "open steam://rungameid/2458120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mononeko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265473"
+}
