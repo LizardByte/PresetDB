@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270520,
+  "name": "Mutant Frog",
+  "source_url": "https://www.igdb.com/games/mutant-frog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76zx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mutant Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2623690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2623690",
+        "Linux": "setsid steam steam://rungameid/2623690",
+        "macOS": "open steam://rungameid/2623690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mutant-frog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270520"
+}
