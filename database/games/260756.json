@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260756,
+  "name": "Only Jump!",
+  "source_url": "https://www.igdb.com/games/only-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6wrb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Only Jump!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2539600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2539600",
+        "Linux": "setsid steam steam://rungameid/2539600",
+        "macOS": "open steam://rungameid/2539600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "only-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260756"
+}
