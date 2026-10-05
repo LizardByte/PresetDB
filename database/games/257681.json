@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257681,
+  "name": "WestHalla",
+  "source_url": "https://www.igdb.com/games/westhalla",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rnx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WestHalla",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2468440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2468440",
+        "Linux": "setsid steam steam://rungameid/2468440",
+        "macOS": "open steam://rungameid/2468440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "westhalla",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257681"
+}
