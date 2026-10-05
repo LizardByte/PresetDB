@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249388,
+  "name": "Try Again",
+  "source_url": "https://www.igdb.com/games/try-again--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lm1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Try Again",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2448340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2448340",
+        "Linux": "setsid steam steam://rungameid/2448340",
+        "macOS": "open steam://rungameid/2448340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "try-again--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249388"
+}
