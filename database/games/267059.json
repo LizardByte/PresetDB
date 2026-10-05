@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267059,
+  "name": "Telescape",
+  "source_url": "https://www.igdb.com/games/telescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73em.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Telescape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2586900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2586900",
+        "Linux": "setsid steam steam://rungameid/2586900",
+        "macOS": "open steam://rungameid/2586900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "telescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267059"
+}
