@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257002,
+  "name": "Bambie",
+  "source_url": "https://www.igdb.com/games/bambie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97uv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bambie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2484790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2484790",
+        "Linux": "setsid steam steam://rungameid/2484790",
+        "macOS": "open steam://rungameid/2484790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bambie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257002"
+}
