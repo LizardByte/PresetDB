@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270155,
+  "name": "Gateworlds",
+  "source_url": "https://www.igdb.com/games/gateworlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjfe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gateworlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2544730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2544730",
+        "Linux": "setsid steam steam://rungameid/2544730",
+        "macOS": "open steam://rungameid/2544730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gateworlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270155"
+}
