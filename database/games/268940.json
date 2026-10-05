@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 268940,
+  "name": "Unavailed",
+  "source_url": "https://www.igdb.com/games/unavailed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co75bx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unavailed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2601190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2601190",
+        "Linux": "setsid steam steam://rungameid/2601190",
+        "macOS": "open steam://rungameid/2601190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unavailed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=268940"
+}
