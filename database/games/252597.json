@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252597,
+  "name": "Video Game Trivia",
+  "source_url": "https://www.igdb.com/games/video-game-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Video Game Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182910",
+        "Linux": "setsid steam steam://rungameid/2182910",
+        "macOS": "open steam://rungameid/2182910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "video-game-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252597"
+}
