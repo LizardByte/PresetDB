@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270552,
+  "name": "John Novak",
+  "source_url": "https://www.igdb.com/games/john-novak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co770v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "John Novak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2626710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2626710",
+        "Linux": "setsid steam steam://rungameid/2626710",
+        "macOS": "open steam://rungameid/2626710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "john-novak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270552"
+}
