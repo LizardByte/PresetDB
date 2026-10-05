@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 261085,
+  "name": "Quake II",
+  "source_url": "https://www.igdb.com/games/quake-ii--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bgb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quake II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2320",
+        "Linux": "setsid steam steam://rungameid/2320",
+        "macOS": "open steam://rungameid/2320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quake-ii--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=261085"
+}
