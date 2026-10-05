@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265720,
+  "name": "Red Tie Runner",
+  "source_url": "https://www.igdb.com/games/red-tie-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i9m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Tie Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "391150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/391150",
+        "Linux": "setsid steam steam://rungameid/391150",
+        "macOS": "open steam://rungameid/391150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-tie-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265720"
+}
