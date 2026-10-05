@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252270,
+  "name": "RockTop",
+  "source_url": "https://www.igdb.com/games/rocktop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rn2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RockTop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "996690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/996690",
+        "Linux": "setsid steam steam://rungameid/996690",
+        "macOS": "open steam://rungameid/996690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocktop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252270"
+}
