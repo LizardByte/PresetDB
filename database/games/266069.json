@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266069,
+  "name": "Ghost Tag",
+  "source_url": "https://www.igdb.com/games/ghost-tag",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co72b2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Tag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2078650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2078650",
+        "Linux": "setsid steam steam://rungameid/2078650",
+        "macOS": "open steam://rungameid/2078650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-tag",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266069"
+}
