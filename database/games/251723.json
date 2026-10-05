@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 251723,
+  "name": "Emberwood",
+  "source_url": "https://www.igdb.com/games/emberwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6krt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emberwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2380850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2380850",
+        "Linux": "setsid steam steam://rungameid/2380850",
+        "macOS": "open steam://rungameid/2380850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emberwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=251723"
+}
