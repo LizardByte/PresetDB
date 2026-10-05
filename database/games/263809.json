@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263809,
+  "name": "Cube Jump",
+  "source_url": "https://www.igdb.com/games/cube-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co700x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2492010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2492010",
+        "Linux": "setsid steam steam://rungameid/2492010",
+        "macOS": "open steam://rungameid/2492010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263809"
+}
