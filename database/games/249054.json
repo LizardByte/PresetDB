@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249054,
+  "name": "Banana Yetti",
+  "source_url": "https://www.igdb.com/games/banana-yetti",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6gq2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banana Yetti",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2260560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2260560",
+        "Linux": "setsid steam steam://rungameid/2260560",
+        "macOS": "open steam://rungameid/2260560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banana-yetti",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249054"
+}
