@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257929,
+  "name": "Pine Harbor",
+  "source_url": "https://www.igdb.com/games/pine-harbor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71qj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pine Harbor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2448030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2448030",
+        "Linux": "setsid steam steam://rungameid/2448030",
+        "macOS": "open steam://rungameid/2448030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pine-harbor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257929"
+}
