@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258392,
+  "name": "Quack my Duck",
+  "source_url": "https://www.igdb.com/games/quack-my-duck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bws.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quack my Duck",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2151450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2151450",
+        "Linux": "setsid steam steam://rungameid/2151450",
+        "macOS": "open steam://rungameid/2151450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quack-my-duck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258392"
+}
