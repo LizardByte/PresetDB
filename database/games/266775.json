@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266775,
+  "name": "Lost Princess",
+  "source_url": "https://www.igdb.com/games/lost-princess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakzc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Princess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2600620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2600620",
+        "Linux": "setsid steam steam://rungameid/2600620",
+        "macOS": "open steam://rungameid/2600620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-princess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266775"
+}
