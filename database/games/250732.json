@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250732,
+  "name": "SpaceWorm",
+  "source_url": "https://www.igdb.com/games/spaceworm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jfn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpaceWorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2367320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2367320",
+        "Linux": "setsid steam steam://rungameid/2367320",
+        "macOS": "open steam://rungameid/2367320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spaceworm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250732"
+}
