@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263284,
+  "name": "Big Job",
+  "source_url": "https://www.igdb.com/games/big-job--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Big Job",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2456870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2456870",
+        "Linux": "setsid steam steam://rungameid/2456870",
+        "macOS": "open steam://rungameid/2456870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "big-job--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263284"
+}
