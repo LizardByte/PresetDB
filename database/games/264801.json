@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264801,
+  "name": "Dashbounce",
+  "source_url": "https://www.igdb.com/games/dashbounce",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co72zk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dashbounce",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2573640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2573640",
+        "Linux": "setsid steam steam://rungameid/2573640",
+        "macOS": "open steam://rungameid/2573640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dashbounce",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264801"
+}
