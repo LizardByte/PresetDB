@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260208,
+  "name": "Little Eden",
+  "source_url": "https://www.igdb.com/games/little-eden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6w8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Eden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2524720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2524720",
+        "Linux": "setsid steam steam://rungameid/2524720",
+        "macOS": "open steam://rungameid/2524720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-eden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260208"
+}
