@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 261130,
+  "name": "Tilted",
+  "source_url": "https://www.igdb.com/games/tilted",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6x83.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tilted",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2541320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2541320",
+        "Linux": "setsid steam steam://rungameid/2541320",
+        "macOS": "open steam://rungameid/2541320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tilted",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=261130"
+}
