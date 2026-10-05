@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 251010,
+  "name": "A Crazy Guy",
+  "source_url": "https://www.igdb.com/games/a-crazy-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6jpc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Crazy Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2414240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2414240",
+        "Linux": "setsid steam steam://rungameid/2414240",
+        "macOS": "open steam://rungameid/2414240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-crazy-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=251010"
+}
