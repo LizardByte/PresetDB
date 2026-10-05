@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 262492,
+  "name": "Clannad",
+  "source_url": "https://www.igdb.com/games/clannad--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6yvd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clannad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "324160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/324160",
+        "Linux": "setsid steam steam://rungameid/324160",
+        "macOS": "open steam://rungameid/324160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clannad--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=262492"
+}
