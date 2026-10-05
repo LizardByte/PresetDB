@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270072,
+  "name": "Siege Showdown",
+  "source_url": "https://www.igdb.com/games/siege-showdown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76kd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Siege Showdown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2623700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2623700",
+        "Linux": "setsid steam steam://rungameid/2623700",
+        "macOS": "open steam://rungameid/2623700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "siege-showdown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270072"
+}
