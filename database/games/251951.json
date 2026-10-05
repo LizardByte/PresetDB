@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 251951,
+  "name": "Swapshot",
+  "source_url": "https://www.igdb.com/games/swapshot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ifr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swapshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2442040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2442040",
+        "Linux": "setsid steam steam://rungameid/2442040",
+        "macOS": "open steam://rungameid/2442040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swapshot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=251951"
+}
