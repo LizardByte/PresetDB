@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266426,
+  "name": "Dark Odyssey",
+  "source_url": "https://www.igdb.com/games/dark-odyssey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co771f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Odyssey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2581200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2581200",
+        "Linux": "setsid steam steam://rungameid/2581200",
+        "macOS": "open steam://rungameid/2581200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-odyssey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266426"
+}
