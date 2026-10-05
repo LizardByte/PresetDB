@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 269044,
+  "name": "Aurora Nova",
+  "source_url": "https://www.igdb.com/games/aurora-nova",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co75ef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aurora Nova",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2582460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2582460",
+        "Linux": "setsid steam steam://rungameid/2582460",
+        "macOS": "open steam://rungameid/2582460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aurora-nova",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=269044"
+}
