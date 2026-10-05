@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256693,
+  "name": "GoldenLand",
+  "source_url": "https://www.igdb.com/games/goldenland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98v7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GoldenLand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2381660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2381660",
+        "Linux": "setsid steam steam://rungameid/2381660",
+        "macOS": "open steam://rungameid/2381660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goldenland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256693"
+}
