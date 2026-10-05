@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 262110,
+  "name": "Cloud Jump",
+  "source_url": "https://www.igdb.com/games/cloud-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6yda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloud Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2536330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2536330",
+        "Linux": "setsid steam steam://rungameid/2536330",
+        "macOS": "open steam://rungameid/2536330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cloud-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=262110"
+}
