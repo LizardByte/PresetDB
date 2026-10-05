@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258340,
+  "name": "Guilded",
+  "source_url": "https://www.igdb.com/games/guilded--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6tyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guilded",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2050440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2050440",
+        "Linux": "setsid steam steam://rungameid/2050440",
+        "macOS": "open steam://rungameid/2050440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guilded--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258340"
+}
