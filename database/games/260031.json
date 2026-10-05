@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260031,
+  "name": "M.E.R.C. Genesis",
+  "source_url": "https://www.igdb.com/games/merc-genesis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6w0i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "M.E.R.C. Genesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2538570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2538570",
+        "Linux": "setsid steam steam://rungameid/2538570",
+        "macOS": "open steam://rungameid/2538570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "merc-genesis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260031"
+}
