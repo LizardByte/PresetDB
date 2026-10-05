@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266305,
+  "name": "Lofi Kitten",
+  "source_url": "https://www.igdb.com/games/lofi-kitten",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7kjp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lofi Kitten",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2564700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2564700",
+        "Linux": "setsid steam steam://rungameid/2564700",
+        "macOS": "open steam://rungameid/2564700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lofi-kitten",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266305"
+}
