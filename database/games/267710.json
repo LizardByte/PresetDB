@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267710,
+  "name": "Mow That Lawn",
+  "source_url": "https://www.igdb.com/games/mow-that-lawn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co743m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mow That Lawn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2549750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2549750",
+        "Linux": "setsid steam steam://rungameid/2549750",
+        "macOS": "open steam://rungameid/2549750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mow-that-lawn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267710"
+}
