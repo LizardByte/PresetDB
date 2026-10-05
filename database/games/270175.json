@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270175,
+  "name": "Raster",
+  "source_url": "https://www.igdb.com/games/raster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76nx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2586970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2586970",
+        "Linux": "setsid steam steam://rungameid/2586970",
+        "macOS": "open steam://rungameid/2586970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270175"
+}
