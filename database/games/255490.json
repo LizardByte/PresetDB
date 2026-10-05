@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 255490,
+  "name": "Sands of Solaris",
+  "source_url": "https://www.igdb.com/games/sands-of-solaris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98bf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sands of Solaris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2451200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2451200",
+        "Linux": "setsid steam steam://rungameid/2451200",
+        "macOS": "open steam://rungameid/2451200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sands-of-solaris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=255490"
+}
