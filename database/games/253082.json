@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253082,
+  "name": "Spider",
+  "source_url": "https://www.igdb.com/games/spider--5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ie6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2433830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2433830",
+        "Linux": "setsid steam steam://rungameid/2433830",
+        "macOS": "open steam://rungameid/2433830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spider--5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253082"
+}
