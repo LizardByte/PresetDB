@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 268676,
+  "name": "Continuum",
+  "source_url": "https://www.igdb.com/games/continuum--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8knr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Continuum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2530450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2530450",
+        "Linux": "setsid steam steam://rungameid/2530450",
+        "macOS": "open steam://rungameid/2530450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "continuum--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=268676"
+}
