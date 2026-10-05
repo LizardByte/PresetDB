@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252260,
+  "name": "The Silicon Shadow",
+  "source_url": "https://www.igdb.com/games/the-silicon-shadow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lb5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Silicon Shadow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2446500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2446500",
+        "Linux": "setsid steam steam://rungameid/2446500",
+        "macOS": "open steam://rungameid/2446500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-silicon-shadow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252260"
+}
