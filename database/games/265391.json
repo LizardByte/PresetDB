@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265391,
+  "name": "Broken Life",
+  "source_url": "https://www.igdb.com/games/broken-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9s3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Broken Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2551300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2551300",
+        "Linux": "setsid steam steam://rungameid/2551300",
+        "macOS": "open steam://rungameid/2551300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "broken-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265391"
+}
