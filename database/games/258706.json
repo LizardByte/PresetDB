@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258706,
+  "name": "One S'More",
+  "source_url": "https://www.igdb.com/games/one-smore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7i1j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One S'More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2452930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2452930",
+        "Linux": "setsid steam steam://rungameid/2452930",
+        "macOS": "open steam://rungameid/2452930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-smore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258706"
+}
