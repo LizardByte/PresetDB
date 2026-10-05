@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270170,
+  "name": "Lizard Slayer",
+  "source_url": "https://www.igdb.com/games/lizard-slayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f83.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lizard Slayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2626600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2626600",
+        "Linux": "setsid steam steam://rungameid/2626600",
+        "macOS": "open steam://rungameid/2626600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lizard-slayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270170"
+}
