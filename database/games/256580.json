@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256580,
+  "name": "Hexaduel",
+  "source_url": "https://www.igdb.com/games/hexaduel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99ad.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexaduel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2441580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2441580",
+        "Linux": "setsid steam steam://rungameid/2441580",
+        "macOS": "open steam://rungameid/2441580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexaduel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256580"
+}
