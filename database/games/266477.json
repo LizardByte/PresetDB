@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266477,
+  "name": "ReversiBot",
+  "source_url": "https://www.igdb.com/games/reversibot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co72se.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ReversiBot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2578810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2578810",
+        "Linux": "setsid steam steam://rungameid/2578810",
+        "macOS": "open steam://rungameid/2578810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reversibot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266477"
+}
