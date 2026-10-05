@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264564,
+  "name": "Roids",
+  "source_url": "https://www.igdb.com/games/roids",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co70vh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roids",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2248000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2248000",
+        "Linux": "setsid steam steam://rungameid/2248000",
+        "macOS": "open steam://rungameid/2248000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roids",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264564"
+}
