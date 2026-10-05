@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263744,
+  "name": "Shut Up, Rabbit!",
+  "source_url": "https://www.igdb.com/games/shut-up-rabbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6zz3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shut Up, Rabbit!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2566160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2566160",
+        "Linux": "setsid steam steam://rungameid/2566160",
+        "macOS": "open steam://rungameid/2566160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shut-up-rabbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263744"
+}
