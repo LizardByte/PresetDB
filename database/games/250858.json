@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250858,
+  "name": "RuneLight",
+  "source_url": "https://www.igdb.com/games/runelight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co940a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RuneLight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2393910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2393910",
+        "Linux": "setsid steam steam://rungameid/2393910",
+        "macOS": "open steam://rungameid/2393910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runelight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250858"
+}
