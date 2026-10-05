@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253525,
+  "name": "TD Royale",
+  "source_url": "https://www.igdb.com/games/td-royale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ige.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TD Royale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1991650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1991650",
+        "Linux": "setsid steam steam://rungameid/1991650",
+        "macOS": "open steam://rungameid/1991650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "td-royale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253525"
+}
