@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265765,
+  "name": "ScooMart",
+  "source_url": "https://www.igdb.com/games/scoomart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71u2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ScooMart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2590740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2590740",
+        "Linux": "setsid steam steam://rungameid/2590740",
+        "macOS": "open steam://rungameid/2590740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scoomart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265765"
+}
