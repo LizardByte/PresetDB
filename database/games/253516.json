@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253516,
+  "name": "Project Hunt",
+  "source_url": "https://www.igdb.com/games/project-hunt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs3i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Hunt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2451010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2451010",
+        "Linux": "setsid steam steam://rungameid/2451010",
+        "macOS": "open steam://rungameid/2451010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-hunt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253516"
+}
