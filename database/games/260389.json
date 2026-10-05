@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260389,
+  "name": "Ardem",
+  "source_url": "https://www.igdb.com/games/ardem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ardem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2179480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2179480",
+        "Linux": "setsid steam steam://rungameid/2179480",
+        "macOS": "open steam://rungameid/2179480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ardem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260389"
+}
