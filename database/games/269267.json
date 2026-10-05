@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 269267,
+  "name": "Dunchess",
+  "source_url": "https://www.igdb.com/games/dunchess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co75mv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dunchess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2614910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2614910",
+        "Linux": "setsid steam steam://rungameid/2614910",
+        "macOS": "open steam://rungameid/2614910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dunchess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=269267"
+}
