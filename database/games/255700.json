@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 255700,
+  "name": "Endless Suburbia",
+  "source_url": "https://www.igdb.com/games/endless-suburbia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bg5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Suburbia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2476070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2476070",
+        "Linux": "setsid steam steam://rungameid/2476070",
+        "macOS": "open steam://rungameid/2476070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-suburbia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=255700"
+}
