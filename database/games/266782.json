@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266782,
+  "name": "W.A.N.D. Project",
+  "source_url": "https://www.igdb.com/games/wand-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92f7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "W.A.N.D. Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2581750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2581750",
+        "Linux": "setsid steam steam://rungameid/2581750",
+        "macOS": "open steam://rungameid/2581750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wand-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266782"
+}
