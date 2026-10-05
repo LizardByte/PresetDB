@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249207,
+  "name": "Pandora",
+  "source_url": "https://www.igdb.com/games/pandora--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6zwo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pandora",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2362540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2362540",
+        "Linux": "setsid steam steam://rungameid/2362540",
+        "macOS": "open steam://rungameid/2362540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pandora--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249207"
+}
