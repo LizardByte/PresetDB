@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267648,
+  "name": "Tales of the Shire",
+  "source_url": "https://www.igdb.com/games/tales-of-the-shire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84g9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of the Shire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2016460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2016460",
+        "Linux": "setsid steam steam://rungameid/2016460",
+        "macOS": "open steam://rungameid/2016460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tales-of-the-shire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267648"
+}
