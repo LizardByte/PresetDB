@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252235,
+  "name": "BlueSuburbia",
+  "source_url": "https://www.igdb.com/games/bluesuburbia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6r7j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlueSuburbia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2431510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2431510",
+        "Linux": "setsid steam steam://rungameid/2431510",
+        "macOS": "open steam://rungameid/2431510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bluesuburbia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252235"
+}
