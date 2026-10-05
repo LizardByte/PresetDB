@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263822,
+  "name": "All Alone",
+  "source_url": "https://www.igdb.com/games/all-alone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co701a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All Alone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2557720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2557720",
+        "Linux": "setsid steam steam://rungameid/2557720",
+        "macOS": "open steam://rungameid/2557720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "all-alone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263822"
+}
