@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253374,
+  "name": "Agents of SomeCompany",
+  "source_url": "https://www.igdb.com/games/agents-of-somecompany",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co863v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agents of SomeCompany",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2357740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2357740",
+        "Linux": "setsid steam steam://rungameid/2357740",
+        "macOS": "open steam://rungameid/2357740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "agents-of-somecompany",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253374"
+}
