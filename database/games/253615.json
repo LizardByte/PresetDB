@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253615,
+  "name": "Sakura in Paris",
+  "source_url": "https://www.igdb.com/games/sakura-in-paris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ebt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sakura in Paris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2460000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2460000",
+        "Linux": "setsid steam steam://rungameid/2460000",
+        "macOS": "open steam://rungameid/2460000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sakura-in-paris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253615"
+}
