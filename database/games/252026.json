@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252026,
+  "name": "Eventide",
+  "source_url": "https://www.igdb.com/games/eventide",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7gvs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eventide",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2435930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2435930",
+        "Linux": "setsid steam steam://rungameid/2435930",
+        "macOS": "open steam://rungameid/2435930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eventide",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252026"
+}
