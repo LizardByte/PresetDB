@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250984,
+  "name": "Goosey Guess",
+  "source_url": "https://www.igdb.com/games/goosey-guess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6rdd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goosey Guess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2258090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2258090",
+        "Linux": "setsid steam steam://rungameid/2258090",
+        "macOS": "open steam://rungameid/2258090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goosey-guess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250984"
+}
