@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249013,
+  "name": "The Precinct",
+  "source_url": "https://www.igdb.com/games/the-precinct",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9la1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Precinct",
+      "os": null,
+      "method": "steam",
+      "launch_id": "490110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/490110",
+        "Linux": "setsid steam steam://rungameid/490110",
+        "macOS": "open steam://rungameid/490110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-precinct",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249013"
+}
