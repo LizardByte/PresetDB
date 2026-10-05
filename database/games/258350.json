@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258350,
+  "name": "Moen",
+  "source_url": "https://www.igdb.com/games/moen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co77bv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2478450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2478450",
+        "Linux": "setsid steam steam://rungameid/2478450",
+        "macOS": "open steam://rungameid/2478450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258350"
+}
