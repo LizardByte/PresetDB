@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265380,
+  "name": "Descentia",
+  "source_url": "https://www.igdb.com/games/descentia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71k2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Descentia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2154750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2154750",
+        "Linux": "setsid steam steam://rungameid/2154750",
+        "macOS": "open steam://rungameid/2154750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "descentia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265380"
+}
