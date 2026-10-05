@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 269243,
+  "name": "Hans",
+  "source_url": "https://www.igdb.com/games/hans",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ct4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hans",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2616420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2616420",
+        "Linux": "setsid steam steam://rungameid/2616420",
+        "macOS": "open steam://rungameid/2616420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hans",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=269243"
+}
