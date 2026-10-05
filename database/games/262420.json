@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 262420,
+  "name": "Star of Providence",
+  "source_url": "https://www.igdb.com/games/star-of-providence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6yrz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star of Providence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "603960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/603960",
+        "Linux": "setsid steam steam://rungameid/603960",
+        "macOS": "open steam://rungameid/603960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-of-providence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=262420"
+}
