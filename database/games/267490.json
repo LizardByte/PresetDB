@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267490,
+  "name": "Bob's Mansion",
+  "source_url": "https://www.igdb.com/games/bobs-mansion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73tz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bob's Mansion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2602120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2602120",
+        "Linux": "setsid steam steam://rungameid/2602120",
+        "macOS": "open steam://rungameid/2602120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bobs-mansion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267490"
+}
