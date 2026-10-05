@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250813,
+  "name": "Palladium",
+  "source_url": "https://www.igdb.com/games/palladium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ji2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Palladium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2421690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2421690",
+        "Linux": "setsid steam steam://rungameid/2421690",
+        "macOS": "open steam://rungameid/2421690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "palladium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250813"
+}
