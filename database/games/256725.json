@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256725,
+  "name": "Stoneman's Adventure",
+  "source_url": "https://www.igdb.com/games/stonemans-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fqu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stoneman's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2434860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2434860",
+        "Linux": "setsid steam steam://rungameid/2434860",
+        "macOS": "open steam://rungameid/2434860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stonemans-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256725"
+}
