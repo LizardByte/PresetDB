@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 255694,
+  "name": "King's Son",
+  "source_url": "https://www.igdb.com/games/kings-son",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98bb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King's Son",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2492370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2492370",
+        "Linux": "setsid steam steam://rungameid/2492370",
+        "macOS": "open steam://rungameid/2492370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kings-son",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=255694"
+}
