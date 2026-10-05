@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250540,
+  "name": "Gravity",
+  "source_url": "https://www.igdb.com/games/gravity--5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gravity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2431640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2431640",
+        "Linux": "setsid steam steam://rungameid/2431640",
+        "macOS": "open steam://rungameid/2431640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gravity--5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250540"
+}
