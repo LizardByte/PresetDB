@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267280,
+  "name": "Above the Hill",
+  "source_url": "https://www.igdb.com/games/above-the-hill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73lw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Above the Hill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2602790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2602790",
+        "Linux": "setsid steam steam://rungameid/2602790",
+        "macOS": "open steam://rungameid/2602790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "above-the-hill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267280"
+}
