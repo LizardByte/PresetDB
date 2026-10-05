@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265512,
+  "name": "One More Hound!",
+  "source_url": "https://www.igdb.com/games/one-more-hound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71na.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One More Hound!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2546750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2546750",
+        "Linux": "setsid steam steam://rungameid/2546750",
+        "macOS": "open steam://rungameid/2546750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-more-hound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265512"
+}
