@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257749,
+  "name": "1 Million Zombies",
+  "source_url": "https://www.igdb.com/games/1-million-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ghi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1 Million Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2331220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2331220",
+        "Linux": "setsid steam steam://rungameid/2331220",
+        "macOS": "open steam://rungameid/2331220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "1-million-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257749"
+}
