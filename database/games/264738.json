@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264738,
+  "name": "Just Click the Button",
+  "source_url": "https://www.igdb.com/games/just-click-the-button",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7oyt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just Click the Button",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2577760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2577760",
+        "Linux": "setsid steam steam://rungameid/2577760",
+        "macOS": "open steam://rungameid/2577760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-click-the-button",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264738"
+}
