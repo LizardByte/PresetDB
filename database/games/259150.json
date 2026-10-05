@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 259150,
+  "name": "The Castle",
+  "source_url": "https://www.igdb.com/games/the-castle--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9by3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2467030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2467030",
+        "Linux": "setsid steam steam://rungameid/2467030",
+        "macOS": "open steam://rungameid/2467030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-castle--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=259150"
+}
