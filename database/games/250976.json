@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250976,
+  "name": "The Warrior",
+  "source_url": "https://www.igdb.com/games/the-warrior--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82is.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Warrior",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2411250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2411250",
+        "Linux": "setsid steam steam://rungameid/2411250",
+        "macOS": "open steam://rungameid/2411250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-warrior--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250976"
+}
