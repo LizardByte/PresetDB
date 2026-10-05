@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258079,
+  "name": "Cats Game",
+  "source_url": "https://www.igdb.com/games/cats-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dvm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cats Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2454240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2454240",
+        "Linux": "setsid steam steam://rungameid/2454240",
+        "macOS": "open steam://rungameid/2454240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cats-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258079"
+}
