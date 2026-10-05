@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270084,
+  "name": "Dark Mirror",
+  "source_url": "https://www.igdb.com/games/dark-mirror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76kp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Mirror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2614460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2614460",
+        "Linux": "setsid steam steam://rungameid/2614460",
+        "macOS": "open steam://rungameid/2614460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-mirror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270084"
+}
