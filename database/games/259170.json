@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 259170,
+  "name": "Taboo Trial",
+  "source_url": "https://www.igdb.com/games/taboo-trial",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6xx0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Taboo Trial",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2455060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2455060",
+        "Linux": "setsid steam steam://rungameid/2455060",
+        "macOS": "open steam://rungameid/2455060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "taboo-trial",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=259170"
+}
