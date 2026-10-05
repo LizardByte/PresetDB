@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266520,
+  "name": "Aimee's Cafe",
+  "source_url": "https://www.igdb.com/games/aimees-cafe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co72uf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aimee's Cafe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2599960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2599960",
+        "Linux": "setsid steam steam://rungameid/2599960",
+        "macOS": "open steam://rungameid/2599960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aimees-cafe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266520"
+}
