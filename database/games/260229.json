@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260229,
+  "name": "Super Space Arcade",
+  "source_url": "https://www.igdb.com/games/super-space-arcade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Space Arcade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1442050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1442050",
+        "Linux": "setsid steam steam://rungameid/1442050",
+        "macOS": "open steam://rungameid/1442050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-space-arcade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260229"
+}
