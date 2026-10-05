@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265360,
+  "name": "Envoy",
+  "source_url": "https://www.igdb.com/games/envoy--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71jk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Envoy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2561200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2561200",
+        "Linux": "setsid steam steam://rungameid/2561200",
+        "macOS": "open steam://rungameid/2561200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "envoy--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265360"
+}
