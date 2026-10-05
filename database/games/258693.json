@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258693,
+  "name": "Ava's Adventure",
+  "source_url": "https://www.igdb.com/games/avas-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6u8e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ava's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2498160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2498160",
+        "Linux": "setsid steam steam://rungameid/2498160",
+        "macOS": "open steam://rungameid/2498160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "avas-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258693"
+}
