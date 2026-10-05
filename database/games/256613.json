@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256613,
+  "name": "Mega Snake",
+  "source_url": "https://www.igdb.com/games/mega-snake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8tn6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mega Snake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2491120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2491120",
+        "Linux": "setsid steam steam://rungameid/2491120",
+        "macOS": "open steam://rungameid/2491120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mega-snake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256613"
+}
