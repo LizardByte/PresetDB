@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 255912,
+  "name": "Dungeon Stalkers",
+  "source_url": "https://www.igdb.com/games/dungeon-stalkers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaalv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Stalkers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2468730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2468730",
+        "Linux": "setsid steam steam://rungameid/2468730",
+        "macOS": "open steam://rungameid/2468730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-stalkers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=255912"
+}
