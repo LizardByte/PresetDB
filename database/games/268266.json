@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 268266,
+  "name": "Lovey Dovey",
+  "source_url": "https://www.igdb.com/games/lovey-dovey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co74px.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lovey Dovey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2611890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2611890",
+        "Linux": "setsid steam steam://rungameid/2611890",
+        "macOS": "open steam://rungameid/2611890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lovey-dovey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=268266"
+}
