@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 261655,
+  "name": "DeadBlitz",
+  "source_url": "https://www.igdb.com/games/deadblitz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6xve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeadBlitz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1539710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1539710",
+        "Linux": "setsid steam steam://rungameid/1539710",
+        "macOS": "open steam://rungameid/1539710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadblitz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=261655"
+}
