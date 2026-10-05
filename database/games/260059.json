@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260059,
+  "name": "Deadshot",
+  "source_url": "https://www.igdb.com/games/deadshot--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8jfm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2484180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2484180",
+        "Linux": "setsid steam steam://rungameid/2484180",
+        "macOS": "open steam://rungameid/2484180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadshot--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260059"
+}
