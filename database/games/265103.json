@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265103,
+  "name": "Woodland Isle",
+  "source_url": "https://www.igdb.com/games/woodland-isle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71b8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Woodland Isle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2588130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2588130",
+        "Linux": "setsid steam steam://rungameid/2588130",
+        "macOS": "open steam://rungameid/2588130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "woodland-isle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265103"
+}
