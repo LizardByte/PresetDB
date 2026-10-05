@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258642,
+  "name": "Push That Cat!!",
+  "source_url": "https://www.igdb.com/games/push-that-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6u6x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Push That Cat!!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2465780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2465780",
+        "Linux": "setsid steam steam://rungameid/2465780",
+        "macOS": "open steam://rungameid/2465780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "push-that-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258642"
+}
