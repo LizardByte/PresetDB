@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256333,
+  "name": "W.O.L.F",
+  "source_url": "https://www.igdb.com/games/wolf--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97vc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "W.O.L.F",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2485060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2485060",
+        "Linux": "setsid steam steam://rungameid/2485060",
+        "macOS": "open steam://rungameid/2485060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wolf--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256333"
+}
