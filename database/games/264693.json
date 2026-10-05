@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 264693,
+  "name": "Golel",
+  "source_url": "https://www.igdb.com/games/golel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98a6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2577730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2577730",
+        "Linux": "setsid steam steam://rungameid/2577730",
+        "macOS": "open steam://rungameid/2577730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=264693"
+}
