@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265369,
+  "name": "Exodus",
+  "source_url": "https://www.igdb.com/games/exodus--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7t7g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exodus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2526860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2526860",
+        "Linux": "setsid steam steam://rungameid/2526860",
+        "macOS": "open steam://rungameid/2526860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exodus--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265369"
+}
