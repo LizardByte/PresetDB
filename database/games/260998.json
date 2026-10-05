@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260998,
+  "name": "Run or Die",
+  "source_url": "https://www.igdb.com/games/run-or-die--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2548650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2548650",
+        "Linux": "setsid steam steam://rungameid/2548650",
+        "macOS": "open steam://rungameid/2548650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-or-die--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260998"
+}
