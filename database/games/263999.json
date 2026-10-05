@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263999,
+  "name": "Warzoom",
+  "source_url": "https://www.igdb.com/games/warzoom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co74rm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warzoom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2529580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2529580",
+        "Linux": "setsid steam steam://rungameid/2529580",
+        "macOS": "open steam://rungameid/2529580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warzoom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263999"
+}
