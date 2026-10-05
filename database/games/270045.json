@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270045,
+  "name": "Express Hero",
+  "source_url": "https://www.igdb.com/games/express-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91rb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Express Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2559970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2559970",
+        "Linux": "setsid steam steam://rungameid/2559970",
+        "macOS": "open steam://rungameid/2559970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "express-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270045"
+}
