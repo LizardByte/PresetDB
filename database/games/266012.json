@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 266012,
+  "name": "Warrior Next",
+  "source_url": "https://www.igdb.com/games/warrior-next",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8o8r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warrior Next",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2511900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2511900",
+        "Linux": "setsid steam steam://rungameid/2511900",
+        "macOS": "open steam://rungameid/2511900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warrior-next",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=266012"
+}
