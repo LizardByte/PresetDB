@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252461,
+  "name": "SimpleTD",
+  "source_url": "https://www.igdb.com/games/simpletd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6ljb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SimpleTD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2442830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2442830",
+        "Linux": "setsid steam steam://rungameid/2442830",
+        "macOS": "open steam://rungameid/2442830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simpletd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252461"
+}
