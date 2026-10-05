@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 269507,
+  "name": "Twisted Tower",
+  "source_url": "https://www.igdb.com/games/twisted-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs18.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twisted Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1575990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1575990",
+        "Linux": "setsid steam steam://rungameid/1575990",
+        "macOS": "open steam://rungameid/1575990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twisted-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=269507"
+}
