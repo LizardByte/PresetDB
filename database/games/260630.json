@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260630,
+  "name": "DawnOfCombat",
+  "source_url": "https://www.igdb.com/games/dawnofcombat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co76vl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DawnOfCombat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2520960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2520960",
+        "Linux": "setsid steam steam://rungameid/2520960",
+        "macOS": "open steam://rungameid/2520960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dawnofcombat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260630"
+}
