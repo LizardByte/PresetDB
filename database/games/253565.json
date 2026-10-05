@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253565,
+  "name": "TTA 1",
+  "source_url": "https://www.igdb.com/games/tta-1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nzq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TTA 1",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1649420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1649420",
+        "Linux": "setsid steam steam://rungameid/1649420",
+        "macOS": "open steam://rungameid/1649420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tta-1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253565"
+}
