@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257848,
+  "name": "Quickclaw",
+  "source_url": "https://www.igdb.com/games/quickclaw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6tfx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quickclaw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2482630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2482630",
+        "Linux": "setsid steam steam://rungameid/2482630",
+        "macOS": "open steam://rungameid/2482630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quickclaw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257848"
+}
