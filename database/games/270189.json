@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270189,
+  "name": "Fwog",
+  "source_url": "https://www.igdb.com/games/fwog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8q46.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fwog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2616810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2616810",
+        "Linux": "setsid steam steam://rungameid/2616810",
+        "macOS": "open steam://rungameid/2616810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fwog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270189"
+}
