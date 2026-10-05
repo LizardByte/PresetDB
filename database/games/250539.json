@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 250539,
+  "name": "The Pit",
+  "source_url": "https://www.igdb.com/games/the-pit--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6j76.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Pit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2335590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2335590",
+        "Linux": "setsid steam steam://rungameid/2335590",
+        "macOS": "open steam://rungameid/2335590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-pit--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=250539"
+}
