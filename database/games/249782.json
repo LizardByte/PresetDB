@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249782,
+  "name": "Hypersomnia",
+  "source_url": "https://www.igdb.com/games/hypersomnia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6htc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hypersomnia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2660970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2660970",
+        "Linux": "setsid steam steam://rungameid/2660970",
+        "macOS": "open steam://rungameid/2660970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hypersomnia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249782"
+}
