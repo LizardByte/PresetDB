@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267465,
+  "name": "Friends Play Pool",
+  "source_url": "https://www.igdb.com/games/friends-play-pool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73t4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Friends Play Pool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2568810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2568810",
+        "Linux": "setsid steam steam://rungameid/2568810",
+        "macOS": "open steam://rungameid/2568810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "friends-play-pool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267465"
+}
