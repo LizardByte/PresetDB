@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257378,
+  "name": "Bird Ball",
+  "source_url": "https://www.igdb.com/games/bird-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6sqh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bird Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2507850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2507850",
+        "Linux": "setsid steam steam://rungameid/2507850",
+        "macOS": "open steam://rungameid/2507850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bird-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257378"
+}
