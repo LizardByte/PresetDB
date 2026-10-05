@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 261508,
+  "name": "Ring Stars",
+  "source_url": "https://www.igdb.com/games/ring-stars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7a0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ring Stars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2545020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2545020",
+        "Linux": "setsid steam steam://rungameid/2545020",
+        "macOS": "open steam://rungameid/2545020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ring-stars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=261508"
+}
