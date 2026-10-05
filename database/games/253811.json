@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253811,
+  "name": "William and Sly",
+  "source_url": "https://www.igdb.com/games/william-and-sly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7r4d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "William and Sly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2459620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2459620",
+        "Linux": "setsid steam steam://rungameid/2459620",
+        "macOS": "open steam://rungameid/2459620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "william-and-sly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253811"
+}
