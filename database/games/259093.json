@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 259093,
+  "name": "PPP",
+  "source_url": "https://www.igdb.com/games/ppp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7xu2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PPP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2494990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2494990",
+        "Linux": "setsid steam steam://rungameid/2494990",
+        "macOS": "open steam://rungameid/2494990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ppp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=259093"
+}
