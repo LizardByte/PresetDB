@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249001,
+  "name": "The Night Market",
+  "source_url": "https://www.igdb.com/games/the-night-market",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73iy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Night Market",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2402860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2402860",
+        "Linux": "setsid steam steam://rungameid/2402860",
+        "macOS": "open steam://rungameid/2402860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-night-market",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249001"
+}
