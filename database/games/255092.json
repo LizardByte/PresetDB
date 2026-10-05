@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 255092,
+  "name": "We Kill Monsters",
+  "source_url": "https://www.igdb.com/games/we-kill-monsters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6oy1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "We Kill Monsters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1792460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1792460",
+        "Linux": "setsid steam steam://rungameid/1792460",
+        "macOS": "open steam://rungameid/1792460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "we-kill-monsters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=255092"
+}
