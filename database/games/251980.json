@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 251980,
+  "name": "The Lost Adventure",
+  "source_url": "https://www.igdb.com/games/the-lost-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ik0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lost Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2439660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2439660",
+        "Linux": "setsid steam steam://rungameid/2439660",
+        "macOS": "open steam://rungameid/2439660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lost-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=251980"
+}
