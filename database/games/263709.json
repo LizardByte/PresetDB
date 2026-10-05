@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263709,
+  "name": "Void Crawler",
+  "source_url": "https://www.igdb.com/games/void-crawler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co785g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Crawler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2550240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2550240",
+        "Linux": "setsid steam steam://rungameid/2550240",
+        "macOS": "open steam://rungameid/2550240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-crawler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263709"
+}
