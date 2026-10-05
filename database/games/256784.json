@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 256784,
+  "name": "Hypercoven",
+  "source_url": "https://www.igdb.com/games/hypercoven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coac2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hypercoven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3321850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3321850",
+        "Linux": "setsid steam steam://rungameid/3321850",
+        "macOS": "open steam://rungameid/3321850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hypercoven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=256784"
+}
