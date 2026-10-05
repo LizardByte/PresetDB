@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 262802,
+  "name": "Lighthouse Simulator",
+  "source_url": "https://www.igdb.com/games/lighthouse-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6z7r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lighthouse Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2540980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2540980",
+        "Linux": "setsid steam steam://rungameid/2540980",
+        "macOS": "open steam://rungameid/2540980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lighthouse-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=262802"
+}
