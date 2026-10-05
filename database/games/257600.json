@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 257600,
+  "name": "My Supermarket",
+  "source_url": "https://www.igdb.com/games/my-supermarket",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6tbk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Supermarket",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1244910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1244910",
+        "Linux": "setsid steam steam://rungameid/1244910",
+        "macOS": "open steam://rungameid/1244910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-supermarket",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=257600"
+}
