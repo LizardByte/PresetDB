@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258422,
+  "name": "Sky Settlers",
+  "source_url": "https://www.igdb.com/games/sky-settlers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95cl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sky Settlers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2494870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2494870",
+        "Linux": "setsid steam steam://rungameid/2494870",
+        "macOS": "open steam://rungameid/2494870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sky-settlers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258422"
+}
