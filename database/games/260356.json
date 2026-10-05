@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260356,
+  "name": "Project ST",
+  "source_url": "https://www.igdb.com/games/project-st",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ybp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project ST",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2055480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2055480",
+        "Linux": "setsid steam steam://rungameid/2055480",
+        "macOS": "open steam://rungameid/2055480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-st",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260356"
+}
