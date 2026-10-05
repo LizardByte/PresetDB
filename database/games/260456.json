@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260456,
+  "name": "Mini Settlers",
+  "source_url": "https://www.igdb.com/games/mini-settlers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8tph.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Settlers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2521630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2521630",
+        "Linux": "setsid steam steam://rungameid/2521630",
+        "macOS": "open steam://rungameid/2521630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-settlers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260456"
+}
