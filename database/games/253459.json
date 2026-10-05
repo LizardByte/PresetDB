@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 253459,
+  "name": "WarSphere",
+  "source_url": "https://www.igdb.com/games/warsphere",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6xh2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WarSphere",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2451530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2451530",
+        "Linux": "setsid steam steam://rungameid/2451530",
+        "macOS": "open steam://rungameid/2451530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warsphere",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=253459"
+}
