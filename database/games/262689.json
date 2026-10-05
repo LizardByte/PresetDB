@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 262689,
+  "name": "The World's Hardest Game: On Steam",
+  "source_url": "https://www.igdb.com/games/the-worlds-hardest-game-on-steam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6z3m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The World's Hardest Game: On Steam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2560490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2560490",
+        "Linux": "setsid steam steam://rungameid/2560490",
+        "macOS": "open steam://rungameid/2560490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-worlds-hardest-game-on-steam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=262689"
+}
