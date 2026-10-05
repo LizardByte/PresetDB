@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 252511,
+  "name": "Zombiepede",
+  "source_url": "https://www.igdb.com/games/zombiepede",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6lkw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombiepede",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2435330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2435330",
+        "Linux": "setsid steam steam://rungameid/2435330",
+        "macOS": "open steam://rungameid/2435330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombiepede",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=252511"
+}
