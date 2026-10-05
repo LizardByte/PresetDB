@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265564,
+  "name": "Rush Commander",
+  "source_url": "https://www.igdb.com/games/rush-commander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71op.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rush Commander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2521240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2521240",
+        "Linux": "setsid steam steam://rungameid/2521240",
+        "macOS": "open steam://rungameid/2521240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rush-commander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265564"
+}
