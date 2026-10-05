@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 268280,
+  "name": "Freja",
+  "source_url": "https://www.igdb.com/games/freja",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co74qb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freja",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2612970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2612970",
+        "Linux": "setsid steam steam://rungameid/2612970",
+        "macOS": "open steam://rungameid/2612970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freja",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=268280"
+}
