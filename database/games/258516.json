@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 258516,
+  "name": "Free the Lazy Dogs",
+  "source_url": "https://www.igdb.com/games/free-the-lazy-dogs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8us8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Free the Lazy Dogs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2500700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2500700",
+        "Linux": "setsid steam steam://rungameid/2500700",
+        "macOS": "open steam://rungameid/2500700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "free-the-lazy-dogs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=258516"
+}
