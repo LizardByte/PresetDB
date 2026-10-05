@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260544,
+  "name": "Eastern Front",
+  "source_url": "https://www.igdb.com/games/eastern-front--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6wj1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eastern Front",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2523460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2523460",
+        "Linux": "setsid steam steam://rungameid/2523460",
+        "macOS": "open steam://rungameid/2523460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eastern-front--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260544"
+}
