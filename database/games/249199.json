@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249199,
+  "name": "Dead Mire",
+  "source_url": "https://www.igdb.com/games/dead-mire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8d3m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Mire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2406730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2406730",
+        "Linux": "setsid steam steam://rungameid/2406730",
+        "macOS": "open steam://rungameid/2406730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-mire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249199"
+}
