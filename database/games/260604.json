@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260604,
+  "name": "Alien Land",
+  "source_url": "https://www.igdb.com/games/alien-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6wkl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2531930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2531930",
+        "Linux": "setsid steam steam://rungameid/2531930",
+        "macOS": "open steam://rungameid/2531930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260604"
+}
