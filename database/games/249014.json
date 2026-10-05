@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 249014,
+  "name": "April's Diary",
+  "source_url": "https://www.igdb.com/games/aprils-diary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6qnk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "April's Diary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2223280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2223280",
+        "Linux": "setsid steam steam://rungameid/2223280",
+        "macOS": "open steam://rungameid/2223280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aprils-diary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=249014"
+}
