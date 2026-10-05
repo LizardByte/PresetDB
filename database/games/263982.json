@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 263982,
+  "name": "The Left Behind",
+  "source_url": "https://www.igdb.com/games/the-left-behind",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaco2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Left Behind",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2433630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2433630",
+        "Linux": "setsid steam steam://rungameid/2433630",
+        "macOS": "open steam://rungameid/2433630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-left-behind",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=263982"
+}
