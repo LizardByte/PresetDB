@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 267061,
+  "name": "Running Fox",
+  "source_url": "https://www.igdb.com/games/running-fox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co73eo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Running Fox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2551870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2551870",
+        "Linux": "setsid steam steam://rungameid/2551870",
+        "macOS": "open steam://rungameid/2551870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "running-fox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=267061"
+}
