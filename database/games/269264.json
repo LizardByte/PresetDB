@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 269264,
+  "name": "Doma",
+  "source_url": "https://www.igdb.com/games/doma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co75mr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2589710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2589710",
+        "Linux": "setsid steam steam://rungameid/2589710",
+        "macOS": "open steam://rungameid/2589710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=269264"
+}
