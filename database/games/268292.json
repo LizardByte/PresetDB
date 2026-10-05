@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 268292,
+  "name": "Fakeway",
+  "source_url": "https://www.igdb.com/games/fakeway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co74qm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fakeway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2568620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2568620",
+        "Linux": "setsid steam steam://rungameid/2568620",
+        "macOS": "open steam://rungameid/2568620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fakeway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=268292"
+}
