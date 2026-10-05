@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 260104,
+  "name": "Joyville",
+  "source_url": "https://www.igdb.com/games/joyville",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6zti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Joyville",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2490790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2490790",
+        "Linux": "setsid steam steam://rungameid/2490790",
+        "macOS": "open steam://rungameid/2490790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "joyville",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=260104"
+}
