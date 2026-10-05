@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 251755,
+  "name": "Dropsol",
+  "source_url": "https://www.igdb.com/games/dropsol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co774t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dropsol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2439120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2439120",
+        "Linux": "setsid steam steam://rungameid/2439120",
+        "macOS": "open steam://rungameid/2439120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dropsol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=251755"
+}
