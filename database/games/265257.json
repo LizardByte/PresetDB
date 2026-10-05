@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265257,
+  "name": "Wisp Child",
+  "source_url": "https://www.igdb.com/games/wisp-child",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71gs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wisp Child",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2424000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2424000",
+        "Linux": "setsid steam steam://rungameid/2424000",
+        "macOS": "open steam://rungameid/2424000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wisp-child",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265257"
+}
