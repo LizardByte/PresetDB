@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265124,
+  "name": "The Johnny Papa",
+  "source_url": "https://www.igdb.com/games/the-johnny-papa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71bs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Johnny Papa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2550460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2550460",
+        "Linux": "setsid steam steam://rungameid/2550460",
+        "macOS": "open steam://rungameid/2550460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-johnny-papa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265124"
+}
