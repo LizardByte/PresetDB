@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286709,
+  "name": "The Dark Cave",
+  "source_url": "https://www.igdb.com/games/the-dark-cave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8j3u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dark Cave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2758350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2758350",
+        "Linux": "setsid steam steam://rungameid/2758350",
+        "macOS": "open steam://rungameid/2758350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-dark-cave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286709"
+}
