@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285121,
+  "name": "Saturn",
+  "source_url": "https://www.igdb.com/games/saturn--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91b6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Saturn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2742840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2742840",
+        "Linux": "setsid steam steam://rungameid/2742840",
+        "macOS": "open steam://rungameid/2742840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "saturn--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285121"
+}
