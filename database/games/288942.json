@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288942,
+  "name": "Project O.R.C.S.",
+  "source_url": "https://www.igdb.com/games/project-orcs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7tvm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project O.R.C.S.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2332100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2332100",
+        "Linux": "setsid steam steam://rungameid/2332100",
+        "macOS": "open steam://rungameid/2332100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-orcs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288942"
+}
