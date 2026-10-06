@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290147,
+  "name": "My Pretty Closet",
+  "source_url": "https://www.igdb.com/games/my-pretty-closet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v1r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Pretty Closet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2764450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2764450",
+        "Linux": "setsid steam steam://rungameid/2764450",
+        "macOS": "open steam://rungameid/2764450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-pretty-closet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290147"
+}
