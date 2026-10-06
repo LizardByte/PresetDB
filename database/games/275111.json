@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275111,
+  "name": "Bulletz",
+  "source_url": "https://www.igdb.com/games/bulletz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bhx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bulletz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2582420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2582420",
+        "Linux": "setsid steam steam://rungameid/2582420",
+        "macOS": "open steam://rungameid/2582420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bulletz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275111"
+}
