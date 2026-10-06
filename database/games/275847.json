@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275847,
+  "name": "Motionrec",
+  "source_url": "https://www.igdb.com/games/motionrec",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapiy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Motionrec",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2602230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2602230",
+        "Linux": "setsid steam steam://rungameid/2602230",
+        "macOS": "open steam://rungameid/2602230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "motionrec",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275847"
+}
