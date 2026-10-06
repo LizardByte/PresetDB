@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275377,
+  "name": "Nephenthesys",
+  "source_url": "https://www.igdb.com/games/nephenthesys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82dz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nephenthesys",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2660400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2660400",
+        "Linux": "setsid steam steam://rungameid/2660400",
+        "macOS": "open steam://rungameid/2660400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nephenthesys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275377"
+}
