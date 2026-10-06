@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 284633,
+  "name": "Something",
+  "source_url": "https://www.igdb.com/games/something--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7p2k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Something",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2696520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2696520",
+        "Linux": "setsid steam steam://rungameid/2696520",
+        "macOS": "open steam://rungameid/2696520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "something--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=284633"
+}
