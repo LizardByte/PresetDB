@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273409,
+  "name": "Staff Runner",
+  "source_url": "https://www.igdb.com/games/staff-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79w5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Staff Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2655660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2655660",
+        "Linux": "setsid steam steam://rungameid/2655660",
+        "macOS": "open steam://rungameid/2655660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "staff-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273409"
+}
