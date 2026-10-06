@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275822,
+  "name": "The Castle",
+  "source_url": "https://www.igdb.com/games/the-castle--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7cfi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2672300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2672300",
+        "Linux": "setsid steam steam://rungameid/2672300",
+        "macOS": "open steam://rungameid/2672300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-castle--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275822"
+}
