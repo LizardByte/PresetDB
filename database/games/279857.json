@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 279857,
+  "name": "Tiny Jukebox",
+  "source_url": "https://www.igdb.com/games/tiny-jukebox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hpq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Jukebox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2716970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2716970",
+        "Linux": "setsid steam steam://rungameid/2716970",
+        "macOS": "open steam://rungameid/2716970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-jukebox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=279857"
+}
