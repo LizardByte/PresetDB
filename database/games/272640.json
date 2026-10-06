@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272640,
+  "name": "A-Girl",
+  "source_url": "https://www.igdb.com/games/a-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co795q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A-Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2651230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2651230",
+        "Linux": "setsid steam steam://rungameid/2651230",
+        "macOS": "open steam://rungameid/2651230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272640"
+}
