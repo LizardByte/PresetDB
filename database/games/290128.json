@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290128,
+  "name": "Find Cats With Friends",
+  "source_url": "https://www.igdb.com/games/find-cats-with-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v0x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find Cats With Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2859450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2859450",
+        "Linux": "setsid steam steam://rungameid/2859450",
+        "macOS": "open steam://rungameid/2859450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-cats-with-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290128"
+}
