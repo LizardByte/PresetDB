@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275499,
+  "name": "UpWorld",
+  "source_url": "https://www.igdb.com/games/upworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bx8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UpWorld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2625330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2625330",
+        "Linux": "setsid steam steam://rungameid/2625330",
+        "macOS": "open steam://rungameid/2625330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "upworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275499"
+}
