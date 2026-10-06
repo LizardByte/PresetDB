@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275845,
+  "name": "Koco",
+  "source_url": "https://www.igdb.com/games/koco",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7cg2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Koco",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2672230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2672230",
+        "Linux": "setsid steam steam://rungameid/2672230",
+        "macOS": "open steam://rungameid/2672230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "koco",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275845"
+}
