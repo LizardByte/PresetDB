@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280200,
+  "name": "Albatross",
+  "source_url": "https://www.igdb.com/games/albatross--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7is0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Albatross",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2528400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2528400",
+        "Linux": "setsid steam steam://rungameid/2528400",
+        "macOS": "open steam://rungameid/2528400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "albatross--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280200"
+}
