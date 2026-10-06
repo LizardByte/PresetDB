@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277949,
+  "name": "Rocket Frog",
+  "source_url": "https://www.igdb.com/games/rocket-frog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7enn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocket Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2677000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2677000",
+        "Linux": "setsid steam steam://rungameid/2677000",
+        "macOS": "open steam://rungameid/2677000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocket-frog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277949"
+}
