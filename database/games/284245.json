@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 284245,
+  "name": "Mojo 2",
+  "source_url": "https://www.igdb.com/games/mojo-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7olt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mojo 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "948020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/948020",
+        "Linux": "setsid steam steam://rungameid/948020",
+        "macOS": "open steam://rungameid/948020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mojo-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=284245"
+}
