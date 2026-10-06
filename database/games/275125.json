@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275125,
+  "name": "Moi Moi Heroes",
+  "source_url": "https://www.igdb.com/games/moi-moi-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bi9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moi Moi Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2673060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2673060",
+        "Linux": "setsid steam steam://rungameid/2673060",
+        "macOS": "open steam://rungameid/2673060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moi-moi-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275125"
+}
