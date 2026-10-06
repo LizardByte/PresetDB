@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286078,
+  "name": "Pomberito",
+  "source_url": "https://www.igdb.com/games/pomberito",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g3j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pomberito",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2761100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2761100",
+        "Linux": "setsid steam steam://rungameid/2761100",
+        "macOS": "open steam://rungameid/2761100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pomberito",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286078"
+}
