@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 279482,
+  "name": "SysOps Saga",
+  "source_url": "https://www.igdb.com/games/sysops-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7h2f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SysOps Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2715530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2715530",
+        "Linux": "setsid steam steam://rungameid/2715530",
+        "macOS": "open steam://rungameid/2715530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sysops-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=279482"
+}
