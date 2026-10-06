@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286040,
+  "name": "Steamboat Willie",
+  "source_url": "https://www.igdb.com/games/steamboat-willie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qo4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steamboat Willie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2778480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2778480",
+        "Linux": "setsid steam steam://rungameid/2778480",
+        "macOS": "open steam://rungameid/2778480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "steamboat-willie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286040"
+}
