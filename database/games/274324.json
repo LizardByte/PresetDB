@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274324,
+  "name": "Standalone: Synergy",
+  "source_url": "https://www.igdb.com/games/standalone-synergy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7atr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Standalone: Synergy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2663140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2663140",
+        "Linux": "setsid steam steam://rungameid/2663140",
+        "macOS": "open steam://rungameid/2663140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "standalone-synergy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274324"
+}
