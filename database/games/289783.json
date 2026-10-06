@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289783,
+  "name": "John's Hell",
+  "source_url": "https://www.igdb.com/games/johns-hell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7urq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "John's Hell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2849700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2849700",
+        "Linux": "setsid steam steam://rungameid/2849700",
+        "macOS": "open steam://rungameid/2849700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "johns-hell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289783"
+}
