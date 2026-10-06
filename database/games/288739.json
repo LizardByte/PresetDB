@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288739,
+  "name": "8AM",
+  "source_url": "https://www.igdb.com/games/8am",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co857d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "8AM",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2835590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2835590",
+        "Linux": "setsid steam steam://rungameid/2835590",
+        "macOS": "open steam://rungameid/2835590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "8am",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288739"
+}
