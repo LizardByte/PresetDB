@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288562,
+  "name": "Tranquil Builds",
+  "source_url": "https://www.igdb.com/games/tranquil-builds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8var.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tranquil Builds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2771980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2771980",
+        "Linux": "setsid steam steam://rungameid/2771980",
+        "macOS": "open steam://rungameid/2771980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tranquil-builds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288562"
+}
