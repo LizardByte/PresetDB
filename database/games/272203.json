@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272203,
+  "name": "FairiTeller",
+  "source_url": "https://www.igdb.com/games/fairiteller",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78rb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FairiTeller",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2638680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2638680",
+        "Linux": "setsid steam steam://rungameid/2638680",
+        "macOS": "open steam://rungameid/2638680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fairiteller",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272203"
+}
