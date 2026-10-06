@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288745,
+  "name": "Aeris",
+  "source_url": "https://www.igdb.com/games/aeris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g1n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aeris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2814340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2814340",
+        "Linux": "setsid steam steam://rungameid/2814340",
+        "macOS": "open steam://rungameid/2814340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aeris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288745"
+}
