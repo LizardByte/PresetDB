@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272389,
+  "name": "Zipp's Café",
+  "source_url": "https://www.igdb.com/games/zipps-cafe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fgi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zipp's Café",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1812180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1812180",
+        "Linux": "setsid steam steam://rungameid/1812180",
+        "macOS": "open steam://rungameid/1812180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zipps-cafe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272389"
+}
