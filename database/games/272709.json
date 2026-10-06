@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272709,
+  "name": "Tether",
+  "source_url": "https://www.igdb.com/games/tether--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79a1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tether",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2613510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2613510",
+        "Linux": "setsid steam steam://rungameid/2613510",
+        "macOS": "open steam://rungameid/2613510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tether--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272709"
+}
