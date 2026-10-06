@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285006,
+  "name": "Dear Edmund",
+  "source_url": "https://www.igdb.com/games/dear-edmund",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaopy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dear Edmund",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2780480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2780480",
+        "Linux": "setsid steam steam://rungameid/2780480",
+        "macOS": "open steam://rungameid/2780480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dear-edmund",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285006"
+}
