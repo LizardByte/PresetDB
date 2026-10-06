@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273798,
+  "name": "Shell Runner",
+  "source_url": "https://www.igdb.com/games/shell-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8m0n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shell Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2622280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2622280",
+        "Linux": "setsid steam steam://rungameid/2622280",
+        "macOS": "open steam://rungameid/2622280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shell-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273798"
+}
