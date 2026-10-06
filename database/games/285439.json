@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285439,
+  "name": "Don't Leave",
+  "source_url": "https://www.igdb.com/games/dont-leave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8d4a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Leave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2737320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2737320",
+        "Linux": "setsid steam steam://rungameid/2737320",
+        "macOS": "open steam://rungameid/2737320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-leave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285439"
+}
