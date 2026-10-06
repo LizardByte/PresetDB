@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289720,
+  "name": "Fox Golf",
+  "source_url": "https://www.igdb.com/games/fox-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7uqb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fox Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2833820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2833820",
+        "Linux": "setsid steam steam://rungameid/2833820",
+        "macOS": "open steam://rungameid/2833820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fox-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289720"
+}
