@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290127,
+  "name": "Acorn Cop",
+  "source_url": "https://www.igdb.com/games/acorn-cop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v0y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Acorn Cop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2857940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2857940",
+        "Linux": "setsid steam steam://rungameid/2857940",
+        "macOS": "open steam://rungameid/2857940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "acorn-cop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290127"
+}
