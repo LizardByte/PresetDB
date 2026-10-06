@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275757,
+  "name": "Cyberdelic",
+  "source_url": "https://www.igdb.com/games/cyberdelic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7cb0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cyberdelic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "993600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/993600",
+        "Linux": "setsid steam steam://rungameid/993600",
+        "macOS": "open steam://rungameid/993600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cyberdelic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275757"
+}
