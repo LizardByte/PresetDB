@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280659,
+  "name": "Ghost Only!",
+  "source_url": "https://www.igdb.com/games/ghost-only",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7j4q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Only!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2731880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2731880",
+        "Linux": "setsid steam steam://rungameid/2731880",
+        "macOS": "open steam://rungameid/2731880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-only",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280659"
+}
