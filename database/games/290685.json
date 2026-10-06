@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290685,
+  "name": "Space Hat",
+  "source_url": "https://www.igdb.com/games/space-hat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e47.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Hat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2805210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2805210",
+        "Linux": "setsid steam steam://rungameid/2805210",
+        "macOS": "open steam://rungameid/2805210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-hat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290685"
+}
