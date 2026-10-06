@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289388,
+  "name": "Circle Pong",
+  "source_url": "https://www.igdb.com/games/circle-pong--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7udm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Circle Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2736700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2736700",
+        "Linux": "setsid steam steam://rungameid/2736700",
+        "macOS": "open steam://rungameid/2736700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "circle-pong--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289388"
+}
