@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280098,
+  "name": "Perfect Chess",
+  "source_url": "https://www.igdb.com/games/perfect-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g43.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Perfect Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2728100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2728100",
+        "Linux": "setsid steam steam://rungameid/2728100",
+        "macOS": "open steam://rungameid/2728100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "perfect-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280098"
+}
