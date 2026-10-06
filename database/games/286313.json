@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286313,
+  "name": "Jelly Belly",
+  "source_url": "https://www.igdb.com/games/jelly-belly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qx6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jelly Belly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2762750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2762750",
+        "Linux": "setsid steam steam://rungameid/2762750",
+        "macOS": "open steam://rungameid/2762750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jelly-belly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286313"
+}
