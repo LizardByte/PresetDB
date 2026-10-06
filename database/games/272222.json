@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272222,
+  "name": "Sophia's Spa",
+  "source_url": "https://www.igdb.com/games/sophias-spa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78rt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sophia's Spa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2633150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2633150",
+        "Linux": "setsid steam steam://rungameid/2633150",
+        "macOS": "open steam://rungameid/2633150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sophias-spa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272222"
+}
