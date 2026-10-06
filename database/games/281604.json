@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 281604,
+  "name": "At Night",
+  "source_url": "https://www.igdb.com/games/at-night",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coca6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "At Night",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2646030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2646030",
+        "Linux": "setsid steam steam://rungameid/2646030",
+        "macOS": "open steam://rungameid/2646030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "at-night",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=281604"
+}
