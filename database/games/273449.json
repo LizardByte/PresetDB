@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273449,
+  "name": "NineLives",
+  "source_url": "https://www.igdb.com/games/ninelives",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9r50.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NineLives",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2517010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2517010",
+        "Linux": "setsid steam steam://rungameid/2517010",
+        "macOS": "open steam://rungameid/2517010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ninelives",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273449"
+}
