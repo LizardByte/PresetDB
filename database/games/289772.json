@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289772,
+  "name": "Hotdog Runner",
+  "source_url": "https://www.igdb.com/games/hotdog-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7urf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hotdog Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2779440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2779440",
+        "Linux": "setsid steam steam://rungameid/2779440",
+        "macOS": "open steam://rungameid/2779440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hotdog-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289772"
+}
