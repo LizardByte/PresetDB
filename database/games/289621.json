@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289621,
+  "name": "Everloop",
+  "source_url": "https://www.igdb.com/games/everloop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7utx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Everloop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2843410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2843410",
+        "Linux": "setsid steam steam://rungameid/2843410",
+        "macOS": "open steam://rungameid/2843410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "everloop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289621"
+}
