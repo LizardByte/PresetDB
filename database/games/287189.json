@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287189,
+  "name": "Picker Bot 42",
+  "source_url": "https://www.igdb.com/games/picker-bot-42",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7rw6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Picker Bot 42",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2749130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2749130",
+        "Linux": "setsid steam steam://rungameid/2749130",
+        "macOS": "open steam://rungameid/2749130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "picker-bot-42",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287189"
+}
