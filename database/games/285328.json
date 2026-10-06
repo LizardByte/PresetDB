@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285328,
+  "name": "First Gen",
+  "source_url": "https://www.igdb.com/games/first-gen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7pxh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "First Gen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2590370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2590370",
+        "Linux": "setsid steam steam://rungameid/2590370",
+        "macOS": "open steam://rungameid/2590370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "first-gen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285328"
+}
