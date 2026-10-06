@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290832,
+  "name": "Forest Keeper",
+  "source_url": "https://www.igdb.com/games/forest-keeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vs4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest Keeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2664920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2664920",
+        "Linux": "setsid steam steam://rungameid/2664920",
+        "macOS": "open steam://rungameid/2664920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forest-keeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290832"
+}
