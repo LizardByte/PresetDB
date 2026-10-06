@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287234,
+  "name": "Golf Monday",
+  "source_url": "https://www.igdb.com/games/golf-monday",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3g8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golf Monday",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2675400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2675400",
+        "Linux": "setsid steam steam://rungameid/2675400",
+        "macOS": "open steam://rungameid/2675400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golf-monday",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287234"
+}
