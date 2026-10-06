@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273465,
+  "name": "Kingsgrave",
+  "source_url": "https://www.igdb.com/games/kingsgrave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qqq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kingsgrave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2644360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2644360",
+        "Linux": "setsid steam steam://rungameid/2644360",
+        "macOS": "open steam://rungameid/2644360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kingsgrave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273465"
+}
