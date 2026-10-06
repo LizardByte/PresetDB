@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 271900,
+  "name": "Roll The Bones",
+  "source_url": "https://www.igdb.com/games/roll-the-bones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0zv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll The Bones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2527550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2527550",
+        "Linux": "setsid steam steam://rungameid/2527550",
+        "macOS": "open steam://rungameid/2527550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-the-bones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=271900"
+}
