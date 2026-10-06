@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 283765,
+  "name": "Run and Gun",
+  "source_url": "https://www.igdb.com/games/run-and-gun--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cs4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run and Gun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2143590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2143590",
+        "Linux": "setsid steam steam://rungameid/2143590",
+        "macOS": "open steam://rungameid/2143590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-and-gun--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=283765"
+}
