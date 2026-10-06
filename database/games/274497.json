@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274497,
+  "name": "Blub",
+  "source_url": "https://www.igdb.com/games/blub",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7c4o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blub",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2750190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2750190",
+        "Linux": "setsid steam steam://rungameid/2750190",
+        "macOS": "open steam://rungameid/2750190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blub",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274497"
+}
