@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288516,
+  "name": "Untethered",
+  "source_url": "https://www.igdb.com/games/untethered",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8o0t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Untethered",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2763310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2763310",
+        "Linux": "setsid steam steam://rungameid/2763310",
+        "macOS": "open steam://rungameid/2763310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "untethered",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288516"
+}
