@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289717,
+  "name": "Search All: Mouses",
+  "source_url": "https://www.igdb.com/games/search-all-mouses",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7uq9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Mouses",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2853610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2853610",
+        "Linux": "setsid steam steam://rungameid/2853610",
+        "macOS": "open steam://rungameid/2853610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-mouses",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289717"
+}
