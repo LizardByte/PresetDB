@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272757,
+  "name": "Katsl",
+  "source_url": "https://www.igdb.com/games/katsl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Katsl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2631780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2631780",
+        "Linux": "setsid steam steam://rungameid/2631780",
+        "macOS": "open steam://rungameid/2631780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "katsl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272757"
+}
