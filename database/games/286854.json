@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286854,
+  "name": "Search All: Adult",
+  "source_url": "https://www.igdb.com/games/search-all-adult",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7rfs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Adult",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1802560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1802560",
+        "Linux": "setsid steam steam://rungameid/1802560",
+        "macOS": "open steam://rungameid/1802560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-adult",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286854"
+}
