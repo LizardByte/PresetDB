@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289530,
+  "name": "Battle Room",
+  "source_url": "https://www.igdb.com/games/battle-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocy27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2838380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2838380",
+        "Linux": "setsid steam steam://rungameid/2838380",
+        "macOS": "open steam://rungameid/2838380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289530"
+}
