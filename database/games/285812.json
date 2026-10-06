@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285812,
+  "name": "Meowmunitions",
+  "source_url": "https://www.igdb.com/games/meowmunitions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwm4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meowmunitions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2685370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2685370",
+        "Linux": "setsid steam steam://rungameid/2685370",
+        "macOS": "open steam://rungameid/2685370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meowmunitions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285812"
+}
