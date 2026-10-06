@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290201,
+  "name": "King Must Survive",
+  "source_url": "https://www.igdb.com/games/king-must-survive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v44.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Must Survive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2734250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2734250",
+        "Linux": "setsid steam steam://rungameid/2734250",
+        "macOS": "open steam://rungameid/2734250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-must-survive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290201"
+}
