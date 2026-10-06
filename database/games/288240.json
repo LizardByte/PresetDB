@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288240,
+  "name": "Runaway Bride",
+  "source_url": "https://www.igdb.com/games/runaway-bride",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7t4h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runaway Bride",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2757570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2757570",
+        "Linux": "setsid steam steam://rungameid/2757570",
+        "macOS": "open steam://rungameid/2757570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runaway-bride",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288240"
+}
