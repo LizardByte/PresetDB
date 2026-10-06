@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287687,
+  "name": "Wizzerd Quest",
+  "source_url": "https://www.igdb.com/games/wizzerd-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eis.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wizzerd Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2785800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2785800",
+        "Linux": "setsid steam steam://rungameid/2785800",
+        "macOS": "open steam://rungameid/2785800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wizzerd-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287687"
+}
