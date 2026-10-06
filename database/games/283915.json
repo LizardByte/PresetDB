@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 283915,
+  "name": "Another Hardest Game",
+  "source_url": "https://www.igdb.com/games/another-hardest-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7o6b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Another Hardest Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2735000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2735000",
+        "Linux": "setsid steam steam://rungameid/2735000",
+        "macOS": "open steam://rungameid/2735000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "another-hardest-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=283915"
+}
