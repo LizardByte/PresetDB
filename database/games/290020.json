@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290020,
+  "name": "The Enchanted Worlds",
+  "source_url": "https://www.igdb.com/games/the-enchanted-worlds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ux2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Enchanted Worlds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2798220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2798220",
+        "Linux": "setsid steam steam://rungameid/2798220",
+        "macOS": "open steam://rungameid/2798220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-enchanted-worlds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290020"
+}
