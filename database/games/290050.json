@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290050,
+  "name": "The Beautiful Island",
+  "source_url": "https://www.igdb.com/games/the-beautiful-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97yg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Beautiful Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2828660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2828660",
+        "Linux": "setsid steam steam://rungameid/2828660",
+        "macOS": "open steam://rungameid/2828660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-beautiful-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290050"
+}
