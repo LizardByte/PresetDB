@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288582,
+  "name": "Tombstone MMO",
+  "source_url": "https://www.igdb.com/games/tombstone-mmo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98xj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tombstone MMO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2796800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2796800",
+        "Linux": "setsid steam steam://rungameid/2796800",
+        "macOS": "open steam://rungameid/2796800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tombstone-mmo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288582"
+}
