@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272254,
+  "name": "Hokkaido Game",
+  "source_url": "https://www.igdb.com/games/hokkaido-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7beh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hokkaido Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2638180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2638180",
+        "Linux": "setsid steam steam://rungameid/2638180",
+        "macOS": "open steam://rungameid/2638180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hokkaido-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272254"
+}
