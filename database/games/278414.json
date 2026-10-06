@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 278414,
+  "name": "Mystic Strife",
+  "source_url": "https://www.igdb.com/games/mystic-strife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7f9x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystic Strife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2452720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2452720",
+        "Linux": "setsid steam steam://rungameid/2452720",
+        "macOS": "open steam://rungameid/2452720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystic-strife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=278414"
+}
