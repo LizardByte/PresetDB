@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290584,
+  "name": "Gunzo!",
+  "source_url": "https://www.igdb.com/games/gunzo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vl8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunzo!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1834690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1834690",
+        "Linux": "setsid steam steam://rungameid/1834690",
+        "macOS": "open steam://rungameid/1834690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gunzo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290584"
+}
