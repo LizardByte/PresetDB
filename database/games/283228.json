@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 283228,
+  "name": "Sushi Shot",
+  "source_url": "https://www.igdb.com/games/sushi-shot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7nwz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushi Shot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2770370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2770370",
+        "Linux": "setsid steam steam://rungameid/2770370",
+        "macOS": "open steam://rungameid/2770370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushi-shot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=283228"
+}
