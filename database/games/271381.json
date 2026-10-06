@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 271381,
+  "name": "Roll Me Home",
+  "source_url": "https://www.igdb.com/games/roll-me-home",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgy3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll Me Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2104520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2104520",
+        "Linux": "setsid steam steam://rungameid/2104520",
+        "macOS": "open steam://rungameid/2104520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-me-home",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=271381"
+}
