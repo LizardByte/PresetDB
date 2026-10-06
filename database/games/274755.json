@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274755,
+  "name": "Aleph",
+  "source_url": "https://www.igdb.com/games/aleph--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7b60.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aleph",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2665180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2665180",
+        "Linux": "setsid steam steam://rungameid/2665180",
+        "macOS": "open steam://rungameid/2665180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aleph--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274755"
+}
