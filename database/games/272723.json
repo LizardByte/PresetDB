@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272723,
+  "name": "Silkbulb Test",
+  "source_url": "https://www.igdb.com/games/silkbulb-test",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7j8v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silkbulb Test",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2468250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2468250",
+        "Linux": "setsid steam steam://rungameid/2468250",
+        "macOS": "open steam://rungameid/2468250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silkbulb-test",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272723"
+}
