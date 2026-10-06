@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272764,
+  "name": "Freestyle Studio",
+  "source_url": "https://www.igdb.com/games/freestyle-studio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co79be.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Freestyle Studio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2627580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2627580",
+        "Linux": "setsid steam steam://rungameid/2627580",
+        "macOS": "open steam://rungameid/2627580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freestyle-studio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272764"
+}
