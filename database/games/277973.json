@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277973,
+  "name": "Dodo",
+  "source_url": "https://www.igdb.com/games/dodo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7eos.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dodo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2700250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2700250",
+        "Linux": "setsid steam steam://rungameid/2700250",
+        "macOS": "open steam://rungameid/2700250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dodo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277973"
+}
