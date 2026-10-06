@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 278749,
+  "name": "Remove",
+  "source_url": "https://www.igdb.com/games/remove",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fnz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Remove",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2685360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2685360",
+        "Linux": "setsid steam steam://rungameid/2685360",
+        "macOS": "open steam://rungameid/2685360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "remove",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=278749"
+}
