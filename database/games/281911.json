@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 281911,
+  "name": "UnDuster",
+  "source_url": "https://www.igdb.com/games/unduster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ldj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UnDuster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2753920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2753920",
+        "Linux": "setsid steam steam://rungameid/2753920",
+        "macOS": "open steam://rungameid/2753920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unduster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=281911"
+}
