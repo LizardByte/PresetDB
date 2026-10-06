@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289661,
+  "name": "Crypt Crawler",
+  "source_url": "https://www.igdb.com/games/crypt-crawler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7umg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crypt Crawler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2627640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2627640",
+        "Linux": "setsid steam steam://rungameid/2627640",
+        "macOS": "open steam://rungameid/2627640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crypt-crawler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289661"
+}
