@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275118,
+  "name": "Panda Go",
+  "source_url": "https://www.igdb.com/games/panda-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7bi3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Panda Go",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2626360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2626360",
+        "Linux": "setsid steam steam://rungameid/2626360",
+        "macOS": "open steam://rungameid/2626360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "panda-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275118"
+}
