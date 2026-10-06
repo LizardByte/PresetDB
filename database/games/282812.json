@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 282812,
+  "name": "Nobody Sleeps Tonight",
+  "source_url": "https://www.igdb.com/games/nobody-sleeps-tonight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7mu2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nobody Sleeps Tonight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2732610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2732610",
+        "Linux": "setsid steam steam://rungameid/2732610",
+        "macOS": "open steam://rungameid/2732610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nobody-sleeps-tonight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=282812"
+}
