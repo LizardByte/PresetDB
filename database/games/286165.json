@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286165,
+  "name": "Seagull Wars",
+  "source_url": "https://www.igdb.com/games/seagull-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qtw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seagull Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2705750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2705750",
+        "Linux": "setsid steam steam://rungameid/2705750",
+        "macOS": "open steam://rungameid/2705750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seagull-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286165"
+}
