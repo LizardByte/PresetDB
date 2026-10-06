@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290579,
+  "name": "Christmas Carol",
+  "source_url": "https://www.igdb.com/games/christmas-carol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazki.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Christmas Carol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "984080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/984080",
+        "Linux": "setsid steam steam://rungameid/984080",
+        "macOS": "open steam://rungameid/984080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "christmas-carol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290579"
+}
