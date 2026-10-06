@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 284822,
+  "name": "Clicky",
+  "source_url": "https://www.igdb.com/games/clicky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyqu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clicky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2582130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2582130",
+        "Linux": "setsid steam steam://rungameid/2582130",
+        "macOS": "open steam://rungameid/2582130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clicky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=284822"
+}
