@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 279890,
+  "name": "Runner",
+  "source_url": "https://www.igdb.com/games/runner--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hqa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2700470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2700470",
+        "Linux": "setsid steam steam://rungameid/2700470",
+        "macOS": "open steam://rungameid/2700470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runner--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=279890"
+}
