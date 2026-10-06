@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289630,
+  "name": "Barbotine",
+  "source_url": "https://www.igdb.com/games/barbotine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7zxb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Barbotine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2845840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2845840",
+        "Linux": "setsid steam steam://rungameid/2845840",
+        "macOS": "open steam://rungameid/2845840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "barbotine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289630"
+}
