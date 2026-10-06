@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289289,
+  "name": "I'm a Rocker!",
+  "source_url": "https://www.igdb.com/games/im-a-rocker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87xy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm a Rocker!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2676520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2676520",
+        "Linux": "setsid steam steam://rungameid/2676520",
+        "macOS": "open steam://rungameid/2676520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-a-rocker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289289"
+}
