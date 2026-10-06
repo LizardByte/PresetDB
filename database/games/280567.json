@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280567,
+  "name": "Brave Escape",
+  "source_url": "https://www.igdb.com/games/brave-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1354260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1354260",
+        "Linux": "setsid steam steam://rungameid/1354260",
+        "macOS": "open steam://rungameid/1354260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brave-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280567"
+}
