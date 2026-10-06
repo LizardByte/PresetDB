@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280103,
+  "name": "Bloodsong",
+  "source_url": "https://www.igdb.com/games/bloodsong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ihd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloodsong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2484860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2484860",
+        "Linux": "setsid steam steam://rungameid/2484860",
+        "macOS": "open steam://rungameid/2484860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bloodsong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280103"
+}
