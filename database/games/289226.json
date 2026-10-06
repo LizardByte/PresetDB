@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289226,
+  "name": "Overworked Alice",
+  "source_url": "https://www.igdb.com/games/overworked-alice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7yh0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Overworked Alice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2829330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2829330",
+        "Linux": "setsid steam steam://rungameid/2829330",
+        "macOS": "open steam://rungameid/2829330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "overworked-alice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289226"
+}
