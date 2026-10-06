@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287751,
+  "name": "HamSumo",
+  "source_url": "https://www.igdb.com/games/hamsumo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7sek.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HamSumo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2561810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2561810",
+        "Linux": "setsid steam steam://rungameid/2561810",
+        "macOS": "open steam://rungameid/2561810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hamsumo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287751"
+}
