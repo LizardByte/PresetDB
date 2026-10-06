@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 283999,
+  "name": "Bioguard",
+  "source_url": "https://www.igdb.com/games/bioguard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ruh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bioguard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2669910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2669910",
+        "Linux": "setsid steam steam://rungameid/2669910",
+        "macOS": "open steam://rungameid/2669910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bioguard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=283999"
+}
