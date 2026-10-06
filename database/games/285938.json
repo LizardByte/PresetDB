@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285938,
+  "name": "Captain Stu",
+  "source_url": "https://www.igdb.com/games/captain-stu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ql2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Captain Stu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2472510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2472510",
+        "Linux": "setsid steam steam://rungameid/2472510",
+        "macOS": "open steam://rungameid/2472510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "captain-stu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285938"
+}
