@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272361,
+  "name": "Dino",
+  "source_url": "https://www.igdb.com/games/dino--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78we.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dino",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2589550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2589550",
+        "Linux": "setsid steam steam://rungameid/2589550",
+        "macOS": "open steam://rungameid/2589550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dino--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272361"
+}
