@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274579,
+  "name": "Project I",
+  "source_url": "https://www.igdb.com/games/project-i",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7b20.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project I",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2641890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2641890",
+        "Linux": "setsid steam steam://rungameid/2641890",
+        "macOS": "open steam://rungameid/2641890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-i",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274579"
+}
