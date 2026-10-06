@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 271970,
+  "name": "Discone",
+  "source_url": "https://www.igdb.com/games/discone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78ku.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Discone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2888670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2888670",
+        "Linux": "setsid steam steam://rungameid/2888670",
+        "macOS": "open steam://rungameid/2888670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "discone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=271970"
+}
