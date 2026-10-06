@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289721,
+  "name": "NodeRunner",
+  "source_url": "https://www.igdb.com/games/noderunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7uz5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NodeRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2850830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2850830",
+        "Linux": "setsid steam steam://rungameid/2850830",
+        "macOS": "open steam://rungameid/2850830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "noderunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289721"
+}
