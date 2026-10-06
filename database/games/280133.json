@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280133,
+  "name": "Void Wizard",
+  "source_url": "https://www.igdb.com/games/void-wizard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84ip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Wizard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2717810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2717810",
+        "Linux": "setsid steam steam://rungameid/2717810",
+        "macOS": "open steam://rungameid/2717810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-wizard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280133"
+}
