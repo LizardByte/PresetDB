@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280500,
+  "name": "War Town",
+  "source_url": "https://www.igdb.com/games/war-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7j2a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2709380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2709380",
+        "Linux": "setsid steam steam://rungameid/2709380",
+        "macOS": "open steam://rungameid/2709380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280500"
+}
