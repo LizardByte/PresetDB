@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272600,
+  "name": "Soulmask",
+  "source_url": "https://www.igdb.com/games/soulmask",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulmask",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2646460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2646460",
+        "Linux": "setsid steam steam://rungameid/2646460",
+        "macOS": "open steam://rungameid/2646460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulmask",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272600"
+}
