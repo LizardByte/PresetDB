@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272369,
+  "name": "Cat & Gold",
+  "source_url": "https://www.igdb.com/games/cat-and-gold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78wm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat & Gold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2347180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2347180",
+        "Linux": "setsid steam steam://rungameid/2347180",
+        "macOS": "open steam://rungameid/2347180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-and-gold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272369"
+}
