@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 276182,
+  "name": "Really Dog",
+  "source_url": "https://www.igdb.com/games/really-dog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7cwl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Really Dog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2670890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2670890",
+        "Linux": "setsid steam steam://rungameid/2670890",
+        "macOS": "open steam://rungameid/2670890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "really-dog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=276182"
+}
