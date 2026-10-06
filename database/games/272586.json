@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272586,
+  "name": "Rush",
+  "source_url": "https://www.igdb.com/games/rush--9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co794c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2653500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2653500",
+        "Linux": "setsid steam steam://rungameid/2653500",
+        "macOS": "open steam://rungameid/2653500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rush--9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272586"
+}
