@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288391,
+  "name": "Foothold",
+  "source_url": "https://www.igdb.com/games/foothold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7tbh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foothold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2715290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2715290",
+        "Linux": "setsid steam steam://rungameid/2715290",
+        "macOS": "open steam://rungameid/2715290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foothold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288391"
+}
