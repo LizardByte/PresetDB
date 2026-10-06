@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 275880,
+  "name": "Bat Blast!",
+  "source_url": "https://www.igdb.com/games/bat-blast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ch1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bat Blast!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2683520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2683520",
+        "Linux": "setsid steam steam://rungameid/2683520",
+        "macOS": "open steam://rungameid/2683520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bat-blast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=275880"
+}
