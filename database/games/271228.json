@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 271228,
+  "name": "GoblinAmerica",
+  "source_url": "https://www.igdb.com/games/goblinamerica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qhn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GoblinAmerica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1944040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1944040",
+        "Linux": "setsid steam steam://rungameid/1944040",
+        "macOS": "open steam://rungameid/1944040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goblinamerica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=271228"
+}
