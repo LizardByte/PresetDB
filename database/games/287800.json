@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287800,
+  "name": "Defenders",
+  "source_url": "https://www.igdb.com/games/defenders--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ph7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Defenders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2745960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2745960",
+        "Linux": "setsid steam steam://rungameid/2745960",
+        "macOS": "open steam://rungameid/2745960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "defenders--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287800"
+}
