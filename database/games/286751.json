@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286751,
+  "name": "Stream Service",
+  "source_url": "https://www.igdb.com/games/stream-service--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7rda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stream Service",
+      "os": null,
+      "method": "steam",
+      "launch_id": "637310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/637310",
+        "Linux": "setsid steam steam://rungameid/637310",
+        "macOS": "open steam://rungameid/637310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stream-service--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286751"
+}
