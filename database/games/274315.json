@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274315,
+  "name": "Chasing Chickens",
+  "source_url": "https://www.igdb.com/games/chasing-chickens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ati.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chasing Chickens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2630000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2630000",
+        "Linux": "setsid steam steam://rungameid/2630000",
+        "macOS": "open steam://rungameid/2630000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chasing-chickens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274315"
+}
