@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 281073,
+  "name": "Hamster Hunter",
+  "source_url": "https://www.igdb.com/games/hamster-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7k7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hamster Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2726490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2726490",
+        "Linux": "setsid steam steam://rungameid/2726490",
+        "macOS": "open steam://rungameid/2726490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hamster-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=281073"
+}
