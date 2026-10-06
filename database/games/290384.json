@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290384,
+  "name": "Space Will",
+  "source_url": "https://www.igdb.com/games/space-will",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ver.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Will",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3070380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3070380",
+        "Linux": "setsid steam steam://rungameid/3070380",
+        "macOS": "open steam://rungameid/3070380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-will",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290384"
+}
