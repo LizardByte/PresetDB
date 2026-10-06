@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285055,
+  "name": "Overnet",
+  "source_url": "https://www.igdb.com/games/overnet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7pio.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Overnet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2652060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2652060",
+        "Linux": "setsid steam steam://rungameid/2652060",
+        "macOS": "open steam://rungameid/2652060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "overnet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285055"
+}
