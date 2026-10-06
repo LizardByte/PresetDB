@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290200,
+  "name": "Troy: The Soldier",
+  "source_url": "https://www.igdb.com/games/troy-the-soldier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v43.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Troy: The Soldier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2870470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2870470",
+        "Linux": "setsid steam steam://rungameid/2870470",
+        "macOS": "open steam://rungameid/2870470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "troy-the-soldier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290200"
+}
