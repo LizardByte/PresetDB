@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289662,
+  "name": "All You Can Take",
+  "source_url": "https://www.igdb.com/games/all-you-can-take",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7umi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All You Can Take",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1999450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1999450",
+        "Linux": "setsid steam steam://rungameid/1999450",
+        "macOS": "open steam://rungameid/1999450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "all-you-can-take",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289662"
+}
