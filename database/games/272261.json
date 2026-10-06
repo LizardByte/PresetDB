@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272261,
+  "name": "LabWatch",
+  "source_url": "https://www.igdb.com/games/labwatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78ss.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LabWatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2640760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2640760",
+        "Linux": "setsid steam steam://rungameid/2640760",
+        "macOS": "open steam://rungameid/2640760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "labwatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272261"
+}
