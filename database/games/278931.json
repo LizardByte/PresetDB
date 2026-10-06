@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 278931,
+  "name": "WhiteTrick",
+  "source_url": "https://www.igdb.com/games/whitetrick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7fyb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WhiteTrick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2709980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2709980",
+        "Linux": "setsid steam steam://rungameid/2709980",
+        "macOS": "open steam://rungameid/2709980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whitetrick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=278931"
+}
