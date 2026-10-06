@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 284411,
+  "name": "Grimshire",
+  "source_url": "https://www.igdb.com/games/grimshire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7osz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grimshire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2238470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2238470",
+        "Linux": "setsid steam steam://rungameid/2238470",
+        "macOS": "open steam://rungameid/2238470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grimshire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=284411"
+}
