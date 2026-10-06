@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277255,
+  "name": "Icharko",
+  "source_url": "https://www.igdb.com/games/icharko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7dy8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Icharko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2067770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2067770",
+        "Linux": "setsid steam steam://rungameid/2067770",
+        "macOS": "open steam://rungameid/2067770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "icharko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277255"
+}
