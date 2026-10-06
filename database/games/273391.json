@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273391,
+  "name": "Welcome to Lightford",
+  "source_url": "https://www.igdb.com/games/welcome-to-lightford",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod1j2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Lightford",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2174430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2174430",
+        "Linux": "setsid steam steam://rungameid/2174430",
+        "macOS": "open steam://rungameid/2174430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-lightford",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273391"
+}
