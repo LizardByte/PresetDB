@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280437,
+  "name": "Valkyrie Saga",
+  "source_url": "https://www.igdb.com/games/valkyrie-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9va.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valkyrie Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2663150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2663150",
+        "Linux": "setsid steam steam://rungameid/2663150",
+        "macOS": "open steam://rungameid/2663150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "valkyrie-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280437"
+}
