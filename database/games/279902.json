@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 279902,
+  "name": "Run and Retry",
+  "source_url": "https://www.igdb.com/games/run-and-retry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run and Retry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2709870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2709870",
+        "Linux": "setsid steam steam://rungameid/2709870",
+        "macOS": "open steam://rungameid/2709870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-and-retry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=279902"
+}
