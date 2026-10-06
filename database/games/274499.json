@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 274499,
+  "name": "Teku",
+  "source_url": "https://www.igdb.com/games/teku",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7azc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Teku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2660750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2660750",
+        "Linux": "setsid steam steam://rungameid/2660750",
+        "macOS": "open steam://rungameid/2660750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teku",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=274499"
+}
