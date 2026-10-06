@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277277,
+  "name": "Rise & Reign",
+  "source_url": "https://www.igdb.com/games/rise-and-reign",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo3w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rise & Reign",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1334440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1334440",
+        "Linux": "setsid steam steam://rungameid/1334440",
+        "macOS": "open steam://rungameid/1334440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rise-and-reign",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277277"
+}
