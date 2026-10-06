@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280116,
+  "name": "Roll Over Princess",
+  "source_url": "https://www.igdb.com/games/roll-over-princess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ihs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll Over Princess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2717690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2717690",
+        "Linux": "setsid steam steam://rungameid/2717690",
+        "macOS": "open steam://rungameid/2717690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-over-princess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280116"
+}
