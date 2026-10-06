@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289716,
+  "name": "Search All: Dogs",
+  "source_url": "https://www.igdb.com/games/search-all-dogs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7uq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Dogs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2846740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2846740",
+        "Linux": "setsid steam steam://rungameid/2846740",
+        "macOS": "open steam://rungameid/2846740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-dogs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289716"
+}
