@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290485,
+  "name": "Road Toad",
+  "source_url": "https://www.igdb.com/games/road-toad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Road Toad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2744840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2744840",
+        "Linux": "setsid steam steam://rungameid/2744840",
+        "macOS": "open steam://rungameid/2744840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "road-toad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290485"
+}
