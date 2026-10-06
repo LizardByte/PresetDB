@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285564,
+  "name": "Look At Me",
+  "source_url": "https://www.igdb.com/games/look-at-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8tgt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Look At Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2611370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2611370",
+        "Linux": "setsid steam steam://rungameid/2611370",
+        "macOS": "open steam://rungameid/2611370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "look-at-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285564"
+}
