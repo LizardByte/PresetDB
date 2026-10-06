@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277762,
+  "name": "Bear It",
+  "source_url": "https://www.igdb.com/games/bear-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7efi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bear It",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2475240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2475240",
+        "Linux": "setsid steam steam://rungameid/2475240",
+        "macOS": "open steam://rungameid/2475240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bear-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277762"
+}
