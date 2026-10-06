@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287002,
+  "name": "ZomBay",
+  "source_url": "https://www.igdb.com/games/zombay",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa21q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZomBay",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2776480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2776480",
+        "Linux": "setsid steam steam://rungameid/2776480",
+        "macOS": "open steam://rungameid/2776480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombay",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287002"
+}
