@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290724,
+  "name": "Communion",
+  "source_url": "https://www.igdb.com/games/communion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaztb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Communion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1274670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1274670",
+        "Linux": "setsid steam steam://rungameid/1274670",
+        "macOS": "open steam://rungameid/1274670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "communion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290724"
+}
