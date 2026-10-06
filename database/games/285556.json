@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285556,
+  "name": "Summoneer",
+  "source_url": "https://www.igdb.com/games/summoneer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7q53.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Summoneer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2764340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2764340",
+        "Linux": "setsid steam steam://rungameid/2764340",
+        "macOS": "open steam://rungameid/2764340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "summoneer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285556"
+}
