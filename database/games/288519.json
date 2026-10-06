@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 288519,
+  "name": "USG",
+  "source_url": "https://www.igdb.com/games/usg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8n90.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "USG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2837160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2837160",
+        "Linux": "setsid steam steam://rungameid/2837160",
+        "macOS": "open steam://rungameid/2837160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "usg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=288519"
+}
