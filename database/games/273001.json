@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273001,
+  "name": "Daemon Sigil",
+  "source_url": "https://www.igdb.com/games/daemon-sigil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7l34.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daemon Sigil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2632650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2632650",
+        "Linux": "setsid steam steam://rungameid/2632650",
+        "macOS": "open steam://rungameid/2632650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "daemon-sigil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273001"
+}
