@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290516,
+  "name": "Delicious Donut",
+  "source_url": "https://www.igdb.com/games/delicious-donut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vj8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Delicious Donut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2791620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2791620",
+        "Linux": "setsid steam steam://rungameid/2791620",
+        "macOS": "open steam://rungameid/2791620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "delicious-donut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290516"
+}
