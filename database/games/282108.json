@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 282108,
+  "name": "Proximate",
+  "source_url": "https://www.igdb.com/games/proximate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co90p0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Proximate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2957800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2957800",
+        "Linux": "setsid steam steam://rungameid/2957800",
+        "macOS": "open steam://rungameid/2957800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "proximate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=282108"
+}
