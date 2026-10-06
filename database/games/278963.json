@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 278963,
+  "name": "Boom! Buster",
+  "source_url": "https://www.igdb.com/games/boom-buster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7hm4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boom! Buster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2498890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2498890",
+        "Linux": "setsid steam steam://rungameid/2498890",
+        "macOS": "open steam://rungameid/2498890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boom-buster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=278963"
+}
