@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286161,
+  "name": "Bunny Hungry",
+  "source_url": "https://www.igdb.com/games/bunny-hungry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7qtt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Hungry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2667010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2667010",
+        "Linux": "setsid steam steam://rungameid/2667010",
+        "macOS": "open steam://rungameid/2667010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunny-hungry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286161"
+}
