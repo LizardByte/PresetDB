@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 276628,
+  "name": "Oh Yeah",
+  "source_url": "https://www.igdb.com/games/oh-yeah",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7dbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oh Yeah",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2589970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2589970",
+        "Linux": "setsid steam steam://rungameid/2589970",
+        "macOS": "open steam://rungameid/2589970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oh-yeah",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=276628"
+}
