@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285509,
+  "name": "Oneiric",
+  "source_url": "https://www.igdb.com/games/oneiric",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7q3z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oneiric",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2735930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2735930",
+        "Linux": "setsid steam steam://rungameid/2735930",
+        "macOS": "open steam://rungameid/2735930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oneiric",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285509"
+}
