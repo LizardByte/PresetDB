@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 287739,
+  "name": "The Last Rose",
+  "source_url": "https://www.igdb.com/games/the-last-rose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7se6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Rose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2784150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2784150",
+        "Linux": "setsid steam steam://rungameid/2784150",
+        "macOS": "open steam://rungameid/2784150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-rose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=287739"
+}
