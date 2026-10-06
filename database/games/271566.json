@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 271566,
+  "name": "This Game Is Easy",
+  "source_url": "https://www.igdb.com/games/this-game-is-easy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co781f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This Game Is Easy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2493630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2493630",
+        "Linux": "setsid steam steam://rungameid/2493630",
+        "macOS": "open steam://rungameid/2493630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-game-is-easy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=271566"
+}
