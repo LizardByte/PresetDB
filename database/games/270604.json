@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270604,
+  "name": "Escape from the Shadows",
+  "source_url": "https://www.igdb.com/games/escape-from-the-shadows",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co77aw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from the Shadows",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4883190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4883190",
+        "Linux": "setsid steam steam://rungameid/4883190",
+        "macOS": "open steam://rungameid/4883190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-the-shadows",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270604"
+}
