@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 273445,
+  "name": "Realtor",
+  "source_url": "https://www.igdb.com/games/realtor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99gh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Realtor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2657900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2657900",
+        "Linux": "setsid steam steam://rungameid/2657900",
+        "macOS": "open steam://rungameid/2657900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "realtor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=273445"
+}
