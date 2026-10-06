@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 289870,
+  "name": "Hanno",
+  "source_url": "https://www.igdb.com/games/hanno",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8csz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hanno",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2851120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2851120",
+        "Linux": "setsid steam steam://rungameid/2851120",
+        "macOS": "open steam://rungameid/2851120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hanno",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=289870"
+}
