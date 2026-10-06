@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 282266,
+  "name": "Veilslash",
+  "source_url": "https://www.igdb.com/games/veilslash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7lrc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Veilslash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "923020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/923020",
+        "Linux": "setsid steam steam://rungameid/923020",
+        "macOS": "open steam://rungameid/923020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "veilslash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=282266"
+}
