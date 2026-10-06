@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290649,
+  "name": "Boomeroad",
+  "source_url": "https://www.igdb.com/games/boomeroad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobr9x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boomeroad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2512820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2512820",
+        "Linux": "setsid steam steam://rungameid/2512820",
+        "macOS": "open steam://rungameid/2512820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boomeroad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290649"
+}
