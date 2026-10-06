@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 282011,
+  "name": "Desktop Tourney World",
+  "source_url": "https://www.igdb.com/games/desktop-tourney-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7liw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Tourney World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2617800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2617800",
+        "Linux": "setsid steam steam://rungameid/2617800",
+        "macOS": "open steam://rungameid/2617800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-tourney-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=282011"
+}
