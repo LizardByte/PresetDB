@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285987,
+  "name": "Teeto",
+  "source_url": "https://www.igdb.com/games/teeto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ecr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Teeto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2783370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2783370",
+        "Linux": "setsid steam steam://rungameid/2783370",
+        "macOS": "open steam://rungameid/2783370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teeto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285987"
+}
