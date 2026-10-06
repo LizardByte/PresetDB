@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 270828,
+  "name": "The Witches Story",
+  "source_url": "https://www.igdb.com/games/the-witches-story",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bxb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Witches Story",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2585280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2585280",
+        "Linux": "setsid steam steam://rungameid/2585280",
+        "macOS": "open steam://rungameid/2585280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-witches-story",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=270828"
+}
