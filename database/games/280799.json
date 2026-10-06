@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 280799,
+  "name": "Cat Fantasy",
+  "source_url": "https://www.igdb.com/games/cat-fantasy--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8tx2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Fantasy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2247430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2247430",
+        "Linux": "setsid steam steam://rungameid/2247430",
+        "macOS": "open steam://rungameid/2247430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-fantasy--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=280799"
+}
