@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 272357,
+  "name": "Li'l Red",
+  "source_url": "https://www.igdb.com/games/lil-red",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co85fh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Li'l Red",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2641500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2641500",
+        "Linux": "setsid steam steam://rungameid/2641500",
+        "macOS": "open steam://rungameid/2641500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lil-red",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=272357"
+}
