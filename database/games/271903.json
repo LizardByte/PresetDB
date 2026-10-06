@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 271903,
+  "name": "Sut",
+  "source_url": "https://www.igdb.com/games/sut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co78f7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2638880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2638880",
+        "Linux": "setsid steam steam://rungameid/2638880",
+        "macOS": "open steam://rungameid/2638880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=271903"
+}
