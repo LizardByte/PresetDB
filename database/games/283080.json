@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 283080,
+  "name": "1991",
+  "source_url": "https://www.igdb.com/games/1991",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7n9h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1991",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2731000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2731000",
+        "Linux": "setsid steam steam://rungameid/2731000",
+        "macOS": "open steam://rungameid/2731000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "1991",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=283080"
+}
