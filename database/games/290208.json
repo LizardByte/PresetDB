@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290208,
+  "name": "Dice-Zee!",
+  "source_url": "https://www.igdb.com/games/dice-zee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7v4c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dice-Zee!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2857400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2857400",
+        "Linux": "setsid steam steam://rungameid/2857400",
+        "macOS": "open steam://rungameid/2857400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dice-zee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290208"
+}
