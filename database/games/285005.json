@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 285005,
+  "name": "DearMyFriend",
+  "source_url": "https://www.igdb.com/games/dearmyfriend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7pgc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DearMyFriend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1953430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1953430",
+        "Linux": "setsid steam steam://rungameid/1953430",
+        "macOS": "open steam://rungameid/1953430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dearmyfriend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=285005"
+}
