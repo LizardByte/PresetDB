@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286833,
+  "name": "You are Apt",
+  "source_url": "https://www.igdb.com/games/you-are-apt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagjh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You are Apt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1140930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1140930",
+        "Linux": "setsid steam steam://rungameid/1140930",
+        "macOS": "open steam://rungameid/1140930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-are-apt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286833"
+}
