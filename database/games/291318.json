@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291318,
+  "name": "Technotopia",
+  "source_url": "https://www.igdb.com/games/technotopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8b79.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Technotopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2825110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2825110",
+        "Linux": "setsid steam steam://rungameid/2825110",
+        "macOS": "open steam://rungameid/2825110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "technotopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291318"
+}
