@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291224,
+  "name": "FreeInfantry",
+  "source_url": "https://www.igdb.com/games/freeinfantry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7mp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FreeInfantry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2830720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2830720",
+        "Linux": "setsid steam steam://rungameid/2830720",
+        "macOS": "open steam://rungameid/2830720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "freeinfantry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291224"
+}
