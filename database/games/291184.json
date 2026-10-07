@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291184,
+  "name": "Firesky",
+  "source_url": "https://www.igdb.com/games/firesky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7w1p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Firesky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2859900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2859900",
+        "Linux": "setsid steam steam://rungameid/2859900",
+        "macOS": "open steam://rungameid/2859900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "firesky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291184"
+}
