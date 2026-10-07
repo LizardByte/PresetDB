@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292330,
+  "name": "The Scar",
+  "source_url": "https://www.igdb.com/games/the-scar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaivd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Scar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2869750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2869750",
+        "Linux": "setsid steam steam://rungameid/2869750",
+        "macOS": "open steam://rungameid/2869750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-scar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292330"
+}
