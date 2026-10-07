@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291194,
+  "name": "Bar Breaker",
+  "source_url": "https://www.igdb.com/games/bar-breaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblxe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bar Breaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2866250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2866250",
+        "Linux": "setsid steam steam://rungameid/2866250",
+        "macOS": "open steam://rungameid/2866250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bar-breaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291194"
+}
