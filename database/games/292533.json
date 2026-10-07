@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292533,
+  "name": "Star Scum",
+  "source_url": "https://www.igdb.com/games/star-scum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star Scum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2886700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2886700",
+        "Linux": "setsid steam steam://rungameid/2886700",
+        "macOS": "open steam://rungameid/2886700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-scum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292533"
+}
