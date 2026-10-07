@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292190,
+  "name": "Lost Beacon",
+  "source_url": "https://www.igdb.com/games/lost-beacon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Beacon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2440210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2440210",
+        "Linux": "setsid steam steam://rungameid/2440210",
+        "macOS": "open steam://rungameid/2440210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-beacon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292190"
+}
