@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291782,
+  "name": "Gamebox",
+  "source_url": "https://www.igdb.com/games/gamebox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wjh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gamebox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2744620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2744620",
+        "Linux": "setsid steam steam://rungameid/2744620",
+        "macOS": "open steam://rungameid/2744620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gamebox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291782"
+}
