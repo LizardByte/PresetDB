@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291230,
+  "name": "Please Stop Crying",
+  "source_url": "https://www.igdb.com/games/please-stop-crying",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co81lo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Please Stop Crying",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2757840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2757840",
+        "Linux": "setsid steam steam://rungameid/2757840",
+        "macOS": "open steam://rungameid/2757840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "please-stop-crying",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291230"
+}
