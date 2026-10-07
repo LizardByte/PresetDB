@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292183,
+  "name": "Search of the Source",
+  "source_url": "https://www.igdb.com/games/search-of-the-source",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x5s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search of the Source",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2808790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2808790",
+        "Linux": "setsid steam steam://rungameid/2808790",
+        "macOS": "open steam://rungameid/2808790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-of-the-source",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292183"
+}
