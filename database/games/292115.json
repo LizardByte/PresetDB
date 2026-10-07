@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292115,
+  "name": "Reaper",
+  "source_url": "https://www.igdb.com/games/reaper--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7xlf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2870170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2870170",
+        "Linux": "setsid steam steam://rungameid/2870170",
+        "macOS": "open steam://rungameid/2870170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reaper--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292115"
+}
