@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291817,
+  "name": "Rockhopper",
+  "source_url": "https://www.igdb.com/games/rockhopper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wki.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rockhopper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2842070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2842070",
+        "Linux": "setsid steam steam://rungameid/2842070",
+        "macOS": "open steam://rungameid/2842070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rockhopper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291817"
+}
