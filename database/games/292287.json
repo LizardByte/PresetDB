@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292287,
+  "name": "Runombie",
+  "source_url": "https://www.igdb.com/games/runombie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x91.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runombie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2130250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2130250",
+        "Linux": "setsid steam steam://rungameid/2130250",
+        "macOS": "open steam://rungameid/2130250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runombie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292287"
+}
