@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291305,
+  "name": "Botfestation",
+  "source_url": "https://www.igdb.com/games/botfestation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobr0i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Botfestation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2804430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2804430",
+        "Linux": "setsid steam steam://rungameid/2804430",
+        "macOS": "open steam://rungameid/2804430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "botfestation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291305"
+}
