@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292252,
+  "name": "Hacker",
+  "source_url": "https://www.igdb.com/games/hacker--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hacker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2883270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2883270",
+        "Linux": "setsid steam steam://rungameid/2883270",
+        "macOS": "open steam://rungameid/2883270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hacker--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292252"
+}
