@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291840,
+  "name": "Be Silent",
+  "source_url": "https://www.igdb.com/games/be-silent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g1d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Be Silent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2823400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2823400",
+        "Linux": "setsid steam steam://rungameid/2823400",
+        "macOS": "open steam://rungameid/2823400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "be-silent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291840"
+}
