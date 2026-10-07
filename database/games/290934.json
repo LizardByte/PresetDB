@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290934,
+  "name": "Arc TCG",
+  "source_url": "https://www.igdb.com/games/arc-tcg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vv4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arc TCG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2842430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2842430",
+        "Linux": "setsid steam steam://rungameid/2842430",
+        "macOS": "open steam://rungameid/2842430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arc-tcg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290934"
+}
