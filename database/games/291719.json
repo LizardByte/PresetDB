@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291719,
+  "name": "Red Magic",
+  "source_url": "https://www.igdb.com/games/red-magic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7whr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Magic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2837860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2837860",
+        "Linux": "setsid steam steam://rungameid/2837860",
+        "macOS": "open steam://rungameid/2837860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-magic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291719"
+}
