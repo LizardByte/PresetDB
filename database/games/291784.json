@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291784,
+  "name": "Pogo-Gogo",
+  "source_url": "https://www.igdb.com/games/pogo-gogo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wjf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pogo-Gogo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2820680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2820680",
+        "Linux": "setsid steam steam://rungameid/2820680",
+        "macOS": "open steam://rungameid/2820680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pogo-gogo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291784"
+}
