@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292306,
+  "name": "Stream or Die!",
+  "source_url": "https://www.igdb.com/games/stream-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97zg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stream or Die!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2530160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2530160",
+        "Linux": "setsid steam steam://rungameid/2530160",
+        "macOS": "open steam://rungameid/2530160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stream-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292306"
+}
