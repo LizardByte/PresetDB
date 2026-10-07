@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291501,
+  "name": "Cryptrio",
+  "source_url": "https://www.igdb.com/games/cryptrio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cryptrio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2878680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2878680",
+        "Linux": "setsid steam steam://rungameid/2878680",
+        "macOS": "open steam://rungameid/2878680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cryptrio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291501"
+}
