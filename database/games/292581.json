@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292581,
+  "name": "Duel of games",
+  "source_url": "https://www.igdb.com/games/duel-of-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7xhu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duel of games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2859870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2859870",
+        "Linux": "setsid steam steam://rungameid/2859870",
+        "macOS": "open steam://rungameid/2859870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duel-of-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292581"
+}
