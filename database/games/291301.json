@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291301,
+  "name": "Billy's Game Show",
+  "source_url": "https://www.igdb.com/games/billys-game-show",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8so7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Billy's Game Show",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2762290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2762290",
+        "Linux": "setsid steam steam://rungameid/2762290",
+        "macOS": "open steam://rungameid/2762290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "billys-game-show",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291301"
+}
