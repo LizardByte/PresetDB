@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292172,
+  "name": "Flikk",
+  "source_url": "https://www.igdb.com/games/flikk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x5i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flikk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2834470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2834470",
+        "Linux": "setsid steam steam://rungameid/2834470",
+        "macOS": "open steam://rungameid/2834470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flikk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292172"
+}
