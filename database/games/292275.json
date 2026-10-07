@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292275,
+  "name": "Boink",
+  "source_url": "https://www.igdb.com/games/boink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x8n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boink",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2788200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2788200",
+        "Linux": "setsid steam steam://rungameid/2788200",
+        "macOS": "open steam://rungameid/2788200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292275"
+}
