@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291873,
+  "name": "Nauts",
+  "source_url": "https://www.igdb.com/games/nauts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwdm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nauts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2845520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2845520",
+        "Linux": "setsid steam steam://rungameid/2845520",
+        "macOS": "open steam://rungameid/2845520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nauts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291873"
+}
