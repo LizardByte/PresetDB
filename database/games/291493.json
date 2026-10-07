@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291493,
+  "name": "Cuplex",
+  "source_url": "https://www.igdb.com/games/cuplex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wa9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cuplex",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2499100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2499100",
+        "Linux": "setsid steam steam://rungameid/2499100",
+        "macOS": "open steam://rungameid/2499100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cuplex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291493"
+}
