@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291330,
+  "name": "Chicago Project",
+  "source_url": "https://www.igdb.com/games/chicago-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7w5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chicago Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2766650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2766650",
+        "Linux": "setsid steam steam://rungameid/2766650",
+        "macOS": "open steam://rungameid/2766650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chicago-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291330"
+}
