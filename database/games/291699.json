@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291699,
+  "name": "Otto's Escape",
+  "source_url": "https://www.igdb.com/games/ottos-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wh6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Otto's Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2860580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2860580",
+        "Linux": "setsid steam steam://rungameid/2860580",
+        "macOS": "open steam://rungameid/2860580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ottos-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291699"
+}
