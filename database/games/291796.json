@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291796,
+  "name": "Mermaid Tale",
+  "source_url": "https://www.igdb.com/games/mermaid-tale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wjv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mermaid Tale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2678910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2678910",
+        "Linux": "setsid steam steam://rungameid/2678910",
+        "macOS": "open steam://rungameid/2678910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mermaid-tale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291796"
+}
