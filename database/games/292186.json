@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292186,
+  "name": "HealQuest",
+  "source_url": "https://www.igdb.com/games/healquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97ff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HealQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2713040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2713040",
+        "Linux": "setsid steam steam://rungameid/2713040",
+        "macOS": "open steam://rungameid/2713040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "healquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292186"
+}
