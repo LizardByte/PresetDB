@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291455,
+  "name": "Mother May I",
+  "source_url": "https://www.igdb.com/games/mother-may-i",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7w9a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mother May I",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2830850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2830850",
+        "Linux": "setsid steam steam://rungameid/2830850",
+        "macOS": "open steam://rungameid/2830850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mother-may-i",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291455"
+}
