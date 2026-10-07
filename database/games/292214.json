@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292214,
+  "name": "Fate's Theater",
+  "source_url": "https://www.igdb.com/games/fates-theater--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobehb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fate's Theater",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2804100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2804100",
+        "Linux": "setsid steam steam://rungameid/2804100",
+        "macOS": "open steam://rungameid/2804100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fates-theater--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292214"
+}
