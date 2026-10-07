@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292187,
+  "name": "RetroFight",
+  "source_url": "https://www.igdb.com/games/retrofight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8qd0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RetroFight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2837980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2837980",
+        "Linux": "setsid steam steam://rungameid/2837980",
+        "macOS": "open steam://rungameid/2837980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retrofight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292187"
+}
