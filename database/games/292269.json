@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292269,
+  "name": "Computer Fury",
+  "source_url": "https://www.igdb.com/games/computer-fury",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x8h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Computer Fury",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2829060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2829060",
+        "Linux": "setsid steam steam://rungameid/2829060",
+        "macOS": "open steam://rungameid/2829060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "computer-fury",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292269"
+}
