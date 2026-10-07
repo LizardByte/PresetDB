@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292352,
+  "name": "Play Together: Party Games",
+  "source_url": "https://www.igdb.com/games/play-together-party-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gxk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play Together: Party Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "746210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/746210",
+        "Linux": "setsid steam steam://rungameid/746210",
+        "macOS": "open steam://rungameid/746210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "play-together-party-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292352"
+}
