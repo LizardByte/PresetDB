@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290907,
+  "name": "Going Upstream",
+  "source_url": "https://www.igdb.com/games/going-upstream",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vuf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Going Upstream",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2745530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2745530",
+        "Linux": "setsid steam steam://rungameid/2745530",
+        "macOS": "open steam://rungameid/2745530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "going-upstream",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290907"
+}
