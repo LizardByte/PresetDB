@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292308,
+  "name": "SMYS: Classic",
+  "source_url": "https://www.igdb.com/games/smys-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x9o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SMYS: Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2879490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2879490",
+        "Linux": "setsid steam steam://rungameid/2879490",
+        "macOS": "open steam://rungameid/2879490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smys-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292308"
+}
