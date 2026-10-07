@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292560,
+  "name": "Space Sprouts",
+  "source_url": "https://www.igdb.com/games/space-sprouts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9226.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Sprouts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2790020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2790020",
+        "Linux": "setsid steam steam://rungameid/2790020",
+        "macOS": "open steam://rungameid/2790020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-sprouts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292560"
+}
