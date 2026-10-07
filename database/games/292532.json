@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292532,
+  "name": "Only Pinball",
+  "source_url": "https://www.igdb.com/games/only-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7xgd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Only Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2821740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2821740",
+        "Linux": "setsid steam steam://rungameid/2821740",
+        "macOS": "open steam://rungameid/2821740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "only-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292532"
+}
