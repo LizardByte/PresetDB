@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292413,
+  "name": "Survivors",
+  "source_url": "https://www.igdb.com/games/survivors--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fxi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2869470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2869470",
+        "Linux": "setsid steam steam://rungameid/2869470",
+        "macOS": "open steam://rungameid/2869470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "survivors--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292413"
+}
