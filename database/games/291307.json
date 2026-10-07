@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291307,
+  "name": "King Island",
+  "source_url": "https://www.igdb.com/games/king-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e2y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2847430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2847430",
+        "Linux": "setsid steam steam://rungameid/2847430",
+        "macOS": "open steam://rungameid/2847430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291307"
+}
