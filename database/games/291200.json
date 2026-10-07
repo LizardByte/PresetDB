@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291200,
+  "name": "100 Funny Cats",
+  "source_url": "https://www.igdb.com/games/100-funny-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "100 Funny Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2881230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2881230",
+        "Linux": "setsid steam steam://rungameid/2881230",
+        "macOS": "open steam://rungameid/2881230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "100-funny-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291200"
+}
