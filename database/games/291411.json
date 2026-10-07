@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291411,
+  "name": "Dino Cats",
+  "source_url": "https://www.igdb.com/games/dino-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8aib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dino Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2835030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2835030",
+        "Linux": "setsid steam steam://rungameid/2835030",
+        "macOS": "open steam://rungameid/2835030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dino-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291411"
+}
