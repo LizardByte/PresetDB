@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290917,
+  "name": "WizUp!",
+  "source_url": "https://www.igdb.com/games/wizup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vuo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WizUp!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2864500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2864500",
+        "Linux": "setsid steam steam://rungameid/2864500",
+        "macOS": "open steam://rungameid/2864500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wizup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290917"
+}
