@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292045,
+  "name": "Suicide Simulator",
+  "source_url": "https://www.igdb.com/games/suicide-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wtm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suicide Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "703810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/703810",
+        "Linux": "setsid steam steam://rungameid/703810",
+        "macOS": "open steam://rungameid/703810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "suicide-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292045"
+}
