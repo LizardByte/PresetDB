@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292268,
+  "name": "ZenFire",
+  "source_url": "https://www.igdb.com/games/zenfire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x8g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZenFire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2840430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2840430",
+        "Linux": "setsid steam steam://rungameid/2840430",
+        "macOS": "open steam://rungameid/2840430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zenfire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292268"
+}
