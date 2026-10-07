@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292174,
+  "name": "Sire",
+  "source_url": "https://www.igdb.com/games/sire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coas2d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2779020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2779020",
+        "Linux": "setsid steam steam://rungameid/2779020",
+        "macOS": "open steam://rungameid/2779020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292174"
+}
