@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 290927,
+  "name": "Hack.ing",
+  "source_url": "https://www.igdb.com/games/hack-dot-ing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7vuv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hack.ing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2811360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2811360",
+        "Linux": "setsid steam steam://rungameid/2811360",
+        "macOS": "open steam://rungameid/2811360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hack-dot-ing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=290927"
+}
