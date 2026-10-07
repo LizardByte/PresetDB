@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291885,
+  "name": "One More Day",
+  "source_url": "https://www.igdb.com/games/one-more-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7wmd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One More Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2685320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2685320",
+        "Linux": "setsid steam steam://rungameid/2685320",
+        "macOS": "open steam://rungameid/2685320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-more-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291885"
+}
