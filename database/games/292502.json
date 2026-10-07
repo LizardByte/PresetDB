@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292502,
+  "name": "Take a Look",
+  "source_url": "https://www.igdb.com/games/take-a-look",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7xfi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Take a Look",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2865200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2865200",
+        "Linux": "setsid steam steam://rungameid/2865200",
+        "macOS": "open steam://rungameid/2865200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "take-a-look",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292502"
+}
