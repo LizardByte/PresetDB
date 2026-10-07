@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 291403,
+  "name": "Maronia",
+  "source_url": "https://www.igdb.com/games/maronia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7w7u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maronia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2424040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2424040",
+        "Linux": "setsid steam steam://rungameid/2424040",
+        "macOS": "open steam://rungameid/2424040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maronia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=291403"
+}
