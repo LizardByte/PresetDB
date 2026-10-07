@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292293,
+  "name": "Kill Me If You Can",
+  "source_url": "https://www.igdb.com/games/kill-me-if-you-can",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7x98.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill Me If You Can",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2878230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2878230",
+        "Linux": "setsid steam steam://rungameid/2878230",
+        "macOS": "open steam://rungameid/2878230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-me-if-you-can",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292293"
+}
