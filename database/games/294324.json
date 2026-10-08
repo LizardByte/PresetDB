@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 294324,
+  "name": "Slime Mayhem",
+  "source_url": "https://www.igdb.com/games/slime-mayhem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7ztn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Mayhem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2908840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2908840",
+        "Linux": "setsid steam steam://rungameid/2908840",
+        "macOS": "open steam://rungameid/2908840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-mayhem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=294324"
+}
