@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 299748,
+  "name": "Game with Friends",
+  "source_url": "https://www.igdb.com/games/game-with-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co85ex.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game with Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2956640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2956640",
+        "Linux": "setsid steam steam://rungameid/2956640",
+        "macOS": "open steam://rungameid/2956640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-with-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=299748"
+}
