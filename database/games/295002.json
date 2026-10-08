@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295002,
+  "name": "I'm Not Sleepy",
+  "source_url": "https://www.igdb.com/games/im-not-sleepy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80jo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm Not Sleepy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2512680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2512680",
+        "Linux": "setsid steam steam://rungameid/2512680",
+        "macOS": "open steam://rungameid/2512680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-not-sleepy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295002"
+}
