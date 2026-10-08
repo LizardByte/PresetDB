@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296344,
+  "name": "Aston",
+  "source_url": "https://www.igdb.com/games/aston",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co81wo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aston",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2871840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2871840",
+        "Linux": "setsid steam steam://rungameid/2871840",
+        "macOS": "open steam://rungameid/2871840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aston",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296344"
+}
