@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298314,
+  "name": "Yars Rising",
+  "source_url": "https://www.igdb.com/games/yars-rising",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83o6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yars Rising",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2534370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2534370",
+        "Linux": "setsid steam steam://rungameid/2534370",
+        "macOS": "open steam://rungameid/2534370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yars-rising",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298314"
+}
