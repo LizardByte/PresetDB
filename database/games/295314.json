@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295314,
+  "name": "Castaway",
+  "source_url": "https://www.igdb.com/games/castaway--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co81k9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Castaway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2564860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2564860",
+        "Linux": "setsid steam steam://rungameid/2564860",
+        "macOS": "open steam://rungameid/2564860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "castaway--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295314"
+}
