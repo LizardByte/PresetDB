@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309387,
+  "name": "Toilet",
+  "source_url": "https://www.igdb.com/games/toilet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8obn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toilet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3090920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3090920",
+        "Linux": "setsid steam steam://rungameid/3090920",
+        "macOS": "open steam://rungameid/3090920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toilet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309387"
+}
