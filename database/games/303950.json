@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303950,
+  "name": "The End of You",
+  "source_url": "https://www.igdb.com/games/the-end-of-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fg8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The End of You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2962000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2962000",
+        "Linux": "setsid steam steam://rungameid/2962000",
+        "macOS": "open steam://rungameid/2962000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-end-of-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303950"
+}
