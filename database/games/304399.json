@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304399,
+  "name": "The Playful Worm",
+  "source_url": "https://www.igdb.com/games/the-playful-worm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8etz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Playful Worm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3014840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3014840",
+        "Linux": "setsid steam steam://rungameid/3014840",
+        "macOS": "open steam://rungameid/3014840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-playful-worm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304399"
+}
