@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302123,
+  "name": "Fastival",
+  "source_url": "https://www.igdb.com/games/fastival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobknn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fastival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2830700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2830700",
+        "Linux": "setsid steam steam://rungameid/2830700",
+        "macOS": "open steam://rungameid/2830700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fastival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302123"
+}
