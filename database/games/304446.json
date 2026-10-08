@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304446,
+  "name": "King of Stocks",
+  "source_url": "https://www.igdb.com/games/king-of-stocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King of Stocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3016810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3016810",
+        "Linux": "setsid steam steam://rungameid/3016810",
+        "macOS": "open steam://rungameid/3016810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-of-stocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304446"
+}
