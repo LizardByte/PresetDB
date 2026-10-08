@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304941,
+  "name": "Dungeon Master",
+  "source_url": "https://www.igdb.com/games/dungeon-master--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bds.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3024560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3024560",
+        "Linux": "setsid steam steam://rungameid/3024560",
+        "macOS": "open steam://rungameid/3024560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-master--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304941"
+}
