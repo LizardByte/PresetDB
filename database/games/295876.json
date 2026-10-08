@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295876,
+  "name": "Hyperbeat",
+  "source_url": "https://www.igdb.com/games/hyperbeat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapr3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyperbeat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2263360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2263360",
+        "Linux": "setsid steam steam://rungameid/2263360",
+        "macOS": "open steam://rungameid/2263360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyperbeat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295876"
+}
