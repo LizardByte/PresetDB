@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298238,
+  "name": "Moon Samurai",
+  "source_url": "https://www.igdb.com/games/moon-samurai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z76.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon Samurai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2828600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2828600",
+        "Linux": "setsid steam steam://rungameid/2828600",
+        "macOS": "open steam://rungameid/2828600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-samurai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298238"
+}
