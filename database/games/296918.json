@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296918,
+  "name": "I Am Dog",
+  "source_url": "https://www.igdb.com/games/i-am-dog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91o0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am Dog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2882280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2882280",
+        "Linux": "setsid steam steam://rungameid/2882280",
+        "macOS": "open steam://rungameid/2882280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-dog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296918"
+}
