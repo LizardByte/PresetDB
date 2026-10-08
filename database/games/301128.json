@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301128,
+  "name": "Archean",
+  "source_url": "https://www.igdb.com/games/archean",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87o5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Archean",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2941660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2941660",
+        "Linux": "setsid steam steam://rungameid/2941660",
+        "macOS": "open steam://rungameid/2941660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "archean",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301128"
+}
