@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296332,
+  "name": "Jetrunner",
+  "source_url": "https://www.igdb.com/games/jetrunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1bk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jetrunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2865670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2865670",
+        "Linux": "setsid steam steam://rungameid/2865670",
+        "macOS": "open steam://rungameid/2865670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jetrunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296332"
+}
