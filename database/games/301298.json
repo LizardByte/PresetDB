@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301298,
+  "name": "Deadlock",
+  "source_url": "https://www.igdb.com/games/deadlock--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deadlock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1422450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1422450",
+        "Linux": "setsid steam steam://rungameid/1422450",
+        "macOS": "open steam://rungameid/1422450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadlock--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301298"
+}
