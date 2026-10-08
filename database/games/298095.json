@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298095,
+  "name": "Shogun",
+  "source_url": "https://www.igdb.com/games/shogun--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83hu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shogun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2010160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2010160",
+        "Linux": "setsid steam steam://rungameid/2010160",
+        "macOS": "open steam://rungameid/2010160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shogun--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298095"
+}
