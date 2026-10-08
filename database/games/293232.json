@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293232,
+  "name": "Bingo Beavers",
+  "source_url": "https://www.igdb.com/games/bingo-beavers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8qms.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bingo Beavers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2367580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2367580",
+        "Linux": "setsid steam steam://rungameid/2367580",
+        "macOS": "open steam://rungameid/2367580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bingo-beavers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293232"
+}
