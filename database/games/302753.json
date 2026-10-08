@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302753,
+  "name": "Space Base",
+  "source_url": "https://www.igdb.com/games/space-base",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co897g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Base",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2996960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2996960",
+        "Linux": "setsid steam steam://rungameid/2996960",
+        "macOS": "open steam://rungameid/2996960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-base",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302753"
+}
