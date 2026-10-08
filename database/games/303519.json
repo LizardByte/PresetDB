@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303519,
+  "name": "Equire",
+  "source_url": "https://www.igdb.com/games/equire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89w5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Equire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2965400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2965400",
+        "Linux": "setsid steam steam://rungameid/2965400",
+        "macOS": "open steam://rungameid/2965400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "equire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303519"
+}
