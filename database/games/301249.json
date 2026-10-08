@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301249,
+  "name": "The Spewnicorn",
+  "source_url": "https://www.igdb.com/games/the-spewnicorn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8p9p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Spewnicorn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2940260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2940260",
+        "Linux": "setsid steam steam://rungameid/2940260",
+        "macOS": "open steam://rungameid/2940260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-spewnicorn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301249"
+}
