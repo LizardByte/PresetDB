@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304686,
+  "name": "Battimals",
+  "source_url": "https://www.igdb.com/games/battimals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9fww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battimals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2939420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2939420",
+        "Linux": "setsid steam steam://rungameid/2939420",
+        "macOS": "open steam://rungameid/2939420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battimals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304686"
+}
