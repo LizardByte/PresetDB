@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296255,
+  "name": "PicoTrains",
+  "source_url": "https://www.igdb.com/games/picotrains",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co81ud.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PicoTrains",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2849980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2849980",
+        "Linux": "setsid steam steam://rungameid/2849980",
+        "macOS": "open steam://rungameid/2849980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "picotrains",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296255"
+}
