@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305706,
+  "name": "Necromage",
+  "source_url": "https://www.igdb.com/games/necromage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsle.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Necromage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2891720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2891720",
+        "Linux": "setsid steam steam://rungameid/2891720",
+        "macOS": "open steam://rungameid/2891720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "necromage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305706"
+}
