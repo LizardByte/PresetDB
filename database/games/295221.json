@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295221,
+  "name": "Escape From Zombietown",
+  "source_url": "https://www.igdb.com/games/escape-from-zombietown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzy1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape From Zombietown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2836810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2836810",
+        "Linux": "setsid steam steam://rungameid/2836810",
+        "macOS": "open steam://rungameid/2836810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-zombietown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295221"
+}
