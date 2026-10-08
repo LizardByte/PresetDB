@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 297803,
+  "name": "Who's the Boss",
+  "source_url": "https://www.igdb.com/games/whos-the-boss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co839o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who's the Boss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2927180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2927180",
+        "Linux": "setsid steam steam://rungameid/2927180",
+        "macOS": "open steam://rungameid/2927180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whos-the-boss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=297803"
+}
