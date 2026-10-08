@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300623,
+  "name": "Relaxing Simulator",
+  "source_url": "https://www.igdb.com/games/relaxing-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86x6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Relaxing Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2965380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2965380",
+        "Linux": "setsid steam steam://rungameid/2965380",
+        "macOS": "open steam://rungameid/2965380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "relaxing-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300623"
+}
