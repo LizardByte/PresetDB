@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295503,
+  "name": "No Report",
+  "source_url": "https://www.igdb.com/games/no-report",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co833c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Report",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2775350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2775350",
+        "Linux": "setsid steam steam://rungameid/2775350",
+        "macOS": "open steam://rungameid/2775350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-report",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295503"
+}
