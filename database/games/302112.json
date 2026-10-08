@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302112,
+  "name": "Penguin Helper",
+  "source_url": "https://www.igdb.com/games/penguin-helper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalp6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Penguin Helper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2964280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2964280",
+        "Linux": "setsid steam steam://rungameid/2964280",
+        "macOS": "open steam://rungameid/2964280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "penguin-helper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302112"
+}
