@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292738,
+  "name": "Kill The Censored",
+  "source_url": "https://www.igdb.com/games/kill-the-censored",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa5nn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill The Censored",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1032270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1032270",
+        "Linux": "setsid steam steam://rungameid/1032270",
+        "macOS": "open steam://rungameid/1032270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-the-censored",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292738"
+}
