@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300028,
+  "name": "Stonemachia",
+  "source_url": "https://www.igdb.com/games/stonemachia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zwc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stonemachia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2982610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2982610",
+        "Linux": "setsid steam steam://rungameid/2982610",
+        "macOS": "open steam://rungameid/2982610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stonemachia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300028"
+}
