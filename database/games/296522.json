@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296522,
+  "name": "Cyber Rush",
+  "source_url": "https://www.igdb.com/games/cyber-rush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co820u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cyber Rush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2735020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2735020",
+        "Linux": "setsid steam steam://rungameid/2735020",
+        "macOS": "open steam://rungameid/2735020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cyber-rush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296522"
+}
