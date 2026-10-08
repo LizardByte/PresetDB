@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 297211,
+  "name": "Screen Wonders",
+  "source_url": "https://www.igdb.com/games/screen-wonders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82mt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Screen Wonders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2899920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2899920",
+        "Linux": "setsid steam steam://rungameid/2899920",
+        "macOS": "open steam://rungameid/2899920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "screen-wonders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=297211"
+}
