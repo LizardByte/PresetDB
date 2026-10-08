@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305656,
+  "name": "Pager",
+  "source_url": "https://www.igdb.com/games/pager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7ii.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2810550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2810550",
+        "Linux": "setsid steam steam://rungameid/2810550",
+        "macOS": "open steam://rungameid/2810550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305656"
+}
