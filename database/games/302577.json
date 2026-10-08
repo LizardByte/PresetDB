@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302577,
+  "name": "Second Room",
+  "source_url": "https://www.igdb.com/games/second-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88wz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Second Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2988390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2988390",
+        "Linux": "setsid steam steam://rungameid/2988390",
+        "macOS": "open steam://rungameid/2988390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "second-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302577"
+}
