@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293628,
+  "name": "ABI-DOS",
+  "source_url": "https://www.igdb.com/games/abi-dos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8we7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ABI-DOS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2180700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2180700",
+        "Linux": "setsid steam steam://rungameid/2180700",
+        "macOS": "open steam://rungameid/2180700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abi-dos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293628"
+}
