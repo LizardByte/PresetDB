@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 294930,
+  "name": "The Gauntlet",
+  "source_url": "https://www.igdb.com/games/the-gauntlet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80hu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Gauntlet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "840420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/840420",
+        "Linux": "setsid steam steam://rungameid/840420",
+        "macOS": "open steam://rungameid/840420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-gauntlet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=294930"
+}
