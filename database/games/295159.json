@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295159,
+  "name": "Mr. Scientist",
+  "source_url": "https://www.igdb.com/games/mr-scientist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83vq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Scientist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2904510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2904510",
+        "Linux": "setsid steam steam://rungameid/2904510",
+        "macOS": "open steam://rungameid/2904510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-scientist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295159"
+}
