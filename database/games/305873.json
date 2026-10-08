@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305873,
+  "name": "Golden Axe",
+  "source_url": "https://www.igdb.com/games/golden-axe--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cv3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golden Axe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "34276",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/34276",
+        "Linux": "setsid steam steam://rungameid/34276",
+        "macOS": "open steam://rungameid/34276"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golden-axe--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305873"
+}
