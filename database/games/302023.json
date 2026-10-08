@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302023,
+  "name": "Dashlab",
+  "source_url": "https://www.igdb.com/games/dashlab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fmf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dashlab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2947780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2947780",
+        "Linux": "setsid steam steam://rungameid/2947780",
+        "macOS": "open steam://rungameid/2947780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dashlab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302023"
+}
