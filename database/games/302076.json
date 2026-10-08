@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302076,
+  "name": "Little Green Frog",
+  "source_url": "https://www.igdb.com/games/little-green-frog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88iv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Green Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2995700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2995700",
+        "Linux": "setsid steam steam://rungameid/2995700",
+        "macOS": "open steam://rungameid/2995700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-green-frog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302076"
+}
