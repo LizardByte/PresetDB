@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300348,
+  "name": "Mach K9",
+  "source_url": "https://www.igdb.com/games/mach-k9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8625.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mach K9",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2900950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2900950",
+        "Linux": "setsid steam steam://rungameid/2900950",
+        "macOS": "open steam://rungameid/2900950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mach-k9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300348"
+}
