@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302102,
+  "name": "Zompizza",
+  "source_url": "https://www.igdb.com/games/zompizza",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8r3x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zompizza",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2937920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2937920",
+        "Linux": "setsid steam steam://rungameid/2937920",
+        "macOS": "open steam://rungameid/2937920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zompizza",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302102"
+}
