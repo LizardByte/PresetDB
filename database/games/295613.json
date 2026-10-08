@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295613,
+  "name": "Lumos",
+  "source_url": "https://www.igdb.com/games/lumos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8153.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lumos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2759010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2759010",
+        "Linux": "setsid steam steam://rungameid/2759010",
+        "macOS": "open steam://rungameid/2759010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lumos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295613"
+}
