@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302427,
+  "name": "Twisted Screens",
+  "source_url": "https://www.igdb.com/games/twisted-screens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wyl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twisted Screens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3008950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3008950",
+        "Linux": "setsid steam steam://rungameid/3008950",
+        "macOS": "open steam://rungameid/3008950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twisted-screens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302427"
+}
