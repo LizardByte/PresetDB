@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295367,
+  "name": "Bar",
+  "source_url": "https://www.igdb.com/games/bar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80y0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2568050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2568050",
+        "Linux": "setsid steam steam://rungameid/2568050",
+        "macOS": "open steam://rungameid/2568050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295367"
+}
