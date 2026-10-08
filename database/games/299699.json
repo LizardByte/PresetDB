@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 299699,
+  "name": "RageBall",
+  "source_url": "https://www.igdb.com/games/rageball--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co85oq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RageBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "660390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/660390",
+        "Linux": "setsid steam steam://rungameid/660390",
+        "macOS": "open steam://rungameid/660390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rageball--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=299699"
+}
