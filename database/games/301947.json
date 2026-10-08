@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301947,
+  "name": "Gladiate!",
+  "source_url": "https://www.igdb.com/games/gladiate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88f1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gladiate!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3106750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3106750",
+        "Linux": "setsid steam steam://rungameid/3106750",
+        "macOS": "open steam://rungameid/3106750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gladiate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301947"
+}
