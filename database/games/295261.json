@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295261,
+  "name": "Car Wash",
+  "source_url": "https://www.igdb.com/games/car-wash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80uk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Car Wash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2909980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2909980",
+        "Linux": "setsid steam steam://rungameid/2909980",
+        "macOS": "open steam://rungameid/2909980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "car-wash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295261"
+}
