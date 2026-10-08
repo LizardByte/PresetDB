@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300738,
+  "name": "Sheepy",
+  "source_url": "https://www.igdb.com/games/sheepy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co875b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sheepy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1448600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1448600",
+        "Linux": "setsid steam steam://rungameid/1448600",
+        "macOS": "open steam://rungameid/1448600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sheepy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300738"
+}
