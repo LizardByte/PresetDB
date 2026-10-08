@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292967,
+  "name": "DudeGo",
+  "source_url": "https://www.igdb.com/games/dudego",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7y11.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DudeGo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2834880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2834880",
+        "Linux": "setsid steam steam://rungameid/2834880",
+        "macOS": "open steam://rungameid/2834880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dudego",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292967"
+}
