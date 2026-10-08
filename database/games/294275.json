@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 294275,
+  "name": "PostLife",
+  "source_url": "https://www.igdb.com/games/postlife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8o0m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PostLife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2902560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2902560",
+        "Linux": "setsid steam steam://rungameid/2902560",
+        "macOS": "open steam://rungameid/2902560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "postlife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=294275"
+}
