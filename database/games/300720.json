@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300720,
+  "name": "Sweetest Monster",
+  "source_url": "https://www.igdb.com/games/sweetest-monster--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9fry.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sweetest Monster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "585890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/585890",
+        "Linux": "setsid steam steam://rungameid/585890",
+        "macOS": "open steam://rungameid/585890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sweetest-monster--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300720"
+}
