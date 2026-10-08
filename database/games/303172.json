@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303172,
+  "name": "Board Game Party",
+  "source_url": "https://www.igdb.com/games/board-game-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bjm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Board Game Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1906040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1906040",
+        "Linux": "setsid steam steam://rungameid/1906040",
+        "macOS": "open steam://rungameid/1906040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "board-game-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303172"
+}
