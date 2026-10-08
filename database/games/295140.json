@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295140,
+  "name": "MeteoStorm",
+  "source_url": "https://www.igdb.com/games/meteostorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80og.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MeteoStorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2892490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2892490",
+        "Linux": "setsid steam steam://rungameid/2892490",
+        "macOS": "open steam://rungameid/2892490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meteostorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295140"
+}
