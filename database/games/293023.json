@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293023,
+  "name": "Sterospeed",
+  "source_url": "https://www.igdb.com/games/sterospeed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7y2m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sterospeed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2815600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2815600",
+        "Linux": "setsid steam steam://rungameid/2815600",
+        "macOS": "open steam://rungameid/2815600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sterospeed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293023"
+}
