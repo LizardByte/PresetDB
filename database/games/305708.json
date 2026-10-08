@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305708,
+  "name": "Rogue Rollout",
+  "source_url": "https://www.igdb.com/games/rogue-rollout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8enf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Rollout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3033600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3033600",
+        "Linux": "setsid steam steam://rungameid/3033600",
+        "macOS": "open steam://rungameid/3033600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-rollout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305708"
+}
