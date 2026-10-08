@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296808,
+  "name": "Banana",
+  "source_url": "https://www.igdb.com/games/banana--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaajz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banana",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2923300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2923300",
+        "Linux": "setsid steam steam://rungameid/2923300",
+        "macOS": "open steam://rungameid/2923300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banana--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296808"
+}
