@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 294301,
+  "name": "Cubik",
+  "source_url": "https://www.igdb.com/games/cubik",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7zt3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cubik",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2906800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2906800",
+        "Linux": "setsid steam steam://rungameid/2906800",
+        "macOS": "open steam://rungameid/2906800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cubik",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=294301"
+}
