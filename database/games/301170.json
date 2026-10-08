@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301170,
+  "name": "Let Me Sleep",
+  "source_url": "https://www.igdb.com/games/let-me-sleep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwz4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let Me Sleep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2765910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2765910",
+        "Linux": "setsid steam steam://rungameid/2765910",
+        "macOS": "open steam://rungameid/2765910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "let-me-sleep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301170"
+}
