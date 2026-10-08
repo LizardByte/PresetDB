@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303899,
+  "name": "Atlas Online",
+  "source_url": "https://www.igdb.com/games/atlas-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fv6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atlas Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2916620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2916620",
+        "Linux": "setsid steam steam://rungameid/2916620",
+        "macOS": "open steam://rungameid/2916620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atlas-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303899"
+}
