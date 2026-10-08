@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302338,
+  "name": "Escape from Hornhead",
+  "source_url": "https://www.igdb.com/games/escape-from-hornhead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f3d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Hornhead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2995530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2995530",
+        "Linux": "setsid steam steam://rungameid/2995530",
+        "macOS": "open steam://rungameid/2995530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-hornhead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302338"
+}
