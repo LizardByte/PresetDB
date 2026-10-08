@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303421,
+  "name": "Cloud Crashers",
+  "source_url": "https://www.igdb.com/games/cloud-crashers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89td.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloud Crashers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2995940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2995940",
+        "Linux": "setsid steam steam://rungameid/2995940",
+        "macOS": "open steam://rungameid/2995940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cloud-crashers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303421"
+}
