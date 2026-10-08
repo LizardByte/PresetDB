@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293480,
+  "name": "KanjiMemory",
+  "source_url": "https://www.igdb.com/games/kanjimemory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7z2j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KanjiMemory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2850520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2850520",
+        "Linux": "setsid steam steam://rungameid/2850520",
+        "macOS": "open steam://rungameid/2850520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kanjimemory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293480"
+}
