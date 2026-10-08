@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295602,
+  "name": "Unihorn",
+  "source_url": "https://www.igdb.com/games/unihorn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co814u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unihorn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2906700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2906700",
+        "Linux": "setsid steam steam://rungameid/2906700",
+        "macOS": "open steam://rungameid/2906700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unihorn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295602"
+}
