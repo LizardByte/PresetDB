@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303838,
+  "name": "Nether Heroes",
+  "source_url": "https://www.igdb.com/games/nether-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ffq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nether Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2964410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2964410",
+        "Linux": "setsid steam steam://rungameid/2964410",
+        "macOS": "open steam://rungameid/2964410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nether-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303838"
+}
