@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302215,
+  "name": "Rogue Bot Adventure",
+  "source_url": "https://www.igdb.com/games/rogue-bot-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8r3b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Bot Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2924920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2924920",
+        "Linux": "setsid steam steam://rungameid/2924920",
+        "macOS": "open steam://rungameid/2924920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-bot-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302215"
+}
