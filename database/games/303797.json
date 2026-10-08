@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303797,
+  "name": "FindIt",
+  "source_url": "https://www.igdb.com/games/findit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8c6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FindIt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2942750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2942750",
+        "Linux": "setsid steam steam://rungameid/2942750",
+        "macOS": "open steam://rungameid/2942750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "findit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303797"
+}
