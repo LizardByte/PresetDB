@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309010,
+  "name": "Goooal",
+  "source_url": "https://www.igdb.com/games/goooal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8j5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goooal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3058090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3058090",
+        "Linux": "setsid steam steam://rungameid/3058090",
+        "macOS": "open steam://rungameid/3058090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goooal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309010"
+}
