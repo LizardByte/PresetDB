@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301527,
+  "name": "Endeavor",
+  "source_url": "https://www.igdb.com/games/endeavor--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99j3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endeavor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1737110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1737110",
+        "Linux": "setsid steam steam://rungameid/1737110",
+        "macOS": "open steam://rungameid/1737110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endeavor--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301527"
+}
