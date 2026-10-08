@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295328,
+  "name": "MyTavern",
+  "source_url": "https://www.igdb.com/games/mytavern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80x0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MyTavern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2793040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2793040",
+        "Linux": "setsid steam steam://rungameid/2793040",
+        "macOS": "open steam://rungameid/2793040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mytavern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295328"
+}
