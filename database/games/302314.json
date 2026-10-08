@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302314,
+  "name": "Nomu",
+  "source_url": "https://www.igdb.com/games/nomu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8r2z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nomu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2931370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2931370",
+        "Linux": "setsid steam steam://rungameid/2931370",
+        "macOS": "open steam://rungameid/2931370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nomu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302314"
+}
