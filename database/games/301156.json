@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301156,
+  "name": "Twenty One",
+  "source_url": "https://www.igdb.com/games/twenty-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazm1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twenty One",
+      "os": null,
+      "method": "steam",
+      "launch_id": "938520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/938520",
+        "Linux": "setsid steam steam://rungameid/938520",
+        "macOS": "open steam://rungameid/938520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twenty-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301156"
+}
