@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301034,
+  "name": "9Shot",
+  "source_url": "https://www.igdb.com/games/9shot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87el.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "9Shot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2941480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2941480",
+        "Linux": "setsid steam steam://rungameid/2941480",
+        "macOS": "open steam://rungameid/2941480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "9shot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301034"
+}
