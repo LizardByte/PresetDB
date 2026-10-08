@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303603,
+  "name": "Just Walk",
+  "source_url": "https://www.igdb.com/games/just-walk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8d0n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Just Walk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182290",
+        "Linux": "setsid steam steam://rungameid/2182290",
+        "macOS": "open steam://rungameid/2182290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "just-walk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303603"
+}
