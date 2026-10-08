@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302005,
+  "name": "Sushi Race",
+  "source_url": "https://www.igdb.com/games/sushi-race",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dx2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushi Race",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2961110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2961110",
+        "Linux": "setsid steam steam://rungameid/2961110",
+        "macOS": "open steam://rungameid/2961110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushi-race",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302005"
+}
