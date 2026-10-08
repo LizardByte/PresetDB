@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 307122,
+  "name": "Mini Reaper",
+  "source_url": "https://www.igdb.com/games/mini-reaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Reaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2805040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2805040",
+        "Linux": "setsid steam steam://rungameid/2805040",
+        "macOS": "open steam://rungameid/2805040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-reaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=307122"
+}
