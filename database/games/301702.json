@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301702,
+  "name": "Gender Neutral Chess",
+  "source_url": "https://www.igdb.com/games/gender-neutral-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fif.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gender Neutral Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2956330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2956330",
+        "Linux": "setsid steam steam://rungameid/2956330",
+        "macOS": "open steam://rungameid/2956330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gender-neutral-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301702"
+}
