@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302369,
+  "name": "The Storyteller",
+  "source_url": "https://www.igdb.com/games/the-storyteller",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88r6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Storyteller",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2858270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2858270",
+        "Linux": "setsid steam steam://rungameid/2858270",
+        "macOS": "open steam://rungameid/2858270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-storyteller",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302369"
+}
