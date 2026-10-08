@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303600,
+  "name": "Kado Hunter",
+  "source_url": "https://www.igdb.com/games/kado-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f8l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kado Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2981880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2981880",
+        "Linux": "setsid steam steam://rungameid/2981880",
+        "macOS": "open steam://rungameid/2981880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kado-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303600"
+}
