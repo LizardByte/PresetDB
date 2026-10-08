@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306329,
+  "name": "Evil Corporation",
+  "source_url": "https://www.igdb.com/games/evil-corporation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ndt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evil Corporation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2672260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2672260",
+        "Linux": "setsid steam steam://rungameid/2672260",
+        "macOS": "open steam://rungameid/2672260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evil-corporation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306329"
+}
