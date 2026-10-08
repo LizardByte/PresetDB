@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303987,
+  "name": "Malware",
+  "source_url": "https://www.igdb.com/games/malware--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8n7q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Malware",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3019370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3019370",
+        "Linux": "setsid steam steam://rungameid/3019370",
+        "macOS": "open steam://rungameid/3019370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "malware--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303987"
+}
