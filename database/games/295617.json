@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295617,
+  "name": "Everwayne",
+  "source_url": "https://www.igdb.com/games/everwayne",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zxb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Everwayne",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2498600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2498600",
+        "Linux": "setsid steam steam://rungameid/2498600",
+        "macOS": "open steam://rungameid/2498600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "everwayne",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295617"
+}
