@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301220,
+  "name": "Turn Based Boxing",
+  "source_url": "https://www.igdb.com/games/turn-based-boxing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1wc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turn Based Boxing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990450",
+        "Linux": "setsid steam steam://rungameid/2990450",
+        "macOS": "open steam://rungameid/2990450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turn-based-boxing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301220"
+}
