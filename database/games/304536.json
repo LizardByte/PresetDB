@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304536,
+  "name": "Reverb",
+  "source_url": "https://www.igdb.com/games/reverb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8b13.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reverb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2514890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2514890",
+        "Linux": "setsid steam steam://rungameid/2514890",
+        "macOS": "open steam://rungameid/2514890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reverb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304536"
+}
