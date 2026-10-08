@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295611,
+  "name": "One Socket",
+  "source_url": "https://www.igdb.com/games/one-socket",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vxp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Socket",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2832130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2832130",
+        "Linux": "setsid steam steam://rungameid/2832130",
+        "macOS": "open steam://rungameid/2832130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-socket",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295611"
+}
