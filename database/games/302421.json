@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302421,
+  "name": "Where Is My Cat",
+  "source_url": "https://www.igdb.com/games/where-is-my-cat--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88sn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Where Is My Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2346390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2346390",
+        "Linux": "setsid steam steam://rungameid/2346390",
+        "macOS": "open steam://rungameid/2346390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "where-is-my-cat--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302421"
+}
