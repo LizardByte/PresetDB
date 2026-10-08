@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301285,
+  "name": "Chibi Escape",
+  "source_url": "https://www.igdb.com/games/chibi-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co97by.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chibi Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2912090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2912090",
+        "Linux": "setsid steam steam://rungameid/2912090",
+        "macOS": "open steam://rungameid/2912090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chibi-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301285"
+}
