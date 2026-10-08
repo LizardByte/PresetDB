@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 297329,
+  "name": "Thule",
+  "source_url": "https://www.igdb.com/games/thule",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82r1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Thule",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2896350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2896350",
+        "Linux": "setsid steam steam://rungameid/2896350",
+        "macOS": "open steam://rungameid/2896350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thule",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=297329"
+}
