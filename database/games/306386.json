@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306386,
+  "name": "Top Shot",
+  "source_url": "https://www.igdb.com/games/top-shot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dlp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Top Shot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990330",
+        "Linux": "setsid steam steam://rungameid/2990330",
+        "macOS": "open steam://rungameid/2990330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "top-shot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306386"
+}
