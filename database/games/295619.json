@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295619,
+  "name": "Lost Meow",
+  "source_url": "https://www.igdb.com/games/lost-meow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co815a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Meow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2900040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2900040",
+        "Linux": "setsid steam steam://rungameid/2900040",
+        "macOS": "open steam://rungameid/2900040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-meow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295619"
+}
