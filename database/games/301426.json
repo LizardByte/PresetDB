@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301426,
+  "name": "Crime Simulator",
+  "source_url": "https://www.igdb.com/games/crime-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crime Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2737070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2737070",
+        "Linux": "setsid steam steam://rungameid/2737070",
+        "macOS": "open steam://rungameid/2737070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crime-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301426"
+}
