@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296624,
+  "name": "Usual",
+  "source_url": "https://www.igdb.com/games/usual",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co823v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Usual",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2857700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2857700",
+        "Linux": "setsid steam steam://rungameid/2857700",
+        "macOS": "open steam://rungameid/2857700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "usual",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296624"
+}
