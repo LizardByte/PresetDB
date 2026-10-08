@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304881,
+  "name": "Dead Blue Rose",
+  "source_url": "https://www.igdb.com/games/dead-blue-rose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bc4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Blue Rose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2947840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2947840",
+        "Linux": "setsid steam steam://rungameid/2947840",
+        "macOS": "open steam://rungameid/2947840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-blue-rose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304881"
+}
