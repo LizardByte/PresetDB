@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303520,
+  "name": "Escape Peng",
+  "source_url": "https://www.igdb.com/games/escape-peng",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Peng",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2964070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2964070",
+        "Linux": "setsid steam steam://rungameid/2964070",
+        "macOS": "open steam://rungameid/2964070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-peng",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303520"
+}
