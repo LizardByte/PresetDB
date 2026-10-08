@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303484,
+  "name": "Do You Remember?",
+  "source_url": "https://www.igdb.com/games/do-you-remember",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2qq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Do You Remember?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2934940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2934940",
+        "Linux": "setsid steam steam://rungameid/2934940",
+        "macOS": "open steam://rungameid/2934940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "do-you-remember",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303484"
+}
