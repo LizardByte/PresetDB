@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300572,
+  "name": "Classic Marathon Infinity",
+  "source_url": "https://www.igdb.com/games/classic-marathon-infinity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamd2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Classic Marathon Infinity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2398520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2398520",
+        "Linux": "setsid steam steam://rungameid/2398520",
+        "macOS": "open steam://rungameid/2398520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "classic-marathon-infinity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300572"
+}
