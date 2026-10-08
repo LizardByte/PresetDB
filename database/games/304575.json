@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304575,
+  "name": "Spec",
+  "source_url": "https://www.igdb.com/games/spec",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dsh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spec",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2977990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2977990",
+        "Linux": "setsid steam steam://rungameid/2977990",
+        "macOS": "open steam://rungameid/2977990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spec",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304575"
+}
