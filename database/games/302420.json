@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302420,
+  "name": "Wrong Escape",
+  "source_url": "https://www.igdb.com/games/wrong-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wrong Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2977960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2977960",
+        "Linux": "setsid steam steam://rungameid/2977960",
+        "macOS": "open steam://rungameid/2977960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wrong-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302420"
+}
