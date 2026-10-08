@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302250,
+  "name": "SkateCat",
+  "source_url": "https://www.igdb.com/games/skatecat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9uzp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkateCat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2708010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2708010",
+        "Linux": "setsid steam steam://rungameid/2708010",
+        "macOS": "open steam://rungameid/2708010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skatecat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302250"
+}
