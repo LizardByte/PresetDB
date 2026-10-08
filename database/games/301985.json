@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301985,
+  "name": "Reborn",
+  "source_url": "https://www.igdb.com/games/reborn--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vyc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reborn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2850000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2850000",
+        "Linux": "setsid steam steam://rungameid/2850000",
+        "macOS": "open steam://rungameid/2850000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reborn--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301985"
+}
