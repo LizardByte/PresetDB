@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303477,
+  "name": "DinD",
+  "source_url": "https://www.igdb.com/games/dind",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vso.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DinD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2780120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2780120",
+        "Linux": "setsid steam steam://rungameid/2780120",
+        "macOS": "open steam://rungameid/2780120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dind",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303477"
+}
