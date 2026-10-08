@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296717,
+  "name": "Autotag",
+  "source_url": "https://www.igdb.com/games/autotag",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xg2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Autotag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2806140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2806140",
+        "Linux": "setsid steam steam://rungameid/2806140",
+        "macOS": "open steam://rungameid/2806140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "autotag",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296717"
+}
