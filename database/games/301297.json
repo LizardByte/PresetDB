@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301297,
+  "name": "Let's Café",
+  "source_url": "https://www.igdb.com/games/lets-cafe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mwk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let's Café",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3019270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3019270",
+        "Linux": "setsid steam steam://rungameid/3019270",
+        "macOS": "open steam://rungameid/3019270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lets-cafe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301297"
+}
