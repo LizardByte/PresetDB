@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301998,
+  "name": "Dead Room",
+  "source_url": "https://www.igdb.com/games/dead-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8d2b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2986390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2986390",
+        "Linux": "setsid steam steam://rungameid/2986390",
+        "macOS": "open steam://rungameid/2986390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301998"
+}
