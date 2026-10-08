@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302114,
+  "name": "No Contact",
+  "source_url": "https://www.igdb.com/games/no-contact",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88jx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Contact",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2939780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2939780",
+        "Linux": "setsid steam steam://rungameid/2939780",
+        "macOS": "open steam://rungameid/2939780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-contact",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302114"
+}
