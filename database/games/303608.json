@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303608,
+  "name": "Kalasta",
+  "source_url": "https://www.igdb.com/games/kalasta",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co973q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kalasta",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1779450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1779450",
+        "Linux": "setsid steam steam://rungameid/1779450",
+        "macOS": "open steam://rungameid/1779450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kalasta",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303608"
+}
