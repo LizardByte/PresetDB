@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293030,
+  "name": "Kickback",
+  "source_url": "https://www.igdb.com/games/kickback--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa11c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kickback",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2753870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2753870",
+        "Linux": "setsid steam steam://rungameid/2753870",
+        "macOS": "open steam://rungameid/2753870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kickback--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293030"
+}
