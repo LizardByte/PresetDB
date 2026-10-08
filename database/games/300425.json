@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300425,
+  "name": "Capslock",
+  "source_url": "https://www.igdb.com/games/capslock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8p0l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Capslock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2931790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2931790",
+        "Linux": "setsid steam steam://rungameid/2931790",
+        "macOS": "open steam://rungameid/2931790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "capslock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300425"
+}
