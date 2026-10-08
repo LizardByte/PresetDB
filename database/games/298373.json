@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298373,
+  "name": "Ninjam!",
+  "source_url": "https://www.igdb.com/games/ninjam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co982p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ninjam!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2917600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2917600",
+        "Linux": "setsid steam steam://rungameid/2917600",
+        "macOS": "open steam://rungameid/2917600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ninjam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298373"
+}
