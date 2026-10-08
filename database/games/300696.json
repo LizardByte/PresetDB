@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300696,
+  "name": "Gooba Ball",
+  "source_url": "https://www.igdb.com/games/gooba-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co873d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gooba Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2878140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2878140",
+        "Linux": "setsid steam steam://rungameid/2878140",
+        "macOS": "open steam://rungameid/2878140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gooba-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300696"
+}
