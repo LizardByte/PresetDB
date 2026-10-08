@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293527,
+  "name": "Space Cats",
+  "source_url": "https://www.igdb.com/games/space-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobd25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2892290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2892290",
+        "Linux": "setsid steam steam://rungameid/2892290",
+        "macOS": "open steam://rungameid/2892290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293527"
+}
