@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298444,
+  "name": "Blood Within",
+  "source_url": "https://www.igdb.com/games/blood-within",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co995v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blood Within",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2924870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2924870",
+        "Linux": "setsid steam steam://rungameid/2924870",
+        "macOS": "open steam://rungameid/2924870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blood-within",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298444"
+}
