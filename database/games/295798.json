@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295798,
+  "name": "Dopamine",
+  "source_url": "https://www.igdb.com/games/dopamine--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob85i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dopamine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2842530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2842530",
+        "Linux": "setsid steam steam://rungameid/2842530",
+        "macOS": "open steam://rungameid/2842530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dopamine--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295798"
+}
