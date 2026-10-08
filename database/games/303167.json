@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303167,
+  "name": "Blue Hunter",
+  "source_url": "https://www.igdb.com/games/blue-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blue Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2992190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2992190",
+        "Linux": "setsid steam steam://rungameid/2992190",
+        "macOS": "open steam://rungameid/2992190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blue-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303167"
+}
