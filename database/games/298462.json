@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298462,
+  "name": "Terminal ESC",
+  "source_url": "https://www.igdb.com/games/terminal-esc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobohd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terminal ESC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2809460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2809460",
+        "Linux": "setsid steam steam://rungameid/2809460",
+        "macOS": "open steam://rungameid/2809460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terminal-esc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298462"
+}
