@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301820,
+  "name": "Manludo",
+  "source_url": "https://www.igdb.com/games/manludo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8qcd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Manludo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2963130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2963130",
+        "Linux": "setsid steam steam://rungameid/2963130",
+        "macOS": "open steam://rungameid/2963130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "manludo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301820"
+}
