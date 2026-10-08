@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302433,
+  "name": "RiseExplosion",
+  "source_url": "https://www.igdb.com/games/riseexplosion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88t4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RiseExplosion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2866950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2866950",
+        "Linux": "setsid steam steam://rungameid/2866950",
+        "macOS": "open steam://rungameid/2866950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "riseexplosion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302433"
+}
