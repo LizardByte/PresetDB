@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295544,
+  "name": "Soulrise",
+  "source_url": "https://www.igdb.com/games/soulrise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyuk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulrise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2887590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2887590",
+        "Linux": "setsid steam steam://rungameid/2887590",
+        "macOS": "open steam://rungameid/2887590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulrise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295544"
+}
