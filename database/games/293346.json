@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293346,
+  "name": "Ario",
+  "source_url": "https://www.igdb.com/games/ario",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co804f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ario",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2832450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2832450",
+        "Linux": "setsid steam steam://rungameid/2832450",
+        "macOS": "open steam://rungameid/2832450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ario",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293346"
+}
