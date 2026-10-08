@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295134,
+  "name": "Galaxy Burger",
+  "source_url": "https://www.igdb.com/games/galaxy-burger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa5hr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galaxy Burger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2749770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2749770",
+        "Linux": "setsid steam steam://rungameid/2749770",
+        "macOS": "open steam://rungameid/2749770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galaxy-burger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295134"
+}
