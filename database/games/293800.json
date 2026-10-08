@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293800,
+  "name": "Dragonpaw",
+  "source_url": "https://www.igdb.com/games/dragonpaw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7zbo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragonpaw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2901050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2901050",
+        "Linux": "setsid steam steam://rungameid/2901050",
+        "macOS": "open steam://rungameid/2901050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragonpaw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293800"
+}
