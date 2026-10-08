@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302350,
+  "name": "Throw Bro",
+  "source_url": "https://www.igdb.com/games/throw-bro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8txc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Throw Bro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2994950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2994950",
+        "Linux": "setsid steam steam://rungameid/2994950",
+        "macOS": "open steam://rungameid/2994950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "throw-bro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302350"
+}
