@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306918,
+  "name": "Tiny Cats",
+  "source_url": "https://www.igdb.com/games/tiny-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eht.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2962570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2962570",
+        "Linux": "setsid steam steam://rungameid/2962570",
+        "macOS": "open steam://rungameid/2962570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306918"
+}
