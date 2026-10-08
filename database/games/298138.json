@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298138,
+  "name": "WattGames",
+  "source_url": "https://www.igdb.com/games/wattgames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83iu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WattGames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2782020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2782020",
+        "Linux": "setsid steam steam://rungameid/2782020",
+        "macOS": "open steam://rungameid/2782020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wattgames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298138"
+}
