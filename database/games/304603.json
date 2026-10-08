@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304603,
+  "name": "Playable Alpha",
+  "source_url": "https://www.igdb.com/games/playable-alpha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8b37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Playable Alpha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2998700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2998700",
+        "Linux": "setsid steam steam://rungameid/2998700",
+        "macOS": "open steam://rungameid/2998700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "playable-alpha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304603"
+}
