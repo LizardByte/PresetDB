@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295176,
+  "name": "Slo's Home",
+  "source_url": "https://www.igdb.com/games/slos-home",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80pg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slo's Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2850530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2850530",
+        "Linux": "setsid steam steam://rungameid/2850530",
+        "macOS": "open steam://rungameid/2850530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slos-home",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295176"
+}
