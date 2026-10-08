@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302983,
+  "name": "Haunted Paws",
+  "source_url": "https://www.igdb.com/games/haunted-paws",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8b7r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haunted Paws",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2861080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2861080",
+        "Linux": "setsid steam steam://rungameid/2861080",
+        "macOS": "open steam://rungameid/2861080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haunted-paws",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302983"
+}
