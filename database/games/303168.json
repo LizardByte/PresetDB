@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303168,
+  "name": "Zopa",
+  "source_url": "https://www.igdb.com/games/zopa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89ke.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zopa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2690760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2690760",
+        "Linux": "setsid steam steam://rungameid/2690760",
+        "macOS": "open steam://rungameid/2690760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zopa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303168"
+}
