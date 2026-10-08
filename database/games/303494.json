@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303494,
+  "name": "DummyDoodle",
+  "source_url": "https://www.igdb.com/games/dummydoodle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DummyDoodle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2567360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2567360",
+        "Linux": "setsid steam steam://rungameid/2567360",
+        "macOS": "open steam://rungameid/2567360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dummydoodle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303494"
+}
