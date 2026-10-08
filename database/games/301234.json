@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301234,
+  "name": "Lunarium",
+  "source_url": "https://www.igdb.com/games/lunarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bkk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lunarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2939790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2939790",
+        "Linux": "setsid steam steam://rungameid/2939790",
+        "macOS": "open steam://rungameid/2939790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lunarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301234"
+}
