@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302083,
+  "name": "I Wanna Be A Game Dev!",
+  "source_url": "https://www.igdb.com/games/i-wanna-be-a-game-dev",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9cr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Wanna Be A Game Dev!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2953510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2953510",
+        "Linux": "setsid steam steam://rungameid/2953510",
+        "macOS": "open steam://rungameid/2953510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-wanna-be-a-game-dev",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302083"
+}
