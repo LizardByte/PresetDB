@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302610,
+  "name": "Kai",
+  "source_url": "https://www.igdb.com/games/kai",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88xn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2892400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2892400",
+        "Linux": "setsid steam steam://rungameid/2892400",
+        "macOS": "open steam://rungameid/2892400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kai",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302610"
+}
