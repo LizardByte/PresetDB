@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 299547,
+  "name": "Psoltrix",
+  "source_url": "https://www.igdb.com/games/psoltrix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8524.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psoltrix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2848000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2848000",
+        "Linux": "setsid steam steam://rungameid/2848000",
+        "macOS": "open steam://rungameid/2848000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psoltrix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=299547"
+}
