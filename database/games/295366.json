@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295366,
+  "name": "Happy Monster",
+  "source_url": "https://www.igdb.com/games/happy-monster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80xz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Monster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2847340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2847340",
+        "Linux": "setsid steam steam://rungameid/2847340",
+        "macOS": "open steam://rungameid/2847340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "happy-monster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295366"
+}
