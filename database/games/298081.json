@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298081,
+  "name": "Mouse World",
+  "source_url": "https://www.igdb.com/games/mouse-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83hm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mouse World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2808840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2808840",
+        "Linux": "setsid steam steam://rungameid/2808840",
+        "macOS": "open steam://rungameid/2808840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mouse-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298081"
+}
