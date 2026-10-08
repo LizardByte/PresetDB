@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301267,
+  "name": "Lil' Airport",
+  "source_url": "https://www.igdb.com/games/lil-airport",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87kd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lil' Airport",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2871040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2871040",
+        "Linux": "setsid steam steam://rungameid/2871040",
+        "macOS": "open steam://rungameid/2871040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lil-airport",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301267"
+}
