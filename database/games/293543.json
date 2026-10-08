@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293543,
+  "name": "Rift Riff",
+  "source_url": "https://www.igdb.com/games/rift-riff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qwm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rift Riff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2800900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2800900",
+        "Linux": "setsid steam steam://rungameid/2800900",
+        "macOS": "open steam://rungameid/2800900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rift-riff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293543"
+}
