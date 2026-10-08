@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303449,
+  "name": "Daily Bread",
+  "source_url": "https://www.igdb.com/games/daily-bread",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ge1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daily Bread",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2949880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2949880",
+        "Linux": "setsid steam steam://rungameid/2949880",
+        "macOS": "open steam://rungameid/2949880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "daily-bread",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303449"
+}
