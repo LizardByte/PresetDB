@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302506,
+  "name": "There's No Socks",
+  "source_url": "https://www.igdb.com/games/theres-no-socks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8drs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "There's No Socks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2928610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2928610",
+        "Linux": "setsid steam steam://rungameid/2928610",
+        "macOS": "open steam://rungameid/2928610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "theres-no-socks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302506"
+}
