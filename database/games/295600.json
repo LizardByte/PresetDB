@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295600,
+  "name": "Alchemy Frogs",
+  "source_url": "https://www.igdb.com/games/alchemy-frogs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaohd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alchemy Frogs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2684830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2684830",
+        "Linux": "setsid steam steam://rungameid/2684830",
+        "macOS": "open steam://rungameid/2684830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alchemy-frogs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295600"
+}
