@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295526,
+  "name": "Quantum Beast",
+  "source_url": "https://www.igdb.com/games/quantum-beast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co812q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quantum Beast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2893000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2893000",
+        "Linux": "setsid steam steam://rungameid/2893000",
+        "macOS": "open steam://rungameid/2893000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quantum-beast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295526"
+}
