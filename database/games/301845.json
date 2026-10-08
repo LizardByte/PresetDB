@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301845,
+  "name": "Stairway",
+  "source_url": "https://www.igdb.com/games/stairway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8cow.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stairway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2960320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2960320",
+        "Linux": "setsid steam steam://rungameid/2960320",
+        "macOS": "open steam://rungameid/2960320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stairway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301845"
+}
