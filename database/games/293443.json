@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293443,
+  "name": "FastPack",
+  "source_url": "https://www.igdb.com/games/fastpack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa3cx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FastPack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2697540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2697540",
+        "Linux": "setsid steam steam://rungameid/2697540",
+        "macOS": "open steam://rungameid/2697540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fastpack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293443"
+}
