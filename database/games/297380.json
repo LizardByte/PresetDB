@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 297380,
+  "name": "Shoot or Shout",
+  "source_url": "https://www.igdb.com/games/shoot-or-shout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocamp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shoot or Shout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2879440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2879440",
+        "Linux": "setsid steam steam://rungameid/2879440",
+        "macOS": "open steam://rungameid/2879440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shoot-or-shout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=297380"
+}
