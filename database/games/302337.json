@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302337,
+  "name": "Pyradice",
+  "source_url": "https://www.igdb.com/games/pyradice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pyradice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2957200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2957200",
+        "Linux": "setsid steam steam://rungameid/2957200",
+        "macOS": "open steam://rungameid/2957200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pyradice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302337"
+}
