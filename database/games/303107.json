@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303107,
+  "name": "Lucky Shot",
+  "source_url": "https://www.igdb.com/games/lucky-shot--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8eu1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lucky Shot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3014820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3014820",
+        "Linux": "setsid steam steam://rungameid/3014820",
+        "macOS": "open steam://rungameid/3014820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lucky-shot--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303107"
+}
