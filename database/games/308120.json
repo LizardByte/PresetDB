@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 308120,
+  "name": "State of Presence",
+  "source_url": "https://www.igdb.com/games/state-of-presence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "State of Presence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2769120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2769120",
+        "Linux": "setsid steam steam://rungameid/2769120",
+        "macOS": "open steam://rungameid/2769120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "state-of-presence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=308120"
+}
