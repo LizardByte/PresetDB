@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300300,
+  "name": "Sundy Stairway",
+  "source_url": "https://www.igdb.com/games/sundy-stairway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8l6h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sundy Stairway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2964920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2964920",
+        "Linux": "setsid steam steam://rungameid/2964920",
+        "macOS": "open steam://rungameid/2964920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sundy-stairway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300300"
+}
