@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309516,
+  "name": "Cat",
+  "source_url": "https://www.igdb.com/games/cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2408310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2408310",
+        "Linux": "setsid steam steam://rungameid/2408310",
+        "macOS": "open steam://rungameid/2408310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309516"
+}
