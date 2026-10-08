@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300984,
+  "name": "Knights Vault",
+  "source_url": "https://www.igdb.com/games/knights-vault",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87cp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knights Vault",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2947060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2947060",
+        "Linux": "setsid steam steam://rungameid/2947060",
+        "macOS": "open steam://rungameid/2947060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knights-vault",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300984"
+}
