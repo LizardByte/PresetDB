@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304524,
+  "name": "The Tortoise and the Hare",
+  "source_url": "https://www.igdb.com/games/the-tortoise-and-the-hare",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g2r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Tortoise and the Hare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2785120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2785120",
+        "Linux": "setsid steam steam://rungameid/2785120",
+        "macOS": "open steam://rungameid/2785120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-tortoise-and-the-hare",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304524"
+}
