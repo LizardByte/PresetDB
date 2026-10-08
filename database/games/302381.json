@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302381,
+  "name": "Moccoletti",
+  "source_url": "https://www.igdb.com/games/moccoletti",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f3p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moccoletti",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2994320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2994320",
+        "Linux": "setsid steam steam://rungameid/2994320",
+        "macOS": "open steam://rungameid/2994320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moccoletti",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302381"
+}
