@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303201,
+  "name": "Wrestling Trivia",
+  "source_url": "https://www.igdb.com/games/wrestling-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89l4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wrestling Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3965070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3965070",
+        "Linux": "setsid steam steam://rungameid/3965070",
+        "macOS": "open steam://rungameid/3965070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wrestling-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303201"
+}
