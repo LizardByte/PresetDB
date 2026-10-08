@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302360,
+  "name": "The Legend of Lumina",
+  "source_url": "https://www.igdb.com/games/the-legend-of-lumina",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8izv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legend of Lumina",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2638340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2638340",
+        "Linux": "setsid steam steam://rungameid/2638340",
+        "macOS": "open steam://rungameid/2638340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-legend-of-lumina",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302360"
+}
