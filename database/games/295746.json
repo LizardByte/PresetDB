@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295746,
+  "name": "Hungry Tiger",
+  "source_url": "https://www.igdb.com/games/hungry-tiger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8196.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hungry Tiger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2921800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2921800",
+        "Linux": "setsid steam steam://rungameid/2921800",
+        "macOS": "open steam://rungameid/2921800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hungry-tiger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295746"
+}
