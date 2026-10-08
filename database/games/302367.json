@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302367,
+  "name": "Burger",
+  "source_url": "https://www.igdb.com/games/burger--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocblq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2976910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2976910",
+        "Linux": "setsid steam steam://rungameid/2976910",
+        "macOS": "open steam://rungameid/2976910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burger--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302367"
+}
