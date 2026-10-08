@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305123,
+  "name": "Reverend",
+  "source_url": "https://www.igdb.com/games/reverend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8bmj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reverend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2977570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2977570",
+        "Linux": "setsid steam steam://rungameid/2977570",
+        "macOS": "open steam://rungameid/2977570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reverend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305123"
+}
