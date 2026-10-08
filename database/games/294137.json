@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 294137,
+  "name": "Idle Trillionaire",
+  "source_url": "https://www.igdb.com/games/idle-trillionaire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coames.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Trillionaire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2753100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2753100",
+        "Linux": "setsid steam steam://rungameid/2753100",
+        "macOS": "open steam://rungameid/2753100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-trillionaire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=294137"
+}
