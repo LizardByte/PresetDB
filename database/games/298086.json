@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298086,
+  "name": "Silent",
+  "source_url": "https://www.igdb.com/games/silent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9psx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2832560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2832560",
+        "Linux": "setsid steam steam://rungameid/2832560",
+        "macOS": "open steam://rungameid/2832560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298086"
+}
