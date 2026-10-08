@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302388,
+  "name": "Bond",
+  "source_url": "https://www.igdb.com/games/bond",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88rp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bond",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2835670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2835670",
+        "Linux": "setsid steam steam://rungameid/2835670",
+        "macOS": "open steam://rungameid/2835670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bond",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302388"
+}
