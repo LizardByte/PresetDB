@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 308162,
+  "name": "Mischief Castle",
+  "source_url": "https://www.igdb.com/games/mischief-castle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zgp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mischief Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2948550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2948550",
+        "Linux": "setsid steam steam://rungameid/2948550",
+        "macOS": "open steam://rungameid/2948550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mischief-castle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=308162"
+}
