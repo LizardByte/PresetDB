@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306902,
+  "name": "DeathJack",
+  "source_url": "https://www.igdb.com/games/deathjack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8qnd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeathJack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3016580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3016580",
+        "Linux": "setsid steam steam://rungameid/3016580",
+        "macOS": "open steam://rungameid/3016580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deathjack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306902"
+}
