@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302038,
+  "name": "The Lost Penguin",
+  "source_url": "https://www.igdb.com/games/the-lost-penguin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88hs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lost Penguin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2984360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2984360",
+        "Linux": "setsid steam steam://rungameid/2984360",
+        "macOS": "open steam://rungameid/2984360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lost-penguin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302038"
+}
