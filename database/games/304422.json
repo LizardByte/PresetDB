@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304422,
+  "name": "Ranger Force",
+  "source_url": "https://www.igdb.com/games/ranger-force",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8axr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ranger Force",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2772020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2772020",
+        "Linux": "setsid steam steam://rungameid/2772020",
+        "macOS": "open steam://rungameid/2772020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ranger-force",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304422"
+}
