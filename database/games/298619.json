@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298619,
+  "name": "Urayama",
+  "source_url": "https://www.igdb.com/games/urayama",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rr6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urayama",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2939550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2939550",
+        "Linux": "setsid steam steam://rungameid/2939550",
+        "macOS": "open steam://rungameid/2939550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "urayama",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298619"
+}
