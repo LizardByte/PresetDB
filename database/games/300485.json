@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300485,
+  "name": "Nerobi",
+  "source_url": "https://www.igdb.com/games/nerobi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86i6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nerobi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2534250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2534250",
+        "Linux": "setsid steam steam://rungameid/2534250",
+        "macOS": "open steam://rungameid/2534250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nerobi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300485"
+}
