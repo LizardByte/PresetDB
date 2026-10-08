@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 297348,
+  "name": "Mr.Chip",
+  "source_url": "https://www.igdb.com/games/mr-dot-chip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co82rj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr.Chip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2660120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2660120",
+        "Linux": "setsid steam steam://rungameid/2660120",
+        "macOS": "open steam://rungameid/2660120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-dot-chip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=297348"
+}
