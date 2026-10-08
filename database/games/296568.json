@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296568,
+  "name": "Mystery Escape",
+  "source_url": "https://www.igdb.com/games/mystery-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co822q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystery Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2898240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2898240",
+        "Linux": "setsid steam steam://rungameid/2898240",
+        "macOS": "open steam://rungameid/2898240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystery-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296568"
+}
