@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306255,
+  "name": "Mazzle",
+  "source_url": "https://www.igdb.com/games/mazzle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8dhs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mazzle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3043540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3043540",
+        "Linux": "setsid steam steam://rungameid/3043540",
+        "macOS": "open steam://rungameid/3043540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mazzle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306255"
+}
