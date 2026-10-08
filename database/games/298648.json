@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298648,
+  "name": "Mr. Woodpecker",
+  "source_url": "https://www.igdb.com/games/mr-woodpecker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co840h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Woodpecker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2921860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2921860",
+        "Linux": "setsid steam steam://rungameid/2921860",
+        "macOS": "open steam://rungameid/2921860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-woodpecker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298648"
+}
