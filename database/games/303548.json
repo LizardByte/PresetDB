@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303548,
+  "name": "Beyond The Walls",
+  "source_url": "https://www.igdb.com/games/beyond-the-walls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f46.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beyond The Walls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2992210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2992210",
+        "Linux": "setsid steam steam://rungameid/2992210",
+        "macOS": "open steam://rungameid/2992210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beyond-the-walls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303548"
+}
