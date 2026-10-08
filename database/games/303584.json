@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303584,
+  "name": "In Search of Heroes!",
+  "source_url": "https://www.igdb.com/games/in-search-of-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89y2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Search of Heroes!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2872910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2872910",
+        "Linux": "setsid steam steam://rungameid/2872910",
+        "macOS": "open steam://rungameid/2872910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-search-of-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303584"
+}
