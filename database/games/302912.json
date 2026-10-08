@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302912,
+  "name": "Funky Panic Attack",
+  "source_url": "https://www.igdb.com/games/funky-panic-attack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89cr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Funky Panic Attack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3001060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3001060",
+        "Linux": "setsid steam steam://rungameid/3001060",
+        "macOS": "open steam://rungameid/3001060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "funky-panic-attack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302912"
+}
