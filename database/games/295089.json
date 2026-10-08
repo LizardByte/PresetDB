@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295089,
+  "name": "Dice Guess",
+  "source_url": "https://www.igdb.com/games/dice-guess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80nm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dice Guess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2747540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2747540",
+        "Linux": "setsid steam steam://rungameid/2747540",
+        "macOS": "open steam://rungameid/2747540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dice-guess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295089"
+}
