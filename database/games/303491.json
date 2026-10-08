@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303491,
+  "name": "Dream Addict",
+  "source_url": "https://www.igdb.com/games/dream-addict",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dream Addict",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2953280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2953280",
+        "Linux": "setsid steam steam://rungameid/2953280",
+        "macOS": "open steam://rungameid/2953280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dream-addict",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303491"
+}
