@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303957,
+  "name": "Roll 'n' Watch",
+  "source_url": "https://www.igdb.com/games/roll-n-watch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8a8d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll 'n' Watch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2944010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2944010",
+        "Linux": "setsid steam steam://rungameid/2944010",
+        "macOS": "open steam://rungameid/2944010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-n-watch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303957"
+}
