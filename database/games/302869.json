@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302869,
+  "name": "Raid Run",
+  "source_url": "https://www.igdb.com/games/raid-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8crt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raid Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2934230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2934230",
+        "Linux": "setsid steam steam://rungameid/2934230",
+        "macOS": "open steam://rungameid/2934230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raid-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302869"
+}
