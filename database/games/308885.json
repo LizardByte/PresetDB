@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 308885,
+  "name": "I Ching",
+  "source_url": "https://www.igdb.com/games/i-ching",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wq6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Ching",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2798400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2798400",
+        "Linux": "setsid steam steam://rungameid/2798400",
+        "macOS": "open steam://rungameid/2798400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-ching",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=308885"
+}
