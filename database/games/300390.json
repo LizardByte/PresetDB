@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300390,
+  "name": "Tiny Garden",
+  "source_url": "https://www.igdb.com/games/tiny-garden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9clc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Garden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2812450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2812450",
+        "Linux": "setsid steam steam://rungameid/2812450",
+        "macOS": "open steam://rungameid/2812450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-garden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300390"
+}
