@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 300463,
+  "name": "SkateLab",
+  "source_url": "https://www.igdb.com/games/skatelab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co86dn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkateLab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2983940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2983940",
+        "Linux": "setsid steam steam://rungameid/2983940",
+        "macOS": "open steam://rungameid/2983940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skatelab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=300463"
+}
