@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302944,
+  "name": "EleBall",
+  "source_url": "https://www.igdb.com/games/eleball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaweo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EleBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2985890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2985890",
+        "Linux": "setsid steam steam://rungameid/2985890",
+        "macOS": "open steam://rungameid/2985890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eleball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302944"
+}
