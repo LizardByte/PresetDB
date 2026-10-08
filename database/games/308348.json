@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 308348,
+  "name": "Popcorn Fever",
+  "source_url": "https://www.igdb.com/games/popcorn-fever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vpy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Popcorn Fever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3035090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3035090",
+        "Linux": "setsid steam steam://rungameid/3035090",
+        "macOS": "open steam://rungameid/3035090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "popcorn-fever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=308348"
+}
