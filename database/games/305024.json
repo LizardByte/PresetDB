@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 305024,
+  "name": "Battle Aces",
+  "source_url": "https://www.igdb.com/games/battle-aces",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8c7c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Aces",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2682180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2682180",
+        "Linux": "setsid steam steam://rungameid/2682180",
+        "macOS": "open steam://rungameid/2682180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-aces",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=305024"
+}
