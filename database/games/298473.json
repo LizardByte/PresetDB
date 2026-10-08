@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298473,
+  "name": "DunJaunt",
+  "source_url": "https://www.igdb.com/games/dunjaunt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83ty.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DunJaunt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2927830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2927830",
+        "Linux": "setsid steam steam://rungameid/2927830",
+        "macOS": "open steam://rungameid/2927830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dunjaunt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298473"
+}
