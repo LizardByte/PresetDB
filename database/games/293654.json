@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293654,
+  "name": "Night City",
+  "source_url": "https://www.igdb.com/games/night-city--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7z6z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2747610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2747610",
+        "Linux": "setsid steam steam://rungameid/2747610",
+        "macOS": "open steam://rungameid/2747610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "night-city--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293654"
+}
