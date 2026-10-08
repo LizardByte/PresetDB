@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 307291,
+  "name": "LineWay",
+  "source_url": "https://www.igdb.com/games/lineway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8foy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LineWay",
+      "os": null,
+      "method": "steam",
+      "launch_id": "661430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/661430",
+        "Linux": "setsid steam steam://rungameid/661430",
+        "macOS": "open steam://rungameid/661430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lineway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=307291"
+}
