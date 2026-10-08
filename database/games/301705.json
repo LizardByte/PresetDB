@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301705,
+  "name": "Keep Health!",
+  "source_url": "https://www.igdb.com/games/keep-health",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co884e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keep Health!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2847020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2847020",
+        "Linux": "setsid steam steam://rungameid/2847020",
+        "macOS": "open steam://rungameid/2847020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keep-health",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301705"
+}
