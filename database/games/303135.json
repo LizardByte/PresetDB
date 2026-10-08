@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303135,
+  "name": "Alice's World",
+  "source_url": "https://www.igdb.com/games/alices-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9o6j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alice's World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2439560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2439560",
+        "Linux": "setsid steam steam://rungameid/2439560",
+        "macOS": "open steam://rungameid/2439560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alices-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303135"
+}
