@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302010,
+  "name": "Realm of Gems",
+  "source_url": "https://www.igdb.com/games/realm-of-gems",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co88hc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Realm of Gems",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2851810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2851810",
+        "Linux": "setsid steam steam://rungameid/2851810",
+        "macOS": "open steam://rungameid/2851810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "realm-of-gems",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302010"
+}
