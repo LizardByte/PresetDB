@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295414,
+  "name": "Gameartopia",
+  "source_url": "https://www.igdb.com/games/gameartopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g2z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gameartopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2777240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2777240",
+        "Linux": "setsid steam steam://rungameid/2777240",
+        "macOS": "open steam://rungameid/2777240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gameartopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295414"
+}
