@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296725,
+  "name": "Bosstack",
+  "source_url": "https://www.igdb.com/games/bosstack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co826r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bosstack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2901820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2901820",
+        "Linux": "setsid steam steam://rungameid/2901820",
+        "macOS": "open steam://rungameid/2901820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bosstack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296725"
+}
