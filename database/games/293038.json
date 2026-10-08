@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293038,
+  "name": "Crawler",
+  "source_url": "https://www.igdb.com/games/crawler--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7y31.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crawler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2824010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2824010",
+        "Linux": "setsid steam steam://rungameid/2824010",
+        "macOS": "open steam://rungameid/2824010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crawler--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293038"
+}
