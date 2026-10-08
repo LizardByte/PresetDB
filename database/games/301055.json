@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301055,
+  "name": "Berry Bash",
+  "source_url": "https://www.igdb.com/games/berry-bash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fji.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Berry Bash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2954440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2954440",
+        "Linux": "setsid steam steam://rungameid/2954440",
+        "macOS": "open steam://rungameid/2954440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "berry-bash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301055"
+}
