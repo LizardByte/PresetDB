@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292684,
+  "name": "Mojo XXX",
+  "source_url": "https://www.igdb.com/games/mojo-xxx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob00r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mojo XXX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "975350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/975350",
+        "Linux": "setsid steam steam://rungameid/975350",
+        "macOS": "open steam://rungameid/975350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mojo-xxx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292684"
+}
