@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303044,
+  "name": "Robert on Earth",
+  "source_url": "https://www.igdb.com/games/robert-on-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6s8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Robert on Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3003050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3003050",
+        "Linux": "setsid steam steam://rungameid/3003050",
+        "macOS": "open steam://rungameid/3003050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "robert-on-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303044"
+}
