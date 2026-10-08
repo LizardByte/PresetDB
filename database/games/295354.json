@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295354,
+  "name": "MagFighter",
+  "source_url": "https://www.igdb.com/games/magfighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobweo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MagFighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2805920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2805920",
+        "Linux": "setsid steam steam://rungameid/2805920",
+        "macOS": "open steam://rungameid/2805920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magfighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295354"
+}
