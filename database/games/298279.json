@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298279,
+  "name": "Zombie Battle",
+  "source_url": "https://www.igdb.com/games/zombie-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83m3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2920660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2920660",
+        "Linux": "setsid steam steam://rungameid/2920660",
+        "macOS": "open steam://rungameid/2920660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298279"
+}
