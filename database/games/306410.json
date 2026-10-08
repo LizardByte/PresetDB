@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306410,
+  "name": "Bluma",
+  "source_url": "https://www.igdb.com/games/bluma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9e0z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bluma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3032520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3032520",
+        "Linux": "setsid steam steam://rungameid/3032520",
+        "macOS": "open steam://rungameid/3032520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bluma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306410"
+}
