@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295214,
+  "name": "On the Bubble",
+  "source_url": "https://www.igdb.com/games/on-the-bubble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g4h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "On the Bubble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2707350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2707350",
+        "Linux": "setsid steam steam://rungameid/2707350",
+        "macOS": "open steam://rungameid/2707350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "on-the-bubble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295214"
+}
