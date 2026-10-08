@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301859,
+  "name": "HD",
+  "source_url": "https://www.igdb.com/games/hd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fnp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2935860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2935860",
+        "Linux": "setsid steam steam://rungameid/2935860",
+        "macOS": "open steam://rungameid/2935860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301859"
+}
