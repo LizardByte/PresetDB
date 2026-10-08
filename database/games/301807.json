@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301807,
+  "name": "Crabity",
+  "source_url": "https://www.igdb.com/games/crabity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f6o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crabity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2988850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2988850",
+        "Linux": "setsid steam steam://rungameid/2988850",
+        "macOS": "open steam://rungameid/2988850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crabity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301807"
+}
