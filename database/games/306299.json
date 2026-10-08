@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306299,
+  "name": "The Flying Farm",
+  "source_url": "https://www.igdb.com/games/the-flying-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8g9h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Flying Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "844910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/844910",
+        "Linux": "setsid steam steam://rungameid/844910",
+        "macOS": "open steam://rungameid/844910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-flying-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306299"
+}
