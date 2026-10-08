@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 296716,
+  "name": "ClockOut",
+  "source_url": "https://www.igdb.com/games/clockout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co826i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ClockOut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2918760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2918760",
+        "Linux": "setsid steam steam://rungameid/2918760",
+        "macOS": "open steam://rungameid/2918760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clockout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=296716"
+}
