@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304504,
+  "name": "Devils Run",
+  "source_url": "https://www.igdb.com/games/devils-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8crr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Devils Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2997600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2997600",
+        "Linux": "setsid steam steam://rungameid/2997600",
+        "macOS": "open steam://rungameid/2997600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "devils-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304504"
+}
