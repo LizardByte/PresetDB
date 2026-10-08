@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293045,
+  "name": "Test Subject Name",
+  "source_url": "https://www.igdb.com/games/test-subject-name",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coas8r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Test Subject Name",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2842570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2842570",
+        "Linux": "setsid steam steam://rungameid/2842570",
+        "macOS": "open steam://rungameid/2842570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "test-subject-name",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293045"
+}
