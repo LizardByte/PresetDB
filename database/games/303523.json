@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303523,
+  "name": "Fighting Frontier",
+  "source_url": "https://www.igdb.com/games/fighting-frontier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co89wa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fighting Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2938210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2938210",
+        "Linux": "setsid steam steam://rungameid/2938210",
+        "macOS": "open steam://rungameid/2938210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fighting-frontier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303523"
+}
