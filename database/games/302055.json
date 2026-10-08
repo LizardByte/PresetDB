@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 302055,
+  "name": "Unclogged",
+  "source_url": "https://www.igdb.com/games/unclogged",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f7x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unclogged",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2984780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2984780",
+        "Linux": "setsid steam steam://rungameid/2984780",
+        "macOS": "open steam://rungameid/2984780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unclogged",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=302055"
+}
