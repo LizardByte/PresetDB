@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301328,
+  "name": "Serial World",
+  "source_url": "https://www.igdb.com/games/serial-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab87.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Serial World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2979500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2979500",
+        "Linux": "setsid steam steam://rungameid/2979500",
+        "macOS": "open steam://rungameid/2979500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "serial-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301328"
+}
