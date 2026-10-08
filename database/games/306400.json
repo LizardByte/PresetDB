@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306400,
+  "name": "GastroRun",
+  "source_url": "https://www.igdb.com/games/gastrorun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8qxt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GastroRun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3020870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3020870",
+        "Linux": "setsid steam steam://rungameid/3020870",
+        "macOS": "open steam://rungameid/3020870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gastrorun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306400"
+}
