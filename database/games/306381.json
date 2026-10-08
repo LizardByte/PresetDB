@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306381,
+  "name": "TRex Hero",
+  "source_url": "https://www.igdb.com/games/trex-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8w9o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TRex Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3037560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3037560",
+        "Linux": "setsid steam steam://rungameid/3037560",
+        "macOS": "open steam://rungameid/3037560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trex-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306381"
+}
