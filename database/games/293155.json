@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293155,
+  "name": "Microtopia",
+  "source_url": "https://www.igdb.com/games/microtopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8o4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Microtopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2750000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2750000",
+        "Linux": "setsid steam steam://rungameid/2750000",
+        "macOS": "open steam://rungameid/2750000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "microtopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293155"
+}
