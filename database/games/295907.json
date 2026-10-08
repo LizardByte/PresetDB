@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295907,
+  "name": "Over the Net",
+  "source_url": "https://www.igdb.com/games/over-the-net--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co81dy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Over the Net",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2824810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2824810",
+        "Linux": "setsid steam steam://rungameid/2824810",
+        "macOS": "open steam://rungameid/2824810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "over-the-net--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295907"
+}
