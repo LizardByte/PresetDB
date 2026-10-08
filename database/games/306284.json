@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 306284,
+  "name": "Chrono",
+  "source_url": "https://www.igdb.com/games/chrono--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaken.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chrono",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3015650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3015650",
+        "Linux": "setsid steam steam://rungameid/3015650",
+        "macOS": "open steam://rungameid/3015650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chrono--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=306284"
+}
