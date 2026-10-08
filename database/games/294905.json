@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 294905,
+  "name": "Search All: Hearts",
+  "source_url": "https://www.igdb.com/games/search-all-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80h0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Search All: Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2908900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2908900",
+        "Linux": "setsid steam steam://rungameid/2908900",
+        "macOS": "open steam://rungameid/2908900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "search-all-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=294905"
+}
