@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301277,
+  "name": "SpinSweep",
+  "source_url": "https://www.igdb.com/games/spinsweep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co87km.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpinSweep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2937840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2937840",
+        "Linux": "setsid steam steam://rungameid/2937840",
+        "macOS": "open steam://rungameid/2937840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spinsweep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301277"
+}
