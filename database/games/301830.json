@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301830,
+  "name": "The Hell in I",
+  "source_url": "https://www.igdb.com/games/the-hell-in-i",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8f6r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hell in I",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2988520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2988520",
+        "Linux": "setsid steam steam://rungameid/2988520",
+        "macOS": "open steam://rungameid/2988520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hell-in-i",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301830"
+}
