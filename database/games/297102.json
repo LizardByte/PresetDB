@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 297102,
+  "name": "Critical Failure",
+  "source_url": "https://www.igdb.com/games/critical-failure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Critical Failure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2610640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2610640",
+        "Linux": "setsid steam steam://rungameid/2610640",
+        "macOS": "open steam://rungameid/2610640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "critical-failure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=297102"
+}
