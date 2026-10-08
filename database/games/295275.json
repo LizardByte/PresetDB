@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295275,
+  "name": "Catch My Color",
+  "source_url": "https://www.igdb.com/games/catch-my-color",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co80uz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Catch My Color",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2660700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2660700",
+        "Linux": "setsid steam steam://rungameid/2660700",
+        "macOS": "open steam://rungameid/2660700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catch-my-color",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295275"
+}
