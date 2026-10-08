@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298303,
+  "name": "Moon River",
+  "source_url": "https://www.igdb.com/games/moon-river--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coca81.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon River",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3392490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3392490",
+        "Linux": "setsid steam steam://rungameid/3392490",
+        "macOS": "open steam://rungameid/3392490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-river--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298303"
+}
