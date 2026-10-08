@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 295302,
+  "name": "Subway",
+  "source_url": "https://www.igdb.com/games/subway--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8jan.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Subway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2905630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2905630",
+        "Linux": "setsid steam steam://rungameid/2905630",
+        "macOS": "open steam://rungameid/2905630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "subway--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=295302"
+}
