@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293687,
+  "name": "My Exit",
+  "source_url": "https://www.igdb.com/games/my-exit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7z7w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2870010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2870010",
+        "Linux": "setsid steam steam://rungameid/2870010",
+        "macOS": "open steam://rungameid/2870010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-exit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293687"
+}
