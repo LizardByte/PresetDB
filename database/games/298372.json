@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298372,
+  "name": "Trojan",
+  "source_url": "https://www.igdb.com/games/trojan--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co83pi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trojan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2827530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2827530",
+        "Linux": "setsid steam steam://rungameid/2827530",
+        "macOS": "open steam://rungameid/2827530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trojan--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298372"
+}
