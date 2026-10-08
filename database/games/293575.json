@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293575,
+  "name": "HustleGame",
+  "source_url": "https://www.igdb.com/games/hustlegame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7z4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HustleGame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2871740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2871740",
+        "Linux": "setsid steam steam://rungameid/2871740",
+        "macOS": "open steam://rungameid/2871740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hustlegame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293575"
+}
