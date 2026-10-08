@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 293700,
+  "name": "Your Earth",
+  "source_url": "https://www.igdb.com/games/your-earth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7z85.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Your Earth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2829270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2829270",
+        "Linux": "setsid steam steam://rungameid/2829270",
+        "macOS": "open steam://rungameid/2829270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "your-earth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=293700"
+}
