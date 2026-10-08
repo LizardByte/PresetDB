@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 292733,
+  "name": "Easter!",
+  "source_url": "https://www.igdb.com/games/easter--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgvx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Easter!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1023960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1023960",
+        "Linux": "setsid steam steam://rungameid/1023960",
+        "macOS": "open steam://rungameid/1023960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "easter--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=292733"
+}
