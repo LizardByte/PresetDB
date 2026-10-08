@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304163,
+  "name": "Tiny Adventure",
+  "source_url": "https://www.igdb.com/games/tiny-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazfd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3922370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3922370",
+        "Linux": "setsid steam steam://rungameid/3922370",
+        "macOS": "open steam://rungameid/3922370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304163"
+}
