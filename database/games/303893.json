@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303893,
+  "name": "Apocalyptic cat",
+  "source_url": "https://www.igdb.com/games/apocalyptic-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8etw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apocalyptic cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3015100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3015100",
+        "Linux": "setsid steam steam://rungameid/3015100",
+        "macOS": "open steam://rungameid/3015100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "apocalyptic-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303893"
+}
