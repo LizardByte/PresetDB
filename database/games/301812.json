@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301812,
+  "name": "Slime Coming",
+  "source_url": "https://www.igdb.com/games/slime-coming",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8fm9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Coming",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2987250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2987250",
+        "Linux": "setsid steam steam://rungameid/2987250",
+        "macOS": "open steam://rungameid/2987250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-coming",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301812"
+}
