@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303164,
+  "name": "Bloodgrounds",
+  "source_url": "https://www.igdb.com/games/bloodgrounds",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coby7c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloodgrounds",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2507820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2507820",
+        "Linux": "setsid steam steam://rungameid/2507820",
+        "macOS": "open steam://rungameid/2507820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bloodgrounds",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303164"
+}
