@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303411,
+  "name": "Cheese Party",
+  "source_url": "https://www.igdb.com/games/cheese-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98ck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cheese Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2920060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2920060",
+        "Linux": "setsid steam steam://rungameid/2920060",
+        "macOS": "open steam://rungameid/2920060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cheese-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303411"
+}
