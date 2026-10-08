@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303768,
+  "name": "ShowMeSpeed",
+  "source_url": "https://www.igdb.com/games/showmespeed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8a34.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ShowMeSpeed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2637150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2637150",
+        "Linux": "setsid steam steam://rungameid/2637150",
+        "macOS": "open steam://rungameid/2637150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "showmespeed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303768"
+}
