@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 298449,
+  "name": "Celebrity Hunter",
+  "source_url": "https://www.igdb.com/games/celebrity-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4x2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Celebrity Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "905570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/905570",
+        "Linux": "setsid steam steam://rungameid/905570",
+        "macOS": "open steam://rungameid/905570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "celebrity-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=298449"
+}
