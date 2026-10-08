@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303359,
+  "name": "Books Upon Books",
+  "source_url": "https://www.igdb.com/games/books-upon-books",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Books Upon Books",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2999740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2999740",
+        "Linux": "setsid steam steam://rungameid/2999740",
+        "macOS": "open steam://rungameid/2999740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "books-upon-books",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303359"
+}
