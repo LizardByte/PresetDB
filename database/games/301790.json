@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 301790,
+  "name": "Chocolate Factory",
+  "source_url": "https://www.igdb.com/games/chocolate-factory--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co888b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chocolate Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2854710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2854710",
+        "Linux": "setsid steam steam://rungameid/2854710",
+        "macOS": "open steam://rungameid/2854710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chocolate-factory--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=301790"
+}
