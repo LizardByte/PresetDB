@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 304740,
+  "name": "Yooka-Replaylee",
+  "source_url": "https://www.igdb.com/games/yooka-replaylee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc722.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yooka-Replaylee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2448020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2448020",
+        "Linux": "setsid steam steam://rungameid/2448020",
+        "macOS": "open steam://rungameid/2448020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yooka-replaylee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=304740"
+}
