@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311499,
+  "name": "Avocado",
+  "source_url": "https://www.igdb.com/games/avocado",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8pmy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Avocado",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3062580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3062580",
+        "Linux": "setsid steam steam://rungameid/3062580",
+        "macOS": "open steam://rungameid/3062580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "avocado",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311499"
+}
