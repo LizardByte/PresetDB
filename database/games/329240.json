@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329240,
+  "name": "Connect Collect",
+  "source_url": "https://www.igdb.com/games/connect-collect",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9dlv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Connect Collect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3335500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3335500",
+        "Linux": "setsid steam steam://rungameid/3335500",
+        "macOS": "open steam://rungameid/3335500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "connect-collect",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329240"
+}
