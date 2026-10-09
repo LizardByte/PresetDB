@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311824,
+  "name": "Guntris",
+  "source_url": "https://www.igdb.com/games/guntris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8m5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guntris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3125590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3125590",
+        "Linux": "setsid steam steam://rungameid/3125590",
+        "macOS": "open steam://rungameid/3125590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guntris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311824"
+}
