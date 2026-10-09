@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318877,
+  "name": "Spectral Prison",
+  "source_url": "https://www.igdb.com/games/spectral-prison",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xtc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spectral Prison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3260000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3260000",
+        "Linux": "setsid steam steam://rungameid/3260000",
+        "macOS": "open steam://rungameid/3260000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spectral-prison",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318877"
+}
