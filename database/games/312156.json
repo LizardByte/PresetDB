@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312156,
+  "name": "PirateWar",
+  "source_url": "https://www.igdb.com/games/piratewar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coag5v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PirateWar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3122370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3122370",
+        "Linux": "setsid steam steam://rungameid/3122370",
+        "macOS": "open steam://rungameid/3122370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "piratewar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312156"
+}
