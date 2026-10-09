@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311784,
+  "name": "Dark Hunter",
+  "source_url": "https://www.igdb.com/games/dark-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3038840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3038840",
+        "Linux": "setsid steam steam://rungameid/3038840",
+        "macOS": "open steam://rungameid/3038840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311784"
+}
