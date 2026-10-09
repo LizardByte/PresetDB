@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309866,
+  "name": "I'm Not Crazy",
+  "source_url": "https://www.igdb.com/games/im-not-crazy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8q47.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm Not Crazy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3109000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3109000",
+        "Linux": "setsid steam steam://rungameid/3109000",
+        "macOS": "open steam://rungameid/3109000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-not-crazy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309866"
+}
