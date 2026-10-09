@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312186,
+  "name": "The Good Old Days",
+  "source_url": "https://www.igdb.com/games/the-good-old-days",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coarev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Good Old Days",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2996540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2996540",
+        "Linux": "setsid steam steam://rungameid/2996540",
+        "macOS": "open steam://rungameid/2996540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-good-old-days",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312186"
+}
