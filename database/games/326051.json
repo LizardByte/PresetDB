@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326051,
+  "name": "Planet Factory",
+  "source_url": "https://www.igdb.com/games/planet-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co963q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planet Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3324570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3324570",
+        "Linux": "setsid steam steam://rungameid/3324570",
+        "macOS": "open steam://rungameid/3324570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planet-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326051"
+}
