@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323007,
+  "name": "Batography",
+  "source_url": "https://www.igdb.com/games/batography",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co93vp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Batography",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3351430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3351430",
+        "Linux": "setsid steam steam://rungameid/3351430",
+        "macOS": "open steam://rungameid/3351430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "batography",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323007"
+}
