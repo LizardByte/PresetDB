@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328165,
+  "name": "3.14 Idle",
+  "source_url": "https://www.igdb.com/games/3-dot-14-idle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bu3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "3.14 Idle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3357510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3357510",
+        "Linux": "setsid steam steam://rungameid/3357510",
+        "macOS": "open steam://rungameid/3357510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "3-dot-14-idle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328165"
+}
