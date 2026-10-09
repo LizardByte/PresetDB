@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326247,
+  "name": "Fisherman",
+  "source_url": "https://www.igdb.com/games/fisherman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co96kn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fisherman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3243860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3243860",
+        "Linux": "setsid steam steam://rungameid/3243860",
+        "macOS": "open steam://rungameid/3243860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fisherman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326247"
+}
