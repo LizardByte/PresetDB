@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325589,
+  "name": "Solasta II",
+  "source_url": "https://www.igdb.com/games/solasta-ii",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ko9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solasta II",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2975950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2975950",
+        "Linux": "setsid steam steam://rungameid/2975950",
+        "macOS": "open steam://rungameid/2975950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "solasta-ii",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325589"
+}
