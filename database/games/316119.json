@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 316119,
+  "name": "Red October",
+  "source_url": "https://www.igdb.com/games/red-october",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8shn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red October",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2905620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2905620",
+        "Linux": "setsid steam steam://rungameid/2905620",
+        "macOS": "open steam://rungameid/2905620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-october",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=316119"
+}
