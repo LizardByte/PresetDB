@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319420,
+  "name": "Abolish",
+  "source_url": "https://www.igdb.com/games/abolish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8x84.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Abolish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3270210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3270210",
+        "Linux": "setsid steam steam://rungameid/3270210",
+        "macOS": "open steam://rungameid/3270210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "abolish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319420"
+}
