@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314366,
+  "name": "Watermelon",
+  "source_url": "https://www.igdb.com/games/watermelon--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbnv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Watermelon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3059220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3059220",
+        "Linux": "setsid steam steam://rungameid/3059220",
+        "macOS": "open steam://rungameid/3059220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "watermelon--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314366"
+}
