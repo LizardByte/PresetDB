@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320616,
+  "name": "Keep Your Eyes Open",
+  "source_url": "https://www.igdb.com/games/keep-your-eyes-open",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z3j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keep Your Eyes Open",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3270850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3270850",
+        "Linux": "setsid steam steam://rungameid/3270850",
+        "macOS": "open steam://rungameid/3270850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keep-your-eyes-open",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320616"
+}
