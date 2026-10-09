@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311219,
+  "name": "Project Phoenix",
+  "source_url": "https://www.igdb.com/games/project-phoenix--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mjq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Phoenix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3037020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3037020",
+        "Linux": "setsid steam steam://rungameid/3037020",
+        "macOS": "open steam://rungameid/3037020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-phoenix--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311219"
+}
