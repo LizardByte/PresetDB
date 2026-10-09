@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311646,
+  "name": "Iltami",
+  "source_url": "https://www.igdb.com/games/iltami",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lzf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iltami",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3037200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3037200",
+        "Linux": "setsid steam steam://rungameid/3037200",
+        "macOS": "open steam://rungameid/3037200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iltami",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311646"
+}
