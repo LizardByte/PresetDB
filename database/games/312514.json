@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312514,
+  "name": "X Roulette",
+  "source_url": "https://www.igdb.com/games/x-roulette",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mv4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "X Roulette",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3102820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3102820",
+        "Linux": "setsid steam steam://rungameid/3102820",
+        "macOS": "open steam://rungameid/3102820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "x-roulette",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312514"
+}
