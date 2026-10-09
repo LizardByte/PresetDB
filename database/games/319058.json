@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319058,
+  "name": "Go North",
+  "source_url": "https://www.igdb.com/games/go-north",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahnh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go North",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3041730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3041730",
+        "Linux": "setsid steam steam://rungameid/3041730",
+        "macOS": "open steam://rungameid/3041730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-north",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319058"
+}
