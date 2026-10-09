@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328244,
+  "name": "It’s on the Mouse",
+  "source_url": "https://www.igdb.com/games/its-on-the-mouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9p41.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It’s on the Mouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075020",
+        "Linux": "setsid steam steam://rungameid/3075020",
+        "macOS": "open steam://rungameid/3075020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-on-the-mouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328244"
+}
