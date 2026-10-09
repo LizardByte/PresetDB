@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314664,
+  "name": "Words Guesser",
+  "source_url": "https://www.igdb.com/games/words-guesser",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Words Guesser",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3141210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3141210",
+        "Linux": "setsid steam steam://rungameid/3141210",
+        "macOS": "open steam://rungameid/3141210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "words-guesser",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314664"
+}
