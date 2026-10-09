@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311251,
+  "name": "Glitch World",
+  "source_url": "https://www.igdb.com/games/glitch-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8llj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Glitch World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2962550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2962550",
+        "Linux": "setsid steam steam://rungameid/2962550",
+        "macOS": "open steam://rungameid/2962550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "glitch-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311251"
+}
