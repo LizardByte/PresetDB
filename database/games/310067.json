@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310067,
+  "name": "Megan's Adventure",
+  "source_url": "https://www.igdb.com/games/megans-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Megan's Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2929830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2929830",
+        "Linux": "setsid steam steam://rungameid/2929830",
+        "macOS": "open steam://rungameid/2929830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "megans-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310067"
+}
