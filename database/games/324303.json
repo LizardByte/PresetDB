@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 324303,
+  "name": "Ember's Verge",
+  "source_url": "https://www.igdb.com/games/embers-verge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99si.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ember's Verge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3081000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3081000",
+        "Linux": "setsid steam steam://rungameid/3081000",
+        "macOS": "open steam://rungameid/3081000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "embers-verge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=324303"
+}
