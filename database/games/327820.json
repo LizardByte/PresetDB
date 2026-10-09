@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 327820,
+  "name": "Terry's Other Games",
+  "source_url": "https://www.igdb.com/games/terrys-other-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99gu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terry's Other Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2824580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2824580",
+        "Linux": "setsid steam steam://rungameid/2824580",
+        "macOS": "open steam://rungameid/2824580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terrys-other-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=327820"
+}
