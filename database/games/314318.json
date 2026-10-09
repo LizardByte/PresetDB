@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314318,
+  "name": "Poop",
+  "source_url": "https://www.igdb.com/games/poop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8pgk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Poop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3060300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3060300",
+        "Linux": "setsid steam steam://rungameid/3060300",
+        "macOS": "open steam://rungameid/3060300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "poop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314318"
+}
