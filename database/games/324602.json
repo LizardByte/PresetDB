@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 324602,
+  "name": "Goldenheart",
+  "source_url": "https://www.igdb.com/games/goldenheart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94cs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goldenheart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3002500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3002500",
+        "Linux": "setsid steam steam://rungameid/3002500",
+        "macOS": "open steam://rungameid/3002500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goldenheart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=324602"
+}
