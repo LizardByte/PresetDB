@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323499,
+  "name": "Heritage",
+  "source_url": "https://www.igdb.com/games/heritage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co936i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heritage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3371840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3371840",
+        "Linux": "setsid steam steam://rungameid/3371840",
+        "macOS": "open steam://rungameid/3371840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heritage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323499"
+}
