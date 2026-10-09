@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310007,
+  "name": "Box Bakery",
+  "source_url": "https://www.igdb.com/games/box-bakery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8k95.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Box Bakery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2942950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2942950",
+        "Linux": "setsid steam steam://rungameid/2942950",
+        "macOS": "open steam://rungameid/2942950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "box-bakery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310007"
+}
