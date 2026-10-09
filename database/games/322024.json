@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 322024,
+  "name": "Santa",
+  "source_url": "https://www.igdb.com/games/santa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91b1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Santa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3321400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3321400",
+        "Linux": "setsid steam steam://rungameid/3321400",
+        "macOS": "open steam://rungameid/3321400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "santa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=322024"
+}
