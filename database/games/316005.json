@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 316005,
+  "name": "What's done is Done",
+  "source_url": "https://www.igdb.com/games/whats-done-is-done",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8sax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What's done is Done",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3161180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3161180",
+        "Linux": "setsid steam steam://rungameid/3161180",
+        "macOS": "open steam://rungameid/3161180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whats-done-is-done",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=316005"
+}
