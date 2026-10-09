@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311238,
+  "name": "Run, Vivian Run",
+  "source_url": "https://www.igdb.com/games/run-vivian-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run, Vivian Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3027900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3027900",
+        "Linux": "setsid steam steam://rungameid/3027900",
+        "macOS": "open steam://rungameid/3027900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-vivian-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311238"
+}
