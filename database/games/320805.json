@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320805,
+  "name": "+1%",
+  "source_url": "https://www.igdb.com/games/plus-1-percent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4cd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "+1%",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3292540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3292540",
+        "Linux": "setsid steam steam://rungameid/3292540",
+        "macOS": "open steam://rungameid/3292540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plus-1-percent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320805"
+}
