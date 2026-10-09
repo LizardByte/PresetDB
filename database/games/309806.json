@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309806,
+  "name": "HeartWare",
+  "source_url": "https://www.igdb.com/games/heartware",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ng8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HeartWare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3105050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3105050",
+        "Linux": "setsid steam steam://rungameid/3105050",
+        "macOS": "open steam://rungameid/3105050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heartware",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309806"
+}
