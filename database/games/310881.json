@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310881,
+  "name": "Gus Game",
+  "source_url": "https://www.igdb.com/games/gus-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod15u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gus Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2407780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2407780",
+        "Linux": "setsid steam steam://rungameid/2407780",
+        "macOS": "open steam://rungameid/2407780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gus-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310881"
+}
