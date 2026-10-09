@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 322614,
+  "name": "Benny the Blob",
+  "source_url": "https://www.igdb.com/games/benny-the-blob",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co925t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Benny the Blob",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2956480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2956480",
+        "Linux": "setsid steam steam://rungameid/2956480",
+        "macOS": "open steam://rungameid/2956480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "benny-the-blob",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=322614"
+}
