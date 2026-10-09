@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323430,
+  "name": "Last Pickup",
+  "source_url": "https://www.igdb.com/games/last-pickup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co934i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Pickup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3349500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3349500",
+        "Linux": "setsid steam steam://rungameid/3349500",
+        "macOS": "open steam://rungameid/3349500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-pickup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323430"
+}
