@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310018,
+  "name": "My Dog!",
+  "source_url": "https://www.igdb.com/games/my-dog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8k9k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Dog!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2930210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2930210",
+        "Linux": "setsid steam steam://rungameid/2930210",
+        "macOS": "open steam://rungameid/2930210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-dog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310018"
+}
