@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320538,
+  "name": "PlayGuys",
+  "source_url": "https://www.igdb.com/games/playguys",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z19.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlayGuys",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3241720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3241720",
+        "Linux": "setsid steam steam://rungameid/3241720",
+        "macOS": "open steam://rungameid/3241720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "playguys",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320538"
+}
