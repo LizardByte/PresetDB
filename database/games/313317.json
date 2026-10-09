@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 313317,
+  "name": "Slash/Jump",
+  "source_url": "https://www.igdb.com/games/slash-slash-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8sxd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slash/Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3030210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3030210",
+        "Linux": "setsid steam steam://rungameid/3030210",
+        "macOS": "open steam://rungameid/3030210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slash-slash-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=313317"
+}
