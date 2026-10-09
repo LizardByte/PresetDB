@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 321830,
+  "name": "Damashi Game",
+  "source_url": "https://www.igdb.com/games/damashi-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9105.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Damashi Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3248500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3248500",
+        "Linux": "setsid steam steam://rungameid/3248500",
+        "macOS": "open steam://rungameid/3248500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "damashi-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=321830"
+}
