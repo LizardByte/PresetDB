@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329850,
+  "name": "Somnus",
+  "source_url": "https://www.igdb.com/games/somnus--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9c8q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Somnus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3431120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3431120",
+        "Linux": "setsid steam steam://rungameid/3431120",
+        "macOS": "open steam://rungameid/3431120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "somnus--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329850"
+}
