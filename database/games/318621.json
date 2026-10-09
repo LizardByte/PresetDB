@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318621,
+  "name": "The Last Strand",
+  "source_url": "https://www.igdb.com/games/the-last-strand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8w1z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Strand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3195660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3195660",
+        "Linux": "setsid steam steam://rungameid/3195660",
+        "macOS": "open steam://rungameid/3195660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-strand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318621"
+}
