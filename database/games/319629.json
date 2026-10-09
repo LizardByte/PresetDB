@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319629,
+  "name": "Welcome to Elderfield",
+  "source_url": "https://www.igdb.com/games/welcome-to-elderfield",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwiz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Elderfield",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3195440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3195440",
+        "Linux": "setsid steam steam://rungameid/3195440",
+        "macOS": "open steam://rungameid/3195440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-elderfield",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319629"
+}
