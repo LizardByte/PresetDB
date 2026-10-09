@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311152,
+  "name": "Times of Survival",
+  "source_url": "https://www.igdb.com/games/times-of-survival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9fu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Times of Survival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2999040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2999040",
+        "Linux": "setsid steam steam://rungameid/2999040",
+        "macOS": "open steam://rungameid/2999040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "times-of-survival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311152"
+}
