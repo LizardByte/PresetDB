@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325235,
+  "name": "Toy Box",
+  "source_url": "https://www.igdb.com/games/toy-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co952g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toy Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3341830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3341830",
+        "Linux": "setsid steam steam://rungameid/3341830",
+        "macOS": "open steam://rungameid/3341830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toy-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325235"
+}
