@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323529,
+  "name": "Shard Squad",
+  "source_url": "https://www.igdb.com/games/shard-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0ug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shard Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3363560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3363560",
+        "Linux": "setsid steam steam://rungameid/3363560",
+        "macOS": "open steam://rungameid/3363560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shard-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323529"
+}
