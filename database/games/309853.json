@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309853,
+  "name": "Darwin",
+  "source_url": "https://www.igdb.com/games/darwin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8k2p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Darwin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2958910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2958910",
+        "Linux": "setsid steam steam://rungameid/2958910",
+        "macOS": "open steam://rungameid/2958910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "darwin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309853"
+}
