@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 322830,
+  "name": "Mug",
+  "source_url": "https://www.igdb.com/games/mug",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92h6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mug",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3021620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3021620",
+        "Linux": "setsid steam steam://rungameid/3021620",
+        "macOS": "open steam://rungameid/3021620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mug",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=322830"
+}
