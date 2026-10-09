@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319697,
+  "name": "CornField",
+  "source_url": "https://www.igdb.com/games/cornfield",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xos.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CornField",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3127480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3127480",
+        "Linux": "setsid steam steam://rungameid/3127480",
+        "macOS": "open steam://rungameid/3127480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cornfield",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319697"
+}
