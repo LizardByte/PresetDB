@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312191,
+  "name": "ShipOS 1994",
+  "source_url": "https://www.igdb.com/games/shipos-1994",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ShipOS 1994",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3060400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3060400",
+        "Linux": "setsid steam steam://rungameid/3060400",
+        "macOS": "open steam://rungameid/3060400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shipos-1994",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312191"
+}
