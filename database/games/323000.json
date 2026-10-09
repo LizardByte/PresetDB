@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323000,
+  "name": "PrismNeedle",
+  "source_url": "https://www.igdb.com/games/prismneedle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92p0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PrismNeedle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3073710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3073710",
+        "Linux": "setsid steam steam://rungameid/3073710",
+        "macOS": "open steam://rungameid/3073710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prismneedle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323000"
+}
