@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319493,
+  "name": "The Spiral",
+  "source_url": "https://www.igdb.com/games/the-spiral",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xcm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Spiral",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2577020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2577020",
+        "Linux": "setsid steam steam://rungameid/2577020",
+        "macOS": "open steam://rungameid/2577020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-spiral",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319493"
+}
