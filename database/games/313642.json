@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 313642,
+  "name": "War Job",
+  "source_url": "https://www.igdb.com/games/war-job",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8q6l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War Job",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2779010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2779010",
+        "Linux": "setsid steam steam://rungameid/2779010",
+        "macOS": "open steam://rungameid/2779010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-job",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=313642"
+}
