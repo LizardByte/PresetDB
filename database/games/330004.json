@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330004,
+  "name": "Roulette Dungeon",
+  "source_url": "https://www.igdb.com/games/roulette-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobevz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roulette Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3399930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3399930",
+        "Linux": "setsid steam steam://rungameid/3399930",
+        "macOS": "open steam://rungameid/3399930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roulette-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330004"
+}
