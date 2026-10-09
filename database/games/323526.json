@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323526,
+  "name": "Demon Alive",
+  "source_url": "https://www.igdb.com/games/demon-alive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95e7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Demon Alive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3339100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3339100",
+        "Linux": "setsid steam steam://rungameid/3339100",
+        "macOS": "open steam://rungameid/3339100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "demon-alive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323526"
+}
