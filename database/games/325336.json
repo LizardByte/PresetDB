@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325336,
+  "name": "RPG Chess",
+  "source_url": "https://www.igdb.com/games/rpg-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co956w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RPG Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3383450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3383450",
+        "Linux": "setsid steam steam://rungameid/3383450",
+        "macOS": "open steam://rungameid/3383450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rpg-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325336"
+}
