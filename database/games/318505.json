@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318505,
+  "name": "DuneCrawl",
+  "source_url": "https://www.igdb.com/games/dunecrawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawgh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DuneCrawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1833200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1833200",
+        "Linux": "setsid steam steam://rungameid/1833200",
+        "macOS": "open steam://rungameid/1833200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dunecrawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318505"
+}
