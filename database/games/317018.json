@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 317018,
+  "name": "Stellifier",
+  "source_url": "https://www.igdb.com/games/stellifier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91r7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stellifier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2911260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2911260",
+        "Linux": "setsid steam steam://rungameid/2911260",
+        "macOS": "open steam://rungameid/2911260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stellifier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=317018"
+}
