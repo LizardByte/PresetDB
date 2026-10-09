@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311220,
+  "name": "Verve",
+  "source_url": "https://www.igdb.com/games/verve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Verve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2514110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2514110",
+        "Linux": "setsid steam steam://rungameid/2514110",
+        "macOS": "open steam://rungameid/2514110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "verve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311220"
+}
