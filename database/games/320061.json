@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320061,
+  "name": "Pepe's Revenge",
+  "source_url": "https://www.igdb.com/games/pepes-revenge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8y9q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pepe's Revenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1427570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1427570",
+        "Linux": "setsid steam steam://rungameid/1427570",
+        "macOS": "open steam://rungameid/1427570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pepes-revenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320061"
+}
