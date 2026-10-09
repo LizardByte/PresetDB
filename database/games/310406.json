@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310406,
+  "name": "The Great Escape",
+  "source_url": "https://www.igdb.com/games/the-great-escape--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8knf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Great Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2957690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2957690",
+        "Linux": "setsid steam steam://rungameid/2957690",
+        "macOS": "open steam://rungameid/2957690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-great-escape--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310406"
+}
