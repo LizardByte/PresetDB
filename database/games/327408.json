@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 327408,
+  "name": "Archwizard",
+  "source_url": "https://www.igdb.com/games/archwizard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa43m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Archwizard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955010",
+        "Linux": "setsid steam steam://rungameid/955010",
+        "macOS": "open steam://rungameid/955010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "archwizard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=327408"
+}
