@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310275,
+  "name": "Run The Words",
+  "source_url": "https://www.igdb.com/games/run-the-words",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nfn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run The Words",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3101740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3101740",
+        "Linux": "setsid steam steam://rungameid/3101740",
+        "macOS": "open steam://rungameid/3101740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-the-words",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310275"
+}
