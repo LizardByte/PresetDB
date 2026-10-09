@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312755,
+  "name": "Cast Cats",
+  "source_url": "https://www.igdb.com/games/cast-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8u83.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cast Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3118450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3118450",
+        "Linux": "setsid steam steam://rungameid/3118450",
+        "macOS": "open steam://rungameid/3118450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cast-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312755"
+}
