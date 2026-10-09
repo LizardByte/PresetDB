@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323428,
+  "name": "Banana Next Gen",
+  "source_url": "https://www.igdb.com/games/banana-next-gen",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co934g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banana Next Gen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3217340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3217340",
+        "Linux": "setsid steam steam://rungameid/3217340",
+        "macOS": "open steam://rungameid/3217340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banana-next-gen",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323428"
+}
