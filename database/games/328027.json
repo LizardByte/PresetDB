@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328027,
+  "name": "Tower Dominion",
+  "source_url": "https://www.igdb.com/games/tower-dominion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99uc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tower Dominion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3226530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3226530",
+        "Linux": "setsid steam steam://rungameid/3226530",
+        "macOS": "open steam://rungameid/3226530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tower-dominion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328027"
+}
