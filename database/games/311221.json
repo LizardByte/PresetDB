@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311221,
+  "name": "Shattered Melodies",
+  "source_url": "https://www.igdb.com/games/shattered-melodies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lkn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shattered Melodies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2989200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2989200",
+        "Linux": "setsid steam steam://rungameid/2989200",
+        "macOS": "open steam://rungameid/2989200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shattered-melodies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311221"
+}
