@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320571,
+  "name": "Gunz & Golf",
+  "source_url": "https://www.igdb.com/games/gunz-and-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z26.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunz & Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3072520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3072520",
+        "Linux": "setsid steam steam://rungameid/3072520",
+        "macOS": "open steam://rungameid/3072520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gunz-and-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320571"
+}
