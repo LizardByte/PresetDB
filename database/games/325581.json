@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325581,
+  "name": "One Move Away",
+  "source_url": "https://www.igdb.com/games/one-move-away",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95fq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Move Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3172440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3172440",
+        "Linux": "setsid steam steam://rungameid/3172440",
+        "macOS": "open steam://rungameid/3172440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-move-away",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325581"
+}
