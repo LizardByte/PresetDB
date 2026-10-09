@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325878,
+  "name": "AAA Simulator",
+  "source_url": "https://www.igdb.com/games/aaa-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co95uc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AAA Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3358040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3358040",
+        "Linux": "setsid steam steam://rungameid/3358040",
+        "macOS": "open steam://rungameid/3358040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aaa-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325878"
+}
