@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311552,
+  "name": "DuaLight",
+  "source_url": "https://www.igdb.com/games/dualight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co93tf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DuaLight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2841750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2841750",
+        "Linux": "setsid steam steam://rungameid/2841750",
+        "macOS": "open steam://rungameid/2841750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dualight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311552"
+}
