@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326405,
+  "name": "Hell Yeah Simulator",
+  "source_url": "https://www.igdb.com/games/hell-yeah-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9zl0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hell Yeah Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3264980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3264980",
+        "Linux": "setsid steam steam://rungameid/3264980",
+        "macOS": "open steam://rungameid/3264980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hell-yeah-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326405"
+}
