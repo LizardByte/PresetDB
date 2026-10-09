@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319426,
+  "name": "Ostrich Run",
+  "source_url": "https://www.igdb.com/games/ostrich-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8x8b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ostrich Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3249090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3249090",
+        "Linux": "setsid steam steam://rungameid/3249090",
+        "macOS": "open steam://rungameid/3249090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ostrich-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319426"
+}
