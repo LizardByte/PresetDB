@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320242,
+  "name": "Revert",
+  "source_url": "https://www.igdb.com/games/revert",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8yjp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revert",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3008280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3008280",
+        "Linux": "setsid steam steam://rungameid/3008280",
+        "macOS": "open steam://rungameid/3008280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "revert",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320242"
+}
