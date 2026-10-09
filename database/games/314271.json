@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314271,
+  "name": "Herdling",
+  "source_url": "https://www.igdb.com/games/herdling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8pg0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Herdling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3047750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3047750",
+        "Linux": "setsid steam steam://rungameid/3047750",
+        "macOS": "open steam://rungameid/3047750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "herdling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314271"
+}
