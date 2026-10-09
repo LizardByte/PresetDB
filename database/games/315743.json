@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 315743,
+  "name": "Welcome to Doll Town",
+  "source_url": "https://www.igdb.com/games/welcome-to-doll-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3c5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Doll Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3204320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3204320",
+        "Linux": "setsid steam steam://rungameid/3204320",
+        "macOS": "open steam://rungameid/3204320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-doll-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=315743"
+}
