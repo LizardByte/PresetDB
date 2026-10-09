@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310289,
+  "name": "KillerNight",
+  "source_url": "https://www.igdb.com/games/killernight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nqa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KillerNight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3122240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3122240",
+        "Linux": "setsid steam steam://rungameid/3122240",
+        "macOS": "open steam://rungameid/3122240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "killernight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310289"
+}
