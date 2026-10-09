@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 316562,
+  "name": "Halfling",
+  "source_url": "https://www.igdb.com/games/halfling",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8t0z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Halfling",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075510",
+        "Linux": "setsid steam steam://rungameid/3075510",
+        "macOS": "open steam://rungameid/3075510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "halfling",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=316562"
+}
