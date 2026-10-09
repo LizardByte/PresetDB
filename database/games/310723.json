@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310723,
+  "name": "Neon Express",
+  "source_url": "https://www.igdb.com/games/neon-express",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8trl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Express",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2952840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2952840",
+        "Linux": "setsid steam steam://rungameid/2952840",
+        "macOS": "open steam://rungameid/2952840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-express",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310723"
+}
