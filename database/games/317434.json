@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 317434,
+  "name": "Gnomes and Knights",
+  "source_url": "https://www.igdb.com/games/gnomes-and-knights",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9042.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gnomes and Knights",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3107880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3107880",
+        "Linux": "setsid steam steam://rungameid/3107880",
+        "macOS": "open steam://rungameid/3107880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gnomes-and-knights",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=317434"
+}
