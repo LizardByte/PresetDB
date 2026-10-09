@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328003,
+  "name": "Wartorn",
+  "source_url": "https://www.igdb.com/games/wartorn--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coau7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wartorn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1296660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1296660",
+        "Linux": "setsid steam steam://rungameid/1296660",
+        "macOS": "open steam://rungameid/1296660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wartorn--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328003"
+}
