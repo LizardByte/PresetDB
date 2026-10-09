@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310886,
+  "name": "Dino Jump",
+  "source_url": "https://www.igdb.com/games/dino-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8la5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dino Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3006650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3006650",
+        "Linux": "setsid steam steam://rungameid/3006650",
+        "macOS": "open steam://rungameid/3006650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dino-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310886"
+}
