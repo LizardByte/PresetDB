@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 321274,
+  "name": "Love Me or Die",
+  "source_url": "https://www.igdb.com/games/love-me-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co905x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Love Me or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3165520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3165520",
+        "Linux": "setsid steam steam://rungameid/3165520",
+        "macOS": "open steam://rungameid/3165520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "love-me-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=321274"
+}
