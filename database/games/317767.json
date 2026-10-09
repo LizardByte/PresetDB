@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 317767,
+  "name": "Planet Strike",
+  "source_url": "https://www.igdb.com/games/planet-strike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8uvz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planet Strike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3137000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3137000",
+        "Linux": "setsid steam steam://rungameid/3137000",
+        "macOS": "open steam://rungameid/3137000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planet-strike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=317767"
+}
