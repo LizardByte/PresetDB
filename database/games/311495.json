@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311495,
+  "name": "RotorScape",
+  "source_url": "https://www.igdb.com/games/rotorscape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8oi8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RotorScape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2805880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2805880",
+        "Linux": "setsid steam steam://rungameid/2805880",
+        "macOS": "open steam://rungameid/2805880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rotorscape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311495"
+}
