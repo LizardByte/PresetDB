@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319271,
+  "name": "Webfishing",
+  "source_url": "https://www.igdb.com/games/webfishing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xit.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Webfishing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3146520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3146520",
+        "Linux": "setsid steam steam://rungameid/3146520",
+        "macOS": "open steam://rungameid/3146520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "webfishing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319271"
+}
