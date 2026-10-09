@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310143,
+  "name": "Swing Game",
+  "source_url": "https://www.igdb.com/games/swing-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8keg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swing Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1492540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1492540",
+        "Linux": "setsid steam steam://rungameid/1492540",
+        "macOS": "open steam://rungameid/1492540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swing-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310143"
+}
