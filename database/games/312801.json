@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312801,
+  "name": "Flan's MS",
+  "source_url": "https://www.igdb.com/games/flans-ms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8q89.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flan's MS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2992570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2992570",
+        "Linux": "setsid steam steam://rungameid/2992570",
+        "macOS": "open steam://rungameid/2992570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flans-ms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312801"
+}
