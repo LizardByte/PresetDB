@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320036,
+  "name": "HighKing",
+  "source_url": "https://www.igdb.com/games/highking",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8y8y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HighKing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2883890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2883890",
+        "Linux": "setsid steam steam://rungameid/2883890",
+        "macOS": "open steam://rungameid/2883890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "highking",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320036"
+}
