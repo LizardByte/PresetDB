@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310823,
+  "name": "The Lodge",
+  "source_url": "https://www.igdb.com/games/the-lodge--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8l8d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lodge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2978740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2978740",
+        "Linux": "setsid steam steam://rungameid/2978740",
+        "macOS": "open steam://rungameid/2978740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lodge--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310823"
+}
