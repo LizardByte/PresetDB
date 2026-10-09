@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 317180,
+  "name": "Saudade",
+  "source_url": "https://www.igdb.com/games/saudade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8u8j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Saudade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2993000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2993000",
+        "Linux": "setsid steam steam://rungameid/2993000",
+        "macOS": "open steam://rungameid/2993000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "saudade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=317180"
+}
