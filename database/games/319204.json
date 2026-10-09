@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 319204,
+  "name": "Pilot Light",
+  "source_url": "https://www.igdb.com/games/pilot-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw88.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pilot Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2870310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2870310",
+        "Linux": "setsid steam steam://rungameid/2870310",
+        "macOS": "open steam://rungameid/2870310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pilot-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=319204"
+}
