@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320139,
+  "name": "Blindfire",
+  "source_url": "https://www.igdb.com/games/blindfire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92a3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blindfire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2854480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2854480",
+        "Linux": "setsid steam steam://rungameid/2854480",
+        "macOS": "open steam://rungameid/2854480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blindfire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320139"
+}
