@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309793,
+  "name": "The Legacy",
+  "source_url": "https://www.igdb.com/games/the-legacy--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coangr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2909870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2909870",
+        "Linux": "setsid steam steam://rungameid/2909870",
+        "macOS": "open steam://rungameid/2909870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-legacy--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309793"
+}
