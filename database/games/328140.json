@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328140,
+  "name": "Look Outside",
+  "source_url": "https://www.igdb.com/games/look-outside",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9k8n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Look Outside",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3373660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3373660",
+        "Linux": "setsid steam steam://rungameid/3373660",
+        "macOS": "open steam://rungameid/3373660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "look-outside",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328140"
+}
