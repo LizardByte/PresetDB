@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 322663,
+  "name": "Crimson Asylum",
+  "source_url": "https://www.igdb.com/games/crimson-asylum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9285.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crimson Asylum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3054700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3054700",
+        "Linux": "setsid steam steam://rungameid/3054700",
+        "macOS": "open steam://rungameid/3054700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crimson-asylum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=322663"
+}
