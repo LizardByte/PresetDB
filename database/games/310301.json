@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310301,
+  "name": "Merge Mango",
+  "source_url": "https://www.igdb.com/games/merge-mango",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kjw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Merge Mango",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3072750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3072750",
+        "Linux": "setsid steam steam://rungameid/3072750",
+        "macOS": "open steam://rungameid/3072750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "merge-mango",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310301"
+}
