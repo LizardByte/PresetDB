@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310831,
+  "name": "Custom Party",
+  "source_url": "https://www.igdb.com/games/custom-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8xr4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Custom Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2904730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2904730",
+        "Linux": "setsid steam steam://rungameid/2904730",
+        "macOS": "open steam://rungameid/2904730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "custom-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310831"
+}
