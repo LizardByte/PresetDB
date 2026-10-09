@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329074,
+  "name": "Don't Take Me Away",
+  "source_url": "https://www.igdb.com/games/dont-take-me-away",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Take Me Away",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3057960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3057960",
+        "Linux": "setsid steam steam://rungameid/3057960",
+        "macOS": "open steam://rungameid/3057960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-take-me-away",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329074"
+}
