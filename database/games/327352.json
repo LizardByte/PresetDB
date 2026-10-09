@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 327352,
+  "name": "Welcome Home",
+  "source_url": "https://www.igdb.com/games/welcome-home--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98of.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3434440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3434440",
+        "Linux": "setsid steam steam://rungameid/3434440",
+        "macOS": "open steam://rungameid/3434440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-home--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=327352"
+}
