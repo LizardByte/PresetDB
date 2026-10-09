@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326199,
+  "name": "My House",
+  "source_url": "https://www.igdb.com/games/my-house--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co96j3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3394760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3394760",
+        "Linux": "setsid steam steam://rungameid/3394760",
+        "macOS": "open steam://rungameid/3394760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-house--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326199"
+}
