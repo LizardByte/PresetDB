@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330174,
+  "name": "Dinoblade",
+  "source_url": "https://www.igdb.com/games/dinoblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cock59.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dinoblade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3440070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3440070",
+        "Linux": "setsid steam steam://rungameid/3440070",
+        "macOS": "open steam://rungameid/3440070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dinoblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330174"
+}
