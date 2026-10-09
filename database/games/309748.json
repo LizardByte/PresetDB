@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309748,
+  "name": "Potato",
+  "source_url": "https://www.igdb.com/games/potato",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8jzl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Potato",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3080810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3080810",
+        "Linux": "setsid steam steam://rungameid/3080810",
+        "macOS": "open steam://rungameid/3080810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "potato",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309748"
+}
