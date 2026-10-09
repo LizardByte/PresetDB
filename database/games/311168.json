@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311168,
+  "name": "The Protagonish",
+  "source_url": "https://www.igdb.com/games/the-protagonish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8oy3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Protagonish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2994780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2994780",
+        "Linux": "setsid steam steam://rungameid/2994780",
+        "macOS": "open steam://rungameid/2994780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-protagonish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311168"
+}
