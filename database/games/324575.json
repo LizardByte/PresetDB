@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 324575,
+  "name": "Tombwater",
+  "source_url": "https://www.igdb.com/games/tombwater",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94bx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tombwater",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3308200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3308200",
+        "Linux": "setsid steam steam://rungameid/3308200",
+        "macOS": "open steam://rungameid/3308200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tombwater",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=324575"
+}
