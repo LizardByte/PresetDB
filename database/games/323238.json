@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323238,
+  "name": "G.E.A.R.",
+  "source_url": "https://www.igdb.com/games/gear--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagzs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "G.E.A.R.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3021900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3021900",
+        "Linux": "setsid steam steam://rungameid/3021900",
+        "macOS": "open steam://rungameid/3021900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gear--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323238"
+}
