@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318318,
+  "name": "Magic Archery",
+  "source_url": "https://www.igdb.com/games/magic-archery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8w1a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Archery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2905170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2905170",
+        "Linux": "setsid steam steam://rungameid/2905170",
+        "macOS": "open steam://rungameid/2905170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-archery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318318"
+}
