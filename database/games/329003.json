@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329003,
+  "name": "The Dispatcher",
+  "source_url": "https://www.igdb.com/games/the-dispatcher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9cvi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dispatcher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3292320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3292320",
+        "Linux": "setsid steam steam://rungameid/3292320",
+        "macOS": "open steam://rungameid/3292320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-dispatcher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329003"
+}
