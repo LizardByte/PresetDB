@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326004,
+  "name": "Starving Cat",
+  "source_url": "https://www.igdb.com/games/starving-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co961k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starving Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2987850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2987850",
+        "Linux": "setsid steam steam://rungameid/2987850",
+        "macOS": "open steam://rungameid/2987850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starving-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326004"
+}
