@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326277,
+  "name": "Stan",
+  "source_url": "https://www.igdb.com/games/stan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co96li.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3361910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3361910",
+        "Linux": "setsid steam steam://rungameid/3361910",
+        "macOS": "open steam://rungameid/3361910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326277"
+}
