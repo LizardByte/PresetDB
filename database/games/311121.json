@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311121,
+  "name": "Don't Trust",
+  "source_url": "https://www.igdb.com/games/dont-trust",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lhs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Trust",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3011410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3011410",
+        "Linux": "setsid steam steam://rungameid/3011410",
+        "macOS": "open steam://rungameid/3011410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-trust",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311121"
+}
