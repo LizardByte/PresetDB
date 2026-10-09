@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312570,
+  "name": "Urban",
+  "source_url": "https://www.igdb.com/games/urban--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8mwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urban",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2996430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2996430",
+        "Linux": "setsid steam steam://rungameid/2996430",
+        "macOS": "open steam://rungameid/2996430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "urban--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312570"
+}
