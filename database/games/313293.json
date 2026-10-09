@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 313293,
+  "name": "Lost Resolve",
+  "source_url": "https://www.igdb.com/games/lost-resolve",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa47e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Resolve",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990840",
+        "Linux": "setsid steam steam://rungameid/2990840",
+        "macOS": "open steam://rungameid/2990840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-resolve",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=313293"
+}
