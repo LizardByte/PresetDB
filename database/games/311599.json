@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311599,
+  "name": "Peech World",
+  "source_url": "https://www.igdb.com/games/peech-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ly4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peech World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3131980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3131980",
+        "Linux": "setsid steam steam://rungameid/3131980",
+        "macOS": "open steam://rungameid/3131980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peech-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311599"
+}
