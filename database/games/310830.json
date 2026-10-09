@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310830,
+  "name": "Journey to the Rift",
+  "source_url": "https://www.igdb.com/games/journey-to-the-rift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8l8l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Journey to the Rift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2301400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2301400",
+        "Linux": "setsid steam steam://rungameid/2301400",
+        "macOS": "open steam://rungameid/2301400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "journey-to-the-rift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310830"
+}
