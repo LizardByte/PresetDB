@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320530,
+  "name": "Emberwake",
+  "source_url": "https://www.igdb.com/games/emberwake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emberwake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3239340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3239340",
+        "Linux": "setsid steam steam://rungameid/3239340",
+        "macOS": "open steam://rungameid/3239340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emberwake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320530"
+}
