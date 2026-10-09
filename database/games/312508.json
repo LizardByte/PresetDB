@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312508,
+  "name": "You Must Retry",
+  "source_url": "https://www.igdb.com/games/you-must-retry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8muy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You Must Retry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3035100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3035100",
+        "Linux": "setsid steam steam://rungameid/3035100",
+        "macOS": "open steam://rungameid/3035100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-must-retry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312508"
+}
