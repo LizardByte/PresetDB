@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 317332,
+  "name": "Kanade",
+  "source_url": "https://www.igdb.com/games/kanade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vdo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kanade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3104270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3104270",
+        "Linux": "setsid steam steam://rungameid/3104270",
+        "macOS": "open steam://rungameid/3104270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kanade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=317332"
+}
