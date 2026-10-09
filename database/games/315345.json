@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 315345,
+  "name": "Gulping Snake",
+  "source_url": "https://www.igdb.com/games/gulping-snake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rdo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gulping Snake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3150660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3150660",
+        "Linux": "setsid steam steam://rungameid/3150660",
+        "macOS": "open steam://rungameid/3150660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gulping-snake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=315345"
+}
