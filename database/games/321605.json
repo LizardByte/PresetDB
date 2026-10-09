@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 321605,
+  "name": "Mayo Mayo",
+  "source_url": "https://www.igdb.com/games/mayo-mayo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co90nh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mayo Mayo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3228550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3228550",
+        "Linux": "setsid steam steam://rungameid/3228550",
+        "macOS": "open steam://rungameid/3228550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mayo-mayo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=321605"
+}
