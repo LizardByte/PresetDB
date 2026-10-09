@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310839,
+  "name": "The Hope",
+  "source_url": "https://www.igdb.com/games/the-hope",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8l8t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Hope",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2954070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2954070",
+        "Linux": "setsid steam steam://rungameid/2954070",
+        "macOS": "open steam://rungameid/2954070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-hope",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310839"
+}
