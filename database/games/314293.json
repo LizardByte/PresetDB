@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314293,
+  "name": "Alphabet",
+  "source_url": "https://www.igdb.com/games/alphabet--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8pfg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alphabet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3102380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3102380",
+        "Linux": "setsid steam steam://rungameid/3102380",
+        "macOS": "open steam://rungameid/3102380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alphabet--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314293"
+}
