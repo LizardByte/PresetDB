@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 317792,
+  "name": "Pod Jam",
+  "source_url": "https://www.igdb.com/games/pod-jam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8uxl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pod Jam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3172800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3172800",
+        "Linux": "setsid steam steam://rungameid/3172800",
+        "macOS": "open steam://rungameid/3172800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pod-jam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=317792"
+}
