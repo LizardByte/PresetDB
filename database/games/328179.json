@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 328179,
+  "name": "Hungry Meem",
+  "source_url": "https://www.igdb.com/games/hungry-meem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9a1m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hungry Meem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3051240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3051240",
+        "Linux": "setsid steam steam://rungameid/3051240",
+        "macOS": "open steam://rungameid/3051240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hungry-meem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=328179"
+}
