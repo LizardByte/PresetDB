@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320556,
+  "name": "Fox and Shadow",
+  "source_url": "https://www.igdb.com/games/fox-and-shadow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z1q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fox and Shadow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2134370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2134370",
+        "Linux": "setsid steam steam://rungameid/2134370",
+        "macOS": "open steam://rungameid/2134370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fox-and-shadow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320556"
+}
