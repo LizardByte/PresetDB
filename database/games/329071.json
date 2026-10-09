@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329071,
+  "name": "Lux",
+  "source_url": "https://www.igdb.com/games/lux--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2795150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2795150",
+        "Linux": "setsid steam steam://rungameid/2795150",
+        "macOS": "open steam://rungameid/2795150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lux--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329071"
+}
