@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330147,
+  "name": "Bot Hunter",
+  "source_url": "https://www.igdb.com/games/bot-hunter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9cnp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bot Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2864420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2864420",
+        "Linux": "setsid steam steam://rungameid/2864420",
+        "macOS": "open steam://rungameid/2864420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bot-hunter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330147"
+}
