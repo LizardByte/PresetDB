@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311811,
+  "name": "Magic Wand",
+  "source_url": "https://www.igdb.com/games/magic-wand--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8n8j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Wand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3118750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3118750",
+        "Linux": "setsid steam steam://rungameid/3118750",
+        "macOS": "open steam://rungameid/3118750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-wand--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311811"
+}
