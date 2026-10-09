@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309847,
+  "name": "Sword & Seek",
+  "source_url": "https://www.igdb.com/games/sword-and-seek",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8rbc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sword & Seek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2702370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2702370",
+        "Linux": "setsid steam steam://rungameid/2702370",
+        "macOS": "open steam://rungameid/2702370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sword-and-seek",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309847"
+}
