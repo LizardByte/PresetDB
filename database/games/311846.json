@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311846,
+  "name": "Mod Shooter",
+  "source_url": "https://www.igdb.com/games/mod-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaoeb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mod Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2835300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2835300",
+        "Linux": "setsid steam steam://rungameid/2835300",
+        "macOS": "open steam://rungameid/2835300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mod-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311846"
+}
