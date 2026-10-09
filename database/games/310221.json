@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310221,
+  "name": "Pupa",
+  "source_url": "https://www.igdb.com/games/pupa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nb2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pupa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3077780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3077780",
+        "Linux": "setsid steam steam://rungameid/3077780",
+        "macOS": "open steam://rungameid/3077780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pupa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310221"
+}
