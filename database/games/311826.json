@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311826,
+  "name": "Terrestrial",
+  "source_url": "https://www.igdb.com/games/terrestrial",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8nr9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terrestrial",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2984300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2984300",
+        "Linux": "setsid steam steam://rungameid/2984300",
+        "macOS": "open steam://rungameid/2984300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terrestrial",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311826"
+}
