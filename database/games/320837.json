@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320837,
+  "name": "QR Dead",
+  "source_url": "https://www.igdb.com/games/qr-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zcq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "QR Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3291130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3291130",
+        "Linux": "setsid steam steam://rungameid/3291130",
+        "macOS": "open steam://rungameid/3291130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "qr-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320837"
+}
