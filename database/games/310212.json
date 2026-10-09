@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310212,
+  "name": "Watch",
+  "source_url": "https://www.igdb.com/games/watch--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbmu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Watch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "894060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/894060",
+        "Linux": "setsid steam steam://rungameid/894060",
+        "macOS": "open steam://rungameid/894060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "watch--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310212"
+}
