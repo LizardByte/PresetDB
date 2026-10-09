@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310280,
+  "name": "Dragon Heartburn",
+  "source_url": "https://www.igdb.com/games/dragon-heartburn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co99iy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Heartburn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075810",
+        "Linux": "setsid steam steam://rungameid/3075810",
+        "macOS": "open steam://rungameid/3075810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-heartburn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310280"
+}
