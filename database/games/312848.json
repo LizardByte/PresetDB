@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312848,
+  "name": "Bitter",
+  "source_url": "https://www.igdb.com/games/bitter--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ooz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bitter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3130540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3130540",
+        "Linux": "setsid steam steam://rungameid/3130540",
+        "macOS": "open steam://rungameid/3130540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bitter--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312848"
+}
