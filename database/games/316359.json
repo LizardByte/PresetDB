@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 316359,
+  "name": "Moomi & Spike",
+  "source_url": "https://www.igdb.com/games/moomi-and-spike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8ssh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moomi & Spike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990880",
+        "Linux": "setsid steam steam://rungameid/2990880",
+        "macOS": "open steam://rungameid/2990880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moomi-and-spike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=316359"
+}
