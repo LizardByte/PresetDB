@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320534,
+  "name": "Mother's Home",
+  "source_url": "https://www.igdb.com/games/mothers-home",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z15.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mother's Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3226820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3226820",
+        "Linux": "setsid steam steam://rungameid/3226820",
+        "macOS": "open steam://rungameid/3226820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mothers-home",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320534"
+}
