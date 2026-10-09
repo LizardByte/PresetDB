@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 327516,
+  "name": "We Are Alive",
+  "source_url": "https://www.igdb.com/games/we-are-alive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98yk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "We Are Alive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3194340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3194340",
+        "Linux": "setsid steam steam://rungameid/3194340",
+        "macOS": "open steam://rungameid/3194340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "we-are-alive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=327516"
+}
