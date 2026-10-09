@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310841,
+  "name": "Paw Pirates",
+  "source_url": "https://www.igdb.com/games/paw-pirates",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8qq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paw Pirates",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2927380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2927380",
+        "Linux": "setsid steam steam://rungameid/2927380",
+        "macOS": "open steam://rungameid/2927380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paw-pirates",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310841"
+}
