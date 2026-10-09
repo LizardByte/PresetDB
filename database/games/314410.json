@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314410,
+  "name": "Apple Clicker",
+  "source_url": "https://www.igdb.com/games/apple-clicker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbo8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apple Clicker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3056600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3056600",
+        "Linux": "setsid steam steam://rungameid/3056600",
+        "macOS": "open steam://rungameid/3056600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "apple-clicker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314410"
+}
