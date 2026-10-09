@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329180,
+  "name": "Screaming in the Basement",
+  "source_url": "https://www.igdb.com/games/screaming-in-the-basement",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawxa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Screaming in the Basement",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3441360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3441360",
+        "Linux": "setsid steam steam://rungameid/3441360",
+        "macOS": "open steam://rungameid/3441360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "screaming-in-the-basement",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329180"
+}
