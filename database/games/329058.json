@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329058,
+  "name": "Let's Boogie",
+  "source_url": "https://www.igdb.com/games/lets-boogie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob9bm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let's Boogie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3018290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3018290",
+        "Linux": "setsid steam steam://rungameid/3018290",
+        "macOS": "open steam://rungameid/3018290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lets-boogie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329058"
+}
