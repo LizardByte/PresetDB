@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311277,
+  "name": "Pub Sim",
+  "source_url": "https://www.igdb.com/games/pub-sim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lmf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pub Sim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3010520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3010520",
+        "Linux": "setsid steam steam://rungameid/3010520",
+        "macOS": "open steam://rungameid/3010520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pub-sim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311277"
+}
