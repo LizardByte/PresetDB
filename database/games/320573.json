@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320573,
+  "name": "Who is Paul",
+  "source_url": "https://www.igdb.com/games/who-is-paul",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8z28.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who is Paul",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3215680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3215680",
+        "Linux": "setsid steam steam://rungameid/3215680",
+        "macOS": "open steam://rungameid/3215680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "who-is-paul",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320573"
+}
