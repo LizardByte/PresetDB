@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311502,
+  "name": "Ether",
+  "source_url": "https://www.igdb.com/games/ether--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ether",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3107730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3107730",
+        "Linux": "setsid steam steam://rungameid/3107730",
+        "macOS": "open steam://rungameid/3107730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ether--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311502"
+}
