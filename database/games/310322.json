@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310322,
+  "name": "Innerscape",
+  "source_url": "https://www.igdb.com/games/innerscape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kki.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Innerscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3118270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3118270",
+        "Linux": "setsid steam steam://rungameid/3118270",
+        "macOS": "open steam://rungameid/3118270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "innerscape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310322"
+}
