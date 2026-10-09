@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309894,
+  "name": "Metal Bunny",
+  "source_url": "https://www.igdb.com/games/metal-bunny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8k3v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2843660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2843660",
+        "Linux": "setsid steam steam://rungameid/2843660",
+        "macOS": "open steam://rungameid/2843660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metal-bunny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309894"
+}
