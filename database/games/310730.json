@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310730,
+  "name": "Phasmonauts",
+  "source_url": "https://www.igdb.com/games/phasmonauts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6jw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phasmonauts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2654210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2654210",
+        "Linux": "setsid steam steam://rungameid/2654210",
+        "macOS": "open steam://rungameid/2654210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phasmonauts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310730"
+}
