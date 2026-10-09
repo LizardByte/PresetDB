@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 327505,
+  "name": "Chinese Online Game",
+  "source_url": "https://www.igdb.com/games/chinese-online-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98wq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chinese Online Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1416920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1416920",
+        "Linux": "setsid steam steam://rungameid/1416920",
+        "macOS": "open steam://rungameid/1416920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chinese-online-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=327505"
+}
