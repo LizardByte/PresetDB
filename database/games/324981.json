@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 324981,
+  "name": "Agent Fall",
+  "source_url": "https://www.igdb.com/games/agent-fall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94ti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agent Fall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3220110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3220110",
+        "Linux": "setsid steam steam://rungameid/3220110",
+        "macOS": "open steam://rungameid/3220110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "agent-fall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=324981"
+}
