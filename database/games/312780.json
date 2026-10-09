@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 312780,
+  "name": "The Simp",
+  "source_url": "https://www.igdb.com/games/the-simp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8q8q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Simp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3138500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3138500",
+        "Linux": "setsid steam steam://rungameid/3138500",
+        "macOS": "open steam://rungameid/3138500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-simp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=312780"
+}
