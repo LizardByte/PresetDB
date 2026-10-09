@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 320840,
+  "name": "Twelve Sticks",
+  "source_url": "https://www.igdb.com/games/twelve-sticks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zcu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twelve Sticks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3064550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3064550",
+        "Linux": "setsid steam steam://rungameid/3064550",
+        "macOS": "open steam://rungameid/3064550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twelve-sticks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=320840"
+}
