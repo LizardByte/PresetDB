@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 322876,
+  "name": "Smash It Wild",
+  "source_url": "https://www.igdb.com/games/smash-it-wild",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co92jn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smash It Wild",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2432240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2432240",
+        "Linux": "setsid steam steam://rungameid/2432240",
+        "macOS": "open steam://rungameid/2432240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smash-it-wild",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=322876"
+}
