@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 323533,
+  "name": "Nomad Idle",
+  "source_url": "https://www.igdb.com/games/nomad-idle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co937o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nomad Idle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3042190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3042190",
+        "Linux": "setsid steam steam://rungameid/3042190",
+        "macOS": "open steam://rungameid/3042190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nomad-idle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=323533"
+}
