@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311783,
+  "name": "Box Zombies",
+  "source_url": "https://www.igdb.com/games/box-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8m4g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Box Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2892230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2892230",
+        "Linux": "setsid steam steam://rungameid/2892230",
+        "macOS": "open steam://rungameid/2892230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "box-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311783"
+}
