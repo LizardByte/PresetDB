@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325900,
+  "name": "Cat's Dream",
+  "source_url": "https://www.igdb.com/games/cats-dream",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co962y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat's Dream",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3054350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3054350",
+        "Linux": "setsid steam steam://rungameid/3054350",
+        "macOS": "open steam://rungameid/3054350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cats-dream",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325900"
+}
