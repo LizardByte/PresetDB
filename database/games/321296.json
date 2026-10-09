@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 321296,
+  "name": "Meander Forth",
+  "source_url": "https://www.igdb.com/games/meander-forth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaixi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meander Forth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4166140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4166140",
+        "Linux": "setsid steam steam://rungameid/4166140",
+        "macOS": "open steam://rungameid/4166140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meander-forth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=321296"
+}
