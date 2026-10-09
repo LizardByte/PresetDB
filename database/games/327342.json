@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 327342,
+  "name": "Tempest Tower",
+  "source_url": "https://www.igdb.com/games/tempest-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co98m0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tempest Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3123800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3123800",
+        "Linux": "setsid steam steam://rungameid/3123800",
+        "macOS": "open steam://rungameid/3123800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tempest-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=327342"
+}
