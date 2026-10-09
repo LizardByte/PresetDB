@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329783,
+  "name": "Y2Roll",
+  "source_url": "https://www.igdb.com/games/y2roll",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xjy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Y2Roll",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3459420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3459420",
+        "Linux": "setsid steam steam://rungameid/3459420",
+        "macOS": "open steam://rungameid/3459420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "y2roll",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329783"
+}
