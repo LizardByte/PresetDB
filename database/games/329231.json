@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 329231,
+  "name": "Virtual Happy Land",
+  "source_url": "https://www.igdb.com/games/virtual-happy-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9bu8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Happy Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3014310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3014310",
+        "Linux": "setsid steam steam://rungameid/3014310",
+        "macOS": "open steam://rungameid/3014310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-happy-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=329231"
+}
