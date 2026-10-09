@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310219,
+  "name": "Find the Stalker",
+  "source_url": "https://www.igdb.com/games/find-the-stalker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8khk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find the Stalker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3069310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3069310",
+        "Linux": "setsid steam steam://rungameid/3069310",
+        "macOS": "open steam://rungameid/3069310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-the-stalker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310219"
+}
