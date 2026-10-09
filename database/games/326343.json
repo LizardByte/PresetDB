@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 326343,
+  "name": "Skoof Simulator",
+  "source_url": "https://www.igdb.com/games/skoof-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co96n6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skoof Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3144640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3144640",
+        "Linux": "setsid steam steam://rungameid/3144640",
+        "macOS": "open steam://rungameid/3144640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skoof-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=326343"
+}
