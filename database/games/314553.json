@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314553,
+  "name": "Psycho Dead",
+  "source_url": "https://www.igdb.com/games/psycho-dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobvt1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Psycho Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3018390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3018390",
+        "Linux": "setsid steam steam://rungameid/3018390",
+        "macOS": "open steam://rungameid/3018390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "psycho-dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314553"
+}
