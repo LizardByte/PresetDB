@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318183,
+  "name": "Iron Crown",
+  "source_url": "https://www.igdb.com/games/iron-crown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8vb9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Crown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3080430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3080430",
+        "Linux": "setsid steam steam://rungameid/3080430",
+        "macOS": "open steam://rungameid/3080430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-crown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318183"
+}
