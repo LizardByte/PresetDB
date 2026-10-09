@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 309922,
+  "name": "The Test Game",
+  "source_url": "https://www.igdb.com/games/the-test-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8k4p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Test Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3102790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3102790",
+        "Linux": "setsid steam steam://rungameid/3102790",
+        "macOS": "open steam://rungameid/3102790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-test-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=309922"
+}
