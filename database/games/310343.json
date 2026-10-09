@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310343,
+  "name": "Multi-Path",
+  "source_url": "https://www.igdb.com/games/multi-path",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8kl3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Multi-Path",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3029480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3029480",
+        "Linux": "setsid steam steam://rungameid/3029480",
+        "macOS": "open steam://rungameid/3029480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "multi-path",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310343"
+}
