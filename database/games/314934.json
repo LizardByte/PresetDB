@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 314934,
+  "name": "Tetris Forever",
+  "source_url": "https://www.igdb.com/games/tetris-forever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tetris Forever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3180240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3180240",
+        "Linux": "setsid steam steam://rungameid/3180240",
+        "macOS": "open steam://rungameid/3180240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tetris-forever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=314934"
+}
