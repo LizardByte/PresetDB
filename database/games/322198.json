@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 322198,
+  "name": "RetroBlazer",
+  "source_url": "https://www.igdb.com/games/retroblazer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co91l4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RetroBlazer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3174470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3174470",
+        "Linux": "setsid steam steam://rungameid/3174470",
+        "macOS": "open steam://rungameid/3174470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retroblazer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=322198"
+}
