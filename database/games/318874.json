@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 318874,
+  "name": "Babette",
+  "source_url": "https://www.igdb.com/games/babette",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8wor.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Babette",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3140110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3140110",
+        "Linux": "setsid steam steam://rungameid/3140110",
+        "macOS": "open steam://rungameid/3140110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "babette",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=318874"
+}
