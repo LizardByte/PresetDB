@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 325048,
+  "name": "Outrun",
+  "source_url": "https://www.igdb.com/games/outrun--16",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co94ux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outrun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3187540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3187540",
+        "Linux": "setsid steam steam://rungameid/3187540",
+        "macOS": "open steam://rungameid/3187540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "outrun--16",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=325048"
+}
