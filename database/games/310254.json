@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 310254,
+  "name": "ColdRidge",
+  "source_url": "https://www.igdb.com/games/coldridge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8zp5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ColdRidge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3052500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3052500",
+        "Linux": "setsid steam steam://rungameid/3052500",
+        "macOS": "open steam://rungameid/3052500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coldridge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=310254"
+}
