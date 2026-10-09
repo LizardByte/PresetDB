@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 311258,
+  "name": "Shadow Falls",
+  "source_url": "https://www.igdb.com/games/shadow-falls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8lls.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow Falls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1621480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1621480",
+        "Linux": "setsid steam steam://rungameid/1621480",
+        "macOS": "open steam://rungameid/1621480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-falls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=311258"
+}
