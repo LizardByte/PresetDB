@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370433,
+  "name": "Shadow's Grove",
+  "source_url": "https://www.igdb.com/games/shadows-grove",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coal0g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow's Grove",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4011870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4011870",
+        "Linux": "setsid steam steam://rungameid/4011870",
+        "macOS": "open steam://rungameid/4011870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadows-grove",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370433"
+}
