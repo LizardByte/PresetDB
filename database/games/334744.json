@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334744,
+  "name": "The Quest for Achievements",
+  "source_url": "https://www.igdb.com/games/the-quest-for-achievements",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanl4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Quest for Achievements",
+      "os": null,
+      "method": "steam",
+      "launch_id": "602940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/602940",
+        "Linux": "setsid steam steam://rungameid/602940",
+        "macOS": "open steam://rungameid/602940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-quest-for-achievements",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334744"
+}
