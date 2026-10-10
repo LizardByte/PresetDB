@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332756,
+  "name": "Simple Sudoku",
+  "source_url": "https://www.igdb.com/games/simple-sudoku",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9fsk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simple Sudoku",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3443200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3443200",
+        "Linux": "setsid steam steam://rungameid/3443200",
+        "macOS": "open steam://rungameid/3443200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simple-sudoku",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332756"
+}
