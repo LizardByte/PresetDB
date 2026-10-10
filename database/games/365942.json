@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365942,
+  "name": "Dark Slayer",
+  "source_url": "https://www.igdb.com/games/dark-slayer--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaf1k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Slayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3808080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3808080",
+        "Linux": "setsid steam steam://rungameid/3808080",
+        "macOS": "open steam://rungameid/3808080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-slayer--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365942"
+}
