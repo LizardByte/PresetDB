@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345396,
+  "name": "El Virus",
+  "source_url": "https://www.igdb.com/games/el-virus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap3m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "El Virus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3135970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3135970",
+        "Linux": "setsid steam steam://rungameid/3135970",
+        "macOS": "open steam://rungameid/3135970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "el-virus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345396"
+}
