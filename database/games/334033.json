@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334033,
+  "name": "Monsterest",
+  "source_url": "https://www.igdb.com/games/monsterest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9hcs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monsterest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2895410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2895410",
+        "Linux": "setsid steam steam://rungameid/2895410",
+        "macOS": "open steam://rungameid/2895410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monsterest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334033"
+}
