@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338201,
+  "name": "Beastly Bites",
+  "source_url": "https://www.igdb.com/games/beastly-bites",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9med.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beastly Bites",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3459130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3459130",
+        "Linux": "setsid steam steam://rungameid/3459130",
+        "macOS": "open steam://rungameid/3459130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beastly-bites",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338201"
+}
