@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350940,
+  "name": "Horror Camp",
+  "source_url": "https://www.igdb.com/games/horror-camp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa18j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horror Camp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3607540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3607540",
+        "Linux": "setsid steam steam://rungameid/3607540",
+        "macOS": "open steam://rungameid/3607540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horror-camp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350940"
+}
