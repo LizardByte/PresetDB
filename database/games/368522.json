@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368522,
+  "name": "Flappy Bird Ultra",
+  "source_url": "https://www.igdb.com/games/flappy-bird-ultra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flappy Bird Ultra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2448940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2448940",
+        "Linux": "setsid steam steam://rungameid/2448940",
+        "macOS": "open steam://rungameid/2448940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flappy-bird-ultra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368522"
+}
