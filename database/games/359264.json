@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359264,
+  "name": "Handsum",
+  "source_url": "https://www.igdb.com/games/handsum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa84l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Handsum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2718020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2718020",
+        "Linux": "setsid steam steam://rungameid/2718020",
+        "macOS": "open steam://rungameid/2718020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "handsum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359264"
+}
