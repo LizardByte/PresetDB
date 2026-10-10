@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336143,
+  "name": "Lost Rift",
+  "source_url": "https://www.igdb.com/games/lost-rift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9k10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Rift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3494520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3494520",
+        "Linux": "setsid steam steam://rungameid/3494520",
+        "macOS": "open steam://rungameid/3494520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-rift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336143"
+}
