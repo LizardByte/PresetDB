@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333321,
+  "name": "Break Siege",
+  "source_url": "https://www.igdb.com/games/break-siege",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ge6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Break Siege",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3234700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3234700",
+        "Linux": "setsid steam steam://rungameid/3234700",
+        "macOS": "open steam://rungameid/3234700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "break-siege",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333321"
+}
