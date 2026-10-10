@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349014,
+  "name": "Sweet Home",
+  "source_url": "https://www.igdb.com/games/sweet-home--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sweet Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3528450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3528450",
+        "Linux": "setsid steam steam://rungameid/3528450",
+        "macOS": "open steam://rungameid/3528450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sweet-home--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349014"
+}
