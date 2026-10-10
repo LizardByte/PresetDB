@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340409,
+  "name": "Halmaverse",
+  "source_url": "https://www.igdb.com/games/halmaverse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjmd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Halmaverse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3030000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3030000",
+        "Linux": "setsid steam steam://rungameid/3030000",
+        "macOS": "open steam://rungameid/3030000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "halmaverse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340409"
+}
