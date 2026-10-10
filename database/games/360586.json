@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360586,
+  "name": "After Work",
+  "source_url": "https://www.igdb.com/games/after-work",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9hy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "After Work",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2575810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2575810",
+        "Linux": "setsid steam steam://rungameid/2575810",
+        "macOS": "open steam://rungameid/2575810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "after-work",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360586"
+}
