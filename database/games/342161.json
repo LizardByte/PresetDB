@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342161,
+  "name": "The Ember Guardian",
+  "source_url": "https://www.igdb.com/games/the-ember-guardian",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9r2l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Ember Guardian",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3570060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3570060",
+        "Linux": "setsid steam steam://rungameid/3570060",
+        "macOS": "open steam://rungameid/3570060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-ember-guardian",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342161"
+}
