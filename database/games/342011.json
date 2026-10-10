@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342011,
+  "name": "Mycopunk",
+  "source_url": "https://www.igdb.com/games/mycopunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qrc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mycopunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3247750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3247750",
+        "Linux": "setsid steam steam://rungameid/3247750",
+        "macOS": "open steam://rungameid/3247750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mycopunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342011"
+}
