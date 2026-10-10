@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370337,
+  "name": "Skinfreak",
+  "source_url": "https://www.igdb.com/games/skinfreak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakf0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skinfreak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4007340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4007340",
+        "Linux": "setsid steam steam://rungameid/4007340",
+        "macOS": "open steam://rungameid/4007340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skinfreak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370337"
+}
