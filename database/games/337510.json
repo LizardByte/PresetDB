@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337510,
+  "name": "Hello User!",
+  "source_url": "https://www.igdb.com/games/hello-user",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lzp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hello User!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3137160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3137160",
+        "Linux": "setsid steam steam://rungameid/3137160",
+        "macOS": "open steam://rungameid/3137160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hello-user",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337510"
+}
