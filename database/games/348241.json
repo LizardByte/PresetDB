@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348241,
+  "name": "In Silico",
+  "source_url": "https://www.igdb.com/games/in-silico",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xx6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Silico",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3620520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3620520",
+        "Linux": "setsid steam steam://rungameid/3620520",
+        "macOS": "open steam://rungameid/3620520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-silico",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348241"
+}
