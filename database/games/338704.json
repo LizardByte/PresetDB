@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338704,
+  "name": "MoteMancer",
+  "source_url": "https://www.igdb.com/games/motemancer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2rx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MoteMancer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3320980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3320980",
+        "Linux": "setsid steam steam://rungameid/3320980",
+        "macOS": "open steam://rungameid/3320980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "motemancer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338704"
+}
