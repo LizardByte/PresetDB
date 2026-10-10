@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339077,
+  "name": "Team Fortress 2 Legacy",
+  "source_url": "https://www.igdb.com/games/team-fortress-2-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocacn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Team Fortress 2 Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2635440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2635440",
+        "Linux": "setsid steam steam://rungameid/2635440",
+        "macOS": "open steam://rungameid/2635440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "team-fortress-2-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339077"
+}
