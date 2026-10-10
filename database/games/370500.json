@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370500,
+  "name": "Stay Alive for Me",
+  "source_url": "https://www.igdb.com/games/stay-alive-for-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakn0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stay Alive for Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4040810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4040810",
+        "Linux": "setsid steam steam://rungameid/4040810",
+        "macOS": "open steam://rungameid/4040810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stay-alive-for-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370500"
+}
