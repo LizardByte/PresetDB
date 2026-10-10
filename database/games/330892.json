@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330892,
+  "name": "Timemoon",
+  "source_url": "https://www.igdb.com/games/timemoon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9dmu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Timemoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3305750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3305750",
+        "Linux": "setsid steam steam://rungameid/3305750",
+        "macOS": "open steam://rungameid/3305750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "timemoon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330892"
+}
