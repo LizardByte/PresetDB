@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368113,
+  "name": "Kanojo x Switch",
+  "source_url": "https://www.igdb.com/games/kanojo-x-switch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahmx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kanojo x Switch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1208850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1208850",
+        "Linux": "setsid steam steam://rungameid/1208850",
+        "macOS": "open steam://rungameid/1208850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kanojo-x-switch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368113"
+}
