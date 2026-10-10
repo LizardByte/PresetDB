@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338185,
+  "name": "Back 4 More",
+  "source_url": "https://www.igdb.com/games/back-4-more",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocj9g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Back 4 More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2250370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2250370",
+        "Linux": "setsid steam steam://rungameid/2250370",
+        "macOS": "open steam://rungameid/2250370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "back-4-more",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338185"
+}
