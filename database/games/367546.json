@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367546,
+  "name": "Ratatata",
+  "source_url": "https://www.igdb.com/games/ratatata",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakdt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ratatata",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3680090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3680090",
+        "Linux": "setsid steam steam://rungameid/3680090",
+        "macOS": "open steam://rungameid/3680090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ratatata",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367546"
+}
