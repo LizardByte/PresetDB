@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333656,
+  "name": "Game (not) Over",
+  "source_url": "https://www.igdb.com/games/game-not-over",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gr7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game (not) Over",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3124320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3124320",
+        "Linux": "setsid steam steam://rungameid/3124320",
+        "macOS": "open steam://rungameid/3124320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-not-over",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333656"
+}
