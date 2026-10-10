@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361583,
+  "name": "Chou Shogi",
+  "source_url": "https://www.igdb.com/games/chou-shogi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamtb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chou Shogi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1795170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1795170",
+        "Linux": "setsid steam steam://rungameid/1795170",
+        "macOS": "open steam://rungameid/1795170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chou-shogi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361583"
+}
