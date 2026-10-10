@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338388,
+  "name": "We are Blob",
+  "source_url": "https://www.igdb.com/games/we-are-blob",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qkl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "We are Blob",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3161290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3161290",
+        "Linux": "setsid steam steam://rungameid/3161290",
+        "macOS": "open steam://rungameid/3161290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "we-are-blob",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338388"
+}
