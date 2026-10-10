@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340535,
+  "name": "Giggleland",
+  "source_url": "https://www.igdb.com/games/giggleland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9p8t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Giggleland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3370490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3370490",
+        "Linux": "setsid steam steam://rungameid/3370490",
+        "macOS": "open steam://rungameid/3370490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "giggleland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340535"
+}
