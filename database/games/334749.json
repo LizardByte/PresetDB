@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334749,
+  "name": "Clickey",
+  "source_url": "https://www.igdb.com/games/clickey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpfm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clickey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "655450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/655450",
+        "Linux": "setsid steam steam://rungameid/655450",
+        "macOS": "open steam://rungameid/655450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clickey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334749"
+}
