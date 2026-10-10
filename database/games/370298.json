@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370298,
+  "name": "They Watch",
+  "source_url": "https://www.igdb.com/games/they-watch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakc3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "They Watch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3879000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3879000",
+        "Linux": "setsid steam steam://rungameid/3879000",
+        "macOS": "open steam://rungameid/3879000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "they-watch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370298"
+}
