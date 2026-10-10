@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333461,
+  "name": "Play Twice",
+  "source_url": "https://www.igdb.com/games/play-twice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ghd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play Twice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3351840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3351840",
+        "Linux": "setsid steam steam://rungameid/3351840",
+        "macOS": "open steam://rungameid/3351840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "play-twice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333461"
+}
