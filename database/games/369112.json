@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369112,
+  "name": "Mount Lomyst",
+  "source_url": "https://www.igdb.com/games/mount-lomyst",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtat.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mount Lomyst",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3689860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3689860",
+        "Linux": "setsid steam steam://rungameid/3689860",
+        "macOS": "open steam://rungameid/3689860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mount-lomyst",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369112"
+}
