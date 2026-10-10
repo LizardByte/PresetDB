@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372141,
+  "name": "Cozy Garden",
+  "source_url": "https://www.igdb.com/games/cozy-garden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coan0t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Garden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3161280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3161280",
+        "Linux": "setsid steam steam://rungameid/3161280",
+        "macOS": "open steam://rungameid/3161280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-garden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372141"
+}
