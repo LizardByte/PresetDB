@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374067,
+  "name": "Shadow of Winter",
+  "source_url": "https://www.igdb.com/games/shadow-of-winter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap9l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow of Winter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4055970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4055970",
+        "Linux": "setsid steam steam://rungameid/4055970",
+        "macOS": "open steam://rungameid/4055970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-of-winter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374067"
+}
