@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373742,
+  "name": "Square Game",
+  "source_url": "https://www.igdb.com/games/square-game--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaox6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Square Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3696110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3696110",
+        "Linux": "setsid steam steam://rungameid/3696110",
+        "macOS": "open steam://rungameid/3696110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "square-game--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373742"
+}
