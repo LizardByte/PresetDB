@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341359,
+  "name": "Naughty List",
+  "source_url": "https://www.igdb.com/games/naughty-list",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Naughty List",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3340940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3340940",
+        "Linux": "setsid steam steam://rungameid/3340940",
+        "macOS": "open steam://rungameid/3340940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "naughty-list",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341359"
+}
