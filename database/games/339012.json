@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339012,
+  "name": "The Prison",
+  "source_url": "https://www.igdb.com/games/the-prison--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaai6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Prison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1889920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1889920",
+        "Linux": "setsid steam steam://rungameid/1889920",
+        "macOS": "open steam://rungameid/1889920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-prison--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339012"
+}
