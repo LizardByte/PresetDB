@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333624,
+  "name": "House of Lost Souls",
+  "source_url": "https://www.igdb.com/games/house-of-lost-souls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gpt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "House of Lost Souls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2636000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2636000",
+        "Linux": "setsid steam steam://rungameid/2636000",
+        "macOS": "open steam://rungameid/2636000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "house-of-lost-souls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333624"
+}
