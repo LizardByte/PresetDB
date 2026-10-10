@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341216,
+  "name": "Master RNG",
+  "source_url": "https://www.igdb.com/games/master-rng",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coah28.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Master RNG",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3135150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3135150",
+        "Linux": "setsid steam steam://rungameid/3135150",
+        "macOS": "open steam://rungameid/3135150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "master-rng",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341216"
+}
