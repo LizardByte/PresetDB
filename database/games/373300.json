@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373300,
+  "name": "Breakout Season",
+  "source_url": "https://www.igdb.com/games/breakout-season",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Breakout Season",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3682370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3682370",
+        "Linux": "setsid steam steam://rungameid/3682370",
+        "macOS": "open steam://rungameid/3682370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "breakout-season",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373300"
+}
