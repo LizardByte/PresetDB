@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374155,
+  "name": "Jamp",
+  "source_url": "https://www.igdb.com/games/jamp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapdl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jamp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3917170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3917170",
+        "Linux": "setsid steam steam://rungameid/3917170",
+        "macOS": "open steam://rungameid/3917170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jamp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374155"
+}
