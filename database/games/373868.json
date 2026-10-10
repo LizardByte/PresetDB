@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373868,
+  "name": "Pet Desktop Adventure",
+  "source_url": "https://www.igdb.com/games/pet-desktop-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap2c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pet Desktop Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1983950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1983950",
+        "Linux": "setsid steam steam://rungameid/1983950",
+        "macOS": "open steam://rungameid/1983950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pet-desktop-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373868"
+}
