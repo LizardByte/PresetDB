@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336092,
+  "name": "Grand Fantasy Heroes",
+  "source_url": "https://www.igdb.com/games/grand-fantasy-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jys.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grand Fantasy Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3043430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3043430",
+        "Linux": "setsid steam steam://rungameid/3043430",
+        "macOS": "open steam://rungameid/3043430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grand-fantasy-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336092"
+}
