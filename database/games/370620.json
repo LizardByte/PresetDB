@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370620,
+  "name": "AstroDrop",
+  "source_url": "https://www.igdb.com/games/astrodrop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaoqe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AstroDrop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2227700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2227700",
+        "Linux": "setsid steam steam://rungameid/2227700",
+        "macOS": "open steam://rungameid/2227700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astrodrop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370620"
+}
