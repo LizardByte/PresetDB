@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357651,
+  "name": "Bob's Crystals",
+  "source_url": "https://www.igdb.com/games/bobs-crystals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6v0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bob's Crystals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3659560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3659560",
+        "Linux": "setsid steam steam://rungameid/3659560",
+        "macOS": "open steam://rungameid/3659560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bobs-crystals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357651"
+}
