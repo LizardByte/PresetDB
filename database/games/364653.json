@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364653,
+  "name": "Wait, Is That Me?",
+  "source_url": "https://www.igdb.com/games/wait-is-that-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coashh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wait, Is That Me?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4002570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4002570",
+        "Linux": "setsid steam steam://rungameid/4002570",
+        "macOS": "open steam://rungameid/4002570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wait-is-that-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364653"
+}
