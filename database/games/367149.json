@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367149,
+  "name": "SnowBall FPS",
+  "source_url": "https://www.igdb.com/games/snowball-fps",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coags4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SnowBall FPS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "473550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/473550",
+        "Linux": "setsid steam steam://rungameid/473550",
+        "macOS": "open steam://rungameid/473550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snowball-fps",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367149"
+}
