@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338421,
+  "name": "Wandering Stars",
+  "source_url": "https://www.igdb.com/games/wandering-stars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mex.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wandering Stars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2962720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2962720",
+        "Linux": "setsid steam steam://rungameid/2962720",
+        "macOS": "open steam://rungameid/2962720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wandering-stars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338421"
+}
