@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351754,
+  "name": "Streets of Fear",
+  "source_url": "https://www.igdb.com/games/streets-of-fear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa27m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Streets of Fear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2713300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2713300",
+        "Linux": "setsid steam steam://rungameid/2713300",
+        "macOS": "open steam://rungameid/2713300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "streets-of-fear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351754"
+}
