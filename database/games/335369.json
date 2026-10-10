@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335369,
+  "name": "Dogenstein",
+  "source_url": "https://www.igdb.com/games/dogenstein",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9j1r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogenstein",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3096230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3096230",
+        "Linux": "setsid steam steam://rungameid/3096230",
+        "macOS": "open steam://rungameid/3096230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dogenstein",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335369"
+}
