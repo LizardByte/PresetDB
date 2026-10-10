@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346677,
+  "name": "Doomclock",
+  "source_url": "https://www.igdb.com/games/doomclock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wvp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doomclock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3684350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3684350",
+        "Linux": "setsid steam steam://rungameid/3684350",
+        "macOS": "open steam://rungameid/3684350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doomclock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346677"
+}
