@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366112,
+  "name": "Seema's Pogo",
+  "source_url": "https://www.igdb.com/games/seemas-pogo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaf9c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seema's Pogo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3948570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3948570",
+        "Linux": "setsid steam steam://rungameid/3948570",
+        "macOS": "open steam://rungameid/3948570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seemas-pogo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366112"
+}
