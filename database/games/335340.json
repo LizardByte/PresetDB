@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335340,
+  "name": "Infinitely Up",
+  "source_url": "https://www.igdb.com/games/infinitely-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs8j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinitely Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1037920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1037920",
+        "Linux": "setsid steam steam://rungameid/1037920",
+        "macOS": "open steam://rungameid/1037920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infinitely-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335340"
+}
