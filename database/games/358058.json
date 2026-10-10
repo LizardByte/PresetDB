@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 358058,
+  "name": "123 Mazes",
+  "source_url": "https://www.igdb.com/games/123-mazes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa71w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "123 Mazes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3772600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3772600",
+        "Linux": "setsid steam steam://rungameid/3772600",
+        "macOS": "open steam://rungameid/3772600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "123-mazes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=358058"
+}
