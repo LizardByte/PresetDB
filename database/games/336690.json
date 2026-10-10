@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336690,
+  "name": "Chibi Reboot",
+  "source_url": "https://www.igdb.com/games/chibi-reboot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahuq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chibi Reboot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3042630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3042630",
+        "Linux": "setsid steam steam://rungameid/3042630",
+        "macOS": "open steam://rungameid/3042630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chibi-reboot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336690"
+}
