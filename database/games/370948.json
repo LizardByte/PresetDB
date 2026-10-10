@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370948,
+  "name": "Irene: The Window",
+  "source_url": "https://www.igdb.com/games/irene-the-window",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalbv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Irene: The Window",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3484890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3484890",
+        "Linux": "setsid steam steam://rungameid/3484890",
+        "macOS": "open steam://rungameid/3484890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "irene-the-window",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370948"
+}
