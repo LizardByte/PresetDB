@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359528,
+  "name": "Pawker",
+  "source_url": "https://www.igdb.com/games/pawker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coag98.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pawker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3909570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3909570",
+        "Linux": "setsid steam steam://rungameid/3909570",
+        "macOS": "open steam://rungameid/3909570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pawker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359528"
+}
