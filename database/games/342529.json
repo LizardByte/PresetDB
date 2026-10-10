@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342529,
+  "name": "Sleeper S9",
+  "source_url": "https://www.igdb.com/games/sleeper-s9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sleeper S9",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3505040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3505040",
+        "Linux": "setsid steam steam://rungameid/3505040",
+        "macOS": "open steam://rungameid/3505040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sleeper-s9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342529"
+}
