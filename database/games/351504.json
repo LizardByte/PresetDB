@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351504,
+  "name": "Silly Tanks",
+  "source_url": "https://www.igdb.com/games/silly-tanks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1uc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silly Tanks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2993320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2993320",
+        "Linux": "setsid steam steam://rungameid/2993320",
+        "macOS": "open steam://rungameid/2993320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silly-tanks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351504"
+}
