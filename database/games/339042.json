@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339042,
+  "name": "Fantasy World Manager",
+  "source_url": "https://www.igdb.com/games/fantasy-world-manager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coby4n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantasy World Manager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3447280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3447280",
+        "Linux": "setsid steam steam://rungameid/3447280",
+        "macOS": "open steam://rungameid/3447280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantasy-world-manager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339042"
+}
