@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359131,
+  "name": "Test Zero",
+  "source_url": "https://www.igdb.com/games/test-zero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7zk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Test Zero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3788010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3788010",
+        "Linux": "setsid steam steam://rungameid/3788010",
+        "macOS": "open steam://rungameid/3788010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "test-zero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359131"
+}
