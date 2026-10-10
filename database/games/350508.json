@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350508,
+  "name": "Lost Island",
+  "source_url": "https://www.igdb.com/games/lost-island--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0mr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3762080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3762080",
+        "Linux": "setsid steam steam://rungameid/3762080",
+        "macOS": "open steam://rungameid/3762080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-island--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350508"
+}
