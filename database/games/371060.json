@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371060,
+  "name": "Testimonium",
+  "source_url": "https://www.igdb.com/games/testimonium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Testimonium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3953690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3953690",
+        "Linux": "setsid steam steam://rungameid/3953690",
+        "macOS": "open steam://rungameid/3953690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "testimonium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371060"
+}
