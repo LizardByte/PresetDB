@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339998,
+  "name": "Lilith's Game",
+  "source_url": "https://www.igdb.com/games/liliths-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lilith's Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3236340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3236340",
+        "Linux": "setsid steam steam://rungameid/3236340",
+        "macOS": "open steam://rungameid/3236340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liliths-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339998"
+}
