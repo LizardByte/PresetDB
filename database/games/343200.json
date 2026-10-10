@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343200,
+  "name": "Earthscaper",
+  "source_url": "https://www.igdb.com/games/earthscaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sn8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Earthscaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2909760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2909760",
+        "Linux": "setsid steam steam://rungameid/2909760",
+        "macOS": "open steam://rungameid/2909760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "earthscaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343200"
+}
