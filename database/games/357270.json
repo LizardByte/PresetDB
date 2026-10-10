@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357270,
+  "name": "Street Defenders",
+  "source_url": "https://www.igdb.com/games/street-defenders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobi57.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Street Defenders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3157280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3157280",
+        "Linux": "setsid steam steam://rungameid/3157280",
+        "macOS": "open steam://rungameid/3157280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "street-defenders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357270"
+}
