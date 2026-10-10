@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332454,
+  "name": "Mythic Mire",
+  "source_url": "https://www.igdb.com/games/mythic-mire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9u3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mythic Mire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3434890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3434890",
+        "Linux": "setsid steam steam://rungameid/3434890",
+        "macOS": "open steam://rungameid/3434890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mythic-mire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332454"
+}
