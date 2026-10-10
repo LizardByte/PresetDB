@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352769,
+  "name": "4Dead",
+  "source_url": "https://www.igdb.com/games/4dead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3ed.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "4Dead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4172750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4172750",
+        "Linux": "setsid steam steam://rungameid/4172750",
+        "macOS": "open steam://rungameid/4172750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "4dead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352769"
+}
