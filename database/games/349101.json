@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349101,
+  "name": "Tasu Bowl",
+  "source_url": "https://www.igdb.com/games/tasu-bowl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yzf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tasu Bowl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3607840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3607840",
+        "Linux": "setsid steam steam://rungameid/3607840",
+        "macOS": "open steam://rungameid/3607840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tasu-bowl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349101"
+}
