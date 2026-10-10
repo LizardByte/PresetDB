@@ -188,7 +188,7 @@ test('catalog revisions track metadata, while errors and aborted requests can be
   await assert.rejects(invalid.page(), /Unsupported catalog version/);
 });
 
-test('worker aborts superseded requests and reports only the latest result or error', async t => {
+test('worker checks origins, aborts superseded requests, and reports only the latest result or error', async t => {
   const { fetcher } = fixture(t, { games: [entry(1, 'Halo')], apps: [] });
   const messages = [];
   let handler;
@@ -197,6 +197,7 @@ test('worker aborts superseded requests and reports only the latest result or er
   let oldSignal;
   const context = vm.createContext({
     AbortController,
+    location: { origin: 'https://example.org' },
     addEventListener: (name, listener) => { assert.equal(name, 'message'); handler = listener; },
     postMessage: message => messages.push(message),
     fetch: async function (url, options) {
@@ -214,14 +215,77 @@ test('worker aborts superseded requests and reports only the latest result or er
     path.join(__dirname, '..', 'gh-pages-template/assets/js', file), 'utf8'), context);
   vm.runInContext(fs.readFileSync(path.join(__dirname, '..',
     'gh-pages-template/assets/js/search-worker.js'), 'utf8'), context);
-  const old = handler({ data: { id: 1, base: '/preview/PresetDB', query: 'zzz' } });
-  await handler({ data: { id: 2, base: '/preview/PresetDB', query: 'hal' } });
+  const old = handler({ origin: '', data: { id: 1, base: '/preview/PresetDB', query: 'zzz' } });
+  await handler({ origin: 'https://foreign.example', data: { id: 99, base: '/other', query: '' } });
+  await handler({ data: { id: 100, base: '/other', query: '' } });
+  assert.equal(oldSignal.aborted, false);
+  assert.equal(messages.length, 0);
+  await handler({ origin: 'https://example.org', data: { id: 2, base: '/preview/PresetDB', query: 'hal' } });
   assert.equal(oldSignal.aborted, true);
   release();
   await old;
   assert.deepEqual(messages.map(message => message.id), [2]);
   assert.equal(messages[0].result.items[0].name, 'Halo');
   context.fetch = async () => { throw new Error('offline'); };
-  await handler({ data: { id: 3, base: '/other', query: '' } });
+  await handler({ origin: '', data: { id: 3, base: '/other', query: '' } });
   assert.equal(messages[1].error, 'offline');
+});
+
+async function checkRequestLimit(start, client, fetcher, folder) {
+  const pending = new Map();
+  const calls = [];
+  let active = 0;
+  let maximum = 0;
+  let released = false;
+  client.fetcher = async (url, options) => {
+    if (!url.includes(folder)) return fetcher(url, options);
+    calls.push(url);
+    active++;
+    maximum = Math.max(maximum, active);
+    await new Promise(resolve => {
+      if (released) resolve();
+      else pending.set(url, resolve);
+    });
+    pending.delete(url);
+    active--;
+    return fetcher(url, options);
+  };
+  const loading = start();
+  let result;
+  try {
+    await new Promise(resolve => setImmediate(resolve));
+    assert.equal(calls.length, 4);
+    assert.equal(active, 4);
+    pending.values().next().value();
+    await new Promise(resolve => setImmediate(resolve));
+    assert.equal(calls.length, 5);
+    assert.equal(active, 4);
+  } finally {
+    released = true;
+    for (const resolve of pending.values()) resolve();
+    result = await loading;
+  }
+  assert.equal(maximum, 4);
+  assert.equal(active, 0);
+  return { result, calls };
+}
+
+test('search refills each available request slot while keeping at most four requests active', async t => {
+  const query = 'abcdefghijklmnopqrstuvwxyz0123456789';
+  const { client, fetcher } = fixture(t, { games: [entry(1, query)], apps: [] });
+  const { result, calls } = await checkRequestLimit(() => client.page({ query }), client, fetcher, '/search/');
+  assert.equal(result.total, 1);
+  assert.equal(result.items[0].id, 1);
+  assert.equal(calls.length, 12);
+  assert.equal(new Set(calls).size, 12);
+});
+
+test('summary loading refills each slot without fetching more than four chunks at a time', async t => {
+  const { client, fetcher, manifest } = fixture(t, { games: Array.from({ length: 600 }, (_, i) =>
+    entry(i + 1, `Game ${String(i).padStart(3, '0')}`)), apps: [] });
+  await client.manifest();
+  const ordinals = Array.from({ length: 6 }, (_, i) => i * manifest.catalog_chunk_size);
+  const { result, calls } = await checkRequestLimit(() => client.items(ordinals), client, fetcher, '/items/');
+  assert.deepEqual(result.map(item => item.id), ordinals.map(i => i + 1));
+  assert.equal(calls.length, 6);
 });

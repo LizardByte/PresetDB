@@ -20,6 +20,44 @@ function writeChunks(root, folder, values, size) {
   }
 }
 
+function browseOrdinals(items, kind, os) {
+  const ordinals = [];
+  for (let ordinal = 0; ordinal < items.length; ordinal++) {
+    const item = items[ordinal];
+    if ((kind === 'all' || item.kind === kind) &&
+        (os === 'all' || item.operating_systems.includes(os))) ordinals.push(ordinal);
+  }
+  return ordinals;
+}
+
+function writeBrowseChunks(root, items, counts) {
+  for (const kind of ['all', 'game', 'app']) {
+    counts[kind] = {};
+    for (const os of ['all', 'Windows', 'Linux', 'macOS']) {
+      const ordinals = browseOrdinals(items, kind, os);
+      counts[kind][os] = ordinals.length;
+      if (kind !== 'all' || os !== 'all') {
+        writeChunks(root, `browse/${kind}/${os}`, ordinals, BROWSE_CHUNK_SIZE);
+      }
+    }
+  }
+}
+
+function writeSearchIndex(root, items) {
+  const postings = new Map();
+  for (let ordinal = 0; ordinal < items.length; ordinal++) {
+    const item = items[ordinal];
+    const characters = Array.from(normalizedName(item.name));
+    const code = ordinal * 16 + itemFlags(item);
+    for (let offset = 0; offset <= characters.length - MIN_QUERY_LENGTH; offset++) {
+      const key = gramKey(characters.slice(offset, offset + MIN_QUERY_LENGTH).join(''));
+      if (!postings.has(key)) postings.set(key, []);
+      postings.get(key).push(code, offset);
+    }
+  }
+  for (const [key, values] of postings) writeJson(root, `search/${key}.json`, values);
+}
+
 function buildCatalog(index, output) {
   const items = [
     ...index.games.map(item => ({ ...item, kind: 'game' })),
@@ -33,33 +71,8 @@ function buildCatalog(index, output) {
   manifest.revision = createHash('sha256').update(JSON.stringify({ manifest, items })).digest('hex').slice(0, 16);
   const root = path.join(output, 'catalog', manifest.revision);
   writeChunks(root, 'items', items, CATALOG_CHUNK_SIZE);
-  for (const kind of ['all', 'game', 'app']) {
-    manifest.counts[kind] = {};
-    for (const os of ['all', 'Windows', 'Linux', 'macOS']) {
-      const ordinals = [];
-      for (let ordinal = 0; ordinal < items.length; ordinal++) {
-        const item = items[ordinal];
-        if ((kind === 'all' || item.kind === kind) &&
-            (os === 'all' || item.operating_systems.includes(os))) ordinals.push(ordinal);
-      }
-      manifest.counts[kind][os] = ordinals.length;
-      if (kind !== 'all' || os !== 'all') {
-        writeChunks(root, `browse/${kind}/${os}`, ordinals, BROWSE_CHUNK_SIZE);
-      }
-    }
-  }
-  const postings = new Map();
-  for (let ordinal = 0; ordinal < items.length; ordinal++) {
-    const item = items[ordinal];
-    const characters = Array.from(normalizedName(item.name));
-    const code = ordinal * 16 + itemFlags(item);
-    for (let offset = 0; offset <= characters.length - MIN_QUERY_LENGTH; offset++) {
-      const key = gramKey(characters.slice(offset, offset + MIN_QUERY_LENGTH).join(''));
-      if (!postings.has(key)) postings.set(key, []);
-      postings.get(key).push(code, offset);
-    }
-  }
-  for (const [key, values] of postings) writeJson(root, `search/${key}.json`, values);
+  writeBrowseChunks(root, items, manifest.counts);
+  writeSearchIndex(root, items);
   writeJson(output, 'catalog/manifest.json', manifest);
   return manifest;
 }

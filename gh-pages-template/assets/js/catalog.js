@@ -118,13 +118,13 @@ class CatalogClient {
     let next = 0;
     let empty = false;
     const loadNext = async () => {
-      while (next < keys.length && !empty) {
-        signal?.throwIfAborted();
-        const key = keys[next++];
-        const values = await this.json(`search/${key}.json`, signal, true);
-        postings.set(key, values);
-        if (!values.length) empty = true;
-      }
+      if (next >= keys.length || empty) return;
+      signal?.throwIfAborted();
+      const key = keys[next++];
+      const values = await this.json(`search/${key}.json`, signal, true);
+      postings.set(key, values);
+      if (!values.length) empty = true;
+      return loadNext();
     };
     await Promise.all(Array.from({ length: Math.min(4, keys.length) }, loadNext));
     return empty ? [] : searchPositions(grams, postings, kind, os);
@@ -136,11 +136,11 @@ class CatalogClient {
     const loaded = new Map();
     let next = 0;
     const loadNext = async () => {
-      while (next < chunks.length) {
-        signal?.throwIfAborted();
-        const chunk = chunks[next++];
-        loaded.set(chunk, await this.json(`items/${chunk}.json`, signal));
-      }
+      if (next >= chunks.length) return;
+      signal?.throwIfAborted();
+      const chunk = chunks[next++];
+      loaded.set(chunk, await this.json(`items/${chunk}.json`, signal));
+      return loadNext();
     };
     await Promise.all(Array.from({ length: Math.min(4, chunks.length) }, loadNext));
     return ordinals.map(ordinal => loaded.get(Math.floor(ordinal / size))[ordinal % size]);

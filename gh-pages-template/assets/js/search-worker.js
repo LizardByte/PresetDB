@@ -5,6 +5,8 @@ importScripts('catalog.js');
 let catalog;
 let current;
 globalThis.addEventListener('message', async event => {
+  // Dedicated worker messages use an empty origin; reject other foreign origins.
+  if (event.origin !== '' && event.origin !== globalThis.location.origin) return;
   current?.abort();
   const controller = new AbortController();
   current = controller;

@@ -272,7 +272,8 @@ function boot() {
     const requestedKind = params.get('kind');
     const requestedId = params.get('id');
     if (requestedId && ['game', 'app'].includes(requestedKind)) {
-      showRecord({ kind: requestedKind, id: requestedId });
+      // Record loading reports failures in the detail panel.
+      void showRecord({ kind: requestedKind, id: requestedId });
     } else {
       detailController?.abort();
       detailId++;
