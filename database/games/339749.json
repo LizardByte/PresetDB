@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339749,
+  "name": "Endless Life",
+  "source_url": "https://www.igdb.com/games/endless-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3fu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3206480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3206480",
+        "Linux": "setsid steam steam://rungameid/3206480",
+        "macOS": "open steam://rungameid/3206480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339749"
+}
