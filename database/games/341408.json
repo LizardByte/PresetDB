@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341408,
+  "name": "Cozy Beach",
+  "source_url": "https://www.igdb.com/games/cozy-beach",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa91e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Beach",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3489070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3489070",
+        "Linux": "setsid steam steam://rungameid/3489070",
+        "macOS": "open steam://rungameid/3489070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-beach",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341408"
+}
