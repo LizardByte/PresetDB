@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367096,
+  "name": "Super Dee",
+  "source_url": "https://www.igdb.com/games/super-dee",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coageo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Dee",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1259990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1259990",
+        "Linux": "setsid steam steam://rungameid/1259990",
+        "macOS": "open steam://rungameid/1259990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-dee",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367096"
+}
