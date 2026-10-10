@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372376,
+  "name": "Pirate Den",
+  "source_url": "https://www.igdb.com/games/pirate-den",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coancg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pirate Den",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3768420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3768420",
+        "Linux": "setsid steam steam://rungameid/3768420",
+        "macOS": "open steam://rungameid/3768420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pirate-den",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372376"
+}
