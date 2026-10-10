@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341486,
+  "name": "NoSpellHero",
+  "source_url": "https://www.igdb.com/games/nospellhero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9q0a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NoSpellHero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3330200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3330200",
+        "Linux": "setsid steam steam://rungameid/3330200",
+        "macOS": "open steam://rungameid/3330200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nospellhero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341486"
+}
