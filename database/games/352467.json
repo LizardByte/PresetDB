@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352467,
+  "name": "Snail Race",
+  "source_url": "https://www.igdb.com/games/snail-race",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2p9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snail Race",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3773790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3773790",
+        "Linux": "setsid steam steam://rungameid/3773790",
+        "macOS": "open steam://rungameid/3773790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snail-race",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352467"
+}
