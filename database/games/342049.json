@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342049,
+  "name": "Astround",
+  "source_url": "https://www.igdb.com/games/astround",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rne.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astround",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3433170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3433170",
+        "Linux": "setsid steam steam://rungameid/3433170",
+        "macOS": "open steam://rungameid/3433170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astround",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342049"
+}
