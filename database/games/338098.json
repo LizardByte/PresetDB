@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338098,
+  "name": "Haifa",
+  "source_url": "https://www.igdb.com/games/haifa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob036.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haifa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3009970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3009970",
+        "Linux": "setsid steam steam://rungameid/3009970",
+        "macOS": "open steam://rungameid/3009970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haifa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338098"
+}
