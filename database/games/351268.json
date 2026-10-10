@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351268,
+  "name": "Moon Princess",
+  "source_url": "https://www.igdb.com/games/moon-princess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1l9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon Princess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3123130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3123130",
+        "Linux": "setsid steam steam://rungameid/3123130",
+        "macOS": "open steam://rungameid/3123130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-princess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351268"
+}
