@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365615,
+  "name": "Duck Dash",
+  "source_url": "https://www.igdb.com/games/duck-dash--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaeqb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3961540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3961540",
+        "Linux": "setsid steam steam://rungameid/3961540",
+        "macOS": "open steam://rungameid/3961540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duck-dash--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365615"
+}
