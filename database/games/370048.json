@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370048,
+  "name": "Stepfight",
+  "source_url": "https://www.igdb.com/games/stepfight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalzw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stepfight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3768110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3768110",
+        "Linux": "setsid steam steam://rungameid/3768110",
+        "macOS": "open steam://rungameid/3768110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stepfight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370048"
+}
