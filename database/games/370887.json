@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370887,
+  "name": "RealFighter",
+  "source_url": "https://www.igdb.com/games/realfighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coal88.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RealFighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1039220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1039220",
+        "Linux": "setsid steam steam://rungameid/1039220",
+        "macOS": "open steam://rungameid/1039220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "realfighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370887"
+}
