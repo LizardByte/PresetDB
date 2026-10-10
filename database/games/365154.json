@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365154,
+  "name": "Marktopia",
+  "source_url": "https://www.igdb.com/games/marktopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaeb2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marktopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3905760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3905760",
+        "Linux": "setsid steam steam://rungameid/3905760",
+        "macOS": "open steam://rungameid/3905760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marktopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365154"
+}
