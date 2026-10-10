@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333855,
+  "name": "Stone Simulator",
+  "source_url": "https://www.igdb.com/games/stone-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaboz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stone Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1425980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1425980",
+        "Linux": "setsid steam steam://rungameid/1425980",
+        "macOS": "open steam://rungameid/1425980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stone-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333855"
+}
