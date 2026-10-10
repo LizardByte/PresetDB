@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366054,
+  "name": "Blanky",
+  "source_url": "https://www.igdb.com/games/blanky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coah9l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blanky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3870300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3870300",
+        "Linux": "setsid steam steam://rungameid/3870300",
+        "macOS": "open steam://rungameid/3870300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blanky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366054"
+}
