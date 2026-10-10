@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360575,
+  "name": "Keyboard Simulator",
+  "source_url": "https://www.igdb.com/games/keyboard-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9hk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keyboard Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3679380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3679380",
+        "Linux": "setsid steam steam://rungameid/3679380",
+        "macOS": "open steam://rungameid/3679380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keyboard-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360575"
+}
