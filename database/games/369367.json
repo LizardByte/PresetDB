@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369367,
+  "name": "S.R.A",
+  "source_url": "https://www.igdb.com/games/sra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj55.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "S.R.A",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3799290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3799290",
+        "Linux": "setsid steam steam://rungameid/3799290",
+        "macOS": "open steam://rungameid/3799290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369367"
+}
