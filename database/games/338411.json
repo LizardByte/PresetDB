@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338411,
+  "name": "Kitsune",
+  "source_url": "https://www.igdb.com/games/kitsune",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9meq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitsune",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3544460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3544460",
+        "Linux": "setsid steam steam://rungameid/3544460",
+        "macOS": "open steam://rungameid/3544460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kitsune",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338411"
+}
