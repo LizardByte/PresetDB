@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373743,
+  "name": "Hero's Ignition",
+  "source_url": "https://www.igdb.com/games/heros-ignition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaox7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero's Ignition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3694880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3694880",
+        "Linux": "setsid steam steam://rungameid/3694880",
+        "macOS": "open steam://rungameid/3694880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heros-ignition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373743"
+}
