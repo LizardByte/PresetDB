@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338328,
+  "name": "House of Terror",
+  "source_url": "https://www.igdb.com/games/house-of-terror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "House of Terror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3621260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3621260",
+        "Linux": "setsid steam steam://rungameid/3621260",
+        "macOS": "open steam://rungameid/3621260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "house-of-terror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338328"
+}
