@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333107,
+  "name": "The Second Circle",
+  "source_url": "https://www.igdb.com/games/the-second-circle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lcm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Second Circle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3451220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3451220",
+        "Linux": "setsid steam steam://rungameid/3451220",
+        "macOS": "open steam://rungameid/3451220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-second-circle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333107"
+}
