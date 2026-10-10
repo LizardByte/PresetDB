@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359246,
+  "name": "Mix It!",
+  "source_url": "https://www.igdb.com/games/mix-it--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa83x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mix It!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3755720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3755720",
+        "Linux": "setsid steam steam://rungameid/3755720",
+        "macOS": "open steam://rungameid/3755720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mix-it--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359246"
+}
