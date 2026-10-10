@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348960,
+  "name": "Return to ...",
+  "source_url": "https://www.igdb.com/games/return-to-dot-dot-dot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Return to ...",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3758800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3758800",
+        "Linux": "setsid steam steam://rungameid/3758800",
+        "macOS": "open steam://rungameid/3758800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "return-to-dot-dot-dot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348960"
+}
