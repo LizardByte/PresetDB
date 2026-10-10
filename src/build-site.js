@@ -55,23 +55,27 @@ async function addProtonDb(records, fetcher, { cacheFile, mode, now }) {
     .map(preset => preset.launch_id)))];
   const prior = readProtonDbCache(cacheFile);
   const cache = new Map();
-  let next = 0;
+  const pending = [];
   let cached = 0;
-  let fetched = 0;
-  await Promise.all(Array.from({ length: Math.min(32, ids.length) }, async () => {
-    while (next < ids.length) {
-      const appId = ids[next++];
-      const entry = validProtonDbCacheEntry(prior[appId], now) ? prior[appId] : null;
-      if (mode === 'cache-only' || (entry && now - entry.fetched_at < PROTON_CACHE_MAX_AGE)) {
-        if (entry) cached++;
-        cache.set(appId, entry);
-        continue;
-      }
-      fetched++;
-      const rating = await protonDbRating(appId, fetcher);
-      cache.set(appId, { fetched_at: now, rating: rating ?? entry?.rating ?? null });
+  for (const appId of ids) {
+    const entry = validProtonDbCacheEntry(prior[appId], now) ? prior[appId] : null;
+    if (mode === 'cache-only' || (entry && now - entry.fetched_at < PROTON_CACHE_MAX_AGE)) {
+      if (entry) cached++;
+      cache.set(appId, entry);
+    } else {
+      pending.push({ appId, entry });
     }
-  }));
+  }
+  let next = 0;
+  async function refreshNext() {
+    if (next >= pending.length) return;
+    const { appId, entry } = pending[next++];
+    const rating = await protonDbRating(appId, fetcher);
+    cache.set(appId, { fetched_at: now, rating: rating ?? entry?.rating ?? null });
+    return refreshNext();
+  }
+  // Each worker takes another ID only after its current request finishes.
+  await Promise.all(Array.from({ length: Math.min(32, pending.length) }, refreshNext));
   for (const item of records) {
     for (const preset of item.presets) {
       if (!cache.has(preset.launch_id)) continue;
@@ -83,7 +87,7 @@ async function addProtonDb(records, fetcher, { cacheFile, mode, now }) {
     fs.mkdirSync(path.dirname(cacheFile), { recursive: true });
     fs.writeFileSync(cacheFile, JSON.stringify({ schema_version: 1, apps: Object.fromEntries(cache) }) + '\n');
   }
-  console.log(`ProtonDB ratings: ${ids.length} Steam IDs, ${cached} cached, ${fetched} fetched`);
+  console.log(`ProtonDB ratings: ${ids.length} Steam IDs, ${cached} cached, ${pending.length} fetched`);
 }
 
 async function buildSite(database, template, output, fetcher = globalThis.fetch, {

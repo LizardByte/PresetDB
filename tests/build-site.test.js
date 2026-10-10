@@ -131,6 +131,59 @@ test('failed refreshes retain known ratings and missing ratings are cached to av
   assert.equal(repeatedCalls, 0);
 });
 
+test('production keeps at most 32 requests active and refills each available worker', async t => {
+  const { database, output, cacheFile } = fixture(t);
+  const game = json(path.join(database, 'games', '1.json'));
+  for (let id = 6; id <= 70; id++) {
+    const launchId = String(1000 + id);
+    fs.writeFileSync(path.join(database, 'games', `${id}.json`), JSON.stringify({
+      ...game, id, name: `Game ${id}`, presets: [{
+        ...game.presets[0], launch_id: launchId,
+        commands_by_os: { Windows: `steam://rungameid/${launchId}` }
+      }]
+    }));
+  }
+  writeCache(cacheFile, { 1001: { fetched_at: now, rating: gold } });
+  const calls = [];
+  const waiting = new Map();
+  let released = false;
+  let active = 0;
+  let maximum = 0;
+  const building = buildSite(database, template, output, async url => {
+    calls.push(url);
+    active++;
+    maximum = Math.max(maximum, active);
+    await new Promise(resolve => {
+      if (released) resolve();
+      else waiting.set(url, resolve);
+    });
+    waiting.delete(url);
+    active--;
+    return { ok: true, json: async () => ({ tier: 'gold', total: 73 }) };
+  }, { cacheFile, now });
+  try {
+    await new Promise(resolve => setImmediate(resolve));
+    assert.equal(calls.length, 32);
+    assert.equal(active, 32);
+    waiting.values().next().value();
+    await new Promise(resolve => setImmediate(resolve));
+    assert.equal(calls.length, 33);
+    assert.equal(active, 32);
+    assert.equal(waiting.size, 32);
+  } finally {
+    released = true;
+    for (const resolve of waiting.values()) resolve();
+    await building;
+  }
+  assert.equal(maximum, 32);
+  assert.equal(active, 0);
+  assert.equal(calls.length, 67);
+  assert.equal(new Set(calls).size, 67);
+  assert.ok(calls.every(url => !url.endsWith('/1001.json')));
+  assert.equal(json(cacheFile).apps['1001'].fetched_at, now);
+  for (const id of [1, 2, 3, 4, 6, 70]) assert.deepEqual(preset(output, id).protondb, gold);
+});
+
 test('cold PR builds and invalid caches still publish presets and links without network requests', async t => {
   const { database, output, cacheFile } = fixture(t);
   const inputs = [undefined, '{', 'null', JSON.stringify({ schema_version: 2, apps: {} }),
