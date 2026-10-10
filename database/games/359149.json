@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359149,
+  "name": "The King's Legend",
+  "source_url": "https://www.igdb.com/games/the-kings-legend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa805.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The King's Legend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3485020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3485020",
+        "Linux": "setsid steam steam://rungameid/3485020",
+        "macOS": "open steam://rungameid/3485020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-kings-legend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359149"
+}
