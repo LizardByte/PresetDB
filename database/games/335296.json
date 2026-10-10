@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335296,
+  "name": "Wild Blue Skies",
+  "source_url": "https://www.igdb.com/games/wild-blue-skies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw26.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Blue Skies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1921490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1921490",
+        "Linux": "setsid steam steam://rungameid/1921490",
+        "macOS": "open steam://rungameid/1921490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-blue-skies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335296"
+}
