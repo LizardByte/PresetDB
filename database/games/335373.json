@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335373,
+  "name": "Deep In The Lab",
+  "source_url": "https://www.igdb.com/games/deep-in-the-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4o8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deep In The Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3582520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3582520",
+        "Linux": "setsid steam steam://rungameid/3582520",
+        "macOS": "open steam://rungameid/3582520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deep-in-the-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335373"
+}
