@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351600,
+  "name": "Slime Tower",
+  "source_url": "https://www.igdb.com/games/slime-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1yd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3814470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3814470",
+        "Linux": "setsid steam steam://rungameid/3814470",
+        "macOS": "open steam://rungameid/3814470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351600"
+}
