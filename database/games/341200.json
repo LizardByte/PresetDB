@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341200,
+  "name": "Magatch",
+  "source_url": "https://www.igdb.com/games/magatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pjs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3461190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3461190",
+        "Linux": "setsid steam steam://rungameid/3461190",
+        "macOS": "open steam://rungameid/3461190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341200"
+}
