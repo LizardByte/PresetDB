@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337428,
+  "name": "Shut the Windows and Don't Look Outside",
+  "source_url": "https://www.igdb.com/games/shut-the-windows-and-dont-look-outside",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lhl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shut the Windows and Don't Look Outside",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3527020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3527020",
+        "Linux": "setsid steam steam://rungameid/3527020",
+        "macOS": "open steam://rungameid/3527020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shut-the-windows-and-dont-look-outside",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337428"
+}
