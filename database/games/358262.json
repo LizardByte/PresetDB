@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 358262,
+  "name": "PanzenTD",
+  "source_url": "https://www.igdb.com/games/panzentd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa763.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PanzenTD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3818950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3818950",
+        "Linux": "setsid steam steam://rungameid/3818950",
+        "macOS": "open steam://rungameid/3818950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "panzentd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=358262"
+}
