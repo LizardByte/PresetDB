@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369706,
+  "name": "Paper Pilot",
+  "source_url": "https://www.igdb.com/games/paper-pilot--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaluc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paper Pilot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3083600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3083600",
+        "Linux": "setsid steam steam://rungameid/3083600",
+        "macOS": "open steam://rungameid/3083600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paper-pilot--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369706"
+}
