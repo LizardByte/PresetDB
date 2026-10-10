@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365880,
+  "name": "Baduk Challenge",
+  "source_url": "https://www.igdb.com/games/baduk-challenge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaezp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Baduk Challenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3953840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3953840",
+        "Linux": "setsid steam steam://rungameid/3953840",
+        "macOS": "open steam://rungameid/3953840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "baduk-challenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365880"
+}
