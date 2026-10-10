@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341353,
+  "name": "Mystical Mushrooms",
+  "source_url": "https://www.igdb.com/games/mystical-mushrooms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pr4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystical Mushrooms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3045890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3045890",
+        "Linux": "setsid steam steam://rungameid/3045890",
+        "macOS": "open steam://rungameid/3045890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystical-mushrooms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341353"
+}
