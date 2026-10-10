@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360883,
+  "name": "Farm Invader",
+  "source_url": "https://www.igdb.com/games/farm-invader",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc1a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Farm Invader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3277240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3277240",
+        "Linux": "setsid steam steam://rungameid/3277240",
+        "macOS": "open steam://rungameid/3277240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farm-invader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360883"
+}
