@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371207,
+  "name": "Pac vs Ghosts",
+  "source_url": "https://www.igdb.com/games/pac-vs-ghosts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pac vs Ghosts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1360560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1360560",
+        "Linux": "setsid steam steam://rungameid/1360560",
+        "macOS": "open steam://rungameid/1360560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pac-vs-ghosts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371207"
+}
