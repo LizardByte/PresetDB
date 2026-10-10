@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336055,
+  "name": "Zomboard",
+  "source_url": "https://www.igdb.com/games/zomboard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jx6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zomboard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3543130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3543130",
+        "Linux": "setsid steam steam://rungameid/3543130",
+        "macOS": "open steam://rungameid/3543130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zomboard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336055"
+}
