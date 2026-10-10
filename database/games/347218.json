@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347218,
+  "name": "Find My Frogs",
+  "source_url": "https://www.igdb.com/games/find-my-frogs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa73u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find My Frogs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3130800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3130800",
+        "Linux": "setsid steam steam://rungameid/3130800",
+        "macOS": "open steam://rungameid/3130800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-my-frogs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347218"
+}
