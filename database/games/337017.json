@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337017,
+  "name": "The Last Bloom",
+  "source_url": "https://www.igdb.com/games/the-last-bloom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9kzy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Bloom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3568780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3568780",
+        "Linux": "setsid steam steam://rungameid/3568780",
+        "macOS": "open steam://rungameid/3568780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-bloom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337017"
+}
