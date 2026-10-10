@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336801,
+  "name": "Madame Fifi's Bakery",
+  "source_url": "https://www.igdb.com/games/madame-fifis-bakery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaosk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Madame Fifi's Bakery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2963260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2963260",
+        "Linux": "setsid steam steam://rungameid/2963260",
+        "macOS": "open steam://rungameid/2963260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "madame-fifis-bakery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336801"
+}
