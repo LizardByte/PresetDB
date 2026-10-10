@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340072,
+  "name": "Fightland",
+  "source_url": "https://www.igdb.com/games/fightland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9oam.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fightland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2699550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2699550",
+        "Linux": "setsid steam steam://rungameid/2699550",
+        "macOS": "open steam://rungameid/2699550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fightland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340072"
+}
