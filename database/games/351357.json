@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351357,
+  "name": "Meltopia",
+  "source_url": "https://www.igdb.com/games/meltopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobvm4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meltopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3601800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3601800",
+        "Linux": "setsid steam steam://rungameid/3601800",
+        "macOS": "open steam://rungameid/3601800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meltopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351357"
+}
