@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365217,
+  "name": "MazeCraft",
+  "source_url": "https://www.igdb.com/games/mazecraft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaeq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MazeCraft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2233110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2233110",
+        "Linux": "setsid steam steam://rungameid/2233110",
+        "macOS": "open steam://rungameid/2233110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mazecraft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365217"
+}
