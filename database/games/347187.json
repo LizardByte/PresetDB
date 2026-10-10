@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347187,
+  "name": "Doug The Digger",
+  "source_url": "https://www.igdb.com/games/doug-the-digger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wyc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doug The Digger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3037950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3037950",
+        "Linux": "setsid steam steam://rungameid/3037950",
+        "macOS": "open steam://rungameid/3037950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doug-the-digger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347187"
+}
