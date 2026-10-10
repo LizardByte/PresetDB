@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347600,
+  "name": "Wide Load",
+  "source_url": "https://www.igdb.com/games/wide-load",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xg6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wide Load",
+      "os": null,
+      "method": "steam",
+      "launch_id": "910860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/910860",
+        "Linux": "setsid steam steam://rungameid/910860",
+        "macOS": "open steam://rungameid/910860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wide-load",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347600"
+}
