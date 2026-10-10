@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345036,
+  "name": "Oolo",
+  "source_url": "https://www.igdb.com/games/oolo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9utr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oolo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2819920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2819920",
+        "Linux": "setsid steam steam://rungameid/2819920",
+        "macOS": "open steam://rungameid/2819920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oolo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345036"
+}
