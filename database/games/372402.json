@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372402,
+  "name": "Jump Frog",
+  "source_url": "https://www.igdb.com/games/jump-frog--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coandl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jump Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3952010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3952010",
+        "Linux": "setsid steam steam://rungameid/3952010",
+        "macOS": "open steam://rungameid/3952010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jump-frog--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372402"
+}
