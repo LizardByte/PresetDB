@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373342,
+  "name": "Hangtime!",
+  "source_url": "https://www.igdb.com/games/hangtime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hangtime!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3861120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3861120",
+        "Linux": "setsid steam steam://rungameid/3861120",
+        "macOS": "open steam://rungameid/3861120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hangtime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373342"
+}
