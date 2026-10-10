@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363065,
+  "name": "Cube Shooter",
+  "source_url": "https://www.igdb.com/games/cube-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacfb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3826900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3826900",
+        "Linux": "setsid steam steam://rungameid/3826900",
+        "macOS": "open steam://rungameid/3826900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363065"
+}
