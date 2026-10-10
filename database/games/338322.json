@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338322,
+  "name": "Silkgrove",
+  "source_url": "https://www.igdb.com/games/silkgrove",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8ic.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silkgrove",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3570350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3570350",
+        "Linux": "setsid steam steam://rungameid/3570350",
+        "macOS": "open steam://rungameid/3570350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silkgrove",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338322"
+}
