@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348766,
+  "name": "Game of Hearts",
+  "source_url": "https://www.igdb.com/games/game-of-hearts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game of Hearts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3672240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3672240",
+        "Linux": "setsid steam steam://rungameid/3672240",
+        "macOS": "open steam://rungameid/3672240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-of-hearts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348766"
+}
