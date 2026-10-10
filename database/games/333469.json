@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333469,
+  "name": "Vasterra",
+  "source_url": "https://www.igdb.com/games/vasterra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gxl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vasterra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2627720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2627720",
+        "Linux": "setsid steam steam://rungameid/2627720",
+        "macOS": "open steam://rungameid/2627720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vasterra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333469"
+}
