@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333442,
+  "name": "Murder Inc",
+  "source_url": "https://www.igdb.com/games/murder-inc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaoel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Murder Inc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3487230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3487230",
+        "Linux": "setsid steam steam://rungameid/3487230",
+        "macOS": "open steam://rungameid/3487230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "murder-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333442"
+}
