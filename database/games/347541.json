@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347541,
+  "name": "Beetleball",
+  "source_url": "https://www.igdb.com/games/beetleball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawta.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beetleball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2776270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2776270",
+        "Linux": "setsid steam steam://rungameid/2776270",
+        "macOS": "open steam://rungameid/2776270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beetleball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347541"
+}
