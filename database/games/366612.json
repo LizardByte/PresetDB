@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366612,
+  "name": "Souls Alive: Origins",
+  "source_url": "https://www.igdb.com/games/souls-alive-origins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafu9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Souls Alive: Origins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1990130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1990130",
+        "Linux": "setsid steam steam://rungameid/1990130",
+        "macOS": "open steam://rungameid/1990130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "souls-alive-origins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366612"
+}
