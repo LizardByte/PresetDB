@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370123,
+  "name": "Soft(A)ware",
+  "source_url": "https://www.igdb.com/games/soft-a-ware",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakbi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soft(A)ware",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1790620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1790620",
+        "Linux": "setsid steam steam://rungameid/1790620",
+        "macOS": "open steam://rungameid/1790620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soft-a-ware",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370123"
+}
