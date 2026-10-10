@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333455,
+  "name": "Mini Merchant",
+  "source_url": "https://www.igdb.com/games/mini-merchant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gxd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Merchant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3473760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3473760",
+        "Linux": "setsid steam steam://rungameid/3473760",
+        "macOS": "open steam://rungameid/3473760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-merchant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333455"
+}
