@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341252,
+  "name": "Monsterfall",
+  "source_url": "https://www.igdb.com/games/monsterfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob28x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monsterfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3247280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3247280",
+        "Linux": "setsid steam steam://rungameid/3247280",
+        "macOS": "open steam://rungameid/3247280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monsterfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341252"
+}
