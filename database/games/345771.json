@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345771,
+  "name": "Zombie Hunter",
+  "source_url": "https://www.igdb.com/games/zombie-hunter--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coba79.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombie Hunter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2463080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2463080",
+        "Linux": "setsid steam steam://rungameid/2463080",
+        "macOS": "open steam://rungameid/2463080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombie-hunter--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345771"
+}
