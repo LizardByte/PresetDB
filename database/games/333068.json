@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333068,
+  "name": "Level up Everything!",
+  "source_url": "https://www.igdb.com/games/level-up-everything",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ife.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Level up Everything!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3210570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3210570",
+        "Linux": "setsid steam steam://rungameid/3210570",
+        "macOS": "open steam://rungameid/3210570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "level-up-everything",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333068"
+}
