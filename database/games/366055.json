@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366055,
+  "name": "Dacha",
+  "source_url": "https://www.igdb.com/games/dacha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dacha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3854020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3854020",
+        "Linux": "setsid steam steam://rungameid/3854020",
+        "macOS": "open steam://rungameid/3854020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dacha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366055"
+}
