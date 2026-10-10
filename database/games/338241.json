@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338241,
+  "name": "Birdcage",
+  "source_url": "https://www.igdb.com/games/birdcage--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coat55.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Birdcage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3025910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3025910",
+        "Linux": "setsid steam steam://rungameid/3025910",
+        "macOS": "open steam://rungameid/3025910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "birdcage--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338241"
+}
