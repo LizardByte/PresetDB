@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 286431,
+  "name": "Project W.A.K.E.",
+  "source_url": "https://www.igdb.com/games/project-wake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6df.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project W.A.K.E.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "534300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/534300",
+        "Linux": "setsid steam steam://rungameid/534300",
+        "macOS": "open steam://rungameid/534300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-wake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=286431"
+}
