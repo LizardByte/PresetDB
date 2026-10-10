@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344448,
+  "name": "Steal The Pig",
+  "source_url": "https://www.igdb.com/games/steal-the-pig",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9u4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Steal The Pig",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3585400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3585400",
+        "Linux": "setsid steam steam://rungameid/3585400",
+        "macOS": "open steam://rungameid/3585400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "steal-the-pig",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344448"
+}
