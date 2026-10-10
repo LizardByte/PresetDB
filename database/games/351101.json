@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351101,
+  "name": "Rebloom",
+  "source_url": "https://www.igdb.com/games/rebloom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap5s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rebloom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3823300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3823300",
+        "Linux": "setsid steam steam://rungameid/3823300",
+        "macOS": "open steam://rungameid/3823300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rebloom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351101"
+}
