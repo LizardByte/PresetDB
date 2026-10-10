@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332883,
+  "name": "Lily",
+  "source_url": "https://www.igdb.com/games/lily--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g57.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lily",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3104300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3104300",
+        "Linux": "setsid steam steam://rungameid/3104300",
+        "macOS": "open steam://rungameid/3104300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lily--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332883"
+}
