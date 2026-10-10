@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338526,
+  "name": "Chronicles of Ultiria",
+  "source_url": "https://www.igdb.com/games/chronicles-of-ultiria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob283.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chronicles of Ultiria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3136890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3136890",
+        "Linux": "setsid steam steam://rungameid/3136890",
+        "macOS": "open steam://rungameid/3136890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chronicles-of-ultiria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338526"
+}
