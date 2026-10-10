@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363677,
+  "name": "Ectorider",
+  "source_url": "https://www.igdb.com/games/ectorider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ectorider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3970010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3970010",
+        "Linux": "setsid steam steam://rungameid/3970010",
+        "macOS": "open steam://rungameid/3970010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ectorider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363677"
+}
