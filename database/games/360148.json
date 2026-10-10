@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360148,
+  "name": "Dragon Assault",
+  "source_url": "https://www.igdb.com/games/dragon-assault",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaaih.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Assault",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3162840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3162840",
+        "Linux": "setsid steam steam://rungameid/3162840",
+        "macOS": "open steam://rungameid/3162840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-assault",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360148"
+}
