@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339408,
+  "name": "Terminal Connection",
+  "source_url": "https://www.igdb.com/games/terminal-connection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coat4l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terminal Connection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2967100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2967100",
+        "Linux": "setsid steam steam://rungameid/2967100",
+        "macOS": "open steam://rungameid/2967100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terminal-connection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339408"
+}
