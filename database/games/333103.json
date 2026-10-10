@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333103,
+  "name": "Smiling Misery",
+  "source_url": "https://www.igdb.com/games/smiling-misery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smiling Misery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3398760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3398760",
+        "Linux": "setsid steam steam://rungameid/3398760",
+        "macOS": "open steam://rungameid/3398760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smiling-misery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333103"
+}
