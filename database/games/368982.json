@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368982,
+  "name": "Gloop",
+  "source_url": "https://www.igdb.com/games/gloop--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaimw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gloop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3279240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3279240",
+        "Linux": "setsid steam steam://rungameid/3279240",
+        "macOS": "open steam://rungameid/3279240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gloop--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368982"
+}
