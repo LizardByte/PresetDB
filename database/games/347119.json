@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347119,
+  "name": "Romeo is a Dead Man",
+  "source_url": "https://www.igdb.com/games/romeo-is-a-dead-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakmt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Romeo is a Dead Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3050900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3050900",
+        "Linux": "setsid steam steam://rungameid/3050900",
+        "macOS": "open steam://rungameid/3050900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "romeo-is-a-dead-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347119"
+}
