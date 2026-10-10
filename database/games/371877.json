@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371877,
+  "name": "I am Machine",
+  "source_url": "https://www.igdb.com/games/i-am-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coarxf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I am Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2993990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2993990",
+        "Linux": "setsid steam steam://rungameid/2993990",
+        "macOS": "open steam://rungameid/2993990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371877"
+}
