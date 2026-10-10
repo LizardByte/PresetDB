@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333339,
+  "name": "Eternal Glory",
+  "source_url": "https://www.igdb.com/games/eternal-glory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gei.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eternal Glory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3180610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3180610",
+        "Linux": "setsid steam steam://rungameid/3180610",
+        "macOS": "open steam://rungameid/3180610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eternal-glory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333339"
+}
