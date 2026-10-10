@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347919,
+  "name": "Outcity",
+  "source_url": "https://www.igdb.com/games/outcity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavq5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Outcity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3638080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3638080",
+        "Linux": "setsid steam steam://rungameid/3638080",
+        "macOS": "open steam://rungameid/3638080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "outcity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347919"
+}
