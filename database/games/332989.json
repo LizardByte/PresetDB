@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332989,
+  "name": "Smack Monkey",
+  "source_url": "https://www.igdb.com/games/smack-monkey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9hab.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smack Monkey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3191540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3191540",
+        "Linux": "setsid steam steam://rungameid/3191540",
+        "macOS": "open steam://rungameid/3191540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smack-monkey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332989"
+}
