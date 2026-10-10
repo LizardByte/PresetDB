@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360696,
+  "name": "Shiny Stones",
+  "source_url": "https://www.igdb.com/games/shiny-stones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9mb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shiny Stones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3551320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3551320",
+        "Linux": "setsid steam steam://rungameid/3551320",
+        "macOS": "open steam://rungameid/3551320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shiny-stones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360696"
+}
