@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359851,
+  "name": "The Protagonist",
+  "source_url": "https://www.igdb.com/games/the-protagonist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8hr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Protagonist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3759550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3759550",
+        "Linux": "setsid steam steam://rungameid/3759550",
+        "macOS": "open steam://rungameid/3759550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-protagonist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359851"
+}
