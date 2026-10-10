@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347184,
+  "name": "Operius DX",
+  "source_url": "https://www.igdb.com/games/operius-dx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coana5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Operius DX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3281050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3281050",
+        "Linux": "setsid steam steam://rungameid/3281050",
+        "macOS": "open steam://rungameid/3281050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "operius-dx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347184"
+}
