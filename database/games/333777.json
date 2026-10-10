@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333777,
+  "name": "Project Zeta",
+  "source_url": "https://www.igdb.com/games/project-zeta",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc8cs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Zeta",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2778110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2778110",
+        "Linux": "setsid steam steam://rungameid/2778110",
+        "macOS": "open steam://rungameid/2778110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-zeta",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333777"
+}
