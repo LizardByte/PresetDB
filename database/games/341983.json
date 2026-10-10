@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341983,
+  "name": "Beatfinder",
+  "source_url": "https://www.igdb.com/games/beatfinder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qwg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beatfinder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3537980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3537980",
+        "Linux": "setsid steam steam://rungameid/3537980",
+        "macOS": "open steam://rungameid/3537980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beatfinder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341983"
+}
