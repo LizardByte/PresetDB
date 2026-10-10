@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335121,
+  "name": "Death Stream",
+  "source_url": "https://www.igdb.com/games/death-stream",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9isc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death Stream",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3522230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3522230",
+        "Linux": "setsid steam steam://rungameid/3522230",
+        "macOS": "open steam://rungameid/3522230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "death-stream",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335121"
+}
