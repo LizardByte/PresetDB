@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368367,
+  "name": "Sereno",
+  "source_url": "https://www.igdb.com/games/sereno",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahxi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sereno",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3676600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3676600",
+        "Linux": "setsid steam steam://rungameid/3676600",
+        "macOS": "open steam://rungameid/3676600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sereno",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368367"
+}
