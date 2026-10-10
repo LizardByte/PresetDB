@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357861,
+  "name": "Workhorse",
+  "source_url": "https://www.igdb.com/games/workhorse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coal3h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Workhorse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3480580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3480580",
+        "Linux": "setsid steam steam://rungameid/3480580",
+        "macOS": "open steam://rungameid/3480580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "workhorse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357861"
+}
