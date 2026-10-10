@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341980,
+  "name": "Demon Bluff",
+  "source_url": "https://www.igdb.com/games/demon-bluff",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxv9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Demon Bluff",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3522600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3522600",
+        "Linux": "setsid steam steam://rungameid/3522600",
+        "macOS": "open steam://rungameid/3522600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "demon-bluff",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341980"
+}
