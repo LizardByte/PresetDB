@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345280,
+  "name": "Amnyam",
+  "source_url": "https://www.igdb.com/games/amnyam",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxvd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amnyam",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2652590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2652590",
+        "Linux": "setsid steam steam://rungameid/2652590",
+        "macOS": "open steam://rungameid/2652590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amnyam",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345280"
+}
