@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343972,
+  "name": "Starstrike",
+  "source_url": "https://www.igdb.com/games/starstrike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xgi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starstrike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2725860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2725860",
+        "Linux": "setsid steam steam://rungameid/2725860",
+        "macOS": "open steam://rungameid/2725860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starstrike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343972"
+}
