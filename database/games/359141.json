@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359141,
+  "name": "My_Dear",
+  "source_url": "https://www.igdb.com/games/my-dear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7zv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My_Dear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3870500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3870500",
+        "Linux": "setsid steam steam://rungameid/3870500",
+        "macOS": "open steam://rungameid/3870500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-dear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359141"
+}
