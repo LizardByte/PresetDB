@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347169,
+  "name": "AFK Shift",
+  "source_url": "https://www.igdb.com/games/afk-shift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coat37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AFK Shift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3521880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3521880",
+        "Linux": "setsid steam steam://rungameid/3521880",
+        "macOS": "open steam://rungameid/3521880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "afk-shift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347169"
+}
