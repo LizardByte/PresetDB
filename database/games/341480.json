@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341480,
+  "name": "Niva",
+  "source_url": "https://www.igdb.com/games/niva",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ump.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Niva",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3258800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3258800",
+        "Linux": "setsid steam steam://rungameid/3258800",
+        "macOS": "open steam://rungameid/3258800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "niva",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341480"
+}
