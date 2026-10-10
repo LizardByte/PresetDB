@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370880,
+  "name": "Black Idea",
+  "source_url": "https://www.igdb.com/games/black-idea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coal7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Idea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2225060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2225060",
+        "Linux": "setsid steam steam://rungameid/2225060",
+        "macOS": "open steam://rungameid/2225060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "black-idea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370880"
+}
