@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339932,
+  "name": "To the Moon",
+  "source_url": "https://www.igdb.com/games/to-the-moon--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9o96.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "To the Moon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3626460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3626460",
+        "Linux": "setsid steam steam://rungameid/3626460",
+        "macOS": "open steam://rungameid/3626460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "to-the-moon--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339932"
+}
