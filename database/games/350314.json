@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350314,
+  "name": "Nezori",
+  "source_url": "https://www.igdb.com/games/nezori",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0cf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nezori",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3824840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3824840",
+        "Linux": "setsid steam steam://rungameid/3824840",
+        "macOS": "open steam://rungameid/3824840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nezori",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350314"
+}
