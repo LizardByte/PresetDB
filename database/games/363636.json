@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363636,
+  "name": "HgmGame-Lion",
+  "source_url": "https://www.igdb.com/games/hgmgame-lion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacp9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HgmGame-Lion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3821780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3821780",
+        "Linux": "setsid steam steam://rungameid/3821780",
+        "macOS": "open steam://rungameid/3821780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hgmgame-lion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363636"
+}
