@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341340,
+  "name": "Mr. Pogo",
+  "source_url": "https://www.igdb.com/games/mr-pogo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pqx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr. Pogo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2272800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2272800",
+        "Linux": "setsid steam steam://rungameid/2272800",
+        "macOS": "open steam://rungameid/2272800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-pogo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341340"
+}
