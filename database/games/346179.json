@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346179,
+  "name": "Tankiro",
+  "source_url": "https://www.igdb.com/games/tankiro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9w8w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tankiro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3628730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3628730",
+        "Linux": "setsid steam steam://rungameid/3628730",
+        "macOS": "open steam://rungameid/3628730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tankiro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346179"
+}
