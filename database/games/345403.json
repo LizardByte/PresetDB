@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345403,
+  "name": "Zombies & Survivors",
+  "source_url": "https://www.igdb.com/games/zombies-and-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9v6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombies & Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3153760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3153760",
+        "Linux": "setsid steam steam://rungameid/3153760",
+        "macOS": "open steam://rungameid/3153760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombies-and-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345403"
+}
