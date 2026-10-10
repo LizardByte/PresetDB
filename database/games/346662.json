@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346662,
+  "name": "Twenty Six",
+  "source_url": "https://www.igdb.com/games/twenty-six",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coadsy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Twenty Six",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3638060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3638060",
+        "Linux": "setsid steam steam://rungameid/3638060",
+        "macOS": "open steam://rungameid/3638060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "twenty-six",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346662"
+}
