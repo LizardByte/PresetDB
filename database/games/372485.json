@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372485,
+  "name": "Prisoner Breaker",
+  "source_url": "https://www.igdb.com/games/prisoner-breaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coangu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prisoner Breaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1274400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1274400",
+        "Linux": "setsid steam steam://rungameid/1274400",
+        "macOS": "open steam://rungameid/1274400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prisoner-breaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372485"
+}
