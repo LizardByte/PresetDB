@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346457,
+  "name": "Viceria",
+  "source_url": "https://www.igdb.com/games/viceria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wav.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Viceria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3602650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3602650",
+        "Linux": "setsid steam steam://rungameid/3602650",
+        "macOS": "open steam://rungameid/3602650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "viceria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346457"
+}
