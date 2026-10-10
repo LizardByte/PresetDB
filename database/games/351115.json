@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351115,
+  "name": "Chain Corp",
+  "source_url": "https://www.igdb.com/games/chain-corp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1fg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chain Corp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3812890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3812890",
+        "Linux": "setsid steam steam://rungameid/3812890",
+        "macOS": "open steam://rungameid/3812890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chain-corp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351115"
+}
