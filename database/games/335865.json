@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335865,
+  "name": "Foldy's OS Quest",
+  "source_url": "https://www.igdb.com/games/foldys-os-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jlf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foldy's OS Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3532060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3532060",
+        "Linux": "setsid steam steam://rungameid/3532060",
+        "macOS": "open steam://rungameid/3532060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foldys-os-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335865"
+}
