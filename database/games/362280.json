@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 362280,
+  "name": "Wildekin",
+  "source_url": "https://www.igdb.com/games/wildekin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabgi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wildekin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1368180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1368180",
+        "Linux": "setsid steam steam://rungameid/1368180",
+        "macOS": "open steam://rungameid/1368180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wildekin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=362280"
+}
