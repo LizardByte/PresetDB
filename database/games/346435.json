@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346435,
+  "name": "Atura",
+  "source_url": "https://www.igdb.com/games/atura",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coar9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atura",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3555370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3555370",
+        "Linux": "setsid steam steam://rungameid/3555370",
+        "macOS": "open steam://rungameid/3555370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atura",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346435"
+}
