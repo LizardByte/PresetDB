@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373355,
+  "name": "Critters Breakout",
+  "source_url": "https://www.igdb.com/games/critters-breakout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaog0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Critters Breakout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3961980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3961980",
+        "Linux": "setsid steam steam://rungameid/3961980",
+        "macOS": "open steam://rungameid/3961980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "critters-breakout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373355"
+}
