@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342012,
+  "name": "Heroes Against Time",
+  "source_url": "https://www.igdb.com/games/heroes-against-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafl4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes Against Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3667720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3667720",
+        "Linux": "setsid steam steam://rungameid/3667720",
+        "macOS": "open steam://rungameid/3667720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heroes-against-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342012"
+}
