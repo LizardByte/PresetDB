@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363135,
+  "name": "Metabrawl",
+  "source_url": "https://www.igdb.com/games/metabrawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coachd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metabrawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3361760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3361760",
+        "Linux": "setsid steam steam://rungameid/3361760",
+        "macOS": "open steam://rungameid/3361760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metabrawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363135"
+}
