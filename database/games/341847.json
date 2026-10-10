@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341847,
+  "name": "Oh Tennis",
+  "source_url": "https://www.igdb.com/games/oh-tennis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qrs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oh Tennis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3633600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3633600",
+        "Linux": "setsid steam steam://rungameid/3633600",
+        "macOS": "open steam://rungameid/3633600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oh-tennis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341847"
+}
