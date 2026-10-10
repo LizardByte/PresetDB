@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355035,
+  "name": "Store It!",
+  "source_url": "https://www.igdb.com/games/store-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coad75.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Store It!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3801520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3801520",
+        "Linux": "setsid steam steam://rungameid/3801520",
+        "macOS": "open steam://rungameid/3801520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "store-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355035"
+}
