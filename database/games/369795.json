@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369795,
+  "name": "Trash Battle",
+  "source_url": "https://www.igdb.com/games/trash-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trash Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3010830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3010830",
+        "Linux": "setsid steam steam://rungameid/3010830",
+        "macOS": "open steam://rungameid/3010830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trash-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369795"
+}
