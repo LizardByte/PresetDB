@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369564,
+  "name": "Zuma Girls",
+  "source_url": "https://www.igdb.com/games/zuma-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajak.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zuma Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1808780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1808780",
+        "Linux": "setsid steam steam://rungameid/1808780",
+        "macOS": "open steam://rungameid/1808780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zuma-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369564"
+}
