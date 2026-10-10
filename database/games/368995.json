@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368995,
+  "name": "Save the Sheep",
+  "source_url": "https://www.igdb.com/games/save-the-sheep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaing.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save the Sheep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2599070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2599070",
+        "Linux": "setsid steam steam://rungameid/2599070",
+        "macOS": "open steam://rungameid/2599070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "save-the-sheep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368995"
+}
