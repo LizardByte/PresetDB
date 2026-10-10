@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360860,
+  "name": "Wild Space",
+  "source_url": "https://www.igdb.com/games/wild-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9u2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3525350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3525350",
+        "Linux": "setsid steam steam://rungameid/3525350",
+        "macOS": "open steam://rungameid/3525350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360860"
+}
