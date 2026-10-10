@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342609,
+  "name": "Behind the Curtain",
+  "source_url": "https://www.igdb.com/games/behind-the-curtain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9su3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Behind the Curtain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3576000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3576000",
+        "Linux": "setsid steam steam://rungameid/3576000",
+        "macOS": "open steam://rungameid/3576000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "behind-the-curtain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342609"
+}
