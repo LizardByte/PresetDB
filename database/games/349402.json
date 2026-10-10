@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349402,
+  "name": "EggGarden",
+  "source_url": "https://www.igdb.com/games/egggarden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2a1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EggGarden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075040",
+        "Linux": "setsid steam steam://rungameid/3075040",
+        "macOS": "open steam://rungameid/3075040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "egggarden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349402"
+}
