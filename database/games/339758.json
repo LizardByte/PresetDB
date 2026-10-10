@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339758,
+  "name": "Epoch",
+  "source_url": "https://www.igdb.com/games/epoch--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatdc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epoch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3223220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3223220",
+        "Linux": "setsid steam steam://rungameid/3223220",
+        "macOS": "open steam://rungameid/3223220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epoch--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339758"
+}
