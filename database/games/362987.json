@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 362987,
+  "name": "Tip",
+  "source_url": "https://www.igdb.com/games/tip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc29.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3326250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3326250",
+        "Linux": "setsid steam steam://rungameid/3326250",
+        "macOS": "open steam://rungameid/3326250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=362987"
+}
