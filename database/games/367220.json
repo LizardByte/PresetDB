@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367220,
+  "name": "Amazon Passion",
+  "source_url": "https://www.igdb.com/games/amazon-passion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagmb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amazon Passion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3133760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3133760",
+        "Linux": "setsid steam steam://rungameid/3133760",
+        "macOS": "open steam://rungameid/3133760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amazon-passion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367220"
+}
