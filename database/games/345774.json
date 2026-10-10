@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345774,
+  "name": "Hammy",
+  "source_url": "https://www.igdb.com/games/hammy--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9jj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hammy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "817120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/817120",
+        "Linux": "setsid steam steam://rungameid/817120",
+        "macOS": "open steam://rungameid/817120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hammy--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345774"
+}
