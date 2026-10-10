@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332464,
+  "name": "Screaming Head",
+  "source_url": "https://www.igdb.com/games/screaming-head",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9l3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Screaming Head",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3372460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3372460",
+        "Linux": "setsid steam steam://rungameid/3372460",
+        "macOS": "open steam://rungameid/3372460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "screaming-head",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332464"
+}
