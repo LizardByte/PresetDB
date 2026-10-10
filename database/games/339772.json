@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339772,
+  "name": "Escape the Room",
+  "source_url": "https://www.igdb.com/games/escape-the-room--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape the Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3335600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3335600",
+        "Linux": "setsid steam steam://rungameid/3335600",
+        "macOS": "open steam://rungameid/3335600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-the-room--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339772"
+}
