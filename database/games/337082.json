@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337082,
+  "name": "Isles Above",
+  "source_url": "https://www.igdb.com/games/isles-above",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nv7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Isles Above",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3579880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3579880",
+        "Linux": "setsid steam steam://rungameid/3579880",
+        "macOS": "open steam://rungameid/3579880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "isles-above",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337082"
+}
