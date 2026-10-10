@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369915,
+  "name": "Asteroidia",
+  "source_url": "https://www.igdb.com/games/asteroidia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajsw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Asteroidia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3434460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3434460",
+        "Linux": "setsid steam steam://rungameid/3434460",
+        "macOS": "open steam://rungameid/3434460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "asteroidia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369915"
+}
