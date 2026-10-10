@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335365,
+  "name": "Hex and Chill",
+  "source_url": "https://www.igdb.com/games/hex-and-chill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ltd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hex and Chill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3584660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3584660",
+        "Linux": "setsid steam steam://rungameid/3584660",
+        "macOS": "open steam://rungameid/3584660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hex-and-chill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335365"
+}
