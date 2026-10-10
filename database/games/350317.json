@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350317,
+  "name": "Unknowz",
+  "source_url": "https://www.igdb.com/games/unknowz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0ci.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unknowz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3826300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3826300",
+        "Linux": "setsid steam steam://rungameid/3826300",
+        "macOS": "open steam://rungameid/3826300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unknowz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350317"
+}
