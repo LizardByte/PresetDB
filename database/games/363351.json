@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363351,
+  "name": "Magic Brush",
+  "source_url": "https://www.igdb.com/games/magic-brush",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacky.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Brush",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3862830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3862830",
+        "Linux": "setsid steam steam://rungameid/3862830",
+        "macOS": "open steam://rungameid/3862830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-brush",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363351"
+}
