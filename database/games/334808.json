@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334808,
+  "name": "PixZomb",
+  "source_url": "https://www.igdb.com/games/pixzomb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpzr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PixZomb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884930",
+        "Linux": "setsid steam steam://rungameid/884930",
+        "macOS": "open steam://rungameid/884930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pixzomb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334808"
+}
