@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338612,
+  "name": "Trapped Out",
+  "source_url": "https://www.igdb.com/games/trapped-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaggf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trapped Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3033430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3033430",
+        "Linux": "setsid steam steam://rungameid/3033430",
+        "macOS": "open steam://rungameid/3033430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trapped-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338612"
+}
