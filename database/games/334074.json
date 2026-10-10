@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334074,
+  "name": "Bad Summer",
+  "source_url": "https://www.igdb.com/games/bad-summer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabx9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bad Summer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3318500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3318500",
+        "Linux": "setsid steam steam://rungameid/3318500",
+        "macOS": "open steam://rungameid/3318500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bad-summer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334074"
+}
