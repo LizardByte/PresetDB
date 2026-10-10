@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333398,
+  "name": "Infernal Chess",
+  "source_url": "https://www.igdb.com/games/infernal-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9l92.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infernal Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3264310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3264310",
+        "Linux": "setsid steam steam://rungameid/3264310",
+        "macOS": "open steam://rungameid/3264310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infernal-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333398"
+}
