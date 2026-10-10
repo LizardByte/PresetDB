@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365301,
+  "name": "Radiant Starlets",
+  "source_url": "https://www.igdb.com/games/radiant-starlets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaeh6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Radiant Starlets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3986230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3986230",
+        "Linux": "setsid steam steam://rungameid/3986230",
+        "macOS": "open steam://rungameid/3986230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "radiant-starlets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365301"
+}
