@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371704,
+  "name": "Tellyport",
+  "source_url": "https://www.igdb.com/games/tellyport",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamis.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tellyport",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4656760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4656760",
+        "Linux": "setsid steam steam://rungameid/4656760",
+        "macOS": "open steam://rungameid/4656760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tellyport",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371704"
+}
