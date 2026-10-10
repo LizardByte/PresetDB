@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340094,
+  "name": "Remote Realms",
+  "source_url": "https://www.igdb.com/games/remote-realms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8yb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Remote Realms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3713250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3713250",
+        "Linux": "setsid steam steam://rungameid/3713250",
+        "macOS": "open steam://rungameid/3713250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "remote-realms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340094"
+}
