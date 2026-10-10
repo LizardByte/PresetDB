@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333225,
+  "name": "Home Again",
+  "source_url": "https://www.igdb.com/games/home-again",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gb8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Home Again",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3535860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3535860",
+        "Linux": "setsid steam steam://rungameid/3535860",
+        "macOS": "open steam://rungameid/3535860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "home-again",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333225"
+}
