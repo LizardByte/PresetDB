@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 358468,
+  "name": "Rogolf",
+  "source_url": "https://www.igdb.com/games/rogolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob91p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3810020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3810020",
+        "Linux": "setsid steam steam://rungameid/3810020",
+        "macOS": "open steam://rungameid/3810020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=358468"
+}
