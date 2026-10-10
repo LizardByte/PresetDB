@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345053,
+  "name": "Alfons World",
+  "source_url": "https://www.igdb.com/games/alfons-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9uu3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alfons World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3147560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3147560",
+        "Linux": "setsid steam steam://rungameid/3147560",
+        "macOS": "open steam://rungameid/3147560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alfons-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345053"
+}
