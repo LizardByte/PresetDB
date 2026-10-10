@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345011,
+  "name": "Gothic Clicker",
+  "source_url": "https://www.igdb.com/games/gothic-clicker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasje.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gothic Clicker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3055250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3055250",
+        "Linux": "setsid steam steam://rungameid/3055250",
+        "macOS": "open steam://rungameid/3055250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gothic-clicker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345011"
+}
