@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337784,
+  "name": "9 Games, 2 Buttons",
+  "source_url": "https://www.igdb.com/games/9-games-2-buttons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lvt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "9 Games, 2 Buttons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111280",
+        "Linux": "setsid steam steam://rungameid/1111280",
+        "macOS": "open steam://rungameid/1111280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "9-games-2-buttons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337784"
+}
