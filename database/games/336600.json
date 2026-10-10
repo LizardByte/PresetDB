@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336600,
+  "name": "All that Glitters",
+  "source_url": "https://www.igdb.com/games/all-that-glitters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9koy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All that Glitters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3288100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3288100",
+        "Linux": "setsid steam steam://rungameid/3288100",
+        "macOS": "open steam://rungameid/3288100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "all-that-glitters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336600"
+}
