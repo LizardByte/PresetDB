@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 358999,
+  "name": "Chess, Texas",
+  "source_url": "https://www.igdb.com/games/chess-texas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7ut.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess, Texas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3826950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3826950",
+        "Linux": "setsid steam steam://rungameid/3826950",
+        "macOS": "open steam://rungameid/3826950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-texas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=358999"
+}
