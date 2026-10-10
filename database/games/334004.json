@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334004,
+  "name": "Edd Skeleton Game",
+  "source_url": "https://www.igdb.com/games/edd-skeleton-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9iid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edd Skeleton Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3160840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3160840",
+        "Linux": "setsid steam steam://rungameid/3160840",
+        "macOS": "open steam://rungameid/3160840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "edd-skeleton-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334004"
+}
