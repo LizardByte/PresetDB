@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333324,
+  "name": "Consumables",
+  "source_url": "https://www.igdb.com/games/consumables",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9krf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Consumables",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3407310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3407310",
+        "Linux": "setsid steam steam://rungameid/3407310",
+        "macOS": "open steam://rungameid/3407310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "consumables",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333324"
+}
