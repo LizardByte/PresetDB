@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341474,
+  "name": "Snow Cone",
+  "source_url": "https://www.igdb.com/games/snow-cone--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pz5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snow Cone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2445270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2445270",
+        "Linux": "setsid steam steam://rungameid/2445270",
+        "macOS": "open steam://rungameid/2445270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snow-cone--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341474"
+}
