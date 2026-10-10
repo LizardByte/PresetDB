@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371007,
+  "name": "Skyborne Chronicles",
+  "source_url": "https://www.igdb.com/games/skyborne-chronicles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coam5g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skyborne Chronicles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4043570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4043570",
+        "Linux": "setsid steam steam://rungameid/4043570",
+        "macOS": "open steam://rungameid/4043570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skyborne-chronicles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371007"
+}
