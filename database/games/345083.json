@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345083,
+  "name": "Ashes of Morgravia",
+  "source_url": "https://www.igdb.com/games/ashes-of-morgravia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxv4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ashes of Morgravia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3316960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3316960",
+        "Linux": "setsid steam steam://rungameid/3316960",
+        "macOS": "open steam://rungameid/3316960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ashes-of-morgravia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345083"
+}
