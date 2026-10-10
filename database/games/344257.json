@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344257,
+  "name": "Loop",
+  "source_url": "https://www.igdb.com/games/loop--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob071.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2365200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2365200",
+        "Linux": "setsid steam steam://rungameid/2365200",
+        "macOS": "open steam://rungameid/2365200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "loop--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344257"
+}
