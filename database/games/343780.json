@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343780,
+  "name": "Frantic Oceans",
+  "source_url": "https://www.igdb.com/games/frantic-oceans",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpsj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frantic Oceans",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111190",
+        "Linux": "setsid steam steam://rungameid/1111190",
+        "macOS": "open steam://rungameid/1111190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frantic-oceans",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343780"
+}
