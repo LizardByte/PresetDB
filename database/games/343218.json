@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343218,
+  "name": "Card Streamer Simulator",
+  "source_url": "https://www.igdb.com/games/card-streamer-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9skn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Card Streamer Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3592240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3592240",
+        "Linux": "setsid steam steam://rungameid/3592240",
+        "macOS": "open steam://rungameid/3592240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "card-streamer-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343218"
+}
