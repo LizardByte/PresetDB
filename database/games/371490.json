@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371490,
+  "name": "Terpenie",
+  "source_url": "https://www.igdb.com/games/terpenie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coam80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terpenie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4028600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4028600",
+        "Linux": "setsid steam steam://rungameid/4028600",
+        "macOS": "open steam://rungameid/4028600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terpenie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371490"
+}
