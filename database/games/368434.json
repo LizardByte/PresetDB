@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368434,
+  "name": "Stayhome Simulator",
+  "source_url": "https://www.igdb.com/games/stayhome-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai3f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stayhome Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1285000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1285000",
+        "Linux": "setsid steam steam://rungameid/1285000",
+        "macOS": "open steam://rungameid/1285000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stayhome-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368434"
+}
