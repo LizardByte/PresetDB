@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361267,
+  "name": "Cloudy Day",
+  "source_url": "https://www.igdb.com/games/cloudy-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaa8q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloudy Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3937810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3937810",
+        "Linux": "setsid steam steam://rungameid/3937810",
+        "macOS": "open steam://rungameid/3937810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cloudy-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361267"
+}
