@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345387,
+  "name": "The Survivors",
+  "source_url": "https://www.igdb.com/games/the-survivors--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaz6a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2264410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2264410",
+        "Linux": "setsid steam steam://rungameid/2264410",
+        "macOS": "open steam://rungameid/2264410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-survivors--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345387"
+}
