@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342267,
+  "name": "Neverland",
+  "source_url": "https://www.igdb.com/games/neverland--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobi3z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neverland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3147690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3147690",
+        "Linux": "setsid steam steam://rungameid/3147690",
+        "macOS": "open steam://rungameid/3147690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neverland--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342267"
+}
