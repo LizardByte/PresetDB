@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349450,
+  "name": "DepthLess",
+  "source_url": "https://www.igdb.com/games/depthless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9zaa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DepthLess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3791400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3791400",
+        "Linux": "setsid steam steam://rungameid/3791400",
+        "macOS": "open steam://rungameid/3791400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "depthless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349450"
+}
