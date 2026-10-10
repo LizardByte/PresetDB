@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370227,
+  "name": "Little Pilot",
+  "source_url": "https://www.igdb.com/games/little-pilot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coak7t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Pilot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3720680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3720680",
+        "Linux": "setsid steam steam://rungameid/3720680",
+        "macOS": "open steam://rungameid/3720680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-pilot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370227"
+}
