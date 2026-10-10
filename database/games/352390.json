@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352390,
+  "name": "Mirealle",
+  "source_url": "https://www.igdb.com/games/mirealle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mirealle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3701140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3701140",
+        "Linux": "setsid steam steam://rungameid/3701140",
+        "macOS": "open steam://rungameid/3701140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mirealle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352390"
+}
