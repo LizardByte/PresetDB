@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359103,
+  "name": "R.E.M. Rage",
+  "source_url": "https://www.igdb.com/games/rem-rage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7yt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "R.E.M. Rage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3845930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3845930",
+        "Linux": "setsid steam steam://rungameid/3845930",
+        "macOS": "open steam://rungameid/3845930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rem-rage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359103"
+}
