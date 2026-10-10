@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336034,
+  "name": "Skarab",
+  "source_url": "https://www.igdb.com/games/skarab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qgg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skarab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3557830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3557830",
+        "Linux": "setsid steam steam://rungameid/3557830",
+        "macOS": "open steam://rungameid/3557830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skarab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336034"
+}
