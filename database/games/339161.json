@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339161,
+  "name": "Little Spaceman",
+  "source_url": "https://www.igdb.com/games/little-spaceman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9n5c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Spaceman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3560680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3560680",
+        "Linux": "setsid steam steam://rungameid/3560680",
+        "macOS": "open steam://rungameid/3560680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-spaceman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339161"
+}
