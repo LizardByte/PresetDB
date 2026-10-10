@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361005,
+  "name": "All At Once",
+  "source_url": "https://www.igdb.com/games/all-at-once--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaa02.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All At Once",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3935960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3935960",
+        "Linux": "setsid steam steam://rungameid/3935960",
+        "macOS": "open steam://rungameid/3935960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "all-at-once--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361005"
+}
