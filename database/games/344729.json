@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344729,
+  "name": "The Last Dig",
+  "source_url": "https://www.igdb.com/games/the-last-dig",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ud3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Dig",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3205800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3205800",
+        "Linux": "setsid steam steam://rungameid/3205800",
+        "macOS": "open steam://rungameid/3205800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-dig",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344729"
+}
