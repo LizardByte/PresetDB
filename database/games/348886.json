@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348886,
+  "name": "Chubby Cats",
+  "source_url": "https://www.igdb.com/games/chubby-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ynr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chubby Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3588660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3588660",
+        "Linux": "setsid steam steam://rungameid/3588660",
+        "macOS": "open steam://rungameid/3588660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chubby-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348886"
+}
