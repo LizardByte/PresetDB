@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368430,
+  "name": "Neave",
+  "source_url": "https://www.igdb.com/games/neave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai3b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1261010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1261010",
+        "Linux": "setsid steam steam://rungameid/1261010",
+        "macOS": "open steam://rungameid/1261010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368430"
+}
