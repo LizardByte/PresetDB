@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345412,
+  "name": "Hexbound",
+  "source_url": "https://www.igdb.com/games/hexbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9v6t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3554020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3554020",
+        "Linux": "setsid steam steam://rungameid/3554020",
+        "macOS": "open steam://rungameid/3554020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345412"
+}
