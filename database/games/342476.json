@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342476,
+  "name": "Waiting for Reply",
+  "source_url": "https://www.igdb.com/games/waiting-for-reply",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rcz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waiting for Reply",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3576890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3576890",
+        "Linux": "setsid steam steam://rungameid/3576890",
+        "macOS": "open steam://rungameid/3576890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waiting-for-reply",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342476"
+}
