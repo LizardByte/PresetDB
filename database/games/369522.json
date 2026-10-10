@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369522,
+  "name": "Angry Cubes",
+  "source_url": "https://www.igdb.com/games/angry-cubes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj9b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Angry Cubes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2299280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2299280",
+        "Linux": "setsid steam steam://rungameid/2299280",
+        "macOS": "open steam://rungameid/2299280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "angry-cubes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369522"
+}
