@@ -67,6 +67,59 @@ test('approval labels serialize requests and promote the oldest queued issue', a
   assert.ok(actions.some(action => action[0] === 'add' && action[1] === 2 && action[2] === 'approve-preset'));
 });
 
+test('releasing an open approval removes both labels in order before promoting the next issue', async () => {
+  const current = issue(1, '2026-01-01T00:00:00Z');
+  const queued = issue(2, '2026-01-02T00:00:00Z');
+  current.labels.push({ name: 'approve-preset' }, { name: 'approve-queue' });
+  queued.labels.push({ name: 'approve-queue' });
+  const { github, actions } = mockGithub([current, queued]);
+  const context = { repo: { owner: 'LizardByte', repo: 'PresetDB' }, issue: { number: 1 } };
+  const removeLabel = github.rest.issues.removeLabel;
+  let finishRemoval;
+  github.rest.issues.removeLabel = async params => {
+    if (params.name === 'approve-preset') {
+      await new Promise(resolve => { finishRemoval = resolve; });
+    }
+    return removeLabel(params);
+  };
+  const releasing = releaseAndPromote({ github, context });
+  await new Promise(resolve => setImmediate(resolve));
+  assert.deepEqual(actions, []);
+  finishRemoval();
+  assert.equal((await releasing).number, 2);
+  assert.deepEqual(actions, [
+    ['remove', 1, 'approve-preset'], ['remove', 1, 'approve-queue'], ['add', 2, 'approve-preset']
+  ]);
+});
+
+test('label removal failures stop release without removing the next label or promoting an issue', async () => {
+  const current = issue(1, '2026-01-01T00:00:00Z');
+  const queued = issue(2, '2026-01-02T00:00:00Z');
+  current.labels.push({ name: 'approve-preset' }, { name: 'approve-queue' });
+  queued.labels.push({ name: 'approve-queue' });
+  const { github, actions } = mockGithub([current, queued]);
+  const failedLabels = [];
+  github.rest.issues.removeLabel = async ({ name }) => {
+    failedLabels.push(name);
+    throw new Error('Label removal failed');
+  };
+  await assert.rejects(releaseAndPromote({ github,
+    context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, issue: { number: 1 } } }),
+  /Label removal failed/);
+  assert.deepEqual(failedLabels, ['approve-preset']);
+  assert.deepEqual(actions, []);
+});
+
+test('release skips absent labels and leaves another active approval in charge', async () => {
+  const current = issue(1, '2026-01-01T00:00:00Z');
+  const active = issue(2, '2026-01-02T00:00:00Z');
+  active.labels.push({ name: 'approve-preset' });
+  const { github, actions } = mockGithub([current, active]);
+  assert.equal(await releaseAndPromote({ github,
+    context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, issue: { number: 1 } } }), null);
+  assert.deepEqual(actions, []);
+});
+
 test('bot approval commands require an approver or repository admin', async () => {
   const current = issue(5, '2026-01-01T00:00:00Z');
   const { github } = mockGithub([current]);
@@ -98,8 +151,87 @@ test('approval stops when an issue changes after it was queued', async () => {
 
 test('workflow wait exits when no older approval is running', async () => {
   const { github } = mockGithub([]);
+  github.paginate = async () => [
+    { id: 5, status: 'in_progress', display_title: 'approve-preset current' },
+    { id: 6, status: 'in_progress', display_title: 'approve-preset newer' },
+    { id: 1, status: 'completed', display_title: 'approve-preset completed' },
+    { id: 2, status: 'in_progress', display_title: 'another workflow' },
+    { id: 3, status: 'in_progress' }
+  ];
   await assert.doesNotReject(waitForOlderApprovals({ github,
     context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, runId: 5 } }));
+});
+
+test('workflow wait polls at the configured interval until the older approval finishes', async t => {
+  t.mock.timers.enable({ apis: ['setTimeout', 'Date'], now: 1000 });
+  const { github } = mockGithub([]);
+  const calls = [];
+  github.paginate = async (endpoint, params) => {
+    calls.push({ endpoint, params });
+    return calls.length < 3 ? [{ id: 1, status: 'in_progress', display_title: 'approve-preset older' }] : [];
+  };
+  let finished = false;
+  const waiting = waitForOlderApprovals({ github, intervalMs: 50, timeoutMs: 200,
+    context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, runId: 5 } }).then(() => {
+    finished = true;
+  });
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(calls.length, 1);
+  assert.equal(finished, false);
+  assert.equal(calls[0].endpoint, github.rest.actions.listWorkflowRuns);
+  assert.deepEqual(calls[0].params, {
+    owner: 'LizardByte', repo: 'PresetDB', workflow_id: 'approve-preset.yml',
+    status: 'in_progress', per_page: 100
+  });
+  t.mock.timers.tick(49);
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(calls.length, 1);
+  t.mock.timers.tick(1);
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(calls.length, 2);
+  assert.equal(finished, false);
+  t.mock.timers.tick(50);
+  await waiting;
+  assert.equal(calls.length, 3);
+  assert.equal(finished, true);
+});
+
+test('workflow wait keeps the original timeout across polling attempts', async t => {
+  t.mock.timers.enable({ apis: ['setTimeout', 'Date'], now: 1000 });
+  const { github } = mockGithub([]);
+  let calls = 0;
+  github.paginate = async () => {
+    calls++;
+    return [{ id: 1, status: 'in_progress', display_title: 'approve-preset older' }];
+  };
+  const timedOut = assert.rejects(waitForOlderApprovals({ github, intervalMs: 50, timeoutMs: 100,
+    context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, runId: 5 } }),
+  /Timed out waiting for older approval run 1/);
+  await new Promise(resolve => setImmediate(resolve));
+  t.mock.timers.tick(50);
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(calls, 2);
+  t.mock.timers.tick(50);
+  await timedOut;
+  assert.equal(calls, 3);
+});
+
+test('workflow wait propagates a polling failure without scheduling another attempt', async t => {
+  t.mock.timers.enable({ apis: ['setTimeout', 'Date'], now: 1000 });
+  const { github } = mockGithub([]);
+  let calls = 0;
+  github.paginate = async () => {
+    calls++;
+    if (calls === 2) throw new Error('Workflow lookup failed');
+    return [{ id: 1, status: 'in_progress', display_title: 'approve-preset older' }];
+  };
+  const failed = assert.rejects(waitForOlderApprovals({ github, intervalMs: 50,
+    context: { repo: { owner: 'LizardByte', repo: 'PresetDB' }, runId: 5 } }), /Workflow lookup failed/);
+  await new Promise(resolve => setImmediate(resolve));
+  t.mock.timers.tick(50);
+  await failed;
+  t.mock.timers.tick(50);
+  assert.equal(calls, 2);
 });
 
 test('published statistics count approvals and escape contributor names', () => {

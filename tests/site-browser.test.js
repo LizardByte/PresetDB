@@ -182,6 +182,19 @@ test('selecting a card keeps its direct link and superseded detail responses can
   assert.equal(controls['preset-detail'].children[0].textContent, 'Second game');
 });
 
+test('selecting a card reports a rejected record fetch in the detail panel', async t => {
+  const { controls, worker } = fixture(t);
+  globalThis.fetch = async () => { throw new Error('Record request failed'); };
+  boot();
+  worker().handlers.message({ data: { id: worker().messages[0].id, result: result() } });
+  controls['preset-list'].children[0].children[0].handlers.click();
+  await new Promise(resolve => setImmediate(resolve));
+  assert.equal(new URL(location.href).searchParams.get('id'), '1');
+  assert.equal(controls['preset-detail'].hidden, false);
+  assert.equal(controls['preset-detail'].children[0].textContent,
+    'Could not load presets: Record request failed');
+});
+
 test('record fetch failures and worker construction failures show usable errors', async t => {
   const { controls } = fixture(t, '?kind=game&id=42');
   globalThis.Worker = class { constructor() { throw new Error('blocked'); } };

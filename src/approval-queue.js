@@ -61,9 +61,11 @@ async function releaseAndPromote({ github, context, issueNumber = context.issue.
   const params = { ...repoParams(context), issue_number: issueNumber };
   const { data: issue } = await github.rest.issues.get(params);
   const labels = labelNames(issue);
-  const labelsToRemove = issue.state === 'closed' ? [QUEUE_LABEL] : [APPROVE_LABEL, QUEUE_LABEL];
-  for (const label of labelsToRemove) {
-    if (labels.has(label)) await github.rest.issues.removeLabel({ ...params, name: label });
+  if (issue.state !== 'closed' && labels.has(APPROVE_LABEL)) {
+    await github.rest.issues.removeLabel({ ...params, name: APPROVE_LABEL });
+  }
+  if (labels.has(QUEUE_LABEL)) {
+    await github.rest.issues.removeLabel({ ...params, name: QUEUE_LABEL });
   }
   if (await hasActiveApproval({ github, context, issueNumber })) return null;
   const queued = await listOpenIssuesWithLabel({ github, context, label: QUEUE_LABEL });
