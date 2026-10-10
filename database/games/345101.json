@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345101,
+  "name": "Stickility",
+  "source_url": "https://www.igdb.com/games/stickility",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjz9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stickility",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3419140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3419140",
+        "Linux": "setsid steam steam://rungameid/3419140",
+        "macOS": "open steam://rungameid/3419140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stickility",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345101"
+}
