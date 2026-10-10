@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368201,
+  "name": "Virus Survivor",
+  "source_url": "https://www.igdb.com/games/virus-survivor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai09.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virus Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2265870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2265870",
+        "Linux": "setsid steam steam://rungameid/2265870",
+        "macOS": "open steam://rungameid/2265870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virus-survivor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368201"
+}
