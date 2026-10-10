@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333376,
+  "name": "Rogunky",
+  "source_url": "https://www.igdb.com/games/rogunky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9l8i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogunky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3049010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3049010",
+        "Linux": "setsid steam steam://rungameid/3049010",
+        "macOS": "open steam://rungameid/3049010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogunky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333376"
+}
