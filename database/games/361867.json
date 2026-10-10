@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361867,
+  "name": "Smash 'N Grab",
+  "source_url": "https://www.igdb.com/games/smash-n-grab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobr9g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smash 'N Grab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3851460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3851460",
+        "Linux": "setsid steam steam://rungameid/3851460",
+        "macOS": "open steam://rungameid/3851460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smash-n-grab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361867"
+}
