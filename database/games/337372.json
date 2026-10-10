@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337372,
+  "name": "Magic Soldier",
+  "source_url": "https://www.igdb.com/games/magic-soldier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lgt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Soldier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3488490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3488490",
+        "Linux": "setsid steam steam://rungameid/3488490",
+        "macOS": "open steam://rungameid/3488490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-soldier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337372"
+}
