@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368594,
+  "name": "Simple Zombie Survival",
+  "source_url": "https://www.igdb.com/games/simple-zombie-survival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai9m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Simple Zombie Survival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3800900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3800900",
+        "Linux": "setsid steam steam://rungameid/3800900",
+        "macOS": "open steam://rungameid/3800900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "simple-zombie-survival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368594"
+}
