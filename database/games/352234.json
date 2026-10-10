@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352234,
+  "name": "Knight vs. Monsters",
+  "source_url": "https://www.igdb.com/games/knight-vs-monsters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2gi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knight vs. Monsters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3801570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3801570",
+        "Linux": "setsid steam steam://rungameid/3801570",
+        "macOS": "open steam://rungameid/3801570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knight-vs-monsters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352234"
+}
