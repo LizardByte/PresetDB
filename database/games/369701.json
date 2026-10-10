@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369701,
+  "name": "Akiba Lost",
+  "source_url": "https://www.igdb.com/games/akiba-lost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajhs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Akiba Lost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4131220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4131220",
+        "Linux": "setsid steam steam://rungameid/4131220",
+        "macOS": "open steam://rungameid/4131220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "akiba-lost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369701"
+}
