@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345404,
+  "name": "Zombiemachia",
+  "source_url": "https://www.igdb.com/games/zombiemachia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9v6n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zombiemachia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3240000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3240000",
+        "Linux": "setsid steam steam://rungameid/3240000",
+        "macOS": "open steam://rungameid/3240000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zombiemachia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345404"
+}
