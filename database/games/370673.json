@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370673,
+  "name": "This Is Love",
+  "source_url": "https://www.igdb.com/games/this-is-love",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coal1e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This Is Love",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3520300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3520300",
+        "Linux": "setsid steam steam://rungameid/3520300",
+        "macOS": "open steam://rungameid/3520300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-is-love",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370673"
+}
