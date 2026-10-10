@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372748,
+  "name": "ClassBoom",
+  "source_url": "https://www.igdb.com/games/classboom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ClassBoom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3883870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3883870",
+        "Linux": "setsid steam steam://rungameid/3883870",
+        "macOS": "open steam://rungameid/3883870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "classboom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372748"
+}
