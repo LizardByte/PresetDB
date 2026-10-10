@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333048,
+  "name": "Spamware",
+  "source_url": "https://www.igdb.com/games/spamware",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g3j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spamware",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3405430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3405430",
+        "Linux": "setsid steam steam://rungameid/3405430",
+        "macOS": "open steam://rungameid/3405430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spamware",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333048"
+}
