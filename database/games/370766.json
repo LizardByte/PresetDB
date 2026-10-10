@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370766,
+  "name": "Arcane Rift",
+  "source_url": "https://www.igdb.com/games/arcane-rift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalrf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcane Rift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4034720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4034720",
+        "Linux": "setsid steam steam://rungameid/4034720",
+        "macOS": "open steam://rungameid/4034720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcane-rift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370766"
+}
