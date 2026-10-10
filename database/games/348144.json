@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348144,
+  "name": "My Last 20",
+  "source_url": "https://www.igdb.com/games/my-last-20",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yem.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Last 20",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2213990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2213990",
+        "Linux": "setsid steam steam://rungameid/2213990",
+        "macOS": "open steam://rungameid/2213990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-last-20",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348144"
+}
