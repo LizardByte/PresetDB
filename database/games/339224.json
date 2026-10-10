@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339224,
+  "name": "Welcome to Brightville",
+  "source_url": "https://www.igdb.com/games/welcome-to-brightville",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nc8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Brightville",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3541250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3541250",
+        "Linux": "setsid steam steam://rungameid/3541250",
+        "macOS": "open steam://rungameid/3541250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-brightville",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339224"
+}
