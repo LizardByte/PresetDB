@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333773,
+  "name": "Void Collector",
+  "source_url": "https://www.igdb.com/games/void-collector",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9tod.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Collector",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3074240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3074240",
+        "Linux": "setsid steam steam://rungameid/3074240",
+        "macOS": "open steam://rungameid/3074240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-collector",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333773"
+}
