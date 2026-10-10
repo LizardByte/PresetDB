@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340049,
+  "name": "Face The Abyss",
+  "source_url": "https://www.igdb.com/games/face-the-abyss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob46h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Face The Abyss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3111800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3111800",
+        "Linux": "setsid steam steam://rungameid/3111800",
+        "macOS": "open steam://rungameid/3111800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "face-the-abyss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340049"
+}
