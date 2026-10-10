@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340104,
+  "name": "Niut",
+  "source_url": "https://www.igdb.com/games/niut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9obn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Niut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3566140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3566140",
+        "Linux": "setsid steam steam://rungameid/3566140",
+        "macOS": "open steam://rungameid/3566140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "niut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340104"
+}
