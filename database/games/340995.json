@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340995,
+  "name": "Election Day",
+  "source_url": "https://www.igdb.com/games/election-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9phu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Election Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3408010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3408010",
+        "Linux": "setsid steam steam://rungameid/3408010",
+        "macOS": "open steam://rungameid/3408010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "election-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340995"
+}
