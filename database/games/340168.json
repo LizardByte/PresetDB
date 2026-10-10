@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340168,
+  "name": "StarDust",
+  "source_url": "https://www.igdb.com/games/stardust--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9oel.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StarDust",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3082510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3082510",
+        "Linux": "setsid steam steam://rungameid/3082510",
+        "macOS": "open steam://rungameid/3082510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stardust--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340168"
+}
