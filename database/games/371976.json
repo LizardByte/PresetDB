@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371976,
+  "name": "Desktop Defender",
+  "source_url": "https://www.igdb.com/games/desktop-defender",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamv5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Defender",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3772810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3772810",
+        "Linux": "setsid steam steam://rungameid/3772810",
+        "macOS": "open steam://rungameid/3772810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-defender",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371976"
+}
