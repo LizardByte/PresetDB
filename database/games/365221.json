@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365221,
+  "name": "The Locked Room",
+  "source_url": "https://www.igdb.com/games/the-locked-room",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaeec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Locked Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3890570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3890570",
+        "Linux": "setsid steam steam://rungameid/3890570",
+        "macOS": "open steam://rungameid/3890570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-locked-room",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365221"
+}
