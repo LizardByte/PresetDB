@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341318,
+  "name": "Pwn!",
+  "source_url": "https://www.igdb.com/games/pwn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4so.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pwn!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3000000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3000000",
+        "Linux": "setsid steam steam://rungameid/3000000",
+        "macOS": "open steam://rungameid/3000000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pwn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341318"
+}
