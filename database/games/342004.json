@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342004,
+  "name": "Tokei",
+  "source_url": "https://www.igdb.com/games/tokei",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2hn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tokei",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4245120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4245120",
+        "Linux": "setsid steam steam://rungameid/4245120",
+        "macOS": "open steam://rungameid/4245120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tokei",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342004"
+}
