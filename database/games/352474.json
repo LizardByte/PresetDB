@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352474,
+  "name": "The Last Captain",
+  "source_url": "https://www.igdb.com/games/the-last-captain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2pr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Captain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3700200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3700200",
+        "Linux": "setsid steam steam://rungameid/3700200",
+        "macOS": "open steam://rungameid/3700200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-captain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352474"
+}
