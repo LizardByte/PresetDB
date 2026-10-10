@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371611,
+  "name": "Magic Click",
+  "source_url": "https://www.igdb.com/games/magic-click",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamgk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Click",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2084090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2084090",
+        "Linux": "setsid steam steam://rungameid/2084090",
+        "macOS": "open steam://rungameid/2084090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-click",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371611"
+}
