@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369903,
+  "name": "Cocaine Dealer",
+  "source_url": "https://www.igdb.com/games/cocaine-dealer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajsi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cocaine Dealer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1341300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1341300",
+        "Linux": "setsid steam steam://rungameid/1341300",
+        "macOS": "open steam://rungameid/1341300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cocaine-dealer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369903"
+}
