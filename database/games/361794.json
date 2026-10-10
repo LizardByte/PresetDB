@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361794,
+  "name": "HoloRun",
+  "source_url": "https://www.igdb.com/games/holorun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabgt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HoloRun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3389760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3389760",
+        "Linux": "setsid steam steam://rungameid/3389760",
+        "macOS": "open steam://rungameid/3389760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "holorun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361794"
+}
