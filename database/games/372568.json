@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372568,
+  "name": "You",
+  "source_url": "https://www.igdb.com/games/you--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanlk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3736750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3736750",
+        "Linux": "setsid steam steam://rungameid/3736750",
+        "macOS": "open steam://rungameid/3736750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372568"
+}
