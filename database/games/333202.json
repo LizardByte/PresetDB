@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333202,
+  "name": "This is Kiko",
+  "source_url": "https://www.igdb.com/games/this-is-kiko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ggk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This is Kiko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3486630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3486630",
+        "Linux": "setsid steam steam://rungameid/3486630",
+        "macOS": "open steam://rungameid/3486630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-is-kiko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333202"
+}
