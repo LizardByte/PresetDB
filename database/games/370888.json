@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370888,
+  "name": "This Game is Crap",
+  "source_url": "https://www.igdb.com/games/this-game-is-crap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap11.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This Game is Crap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1753670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1753670",
+        "Linux": "setsid steam steam://rungameid/1753670",
+        "macOS": "open steam://rungameid/1753670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-game-is-crap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370888"
+}
