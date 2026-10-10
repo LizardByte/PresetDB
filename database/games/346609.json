@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346609,
+  "name": "Tiny Eden",
+  "source_url": "https://www.igdb.com/games/tiny-eden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdzw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny Eden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3375110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3375110",
+        "Linux": "setsid steam steam://rungameid/3375110",
+        "macOS": "open steam://rungameid/3375110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-eden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346609"
+}
