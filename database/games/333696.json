@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333696,
+  "name": "Slimg",
+  "source_url": "https://www.igdb.com/games/slimg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gsm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slimg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3331120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3331120",
+        "Linux": "setsid steam steam://rungameid/3331120",
+        "macOS": "open steam://rungameid/3331120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slimg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333696"
+}
