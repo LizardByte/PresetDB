@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348112,
+  "name": "Phantom House",
+  "source_url": "https://www.igdb.com/games/phantom-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ydu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phantom House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3463020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3463020",
+        "Linux": "setsid steam steam://rungameid/3463020",
+        "macOS": "open steam://rungameid/3463020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phantom-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348112"
+}
