@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 356616,
+  "name": "The Seven",
+  "source_url": "https://www.igdb.com/games/the-seven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa5sx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Seven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3806030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3806030",
+        "Linux": "setsid steam steam://rungameid/3806030",
+        "macOS": "open steam://rungameid/3806030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-seven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=356616"
+}
