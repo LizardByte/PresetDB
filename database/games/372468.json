@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372468,
+  "name": "Next Run",
+  "source_url": "https://www.igdb.com/games/next-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coang0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Next Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1295870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1295870",
+        "Linux": "setsid steam steam://rungameid/1295870",
+        "macOS": "open steam://rungameid/1295870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "next-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372468"
+}
