@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340289,
+  "name": "Providence",
+  "source_url": "https://www.igdb.com/games/providence--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa17t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Providence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3643600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3643600",
+        "Linux": "setsid steam steam://rungameid/3643600",
+        "macOS": "open steam://rungameid/3643600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "providence--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340289"
+}
