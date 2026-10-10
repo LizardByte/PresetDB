@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340091,
+  "name": "Forest Asylum",
+  "source_url": "https://www.igdb.com/games/forest-asylum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2n1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forest Asylum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3512200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3512200",
+        "Linux": "setsid steam steam://rungameid/3512200",
+        "macOS": "open steam://rungameid/3512200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forest-asylum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340091"
+}
