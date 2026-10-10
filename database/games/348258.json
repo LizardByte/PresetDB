@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348258,
+  "name": "Touch Fish",
+  "source_url": "https://www.igdb.com/games/touch-fish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ygi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Touch Fish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3498710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3498710",
+        "Linux": "setsid steam steam://rungameid/3498710",
+        "macOS": "open steam://rungameid/3498710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "touch-fish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348258"
+}
