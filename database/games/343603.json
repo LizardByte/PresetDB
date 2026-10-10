@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343603,
+  "name": "Cursed",
+  "source_url": "https://www.igdb.com/games/cursed--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0il.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cursed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2208160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2208160",
+        "Linux": "setsid steam steam://rungameid/2208160",
+        "macOS": "open steam://rungameid/2208160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cursed--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343603"
+}
