@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365832,
+  "name": "Do Up",
+  "source_url": "https://www.igdb.com/games/do-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamar.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Do Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3617750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3617750",
+        "Linux": "setsid steam steam://rungameid/3617750",
+        "macOS": "open steam://rungameid/3617750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "do-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365832"
+}
