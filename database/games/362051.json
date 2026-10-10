@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 362051,
+  "name": "Global Rescue",
+  "source_url": "https://www.igdb.com/games/global-rescue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazj3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Global Rescue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2873660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2873660",
+        "Linux": "setsid steam steam://rungameid/2873660",
+        "macOS": "open steam://rungameid/2873660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "global-rescue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=362051"
+}
