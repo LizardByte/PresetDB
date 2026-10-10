@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374158,
+  "name": "Buy Sell",
+  "source_url": "https://www.igdb.com/games/buy-sell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapdp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Buy Sell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3982000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3982000",
+        "Linux": "setsid steam steam://rungameid/3982000",
+        "macOS": "open steam://rungameid/3982000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "buy-sell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374158"
+}
