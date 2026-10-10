@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 356015,
+  "name": "FlippUp",
+  "source_url": "https://www.igdb.com/games/flippup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6dt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FlippUp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3854060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3854060",
+        "Linux": "setsid steam steam://rungameid/3854060",
+        "macOS": "open steam://rungameid/3854060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flippup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=356015"
+}
