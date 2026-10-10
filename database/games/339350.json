@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339350,
+  "name": "Cube",
+  "source_url": "https://www.igdb.com/games/cube--12",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coco0d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2798380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2798380",
+        "Linux": "setsid steam steam://rungameid/2798380",
+        "macOS": "open steam://rungameid/2798380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube--12",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339350"
+}
