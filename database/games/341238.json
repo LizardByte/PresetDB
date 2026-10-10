@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341238,
+  "name": "Mini Mania",
+  "source_url": "https://www.igdb.com/games/mini-mania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coan7n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Mania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3137690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3137690",
+        "Linux": "setsid steam steam://rungameid/3137690",
+        "macOS": "open steam://rungameid/3137690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-mania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341238"
+}
