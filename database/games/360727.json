@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360727,
+  "name": "Red River",
+  "source_url": "https://www.igdb.com/games/red-river",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9n8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red River",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1378790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1378790",
+        "Linux": "setsid steam steam://rungameid/1378790",
+        "macOS": "open steam://rungameid/1378790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-river",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360727"
+}
