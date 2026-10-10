@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366985,
+  "name": "Wretch",
+  "source_url": "https://www.igdb.com/games/wretch--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wretch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3216280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3216280",
+        "Linux": "setsid steam steam://rungameid/3216280",
+        "macOS": "open steam://rungameid/3216280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wretch--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366985"
+}
