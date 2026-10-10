@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336622,
+  "name": "Mecha",
+  "source_url": "https://www.igdb.com/games/mecha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lkr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mecha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3359470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3359470",
+        "Linux": "setsid steam steam://rungameid/3359470",
+        "macOS": "open steam://rungameid/3359470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mecha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336622"
+}
