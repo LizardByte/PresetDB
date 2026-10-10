@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338446,
+  "name": "Breecell",
+  "source_url": "https://www.igdb.com/games/breecell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Breecell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3271020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3271020",
+        "Linux": "setsid steam steam://rungameid/3271020",
+        "macOS": "open steam://rungameid/3271020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "breecell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338446"
+}
