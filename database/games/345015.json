@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345015,
+  "name": "Legacy of Defense",
+  "source_url": "https://www.igdb.com/games/legacy-of-defense",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vqv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legacy of Defense",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3135200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3135200",
+        "Linux": "setsid steam steam://rungameid/3135200",
+        "macOS": "open steam://rungameid/3135200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legacy-of-defense",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345015"
+}
