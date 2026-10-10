@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330563,
+  "name": "Gemporium",
+  "source_url": "https://www.igdb.com/games/gemporium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9tzk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gemporium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2836100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2836100",
+        "Linux": "setsid steam steam://rungameid/2836100",
+        "macOS": "open steam://rungameid/2836100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gemporium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330563"
+}
