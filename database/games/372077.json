@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372077,
+  "name": "TPK",
+  "source_url": "https://www.igdb.com/games/tpk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamye.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TPK",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3729800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3729800",
+        "Linux": "setsid steam steam://rungameid/3729800",
+        "macOS": "open steam://rungameid/3729800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tpk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372077"
+}
