@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340294,
+  "name": "GawaiiGo",
+  "source_url": "https://www.igdb.com/games/gawaiigo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9oi8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GawaiiGo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075270",
+        "Linux": "setsid steam steam://rungameid/3075270",
+        "macOS": "open steam://rungameid/3075270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gawaiigo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340294"
+}
