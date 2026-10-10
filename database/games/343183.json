@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343183,
+  "name": "Mimesis",
+  "source_url": "https://www.igdb.com/games/mimesis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coat5o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mimesis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2827200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2827200",
+        "Linux": "setsid steam steam://rungameid/2827200",
+        "macOS": "open steam://rungameid/2827200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mimesis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343183"
+}
