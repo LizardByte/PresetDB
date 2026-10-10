@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339649,
+  "name": "Off the Shelf!",
+  "source_url": "https://www.igdb.com/games/off-the-shelf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Off the Shelf!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3584250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3584250",
+        "Linux": "setsid steam steam://rungameid/3584250",
+        "macOS": "open steam://rungameid/3584250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "off-the-shelf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339649"
+}
