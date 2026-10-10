@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364995,
+  "name": "Dirty Piggy",
+  "source_url": "https://www.igdb.com/games/dirty-piggy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coae25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dirty Piggy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3913550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3913550",
+        "Linux": "setsid steam steam://rungameid/3913550",
+        "macOS": "open steam://rungameid/3913550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dirty-piggy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364995"
+}
