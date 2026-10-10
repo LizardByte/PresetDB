@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333105,
+  "name": "Drapline",
+  "source_url": "https://www.igdb.com/games/drapline",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7b1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drapline",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3103780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3103780",
+        "Linux": "setsid steam steam://rungameid/3103780",
+        "macOS": "open steam://rungameid/3103780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drapline",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333105"
+}
