@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345924,
+  "name": "Blitzstrike",
+  "source_url": "https://www.igdb.com/games/blitzstrike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2xk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blitzstrike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3654000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3654000",
+        "Linux": "setsid steam steam://rungameid/3654000",
+        "macOS": "open steam://rungameid/3654000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blitzstrike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345924"
+}
