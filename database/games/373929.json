@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373929,
+  "name": "Toy Zombies",
+  "source_url": "https://www.igdb.com/games/toy-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap5l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toy Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3907280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3907280",
+        "Linux": "setsid steam steam://rungameid/3907280",
+        "macOS": "open steam://rungameid/3907280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toy-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373929"
+}
