@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350228,
+  "name": "Yeti Ski",
+  "source_url": "https://www.igdb.com/games/yeti-ski",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa097.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yeti Ski",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3481110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3481110",
+        "Linux": "setsid steam steam://rungameid/3481110",
+        "macOS": "open steam://rungameid/3481110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yeti-ski",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350228"
+}
