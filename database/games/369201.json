@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369201,
+  "name": "Bob Don't Sleep!",
+  "source_url": "https://www.igdb.com/games/bob-dont-sleep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaiw2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bob Don't Sleep!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3420590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3420590",
+        "Linux": "setsid steam steam://rungameid/3420590",
+        "macOS": "open steam://rungameid/3420590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bob-dont-sleep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369201"
+}
