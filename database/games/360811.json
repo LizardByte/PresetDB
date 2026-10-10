@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360811,
+  "name": "Backyard Defenders",
+  "source_url": "https://www.igdb.com/games/backyard-defenders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9rl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Backyard Defenders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3940000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3940000",
+        "Linux": "setsid steam steam://rungameid/3940000",
+        "macOS": "open steam://rungameid/3940000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "backyard-defenders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360811"
+}
