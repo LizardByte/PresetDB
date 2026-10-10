@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351275,
+  "name": "Forestless",
+  "source_url": "https://www.igdb.com/games/forestless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1li.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forestless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3726100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3726100",
+        "Linux": "setsid steam steam://rungameid/3726100",
+        "macOS": "open steam://rungameid/3726100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forestless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351275"
+}
