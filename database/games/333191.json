@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333191,
+  "name": "Only for Gamers",
+  "source_url": "https://www.igdb.com/games/only-for-gamers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gxj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Only for Gamers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3506200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3506200",
+        "Linux": "setsid steam steam://rungameid/3506200",
+        "macOS": "open steam://rungameid/3506200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "only-for-gamers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333191"
+}
