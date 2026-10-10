@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335651,
+  "name": "OmOneko",
+  "source_url": "https://www.igdb.com/games/omoneko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mqb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OmOneko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3465450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3465450",
+        "Linux": "setsid steam steam://rungameid/3465450",
+        "macOS": "open steam://rungameid/3465450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "omoneko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335651"
+}
