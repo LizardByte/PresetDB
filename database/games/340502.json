@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340502,
+  "name": "I'm UFO",
+  "source_url": "https://www.igdb.com/games/im-ufo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coah29.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm UFO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3111470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3111470",
+        "Linux": "setsid steam steam://rungameid/3111470",
+        "macOS": "open steam://rungameid/3111470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-ufo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340502"
+}
