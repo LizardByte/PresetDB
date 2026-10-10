@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365718,
+  "name": "Waddle Paddle",
+  "source_url": "https://www.igdb.com/games/waddle-paddle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaet2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waddle Paddle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3936250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3936250",
+        "Linux": "setsid steam steam://rungameid/3936250",
+        "macOS": "open steam://rungameid/3936250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waddle-paddle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365718"
+}
