@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357727,
+  "name": "Eternal",
+  "source_url": "https://www.igdb.com/games/eternal--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaa2j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eternal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3043810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3043810",
+        "Linux": "setsid steam steam://rungameid/3043810",
+        "macOS": "open steam://rungameid/3043810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eternal--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357727"
+}
