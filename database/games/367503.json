@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367503,
+  "name": "I Suppose",
+  "source_url": "https://www.igdb.com/games/i-suppose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai20.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Suppose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3086910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3086910",
+        "Linux": "setsid steam steam://rungameid/3086910",
+        "macOS": "open steam://rungameid/3086910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-suppose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367503"
+}
