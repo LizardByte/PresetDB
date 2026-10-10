@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 358848,
+  "name": "The Indigo Initiative",
+  "source_url": "https://www.igdb.com/games/the-indigo-initiative",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7qh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Indigo Initiative",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3789050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3789050",
+        "Linux": "setsid steam steam://rungameid/3789050",
+        "macOS": "open steam://rungameid/3789050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-indigo-initiative",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=358848"
+}
