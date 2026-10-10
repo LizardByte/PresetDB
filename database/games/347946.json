@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347946,
+  "name": "Quack & Hatch",
+  "source_url": "https://www.igdb.com/games/quack-and-hatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa032.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quack & Hatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3597900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3597900",
+        "Linux": "setsid steam steam://rungameid/3597900",
+        "macOS": "open steam://rungameid/3597900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quack-and-hatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347946"
+}
