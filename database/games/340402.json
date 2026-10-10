@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340402,
+  "name": "Guardian of the Grave",
+  "source_url": "https://www.igdb.com/games/guardian-of-the-grave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7z0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guardian of the Grave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "536360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/536360",
+        "Linux": "setsid steam steam://rungameid/536360",
+        "macOS": "open steam://rungameid/536360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guardian-of-the-grave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340402"
+}
