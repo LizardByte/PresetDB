@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339750,
+  "name": "Endless Space VIP",
+  "source_url": "https://www.igdb.com/games/endless-space-vip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsvw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Space VIP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "212090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/212090",
+        "Linux": "setsid steam steam://rungameid/212090",
+        "macOS": "open steam://rungameid/212090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-space-vip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339750"
+}
