@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360476,
+  "name": "Habanero",
+  "source_url": "https://www.igdb.com/games/habanero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9d7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Habanero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3848150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3848150",
+        "Linux": "setsid steam steam://rungameid/3848150",
+        "macOS": "open steam://rungameid/3848150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "habanero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360476"
+}
