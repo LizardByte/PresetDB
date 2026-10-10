@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338431,
+  "name": "Boned",
+  "source_url": "https://www.igdb.com/games/boned",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mf5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boned",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3127600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3127600",
+        "Linux": "setsid steam steam://rungameid/3127600",
+        "macOS": "open steam://rungameid/3127600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boned",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338431"
+}
