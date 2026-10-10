@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373996,
+  "name": "I Sell Lemonade",
+  "source_url": "https://www.igdb.com/games/i-sell-lemonade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap79.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Sell Lemonade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3989250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3989250",
+        "Linux": "setsid steam steam://rungameid/3989250",
+        "macOS": "open steam://rungameid/3989250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-sell-lemonade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373996"
+}
