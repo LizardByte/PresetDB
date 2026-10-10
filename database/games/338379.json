@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338379,
+  "name": "What the Chuck?",
+  "source_url": "https://www.igdb.com/games/what-the-chuck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mda.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What the Chuck?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3445670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3445670",
+        "Linux": "setsid steam steam://rungameid/3445670",
+        "macOS": "open steam://rungameid/3445670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "what-the-chuck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338379"
+}
