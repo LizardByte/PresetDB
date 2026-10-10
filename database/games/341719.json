@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341719,
+  "name": "Happy Flappy",
+  "source_url": "https://www.igdb.com/games/happy-flappy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9soa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Flappy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3644490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3644490",
+        "Linux": "setsid steam steam://rungameid/3644490",
+        "macOS": "open steam://rungameid/3644490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "happy-flappy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341719"
+}
