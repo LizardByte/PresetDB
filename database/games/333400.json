@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333400,
+  "name": "Symphorix",
+  "source_url": "https://www.igdb.com/games/symphorix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Symphorix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3363570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3363570",
+        "Linux": "setsid steam steam://rungameid/3363570",
+        "macOS": "open steam://rungameid/3363570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "symphorix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333400"
+}
