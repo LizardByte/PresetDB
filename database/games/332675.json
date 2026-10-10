@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332675,
+  "name": "Microvania",
+  "source_url": "https://www.igdb.com/games/microvania--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coangk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Microvania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3114890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3114890",
+        "Linux": "setsid steam steam://rungameid/3114890",
+        "macOS": "open steam://rungameid/3114890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "microvania--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332675"
+}
