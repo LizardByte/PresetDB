@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360684,
+  "name": "Lo-Fi Golf",
+  "source_url": "https://www.igdb.com/games/lo-fi-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9lz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lo-Fi Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3711030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3711030",
+        "Linux": "setsid steam steam://rungameid/3711030",
+        "macOS": "open steam://rungameid/3711030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lo-fi-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360684"
+}
