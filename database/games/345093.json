@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345093,
+  "name": "Sekira",
+  "source_url": "https://www.igdb.com/games/sekira",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6rt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sekira",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3392230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3392230",
+        "Linux": "setsid steam steam://rungameid/3392230",
+        "macOS": "open steam://rungameid/3392230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sekira",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345093"
+}
