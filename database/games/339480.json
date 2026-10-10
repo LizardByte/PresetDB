@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339480,
+  "name": "Summon The Dudes!",
+  "source_url": "https://www.igdb.com/games/summon-the-dudes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coassn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Summon The Dudes!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3148080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3148080",
+        "Linux": "setsid steam steam://rungameid/3148080",
+        "macOS": "open steam://rungameid/3148080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "summon-the-dudes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339480"
+}
