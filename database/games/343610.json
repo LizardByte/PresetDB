@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343610,
+  "name": "Surge",
+  "source_url": "https://www.igdb.com/games/surge--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob836.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Surge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "951690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/951690",
+        "Linux": "setsid steam steam://rungameid/951690",
+        "macOS": "open steam://rungameid/951690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "surge--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343610"
+}
