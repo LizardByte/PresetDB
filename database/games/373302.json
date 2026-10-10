@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373302,
+  "name": "Ghostly Acres",
+  "source_url": "https://www.igdb.com/games/ghostly-acres",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatwo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghostly Acres",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3336610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3336610",
+        "Linux": "setsid steam steam://rungameid/3336610",
+        "macOS": "open steam://rungameid/3336610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghostly-acres",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373302"
+}
