@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350232,
+  "name": "Static Memory",
+  "source_url": "https://www.igdb.com/games/static-memory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa098.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Static Memory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3740240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3740240",
+        "Linux": "setsid steam steam://rungameid/3740240",
+        "macOS": "open steam://rungameid/3740240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "static-memory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350232"
+}
