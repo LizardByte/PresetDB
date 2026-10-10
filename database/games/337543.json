@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337543,
+  "name": "Skvears",
+  "source_url": "https://www.igdb.com/games/skvears",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lua.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skvears",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3492020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3492020",
+        "Linux": "setsid steam steam://rungameid/3492020",
+        "macOS": "open steam://rungameid/3492020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skvears",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337543"
+}
