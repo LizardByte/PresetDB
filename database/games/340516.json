@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340516,
+  "name": "Idle Grid",
+  "source_url": "https://www.igdb.com/games/idle-grid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9opb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Grid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2940220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2940220",
+        "Linux": "setsid steam steam://rungameid/2940220",
+        "macOS": "open steam://rungameid/2940220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-grid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340516"
+}
