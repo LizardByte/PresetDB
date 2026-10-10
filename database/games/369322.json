@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369322,
+  "name": "Blackjack Simple",
+  "source_url": "https://www.igdb.com/games/blackjack-simple",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj1s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blackjack Simple",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3741570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3741570",
+        "Linux": "setsid steam steam://rungameid/3741570",
+        "macOS": "open steam://rungameid/3741570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blackjack-simple",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369322"
+}
