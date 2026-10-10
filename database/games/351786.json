@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351786,
+  "name": "Die Deep",
+  "source_url": "https://www.igdb.com/games/die-deep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4xi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Die Deep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3211560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3211560",
+        "Linux": "setsid steam steam://rungameid/3211560",
+        "macOS": "open steam://rungameid/3211560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "die-deep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351786"
+}
