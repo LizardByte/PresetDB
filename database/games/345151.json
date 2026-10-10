@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345151,
+  "name": "Rain;Check",
+  "source_url": "https://www.igdb.com/games/rain-check--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9uom.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rain;Check",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3621860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3621860",
+        "Linux": "setsid steam steam://rungameid/3621860",
+        "macOS": "open steam://rungameid/3621860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rain-check--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345151"
+}
