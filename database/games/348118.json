@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348118,
+  "name": "Cardrunners",
+  "source_url": "https://www.igdb.com/games/cardrunners",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ydx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cardrunners",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3447300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3447300",
+        "Linux": "setsid steam steam://rungameid/3447300",
+        "macOS": "open steam://rungameid/3447300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cardrunners",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348118"
+}
