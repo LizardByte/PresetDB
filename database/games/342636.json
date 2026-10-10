@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342636,
+  "name": "SuperQuest",
+  "source_url": "https://www.igdb.com/games/superquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sxu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SuperQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3488200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3488200",
+        "Linux": "setsid steam steam://rungameid/3488200",
+        "macOS": "open steam://rungameid/3488200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "superquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342636"
+}
