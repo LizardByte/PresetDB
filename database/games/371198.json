@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371198,
+  "name": "Karmx",
+  "source_url": "https://www.igdb.com/games/karmx--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalpz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Karmx",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3859900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3859900",
+        "Linux": "setsid steam steam://rungameid/3859900",
+        "macOS": "open steam://rungameid/3859900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "karmx--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371198"
+}
