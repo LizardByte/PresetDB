@@ -69,6 +69,10 @@ test('PR cache-only builds keep the full database and stale ratings with no netw
   assert.equal(preset(output, 5).protondb, undefined);
   assert.equal(json(path.join(output, 'apps', 'app-one.json')).presets[0].command, 'app-one');
   assert.equal(json(path.join(output, 'stats.json')).preset_count, 6);
+  assert.equal(json(path.join(output, 'catalog/manifest.json')).counts.all.all, 6);
+  for (const file of ['catalog.js', 'search-worker.js']) {
+    assert.ok(fs.existsSync(path.join(output, 'assets/js', file)));
+  }
   assert.equal(fs.readFileSync(cacheFile, 'utf8'), before);
   assert.equal(fs.readFileSync(path.join(database, 'games', '1.json'), 'utf8'), source);
 });

@@ -4,6 +4,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { buildStatistics } = require('./statistics');
 const { normalizeRecord } = require('./record');
+const { buildCatalog } = require('./site-catalog');
 
 function supportedOs(preset) {
   if (preset.os) return [preset.os];
@@ -130,6 +131,7 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch,
     fs.writeFileSync(path.join(output, folder, `${item.id}.json`), JSON.stringify(item, null, 2) + '\n');
   }
   fs.writeFileSync(path.join(output, 'index.json'), `${JSON.stringify(index, null, 2)}\n`);
+  buildCatalog(index, output);
   const statistics = buildStatistics(index, records);
   fs.writeFileSync(path.join(output, 'stats.json'), `${JSON.stringify(statistics.data, null, 2)}\n`);
   fs.writeFileSync(path.join(output, 'top_contributors.svg'), statistics.contributorsSvg);
