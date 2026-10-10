@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352318,
+  "name": "Knighventure",
+  "source_url": "https://www.igdb.com/games/knighventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2lo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Knighventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3768030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3768030",
+        "Linux": "setsid steam steam://rungameid/3768030",
+        "macOS": "open steam://rungameid/3768030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "knighventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352318"
+}
