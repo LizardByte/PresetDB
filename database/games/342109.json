@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342109,
+  "name": "Reload",
+  "source_url": "https://www.igdb.com/games/reload--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9r3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reload",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075660",
+        "Linux": "setsid steam steam://rungameid/3075660",
+        "macOS": "open steam://rungameid/3075660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reload--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342109"
+}
