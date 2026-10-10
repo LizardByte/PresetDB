@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344718,
+  "name": "Infiniclick",
+  "source_url": "https://www.igdb.com/games/infiniclick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yos.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infiniclick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3612640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3612640",
+        "Linux": "setsid steam steam://rungameid/3612640",
+        "macOS": "open steam://rungameid/3612640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infiniclick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344718"
+}
