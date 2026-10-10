@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357700,
+  "name": "Firefly",
+  "source_url": "https://www.igdb.com/games/firefly--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6w8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Firefly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3730000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3730000",
+        "Linux": "setsid steam steam://rungameid/3730000",
+        "macOS": "open steam://rungameid/3730000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "firefly--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357700"
+}
