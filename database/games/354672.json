@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 354672,
+  "name": "Bang",
+  "source_url": "https://www.igdb.com/games/bang--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4f4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bang",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2732420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2732420",
+        "Linux": "setsid steam steam://rungameid/2732420",
+        "macOS": "open steam://rungameid/2732420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bang--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=354672"
+}
