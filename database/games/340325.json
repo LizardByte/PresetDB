@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340325,
+  "name": "Green Revival",
+  "source_url": "https://www.igdb.com/games/green-revival",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ois.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Green Revival",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3528640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3528640",
+        "Linux": "setsid steam steam://rungameid/3528640",
+        "macOS": "open steam://rungameid/3528640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "green-revival",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340325"
+}
