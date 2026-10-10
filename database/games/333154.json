@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333154,
+  "name": "Snowman Mo",
+  "source_url": "https://www.igdb.com/games/snowman-mo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsju.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snowman Mo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3391200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3391200",
+        "Linux": "setsid steam steam://rungameid/3391200",
+        "macOS": "open steam://rungameid/3391200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snowman-mo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333154"
+}
