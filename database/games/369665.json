@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369665,
+  "name": "Ashes of War",
+  "source_url": "https://www.igdb.com/games/ashes-of-war",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatpi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ashes of War",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2265610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2265610",
+        "Linux": "setsid steam steam://rungameid/2265610",
+        "macOS": "open steam://rungameid/2265610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ashes-of-war",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369665"
+}
