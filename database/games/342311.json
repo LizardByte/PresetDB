@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342311,
+  "name": "GOC-Streetz",
+  "source_url": "https://www.igdb.com/games/goc-streetz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rcd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GOC-Streetz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3411800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3411800",
+        "Linux": "setsid steam steam://rungameid/3411800",
+        "macOS": "open steam://rungameid/3411800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goc-streetz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342311"
+}
