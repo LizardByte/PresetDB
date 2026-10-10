@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361894,
+  "name": "HackSlash",
+  "source_url": "https://www.igdb.com/games/hackslash--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacrr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HackSlash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3071030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3071030",
+        "Linux": "setsid steam steam://rungameid/3071030",
+        "macOS": "open steam://rungameid/3071030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hackslash--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361894"
+}
