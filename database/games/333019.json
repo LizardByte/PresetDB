@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333019,
+  "name": "It Was You",
+  "source_url": "https://www.igdb.com/games/it-was-you",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g2s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It Was You",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1967050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1967050",
+        "Linux": "setsid steam steam://rungameid/1967050",
+        "macOS": "open steam://rungameid/1967050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "it-was-you",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333019"
+}
