@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367824,
+  "name": "Rage Quit",
+  "source_url": "https://www.igdb.com/games/rage-quit--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahbe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rage Quit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3971470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3971470",
+        "Linux": "setsid steam steam://rungameid/3971470",
+        "macOS": "open steam://rungameid/3971470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rage-quit--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367824"
+}
