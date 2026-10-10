@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370548,
+  "name": "Russian Test",
+  "source_url": "https://www.igdb.com/games/russian-test",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Russian Test",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1088880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1088880",
+        "Linux": "setsid steam steam://rungameid/1088880",
+        "macOS": "open steam://rungameid/1088880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "russian-test",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370548"
+}
