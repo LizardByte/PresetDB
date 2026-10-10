@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341735,
+  "name": "Super Fox",
+  "source_url": "https://www.igdb.com/games/super-fox--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcjk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Fox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3647040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3647040",
+        "Linux": "setsid steam steam://rungameid/3647040",
+        "macOS": "open steam://rungameid/3647040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-fox--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341735"
+}
