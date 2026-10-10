@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342489,
+  "name": "Misery",
+  "source_url": "https://www.igdb.com/games/misery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqo7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Misery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2119830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2119830",
+        "Linux": "setsid steam steam://rungameid/2119830",
+        "macOS": "open steam://rungameid/2119830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "misery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342489"
+}
