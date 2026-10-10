@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355002,
+  "name": "Gridkeeper",
+  "source_url": "https://www.igdb.com/games/gridkeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4nj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gridkeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3536380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3536380",
+        "Linux": "setsid steam steam://rungameid/3536380",
+        "macOS": "open steam://rungameid/3536380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gridkeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355002"
+}
