@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341584,
+  "name": "Pepez: The game",
+  "source_url": "https://www.igdb.com/games/pepez-the-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9q5n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pepez: The game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3064850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3064850",
+        "Linux": "setsid steam steam://rungameid/3064850",
+        "macOS": "open steam://rungameid/3064850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pepez-the-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341584"
+}
