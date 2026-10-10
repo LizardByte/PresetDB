@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333343,
+  "name": "KeyLess",
+  "source_url": "https://www.igdb.com/games/keyless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9l7h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KeyLess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3460500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3460500",
+        "Linux": "setsid steam steam://rungameid/3460500",
+        "macOS": "open steam://rungameid/3460500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keyless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333343"
+}
