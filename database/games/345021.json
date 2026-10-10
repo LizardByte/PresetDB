@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345021,
+  "name": "Beast and Cleaver",
+  "source_url": "https://www.igdb.com/games/beast-and-cleaver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9uth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beast and Cleaver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3568030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3568030",
+        "Linux": "setsid steam steam://rungameid/3568030",
+        "macOS": "open steam://rungameid/3568030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beast-and-cleaver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345021"
+}
