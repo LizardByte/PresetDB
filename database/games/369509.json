@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369509,
+  "name": "Sushi Delivery",
+  "source_url": "https://www.igdb.com/games/sushi-delivery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj91.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushi Delivery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3909290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3909290",
+        "Linux": "setsid steam steam://rungameid/3909290",
+        "macOS": "open steam://rungameid/3909290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushi-delivery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369509"
+}
