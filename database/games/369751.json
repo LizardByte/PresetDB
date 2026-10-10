@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369751,
+  "name": "Quick Trivia",
+  "source_url": "https://www.igdb.com/games/quick-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajk0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quick Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1247250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1247250",
+        "Linux": "setsid steam steam://rungameid/1247250",
+        "macOS": "open steam://rungameid/1247250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quick-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369751"
+}
