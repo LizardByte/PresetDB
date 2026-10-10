@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361056,
+  "name": "Xentra Station",
+  "source_url": "https://www.igdb.com/games/xentra-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob27t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xentra Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3503310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3503310",
+        "Linux": "setsid steam steam://rungameid/3503310",
+        "macOS": "open steam://rungameid/3503310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xentra-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361056"
+}
