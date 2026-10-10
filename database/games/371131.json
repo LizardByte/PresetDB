@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371131,
+  "name": "Pet.Net",
+  "source_url": "https://www.igdb.com/games/pet-dot-net",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod1lq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pet.Net",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4211870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4211870",
+        "Linux": "setsid steam steam://rungameid/4211870",
+        "macOS": "open steam://rungameid/4211870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pet-dot-net",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371131"
+}
