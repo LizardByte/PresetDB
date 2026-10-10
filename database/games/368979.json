@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368979,
+  "name": "Blop",
+  "source_url": "https://www.igdb.com/games/blop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaimt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3731450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3731450",
+        "Linux": "setsid steam steam://rungameid/3731450",
+        "macOS": "open steam://rungameid/3731450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368979"
+}
