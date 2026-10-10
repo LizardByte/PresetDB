@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337297,
+  "name": "Box King",
+  "source_url": "https://www.igdb.com/games/box-king",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lob.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Box King",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3565560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3565560",
+        "Linux": "setsid steam steam://rungameid/3565560",
+        "macOS": "open steam://rungameid/3565560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "box-king",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337297"
+}
