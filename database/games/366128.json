@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366128,
+  "name": "AirLoveEngine",
+  "source_url": "https://www.igdb.com/games/airloveengine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaf9s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AirLoveEngine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3978350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3978350",
+        "Linux": "setsid steam steam://rungameid/3978350",
+        "macOS": "open steam://rungameid/3978350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "airloveengine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366128"
+}
