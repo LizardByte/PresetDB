@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369793,
+  "name": "Aice",
+  "source_url": "https://www.igdb.com/games/aice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajlx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3226910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3226910",
+        "Linux": "setsid steam steam://rungameid/3226910",
+        "macOS": "open steam://rungameid/3226910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369793"
+}
