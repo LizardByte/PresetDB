@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337067,
+  "name": "Coin Smith",
+  "source_url": "https://www.igdb.com/games/coin-smith",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9l1b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coin Smith",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2528140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2528140",
+        "Linux": "setsid steam steam://rungameid/2528140",
+        "macOS": "open steam://rungameid/2528140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coin-smith",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337067"
+}
