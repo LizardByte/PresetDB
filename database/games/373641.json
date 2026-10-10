@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373641,
+  "name": "Lone Pine",
+  "source_url": "https://www.igdb.com/games/lone-pine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaot2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lone Pine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3575850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3575850",
+        "Linux": "setsid steam steam://rungameid/3575850",
+        "macOS": "open steam://rungameid/3575850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lone-pine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373641"
+}
