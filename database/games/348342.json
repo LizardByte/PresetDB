@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348342,
+  "name": "Hello Space",
+  "source_url": "https://www.igdb.com/games/hello-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xyj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hello Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3715240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3715240",
+        "Linux": "setsid steam steam://rungameid/3715240",
+        "macOS": "open steam://rungameid/3715240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hello-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348342"
+}
