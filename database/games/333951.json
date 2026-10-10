@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333951,
+  "name": "Little Library",
+  "source_url": "https://www.igdb.com/games/little-library",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9h7i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Library",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3262900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3262900",
+        "Linux": "setsid steam steam://rungameid/3262900",
+        "macOS": "open steam://rungameid/3262900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-library",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333951"
+}
