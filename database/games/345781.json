@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345781,
+  "name": "The Lost Soul",
+  "source_url": "https://www.igdb.com/games/the-lost-soul",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9ji.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lost Soul",
+      "os": null,
+      "method": "steam",
+      "launch_id": "969130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/969130",
+        "Linux": "setsid steam steam://rungameid/969130",
+        "macOS": "open steam://rungameid/969130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lost-soul",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345781"
+}
