@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332376,
+  "name": "FarmTD",
+  "source_url": "https://www.igdb.com/games/farmtd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ff8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FarmTD",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3081300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3081300",
+        "Linux": "setsid steam steam://rungameid/3081300",
+        "macOS": "open steam://rungameid/3081300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "farmtd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332376"
+}
