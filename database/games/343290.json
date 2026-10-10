@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343290,
+  "name": "Hiroshi",
+  "source_url": "https://www.igdb.com/games/hiroshi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9smd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hiroshi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3538680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3538680",
+        "Linux": "setsid steam steam://rungameid/3538680",
+        "macOS": "open steam://rungameid/3538680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hiroshi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343290"
+}
