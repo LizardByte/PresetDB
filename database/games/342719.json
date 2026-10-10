@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342719,
+  "name": "Fuel Me Up",
+  "source_url": "https://www.igdb.com/games/fuel-me-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob016.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fuel Me Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3763390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3763390",
+        "Linux": "setsid steam steam://rungameid/3763390",
+        "macOS": "open steam://rungameid/3763390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fuel-me-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342719"
+}
