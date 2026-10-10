@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351530,
+  "name": "Threedays",
+  "source_url": "https://www.igdb.com/games/threedays",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2im.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Threedays",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2372340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2372340",
+        "Linux": "setsid steam steam://rungameid/2372340",
+        "macOS": "open steam://rungameid/2372340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "threedays",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351530"
+}
