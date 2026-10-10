@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359892,
+  "name": "Shadow Project",
+  "source_url": "https://www.igdb.com/games/shadow-project",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa8oa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadow Project",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3143530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3143530",
+        "Linux": "setsid steam steam://rungameid/3143530",
+        "macOS": "open steam://rungameid/3143530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadow-project",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359892"
+}
