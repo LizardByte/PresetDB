@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371295,
+  "name": "Bushy Man",
+  "source_url": "https://www.igdb.com/games/bushy-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coam45.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bushy Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3057280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3057280",
+        "Linux": "setsid steam steam://rungameid/3057280",
+        "macOS": "open steam://rungameid/3057280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bushy-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371295"
+}
