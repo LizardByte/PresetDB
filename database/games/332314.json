@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332314,
+  "name": "Baptiste",
+  "source_url": "https://www.igdb.com/games/baptiste",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9fi5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Baptiste",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2922250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2922250",
+        "Linux": "setsid steam steam://rungameid/2922250",
+        "macOS": "open steam://rungameid/2922250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "baptiste",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332314"
+}
