@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345962,
+  "name": "Cinderia",
+  "source_url": "https://www.igdb.com/games/cinderia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsbp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cinderia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3214610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3214610",
+        "Linux": "setsid steam steam://rungameid/3214610",
+        "macOS": "open steam://rungameid/3214610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cinderia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345962"
+}
