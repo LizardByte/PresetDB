@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350148,
+  "name": "Joe Adventure",
+  "source_url": "https://www.igdb.com/games/joe-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa09d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Joe Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3749960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3749960",
+        "Linux": "setsid steam steam://rungameid/3749960",
+        "macOS": "open steam://rungameid/3749960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "joe-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350148"
+}
