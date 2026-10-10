@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343102,
+  "name": "Self Simulated",
+  "source_url": "https://www.igdb.com/games/self-simulated",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sff.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Self Simulated",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2458240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2458240",
+        "Linux": "setsid steam steam://rungameid/2458240",
+        "macOS": "open steam://rungameid/2458240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "self-simulated",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343102"
+}
