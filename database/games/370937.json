@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370937,
+  "name": "Earthlings",
+  "source_url": "https://www.igdb.com/games/earthlings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalbu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Earthlings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3508530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3508530",
+        "Linux": "setsid steam steam://rungameid/3508530",
+        "macOS": "open steam://rungameid/3508530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "earthlings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370937"
+}
