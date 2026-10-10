@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349126,
+  "name": "Hermit",
+  "source_url": "https://www.igdb.com/games/hermit--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalp5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hermit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3787470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3787470",
+        "Linux": "setsid steam steam://rungameid/3787470",
+        "macOS": "open steam://rungameid/3787470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hermit--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349126"
+}
