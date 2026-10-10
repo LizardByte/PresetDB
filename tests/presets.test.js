@@ -9,7 +9,7 @@ const { parseIssue, validateFields, validateGameDb, resolveIgdbSlug } = require(
 const { mergePreset } = require('../src/database');
 const { processIssue } = require('../src/issue');
 const { buildSite } = require('../src/build-site');
-const { filterItems, commandForOs, sunshineSnippet, normalizeBasePath } = require('../gh-pages-template/assets/js/app');
+const { commandForOs, sunshineSnippet, normalizeBasePath } = require('../gh-pages-template/assets/js/app');
 
 const credentials = { clientId: 'client-id', clientSecret: 'client-secret' };
 const gameValues = {
@@ -241,11 +241,7 @@ test('issue processing and site build publish both game and app JSON', async t =
   assert.ok(!fs.readFileSync(path.join(output, 'index.json'), 'utf8').includes('{{ROM_PATH}}'));
 });
 
-test('site filters and serializes Sunshine application JSON', () => {
-  const index = { games: [{ id: 1, name: 'Halo', operating_systems: ['Windows'], preset_count: 2 }],
-    apps: [{ id: 'app', name: 'Media', operating_systems: ['Linux'], preset_count: 1 }] };
-  assert.deepEqual(filterItems(index, 'hal', 'game', 'Windows').map(item => item.name), ['Halo']);
-  assert.equal(filterItems(index, '', 'all', 'macOS').length, 0);
+test('site serializes Sunshine application JSON and supports preview base paths', () => {
   assert.equal(commandForOs({ command: 'game.exe' }), 'game.exe');
   assert.deepEqual(JSON.parse(sunshineSnippet({ name: 'Halo', command: 'game.exe', working_directory: 'C:\\Games' })),
     { name: 'Halo', cmd: 'game.exe', 'working-dir': 'C:\\Games' });

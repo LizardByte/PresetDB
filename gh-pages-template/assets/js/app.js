@@ -5,18 +5,6 @@ const METHOD_NAMES = {
   gog: 'GOG', 'microsoft-store': 'Microsoft Store', emulator: 'Emulator'
 };
 
-function filterItems(index, query, kind, os) {
-  const needle = query.trim().toLowerCase();
-  return [
-    ...(index.games || []).map(item => ({ ...item, kind: 'game' })),
-    ...(index.apps || []).map(item => ({ ...item, kind: 'app' }))
-  ].filter(item =>
-    (kind === 'all' || item.kind === kind) &&
-    (os === 'all' || item.operating_systems.includes(os)) &&
-    item.name.toLowerCase().includes(needle)
-  ).sort((a, b) => a.name.localeCompare(b.name));
-}
-
 function commandForOs(preset, os = 'Windows') {
   const command = preset.commands_by_os?.[os] || preset.command;
   if (!command) throw new Error('Choose an available host OS');
@@ -203,13 +191,31 @@ function boot() {
   const list = document.getElementById('preset-list');
   const status = document.getElementById('preset-status');
   const detail = document.getElementById('preset-detail');
-  let index;
+  const previous = document.getElementById('preset-previous');
+  const next = document.getElementById('preset-next');
+  const pageStatus = document.getElementById('preset-page');
+  let page = 0;
+  let requestId = 0;
+  let debounce;
+  let detailController;
+  let detailId = 0;
+  let worker;
 
-  function renderList() {
-    if (!index) return;
-    const items = filterItems(index, search.value, kind.value, os.value);
+  function renderList(result) {
+    const { items, total, page_count: pageCount } = result;
+    page = result.page;
     list.replaceChildren();
-    status.textContent = items.length ? `${items.length} games and apps found` : 'No matching presets yet.';
+    list.setAttribute('aria-busy', 'false');
+    previous.disabled = page === 0;
+    next.disabled = page + 1 >= pageCount;
+    pageStatus.textContent = pageCount ? `Page ${(page + 1).toLocaleString()} of ${pageCount.toLocaleString()}` : '';
+    if (result.min_query_length) {
+      status.textContent = `Enter at least ${result.min_query_length} characters to search, or clear the search to browse.`;
+    } else {
+      status.textContent = total
+        ? `${total.toLocaleString()} games and apps found · Showing ${(result.start + 1).toLocaleString()}–${(result.start + items.length).toLocaleString()}`
+        : 'No matching presets yet.';
+    }
     for (const item of items) {
       const column = element('div', 'col');
       const button = element('button', 'card h-100 w-100 text-start border-0 shadow-sm rounded-0 p-4');
@@ -234,13 +240,18 @@ function boot() {
   }
 
   async function showRecord(item) {
+    detailController?.abort();
+    detailController = new AbortController();
+    const controller = detailController;
+    const id = ++detailId;
     detail.hidden = false;
     detail.replaceChildren(element('p', '', 'Loading launch options…'));
     try {
       const folder = item.kind === 'game' ? 'games' : 'apps';
-      const response = await fetch(`${base}/${folder}/${encodeURIComponent(item.id)}.json`);
+      const response = await fetch(`${base}/${folder}/${encodeURIComponent(item.id)}.json`, { signal: controller.signal });
       if (!response.ok) throw new Error(`HTTP ${response.status}`);
       const record = await response.json();
+      if (id !== detailId) return;
       const heading = element('h2', 'fw-bold', record.name);
       detail.replaceChildren(heading, safeLink(record.source_url, item.kind === 'game' ? 'View on IGDB ↗' : 'Official app site ↗'));
       const image = safeImage(record.image_url);
@@ -251,37 +262,72 @@ function boot() {
       detail.append(presets);
       detail.scrollIntoView({ behavior: 'smooth', block: 'start' });
     } catch (error) {
+      if (controller.signal.aborted || id !== detailId) return;
       detail.replaceChildren(element('p', 'text-danger', `Could not load presets: ${error.message}`));
     }
   }
 
-  async function load() {
-    try {
-      const response = await fetch(`${base}/index.json`);
-      if (!response.ok) throw new Error(`HTTP ${response.status}`);
-      index = await response.json();
-      renderList();
-      const params = new URLSearchParams(globalThis.location.search);
-      const requestedKind = params.get('kind');
-      const requestedId = params.get('id');
-      if (requestedId && ['game', 'app'].includes(requestedKind)) {
-        const item = filterItems(index, '', requestedKind, 'all').find(entry => String(entry.id) === requestedId);
-        if (item) showRecord(item);
-      }
-    } catch (error) {
-      status.textContent = `Could not load the preset index: ${error.message}`;
+  function loadRequestedRecord() {
+    const params = new URLSearchParams(globalThis.location.search);
+    const requestedKind = params.get('kind');
+    const requestedId = params.get('id');
+    if (requestedId && ['game', 'app'].includes(requestedKind)) {
+      showRecord({ kind: requestedKind, id: requestedId });
+    } else {
+      detailController?.abort();
+      detailId++;
+      detail.hidden = true;
     }
   }
 
-  for (const control of [search, kind, os]) control.addEventListener('input', renderList);
-  globalThis.addEventListener('popstate', () => {
-    const params = new URLSearchParams(globalThis.location.search);
-    const item = index && filterItems(index, '', params.get('kind'), 'all').find(entry => String(entry.id) === params.get('id'));
-    if (item) showRecord(item);
-    else detail.hidden = true;
-  });
-  load();
+  function loading() {
+    previous.disabled = true;
+    next.disabled = true;
+    pageStatus.textContent = '';
+    status.textContent = 'Loading presets…';
+    list.setAttribute('aria-busy', 'true');
+  }
+
+  function requestPage() {
+    clearTimeout(debounce);
+    loading();
+    worker.postMessage({ id: ++requestId, base, query: search.value, kind: kind.value, os: os.value, page });
+  }
+
+  function catalogError(message) {
+    list.setAttribute('aria-busy', 'false');
+    status.textContent = `Could not load the preset catalog: ${message}. Reload the page to try again.`;
+  }
+
+  try {
+    worker = new Worker(`${base}/assets/js/search-worker.js`);
+    worker.addEventListener('message', event => {
+      if (event.data.id !== requestId) return;
+      if (event.data.error) catalogError(event.data.error);
+      else renderList(event.data.result);
+    });
+    worker.addEventListener('error', () => catalogError('Search worker unavailable'));
+    search.addEventListener('input', () => {
+      page = 0;
+      requestId++;
+      loading();
+      clearTimeout(debounce);
+      debounce = setTimeout(requestPage, 250);
+    });
+    for (const control of [kind, os]) control.addEventListener('input', () => {
+      page = 0;
+      requestPage();
+    });
+    previous.addEventListener('click', () => { page--; requestPage(); });
+    next.addEventListener('click', () => { page++; requestPage(); });
+    requestPage();
+  } catch (error) {
+    catalogError(error.message);
+  }
+
+  globalThis.addEventListener('popstate', loadRequestedRecord);
+  loadRequestedRecord();
 }
 
 if (typeof document !== 'undefined') document.addEventListener('DOMContentLoaded', boot);
-if (typeof module !== 'undefined') module.exports = { filterItems, commandForOs, sunshineSnippet, renderPresetCard, browseMethodBadges, normalizeBasePath };
+if (typeof module !== 'undefined') module.exports = { boot, commandForOs, sunshineSnippet, renderPresetCard, browseMethodBadges, normalizeBasePath };

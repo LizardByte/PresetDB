@@ -28,7 +28,8 @@ js:
     <div class="row g-3 mb-4">
       <div class="col-md-6">
         <label class="form-label" for="preset-search">Search games and apps</label>
-        <input class="form-control rounded-0" type="search" id="preset-search" placeholder="Search by name">
+        <input class="form-control rounded-0" type="search" id="preset-search" placeholder="Search by name" aria-describedby="preset-search-help">
+        <div id="preset-search-help" class="form-text">Enter at least 3 characters to search.</div>
       </div>
       <div class="col-6 col-md-3">
         <label class="form-label" for="preset-kind">Type</label>
@@ -50,6 +51,11 @@ js:
     </div>
     <output id="preset-status" aria-live="polite">Loading presets…</output>
     <div id="preset-list" class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-3"></div>
+    <nav class="d-flex align-items-center justify-content-center gap-3 mt-4" aria-label="Preset pages">
+      <button type="button" id="preset-previous" class="btn btn-outline-secondary rounded-0" disabled>Previous</button>
+      <span id="preset-page" aria-live="polite"></span>
+      <button type="button" id="preset-next" class="btn btn-outline-secondary rounded-0" disabled>Next</button>
+    </nav>
   </section>
 
   <section id="preset-detail" class="mt-5" aria-live="polite" hidden></section>
