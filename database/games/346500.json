@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346500,
+  "name": "Undefined Game Pack",
+  "source_url": "https://www.igdb.com/games/undefined-game-pack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9w06.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Undefined Game Pack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2957890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2957890",
+        "Linux": "setsid steam steam://rungameid/2957890",
+        "macOS": "open steam://rungameid/2957890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "undefined-game-pack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346500"
+}
