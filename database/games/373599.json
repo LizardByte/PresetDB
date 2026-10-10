@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373599,
+  "name": "Gaia Maker",
+  "source_url": "https://www.igdb.com/games/gaia-maker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaorm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gaia Maker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3662040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3662040",
+        "Linux": "setsid steam steam://rungameid/3662040",
+        "macOS": "open steam://rungameid/3662040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gaia-maker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373599"
+}
