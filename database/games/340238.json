@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340238,
+  "name": "Fortune Cookie",
+  "source_url": "https://www.igdb.com/games/fortune-cookie--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ogm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fortune Cookie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2238170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2238170",
+        "Linux": "setsid steam steam://rungameid/2238170",
+        "macOS": "open steam://rungameid/2238170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fortune-cookie--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340238"
+}
