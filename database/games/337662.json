@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337662,
+  "name": "Gavin Tyler's Game Collection",
+  "source_url": "https://www.igdb.com/games/gavin-tylers-game-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahrg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gavin Tyler's Game Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3093860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3093860",
+        "Linux": "setsid steam steam://rungameid/3093860",
+        "macOS": "open steam://rungameid/3093860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gavin-tylers-game-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337662"
+}
