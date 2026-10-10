@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373999,
+  "name": "Adventarum",
+  "source_url": "https://www.igdb.com/games/adventarum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap7d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventarum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4049030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4049030",
+        "Linux": "setsid steam steam://rungameid/4049030",
+        "macOS": "open steam://rungameid/4049030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "adventarum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373999"
+}
