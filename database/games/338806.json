@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338806,
+  "name": "Pimbolas",
+  "source_url": "https://www.igdb.com/games/pimbolas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccnu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pimbolas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3621200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3621200",
+        "Linux": "setsid steam steam://rungameid/3621200",
+        "macOS": "open steam://rungameid/3621200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pimbolas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338806"
+}
