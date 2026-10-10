@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361433,
+  "name": "Rust Moon",
+  "source_url": "https://www.igdb.com/games/rust-moon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaag6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rust Moon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3897630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3897630",
+        "Linux": "setsid steam steam://rungameid/3897630",
+        "macOS": "open steam://rungameid/3897630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rust-moon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361433"
+}
