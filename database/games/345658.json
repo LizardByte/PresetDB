@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345658,
+  "name": "Hemera",
+  "source_url": "https://www.igdb.com/games/hemera",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hemera",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3499160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3499160",
+        "Linux": "setsid steam steam://rungameid/3499160",
+        "macOS": "open steam://rungameid/3499160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hemera",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345658"
+}
