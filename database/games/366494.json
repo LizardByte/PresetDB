@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366494,
+  "name": "Mysplaced",
+  "source_url": "https://www.igdb.com/games/mysplaced",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafps.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mysplaced",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3469340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3469340",
+        "Linux": "setsid steam steam://rungameid/3469340",
+        "macOS": "open steam://rungameid/3469340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mysplaced",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366494"
+}
