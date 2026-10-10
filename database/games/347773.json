@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347773,
+  "name": "ReDrop",
+  "source_url": "https://www.igdb.com/games/redrop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9znf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ReDrop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3783370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3783370",
+        "Linux": "setsid steam steam://rungameid/3783370",
+        "macOS": "open steam://rungameid/3783370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "redrop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347773"
+}
