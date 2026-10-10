@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366433,
+  "name": "More Sushi!",
+  "source_url": "https://www.igdb.com/games/more-sushi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafnk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "More Sushi!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3950770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3950770",
+        "Linux": "setsid steam steam://rungameid/3950770",
+        "macOS": "open steam://rungameid/3950770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "more-sushi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366433"
+}
