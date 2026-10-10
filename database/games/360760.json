@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360760,
+  "name": "Dunkadillo",
+  "source_url": "https://www.igdb.com/games/dunkadillo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaa0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dunkadillo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3946070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3946070",
+        "Linux": "setsid steam steam://rungameid/3946070",
+        "macOS": "open steam://rungameid/3946070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dunkadillo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360760"
+}
