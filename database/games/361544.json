@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 361544,
+  "name": "GodsTV",
+  "source_url": "https://www.igdb.com/games/godstv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax9b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GodsTV",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2626570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2626570",
+        "Linux": "setsid steam steam://rungameid/2626570",
+        "macOS": "open steam://rungameid/2626570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "godstv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=361544"
+}
