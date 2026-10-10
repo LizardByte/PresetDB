@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368789,
+  "name": "Welcome to the Dungeon",
+  "source_url": "https://www.igdb.com/games/welcome-to-the-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaigc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to the Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3276560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3276560",
+        "Linux": "setsid steam steam://rungameid/3276560",
+        "macOS": "open steam://rungameid/3276560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-the-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368789"
+}
