@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338263,
+  "name": "Happy Girls",
+  "source_url": "https://www.igdb.com/games/happy-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagoy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Happy Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3084530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3084530",
+        "Linux": "setsid steam steam://rungameid/3084530",
+        "macOS": "open steam://rungameid/3084530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "happy-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338263"
+}
