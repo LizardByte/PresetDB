@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365095,
+  "name": "Versalis",
+  "source_url": "https://www.igdb.com/games/versalis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coae9v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Versalis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3812220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3812220",
+        "Linux": "setsid steam steam://rungameid/3812220",
+        "macOS": "open steam://rungameid/3812220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "versalis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365095"
+}
