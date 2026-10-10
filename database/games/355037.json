@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355037,
+  "name": "Chipmatic",
+  "source_url": "https://www.igdb.com/games/chipmatic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatqc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chipmatic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3780950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3780950",
+        "Linux": "setsid steam steam://rungameid/3780950",
+        "macOS": "open steam://rungameid/3780950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chipmatic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355037"
+}
