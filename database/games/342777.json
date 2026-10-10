@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342777,
+  "name": "Exile",
+  "source_url": "https://www.igdb.com/games/exile--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9twc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3682300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3682300",
+        "Linux": "setsid steam steam://rungameid/3682300",
+        "macOS": "open steam://rungameid/3682300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exile--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342777"
+}
