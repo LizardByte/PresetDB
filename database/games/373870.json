@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373870,
+  "name": "FishingCard",
+  "source_url": "https://www.igdb.com/games/fishingcard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap2g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FishingCard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3885630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3885630",
+        "Linux": "setsid steam steam://rungameid/3885630",
+        "macOS": "open steam://rungameid/3885630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fishingcard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373870"
+}
