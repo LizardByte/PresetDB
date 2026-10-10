@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347804,
+  "name": "Silly's Gameshow",
+  "source_url": "https://www.igdb.com/games/sillys-gameshow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab12.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silly's Gameshow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3674050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3674050",
+        "Linux": "setsid steam steam://rungameid/3674050",
+        "macOS": "open steam://rungameid/3674050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sillys-gameshow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347804"
+}
