@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345255,
+  "name": "Cozy Forge",
+  "source_url": "https://www.igdb.com/games/cozy-forge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9y16.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Forge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3432920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3432920",
+        "Linux": "setsid steam steam://rungameid/3432920",
+        "macOS": "open steam://rungameid/3432920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-forge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345255"
+}
