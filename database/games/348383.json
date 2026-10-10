@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348383,
+  "name": "Basement",
+  "source_url": "https://www.igdb.com/games/basement--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yh4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Basement",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3581150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3581150",
+        "Linux": "setsid steam steam://rungameid/3581150",
+        "macOS": "open steam://rungameid/3581150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "basement--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348383"
+}
