@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344703,
+  "name": "Two the Top",
+  "source_url": "https://www.igdb.com/games/two-the-top",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7i0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Two the Top",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3525360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3525360",
+        "Linux": "setsid steam steam://rungameid/3525360",
+        "macOS": "open steam://rungameid/3525360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "two-the-top",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344703"
+}
