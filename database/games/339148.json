@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339148,
+  "name": "You Are The Code",
+  "source_url": "https://www.igdb.com/games/you-are-the-code",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9n4q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You Are The Code",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3333330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3333330",
+        "Linux": "setsid steam steam://rungameid/3333330",
+        "macOS": "open steam://rungameid/3333330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-are-the-code",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339148"
+}
