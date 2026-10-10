@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371522,
+  "name": "Printfarm Simulator",
+  "source_url": "https://www.igdb.com/games/printfarm-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coam93.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Printfarm Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3809950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3809950",
+        "Linux": "setsid steam steam://rungameid/3809950",
+        "macOS": "open steam://rungameid/3809950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "printfarm-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371522"
+}
