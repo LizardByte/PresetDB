@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363646,
+  "name": "Tiris",
+  "source_url": "https://www.igdb.com/games/tiris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacpj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3719100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3719100",
+        "Linux": "setsid steam steam://rungameid/3719100",
+        "macOS": "open steam://rungameid/3719100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363646"
+}
