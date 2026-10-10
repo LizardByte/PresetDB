@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341488,
+  "name": "NugQuest",
+  "source_url": "https://www.igdb.com/games/nugquest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagyl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NugQuest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3099430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3099430",
+        "Linux": "setsid steam steam://rungameid/3099430",
+        "macOS": "open steam://rungameid/3099430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nugquest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341488"
+}
