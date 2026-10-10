@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360882,
+  "name": "Iron Skies",
+  "source_url": "https://www.igdb.com/games/iron-skies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobi6q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Skies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3308180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3308180",
+        "Linux": "setsid steam steam://rungameid/3308180",
+        "macOS": "open steam://rungameid/3308180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-skies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360882"
+}
