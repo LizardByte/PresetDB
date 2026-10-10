@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348466,
+  "name": "Hollow Jump",
+  "source_url": "https://www.igdb.com/games/hollow-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9y27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hollow Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3744900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3744900",
+        "Linux": "setsid steam steam://rungameid/3744900",
+        "macOS": "open steam://rungameid/3744900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hollow-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348466"
+}
