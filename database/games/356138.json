@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 356138,
+  "name": "SpiritVale",
+  "source_url": "https://www.igdb.com/games/spiritvale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocajd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpiritVale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3767850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3767850",
+        "Linux": "setsid steam steam://rungameid/3767850",
+        "macOS": "open steam://rungameid/3767850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spiritvale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=356138"
+}
