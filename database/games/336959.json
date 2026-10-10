@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336959,
+  "name": "Help Me!",
+  "source_url": "https://www.igdb.com/games/help-me--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8zh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Help Me!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1833770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1833770",
+        "Linux": "setsid steam steam://rungameid/1833770",
+        "macOS": "open steam://rungameid/1833770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "help-me--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336959"
+}
