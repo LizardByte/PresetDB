@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338718,
+  "name": "A Tower",
+  "source_url": "https://www.igdb.com/games/a-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9my2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3168300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3168300",
+        "Linux": "setsid steam steam://rungameid/3168300",
+        "macOS": "open steam://rungameid/3168300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338718"
+}
