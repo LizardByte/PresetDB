@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330562,
+  "name": "Indoor Baseball",
+  "source_url": "https://www.igdb.com/games/indoor-baseball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9d3i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Indoor Baseball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3434700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3434700",
+        "Linux": "setsid steam steam://rungameid/3434700",
+        "macOS": "open steam://rungameid/3434700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "indoor-baseball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330562"
+}
