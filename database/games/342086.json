@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342086,
+  "name": "Nanika Game Online",
+  "source_url": "https://www.igdb.com/games/nanika-game-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qvi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nanika Game Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2952070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2952070",
+        "Linux": "setsid steam steam://rungameid/2952070",
+        "macOS": "open steam://rungameid/2952070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nanika-game-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342086"
+}
