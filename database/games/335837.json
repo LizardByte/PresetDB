@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335837,
+  "name": "Look Mum No Computer",
+  "source_url": "https://www.igdb.com/games/look-mum-no-computer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jky.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Look Mum No Computer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3400380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3400380",
+        "Linux": "setsid steam steam://rungameid/3400380",
+        "macOS": "open steam://rungameid/3400380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "look-mum-no-computer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335837"
+}
