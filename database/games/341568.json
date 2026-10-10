@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341568,
+  "name": "Please Say Hi",
+  "source_url": "https://www.igdb.com/games/please-say-hi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coadj0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Please Say Hi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3165060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3165060",
+        "Linux": "setsid steam steam://rungameid/3165060",
+        "macOS": "open steam://rungameid/3165060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "please-say-hi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341568"
+}
