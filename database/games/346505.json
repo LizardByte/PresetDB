@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346505,
+  "name": "Guardian Chicken",
+  "source_url": "https://www.igdb.com/games/guardian-chicken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coadid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Guardian Chicken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3734000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3734000",
+        "Linux": "setsid steam steam://rungameid/3734000",
+        "macOS": "open steam://rungameid/3734000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "guardian-chicken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346505"
+}
