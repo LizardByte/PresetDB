@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338200,
+  "name": "Beast Brawl",
+  "source_url": "https://www.igdb.com/games/beast-brawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2of.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beast Brawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3201630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3201630",
+        "Linux": "setsid steam steam://rungameid/3201630",
+        "macOS": "open steam://rungameid/3201630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beast-brawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338200"
+}
