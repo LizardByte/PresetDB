@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333143,
+  "name": "EndSeeker",
+  "source_url": "https://www.igdb.com/games/endseeker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9h7s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EndSeeker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3266800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3266800",
+        "Linux": "setsid steam steam://rungameid/3266800",
+        "macOS": "open steam://rungameid/3266800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endseeker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333143"
+}
