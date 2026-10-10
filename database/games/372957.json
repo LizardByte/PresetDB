@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372957,
+  "name": "Raidbound",
+  "source_url": "https://www.igdb.com/games/raidbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coao0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raidbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3696020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3696020",
+        "Linux": "setsid steam steam://rungameid/3696020",
+        "macOS": "open steam://rungameid/3696020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raidbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372957"
+}
