@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333236,
+  "name": "Chess Bomb",
+  "source_url": "https://www.igdb.com/games/chess-bomb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gbq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess Bomb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3404890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3404890",
+        "Linux": "setsid steam steam://rungameid/3404890",
+        "macOS": "open steam://rungameid/3404890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-bomb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333236"
+}
