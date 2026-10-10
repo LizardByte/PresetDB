@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345066,
+  "name": "AutoBlobber",
+  "source_url": "https://www.igdb.com/games/autoblobber",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coas5s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AutoBlobber",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3240250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3240250",
+        "Linux": "setsid steam steam://rungameid/3240250",
+        "macOS": "open steam://rungameid/3240250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "autoblobber",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345066"
+}
