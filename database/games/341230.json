@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341230,
+  "name": "MGDC Minigame Collection",
+  "source_url": "https://www.igdb.com/games/mgdc-minigame-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobch3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MGDC Minigame Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3222070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3222070",
+        "Linux": "setsid steam steam://rungameid/3222070",
+        "macOS": "open steam://rungameid/3222070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mgdc-minigame-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341230"
+}
