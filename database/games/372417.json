@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372417,
+  "name": "Arena of Suffering",
+  "source_url": "https://www.igdb.com/games/arena-of-suffering",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaxq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arena of Suffering",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3943210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3943210",
+        "Linux": "setsid steam steam://rungameid/3943210",
+        "macOS": "open steam://rungameid/3943210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arena-of-suffering",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372417"
+}
