@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338437,
+  "name": "Bonk the Rat",
+  "source_url": "https://www.igdb.com/games/bonk-the-rat--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mf9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bonk the Rat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3363600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3363600",
+        "Linux": "setsid steam steam://rungameid/3363600",
+        "macOS": "open steam://rungameid/3363600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bonk-the-rat--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338437"
+}
