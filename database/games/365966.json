@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365966,
+  "name": "BeatHero",
+  "source_url": "https://www.igdb.com/games/beathero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaf2x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BeatHero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3985310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3985310",
+        "Linux": "setsid steam steam://rungameid/3985310",
+        "macOS": "open steam://rungameid/3985310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beathero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365966"
+}
