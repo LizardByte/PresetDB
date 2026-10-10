@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367324,
+  "name": "Dumbz Snake",
+  "source_url": "https://www.igdb.com/games/dumbz-snake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coal9b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dumbz Snake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3126890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3126890",
+        "Linux": "setsid steam steam://rungameid/3126890",
+        "macOS": "open steam://rungameid/3126890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dumbz-snake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367324"
+}
