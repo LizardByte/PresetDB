@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340297,
+  "name": "Geo-Deux",
+  "source_url": "https://www.igdb.com/games/geo-deux",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobch9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Geo-Deux",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3148600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3148600",
+        "Linux": "setsid steam steam://rungameid/3148600",
+        "macOS": "open steam://rungameid/3148600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "geo-deux",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340297"
+}
