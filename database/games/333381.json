@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333381,
+  "name": "Ender Theater",
+  "source_url": "https://www.igdb.com/games/ender-theater",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gwy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ender Theater",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2915170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2915170",
+        "Linux": "setsid steam steam://rungameid/2915170",
+        "macOS": "open steam://rungameid/2915170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ender-theater",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333381"
+}
