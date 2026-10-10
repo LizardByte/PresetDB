@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333515,
+  "name": "Balloon Friends",
+  "source_url": "https://www.igdb.com/games/balloon-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9if9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Balloon Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3061030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3061030",
+        "Linux": "setsid steam steam://rungameid/3061030",
+        "macOS": "open steam://rungameid/3061030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "balloon-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333515"
+}
