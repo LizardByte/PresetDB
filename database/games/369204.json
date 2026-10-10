@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369204,
+  "name": "Raybeem",
+  "source_url": "https://www.igdb.com/games/raybeem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaiw4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Raybeem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "631120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/631120",
+        "Linux": "setsid steam steam://rungameid/631120",
+        "macOS": "open steam://rungameid/631120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "raybeem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369204"
+}
