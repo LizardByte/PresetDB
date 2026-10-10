@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357113,
+  "name": "Going Viral",
+  "source_url": "https://www.igdb.com/games/going-viral",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6a3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Going Viral",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3894780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3894780",
+        "Linux": "setsid steam steam://rungameid/3894780",
+        "macOS": "open steam://rungameid/3894780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "going-viral",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357113"
+}
