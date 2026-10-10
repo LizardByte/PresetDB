@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368795,
+  "name": "Last Summer",
+  "source_url": "https://www.igdb.com/games/last-summer--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaigi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Summer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3937880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3937880",
+        "Linux": "setsid steam steam://rungameid/3937880",
+        "macOS": "open steam://rungameid/3937880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-summer--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368795"
+}
