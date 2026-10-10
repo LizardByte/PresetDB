@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372382,
+  "name": "Sacred World",
+  "source_url": "https://www.igdb.com/games/sacred-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanco.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sacred World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3965520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3965520",
+        "Linux": "setsid steam steam://rungameid/3965520",
+        "macOS": "open steam://rungameid/3965520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sacred-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372382"
+}
