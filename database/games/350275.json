@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350275,
+  "name": "Forsaken Manor",
+  "source_url": "https://www.igdb.com/games/forsaken-manor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa0ar.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Forsaken Manor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3721570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3721570",
+        "Linux": "setsid steam steam://rungameid/3721570",
+        "macOS": "open steam://rungameid/3721570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "forsaken-manor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350275"
+}
