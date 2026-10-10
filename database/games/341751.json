@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341751,
+  "name": "Lightbulb",
+  "source_url": "https://www.igdb.com/games/lightbulb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaym9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lightbulb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3638400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3638400",
+        "Linux": "setsid steam steam://rungameid/3638400",
+        "macOS": "open steam://rungameid/3638400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lightbulb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341751"
+}
