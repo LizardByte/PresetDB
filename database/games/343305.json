@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343305,
+  "name": "Grubby Fingers",
+  "source_url": "https://www.igdb.com/games/grubby-fingers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9slu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grubby Fingers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3414240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3414240",
+        "Linux": "setsid steam steam://rungameid/3414240",
+        "macOS": "open steam://rungameid/3414240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grubby-fingers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343305"
+}
