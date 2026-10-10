@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347463,
+  "name": "Alice in Disguise",
+  "source_url": "https://www.igdb.com/games/alice-in-disguise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9xc8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alice in Disguise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3432840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3432840",
+        "Linux": "setsid steam steam://rungameid/3432840",
+        "macOS": "open steam://rungameid/3432840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alice-in-disguise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347463"
+}
