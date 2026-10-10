@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340000,
+  "name": "Stackmancy",
+  "source_url": "https://www.igdb.com/games/stackmancy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sh5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stackmancy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3612610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3612610",
+        "Linux": "setsid steam steam://rungameid/3612610",
+        "macOS": "open steam://rungameid/3612610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stackmancy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340000"
+}
