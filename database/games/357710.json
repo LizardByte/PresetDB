@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357710,
+  "name": "GladiArena",
+  "source_url": "https://www.igdb.com/games/gladiarena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6wk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GladiArena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3801490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3801490",
+        "Linux": "setsid steam steam://rungameid/3801490",
+        "macOS": "open steam://rungameid/3801490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gladiarena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357710"
+}
