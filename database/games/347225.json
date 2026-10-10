@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347225,
+  "name": "Fairground Online",
+  "source_url": "https://www.igdb.com/games/fairground-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9wza.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fairground Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3310530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3310530",
+        "Linux": "setsid steam steam://rungameid/3310530",
+        "macOS": "open steam://rungameid/3310530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fairground-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347225"
+}
