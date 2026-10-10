@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370237,
+  "name": "B-Line",
+  "source_url": "https://www.igdb.com/games/b-line",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coak8c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "B-Line",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3939010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3939010",
+        "Linux": "setsid steam steam://rungameid/3939010",
+        "macOS": "open steam://rungameid/3939010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "b-line",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370237"
+}
