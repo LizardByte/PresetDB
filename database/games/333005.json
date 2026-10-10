@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333005,
+  "name": "Sunshine Farm",
+  "source_url": "https://www.igdb.com/games/sunshine-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sunshine Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3159000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3159000",
+        "Linux": "setsid steam steam://rungameid/3159000",
+        "macOS": "open steam://rungameid/3159000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sunshine-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333005"
+}
