@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368568,
+  "name": "Realms Edge",
+  "source_url": "https://www.igdb.com/games/realms-edge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhg5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Realms Edge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "404870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/404870",
+        "Linux": "setsid steam steam://rungameid/404870",
+        "macOS": "open steam://rungameid/404870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "realms-edge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368568"
+}
