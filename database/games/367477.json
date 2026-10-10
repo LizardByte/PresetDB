@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367477,
+  "name": "Practical Pinball",
+  "source_url": "https://www.igdb.com/games/practical-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coai1o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Practical Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3690630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3690630",
+        "Linux": "setsid steam steam://rungameid/3690630",
+        "macOS": "open steam://rungameid/3690630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "practical-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367477"
+}
