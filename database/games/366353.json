@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366353,
+  "name": "Hold Me Still",
+  "source_url": "https://www.igdb.com/games/hold-me-still",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafoq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hold Me Still",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3733670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3733670",
+        "Linux": "setsid steam steam://rungameid/3733670",
+        "macOS": "open steam://rungameid/3733670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hold-me-still",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366353"
+}
