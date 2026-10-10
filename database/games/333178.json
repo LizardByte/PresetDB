@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333178,
+  "name": "Nelumbra",
+  "source_url": "https://www.igdb.com/games/nelumbra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9leg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nelumbra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3281380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3281380",
+        "Linux": "setsid steam steam://rungameid/3281380",
+        "macOS": "open steam://rungameid/3281380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nelumbra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333178"
+}
