@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333336,
+  "name": "Fomon",
+  "source_url": "https://www.igdb.com/games/fomon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9l7c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fomon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3166930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3166930",
+        "Linux": "setsid steam steam://rungameid/3166930",
+        "macOS": "open steam://rungameid/3166930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fomon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333336"
+}
