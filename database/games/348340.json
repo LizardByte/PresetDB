@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348340,
+  "name": "Solus Machina",
+  "source_url": "https://www.igdb.com/games/solus-machina",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7ph.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solus Machina",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2672550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2672550",
+        "Linux": "setsid steam steam://rungameid/2672550",
+        "macOS": "open steam://rungameid/2672550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "solus-machina",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348340"
+}
