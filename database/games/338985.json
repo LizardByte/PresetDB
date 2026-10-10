@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338985,
+  "name": "Jump to Space",
+  "source_url": "https://www.igdb.com/games/jump-to-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jump to Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3530120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3530120",
+        "Linux": "setsid steam steam://rungameid/3530120",
+        "macOS": "open steam://rungameid/3530120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jump-to-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338985"
+}
