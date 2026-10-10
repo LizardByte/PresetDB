@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344541,
+  "name": "Stick and Stack",
+  "source_url": "https://www.igdb.com/games/stick-and-stack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9u5u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stick and Stack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3655080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3655080",
+        "Linux": "setsid steam steam://rungameid/3655080",
+        "macOS": "open steam://rungameid/3655080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stick-and-stack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344541"
+}
