@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365215,
+  "name": "These Are Them",
+  "source_url": "https://www.igdb.com/games/these-are-them",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaee1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "These Are Them",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3949080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3949080",
+        "Linux": "setsid steam steam://rungameid/3949080",
+        "macOS": "open steam://rungameid/3949080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "these-are-them",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365215"
+}
