@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349668,
+  "name": "I/O",
+  "source_url": "https://www.igdb.com/games/i-slash-o--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9zib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I/O",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3806440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3806440",
+        "Linux": "setsid steam steam://rungameid/3806440",
+        "macOS": "open steam://rungameid/3806440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-slash-o--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349668"
+}
