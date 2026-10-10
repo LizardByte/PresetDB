@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 362292,
+  "name": "Take Me Home",
+  "source_url": "https://www.igdb.com/games/take-me-home--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacrq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Take Me Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3150020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3150020",
+        "Linux": "setsid steam steam://rungameid/3150020",
+        "macOS": "open steam://rungameid/3150020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "take-me-home--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=362292"
+}
