@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368878,
+  "name": "Bubble Shot",
+  "source_url": "https://www.igdb.com/games/bubble-shot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coails.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bubble Shot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1955820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1955820",
+        "Linux": "setsid steam steam://rungameid/1955820",
+        "macOS": "open steam://rungameid/1955820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bubble-shot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368878"
+}
