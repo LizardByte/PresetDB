@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337749,
+  "name": "Zozo's Show",
+  "source_url": "https://www.igdb.com/games/zozos-show",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lug.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zozo's Show",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3226180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3226180",
+        "Linux": "setsid steam steam://rungameid/3226180",
+        "macOS": "open steam://rungameid/3226180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zozos-show",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337749"
+}
