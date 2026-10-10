@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339603,
+  "name": "Okey.gg",
+  "source_url": "https://www.igdb.com/games/okey-dot-gg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nmt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Okey.gg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3349960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3349960",
+        "Linux": "setsid steam steam://rungameid/3349960",
+        "macOS": "open steam://rungameid/3349960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "okey-dot-gg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339603"
+}
