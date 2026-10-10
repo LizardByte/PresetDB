@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365521,
+  "name": "AFK GF",
+  "source_url": "https://www.igdb.com/games/afk-gf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc08a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AFK GF",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3664630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3664630",
+        "Linux": "setsid steam steam://rungameid/3664630",
+        "macOS": "open steam://rungameid/3664630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "afk-gf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365521"
+}
