@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337652,
+  "name": "Pineapple Panic!",
+  "source_url": "https://www.igdb.com/games/pineapple-panic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcpm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pineapple Panic!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3041960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3041960",
+        "Linux": "setsid steam steam://rungameid/3041960",
+        "macOS": "open steam://rungameid/3041960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pineapple-panic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337652"
+}
