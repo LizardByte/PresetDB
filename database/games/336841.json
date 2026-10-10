@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336841,
+  "name": "Greybit",
+  "source_url": "https://www.igdb.com/games/greybit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9kuk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Greybit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3015310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3015310",
+        "Linux": "setsid steam steam://rungameid/3015310",
+        "macOS": "open steam://rungameid/3015310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "greybit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336841"
+}
