@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367388,
+  "name": "Lady's Escape",
+  "source_url": "https://www.igdb.com/games/ladys-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagtq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lady's Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990180",
+        "Linux": "setsid steam steam://rungameid/2990180",
+        "macOS": "open steam://rungameid/2990180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ladys-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367388"
+}
