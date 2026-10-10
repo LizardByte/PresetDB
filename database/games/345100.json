@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345100,
+  "name": "Dino Space Station",
+  "source_url": "https://www.igdb.com/games/dino-space-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagi6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dino Space Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3406740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3406740",
+        "Linux": "setsid steam steam://rungameid/3406740",
+        "macOS": "open steam://rungameid/3406740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dino-space-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345100"
+}
