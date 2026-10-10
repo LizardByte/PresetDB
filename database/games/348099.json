@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348099,
+  "name": "Strife Lords",
+  "source_url": "https://www.igdb.com/games/strife-lords",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ydf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Strife Lords",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3429300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3429300",
+        "Linux": "setsid steam steam://rungameid/3429300",
+        "macOS": "open steam://rungameid/3429300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "strife-lords",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348099"
+}
