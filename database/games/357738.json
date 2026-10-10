@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357738,
+  "name": "Experiment",
+  "source_url": "https://www.igdb.com/games/experiment--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6xk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Experiment",
+      "os": null,
+      "method": "steam",
+      "launch_id": "678050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/678050",
+        "Linux": "setsid steam steam://rungameid/678050",
+        "macOS": "open steam://rungameid/678050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "experiment--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357738"
+}
