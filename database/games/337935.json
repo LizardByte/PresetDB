@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337935,
+  "name": "Wonderland",
+  "source_url": "https://www.igdb.com/games/wonderland--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9m0u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wonderland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3356800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3356800",
+        "Linux": "setsid steam steam://rungameid/3356800",
+        "macOS": "open steam://rungameid/3356800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wonderland--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337935"
+}
