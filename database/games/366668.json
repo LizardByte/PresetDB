@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366668,
+  "name": "Secret File",
+  "source_url": "https://www.igdb.com/games/secret-file",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafw6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Secret File",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3979880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3979880",
+        "Linux": "setsid steam steam://rungameid/3979880",
+        "macOS": "open steam://rungameid/3979880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "secret-file",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366668"
+}
