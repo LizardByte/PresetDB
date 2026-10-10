@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341450,
+  "name": "Mountain's Memory",
+  "source_url": "https://www.igdb.com/games/mountains-memory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sub.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mountain's Memory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3633580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3633580",
+        "Linux": "setsid steam steam://rungameid/3633580",
+        "macOS": "open steam://rungameid/3633580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mountains-memory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341450"
+}
