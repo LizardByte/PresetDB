@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332702,
+  "name": "Boring",
+  "source_url": "https://www.igdb.com/games/boring",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9fqb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boring",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3128950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3128950",
+        "Linux": "setsid steam steam://rungameid/3128950",
+        "macOS": "open steam://rungameid/3128950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boring",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332702"
+}
