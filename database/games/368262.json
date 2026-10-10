@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368262,
+  "name": "Tricky Fox",
+  "source_url": "https://www.igdb.com/games/tricky-fox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahub.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tricky Fox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1083450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1083450",
+        "Linux": "setsid steam steam://rungameid/1083450",
+        "macOS": "open steam://rungameid/1083450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tricky-fox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368262"
+}
