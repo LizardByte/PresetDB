@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348785,
+  "name": "SoulWander",
+  "source_url": "https://www.igdb.com/games/soulwander",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yw8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SoulWander",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3224280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3224280",
+        "Linux": "setsid steam steam://rungameid/3224280",
+        "macOS": "open steam://rungameid/3224280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulwander",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348785"
+}
