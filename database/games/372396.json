@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372396,
+  "name": "Noneworld",
+  "source_url": "https://www.igdb.com/games/noneworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocacr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Noneworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3365680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3365680",
+        "Linux": "setsid steam steam://rungameid/3365680",
+        "macOS": "open steam://rungameid/3365680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "noneworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372396"
+}
