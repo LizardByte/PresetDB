@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372597,
+  "name": "Homeshift",
+  "source_url": "https://www.igdb.com/games/homeshift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanlv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Homeshift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3863240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3863240",
+        "Linux": "setsid steam steam://rungameid/3863240",
+        "macOS": "open steam://rungameid/3863240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "homeshift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372597"
+}
