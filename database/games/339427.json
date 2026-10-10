@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339427,
+  "name": "Switch Poker",
+  "source_url": "https://www.igdb.com/games/switch-poker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ne0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Switch Poker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3283830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3283830",
+        "Linux": "setsid steam steam://rungameid/3283830",
+        "macOS": "open steam://rungameid/3283830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "switch-poker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339427"
+}
