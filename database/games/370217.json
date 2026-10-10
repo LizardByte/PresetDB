@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370217,
+  "name": "Joey The Duck",
+  "source_url": "https://www.igdb.com/games/joey-the-duck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalzd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Joey The Duck",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3929830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3929830",
+        "Linux": "setsid steam steam://rungameid/3929830",
+        "macOS": "open steam://rungameid/3929830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "joey-the-duck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370217"
+}
