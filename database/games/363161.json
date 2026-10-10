@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363161,
+  "name": "Alien Madness",
+  "source_url": "https://www.igdb.com/games/alien-madness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien Madness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3875030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3875030",
+        "Linux": "setsid steam steam://rungameid/3875030",
+        "macOS": "open steam://rungameid/3875030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-madness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363161"
+}
