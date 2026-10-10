@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333670,
+  "name": "Apple Man",
+  "source_url": "https://www.igdb.com/games/apple-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9grh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Apple Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3419770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3419770",
+        "Linux": "setsid steam steam://rungameid/3419770",
+        "macOS": "open steam://rungameid/3419770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "apple-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333670"
+}
