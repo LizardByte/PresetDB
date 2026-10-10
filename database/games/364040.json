@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364040,
+  "name": "The Little Adventure",
+  "source_url": "https://www.igdb.com/games/the-little-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafgo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Little Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3383850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3383850",
+        "Linux": "setsid steam steam://rungameid/3383850",
+        "macOS": "open steam://rungameid/3383850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-little-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364040"
+}
