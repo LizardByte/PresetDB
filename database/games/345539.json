@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345539,
+  "name": "King's Guard",
+  "source_url": "https://www.igdb.com/games/kings-guard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxjs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King's Guard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3720900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3720900",
+        "Linux": "setsid steam steam://rungameid/3720900",
+        "macOS": "open steam://rungameid/3720900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kings-guard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345539"
+}
