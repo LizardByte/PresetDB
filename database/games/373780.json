@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373780,
+  "name": "Monkey Testing",
+  "source_url": "https://www.igdb.com/games/monkey-testing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaoyp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monkey Testing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3462340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3462340",
+        "Linux": "setsid steam steam://rungameid/3462340",
+        "macOS": "open steam://rungameid/3462340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monkey-testing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373780"
+}
