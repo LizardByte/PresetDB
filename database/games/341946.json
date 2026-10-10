@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341946,
+  "name": "OrbGuard",
+  "source_url": "https://www.igdb.com/games/orbguard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qo0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OrbGuard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2772700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2772700",
+        "Linux": "setsid steam steam://rungameid/2772700",
+        "macOS": "open steam://rungameid/2772700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "orbguard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341946"
+}
