@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345108,
+  "name": "Multigun",
+  "source_url": "https://www.igdb.com/games/multigun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa816.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Multigun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3722210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3722210",
+        "Linux": "setsid steam steam://rungameid/3722210",
+        "macOS": "open steam://rungameid/3722210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "multigun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345108"
+}
