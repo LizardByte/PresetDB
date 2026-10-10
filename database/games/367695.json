@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367695,
+  "name": "Street Lords",
+  "source_url": "https://www.igdb.com/games/street-lords",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1qt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Street Lords",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2204830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2204830",
+        "Linux": "setsid steam steam://rungameid/2204830",
+        "macOS": "open steam://rungameid/2204830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "street-lords",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367695"
+}
