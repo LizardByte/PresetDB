@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346424,
+  "name": "HoloReversi",
+  "source_url": "https://www.igdb.com/games/holoreversi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa598.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HoloReversi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3446980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3446980",
+        "Linux": "setsid steam steam://rungameid/3446980",
+        "macOS": "open steam://rungameid/3446980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "holoreversi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346424"
+}
