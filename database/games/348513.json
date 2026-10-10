@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348513,
+  "name": "Oh? Me",
+  "source_url": "https://www.igdb.com/games/oh-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9y4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oh? Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3557480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3557480",
+        "Linux": "setsid steam steam://rungameid/3557480",
+        "macOS": "open steam://rungameid/3557480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oh-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348513"
+}
