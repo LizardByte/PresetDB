@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 356021,
+  "name": "Alebound",
+  "source_url": "https://www.igdb.com/games/alebound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa69y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alebound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3538800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3538800",
+        "Linux": "setsid steam steam://rungameid/3538800",
+        "macOS": "open steam://rungameid/3538800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alebound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=356021"
+}
