@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366978,
+  "name": "Force Restart",
+  "source_url": "https://www.igdb.com/games/force-restart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coag9n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Force Restart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3827730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3827730",
+        "Linux": "setsid steam steam://rungameid/3827730",
+        "macOS": "open steam://rungameid/3827730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "force-restart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366978"
+}
