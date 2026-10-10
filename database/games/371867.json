@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371867,
+  "name": "Tyr",
+  "source_url": "https://www.igdb.com/games/tyr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamua.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tyr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2445260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2445260",
+        "Linux": "setsid steam steam://rungameid/2445260",
+        "macOS": "open steam://rungameid/2445260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tyr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371867"
+}
