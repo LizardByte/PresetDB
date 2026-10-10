@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367237,
+  "name": "Decker",
+  "source_url": "https://www.igdb.com/games/decker--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobiag.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Decker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1096230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1096230",
+        "Linux": "setsid steam steam://rungameid/1096230",
+        "macOS": "open steam://rungameid/1096230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "decker--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367237"
+}
