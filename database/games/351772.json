@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351772,
+  "name": "Plumber’s Legacy",
+  "source_url": "https://www.igdb.com/games/plumbers-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa283.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plumber’s Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3741110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3741110",
+        "Linux": "setsid steam steam://rungameid/3741110",
+        "macOS": "open steam://rungameid/3741110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plumbers-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351772"
+}
