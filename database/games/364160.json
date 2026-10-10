@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364160,
+  "name": "Untapped",
+  "source_url": "https://www.igdb.com/games/untapped",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coad72.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Untapped",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3620210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3620210",
+        "Linux": "setsid steam steam://rungameid/3620210",
+        "macOS": "open steam://rungameid/3620210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "untapped",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364160"
+}
