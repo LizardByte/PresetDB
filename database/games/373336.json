@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373336,
+  "name": "Phil in the Mirror",
+  "source_url": "https://www.igdb.com/games/phil-in-the-mirror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaofi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phil in the Mirror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3870020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3870020",
+        "Linux": "setsid steam steam://rungameid/3870020",
+        "macOS": "open steam://rungameid/3870020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phil-in-the-mirror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373336"
+}
