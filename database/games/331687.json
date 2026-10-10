@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 331687,
+  "name": "Nirvana",
+  "source_url": "https://www.igdb.com/games/nirvana--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9enr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nirvana",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3462980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3462980",
+        "Linux": "setsid steam steam://rungameid/3462980",
+        "macOS": "open steam://rungameid/3462980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nirvana--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=331687"
+}
