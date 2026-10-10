@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368875,
+  "name": "Pumpkin Hop",
+  "source_url": "https://www.igdb.com/games/pumpkin-hop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaije.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pumpkin Hop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3481970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3481970",
+        "Linux": "setsid steam steam://rungameid/3481970",
+        "macOS": "open steam://rungameid/3481970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pumpkin-hop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368875"
+}
