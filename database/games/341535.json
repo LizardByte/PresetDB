@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341535,
+  "name": "Ludaro",
+  "source_url": "https://www.igdb.com/games/ludaro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ludaro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3613030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3613030",
+        "Linux": "setsid steam steam://rungameid/3613030",
+        "macOS": "open steam://rungameid/3613030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ludaro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341535"
+}
