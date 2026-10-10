@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341235,
+  "name": "Mini Estate",
+  "source_url": "https://www.igdb.com/games/mini-estate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pkd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mini Estate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3405200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3405200",
+        "Linux": "setsid steam steam://rungameid/3405200",
+        "macOS": "open steam://rungameid/3405200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mini-estate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341235"
+}
