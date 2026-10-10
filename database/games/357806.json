@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357806,
+  "name": "Sea of Secrets",
+  "source_url": "https://www.igdb.com/games/sea-of-secrets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6yr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sea of Secrets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "610710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/610710",
+        "Linux": "setsid steam steam://rungameid/610710",
+        "macOS": "open steam://rungameid/610710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sea-of-secrets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357806"
+}
