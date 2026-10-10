@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364922,
+  "name": "Uncommon App",
+  "source_url": "https://www.igdb.com/games/uncommon-app",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coadzk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Uncommon App",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3834820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3834820",
+        "Linux": "setsid steam steam://rungameid/3834820",
+        "macOS": "open steam://rungameid/3834820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "uncommon-app",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364922"
+}
