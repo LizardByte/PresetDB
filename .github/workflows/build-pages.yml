@@ -36,6 +36,14 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
+      - name: Restore ProtonDB ratings
+        id: protondb-cache
+        uses: actions/cache/restore@55cc8345863c7cc4c66a329aec7e433d2d1c52a9  # v6.1.0
+        with:
+          path: .cache/protondb.json
+          key: protondb-v1-${{ runner.os }}-${{ github.run_id }}-${{ github.run_attempt }}
+          restore-keys: protondb-v1-${{ runner.os }}-
+
       - name: Preview database migrations
         if: github.event_name == 'pull_request'
         shell: bash
@@ -46,7 +54,18 @@ jobs:
             --backup-branch "database-backup-$source_commit" --source-commit "$source_commit"
 
       - name: Assemble site
-        run: node src/build-site.js --database database-branch/database --output site-build
+        env:
+          PROTONDB_MODE: ${{ github.event_name == 'pull_request' && 'cache-only' || 'refresh' }}
+        run: >-
+          node src/build-site.js --database database-branch/database --output site-build
+          --protondb-cache .cache/protondb.json --protondb-mode "$PROTONDB_MODE"
+
+      - name: Save ProtonDB ratings
+        if: github.event_name != 'pull_request'
+        uses: actions/cache/save@55cc8345863c7cc4c66a329aec7e433d2d1c52a9  # v6.1.0
+        with:
+          path: .cache/protondb.json
+          key: ${{ steps.protondb-cache.outputs.cache-primary-key }}
 
       - name: Archive site
         run: |

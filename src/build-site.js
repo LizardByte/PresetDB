@@ -11,6 +11,26 @@ function supportedOs(preset) {
 }
 
 const PROTON_TIERS = new Set(['borked', 'bronze', 'silver', 'gold', 'platinum', 'native']);
+const PROTON_CACHE_MAX_AGE = 7 * 24 * 60 * 60 * 1000;
+
+function readProtonDbCache(file) {
+  if (!file || !fs.existsSync(file)) return {};
+  try {
+    const cache = JSON.parse(fs.readFileSync(file, 'utf8'));
+    if (cache?.schema_version === 1 && cache.apps && typeof cache.apps === 'object' &&
+        !Array.isArray(cache.apps)) return cache.apps;
+  } catch {
+    // Ratings are optional; a missing or invalid cache must not block a preview.
+  }
+  return {};
+}
+
+function validProtonDbCacheEntry(entry, now) {
+  if (!Number.isSafeInteger(entry?.fetched_at) || entry.fetched_at < 0 || entry.fetched_at > now) return false;
+  const rating = entry.rating;
+  return rating === null || (rating && PROTON_TIERS.has(rating.tier) &&
+    (rating.reports === null || (Number.isInteger(rating.reports) && rating.reports >= 0)));
+}
 
 async function protonDbRating(appId, fetcher) {
   try {
@@ -29,28 +49,47 @@ async function protonDbRating(appId, fetcher) {
   }
 }
 
-async function addProtonDb(records, fetcher) {
+async function addProtonDb(records, fetcher, { cacheFile, mode, now }) {
   const ids = [...new Set(records.flatMap(item => item.presets
     .filter(preset => preset.method === 'steam' && /^[1-9]\d{0,9}$/.test(preset.launch_id || ''))
     .map(preset => preset.launch_id)))];
+  const prior = readProtonDbCache(cacheFile);
   const cache = new Map();
   let next = 0;
+  let cached = 0;
+  let fetched = 0;
   await Promise.all(Array.from({ length: Math.min(32, ids.length) }, async () => {
     while (next < ids.length) {
       const appId = ids[next++];
-      cache.set(appId, await protonDbRating(appId, fetcher));
+      const entry = validProtonDbCacheEntry(prior[appId], now) ? prior[appId] : null;
+      if (mode === 'cache-only' || (entry && now - entry.fetched_at < PROTON_CACHE_MAX_AGE)) {
+        if (entry) cached++;
+        cache.set(appId, entry);
+        continue;
+      }
+      fetched++;
+      const rating = await protonDbRating(appId, fetcher);
+      cache.set(appId, { fetched_at: now, rating: rating ?? entry?.rating ?? null });
     }
   }));
   for (const item of records) {
     for (const preset of item.presets) {
       if (!cache.has(preset.launch_id)) continue;
       preset.protondb_url = 'https://www.protondb.com/app/' + preset.launch_id;
-      preset.protondb = cache.get(preset.launch_id);
+      preset.protondb = cache.get(preset.launch_id)?.rating ?? null;
     }
   }
+  if (cacheFile && mode === 'refresh') {
+    fs.mkdirSync(path.dirname(cacheFile), { recursive: true });
+    fs.writeFileSync(cacheFile, JSON.stringify({ schema_version: 1, apps: Object.fromEntries(cache) }) + '\n');
+  }
+  console.log(`ProtonDB ratings: ${ids.length} Steam IDs, ${cached} cached, ${fetched} fetched`);
 }
 
-async function buildSite(database, template, output, fetcher = globalThis.fetch) {
+async function buildSite(database, template, output, fetcher = globalThis.fetch, {
+  cacheFile, mode = 'refresh', now = Date.now()
+} = {}) {
+  if (!['refresh', 'cache-only'].includes(mode)) throw new Error('ProtonDB mode must be refresh or cache-only');
   fs.mkdirSync(output, { recursive: true });
   fs.cpSync(template, output, { recursive: true });
   const index = { schema_version: 1, games: [], apps: [] };
@@ -77,7 +116,7 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
     }
     index[folder].sort((a, b) => a.name.localeCompare(b.name) || String(a.id).localeCompare(String(b.id)));
   }
-  await addProtonDb(records, fetcher);
+  await addProtonDb(records, fetcher, { cacheFile, mode, now });
   for (const item of records) {
     const folder = item.kind === 'game' ? 'games' : 'apps';
     fs.writeFileSync(path.join(output, folder, `${item.id}.json`), JSON.stringify(item, null, 2) + '\n');
@@ -90,13 +129,15 @@ async function buildSite(database, template, output, fetcher = globalThis.fetch)
   return index;
 }
 
-async function main(args = process.argv.slice(2)) {
+async function main(args = process.argv.slice(2), fetcher = globalThis.fetch) {
   const values = {};
   for (let i = 0; i < args.length; i += 2) values[args[i]] = args[i + 1];
   if (!values['--database'] || !values['--output']) throw new Error('Use --database and --output');
-  await buildSite(values['--database'], values['--template'] || 'gh-pages-template', values['--output']);
+  return buildSite(values['--database'], values['--template'] || 'gh-pages-template', values['--output'], fetcher, {
+    cacheFile: values['--protondb-cache'], mode: values['--protondb-mode'] || 'refresh'
+  });
 }
 
 if (require.main === module) main().catch(error => { console.error(error); process.exitCode = 1; });
 
-module.exports = { buildSite, protonDbRating };
+module.exports = { buildSite, protonDbRating, main };
