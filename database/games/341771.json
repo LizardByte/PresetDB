@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341771,
+  "name": "Pushmania",
+  "source_url": "https://www.igdb.com/games/pushmania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qef.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pushmania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3242870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3242870",
+        "Linux": "setsid steam steam://rungameid/3242870",
+        "macOS": "open steam://rungameid/3242870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pushmania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341771"
+}
