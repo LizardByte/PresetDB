@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372710,
+  "name": "Who Summoned It?",
+  "source_url": "https://www.igdb.com/games/who-summoned-it",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcm4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Who Summoned It?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3682850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3682850",
+        "Linux": "setsid steam steam://rungameid/3682850",
+        "macOS": "open steam://rungameid/3682850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "who-summoned-it",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372710"
+}
