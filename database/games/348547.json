@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348547,
+  "name": "Blaster Boy",
+  "source_url": "https://www.igdb.com/games/blaster-boy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9y5j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blaster Boy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3019510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3019510",
+        "Linux": "setsid steam steam://rungameid/3019510",
+        "macOS": "open steam://rungameid/3019510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blaster-boy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348547"
+}
