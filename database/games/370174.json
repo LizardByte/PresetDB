@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370174,
+  "name": "JustJump!",
+  "source_url": "https://www.igdb.com/games/justjump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coak5r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JustJump!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3206790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3206790",
+        "Linux": "setsid steam steam://rungameid/3206790",
+        "macOS": "open steam://rungameid/3206790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "justjump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370174"
+}
