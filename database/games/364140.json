@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364140,
+  "name": "Walk the Plank",
+  "source_url": "https://www.igdb.com/games/walk-the-plank",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobett.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Walk the Plank",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3778020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3778020",
+        "Linux": "setsid steam steam://rungameid/3778020",
+        "macOS": "open steam://rungameid/3778020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "walk-the-plank",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364140"
+}
