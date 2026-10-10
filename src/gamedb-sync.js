@@ -77,32 +77,51 @@ function git(checkout, args) {
   return execFileSync('/usr/bin/git', args, { cwd: checkout, encoding: 'utf8', stdio: 'pipe' });
 }
 
-function publishGame({ checkout, game, file, onPublished, gitCommand = git }) {
-  const relative = `database/games/${game.id}.json`;
+function publishBatch({ checkout, games, onPublished, gitCommand = git }) {
   for (let attempt = 1; attempt <= 5; attempt++) {
     gitCommand(checkout, ['fetch', 'origin', 'database']);
     gitCommand(checkout, ['reset', '--hard', 'origin/database']);
-    const desired = mergeGame(game, readRecord(file));
-    if (!desired) return false;
-    fs.mkdirSync(path.dirname(file), { recursive: true });
-    fs.writeFileSync(file, `${JSON.stringify(desired, null, 2)}\n`);
-    gitCommand(checkout, ['add', '--', relative]);
-    gitCommand(checkout, ['commit', '-m', `chore: sync GameDB game ${game.id}`, '--', relative]);
+    let published = 0;
+    for (const game of games) {
+      const relative = `database/games/${game.id}.json`;
+      const file = path.join(checkout, relative);
+      const desired = mergeGame(game, readRecord(file));
+      if (!desired) continue;
+      fs.mkdirSync(path.dirname(file), { recursive: true });
+      fs.writeFileSync(file, `${JSON.stringify(desired, null, 2)}\n`);
+      gitCommand(checkout, ['add', '--', relative]);
+      gitCommand(checkout, ['commit', '-m', `chore: sync GameDB game ${game.id}`, '--', relative]);
+      published++;
+    }
+    if (!published) return 0;
     try {
       gitCommand(checkout, ['push', 'origin', 'HEAD:database']);
-      onPublished?.();
-      return true;
     } catch (error) {
       if (attempt === 5) throw error;
-      console.log(`Database branch moved while publishing game ${game.id}; retrying`);
+      console.log('Database branch moved while publishing GameDB batch; retrying');
+      continue;
     }
+    onPublished?.();
+    return published;
   }
 }
 
-function run({ gameDbDir, checkout, onPublished, gitCommand = git }) {
+function run({ gameDbDir, checkout, batchSize = 500, onPublished, gitCommand = git }) {
+  if (!Number.isSafeInteger(batchSize) || batchSize < 1) {
+    throw new Error('Batch size must be a positive safe integer');
+  }
   const database = path.join(checkout, 'database');
   const index = JSON.parse(fs.readFileSync(path.join(gameDbDir, 'platforms', '6.json'), 'utf8'));
   const counts = { scanned: 0, eligible: 0, published: 0, current: 0 };
+  let pending = [];
+  function flushBatch() {
+    if (!pending.length) return;
+    const published = publishBatch({ checkout, games: pending, onPublished, gitCommand });
+    counts.published += published;
+    counts.current += pending.length - published;
+    console.log(`Published GameDB batch: ${published} games`);
+    pending = [];
+  }
   for (const id of pcGameIds(index)) {
     counts.scanned++;
     const source = JSON.parse(fs.readFileSync(path.join(gameDbDir, 'games', `${id}.json`), 'utf8'));
@@ -112,11 +131,10 @@ function run({ gameDbDir, checkout, onPublished, gitCommand = git }) {
     counts.eligible++;
     const file = path.join(database, 'games', `${id}.json`);
     if (!mergeGame(game, readRecord(file))) { counts.current++; continue; }
-    if (publishGame({ checkout, game, file, onPublished, gitCommand })) {
-      counts.published++;
-      console.log(`Published game ${id}`);
-    } else counts.current++;
+    pending.push(game);
+    if (pending.length === batchSize) flushBatch();
   }
+  flushBatch();
   console.log(`GameDB Steam sync: ${JSON.stringify(counts)}`);
   return counts;
 }
@@ -131,6 +149,7 @@ function main(args = process.argv.slice(2), env = process.env, gitCommand = git)
   return run({
     gameDbDir: path.resolve(option('--gamedb')),
     checkout: path.resolve(option('--database')),
+    batchSize: args.includes('--batch-size') ? Number(option('--batch-size')) : 500,
     gitCommand,
     onPublished: () => {
       if (!reported && env.GITHUB_OUTPUT) {
@@ -141,6 +160,6 @@ function main(args = process.argv.slice(2), env = process.env, gitCommand = git)
   });
 }
 
-module.exports = { pcGameIds, steamCandidate, mergeGame, publishGame, run, main };
+module.exports = { pcGameIds, steamCandidate, mergeGame, publishBatch, run, main };
 
 if (require.main === module) main();
