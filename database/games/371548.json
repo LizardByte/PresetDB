@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371548,
+  "name": "My Little Coffee Shop",
+  "source_url": "https://www.igdb.com/games/my-little-coffee-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamcs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Little Coffee Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4067800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4067800",
+        "Linux": "setsid steam steam://rungameid/4067800",
+        "macOS": "open steam://rungameid/4067800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-little-coffee-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371548"
+}
