@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372704,
+  "name": "AIgent",
+  "source_url": "https://www.igdb.com/games/aigent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanpl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AIgent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3713550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3713550",
+        "Linux": "setsid steam steam://rungameid/3713550",
+        "macOS": "open steam://rungameid/3713550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aigent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372704"
+}
