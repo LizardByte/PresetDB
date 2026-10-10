@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350156,
+  "name": "Drop Point",
+  "source_url": "https://www.igdb.com/games/drop-point",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa03s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drop Point",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2545030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2545030",
+        "Linux": "setsid steam steam://rungameid/2545030",
+        "macOS": "open steam://rungameid/2545030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drop-point",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350156"
+}
