@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 356078,
+  "name": "Derpy Fish",
+  "source_url": "https://www.igdb.com/games/derpy-fish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa671.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Derpy Fish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3470090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3470090",
+        "Linux": "setsid steam steam://rungameid/3470090",
+        "macOS": "open steam://rungameid/3470090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "derpy-fish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=356078"
+}
