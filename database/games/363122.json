@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363122,
+  "name": "Last Journal",
+  "source_url": "https://www.igdb.com/games/last-journal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coach1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Journal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3891100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3891100",
+        "Linux": "setsid steam steam://rungameid/3891100",
+        "macOS": "open steam://rungameid/3891100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-journal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363122"
+}
