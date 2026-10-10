@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371353,
+  "name": "Mirage",
+  "source_url": "https://www.igdb.com/games/mirage--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coam1w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mirage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1245780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1245780",
+        "Linux": "setsid steam steam://rungameid/1245780",
+        "macOS": "open steam://rungameid/1245780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mirage--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371353"
+}
