@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345634,
+  "name": "Getting Goopy",
+  "source_url": "https://www.igdb.com/games/getting-goopy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vh1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Getting Goopy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3591300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3591300",
+        "Linux": "setsid steam steam://rungameid/3591300",
+        "macOS": "open steam://rungameid/3591300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "getting-goopy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345634"
+}
