@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346030,
+  "name": "Gnaughty Gnomes",
+  "source_url": "https://www.igdb.com/games/gnaughty-gnomes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vqb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gnaughty Gnomes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3454480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3454480",
+        "Linux": "setsid steam steam://rungameid/3454480",
+        "macOS": "open steam://rungameid/3454480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gnaughty-gnomes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346030"
+}
