@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343340,
+  "name": "Don't Die!",
+  "source_url": "https://www.igdb.com/games/dont-die--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1dc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Die!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "856220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/856220",
+        "Linux": "setsid steam steam://rungameid/856220",
+        "macOS": "open steam://rungameid/856220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-die--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343340"
+}
