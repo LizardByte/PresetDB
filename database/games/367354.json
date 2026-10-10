@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367354,
+  "name": "EvilSlayer",
+  "source_url": "https://www.igdb.com/games/evilslayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaixc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EvilSlayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3582020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3582020",
+        "Linux": "setsid steam steam://rungameid/3582020",
+        "macOS": "open steam://rungameid/3582020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evilslayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367354"
+}
