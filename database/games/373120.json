@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373120,
+  "name": "Kitty Claw",
+  "source_url": "https://www.igdb.com/games/kitty-claw",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coao6f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitty Claw",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3503590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3503590",
+        "Linux": "setsid steam steam://rungameid/3503590",
+        "macOS": "open steam://rungameid/3503590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kitty-claw",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373120"
+}
