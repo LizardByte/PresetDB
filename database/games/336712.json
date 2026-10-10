@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336712,
+  "name": "SpinGhost",
+  "source_url": "https://www.igdb.com/games/spinghost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1cu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SpinGhost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3082200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3082200",
+        "Linux": "setsid steam steam://rungameid/3082200",
+        "macOS": "open steam://rungameid/3082200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spinghost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336712"
+}
