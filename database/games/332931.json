@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332931,
+  "name": "Exoforge",
+  "source_url": "https://www.igdb.com/games/exoforge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g0a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exoforge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2623630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2623630",
+        "Linux": "setsid steam steam://rungameid/2623630",
+        "macOS": "open steam://rungameid/2623630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exoforge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332931"
+}
