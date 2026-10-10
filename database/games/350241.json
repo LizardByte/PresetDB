@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350241,
+  "name": "Do Not Disturb",
+  "source_url": "https://www.igdb.com/games/do-not-disturb",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa09g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Do Not Disturb",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3440140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3440140",
+        "Linux": "setsid steam steam://rungameid/3440140",
+        "macOS": "open steam://rungameid/3440140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "do-not-disturb",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350241"
+}
