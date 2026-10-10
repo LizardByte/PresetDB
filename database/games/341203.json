@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341203,
+  "name": "Magic Sword",
+  "source_url": "https://www.igdb.com/games/magic-sword--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pjw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Sword",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3208470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3208470",
+        "Linux": "setsid steam steam://rungameid/3208470",
+        "macOS": "open steam://rungameid/3208470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-sword--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341203"
+}
