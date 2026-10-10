@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333240,
+  "name": "What's On The Menu?",
+  "source_url": "https://www.igdb.com/games/whats-on-the-menu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gc0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What's On The Menu?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3197560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3197560",
+        "Linux": "setsid steam steam://rungameid/3197560",
+        "macOS": "open steam://rungameid/3197560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whats-on-the-menu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333240"
+}
