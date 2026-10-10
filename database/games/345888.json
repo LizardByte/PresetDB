@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345888,
+  "name": "The Bagman",
+  "source_url": "https://www.igdb.com/games/the-bagman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Bagman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3718500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3718500",
+        "Linux": "setsid steam steam://rungameid/3718500",
+        "macOS": "open steam://rungameid/3718500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-bagman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345888"
+}
