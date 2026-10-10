@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334902,
+  "name": "How Was Your Day?",
+  "source_url": "https://www.igdb.com/games/how-was-your-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ilo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "How Was Your Day?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3235570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3235570",
+        "Linux": "setsid steam steam://rungameid/3235570",
+        "macOS": "open steam://rungameid/3235570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "how-was-your-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334902"
+}
