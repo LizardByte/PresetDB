@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345889,
+  "name": "Swann's Song",
+  "source_url": "https://www.igdb.com/games/swanns-song",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9vn3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swann's Song",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3598860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3598860",
+        "Linux": "setsid steam steam://rungameid/3598860",
+        "macOS": "open steam://rungameid/3598860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swanns-song",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345889"
+}
