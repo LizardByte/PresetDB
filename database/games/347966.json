@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 347966,
+  "name": "Barks and Bytes",
+  "source_url": "https://www.igdb.com/games/barks-and-bytes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ybc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Barks and Bytes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3701830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3701830",
+        "Linux": "setsid steam steam://rungameid/3701830",
+        "macOS": "open steam://rungameid/3701830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "barks-and-bytes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=347966"
+}
