@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338165,
+  "name": "A Safe Place",
+  "source_url": "https://www.igdb.com/games/a-safe-place",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9m83.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Safe Place",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3310560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3310560",
+        "Linux": "setsid steam steam://rungameid/3310560",
+        "macOS": "open steam://rungameid/3310560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-safe-place",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338165"
+}
