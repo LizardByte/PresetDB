@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341611,
+  "name": "Midtris",
+  "source_url": "https://www.igdb.com/games/midtris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9q6l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Midtris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3591660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3591660",
+        "Linux": "setsid steam steam://rungameid/3591660",
+        "macOS": "open steam://rungameid/3591660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "midtris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341611"
+}
