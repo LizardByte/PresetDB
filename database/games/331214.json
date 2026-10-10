@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 331214,
+  "name": "Metal Eden",
+  "source_url": "https://www.igdb.com/games/metal-eden",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9f8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metal Eden",
+      "os": null,
+      "method": "steam",
+      "launch_id": "990380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/990380",
+        "Linux": "setsid steam steam://rungameid/990380",
+        "macOS": "open steam://rungameid/990380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metal-eden",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=331214"
+}
