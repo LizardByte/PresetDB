@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373023,
+  "name": "Yakimochi Stream",
+  "source_url": "https://www.igdb.com/games/yakimochi-stream--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coao37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Yakimochi Stream",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1346770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1346770",
+        "Linux": "setsid steam steam://rungameid/1346770",
+        "macOS": "open steam://rungameid/1346770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "yakimochi-stream--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373023"
+}
