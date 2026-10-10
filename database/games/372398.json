@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372398,
+  "name": "Byteworld",
+  "source_url": "https://www.igdb.com/games/byteworld--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coandh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Byteworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3279000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3279000",
+        "Linux": "setsid steam steam://rungameid/3279000",
+        "macOS": "open steam://rungameid/3279000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "byteworld--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372398"
+}
