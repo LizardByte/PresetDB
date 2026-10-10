@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337125,
+  "name": "Silent Whisper",
+  "source_url": "https://www.igdb.com/games/silent-whisper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lbg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silent Whisper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3485950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3485950",
+        "Linux": "setsid steam steam://rungameid/3485950",
+        "macOS": "open steam://rungameid/3485950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silent-whisper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337125"
+}
