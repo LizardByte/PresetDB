@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359250,
+  "name": "Warp Dash",
+  "source_url": "https://www.igdb.com/games/warp-dash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa842.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warp Dash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2004900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2004900",
+        "Linux": "setsid steam steam://rungameid/2004900",
+        "macOS": "open steam://rungameid/2004900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warp-dash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359250"
+}
