@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 353816,
+  "name": "Serpico",
+  "source_url": "https://www.igdb.com/games/serpico",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobvjl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Serpico",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3858580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3858580",
+        "Linux": "setsid steam steam://rungameid/3858580",
+        "macOS": "open steam://rungameid/3858580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "serpico",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=353816"
+}
