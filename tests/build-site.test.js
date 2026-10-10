@@ -199,7 +199,7 @@ test('cold PR builds and invalid caches still publish presets and links without 
       { cacheFile, mode: 'cache-only', now });
     for (const id of [1, 2, 3, 4]) {
       assert.equal(preset(output, id).protondb, null);
-      assert.match(preset(output, id).protondb_url, /^https:\/\/www.protondb.com\/app\//);
+      assert.match(preset(output, id).protondb_url, /^https:\/\/www\.protondb\.com\/app\//);
     }
     if (input === undefined) assert.equal(fs.existsSync(cacheFile), false);
     else assert.equal(fs.readFileSync(cacheFile, 'utf8'), input);

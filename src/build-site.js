@@ -49,6 +49,16 @@ async function protonDbRating(appId, fetcher) {
   }
 }
 
+function applyProtonDbRatings(records, cache) {
+  for (const item of records) {
+    for (const preset of item.presets) {
+      if (!cache.has(preset.launch_id)) continue;
+      preset.protondb_url = 'https://www.protondb.com/app/' + preset.launch_id;
+      preset.protondb = cache.get(preset.launch_id)?.rating ?? null;
+    }
+  }
+}
+
 async function addProtonDb(records, fetcher, { cacheFile, mode, now }) {
   const ids = [...new Set(records.flatMap(item => item.presets
     .filter(preset => preset.method === 'steam' && /^[1-9]\d{0,9}$/.test(preset.launch_id || ''))
@@ -76,13 +86,7 @@ async function addProtonDb(records, fetcher, { cacheFile, mode, now }) {
   }
   // Each worker takes another ID only after its current request finishes.
   await Promise.all(Array.from({ length: Math.min(32, pending.length) }, refreshNext));
-  for (const item of records) {
-    for (const preset of item.presets) {
-      if (!cache.has(preset.launch_id)) continue;
-      preset.protondb_url = 'https://www.protondb.com/app/' + preset.launch_id;
-      preset.protondb = cache.get(preset.launch_id)?.rating ?? null;
-    }
-  }
+  applyProtonDbRatings(records, cache);
   if (cacheFile && mode === 'refresh') {
     fs.mkdirSync(path.dirname(cacheFile), { recursive: true });
     fs.writeFileSync(cacheFile, JSON.stringify({ schema_version: 1, apps: Object.fromEntries(cache) }) + '\n');
