@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369545,
+  "name": "Staring Contest",
+  "source_url": "https://www.igdb.com/games/staring-contest--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaja1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Staring Contest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2622200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2622200",
+        "Linux": "setsid steam steam://rungameid/2622200",
+        "macOS": "open steam://rungameid/2622200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "staring-contest--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369545"
+}
