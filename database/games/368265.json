@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368265,
+  "name": "Arcade Games Collection",
+  "source_url": "https://www.igdb.com/games/arcade-games-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahue.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcade Games Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1441850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1441850",
+        "Linux": "setsid steam steam://rungameid/1441850",
+        "macOS": "open steam://rungameid/1441850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcade-games-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368265"
+}
