@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343742,
+  "name": "Deserted Island",
+  "source_url": "https://www.igdb.com/games/deserted-island--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdoe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Deserted Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2380560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2380560",
+        "Linux": "setsid steam steam://rungameid/2380560",
+        "macOS": "open steam://rungameid/2380560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deserted-island--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343742"
+}
