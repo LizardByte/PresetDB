@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340540,
+  "name": "Fish Stick Protocol",
+  "source_url": "https://www.igdb.com/games/fish-stick-protocol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasp5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fish Stick Protocol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3367500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3367500",
+        "Linux": "setsid steam steam://rungameid/3367500",
+        "macOS": "open steam://rungameid/3367500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fish-stick-protocol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340540"
+}
