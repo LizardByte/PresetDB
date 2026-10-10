@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366369,
+  "name": "Save Mom",
+  "source_url": "https://www.igdb.com/games/save-mom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Save Mom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3470800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3470800",
+        "Linux": "setsid steam steam://rungameid/3470800",
+        "macOS": "open steam://rungameid/3470800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "save-mom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366369"
+}
