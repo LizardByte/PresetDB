@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341355,
+  "name": "Mythos Interactive Game Collection",
+  "source_url": "https://www.igdb.com/games/mythos-interactive-game-collection",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mythos Interactive Game Collection",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3197330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3197330",
+        "Linux": "setsid steam steam://rungameid/3197330",
+        "macOS": "open steam://rungameid/3197330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mythos-interactive-game-collection",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341355"
+}
