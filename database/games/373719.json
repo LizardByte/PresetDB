@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373719,
+  "name": "We Escape Together",
+  "source_url": "https://www.igdb.com/games/we-escape-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaowi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "We Escape Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3762430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3762430",
+        "Linux": "setsid steam steam://rungameid/3762430",
+        "macOS": "open steam://rungameid/3762430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "we-escape-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373719"
+}
