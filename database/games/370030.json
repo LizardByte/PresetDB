@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370030,
+  "name": "Stardom MiniGames",
+  "source_url": "https://www.igdb.com/games/stardom-minigames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajyz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stardom MiniGames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1642560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1642560",
+        "Linux": "setsid steam steam://rungameid/1642560",
+        "macOS": "open steam://rungameid/1642560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stardom-minigames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370030"
+}
