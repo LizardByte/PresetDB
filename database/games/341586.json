@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341586,
+  "name": "Peepers Paradise",
+  "source_url": "https://www.igdb.com/games/peepers-paradise",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob02e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peepers Paradise",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3183660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3183660",
+        "Linux": "setsid steam steam://rungameid/3183660",
+        "macOS": "open steam://rungameid/3183660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peepers-paradise",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341586"
+}
