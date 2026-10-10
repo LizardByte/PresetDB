@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335176,
+  "name": "UFO",
+  "source_url": "https://www.igdb.com/games/ufo--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ixb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UFO",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3134540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3134540",
+        "Linux": "setsid steam steam://rungameid/3134540",
+        "macOS": "open steam://rungameid/3134540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ufo--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335176"
+}
