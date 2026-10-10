@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345315,
+  "name": "Minesweeper Together",
+  "source_url": "https://www.igdb.com/games/minesweeper-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9v4u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minesweeper Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3550060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3550060",
+        "Linux": "setsid steam steam://rungameid/3550060",
+        "macOS": "open steam://rungameid/3550060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minesweeper-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345315"
+}
