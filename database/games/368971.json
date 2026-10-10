@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368971,
+  "name": "Slav or Not",
+  "source_url": "https://www.igdb.com/games/slav-or-not",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaimk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slav or Not",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1900410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1900410",
+        "Linux": "setsid steam steam://rungameid/1900410",
+        "macOS": "open steam://rungameid/1900410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slav-or-not",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368971"
+}
