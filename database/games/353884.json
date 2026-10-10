@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 353884,
+  "name": "El Coco",
+  "source_url": "https://www.igdb.com/games/el-coco",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coauxt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "El Coco",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3792510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3792510",
+        "Linux": "setsid steam steam://rungameid/3792510",
+        "macOS": "open steam://rungameid/3792510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "el-coco",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=353884"
+}
