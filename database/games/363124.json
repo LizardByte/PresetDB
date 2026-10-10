@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363124,
+  "name": "Neon Shot",
+  "source_url": "https://www.igdb.com/games/neon-shot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coach3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Shot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3910560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3910560",
+        "Linux": "setsid steam steam://rungameid/3910560",
+        "macOS": "open steam://rungameid/3910560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-shot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363124"
+}
