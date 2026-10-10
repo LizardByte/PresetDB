@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363072,
+  "name": "Play a Game With Me",
+  "source_url": "https://www.igdb.com/games/play-a-game-with-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coacfn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Play a Game With Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3908440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3908440",
+        "Linux": "setsid steam steam://rungameid/3908440",
+        "macOS": "open steam://rungameid/3908440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "play-a-game-with-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363072"
+}
