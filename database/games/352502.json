@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352502,
+  "name": "Dice Tower",
+  "source_url": "https://www.igdb.com/games/dice-tower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa2ql.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dice Tower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3825340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3825340",
+        "Linux": "setsid steam steam://rungameid/3825340",
+        "macOS": "open steam://rungameid/3825340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dice-tower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352502"
+}
