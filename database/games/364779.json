@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364779,
+  "name": "Mow Grass",
+  "source_url": "https://www.igdb.com/games/mow-grass",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coadsj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mow Grass",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3591420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3591420",
+        "Linux": "setsid steam steam://rungameid/3591420",
+        "macOS": "open steam://rungameid/3591420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mow-grass",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364779"
+}
