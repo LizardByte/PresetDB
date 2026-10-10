@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 363121,
+  "name": "Island World",
+  "source_url": "https://www.igdb.com/games/island-world--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coach0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Island World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3712060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3712060",
+        "Linux": "setsid steam steam://rungameid/3712060",
+        "macOS": "open steam://rungameid/3712060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "island-world--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=363121"
+}
