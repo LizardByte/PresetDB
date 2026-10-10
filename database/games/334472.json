@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334472,
+  "name": "Headrooms",
+  "source_url": "https://www.igdb.com/games/headrooms",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ii7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Headrooms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3333350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3333350",
+        "Linux": "setsid steam steam://rungameid/3333350",
+        "macOS": "open steam://rungameid/3333350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "headrooms",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334472"
+}
