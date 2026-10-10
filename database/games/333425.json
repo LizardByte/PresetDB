@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333425,
+  "name": "Metrophobia",
+  "source_url": "https://www.igdb.com/games/metrophobia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9h3s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metrophobia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3265490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3265490",
+        "Linux": "setsid steam steam://rungameid/3265490",
+        "macOS": "open steam://rungameid/3265490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metrophobia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333425"
+}
