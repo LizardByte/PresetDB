@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336912,
+  "name": "Ballastic",
+  "source_url": "https://www.igdb.com/games/ballastic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9u2i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ballastic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "978120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/978120",
+        "Linux": "setsid steam steam://rungameid/978120",
+        "macOS": "open steam://rungameid/978120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ballastic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336912"
+}
