@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366136,
+  "name": "Checked Out",
+  "source_url": "https://www.igdb.com/games/checked-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafa1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Checked Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3647470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3647470",
+        "Linux": "setsid steam steam://rungameid/3647470",
+        "macOS": "open steam://rungameid/3647470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "checked-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366136"
+}
