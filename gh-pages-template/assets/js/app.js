@@ -232,7 +232,8 @@ function boot() {
         url.searchParams.set('kind', item.kind);
         url.searchParams.set('id', String(item.id));
         globalThis.history.pushState(null, '', url);
-        showRecord(item);
+        // Record loading reports failures in the detail panel.
+        void showRecord(item);
       });
       column.append(button);
       list.append(column);

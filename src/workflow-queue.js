@@ -2,7 +2,7 @@
 
 async function waitForOlderApprovals({ github, context, intervalMs = 30000, timeoutMs = 3600000 }) {
   const started = Date.now();
-  while (true) {
+  async function pollOlderApprovals() {
     const runs = await github.paginate(github.rest.actions.listWorkflowRuns, {
       ...context.repo, workflow_id: 'approve-preset.yml', status: 'in_progress', per_page: 100
     });
@@ -13,7 +13,9 @@ async function waitForOlderApprovals({ github, context, intervalMs = 30000, time
       throw new Error(`Timed out waiting for older approval run ${older[0].id}`);
     }
     await new Promise(resolve => setTimeout(resolve, intervalMs));
+    return pollOlderApprovals();
   }
+  return pollOlderApprovals();
 }
 
 module.exports = { waitForOlderApprovals };
