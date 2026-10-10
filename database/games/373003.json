@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373003,
+  "name": "Gunfight Arena",
+  "source_url": "https://www.igdb.com/games/gunfight-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0p9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gunfight Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2904260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2904260",
+        "Linux": "setsid steam steam://rungameid/2904260",
+        "macOS": "open steam://rungameid/2904260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gunfight-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373003"
+}
