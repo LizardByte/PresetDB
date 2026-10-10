@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341858,
+  "name": "Restart Heart",
+  "source_url": "https://www.igdb.com/games/restart-heart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qix.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Restart Heart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3326350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3326350",
+        "Linux": "setsid steam steam://rungameid/3326350",
+        "macOS": "open steam://rungameid/3326350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "restart-heart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341858"
+}
