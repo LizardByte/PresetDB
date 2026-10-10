@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371214,
+  "name": "Hellreaper",
+  "source_url": "https://www.igdb.com/games/hellreaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalrv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellreaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2231980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2231980",
+        "Linux": "setsid steam steam://rungameid/2231980",
+        "macOS": "open steam://rungameid/2231980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellreaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371214"
+}
