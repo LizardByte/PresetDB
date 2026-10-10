@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374098,
+  "name": "Word Quest",
+  "source_url": "https://www.igdb.com/games/word-quest--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Word Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4001380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4001380",
+        "Linux": "setsid steam steam://rungameid/4001380",
+        "macOS": "open steam://rungameid/4001380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "word-quest--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374098"
+}
