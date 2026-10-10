@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340019,
+  "name": "Final Fantasy III",
+  "source_url": "https://www.igdb.com/games/final-fantasy-iii--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9o87.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy III",
+      "os": null,
+      "method": "steam",
+      "launch_id": "239120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/239120",
+        "Linux": "setsid steam steam://rungameid/239120",
+        "macOS": "open steam://rungameid/239120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-fantasy-iii--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340019"
+}
