@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333977,
+  "name": "Plylbl",
+  "source_url": "https://www.igdb.com/games/plylbl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9h9a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plylbl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1793890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1793890",
+        "Linux": "setsid steam steam://rungameid/1793890",
+        "macOS": "open steam://rungameid/1793890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plylbl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333977"
+}
