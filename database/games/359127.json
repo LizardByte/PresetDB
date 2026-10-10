@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359127,
+  "name": "TunTunWorld",
+  "source_url": "https://www.igdb.com/games/tuntunworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa7zg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TunTunWorld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3858560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3858560",
+        "Linux": "setsid steam steam://rungameid/3858560",
+        "macOS": "open steam://rungameid/3858560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tuntunworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359127"
+}
