@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335224,
+  "name": "Sélas",
+  "source_url": "https://www.igdb.com/games/selas",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ixz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sélas",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3552120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3552120",
+        "Linux": "setsid steam steam://rungameid/3552120",
+        "macOS": "open steam://rungameid/3552120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "selas",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335224"
+}
