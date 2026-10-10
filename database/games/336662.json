@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336662,
+  "name": "Kanna School",
+  "source_url": "https://www.igdb.com/games/kanna-school",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob77v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kanna School",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3039990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3039990",
+        "Linux": "setsid steam steam://rungameid/3039990",
+        "macOS": "open steam://rungameid/3039990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kanna-school",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336662"
+}
