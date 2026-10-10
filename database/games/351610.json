@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351610,
+  "name": "Penguin Rocketeer",
+  "source_url": "https://www.igdb.com/games/penguin-rocketeer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1yp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Penguin Rocketeer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3757920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3757920",
+        "Linux": "setsid steam steam://rungameid/3757920",
+        "macOS": "open steam://rungameid/3757920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "penguin-rocketeer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351610"
+}
