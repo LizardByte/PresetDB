@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345061,
+  "name": "Randy the Racoon",
+  "source_url": "https://www.igdb.com/games/randy-the-racoon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9uua.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Randy the Racoon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3187000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3187000",
+        "Linux": "setsid steam steam://rungameid/3187000",
+        "macOS": "open steam://rungameid/3187000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "randy-the-racoon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345061"
+}
