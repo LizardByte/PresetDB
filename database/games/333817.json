@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333817,
+  "name": "Warpswap",
+  "source_url": "https://www.igdb.com/games/warpswap--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gwq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warpswap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3457950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3457950",
+        "Linux": "setsid steam steam://rungameid/3457950",
+        "macOS": "open steam://rungameid/3457950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warpswap--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333817"
+}
