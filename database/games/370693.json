@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370693,
+  "name": "Kyvos",
+  "source_url": "https://www.igdb.com/games/kyvos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalq7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kyvos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4034870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4034870",
+        "Linux": "setsid steam steam://rungameid/4034870",
+        "macOS": "open steam://rungameid/4034870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kyvos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370693"
+}
