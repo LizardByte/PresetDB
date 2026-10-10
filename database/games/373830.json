@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373830,
+  "name": "NeoHack",
+  "source_url": "https://www.igdb.com/games/neohack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap3d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NeoHack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3649750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3649750",
+        "Linux": "setsid steam steam://rungameid/3649750",
+        "macOS": "open steam://rungameid/3649750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neohack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373830"
+}
