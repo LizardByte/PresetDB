@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341437,
+  "name": "Pug and Seek",
+  "source_url": "https://www.igdb.com/games/pug-and-seek",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahwt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pug and Seek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3049550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3049550",
+        "Linux": "setsid steam steam://rungameid/3049550",
+        "macOS": "open steam://rungameid/3049550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pug-and-seek",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341437"
+}
