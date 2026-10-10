@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369326,
+  "name": "Gang of Frogs",
+  "source_url": "https://www.igdb.com/games/gang-of-frogs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj23.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gang of Frogs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3081510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3081510",
+        "Linux": "setsid steam steam://rungameid/3081510",
+        "macOS": "open steam://rungameid/3081510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gang-of-frogs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369326"
+}
