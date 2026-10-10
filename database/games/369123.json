@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369123,
+  "name": "The Last Zone",
+  "source_url": "https://www.igdb.com/games/the-last-zone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj0q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Zone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3988540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3988540",
+        "Linux": "setsid steam steam://rungameid/3988540",
+        "macOS": "open steam://rungameid/3988540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-zone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369123"
+}
