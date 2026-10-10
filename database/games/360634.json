@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360634,
+  "name": "Game Room",
+  "source_url": "https://www.igdb.com/games/game-room--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9kj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Game Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3460520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3460520",
+        "Linux": "setsid steam steam://rungameid/3460520",
+        "macOS": "open steam://rungameid/3460520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "game-room--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360634"
+}
