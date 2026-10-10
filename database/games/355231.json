@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355231,
+  "name": "My Splitting Image",
+  "source_url": "https://www.igdb.com/games/my-splitting-image",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4ur.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Splitting Image",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3479790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3479790",
+        "Linux": "setsid steam steam://rungameid/3479790",
+        "macOS": "open steam://rungameid/3479790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-splitting-image",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355231"
+}
