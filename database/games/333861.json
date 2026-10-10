@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333861,
+  "name": "Lost Age",
+  "source_url": "https://www.igdb.com/games/lost-age",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9h1i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3367070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3367070",
+        "Linux": "setsid steam steam://rungameid/3367070",
+        "macOS": "open steam://rungameid/3367070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-age",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333861"
+}
