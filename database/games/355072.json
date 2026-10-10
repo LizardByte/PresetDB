@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355072,
+  "name": "Chunk",
+  "source_url": "https://www.igdb.com/games/chunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4pj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3219950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3219950",
+        "Linux": "setsid steam steam://rungameid/3219950",
+        "macOS": "open steam://rungameid/3219950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355072"
+}
