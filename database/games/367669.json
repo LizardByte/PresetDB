@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367669,
+  "name": "Skeleton Runner",
+  "source_url": "https://www.igdb.com/games/skeleton-runner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coah5d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skeleton Runner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2223470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2223470",
+        "Linux": "setsid steam steam://rungameid/2223470",
+        "macOS": "open steam://rungameid/2223470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skeleton-runner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367669"
+}
