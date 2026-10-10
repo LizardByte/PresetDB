@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336501,
+  "name": "Fallen Depths",
+  "source_url": "https://www.igdb.com/games/fallen-depths",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9kjj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallen Depths",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3332000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3332000",
+        "Linux": "setsid steam steam://rungameid/3332000",
+        "macOS": "open steam://rungameid/3332000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fallen-depths",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336501"
+}
