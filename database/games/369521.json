@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369521,
+  "name": "Bowlatro",
+  "source_url": "https://www.igdb.com/games/bowlatro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj98.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bowlatro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3328100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3328100",
+        "Linux": "setsid steam steam://rungameid/3328100",
+        "macOS": "open steam://rungameid/3328100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bowlatro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369521"
+}
