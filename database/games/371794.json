@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371794,
+  "name": "Space Blast",
+  "source_url": "https://www.igdb.com/games/space-blast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coammv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Space Blast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1800810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1800810",
+        "Linux": "setsid steam steam://rungameid/1800810",
+        "macOS": "open steam://rungameid/1800810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "space-blast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371794"
+}
