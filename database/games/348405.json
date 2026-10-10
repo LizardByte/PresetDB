@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348405,
+  "name": "Evel Knievel",
+  "source_url": "https://www.igdb.com/games/evel-knievel--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9y3w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Evel Knievel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3588460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3588460",
+        "Linux": "setsid steam steam://rungameid/3588460",
+        "macOS": "open steam://rungameid/3588460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "evel-knievel--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348405"
+}
