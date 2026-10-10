@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334424,
+  "name": "URLate",
+  "source_url": "https://www.igdb.com/games/urlate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9hyq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "URLate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3486970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3486970",
+        "Linux": "setsid steam steam://rungameid/3486970",
+        "macOS": "open steam://rungameid/3486970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "urlate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334424"
+}
