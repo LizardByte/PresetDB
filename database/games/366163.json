@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366163,
+  "name": "Sova",
+  "source_url": "https://www.igdb.com/games/sova",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxa1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sova",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3191070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3191070",
+        "Linux": "setsid steam steam://rungameid/3191070",
+        "macOS": "open steam://rungameid/3191070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sova",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366163"
+}
