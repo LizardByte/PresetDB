@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343006,
+  "name": "Zalis",
+  "source_url": "https://www.igdb.com/games/zalis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9s6x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zalis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3147520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3147520",
+        "Linux": "setsid steam steam://rungameid/3147520",
+        "macOS": "open steam://rungameid/3147520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zalis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343006"
+}
