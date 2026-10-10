@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336499,
+  "name": "Trucker Horror",
+  "source_url": "https://www.igdb.com/games/trucker-horror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9kjh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trucker Horror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3565050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3565050",
+        "Linux": "setsid steam steam://rungameid/3565050",
+        "macOS": "open steam://rungameid/3565050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trucker-horror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336499"
+}
