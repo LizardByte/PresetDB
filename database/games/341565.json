@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341565,
+  "name": "PolyTap",
+  "source_url": "https://www.igdb.com/games/polytap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2ql.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PolyTap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3104050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3104050",
+        "Linux": "setsid steam steam://rungameid/3104050",
+        "macOS": "open steam://rungameid/3104050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polytap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341565"
+}
