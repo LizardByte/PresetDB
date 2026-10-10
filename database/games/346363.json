@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346363,
+  "name": "Your World",
+  "source_url": "https://www.igdb.com/games/your-world--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9w4p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Your World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3568760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3568760",
+        "Linux": "setsid steam steam://rungameid/3568760",
+        "macOS": "open steam://rungameid/3568760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "your-world--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346363"
+}
