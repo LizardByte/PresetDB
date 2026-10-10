@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 362021,
+  "name": "Proxyma",
+  "source_url": "https://www.igdb.com/games/proxyma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabtb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Proxyma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3191010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3191010",
+        "Linux": "setsid steam steam://rungameid/3191010",
+        "macOS": "open steam://rungameid/3191010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "proxyma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=362021"
+}
