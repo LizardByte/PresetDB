@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372050,
+  "name": "Tank Zero",
+  "source_url": "https://www.igdb.com/games/tank-zero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tank Zero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3325260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3325260",
+        "Linux": "setsid steam steam://rungameid/3325260",
+        "macOS": "open steam://rungameid/3325260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tank-zero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372050"
+}
