@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333473,
+  "name": "Roll a Dice",
+  "source_url": "https://www.igdb.com/games/roll-a-dice",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gi5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll a Dice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3229240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3229240",
+        "Linux": "setsid steam steam://rungameid/3229240",
+        "macOS": "open steam://rungameid/3229240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-a-dice",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333473"
+}
