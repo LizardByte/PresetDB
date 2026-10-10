@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338454,
+  "name": "Burger Wars",
+  "source_url": "https://www.igdb.com/games/burger-wars--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mfo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burger Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3171620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3171620",
+        "Linux": "setsid steam steam://rungameid/3171620",
+        "macOS": "open steam://rungameid/3171620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burger-wars--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338454"
+}
