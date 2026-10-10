@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369791,
+  "name": "Creature Pedia",
+  "source_url": "https://www.igdb.com/games/creature-pedia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajlu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creature Pedia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3555890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3555890",
+        "Linux": "setsid steam steam://rungameid/3555890",
+        "macOS": "open steam://rungameid/3555890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "creature-pedia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369791"
+}
