@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335683,
+  "name": "Xi",
+  "source_url": "https://www.igdb.com/games/xi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9jc7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3432160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3432160",
+        "Linux": "setsid steam steam://rungameid/3432160",
+        "macOS": "open steam://rungameid/3432160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335683"
+}
