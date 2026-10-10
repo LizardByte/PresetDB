@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337177,
+  "name": "PC Install Girl",
+  "source_url": "https://www.igdb.com/games/pc-install-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lb1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PC Install Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3550250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3550250",
+        "Linux": "setsid steam steam://rungameid/3550250",
+        "macOS": "open steam://rungameid/3550250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pc-install-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337177"
+}
