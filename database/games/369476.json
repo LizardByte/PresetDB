@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369476,
+  "name": "Gramm",
+  "source_url": "https://www.igdb.com/games/gramm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gramm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2169700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2169700",
+        "Linux": "setsid steam steam://rungameid/2169700",
+        "macOS": "open steam://rungameid/2169700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gramm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369476"
+}
