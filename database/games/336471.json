@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336471,
+  "name": "Ape Drop",
+  "source_url": "https://www.igdb.com/games/ape-drop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ki6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ape Drop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3495060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3495060",
+        "Linux": "setsid steam steam://rungameid/3495060",
+        "macOS": "open steam://rungameid/3495060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ape-drop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336471"
+}
