@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355185,
+  "name": "Ave Classic",
+  "source_url": "https://www.igdb.com/games/ave-classic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobngl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ave Classic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3519760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3519760",
+        "Linux": "setsid steam steam://rungameid/3519760",
+        "macOS": "open steam://rungameid/3519760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ave-classic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355185"
+}
