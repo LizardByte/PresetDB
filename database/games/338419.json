@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338419,
+  "name": "WarKlinika",
+  "source_url": "https://www.igdb.com/games/warklinika",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coabbq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WarKlinika",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2975910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2975910",
+        "Linux": "setsid steam steam://rungameid/2975910",
+        "macOS": "open steam://rungameid/2975910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warklinika",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338419"
+}
