@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342756,
+  "name": "Intlovert Game Club",
+  "source_url": "https://www.igdb.com/games/intlovert-game-club",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9rqt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Intlovert Game Club",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2795280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2795280",
+        "Linux": "setsid steam steam://rungameid/2795280",
+        "macOS": "open steam://rungameid/2795280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "intlovert-game-club",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342756"
+}
