@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368137,
+  "name": "Metamorph",
+  "source_url": "https://www.igdb.com/games/metamorph--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahnu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metamorph",
+      "os": null,
+      "method": "steam",
+      "launch_id": "955030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/955030",
+        "Linux": "setsid steam steam://rungameid/955030",
+        "macOS": "open steam://rungameid/955030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metamorph--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368137"
+}
