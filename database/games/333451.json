@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333451,
+  "name": "Void Breaker",
+  "source_url": "https://www.igdb.com/games/void-breaker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nlp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Breaker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3535050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3535050",
+        "Linux": "setsid steam steam://rungameid/3535050",
+        "macOS": "open steam://rungameid/3535050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-breaker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333451"
+}
