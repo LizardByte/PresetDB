@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359684,
+  "name": "SZ2000",
+  "source_url": "https://www.igdb.com/games/sz2000",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaao4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SZ2000",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3746620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3746620",
+        "Linux": "setsid steam steam://rungameid/3746620",
+        "macOS": "open steam://rungameid/3746620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sz2000",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359684"
+}
