@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 371625,
+  "name": "Stardom",
+  "source_url": "https://www.igdb.com/games/stardom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamh6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stardom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1512720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1512720",
+        "Linux": "setsid steam steam://rungameid/1512720",
+        "macOS": "open steam://rungameid/1512720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stardom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=371625"
+}
