@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348881,
+  "name": "Slime Guy",
+  "source_url": "https://www.igdb.com/games/slime-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ynl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3572850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3572850",
+        "Linux": "setsid steam steam://rungameid/3572850",
+        "macOS": "open steam://rungameid/3572850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348881"
+}
