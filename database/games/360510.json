@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360510,
+  "name": "Info Fighter",
+  "source_url": "https://www.igdb.com/games/info-fighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9f8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Info Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3869160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3869160",
+        "Linux": "setsid steam steam://rungameid/3869160",
+        "macOS": "open steam://rungameid/3869160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "info-fighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360510"
+}
