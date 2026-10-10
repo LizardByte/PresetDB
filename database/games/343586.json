@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343586,
+  "name": "Kaz",
+  "source_url": "https://www.igdb.com/games/kaz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9t3o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kaz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3633760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3633760",
+        "Linux": "setsid steam steam://rungameid/3633760",
+        "macOS": "open steam://rungameid/3633760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kaz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343586"
+}
