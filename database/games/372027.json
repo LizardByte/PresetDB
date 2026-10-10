@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372027,
+  "name": "The Useless Wizard",
+  "source_url": "https://www.igdb.com/games/the-useless-wizard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coamwa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Useless Wizard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3965190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3965190",
+        "Linux": "setsid steam steam://rungameid/3965190",
+        "macOS": "open steam://rungameid/3965190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-useless-wizard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372027"
+}
