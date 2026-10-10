@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334286,
+  "name": "Cozy Island",
+  "source_url": "https://www.igdb.com/games/cozy-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ht8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2918500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2918500",
+        "Linux": "setsid steam steam://rungameid/2918500",
+        "macOS": "open steam://rungameid/2918500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334286"
+}
