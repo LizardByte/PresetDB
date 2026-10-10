@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370521,
+  "name": "Task Time",
+  "source_url": "https://www.igdb.com/games/task-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakyu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Task Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2182680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2182680",
+        "Linux": "setsid steam steam://rungameid/2182680",
+        "macOS": "open steam://rungameid/2182680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "task-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370521"
+}
