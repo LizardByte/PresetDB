@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373817,
+  "name": "Swap",
+  "source_url": "https://www.igdb.com/games/swap--6",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap0h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Swap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3786950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3786950",
+        "Linux": "setsid steam steam://rungameid/3786950",
+        "macOS": "open steam://rungameid/3786950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "swap--6",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373817"
+}
