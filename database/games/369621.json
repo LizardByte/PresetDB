@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369621,
+  "name": "Brightest Star",
+  "source_url": "https://www.igdb.com/games/brightest-star",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajdi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brightest Star",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3895400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3895400",
+        "Linux": "setsid steam steam://rungameid/3895400",
+        "macOS": "open steam://rungameid/3895400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brightest-star",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369621"
+}
