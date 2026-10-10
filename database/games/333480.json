@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333480,
+  "name": "1+1=？",
+  "source_url": "https://www.igdb.com/games/1-plus-1-equals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gie.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "1+1=？",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3376520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3376520",
+        "Linux": "setsid steam steam://rungameid/3376520",
+        "macOS": "open steam://rungameid/3376520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "1-plus-1-equals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333480"
+}
