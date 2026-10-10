@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335330,
+  "name": "Card Princess",
+  "source_url": "https://www.igdb.com/games/card-princess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobprx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Card Princess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1208720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1208720",
+        "Linux": "setsid steam steam://rungameid/1208720",
+        "macOS": "open steam://rungameid/1208720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "card-princess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335330"
+}
