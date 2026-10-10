@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 345050,
+  "name": "Chico's Rebound",
+  "source_url": "https://www.igdb.com/games/chicos-rebound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtvj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chico's Rebound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3139060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3139060",
+        "Linux": "setsid steam steam://rungameid/3139060",
+        "macOS": "open steam://rungameid/3139060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chicos-rebound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=345050"
+}
