@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332861,
+  "name": "Recharge",
+  "source_url": "https://www.igdb.com/games/recharge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9znl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Recharge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3225420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3225420",
+        "Linux": "setsid steam steam://rungameid/3225420",
+        "macOS": "open steam://rungameid/3225420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "recharge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332861"
+}
