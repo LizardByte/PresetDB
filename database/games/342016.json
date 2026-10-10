@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342016,
+  "name": "Dead Hourz",
+  "source_url": "https://www.igdb.com/games/dead-hourz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9qs7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Hourz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3654610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3654610",
+        "Linux": "setsid steam steam://rungameid/3654610",
+        "macOS": "open steam://rungameid/3654610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-hourz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342016"
+}
