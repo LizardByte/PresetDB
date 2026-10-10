@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 339581,
+  "name": "Dusty",
+  "source_url": "https://www.igdb.com/games/dusty--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ni2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dusty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3541450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3541450",
+        "Linux": "setsid steam steam://rungameid/3541450",
+        "macOS": "open steam://rungameid/3541450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dusty--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=339581"
+}
