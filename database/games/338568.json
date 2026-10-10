@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338568,
+  "name": "Virion",
+  "source_url": "https://www.igdb.com/games/virion--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3388220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3388220",
+        "Linux": "setsid steam steam://rungameid/3388220",
+        "macOS": "open steam://rungameid/3388220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virion--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338568"
+}
