@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367531,
+  "name": "World Eater",
+  "source_url": "https://www.igdb.com/games/world-eater",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakdo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "World Eater",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1609130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1609130",
+        "Linux": "setsid steam steam://rungameid/1609130",
+        "macOS": "open steam://rungameid/1609130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "world-eater",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367531"
+}
