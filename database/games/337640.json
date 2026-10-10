@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337640,
+  "name": "Library Game",
+  "source_url": "https://www.igdb.com/games/library-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coao0n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Library Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1495040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1495040",
+        "Linux": "setsid steam steam://rungameid/1495040",
+        "macOS": "open steam://rungameid/1495040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "library-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337640"
+}
