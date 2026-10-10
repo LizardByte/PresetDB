@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337740,
+  "name": "That Village",
+  "source_url": "https://www.igdb.com/games/that-village",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9lul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "That Village",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3405020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3405020",
+        "Linux": "setsid steam steam://rungameid/3405020",
+        "macOS": "open steam://rungameid/3405020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "that-village",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337740"
+}
