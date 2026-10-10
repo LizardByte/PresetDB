@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336430,
+  "name": "Desktop Golf",
+  "source_url": "https://www.igdb.com/games/desktop-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coay9c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3564220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3564220",
+        "Linux": "setsid steam steam://rungameid/3564220",
+        "macOS": "open steam://rungameid/3564220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336430"
+}
