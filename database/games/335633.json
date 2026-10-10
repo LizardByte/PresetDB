@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335633,
+  "name": "Moonbrella",
+  "source_url": "https://www.igdb.com/games/moonbrella",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajga.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moonbrella",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3433800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3433800",
+        "Linux": "setsid steam steam://rungameid/3433800",
+        "macOS": "open steam://rungameid/3433800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moonbrella",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335633"
+}
