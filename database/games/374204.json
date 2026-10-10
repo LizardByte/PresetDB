@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374204,
+  "name": "Fallen",
+  "source_url": "https://www.igdb.com/games/fallen--5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapg9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fallen",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3943460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3943460",
+        "Linux": "setsid steam steam://rungameid/3943460",
+        "macOS": "open steam://rungameid/3943460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fallen--5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374204"
+}
