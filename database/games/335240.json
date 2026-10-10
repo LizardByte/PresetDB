@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 335240,
+  "name": "Stopping Santa",
+  "source_url": "https://www.igdb.com/games/stopping-santa",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9nw8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stopping Santa",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3540230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3540230",
+        "Linux": "setsid steam steam://rungameid/3540230",
+        "macOS": "open steam://rungameid/3540230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stopping-santa",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=335240"
+}
