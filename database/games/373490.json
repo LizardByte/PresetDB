@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373490,
+  "name": "Nice City",
+  "source_url": "https://www.igdb.com/games/nice-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaola.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nice City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4028160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4028160",
+        "Linux": "setsid steam steam://rungameid/4028160",
+        "macOS": "open steam://rungameid/4028160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nice-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373490"
+}
