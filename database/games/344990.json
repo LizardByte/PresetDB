@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 344990,
+  "name": "ByteRogue",
+  "source_url": "https://www.igdb.com/games/byterogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9usq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ByteRogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3647870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3647870",
+        "Linux": "setsid steam steam://rungameid/3647870",
+        "macOS": "open steam://rungameid/3647870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "byterogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=344990"
+}
