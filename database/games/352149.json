@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 352149,
+  "name": "Sin & Siege",
+  "source_url": "https://www.igdb.com/games/sin-and-siege",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhte.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sin & Siege",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3834300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3834300",
+        "Linux": "setsid steam steam://rungameid/3834300",
+        "macOS": "open steam://rungameid/3834300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sin-and-siege",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=352149"
+}
