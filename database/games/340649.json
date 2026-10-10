@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340649,
+  "name": "Secret Toy",
+  "source_url": "https://www.igdb.com/games/secret-toy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob02j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Secret Toy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2961330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2961330",
+        "Linux": "setsid steam steam://rungameid/2961330",
+        "macOS": "open steam://rungameid/2961330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "secret-toy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340649"
+}
