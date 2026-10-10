@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343226,
+  "name": "The Deadseat",
+  "source_url": "https://www.igdb.com/games/the-deadseat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9t1c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Deadseat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3667230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3667230",
+        "Linux": "setsid steam steam://rungameid/3667230",
+        "macOS": "open steam://rungameid/3667230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-deadseat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343226"
+}
