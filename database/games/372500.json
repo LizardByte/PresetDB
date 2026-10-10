@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372500,
+  "name": "Atrium Mortis",
+  "source_url": "https://www.igdb.com/games/atrium-mortis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanhw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atrium Mortis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3940090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3940090",
+        "Linux": "setsid steam steam://rungameid/3940090",
+        "macOS": "open steam://rungameid/3940090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atrium-mortis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372500"
+}
