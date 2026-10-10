@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 336629,
+  "name": "CountDown",
+  "source_url": "https://www.igdb.com/games/countdown--7",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9kp3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CountDown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2794640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2794640",
+        "Linux": "setsid steam steam://rungameid/2794640",
+        "macOS": "open steam://rungameid/2794640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "countdown--7",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=336629"
+}
