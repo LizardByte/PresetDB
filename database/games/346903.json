@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 346903,
+  "name": "Secret Seeker",
+  "source_url": "https://www.igdb.com/games/secret-seeker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa6jz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Secret Seeker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3528320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3528320",
+        "Linux": "setsid steam steam://rungameid/3528320",
+        "macOS": "open steam://rungameid/3528320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "secret-seeker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=346903"
+}
