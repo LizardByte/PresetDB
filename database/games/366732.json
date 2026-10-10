@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366732,
+  "name": "The Dead House",
+  "source_url": "https://www.igdb.com/games/the-dead-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coag06.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dead House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3490140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3490140",
+        "Linux": "setsid steam steam://rungameid/3490140",
+        "macOS": "open steam://rungameid/3490140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-dead-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366732"
+}
