@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333024,
+  "name": "Into the Mine",
+  "source_url": "https://www.igdb.com/games/into-the-mine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9g2z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Into the Mine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2930340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2930340",
+        "Linux": "setsid steam steam://rungameid/2930340",
+        "macOS": "open steam://rungameid/2930340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "into-the-mine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333024"
+}
