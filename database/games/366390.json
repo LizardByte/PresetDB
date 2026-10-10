@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366390,
+  "name": "Polyjump",
+  "source_url": "https://www.igdb.com/games/polyjump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafmf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Polyjump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "589210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/589210",
+        "Linux": "setsid steam steam://rungameid/589210",
+        "macOS": "open steam://rungameid/589210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "polyjump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366390"
+}
