@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 349140,
+  "name": "Fireside Friends",
+  "source_url": "https://www.igdb.com/games/fireside-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9z0b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fireside Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3681060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3681060",
+        "Linux": "setsid steam steam://rungameid/3681060",
+        "macOS": "open steam://rungameid/3681060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fireside-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=349140"
+}
