@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351523,
+  "name": "I Had a Friend",
+  "source_url": "https://www.igdb.com/games/i-had-a-friend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1v6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Had a Friend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3301580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3301580",
+        "Linux": "setsid steam steam://rungameid/3301580",
+        "macOS": "open steam://rungameid/3301580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-had-a-friend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351523"
+}
