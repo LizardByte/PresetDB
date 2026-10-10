@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373339,
+  "name": "Take7",
+  "source_url": "https://www.igdb.com/games/take7",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxia.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Take7",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3865480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3865480",
+        "Linux": "setsid steam steam://rungameid/3865480",
+        "macOS": "open steam://rungameid/3865480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "take7",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373339"
+}
