@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340682,
+  "name": "Rush Heroes",
+  "source_url": "https://www.igdb.com/games/rush-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coay1l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rush Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2813330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2813330",
+        "Linux": "setsid steam steam://rungameid/2813330",
+        "macOS": "open steam://rungameid/2813330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rush-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340682"
+}
