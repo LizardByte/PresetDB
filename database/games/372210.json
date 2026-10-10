@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372210,
+  "name": "What Was",
+  "source_url": "https://www.igdb.com/games/what-was",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coan4b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What Was",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1969180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1969180",
+        "Linux": "setsid steam steam://rungameid/1969180",
+        "macOS": "open steam://rungameid/1969180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "what-was",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372210"
+}
