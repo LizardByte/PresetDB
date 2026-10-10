@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368581,
+  "name": "Project Sever",
+  "source_url": "https://www.igdb.com/games/project-sever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coak1q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Sever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3188510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3188510",
+        "Linux": "setsid steam steam://rungameid/3188510",
+        "macOS": "open steam://rungameid/3188510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-sever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368581"
+}
