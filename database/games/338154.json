@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338154,
+  "name": "Are You Happy",
+  "source_url": "https://www.igdb.com/games/are-you-happy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9m80.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Are You Happy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3388440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3388440",
+        "Linux": "setsid steam steam://rungameid/3388440",
+        "macOS": "open steam://rungameid/3388440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "are-you-happy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338154"
+}
