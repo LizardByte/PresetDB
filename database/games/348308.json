@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348308,
+  "name": "RustNaut",
+  "source_url": "https://www.igdb.com/games/rustnaut",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8bl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RustNaut",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3060430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3060430",
+        "Linux": "setsid steam steam://rungameid/3060430",
+        "macOS": "open steam://rungameid/3060430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rustnaut",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348308"
+}
