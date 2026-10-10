@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351104,
+  "name": "Retro Rail Go!",
+  "source_url": "https://www.igdb.com/games/retro-rail-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1f4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retro Rail Go!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2951440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2951440",
+        "Linux": "setsid steam steam://rungameid/2951440",
+        "macOS": "open steam://rungameid/2951440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retro-rail-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351104"
+}
