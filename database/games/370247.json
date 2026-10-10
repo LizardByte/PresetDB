@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370247,
+  "name": "One in the Back",
+  "source_url": "https://www.igdb.com/games/one-in-the-back",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coak9a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One in the Back",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4038780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4038780",
+        "Linux": "setsid steam steam://rungameid/4038780",
+        "macOS": "open steam://rungameid/4038780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-in-the-back",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370247"
+}
