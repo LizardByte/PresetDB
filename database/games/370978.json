@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370978,
+  "name": "Last Mage",
+  "source_url": "https://www.igdb.com/games/last-mage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaleh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Mage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2990040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2990040",
+        "Linux": "setsid steam steam://rungameid/2990040",
+        "macOS": "open steam://rungameid/2990040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-mage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370978"
+}
