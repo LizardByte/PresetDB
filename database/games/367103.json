@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 367103,
+  "name": "City of Cats",
+  "source_url": "https://www.igdb.com/games/city-of-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coakul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "City of Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2400790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2400790",
+        "Linux": "setsid steam steam://rungameid/2400790",
+        "macOS": "open steam://rungameid/2400790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "city-of-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=367103"
+}
