@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355184,
+  "name": "Eternal Hand",
+  "source_url": "https://www.igdb.com/games/eternal-hand",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdtz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eternal Hand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3723100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3723100",
+        "Linux": "setsid steam steam://rungameid/3723100",
+        "macOS": "open steam://rungameid/3723100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eternal-hand",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355184"
+}
