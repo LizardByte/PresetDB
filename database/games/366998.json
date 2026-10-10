@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366998,
+  "name": "The Remainer",
+  "source_url": "https://www.igdb.com/games/the-remainer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coagbc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Remainer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3910440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3910440",
+        "Linux": "setsid steam steam://rungameid/3910440",
+        "macOS": "open steam://rungameid/3910440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-remainer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366998"
+}
