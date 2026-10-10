@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368820,
+  "name": "Chill Fox",
+  "source_url": "https://www.igdb.com/games/chill-fox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaih3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chill Fox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3905590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3905590",
+        "Linux": "setsid steam steam://rungameid/3905590",
+        "macOS": "open steam://rungameid/3905590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chill-fox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368820"
+}
