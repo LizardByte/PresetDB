@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359239,
+  "name": "JustRun",
+  "source_url": "https://www.igdb.com/games/justrun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa83q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JustRun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3764230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3764230",
+        "Linux": "setsid steam steam://rungameid/3764230",
+        "macOS": "open steam://rungameid/3764230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "justrun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359239"
+}
