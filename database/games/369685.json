@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369685,
+  "name": "Zoo Time",
+  "source_url": "https://www.igdb.com/games/zoo-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajgm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zoo Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3280100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3280100",
+        "Linux": "setsid steam steam://rungameid/3280100",
+        "macOS": "open steam://rungameid/3280100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zoo-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369685"
+}
