@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369693,
+  "name": "Coppy Tour",
+  "source_url": "https://www.igdb.com/games/coppy-tour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajh3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coppy Tour",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4003340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4003340",
+        "Linux": "setsid steam steam://rungameid/4003340",
+        "macOS": "open steam://rungameid/4003340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coppy-tour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369693"
+}
