@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 355406,
+  "name": "Bearly Brave",
+  "source_url": "https://www.igdb.com/games/bearly-brave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa4vz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bearly Brave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3490280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3490280",
+        "Linux": "setsid steam steam://rungameid/3490280",
+        "macOS": "open steam://rungameid/3490280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bearly-brave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=355406"
+}
