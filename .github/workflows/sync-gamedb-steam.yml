@@ -59,7 +59,7 @@ jobs:
           set -euo pipefail
           git -C database-branch config user.name "$BOT_NAME"
           git -C database-branch config user.email "$BOT_EMAIL"
-          node src/gamedb-sync.js --gamedb gamedb --database database-branch
+          node src/gamedb-sync.js --gamedb gamedb --database database-branch --batch-size 500
 
       - name: Build updated site
         if: always() && steps.import.outputs.changed == 'true'
