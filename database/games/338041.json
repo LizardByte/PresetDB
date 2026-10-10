@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 338041,
+  "name": "Exot",
+  "source_url": "https://www.igdb.com/games/exot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9mz8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3326000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3326000",
+        "Linux": "setsid steam steam://rungameid/3326000",
+        "macOS": "open steam://rungameid/3326000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=338041"
+}
