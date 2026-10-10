@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 373634,
+  "name": "Fishbait",
+  "source_url": "https://www.igdb.com/games/fishbait",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaotm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fishbait",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2001860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2001860",
+        "Linux": "setsid steam steam://rungameid/2001860",
+        "macOS": "open steam://rungameid/2001860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fishbait",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=373634"
+}
