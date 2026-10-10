@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 360709,
+  "name": "Wahm",
+  "source_url": "https://www.igdb.com/games/wahm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa9mq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wahm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3715980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3715980",
+        "Linux": "setsid steam steam://rungameid/3715980",
+        "macOS": "open steam://rungameid/3715980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wahm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=360709"
+}
