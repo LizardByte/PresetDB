@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 364470,
+  "name": "Dun Dun Crawl",
+  "source_url": "https://www.igdb.com/games/dun-dun-crawl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coadjg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dun Dun Crawl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3989980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3989980",
+        "Linux": "setsid steam steam://rungameid/3989980",
+        "macOS": "open steam://rungameid/3989980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dun-dun-crawl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=364470"
+}
