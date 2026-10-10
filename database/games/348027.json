@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348027,
+  "name": "Don't Get Caught",
+  "source_url": "https://www.igdb.com/games/dont-get-caught",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa317.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Get Caught",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3191300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3191300",
+        "Linux": "setsid steam steam://rungameid/3191300",
+        "macOS": "open steam://rungameid/3191300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-get-caught",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348027"
+}
