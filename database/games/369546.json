@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369546,
+  "name": "CyberArena",
+  "source_url": "https://www.igdb.com/games/cyberarena--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaja2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CyberArena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3751810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3751810",
+        "Linux": "setsid steam steam://rungameid/3751810",
+        "macOS": "open steam://rungameid/3751810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cyberarena--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369546"
+}
