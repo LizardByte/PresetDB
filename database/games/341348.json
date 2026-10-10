@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341348,
+  "name": "My Day Challenge",
+  "source_url": "https://www.igdb.com/games/my-day-challenge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pr1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Day Challenge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3255970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3255970",
+        "Linux": "setsid steam steam://rungameid/3255970",
+        "macOS": "open steam://rungameid/3255970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-day-challenge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341348"
+}
