@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334002,
+  "name": "Quirky Forest",
+  "source_url": "https://www.igdb.com/games/quirky-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9iif.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quirky Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3339720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3339720",
+        "Linux": "setsid steam steam://rungameid/3339720",
+        "macOS": "open steam://rungameid/3339720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quirky-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334002"
+}
