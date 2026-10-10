@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334400,
+  "name": "Take the L",
+  "source_url": "https://www.igdb.com/games/take-the-l",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9hwf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Take the L",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3122050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3122050",
+        "Linux": "setsid steam steam://rungameid/3122050",
+        "macOS": "open steam://rungameid/3122050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "take-the-l",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334400"
+}
