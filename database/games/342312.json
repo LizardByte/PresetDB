@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 342312,
+  "name": "Plush Party",
+  "source_url": "https://www.igdb.com/games/plush-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawx6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Plush Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3266120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3266120",
+        "Linux": "setsid steam steam://rungameid/3266120",
+        "macOS": "open steam://rungameid/3266120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "plush-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=342312"
+}
