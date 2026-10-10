@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 357000,
+  "name": "Rhino Express",
+  "source_url": "https://www.igdb.com/games/rhino-express",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa65i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rhino Express",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3901520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3901520",
+        "Linux": "setsid steam steam://rungameid/3901520",
+        "macOS": "open steam://rungameid/3901520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rhino-express",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=357000"
+}
