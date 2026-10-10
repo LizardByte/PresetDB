@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 332623,
+  "name": "StockSim",
+  "source_url": "https://www.igdb.com/games/stocksim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa59g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StockSim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3059200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3059200",
+        "Linux": "setsid steam steam://rungameid/3059200",
+        "macOS": "open steam://rungameid/3059200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stocksim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=332623"
+}
