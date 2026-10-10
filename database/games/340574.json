@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340574,
+  "name": "Cubetory",
+  "source_url": "https://www.igdb.com/games/cubetory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9oqx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cubetory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3027060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3027060",
+        "Linux": "setsid steam steam://rungameid/3027060",
+        "macOS": "open steam://rungameid/3027060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cubetory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340574"
+}
