@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 366127,
+  "name": "Planetris",
+  "source_url": "https://www.igdb.com/games/planetris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaft0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Planetris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3846730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3846730",
+        "Linux": "setsid steam steam://rungameid/3846730",
+        "macOS": "open steam://rungameid/3846730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planetris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=366127"
+}
