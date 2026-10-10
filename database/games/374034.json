@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374034,
+  "name": "Rocrasher",
+  "source_url": "https://www.igdb.com/games/rocrasher",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap8n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocrasher",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3882280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3882280",
+        "Linux": "setsid steam steam://rungameid/3882280",
+        "macOS": "open steam://rungameid/3882280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocrasher",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374034"
+}
