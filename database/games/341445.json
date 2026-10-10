@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341445,
+  "name": "Project P",
+  "source_url": "https://www.igdb.com/games/project-p--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5bh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project P",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2919340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2919340",
+        "Linux": "setsid steam steam://rungameid/2919340",
+        "macOS": "open steam://rungameid/2919340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-p--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341445"
+}
