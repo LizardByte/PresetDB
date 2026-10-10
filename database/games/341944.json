@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341944,
+  "name": "Micromega",
+  "source_url": "https://www.igdb.com/games/micromega",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyb1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Micromega",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3453900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3453900",
+        "Linux": "setsid steam steam://rungameid/3453900",
+        "macOS": "open steam://rungameid/3453900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "micromega",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341944"
+}
