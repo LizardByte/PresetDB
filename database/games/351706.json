@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351706,
+  "name": "Luckrot",
+  "source_url": "https://www.igdb.com/games/luckrot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxl1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Luckrot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3823650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3823650",
+        "Linux": "setsid steam steam://rungameid/3823650",
+        "macOS": "open steam://rungameid/3823650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "luckrot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351706"
+}
