@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 334328,
+  "name": "Liar Game",
+  "source_url": "https://www.igdb.com/games/liar-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9huh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liar Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3555700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3555700",
+        "Linux": "setsid steam steam://rungameid/3555700",
+        "macOS": "open steam://rungameid/3555700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liar-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=334328"
+}
