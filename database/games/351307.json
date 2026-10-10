@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351307,
+  "name": "Kopi",
+  "source_url": "https://www.igdb.com/games/kopi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa1mu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kopi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2909960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2909960",
+        "Linux": "setsid steam steam://rungameid/2909960",
+        "macOS": "open steam://rungameid/2909960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kopi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351307"
+}
