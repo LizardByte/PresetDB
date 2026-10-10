@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369473,
+  "name": "Die or Die",
+  "source_url": "https://www.igdb.com/games/die-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaj86.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Die or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3842190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3842190",
+        "Linux": "setsid steam steam://rungameid/3842190",
+        "macOS": "open steam://rungameid/3842190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "die-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369473"
+}
