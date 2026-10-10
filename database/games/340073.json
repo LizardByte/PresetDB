@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340073,
+  "name": "Figure it Out!",
+  "source_url": "https://www.igdb.com/games/figure-it-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocblv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Figure it Out!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3450480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3450480",
+        "Linux": "setsid steam steam://rungameid/3450480",
+        "macOS": "open steam://rungameid/3450480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "figure-it-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340073"
+}
