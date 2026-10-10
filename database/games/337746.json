@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 337746,
+  "name": "Slippy Bear",
+  "source_url": "https://www.igdb.com/games/slippy-bear",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9ndi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slippy Bear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3591650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3591650",
+        "Linux": "setsid steam steam://rungameid/3591650",
+        "macOS": "open steam://rungameid/3591650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slippy-bear",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=337746"
+}
