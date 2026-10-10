@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 370734,
+  "name": "NecroKitty",
+  "source_url": "https://www.igdb.com/games/necrokitty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coalr4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NecroKitty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4014400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4014400",
+        "Linux": "setsid steam steam://rungameid/4014400",
+        "macOS": "open steam://rungameid/4014400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "necrokitty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=370734"
+}
