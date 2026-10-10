@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 351616,
+  "name": "Invader Simulator",
+  "source_url": "https://www.igdb.com/games/invader-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa26m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Invader Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3472230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3472230",
+        "Linux": "setsid steam steam://rungameid/3472230",
+        "macOS": "open steam://rungameid/3472230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "invader-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=351616"
+}
