@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 369608,
+  "name": "Ghost Feed",
+  "source_url": "https://www.igdb.com/games/ghost-feed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coajcs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Feed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1111080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1111080",
+        "Linux": "setsid steam steam://rungameid/1111080",
+        "macOS": "open steam://rungameid/1111080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-feed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=369608"
+}
