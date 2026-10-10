@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343220,
+  "name": "Balls Gone Wild",
+  "source_url": "https://www.igdb.com/games/balls-gone-wild",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9sm3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Balls Gone Wild",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3703930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3703930",
+        "Linux": "setsid steam steam://rungameid/3703930",
+        "macOS": "open steam://rungameid/3703930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "balls-gone-wild",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343220"
+}
