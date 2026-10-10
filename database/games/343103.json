@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 343103,
+  "name": "Mr Farmboy",
+  "source_url": "https://www.igdb.com/games/mr-farmboy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa547.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mr Farmboy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2795090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2795090",
+        "Linux": "setsid steam steam://rungameid/2795090",
+        "macOS": "open steam://rungameid/2795090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mr-farmboy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=343103"
+}
