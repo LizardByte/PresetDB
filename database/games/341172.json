@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341172,
+  "name": "Little Luna",
+  "source_url": "https://www.igdb.com/games/little-luna",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9pja.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Luna",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3507490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3507490",
+        "Linux": "setsid steam steam://rungameid/3507490",
+        "macOS": "open steam://rungameid/3507490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-luna",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341172"
+}
