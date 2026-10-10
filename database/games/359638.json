@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 359638,
+  "name": "Cozy Factory",
+  "source_url": "https://www.igdb.com/games/cozy-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobikp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3876590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3876590",
+        "Linux": "setsid steam steam://rungameid/3876590",
+        "macOS": "open steam://rungameid/3876590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=359638"
+}
