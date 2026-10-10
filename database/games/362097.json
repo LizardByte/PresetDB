@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 362097,
+  "name": "Kaidan",
+  "source_url": "https://www.igdb.com/games/kaidan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coab9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kaidan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3744040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3744040",
+        "Linux": "setsid steam steam://rungameid/3744040",
+        "macOS": "open steam://rungameid/3744040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kaidan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=362097"
+}
