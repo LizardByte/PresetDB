@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374005,
+  "name": "WhoIs",
+  "source_url": "https://www.igdb.com/games/whois",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coap7j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WhoIs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3984630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3984630",
+        "Linux": "setsid steam steam://rungameid/3984630",
+        "macOS": "open steam://rungameid/3984630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whois",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374005"
+}
