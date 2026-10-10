@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 365890,
+  "name": "Our Town Hero",
+  "source_url": "https://www.igdb.com/games/our-town-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coahxc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Our Town Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3752630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3752630",
+        "Linux": "setsid steam steam://rungameid/3752630",
+        "macOS": "open steam://rungameid/3752630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "our-town-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=365890"
+}
