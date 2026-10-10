@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 341214,
+  "name": "Mars Mirage",
+  "source_url": "https://www.igdb.com/games/mars-mirage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1qa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mars Mirage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2960300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2960300",
+        "Linux": "setsid steam steam://rungameid/2960300",
+        "macOS": "open steam://rungameid/2960300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mars-mirage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=341214"
+}
