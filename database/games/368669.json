@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 368669,
+  "name": "Welcome",
+  "source_url": "https://www.igdb.com/games/welcome--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaibu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1126100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1126100",
+        "Linux": "setsid steam steam://rungameid/1126100",
+        "macOS": "open steam://rungameid/1126100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=368669"
+}
