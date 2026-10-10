@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 348419,
+  "name": "Mination",
+  "source_url": "https://www.igdb.com/games/mination",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9yhx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mination",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3534170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3534170",
+        "Linux": "setsid steam steam://rungameid/3534170",
+        "macOS": "open steam://rungameid/3534170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mination",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=348419"
+}
