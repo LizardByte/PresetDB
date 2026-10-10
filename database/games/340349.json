@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 340349,
+  "name": "Final Fantasy IX",
+  "source_url": "https://www.igdb.com/games/final-fantasy-ix--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2dk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy IX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "377840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/377840",
+        "Linux": "setsid steam steam://rungameid/377840",
+        "macOS": "open steam://rungameid/377840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-fantasy-ix--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=340349"
+}
