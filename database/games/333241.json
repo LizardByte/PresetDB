@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 333241,
+  "name": "Flood of Zombies",
+  "source_url": "https://www.igdb.com/games/flood-of-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co9gcd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flood of Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3347250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3347250",
+        "Linux": "setsid steam steam://rungameid/3347250",
+        "macOS": "open steam://rungameid/3347250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flood-of-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=333241"
+}
