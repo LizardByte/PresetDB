@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391107,
+  "name": "Fear of Sleep",
+  "source_url": "https://www.igdb.com/games/fear-of-sleep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkot.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fear of Sleep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4008240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4008240",
+        "Linux": "setsid steam steam://rungameid/4008240",
+        "macOS": "open steam://rungameid/4008240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fear-of-sleep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391107"
+}
