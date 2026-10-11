@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408797,
+  "name": "Ultimate Guess Game",
+  "source_url": "https://www.igdb.com/games/ultimate-guess-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocchy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ultimate Guess Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4864750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4864750",
+        "Linux": "setsid steam steam://rungameid/4864750",
+        "macOS": "open steam://rungameid/4864750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ultimate-guess-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408797"
+}
