@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377211,
+  "name": "In Silence Waits",
+  "source_url": "https://www.igdb.com/games/in-silence-waits",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatyd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In Silence Waits",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2987000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2987000",
+        "Linux": "setsid steam steam://rungameid/2987000",
+        "macOS": "open steam://rungameid/2987000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-silence-waits",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377211"
+}
