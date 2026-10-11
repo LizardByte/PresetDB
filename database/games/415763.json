@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415763,
+  "name": "Shift Chess",
+  "source_url": "https://www.igdb.com/games/shift-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct5r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shift Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4746450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4746450",
+        "Linux": "setsid steam steam://rungameid/4746450",
+        "macOS": "open steam://rungameid/4746450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shift-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415763"
+}
