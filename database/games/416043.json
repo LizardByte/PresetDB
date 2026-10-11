@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416043,
+  "name": "Pocket Adventurer",
+  "source_url": "https://www.igdb.com/games/pocket-adventurer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocuk0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pocket Adventurer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5136070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5136070",
+        "Linux": "setsid steam steam://rungameid/5136070",
+        "macOS": "open steam://rungameid/5136070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pocket-adventurer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416043"
+}
