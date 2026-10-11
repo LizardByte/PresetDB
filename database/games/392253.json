@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392253,
+  "name": "Chomp Hero",
+  "source_url": "https://www.igdb.com/games/chomp-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobozj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chomp Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1839010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1839010",
+        "Linux": "setsid steam steam://rungameid/1839010",
+        "macOS": "open steam://rungameid/1839010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chomp-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392253"
+}
