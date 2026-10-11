@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382195,
+  "name": "Walled Haven",
+  "source_url": "https://www.igdb.com/games/walled-haven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2x3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Walled Haven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4188680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4188680",
+        "Linux": "setsid steam steam://rungameid/4188680",
+        "macOS": "open steam://rungameid/4188680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "walled-haven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382195"
+}
