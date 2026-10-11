@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403307,
+  "name": "Snaptic",
+  "source_url": "https://www.igdb.com/games/snaptic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4rn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snaptic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5201040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5201040",
+        "Linux": "setsid steam steam://rungameid/5201040",
+        "macOS": "open steam://rungameid/5201040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snaptic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403307"
+}
