@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390329,
+  "name": "Alpha Crisis",
+  "source_url": "https://www.igdb.com/games/alpha-crisis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjq9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alpha Crisis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4187870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4187870",
+        "Linux": "setsid steam steam://rungameid/4187870",
+        "macOS": "open steam://rungameid/4187870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alpha-crisis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390329"
+}
