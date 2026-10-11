@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387392,
+  "name": "Good Human",
+  "source_url": "https://www.igdb.com/games/good-human",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdf1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Good Human",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3989970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3989970",
+        "Linux": "setsid steam steam://rungameid/3989970",
+        "macOS": "open steam://rungameid/3989970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "good-human",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387392"
+}
