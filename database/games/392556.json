@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392556,
+  "name": "Unchi",
+  "source_url": "https://www.igdb.com/games/unchi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmna.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unchi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4381230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4381230",
+        "Linux": "setsid steam steam://rungameid/4381230",
+        "macOS": "open steam://rungameid/4381230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unchi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392556"
+}
