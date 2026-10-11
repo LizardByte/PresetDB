@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405278,
+  "name": "Cat and Rat",
+  "source_url": "https://www.igdb.com/games/cat-and-rat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7en.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat and Rat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2214950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2214950",
+        "Linux": "setsid steam steam://rungameid/2214950",
+        "macOS": "open steam://rungameid/2214950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-and-rat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405278"
+}
