@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377150,
+  "name": "Warship",
+  "source_url": "https://www.igdb.com/games/warship--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2h9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warship",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3183860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3183860",
+        "Linux": "setsid steam steam://rungameid/3183860",
+        "macOS": "open steam://rungameid/3183860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warship--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377150"
+}
