@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380900,
+  "name": "Terra",
+  "source_url": "https://www.igdb.com/games/terra--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazgf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Terra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3650830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3650830",
+        "Linux": "setsid steam steam://rungameid/3650830",
+        "macOS": "open steam://rungameid/3650830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "terra--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380900"
+}
