@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389780,
+  "name": "H Girl",
+  "source_url": "https://www.igdb.com/games/h-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj2x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "H Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2324360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2324360",
+        "Linux": "setsid steam steam://rungameid/2324360",
+        "macOS": "open steam://rungameid/2324360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "h-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389780"
+}
