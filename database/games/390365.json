@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390365,
+  "name": "Dakini",
+  "source_url": "https://www.igdb.com/games/dakini",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjrs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dakini",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4179070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4179070",
+        "Linux": "setsid steam steam://rungameid/4179070",
+        "macOS": "open steam://rungameid/4179070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dakini",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390365"
+}
