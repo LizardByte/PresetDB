@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392603,
+  "name": "Beat the Champions",
+  "source_url": "https://www.igdb.com/games/beat-the-champions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc6ea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat the Champions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4008350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4008350",
+        "Linux": "setsid steam steam://rungameid/4008350",
+        "macOS": "open steam://rungameid/4008350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beat-the-champions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392603"
+}
