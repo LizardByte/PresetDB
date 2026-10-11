@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374865,
+  "name": "Mead & Glory",
+  "source_url": "https://www.igdb.com/games/mead-and-glory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqaz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mead & Glory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3610120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3610120",
+        "Linux": "setsid steam steam://rungameid/3610120",
+        "macOS": "open steam://rungameid/3610120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mead-and-glory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374865"
+}
