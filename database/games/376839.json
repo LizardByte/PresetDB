@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376839,
+  "name": "5 Minutes",
+  "source_url": "https://www.igdb.com/games/5-minutes--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatm5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "5 Minutes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4039470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4039470",
+        "Linux": "setsid steam steam://rungameid/4039470",
+        "macOS": "open steam://rungameid/4039470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "5-minutes--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376839"
+}
