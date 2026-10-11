@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383840,
+  "name": "I'm a Human",
+  "source_url": "https://www.igdb.com/games/im-a-human",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6kj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I'm a Human",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4258340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4258340",
+        "Linux": "setsid steam steam://rungameid/4258340",
+        "macOS": "open steam://rungameid/4258340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "im-a-human",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383840"
+}
