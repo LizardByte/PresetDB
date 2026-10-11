@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405549,
+  "name": "PegPigeon",
+  "source_url": "https://www.igdb.com/games/pegpigeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PegPigeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4737610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4737610",
+        "Linux": "setsid steam steam://rungameid/4737610",
+        "macOS": "open steam://rungameid/4737610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pegpigeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405549"
+}
