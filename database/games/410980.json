@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410980,
+  "name": "Puroma",
+  "source_url": "https://www.igdb.com/games/puroma",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjzj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puroma",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4657480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4657480",
+        "Linux": "setsid steam steam://rungameid/4657480",
+        "macOS": "open steam://rungameid/4657480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "puroma",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410980"
+}
