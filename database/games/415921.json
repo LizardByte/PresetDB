@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415921,
+  "name": "Fedanheim",
+  "source_url": "https://www.igdb.com/games/fedanheim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fedanheim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5158890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5158890",
+        "Linux": "setsid steam steam://rungameid/5158890",
+        "macOS": "open steam://rungameid/5158890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fedanheim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415921"
+}
