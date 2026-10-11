@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390349,
+  "name": "Breakbox",
+  "source_url": "https://www.igdb.com/games/breakbox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjr8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Breakbox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4181670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4181670",
+        "Linux": "setsid steam steam://rungameid/4181670",
+        "macOS": "open steam://rungameid/4181670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "breakbox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390349"
+}
