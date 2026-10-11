@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400463,
+  "name": "BarGirls",
+  "source_url": "https://www.igdb.com/games/bargirls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0mr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BarGirls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3185490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3185490",
+        "Linux": "setsid steam steam://rungameid/3185490",
+        "macOS": "open steam://rungameid/3185490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bargirls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400463"
+}
