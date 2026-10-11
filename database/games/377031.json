@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377031,
+  "name": "Youth Academy",
+  "source_url": "https://www.igdb.com/games/youth-academy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatsy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Youth Academy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4165060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4165060",
+        "Linux": "setsid steam steam://rungameid/4165060",
+        "macOS": "open steam://rungameid/4165060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "youth-academy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377031"
+}
