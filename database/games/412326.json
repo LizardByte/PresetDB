@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412326,
+  "name": "Catalyst Core",
+  "source_url": "https://www.igdb.com/games/catalyst-core",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmf2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Catalyst Core",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4967490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4967490",
+        "Linux": "setsid steam steam://rungameid/4967490",
+        "macOS": "open steam://rungameid/4967490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catalyst-core",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412326"
+}
