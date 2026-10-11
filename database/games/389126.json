@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389126,
+  "name": "Roguesweeper",
+  "source_url": "https://www.igdb.com/games/roguesweeper--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhgt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roguesweeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4262140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4262140",
+        "Linux": "setsid steam steam://rungameid/4262140",
+        "macOS": "open steam://rungameid/4262140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roguesweeper--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389126"
+}
