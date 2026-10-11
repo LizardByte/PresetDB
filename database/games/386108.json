@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386108,
+  "name": "We Are Counting",
+  "source_url": "https://www.igdb.com/games/we-are-counting",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb4f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "We Are Counting",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4233450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4233450",
+        "Linux": "setsid steam steam://rungameid/4233450",
+        "macOS": "open steam://rungameid/4233450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "we-are-counting",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386108"
+}
