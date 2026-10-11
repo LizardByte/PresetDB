@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415823,
+  "name": "In & Out",
+  "source_url": "https://www.igdb.com/games/in-and-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct19.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "In & Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4230140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4230140",
+        "Linux": "setsid steam steam://rungameid/4230140",
+        "macOS": "open steam://rungameid/4230140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "in-and-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415823"
+}
