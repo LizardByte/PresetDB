@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375121,
+  "name": "Pay at the Pump",
+  "source_url": "https://www.igdb.com/games/pay-at-the-pump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqsp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pay at the Pump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4011720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4011720",
+        "Linux": "setsid steam steam://rungameid/4011720",
+        "macOS": "open steam://rungameid/4011720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pay-at-the-pump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375121"
+}
