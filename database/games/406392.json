@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406392,
+  "name": "180°",
+  "source_url": "https://www.igdb.com/games/180-degrees",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocie9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "180°",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4566690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4566690",
+        "Linux": "setsid steam steam://rungameid/4566690",
+        "macOS": "open steam://rungameid/4566690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "180-degrees",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406392"
+}
