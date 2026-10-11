@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406003,
+  "name": "BugFixer",
+  "source_url": "https://www.igdb.com/games/bugfixer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocc8m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BugFixer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3937090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3937090",
+        "Linux": "setsid steam steam://rungameid/3937090",
+        "macOS": "open steam://rungameid/3937090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bugfixer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406003"
+}
