@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377049,
+  "name": "Bunny Hopper",
+  "source_url": "https://www.igdb.com/games/bunny-hopper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Hopper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4015730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4015730",
+        "Linux": "setsid steam steam://rungameid/4015730",
+        "macOS": "open steam://rungameid/4015730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunny-hopper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377049"
+}
