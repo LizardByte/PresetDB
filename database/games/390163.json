@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390163,
+  "name": "Duck Duck Shark",
+  "source_url": "https://www.igdb.com/games/duck-duck-shark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjii.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Duck Shark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1771550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1771550",
+        "Linux": "setsid steam steam://rungameid/1771550",
+        "macOS": "open steam://rungameid/1771550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duck-duck-shark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390163"
+}
