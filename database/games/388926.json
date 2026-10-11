@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388926,
+  "name": "Leap Frog",
+  "source_url": "https://www.igdb.com/games/leap-frog--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh08.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leap Frog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2416670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2416670",
+        "Linux": "setsid steam steam://rungameid/2416670",
+        "macOS": "open steam://rungameid/2416670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leap-frog--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388926"
+}
