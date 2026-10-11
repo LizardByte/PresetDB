@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414801,
+  "name": "Y2kill",
+  "source_url": "https://www.igdb.com/games/y2kill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocr5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Y2kill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3552780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3552780",
+        "Linux": "setsid steam steam://rungameid/3552780",
+        "macOS": "open steam://rungameid/3552780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "y2kill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414801"
+}
