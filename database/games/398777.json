@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398777,
+  "name": "Rule the Dungeon",
+  "source_url": "https://www.igdb.com/games/rule-the-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coby6l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rule the Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4078540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4078540",
+        "Linux": "setsid steam steam://rungameid/4078540",
+        "macOS": "open steam://rungameid/4078540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rule-the-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398777"
+}
