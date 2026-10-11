@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397282,
+  "name": "PinBall Escape",
+  "source_url": "https://www.igdb.com/games/pinball-escape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobvpp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PinBall Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4520970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4520970",
+        "Linux": "setsid steam steam://rungameid/4520970",
+        "macOS": "open steam://rungameid/4520970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pinball-escape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397282"
+}
