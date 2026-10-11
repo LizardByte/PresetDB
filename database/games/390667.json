@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390667,
+  "name": "Mystic Tavern",
+  "source_url": "https://www.igdb.com/games/mystic-tavern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk3x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mystic Tavern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4112540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4112540",
+        "Linux": "setsid steam steam://rungameid/4112540",
+        "macOS": "open steam://rungameid/4112540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mystic-tavern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390667"
+}
