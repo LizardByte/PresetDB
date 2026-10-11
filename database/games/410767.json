@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410767,
+  "name": "MoneyClicker",
+  "source_url": "https://www.igdb.com/games/moneyclicker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjp3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MoneyClicker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4359880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4359880",
+        "Linux": "setsid steam steam://rungameid/4359880",
+        "macOS": "open steam://rungameid/4359880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moneyclicker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410767"
+}
