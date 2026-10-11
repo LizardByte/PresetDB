@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390550,
+  "name": "Feditor",
+  "source_url": "https://www.igdb.com/games/feditor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjzx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feditor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1013360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1013360",
+        "Linux": "setsid steam steam://rungameid/1013360",
+        "macOS": "open steam://rungameid/1013360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "feditor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390550"
+}
