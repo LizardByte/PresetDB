@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408372,
+  "name": "Something Beautiful",
+  "source_url": "https://www.igdb.com/games/something-beautiful",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbvu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Something Beautiful",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4041730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4041730",
+        "Linux": "setsid steam steam://rungameid/4041730",
+        "macOS": "open steam://rungameid/4041730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "something-beautiful",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408372"
+}
