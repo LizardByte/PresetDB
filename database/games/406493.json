@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406493,
+  "name": "TocoToco",
+  "source_url": "https://www.igdb.com/games/tocotoco",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc8vp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TocoToco",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4592150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4592150",
+        "Linux": "setsid steam steam://rungameid/4592150",
+        "macOS": "open steam://rungameid/4592150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tocotoco",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406493"
+}
