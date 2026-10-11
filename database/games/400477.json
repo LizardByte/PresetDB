@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400477,
+  "name": "Ice Age",
+  "source_url": "https://www.igdb.com/games/ice-age--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0nq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ice Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4394890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4394890",
+        "Linux": "setsid steam steam://rungameid/4394890",
+        "macOS": "open steam://rungameid/4394890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ice-age--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400477"
+}
