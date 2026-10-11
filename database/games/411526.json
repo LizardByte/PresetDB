@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411526,
+  "name": "Borbs",
+  "source_url": "https://www.igdb.com/games/borbs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclv2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Borbs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4423010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4423010",
+        "Linux": "setsid steam steam://rungameid/4423010",
+        "macOS": "open steam://rungameid/4423010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "borbs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411526"
+}
