@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410238,
+  "name": "Danju",
+  "source_url": "https://www.igdb.com/games/danju",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocimx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Danju",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4161580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4161580",
+        "Linux": "setsid steam steam://rungameid/4161580",
+        "macOS": "open steam://rungameid/4161580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "danju",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410238"
+}
