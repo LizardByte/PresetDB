@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415869,
+  "name": "Floraison",
+  "source_url": "https://www.igdb.com/games/floraison",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Floraison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4649990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4649990",
+        "Linux": "setsid steam steam://rungameid/4649990",
+        "macOS": "open steam://rungameid/4649990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "floraison",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415869"
+}
