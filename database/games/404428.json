@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404428,
+  "name": "Pick Ball",
+  "source_url": "https://www.igdb.com/games/pick-ball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc6bf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pick Ball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4763080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4763080",
+        "Linux": "setsid steam steam://rungameid/4763080",
+        "macOS": "open steam://rungameid/4763080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pick-ball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404428"
+}
