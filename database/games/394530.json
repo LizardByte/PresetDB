@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 394530,
+  "name": "Gobble",
+  "source_url": "https://www.igdb.com/games/gobble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobr3j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gobble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4439670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4439670",
+        "Linux": "setsid steam steam://rungameid/4439670",
+        "macOS": "open steam://rungameid/4439670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gobble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=394530"
+}
