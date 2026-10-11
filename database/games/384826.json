@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384826,
+  "name": "Melstorm Game",
+  "source_url": "https://www.igdb.com/games/melstorm-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob938.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Melstorm Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4143230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4143230",
+        "Linux": "setsid steam steam://rungameid/4143230",
+        "macOS": "open steam://rungameid/4143230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "melstorm-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384826"
+}
