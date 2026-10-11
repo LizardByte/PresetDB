@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384398,
+  "name": "Not Enough Space",
+  "source_url": "https://www.igdb.com/games/not-enough-space",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob86x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not Enough Space",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2703690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2703690",
+        "Linux": "setsid steam steam://rungameid/2703690",
+        "macOS": "open steam://rungameid/2703690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "not-enough-space",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384398"
+}
