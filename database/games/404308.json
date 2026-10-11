@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404308,
+  "name": "Reclaimer",
+  "source_url": "https://www.igdb.com/games/reclaimer--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc64y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reclaimer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4303180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4303180",
+        "Linux": "setsid steam steam://rungameid/4303180",
+        "macOS": "open steam://rungameid/4303180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reclaimer--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404308"
+}
