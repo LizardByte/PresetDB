@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386851,
+  "name": "Final Splash",
+  "source_url": "https://www.igdb.com/games/final-splash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcn6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Splash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4026500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4026500",
+        "Linux": "setsid steam steam://rungameid/4026500",
+        "macOS": "open steam://rungameid/4026500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-splash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386851"
+}
