@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375549,
+  "name": "Let Me Play!",
+  "source_url": "https://www.igdb.com/games/let-me-play",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtwe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let Me Play!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3859740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3859740",
+        "Linux": "setsid steam steam://rungameid/3859740",
+        "macOS": "open steam://rungameid/3859740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "let-me-play",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375549"
+}
