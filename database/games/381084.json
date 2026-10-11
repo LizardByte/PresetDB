@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381084,
+  "name": "CorgiSpace",
+  "source_url": "https://www.igdb.com/games/corgispace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob00l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CorgiSpace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4044300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4044300",
+        "Linux": "setsid steam steam://rungameid/4044300",
+        "macOS": "open steam://rungameid/4044300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "corgispace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381084"
+}
