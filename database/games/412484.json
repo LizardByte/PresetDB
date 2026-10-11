@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412484,
+  "name": "Dust Bunny Simulator",
+  "source_url": "https://www.igdb.com/games/dust-bunny-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmra.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dust Bunny Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4900300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4900300",
+        "Linux": "setsid steam steam://rungameid/4900300",
+        "macOS": "open steam://rungameid/4900300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dust-bunny-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412484"
+}
