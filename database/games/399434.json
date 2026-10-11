@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399434,
+  "name": "Star of Games",
+  "source_url": "https://www.igdb.com/games/star-of-games",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobz7a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Star of Games",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2741050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2741050",
+        "Linux": "setsid steam steam://rungameid/2741050",
+        "macOS": "open steam://rungameid/2741050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "star-of-games",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399434"
+}
