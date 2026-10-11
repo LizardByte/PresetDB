@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389097,
+  "name": "OreMania",
+  "source_url": "https://www.igdb.com/games/oremania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhbh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OreMania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4106860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4106860",
+        "Linux": "setsid steam steam://rungameid/4106860",
+        "macOS": "open steam://rungameid/4106860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oremania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389097"
+}
