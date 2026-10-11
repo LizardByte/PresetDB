@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397661,
+  "name": "MicroFab",
+  "source_url": "https://www.igdb.com/games/microfab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobw9p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MicroFab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4338780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4338780",
+        "Linux": "setsid steam steam://rungameid/4338780",
+        "macOS": "open steam://rungameid/4338780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "microfab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397661"
+}
