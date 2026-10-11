@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384913,
+  "name": "Keito",
+  "source_url": "https://www.igdb.com/games/keito",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob99i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keito",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4096480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4096480",
+        "Linux": "setsid steam steam://rungameid/4096480",
+        "macOS": "open steam://rungameid/4096480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keito",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384913"
+}
