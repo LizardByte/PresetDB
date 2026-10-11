@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402383,
+  "name": "Community Button",
+  "source_url": "https://www.igdb.com/games/community-button",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3br.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Community Button",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4546840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4546840",
+        "Linux": "setsid steam steam://rungameid/4546840",
+        "macOS": "open steam://rungameid/4546840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "community-button",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402383"
+}
