@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390600,
+  "name": "Stillwell",
+  "source_url": "https://www.igdb.com/games/stillwell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk21.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stillwell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4128830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4128830",
+        "Linux": "setsid steam steam://rungameid/4128830",
+        "macOS": "open steam://rungameid/4128830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stillwell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390600"
+}
