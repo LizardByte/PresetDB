@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380615,
+  "name": "Fill All",
+  "source_url": "https://www.igdb.com/games/fill-all",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coayt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fill All",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1261640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1261640",
+        "Linux": "setsid steam steam://rungameid/1261640",
+        "macOS": "open steam://rungameid/1261640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fill-all",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380615"
+}
