@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395300,
+  "name": "Escape Ruin",
+  "source_url": "https://www.igdb.com/games/escape-ruin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobskd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape Ruin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4251280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4251280",
+        "Linux": "setsid steam steam://rungameid/4251280",
+        "macOS": "open steam://rungameid/4251280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-ruin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395300"
+}
