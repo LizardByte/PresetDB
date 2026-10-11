@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387199,
+  "name": "Beat:Keeper",
+  "source_url": "https://www.igdb.com/games/beat-keeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobd4u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat:Keeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4141790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4141790",
+        "Linux": "setsid steam steam://rungameid/4141790",
+        "macOS": "open steam://rungameid/4141790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beat-keeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387199"
+}
