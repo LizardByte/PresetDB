@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414031,
+  "name": "Misha",
+  "source_url": "https://www.igdb.com/games/misha--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocx51.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Misha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4559470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4559470",
+        "Linux": "setsid steam steam://rungameid/4559470",
+        "macOS": "open steam://rungameid/4559470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "misha--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414031"
+}
