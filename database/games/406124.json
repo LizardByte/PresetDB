@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406124,
+  "name": "JumpoCalypse",
+  "source_url": "https://www.igdb.com/games/jumpocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9n4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "JumpoCalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4135090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4135090",
+        "Linux": "setsid steam steam://rungameid/4135090",
+        "macOS": "open steam://rungameid/4135090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jumpocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406124"
+}
