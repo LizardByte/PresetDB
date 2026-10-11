@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384317,
+  "name": "My Rose",
+  "source_url": "https://www.igdb.com/games/my-rose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob81g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Rose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3246640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3246640",
+        "Linux": "setsid steam steam://rungameid/3246640",
+        "macOS": "open steam://rungameid/3246640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-rose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384317"
+}
