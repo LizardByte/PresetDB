@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416631,
+  "name": "Gamble Life",
+  "source_url": "https://www.igdb.com/games/gamble-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocucv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gamble Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5114530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5114530",
+        "Linux": "setsid steam steam://rungameid/5114530",
+        "macOS": "open steam://rungameid/5114530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gamble-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416631"
+}
