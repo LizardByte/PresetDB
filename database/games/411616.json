@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411616,
+  "name": "RedMoonWorld",
+  "source_url": "https://www.igdb.com/games/redmoonworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocl2b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RedMoonWorld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4104010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4104010",
+        "Linux": "setsid steam steam://rungameid/4104010",
+        "macOS": "open steam://rungameid/4104010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "redmoonworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411616"
+}
