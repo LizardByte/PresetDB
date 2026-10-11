@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393499,
+  "name": "Hexa's Gone",
+  "source_url": "https://www.igdb.com/games/hexas-gone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hexa's Gone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4371070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4371070",
+        "Linux": "setsid steam steam://rungameid/4371070",
+        "macOS": "open steam://rungameid/4371070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hexas-gone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393499"
+}
