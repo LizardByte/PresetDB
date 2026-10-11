@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412367,
+  "name": "Hellcrown",
+  "source_url": "https://www.igdb.com/games/hellcrown",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmjb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellcrown",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4424760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4424760",
+        "Linux": "setsid steam steam://rungameid/4424760",
+        "macOS": "open steam://rungameid/4424760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellcrown",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412367"
+}
