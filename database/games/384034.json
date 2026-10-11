@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384034,
+  "name": "Voidzone",
+  "source_url": "https://www.igdb.com/games/voidzone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob71g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Voidzone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3123030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3123030",
+        "Linux": "setsid steam steam://rungameid/3123030",
+        "macOS": "open steam://rungameid/3123030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voidzone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384034"
+}
