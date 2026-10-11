@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416682,
+  "name": "Pigkour",
+  "source_url": "https://www.igdb.com/games/pigkour",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwkw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pigkour",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5067380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5067380",
+        "Linux": "setsid steam steam://rungameid/5067380",
+        "macOS": "open steam://rungameid/5067380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pigkour",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416682"
+}
