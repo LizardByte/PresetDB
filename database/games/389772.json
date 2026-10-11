@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389772,
+  "name": "Juicy Love",
+  "source_url": "https://www.igdb.com/games/juicy-love",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Juicy Love",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4023160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4023160",
+        "Linux": "setsid steam steam://rungameid/4023160",
+        "macOS": "open steam://rungameid/4023160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "juicy-love",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389772"
+}
