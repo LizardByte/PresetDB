@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411288,
+  "name": "Moha",
+  "source_url": "https://www.igdb.com/games/moha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocko8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4864880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4864880",
+        "Linux": "setsid steam steam://rungameid/4864880",
+        "macOS": "open steam://rungameid/4864880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411288"
+}
