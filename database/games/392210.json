@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392210,
+  "name": "X Burger",
+  "source_url": "https://www.igdb.com/games/x-burger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm1q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "X Burger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2781580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2781580",
+        "Linux": "setsid steam steam://rungameid/2781580",
+        "macOS": "open steam://rungameid/2781580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "x-burger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392210"
+}
