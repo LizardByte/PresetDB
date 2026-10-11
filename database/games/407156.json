@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407156,
+  "name": "PlanetOrbit",
+  "source_url": "https://www.igdb.com/games/planetorbit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlanetOrbit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4739070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4739070",
+        "Linux": "setsid steam steam://rungameid/4739070",
+        "macOS": "open steam://rungameid/4739070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "planetorbit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407156"
+}
