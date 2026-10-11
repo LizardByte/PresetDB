@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408693,
+  "name": "Cubic",
+  "source_url": "https://www.igdb.com/games/cubic--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccby.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cubic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3037080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3037080",
+        "Linux": "setsid steam steam://rungameid/3037080",
+        "macOS": "open steam://rungameid/3037080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cubic--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408693"
+}
