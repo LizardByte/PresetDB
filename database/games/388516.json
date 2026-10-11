@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388516,
+  "name": "Death a Live",
+  "source_url": "https://www.igdb.com/games/death-a-live",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfyq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Death a Live",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4365180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4365180",
+        "Linux": "setsid steam steam://rungameid/4365180",
+        "macOS": "open steam://rungameid/4365180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "death-a-live",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388516"
+}
