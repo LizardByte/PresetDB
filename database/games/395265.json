@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395265,
+  "name": "It's Chopping Time!",
+  "source_url": "https://www.igdb.com/games/its-chopping-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsi4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "It's Chopping Time!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4272270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4272270",
+        "Linux": "setsid steam steam://rungameid/4272270",
+        "macOS": "open steam://rungameid/4272270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "its-chopping-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395265"
+}
