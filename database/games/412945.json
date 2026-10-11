@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412945,
+  "name": "Gummy Invaders",
+  "source_url": "https://www.igdb.com/games/gummy-invaders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnkt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gummy Invaders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4412710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4412710",
+        "Linux": "setsid steam steam://rungameid/4412710",
+        "macOS": "open steam://rungameid/4412710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gummy-invaders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412945"
+}
