@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387349,
+  "name": "Hovertron",
+  "source_url": "https://www.igdb.com/games/hovertron",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv0t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hovertron",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4355010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4355010",
+        "Linux": "setsid steam steam://rungameid/4355010",
+        "macOS": "open steam://rungameid/4355010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hovertron",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387349"
+}
