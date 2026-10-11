@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409739,
+  "name": "That’s Not My Mom",
+  "source_url": "https://www.igdb.com/games/thats-not-my-mom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocn77.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "That’s Not My Mom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5000020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5000020",
+        "Linux": "setsid steam steam://rungameid/5000020",
+        "macOS": "open steam://rungameid/5000020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "thats-not-my-mom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409739"
+}
