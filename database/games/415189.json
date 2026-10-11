@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415189,
+  "name": "Baitcore",
+  "source_url": "https://www.igdb.com/games/baitcore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrrt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Baitcore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5150980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5150980",
+        "Linux": "setsid steam steam://rungameid/5150980",
+        "macOS": "open steam://rungameid/5150980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "baitcore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415189"
+}
