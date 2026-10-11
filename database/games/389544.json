@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389544,
+  "name": "Desktop Nard",
+  "source_url": "https://www.igdb.com/games/desktop-nard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocluy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Nard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4330860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4330860",
+        "Linux": "setsid steam steam://rungameid/4330860",
+        "macOS": "open steam://rungameid/4330860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-nard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389544"
+}
