@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375049,
+  "name": "Nightholme",
+  "source_url": "https://www.igdb.com/games/nightholme",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyzp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nightholme",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4108680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4108680",
+        "Linux": "setsid steam steam://rungameid/4108680",
+        "macOS": "open steam://rungameid/4108680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nightholme",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375049"
+}
