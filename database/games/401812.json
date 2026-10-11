@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401812,
+  "name": "ParaDive++",
+  "source_url": "https://www.igdb.com/games/paradive-plus-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc2k4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ParaDive++",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4689980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4689980",
+        "Linux": "setsid steam steam://rungameid/4689980",
+        "macOS": "open steam://rungameid/4689980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paradive-plus-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401812"
+}
