@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411625,
+  "name": "Hacker’s Journey",
+  "source_url": "https://www.igdb.com/games/hackers-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocm82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hacker’s Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4730180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4730180",
+        "Linux": "setsid steam steam://rungameid/4730180",
+        "macOS": "open steam://rungameid/4730180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hackers-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411625"
+}
