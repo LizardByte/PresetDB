@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391457,
+  "name": "Have You Seen This Cat?",
+  "source_url": "https://www.igdb.com/games/have-you-seen-this-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblk5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Have You Seen This Cat?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3878840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3878840",
+        "Linux": "setsid steam steam://rungameid/3878840",
+        "macOS": "open steam://rungameid/3878840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "have-you-seen-this-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391457"
+}
