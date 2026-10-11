@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396617,
+  "name": "Spa World",
+  "source_url": "https://www.igdb.com/games/spa-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobuzg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spa World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4579900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4579900",
+        "Linux": "setsid steam steam://rungameid/4579900",
+        "macOS": "open steam://rungameid/4579900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spa-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396617"
+}
