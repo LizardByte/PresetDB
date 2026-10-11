@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381872,
+  "name": "Noelle",
+  "source_url": "https://www.igdb.com/games/noelle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob221.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Noelle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4143780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4143780",
+        "Linux": "setsid steam steam://rungameid/4143780",
+        "macOS": "open steam://rungameid/4143780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "noelle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381872"
+}
