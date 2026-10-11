@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389144,
+  "name": "Elixion",
+  "source_url": "https://www.igdb.com/games/elixion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhj8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Elixion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4330770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4330770",
+        "Linux": "setsid steam steam://rungameid/4330770",
+        "macOS": "open steam://rungameid/4330770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "elixion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389144"
+}
