@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391513,
+  "name": "Bubble Gun",
+  "source_url": "https://www.igdb.com/games/bubble-gun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobodf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bubble Gun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3859320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3859320",
+        "Linux": "setsid steam steam://rungameid/3859320",
+        "macOS": "open steam://rungameid/3859320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bubble-gun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391513"
+}
