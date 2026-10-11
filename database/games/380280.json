@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380280,
+  "name": "Don't Freeze",
+  "source_url": "https://www.igdb.com/games/dont-freeze--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxvo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Freeze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3690990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3690990",
+        "Linux": "setsid steam steam://rungameid/3690990",
+        "macOS": "open steam://rungameid/3690990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-freeze--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380280"
+}
