@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384587,
+  "name": "Santa Girl",
+  "source_url": "https://www.igdb.com/games/santa-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobani.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Santa Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4154540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4154540",
+        "Linux": "setsid steam steam://rungameid/4154540",
+        "macOS": "open steam://rungameid/4154540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "santa-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384587"
+}
