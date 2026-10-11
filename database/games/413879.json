@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413879,
+  "name": "Everhold",
+  "source_url": "https://www.igdb.com/games/everhold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpd1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Everhold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4528290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4528290",
+        "Linux": "setsid steam steam://rungameid/4528290",
+        "macOS": "open steam://rungameid/4528290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "everhold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413879"
+}
