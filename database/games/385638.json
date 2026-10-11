@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385638,
+  "name": "Neko Station",
+  "source_url": "https://www.igdb.com/games/neko-station",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc6s4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neko Station",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4141710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4141710",
+        "Linux": "setsid steam steam://rungameid/4141710",
+        "macOS": "open steam://rungameid/4141710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neko-station",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385638"
+}
