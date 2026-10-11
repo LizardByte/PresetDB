@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384762,
+  "name": "Fully Automated",
+  "source_url": "https://www.igdb.com/games/fully-automated",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmdi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fully Automated",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1370830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1370830",
+        "Linux": "setsid steam steam://rungameid/1370830",
+        "macOS": "open steam://rungameid/1370830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fully-automated",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384762"
+}
