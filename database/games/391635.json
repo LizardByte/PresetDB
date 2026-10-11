@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391635,
+  "name": "Magic Quiz",
+  "source_url": "https://www.igdb.com/games/magic-quiz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwcl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Magic Quiz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3738380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3738380",
+        "Linux": "setsid steam steam://rungameid/3738380",
+        "macOS": "open steam://rungameid/3738380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "magic-quiz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391635"
+}
