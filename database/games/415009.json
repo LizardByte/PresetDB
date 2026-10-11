@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415009,
+  "name": "Production City",
+  "source_url": "https://www.igdb.com/games/production-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrjk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Production City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1416510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1416510",
+        "Linux": "setsid steam steam://rungameid/1416510",
+        "macOS": "open steam://rungameid/1416510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "production-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415009"
+}
