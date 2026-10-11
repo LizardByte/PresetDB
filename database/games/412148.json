@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412148,
+  "name": "Nova Fighter",
+  "source_url": "https://www.igdb.com/games/nova-fighter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocm3e.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nova Fighter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4681400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4681400",
+        "Linux": "setsid steam steam://rungameid/4681400",
+        "macOS": "open steam://rungameid/4681400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nova-fighter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412148"
+}
