@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401077,
+  "name": "HerSalon",
+  "source_url": "https://www.igdb.com/games/hersalon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1lj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HerSalon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4482800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4482800",
+        "Linux": "setsid steam steam://rungameid/4482800",
+        "macOS": "open steam://rungameid/4482800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hersalon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401077"
+}
