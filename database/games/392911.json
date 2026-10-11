@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392911,
+  "name": "Dragon Arena",
+  "source_url": "https://www.igdb.com/games/dragon-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnt9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dragon Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4371940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4371940",
+        "Linux": "setsid steam steam://rungameid/4371940",
+        "macOS": "open steam://rungameid/4371940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dragon-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392911"
+}
