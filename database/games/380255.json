@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380255,
+  "name": "Defrag",
+  "source_url": "https://www.igdb.com/games/defrag--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coayqe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Defrag",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4028640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4028640",
+        "Linux": "setsid steam steam://rungameid/4028640",
+        "macOS": "open steam://rungameid/4028640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "defrag--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380255"
+}
