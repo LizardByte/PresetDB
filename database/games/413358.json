@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413358,
+  "name": "Moon Doom",
+  "source_url": "https://www.igdb.com/games/moon-doom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod0ej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon Doom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4861420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4861420",
+        "Linux": "setsid steam steam://rungameid/4861420",
+        "macOS": "open steam://rungameid/4861420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-doom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413358"
+}
