@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383553,
+  "name": "Waifu Beach Bar",
+  "source_url": "https://www.igdb.com/games/waifu-beach-bar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5sm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Waifu Beach Bar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3123880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3123880",
+        "Linux": "setsid steam steam://rungameid/3123880",
+        "macOS": "open steam://rungameid/3123880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "waifu-beach-bar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383553"
+}
