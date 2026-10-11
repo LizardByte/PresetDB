@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401313,
+  "name": "Sever",
+  "source_url": "https://www.igdb.com/games/sever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1xp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4547370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4547370",
+        "Linux": "setsid steam steam://rungameid/4547370",
+        "macOS": "open steam://rungameid/4547370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401313"
+}
