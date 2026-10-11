@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392550,
+  "name": "Hamster Talk",
+  "source_url": "https://www.igdb.com/games/hamster-talk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo36.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hamster Talk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3985130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3985130",
+        "Linux": "setsid steam steam://rungameid/3985130",
+        "macOS": "open steam://rungameid/3985130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hamster-talk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392550"
+}
