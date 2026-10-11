@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404399,
+  "name": "Ghostless",
+  "source_url": "https://www.igdb.com/games/ghostless",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc68x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghostless",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2506520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2506520",
+        "Linux": "setsid steam steam://rungameid/2506520",
+        "macOS": "open steam://rungameid/2506520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghostless",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404399"
+}
