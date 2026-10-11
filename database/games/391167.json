@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391167,
+  "name": "Flash and Die",
+  "source_url": "https://www.igdb.com/games/flash-and-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpxq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flash and Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3985060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3985060",
+        "Linux": "setsid steam steam://rungameid/3985060",
+        "macOS": "open steam://rungameid/3985060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flash-and-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391167"
+}
