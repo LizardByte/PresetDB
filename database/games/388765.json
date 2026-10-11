@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388765,
+  "name": "Snägäri Pinball",
+  "source_url": "https://www.igdb.com/games/snagari-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgu0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snägäri Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4138430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4138430",
+        "Linux": "setsid steam steam://rungameid/4138430",
+        "macOS": "open steam://rungameid/4138430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snagari-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388765"
+}
