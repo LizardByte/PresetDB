@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403809,
+  "name": "My Otter Friends",
+  "source_url": "https://www.igdb.com/games/my-otter-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5dx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Otter Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4126510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4126510",
+        "Linux": "setsid steam steam://rungameid/4126510",
+        "macOS": "open steam://rungameid/4126510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-otter-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403809"
+}
