@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405285,
+  "name": "Project Foxx",
+  "source_url": "https://www.igdb.com/games/project-foxx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7eq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Foxx",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4115320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4115320",
+        "Linux": "setsid steam steam://rungameid/4115320",
+        "macOS": "open steam://rungameid/4115320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-foxx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405285"
+}
