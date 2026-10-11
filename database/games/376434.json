@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376434,
+  "name": "Get In Get Out",
+  "source_url": "https://www.igdb.com/games/get-in-get-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coat1f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get In Get Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4133660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4133660",
+        "Linux": "setsid steam steam://rungameid/4133660",
+        "macOS": "open steam://rungameid/4133660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-in-get-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376434"
+}
