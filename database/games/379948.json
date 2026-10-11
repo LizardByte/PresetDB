@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379948,
+  "name": "Pizza Agent",
+  "source_url": "https://www.igdb.com/games/pizza-agent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxy7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pizza Agent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4158480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4158480",
+        "Linux": "setsid steam steam://rungameid/4158480",
+        "macOS": "open steam://rungameid/4158480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pizza-agent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379948"
+}
