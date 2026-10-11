@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408367,
+  "name": "ZeroEco",
+  "source_url": "https://www.igdb.com/games/zeroeco",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccnx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ZeroEco",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4724230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4724230",
+        "Linux": "setsid steam steam://rungameid/4724230",
+        "macOS": "open steam://rungameid/4724230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zeroeco",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408367"
+}
