@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413137,
+  "name": "Sin or Suffer",
+  "source_url": "https://www.igdb.com/games/sin-or-suffer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coco8i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sin or Suffer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4100080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4100080",
+        "Linux": "setsid steam steam://rungameid/4100080",
+        "macOS": "open steam://rungameid/4100080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sin-or-suffer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413137"
+}
