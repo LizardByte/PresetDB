@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392026,
+  "name": "Throw a Life!",
+  "source_url": "https://www.igdb.com/games/throw-a-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobopy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Throw a Life!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3443790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3443790",
+        "Linux": "setsid steam steam://rungameid/3443790",
+        "macOS": "open steam://rungameid/3443790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "throw-a-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392026"
+}
