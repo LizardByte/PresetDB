@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381197,
+  "name": "FamCram",
+  "source_url": "https://www.igdb.com/games/famcram",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0dm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FamCram",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4109040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4109040",
+        "Linux": "setsid steam steam://rungameid/4109040",
+        "macOS": "open steam://rungameid/4109040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "famcram",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381197"
+}
