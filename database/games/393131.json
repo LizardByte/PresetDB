@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393131,
+  "name": "Pac-Snec",
+  "source_url": "https://www.igdb.com/games/pac-snec",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo6z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pac-Snec",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4048060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4048060",
+        "Linux": "setsid steam steam://rungameid/4048060",
+        "macOS": "open steam://rungameid/4048060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pac-snec",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393131"
+}
