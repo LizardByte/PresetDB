@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384876,
+  "name": "Hotel VIP",
+  "source_url": "https://www.igdb.com/games/hotel-vip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob979.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hotel VIP",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2581450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2581450",
+        "Linux": "setsid steam steam://rungameid/2581450",
+        "macOS": "open steam://rungameid/2581450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hotel-vip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384876"
+}
