@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412036,
+  "name": "Aethercore",
+  "source_url": "https://www.igdb.com/games/aethercore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmek.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aethercore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3841070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3841070",
+        "Linux": "setsid steam steam://rungameid/3841070",
+        "macOS": "open steam://rungameid/3841070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aethercore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412036"
+}
