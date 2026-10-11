@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384799,
+  "name": "Drive Together",
+  "source_url": "https://www.igdb.com/games/drive-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocamd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drive Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4117320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4117320",
+        "Linux": "setsid steam steam://rungameid/4117320",
+        "macOS": "open steam://rungameid/4117320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drive-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384799"
+}
