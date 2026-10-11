@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410427,
+  "name": "Select Eleven",
+  "source_url": "https://www.igdb.com/games/select-eleven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cociz0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Select Eleven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4758090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4758090",
+        "Linux": "setsid steam steam://rungameid/4758090",
+        "macOS": "open steam://rungameid/4758090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "select-eleven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410427"
+}
