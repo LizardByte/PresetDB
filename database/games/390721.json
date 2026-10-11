@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390721,
+  "name": "Runren Simulator",
+  "source_url": "https://www.igdb.com/games/runren-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk5k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runren Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4099900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4099900",
+        "Linux": "setsid steam steam://rungameid/4099900",
+        "macOS": "open steam://rungameid/4099900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runren-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390721"
+}
