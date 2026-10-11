@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409090,
+  "name": "Smiling Mascots",
+  "source_url": "https://www.igdb.com/games/smiling-mascots",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdaz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smiling Mascots",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4883670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4883670",
+        "Linux": "setsid steam steam://rungameid/4883670",
+        "macOS": "open steam://rungameid/4883670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smiling-mascots",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409090"
+}
