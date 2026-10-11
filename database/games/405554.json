@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405554,
+  "name": "Hellsino",
+  "source_url": "https://www.igdb.com/games/hellsino",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclv5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hellsino",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4730280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4730280",
+        "Linux": "setsid steam steam://rungameid/4730280",
+        "macOS": "open steam://rungameid/4730280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hellsino",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405554"
+}
