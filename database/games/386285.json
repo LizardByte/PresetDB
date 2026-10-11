@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386285,
+  "name": "EmuDevz",
+  "source_url": "https://www.igdb.com/games/emudevz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbfi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "EmuDevz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4260720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4260720",
+        "Linux": "setsid steam steam://rungameid/4260720",
+        "macOS": "open steam://rungameid/4260720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emudevz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386285"
+}
