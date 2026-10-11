@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413044,
+  "name": "Overbooked",
+  "source_url": "https://www.igdb.com/games/overbooked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coco76.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Overbooked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4482970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4482970",
+        "Linux": "setsid steam steam://rungameid/4482970",
+        "macOS": "open steam://rungameid/4482970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "overbooked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413044"
+}
