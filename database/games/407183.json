@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407183,
+  "name": "Idle Knight",
+  "source_url": "https://www.igdb.com/games/idle-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9wv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4579750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4579750",
+        "Linux": "setsid steam steam://rungameid/4579750",
+        "macOS": "open steam://rungameid/4579750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407183"
+}
