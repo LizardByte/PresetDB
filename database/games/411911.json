@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411911,
+  "name": "Run from the Cops!",
+  "source_url": "https://www.igdb.com/games/run-from-the-cops",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclkt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Run from the Cops!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4162960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4162960",
+        "Linux": "setsid steam steam://rungameid/4162960",
+        "macOS": "open steam://rungameid/4162960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "run-from-the-cops",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411911"
+}
