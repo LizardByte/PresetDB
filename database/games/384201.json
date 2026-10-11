@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384201,
+  "name": "Marble's Marbles",
+  "source_url": "https://www.igdb.com/games/marbles-marbles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7s6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marble's Marbles",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4137920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4137920",
+        "Linux": "setsid steam steam://rungameid/4137920",
+        "macOS": "open steam://rungameid/4137920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marbles-marbles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384201"
+}
