@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387007,
+  "name": "The Game Has Started",
+  "source_url": "https://www.igdb.com/games/the-game-has-started",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcpo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Game Has Started",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4069350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4069350",
+        "Linux": "setsid steam steam://rungameid/4069350",
+        "macOS": "open steam://rungameid/4069350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-game-has-started",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387007"
+}
