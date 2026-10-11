@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402385,
+  "name": "Billion",
+  "source_url": "https://www.igdb.com/games/billion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3bt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Billion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4589500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4589500",
+        "Linux": "setsid steam steam://rungameid/4589500",
+        "macOS": "open steam://rungameid/4589500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "billion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402385"
+}
