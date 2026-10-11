@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400533,
+  "name": "Mermaid Life",
+  "source_url": "https://www.igdb.com/games/mermaid-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0rd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mermaid Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3542700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3542700",
+        "Linux": "setsid steam steam://rungameid/3542700",
+        "macOS": "open steam://rungameid/3542700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mermaid-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400533"
+}
