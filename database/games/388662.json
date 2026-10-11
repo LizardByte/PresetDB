@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388662,
+  "name": "RatSpiderFrog",
+  "source_url": "https://www.igdb.com/games/ratspiderfrog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobg9p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RatSpiderFrog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4201720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4201720",
+        "Linux": "setsid steam steam://rungameid/4201720",
+        "macOS": "open steam://rungameid/4201720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ratspiderfrog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388662"
+}
