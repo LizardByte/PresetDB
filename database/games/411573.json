@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411573,
+  "name": "Paddle Cats",
+  "source_url": "https://www.igdb.com/games/paddle-cats--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclrt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paddle Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3289160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3289160",
+        "Linux": "setsid steam steam://rungameid/3289160",
+        "macOS": "open steam://rungameid/3289160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paddle-cats--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411573"
+}
