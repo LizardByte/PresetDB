@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 378887,
+  "name": "The Most Annoying Game Ever",
+  "source_url": "https://www.igdb.com/games/the-most-annoying-game-ever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw81.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Most Annoying Game Ever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3851490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3851490",
+        "Linux": "setsid steam steam://rungameid/3851490",
+        "macOS": "open steam://rungameid/3851490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-most-annoying-game-ever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=378887"
+}
