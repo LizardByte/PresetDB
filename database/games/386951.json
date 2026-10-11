@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386951,
+  "name": "MusicHell",
+  "source_url": "https://www.igdb.com/games/musichell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjfc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MusicHell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4249380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4249380",
+        "Linux": "setsid steam steam://rungameid/4249380",
+        "macOS": "open steam://rungameid/4249380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "musichell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386951"
+}
