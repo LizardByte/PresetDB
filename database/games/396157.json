@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396157,
+  "name": "Snotrocket",
+  "source_url": "https://www.igdb.com/games/snotrocket",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobu06.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snotrocket",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4333440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4333440",
+        "Linux": "setsid steam steam://rungameid/4333440",
+        "macOS": "open steam://rungameid/4333440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snotrocket",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396157"
+}
