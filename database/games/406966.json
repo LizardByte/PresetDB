@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406966,
+  "name": "OrbitFix",
+  "source_url": "https://www.igdb.com/games/orbitfix",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocaem.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OrbitFix",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3075420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3075420",
+        "Linux": "setsid steam steam://rungameid/3075420",
+        "macOS": "open steam://rungameid/3075420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "orbitfix",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406966"
+}
