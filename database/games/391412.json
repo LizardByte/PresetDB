@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391412,
+  "name": "Sonya",
+  "source_url": "https://www.igdb.com/games/sonya",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl1u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sonya",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3912080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3912080",
+        "Linux": "setsid steam steam://rungameid/3912080",
+        "macOS": "open steam://rungameid/3912080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sonya",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391412"
+}
