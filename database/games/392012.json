@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392012,
+  "name": "Dark in Light",
+  "source_url": "https://www.igdb.com/games/dark-in-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblth.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark in Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3473710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3473710",
+        "Linux": "setsid steam steam://rungameid/3473710",
+        "macOS": "open steam://rungameid/3473710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-in-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392012"
+}
