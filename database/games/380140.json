@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380140,
+  "name": "Marrowbound",
+  "source_url": "https://www.igdb.com/games/marrowbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxp3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marrowbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4219650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4219650",
+        "Linux": "setsid steam steam://rungameid/4219650",
+        "macOS": "open steam://rungameid/4219650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marrowbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380140"
+}
