@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410121,
+  "name": "Dear Passengers",
+  "source_url": "https://www.igdb.com/games/dear-passengers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cociej.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dear Passengers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4534960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4534960",
+        "Linux": "setsid steam steam://rungameid/4534960",
+        "macOS": "open steam://rungameid/4534960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dear-passengers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410121"
+}
