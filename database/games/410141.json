@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410141,
+  "name": "Mine the Deep",
+  "source_url": "https://www.igdb.com/games/mine-the-deep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cock5m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mine the Deep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4941600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4941600",
+        "Linux": "setsid steam steam://rungameid/4941600",
+        "macOS": "open steam://rungameid/4941600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mine-the-deep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410141"
+}
