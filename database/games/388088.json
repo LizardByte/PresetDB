@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388088,
+  "name": "Machinefall",
+  "source_url": "https://www.igdb.com/games/machinefall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdof.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Machinefall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3213120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3213120",
+        "Linux": "setsid steam steam://rungameid/3213120",
+        "macOS": "open steam://rungameid/3213120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "machinefall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388088"
+}
