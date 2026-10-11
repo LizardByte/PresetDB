@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388404,
+  "name": "Rainbow Gate",
+  "source_url": "https://www.igdb.com/games/rainbow-gate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfx2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rainbow Gate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2450780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2450780",
+        "Linux": "setsid steam steam://rungameid/2450780",
+        "macOS": "open steam://rungameid/2450780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rainbow-gate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388404"
+}
