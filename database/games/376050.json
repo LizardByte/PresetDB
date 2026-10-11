@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376050,
+  "name": "Clankers!",
+  "source_url": "https://www.igdb.com/games/clankers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasfj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clankers!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4111310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4111310",
+        "Linux": "setsid steam steam://rungameid/4111310",
+        "macOS": "open steam://rungameid/4111310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clankers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376050"
+}
