@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376624,
+  "name": "Open or Die",
+  "source_url": "https://www.igdb.com/games/open-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatc8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Open or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4106180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4106180",
+        "Linux": "setsid steam steam://rungameid/4106180",
+        "macOS": "open steam://rungameid/4106180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "open-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376624"
+}
