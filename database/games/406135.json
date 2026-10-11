@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406135,
+  "name": "Shatterhold",
+  "source_url": "https://www.igdb.com/games/shatterhold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc98q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shatterhold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4619000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4619000",
+        "Linux": "setsid steam steam://rungameid/4619000",
+        "macOS": "open steam://rungameid/4619000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shatterhold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406135"
+}
