@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387883,
+  "name": "Webscape",
+  "source_url": "https://www.igdb.com/games/webscape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobef7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Webscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4256160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4256160",
+        "Linux": "setsid steam steam://rungameid/4256160",
+        "macOS": "open steam://rungameid/4256160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "webscape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387883"
+}
