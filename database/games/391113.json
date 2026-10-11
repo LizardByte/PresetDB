@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391113,
+  "name": "Legends of Wasteland",
+  "source_url": "https://www.igdb.com/games/legends-of-wasteland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkti.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legends of Wasteland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4007300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4007300",
+        "Linux": "setsid steam steam://rungameid/4007300",
+        "macOS": "open steam://rungameid/4007300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legends-of-wasteland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391113"
+}
