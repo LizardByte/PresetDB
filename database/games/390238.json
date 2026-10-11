@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390238,
+  "name": "Beam It Up!",
+  "source_url": "https://www.igdb.com/games/beam-it-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beam It Up!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4213240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4213240",
+        "Linux": "setsid steam steam://rungameid/4213240",
+        "macOS": "open steam://rungameid/4213240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beam-it-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390238"
+}
