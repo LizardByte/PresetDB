@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407203,
+  "name": "Cozy Cleanup",
+  "source_url": "https://www.igdb.com/games/cozy-cleanup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9zp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Cleanup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4851420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4851420",
+        "Linux": "setsid steam steam://rungameid/4851420",
+        "macOS": "open steam://rungameid/4851420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-cleanup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407203"
+}
