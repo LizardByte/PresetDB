@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405086,
+  "name": "Pinfinity: Incremental Pinball",
+  "source_url": "https://www.igdb.com/games/pinfinity-incremental-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc73r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pinfinity: Incremental Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4627900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4627900",
+        "Linux": "setsid steam steam://rungameid/4627900",
+        "macOS": "open steam://rungameid/4627900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pinfinity-incremental-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405086"
+}
