@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412980,
+  "name": "My Own Hero Party",
+  "source_url": "https://www.igdb.com/games/my-own-hero-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Own Hero Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4833220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4833220",
+        "Linux": "setsid steam steam://rungameid/4833220",
+        "macOS": "open steam://rungameid/4833220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-own-hero-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412980"
+}
