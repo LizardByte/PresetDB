@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405527,
+  "name": "The Server",
+  "source_url": "https://www.igdb.com/games/the-server",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7rc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Server",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4674920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4674920",
+        "Linux": "setsid steam steam://rungameid/4674920",
+        "macOS": "open steam://rungameid/4674920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-server",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405527"
+}
