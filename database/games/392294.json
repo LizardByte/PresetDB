@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392294,
+  "name": "Serenity",
+  "source_url": "https://www.igdb.com/games/serenity--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocy1h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Serenity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4305900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4305900",
+        "Linux": "setsid steam steam://rungameid/4305900",
+        "macOS": "open steam://rungameid/4305900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "serenity--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392294"
+}
