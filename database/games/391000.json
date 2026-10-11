@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391000,
+  "name": "SkyInFlames",
+  "source_url": "https://www.igdb.com/games/skyinflames",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod369.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkyInFlames",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4031360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4031360",
+        "Linux": "setsid steam steam://rungameid/4031360",
+        "macOS": "open steam://rungameid/4031360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skyinflames",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391000"
+}
