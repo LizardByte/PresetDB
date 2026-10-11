@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388273,
+  "name": "Bouncy Brain",
+  "source_url": "https://www.igdb.com/games/bouncy-brain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfmm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bouncy Brain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4248660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4248660",
+        "Linux": "setsid steam steam://rungameid/4248660",
+        "macOS": "open steam://rungameid/4248660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bouncy-brain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388273"
+}
