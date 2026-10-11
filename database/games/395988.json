@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395988,
+  "name": "Megaris",
+  "source_url": "https://www.igdb.com/games/megaris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtux.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Megaris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4483990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4483990",
+        "Linux": "setsid steam steam://rungameid/4483990",
+        "macOS": "open steam://rungameid/4483990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "megaris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395988"
+}
