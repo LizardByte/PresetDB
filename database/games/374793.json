@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374793,
+  "name": "Teddy Knight",
+  "source_url": "https://www.igdb.com/games/teddy-knight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo7l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Teddy Knight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3325200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3325200",
+        "Linux": "setsid steam steam://rungameid/3325200",
+        "macOS": "open steam://rungameid/3325200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teddy-knight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374793"
+}
