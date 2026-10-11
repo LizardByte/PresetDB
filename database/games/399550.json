@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399550,
+  "name": "Red Door Yellow Door",
+  "source_url": "https://www.igdb.com/games/red-door-yellow-door",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzdu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Door Yellow Door",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2434660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2434660",
+        "Linux": "setsid steam steam://rungameid/2434660",
+        "macOS": "open steam://rungameid/2434660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-door-yellow-door",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399550"
+}
