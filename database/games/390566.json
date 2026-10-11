@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390566,
+  "name": "PawlleyBall",
+  "source_url": "https://www.igdb.com/games/pawlleyball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk0x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PawlleyBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4135860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4135860",
+        "Linux": "setsid steam steam://rungameid/4135860",
+        "macOS": "open steam://rungameid/4135860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pawlleyball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390566"
+}
