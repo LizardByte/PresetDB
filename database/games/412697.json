@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412697,
+  "name": "Rosebound",
+  "source_url": "https://www.igdb.com/games/rosebound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocn7f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rosebound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4712960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4712960",
+        "Linux": "setsid steam steam://rungameid/4712960",
+        "macOS": "open steam://rungameid/4712960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rosebound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412697"
+}
