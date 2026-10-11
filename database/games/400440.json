@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400440,
+  "name": "President Simulator",
+  "source_url": "https://www.igdb.com/games/president-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod0vj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "President Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3705900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3705900",
+        "Linux": "setsid steam steam://rungameid/3705900",
+        "macOS": "open steam://rungameid/3705900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "president-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400440"
+}
