@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377497,
+  "name": "Adventure Time",
+  "source_url": "https://www.igdb.com/games/adventure-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn9q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Adventure Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3245350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3245350",
+        "Linux": "setsid steam steam://rungameid/3245350",
+        "macOS": "open steam://rungameid/3245350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "adventure-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377497"
+}
