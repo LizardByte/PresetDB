@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374505,
+  "name": "Hotdog: The Videogame",
+  "source_url": "https://www.igdb.com/games/hotdog-the-videogame",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapsx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hotdog: The Videogame",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3872110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3872110",
+        "Linux": "setsid steam steam://rungameid/3872110",
+        "macOS": "open steam://rungameid/3872110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hotdog-the-videogame",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374505"
+}
