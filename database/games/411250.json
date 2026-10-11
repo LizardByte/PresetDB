@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411250,
+  "name": "Clicky Bunny",
+  "source_url": "https://www.igdb.com/games/clicky-bunny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockc8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clicky Bunny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4337900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4337900",
+        "Linux": "setsid steam steam://rungameid/4337900",
+        "macOS": "open steam://rungameid/4337900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clicky-bunny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411250"
+}
