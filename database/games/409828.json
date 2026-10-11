@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409828,
+  "name": "TurboJoy",
+  "source_url": "https://www.igdb.com/games/turbojoy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdsr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TurboJoy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4162770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4162770",
+        "Linux": "setsid steam steam://rungameid/4162770",
+        "macOS": "open steam://rungameid/4162770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turbojoy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409828"
+}
