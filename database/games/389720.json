@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389720,
+  "name": "I am Slime",
+  "source_url": "https://www.igdb.com/games/i-am-slime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobizi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I am Slime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4295910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4295910",
+        "Linux": "setsid steam steam://rungameid/4295910",
+        "macOS": "open steam://rungameid/4295910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-slime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389720"
+}
