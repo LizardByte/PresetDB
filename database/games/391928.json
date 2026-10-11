@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391928,
+  "name": "SynthEscape",
+  "source_url": "https://www.igdb.com/games/synthescape",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm4n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SynthEscape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4272330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4272330",
+        "Linux": "setsid steam steam://rungameid/4272330",
+        "macOS": "open steam://rungameid/4272330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "synthescape",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391928"
+}
