@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413646,
+  "name": "Mimic Party",
+  "source_url": "https://www.igdb.com/games/mimic-party",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp1r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mimic Party",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5053820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5053820",
+        "Linux": "setsid steam steam://rungameid/5053820",
+        "macOS": "open steam://rungameid/5053820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mimic-party",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413646"
+}
