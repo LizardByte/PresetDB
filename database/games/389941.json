@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389941,
+  "name": "What'Sub",
+  "source_url": "https://www.igdb.com/games/whatsub",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvjt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What'Sub",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4269100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4269100",
+        "Linux": "setsid steam steam://rungameid/4269100",
+        "macOS": "open steam://rungameid/4269100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whatsub",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389941"
+}
