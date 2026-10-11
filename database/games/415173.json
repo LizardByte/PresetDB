@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415173,
+  "name": "Machina Blue",
+  "source_url": "https://www.igdb.com/games/machina-blue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrr5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Machina Blue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5006870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5006870",
+        "Linux": "setsid steam steam://rungameid/5006870",
+        "macOS": "open steam://rungameid/5006870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "machina-blue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415173"
+}
