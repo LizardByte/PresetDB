@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388060,
+  "name": "Spellsy",
+  "source_url": "https://www.igdb.com/games/spellsy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobepx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spellsy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4171910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4171910",
+        "Linux": "setsid steam steam://rungameid/4171910",
+        "macOS": "open steam://rungameid/4171910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spellsy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388060"
+}
