@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 394830,
+  "name": "Slayblade",
+  "source_url": "https://www.igdb.com/games/slayblade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpis.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slayblade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4117730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4117730",
+        "Linux": "setsid steam steam://rungameid/4117730",
+        "macOS": "open steam://rungameid/4117730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slayblade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=394830"
+}
