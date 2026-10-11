@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389267,
+  "name": "Press A",
+  "source_url": "https://www.igdb.com/games/press-a",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhtu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Press A",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3744710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3744710",
+        "Linux": "setsid steam steam://rungameid/3744710",
+        "macOS": "open steam://rungameid/3744710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "press-a",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389267"
+}
