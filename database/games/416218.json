@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416218,
+  "name": "Slum Z",
+  "source_url": "https://www.igdb.com/games/slum-z",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctw5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slum Z",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5022810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5022810",
+        "Linux": "setsid steam steam://rungameid/5022810",
+        "macOS": "open steam://rungameid/5022810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slum-z",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416218"
+}
