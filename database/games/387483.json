@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387483,
+  "name": "LittleRunner",
+  "source_url": "https://www.igdb.com/games/littlerunner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdjz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LittleRunner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4145360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4145360",
+        "Linux": "setsid steam steam://rungameid/4145360",
+        "macOS": "open steam://rungameid/4145360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "littlerunner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387483"
+}
