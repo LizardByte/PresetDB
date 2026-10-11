@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399033,
+  "name": "Diablo: The Abyss",
+  "source_url": "https://www.igdb.com/games/diablo-the-abyss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc000.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Diablo: The Abyss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1945230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1945230",
+        "Linux": "setsid steam steam://rungameid/1945230",
+        "macOS": "open steam://rungameid/1945230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "diablo-the-abyss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399033"
+}
