@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415756,
+  "name": "Gamble Your Breath",
+  "source_url": "https://www.igdb.com/games/gamble-your-breath",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsta.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gamble Your Breath",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4124170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4124170",
+        "Linux": "setsid steam steam://rungameid/4124170",
+        "macOS": "open steam://rungameid/4124170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gamble-your-breath",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415756"
+}
