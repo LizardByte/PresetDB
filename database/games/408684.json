@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408684,
+  "name": "House of Tides",
+  "source_url": "https://www.igdb.com/games/house-of-tides",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccch.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "House of Tides",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4865600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4865600",
+        "Linux": "setsid steam steam://rungameid/4865600",
+        "macOS": "open steam://rungameid/4865600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "house-of-tides",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408684"
+}
