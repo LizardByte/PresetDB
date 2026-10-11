@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386726,
+  "name": "Léo",
+  "source_url": "https://www.igdb.com/games/leo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc6y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Léo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3712040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3712040",
+        "Linux": "setsid steam steam://rungameid/3712040",
+        "macOS": "open steam://rungameid/3712040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386726"
+}
