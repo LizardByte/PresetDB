@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389277,
+  "name": "Minigames Master",
+  "source_url": "https://www.igdb.com/games/minigames-master",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minigames Master",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2314470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2314470",
+        "Linux": "setsid steam steam://rungameid/2314470",
+        "macOS": "open steam://rungameid/2314470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minigames-master",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389277"
+}
