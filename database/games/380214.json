@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380214,
+  "name": "Flower Dungeon",
+  "source_url": "https://www.igdb.com/games/flower-dungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobahi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flower Dungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3770000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3770000",
+        "Linux": "setsid steam steam://rungameid/3770000",
+        "macOS": "open steam://rungameid/3770000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flower-dungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380214"
+}
