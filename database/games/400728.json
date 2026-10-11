@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400728,
+  "name": "System Says Normal",
+  "source_url": "https://www.igdb.com/games/system-says-normal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc14j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "System Says Normal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4529110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4529110",
+        "Linux": "setsid steam steam://rungameid/4529110",
+        "macOS": "open steam://rungameid/4529110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "system-says-normal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400728"
+}
