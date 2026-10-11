@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402820,
+  "name": "Under the Eye",
+  "source_url": "https://www.igdb.com/games/under-the-eye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3xl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Under the Eye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4339260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4339260",
+        "Linux": "setsid steam steam://rungameid/4339260",
+        "macOS": "open steam://rungameid/4339260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "under-the-eye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402820"
+}
