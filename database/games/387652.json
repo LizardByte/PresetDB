@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387652,
+  "name": "Echowood",
+  "source_url": "https://www.igdb.com/games/echowood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobuyv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echowood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4314780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4314780",
+        "Linux": "setsid steam steam://rungameid/4314780",
+        "macOS": "open steam://rungameid/4314780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echowood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387652"
+}
