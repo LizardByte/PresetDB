@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391444,
+  "name": "Playover",
+  "source_url": "https://www.igdb.com/games/playover",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl2y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Playover",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3893340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3893340",
+        "Linux": "setsid steam steam://rungameid/3893340",
+        "macOS": "open steam://rungameid/3893340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "playover",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391444"
+}
