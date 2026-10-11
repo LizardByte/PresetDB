@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392904,
+  "name": "Slimepatch",
+  "source_url": "https://www.igdb.com/games/slimepatch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnt0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slimepatch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4376760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4376760",
+        "Linux": "setsid steam steam://rungameid/4376760",
+        "macOS": "open steam://rungameid/4376760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slimepatch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392904"
+}
