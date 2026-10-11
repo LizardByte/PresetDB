@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392467,
+  "name": "Horsey Game",
+  "source_url": "https://www.igdb.com/games/horsey-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobn9m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horsey Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3602570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3602570",
+        "Linux": "setsid steam steam://rungameid/3602570",
+        "macOS": "open steam://rungameid/3602570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horsey-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392467"
+}
