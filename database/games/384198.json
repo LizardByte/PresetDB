@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384198,
+  "name": "Last State",
+  "source_url": "https://www.igdb.com/games/last-state",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob7xs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last State",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4275900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4275900",
+        "Linux": "setsid steam steam://rungameid/4275900",
+        "macOS": "open steam://rungameid/4275900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-state",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384198"
+}
