@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381009,
+  "name": "Don't wake up",
+  "source_url": "https://www.igdb.com/games/dont-wake-up--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2nc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't wake up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4149270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4149270",
+        "Linux": "setsid steam steam://rungameid/4149270",
+        "macOS": "open steam://rungameid/4149270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-wake-up--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381009"
+}
