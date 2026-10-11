@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397261,
+  "name": "Epicurean",
+  "source_url": "https://www.igdb.com/games/epicurean",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobvoy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epicurean",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4523960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4523960",
+        "Linux": "setsid steam steam://rungameid/4523960",
+        "macOS": "open steam://rungameid/4523960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epicurean",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397261"
+}
