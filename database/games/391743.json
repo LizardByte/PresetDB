@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391743,
+  "name": "Aghaz",
+  "source_url": "https://www.igdb.com/games/aghaz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblg7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aghaz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3673000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3673000",
+        "Linux": "setsid steam steam://rungameid/3673000",
+        "macOS": "open steam://rungameid/3673000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aghaz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391743"
+}
