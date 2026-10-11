@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408244,
+  "name": "Quixotic",
+  "source_url": "https://www.igdb.com/games/quixotic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbkk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quixotic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4268320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4268320",
+        "Linux": "setsid steam steam://rungameid/4268320",
+        "macOS": "open steam://rungameid/4268320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quixotic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408244"
+}
