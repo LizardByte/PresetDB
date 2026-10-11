@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408641,
+  "name": "Infinite Empire",
+  "source_url": "https://www.igdb.com/games/infinite-empire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Infinite Empire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4513600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4513600",
+        "Linux": "setsid steam steam://rungameid/4513600",
+        "macOS": "open steam://rungameid/4513600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "infinite-empire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408641"
+}
