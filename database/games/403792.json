@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403792,
+  "name": "Dark Leaches",
+  "source_url": "https://www.igdb.com/games/dark-leaches",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5d5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Leaches",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4314000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4314000",
+        "Linux": "setsid steam steam://rungameid/4314000",
+        "macOS": "open steam://rungameid/4314000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-leaches",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403792"
+}
