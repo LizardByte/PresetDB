@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374869,
+  "name": "XenoHaven",
+  "source_url": "https://www.igdb.com/games/xenohaven",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqb3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "XenoHaven",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3461270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3461270",
+        "Linux": "setsid steam steam://rungameid/3461270",
+        "macOS": "open steam://rungameid/3461270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xenohaven",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374869"
+}
