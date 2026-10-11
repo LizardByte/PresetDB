@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388057,
+  "name": "XeGrader Plus",
+  "source_url": "https://www.igdb.com/games/xegrader-plus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqp1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "XeGrader Plus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4323520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4323520",
+        "Linux": "setsid steam steam://rungameid/4323520",
+        "macOS": "open steam://rungameid/4323520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xegrader-plus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388057"
+}
