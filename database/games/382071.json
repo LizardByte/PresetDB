@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382071,
+  "name": "Atom Assault",
+  "source_url": "https://www.igdb.com/games/atom-assault",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2nb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atom Assault",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2811440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2811440",
+        "Linux": "setsid steam steam://rungameid/2811440",
+        "macOS": "open steam://rungameid/2811440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atom-assault",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382071"
+}
