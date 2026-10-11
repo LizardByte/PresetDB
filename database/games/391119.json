@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391119,
+  "name": "The Wanderer's Rest",
+  "source_url": "https://www.igdb.com/games/the-wanderers-rest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coborl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wanderer's Rest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4004150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4004150",
+        "Linux": "setsid steam steam://rungameid/4004150",
+        "macOS": "open steam://rungameid/4004150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-wanderers-rest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391119"
+}
