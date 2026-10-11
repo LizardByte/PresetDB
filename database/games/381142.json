@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381142,
+  "name": "Suncraft",
+  "source_url": "https://www.igdb.com/games/suncraft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob096.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Suncraft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4078110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4078110",
+        "Linux": "setsid steam steam://rungameid/4078110",
+        "macOS": "open steam://rungameid/4078110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "suncraft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381142"
+}
