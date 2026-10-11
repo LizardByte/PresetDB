@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401611,
+  "name": "Gimme Space Battle",
+  "source_url": "https://www.igdb.com/games/gimme-space-battle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc2ar.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gimme Space Battle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3447820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3447820",
+        "Linux": "setsid steam steam://rungameid/3447820",
+        "macOS": "open steam://rungameid/3447820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gimme-space-battle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401611"
+}
