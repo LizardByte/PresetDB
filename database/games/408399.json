@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408399,
+  "name": "Lord of the Trough",
+  "source_url": "https://www.igdb.com/games/lord-of-the-trough",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocce1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lord of the Trough",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4698860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4698860",
+        "Linux": "setsid steam steam://rungameid/4698860",
+        "macOS": "open steam://rungameid/4698860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lord-of-the-trough",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408399"
+}
