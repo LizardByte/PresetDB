@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392208,
+  "name": "Puppy Park",
+  "source_url": "https://www.igdb.com/games/puppy-park",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm1o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puppy Park",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2819600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2819600",
+        "Linux": "setsid steam steam://rungameid/2819600",
+        "macOS": "open steam://rungameid/2819600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "puppy-park",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392208"
+}
