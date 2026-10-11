@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413130,
+  "name": "Nori Game",
+  "source_url": "https://www.igdb.com/games/nori-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coco30.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nori Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4443470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4443470",
+        "Linux": "setsid steam steam://rungameid/4443470",
+        "macOS": "open steam://rungameid/4443470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nori-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413130"
+}
