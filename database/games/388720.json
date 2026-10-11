@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388720,
+  "name": "White Silence",
+  "source_url": "https://www.igdb.com/games/white-silence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgns.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "White Silence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4306210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4306210",
+        "Linux": "setsid steam steam://rungameid/4306210",
+        "macOS": "open steam://rungameid/4306210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "white-silence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388720"
+}
