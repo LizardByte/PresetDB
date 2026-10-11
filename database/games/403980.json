@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403980,
+  "name": "Floating Life",
+  "source_url": "https://www.igdb.com/games/floating-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5nb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Floating Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3542000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3542000",
+        "Linux": "setsid steam steam://rungameid/3542000",
+        "macOS": "open steam://rungameid/3542000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "floating-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403980"
+}
