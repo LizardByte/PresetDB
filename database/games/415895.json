@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415895,
+  "name": "Emberglade",
+  "source_url": "https://www.igdb.com/games/emberglade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct1t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emberglade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5155480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5155480",
+        "Linux": "setsid steam steam://rungameid/5155480",
+        "macOS": "open steam://rungameid/5155480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emberglade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415895"
+}
