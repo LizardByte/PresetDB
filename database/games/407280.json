@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407280,
+  "name": "Virtual Aquarium",
+  "source_url": "https://www.igdb.com/games/virtual-aquarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coca32.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Aquarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1791120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1791120",
+        "Linux": "setsid steam steam://rungameid/1791120",
+        "macOS": "open steam://rungameid/1791120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-aquarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407280"
+}
