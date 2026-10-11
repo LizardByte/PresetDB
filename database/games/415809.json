@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415809,
+  "name": "Silent Mainland",
+  "source_url": "https://www.igdb.com/games/silent-mainland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv8t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silent Mainland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4276900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4276900",
+        "Linux": "setsid steam steam://rungameid/4276900",
+        "macOS": "open steam://rungameid/4276900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silent-mainland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415809"
+}
