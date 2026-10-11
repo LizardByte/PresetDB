@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409440,
+  "name": "Kill The Sea",
+  "source_url": "https://www.igdb.com/games/kill-the-sea",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocifp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill The Sea",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4421870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4421870",
+        "Linux": "setsid steam steam://rungameid/4421870",
+        "macOS": "open steam://rungameid/4421870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-the-sea",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409440"
+}
