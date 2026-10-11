@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390223,
+  "name": "Santa's Burnout",
+  "source_url": "https://www.igdb.com/games/santas-burnout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjli.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Santa's Burnout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4216820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4216820",
+        "Linux": "setsid steam steam://rungameid/4216820",
+        "macOS": "open steam://rungameid/4216820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "santas-burnout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390223"
+}
