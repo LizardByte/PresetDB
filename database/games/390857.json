@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390857,
+  "name": "Sokogram",
+  "source_url": "https://www.igdb.com/games/sokogram",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sokogram",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4054100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4054100",
+        "Linux": "setsid steam steam://rungameid/4054100",
+        "macOS": "open steam://rungameid/4054100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sokogram",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390857"
+}
