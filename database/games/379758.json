@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379758,
+  "name": "Edge of Evil",
+  "source_url": "https://www.igdb.com/games/edge-of-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctc3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Edge of Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3928510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3928510",
+        "Linux": "setsid steam steam://rungameid/3928510",
+        "macOS": "open steam://rungameid/3928510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "edge-of-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379758"
+}
