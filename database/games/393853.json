@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393853,
+  "name": "Soulcoom",
+  "source_url": "https://www.igdb.com/games/soulcoom--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Soulcoom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2464900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2464900",
+        "Linux": "setsid steam steam://rungameid/2464900",
+        "macOS": "open steam://rungameid/2464900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulcoom--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393853"
+}
