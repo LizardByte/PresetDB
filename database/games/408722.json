@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408722,
+  "name": "Ghostflippers",
+  "source_url": "https://www.igdb.com/games/ghostflippers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrpa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghostflippers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4631500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4631500",
+        "Linux": "setsid steam steam://rungameid/4631500",
+        "macOS": "open steam://rungameid/4631500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghostflippers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408722"
+}
