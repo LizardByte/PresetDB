@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407409,
+  "name": "Back to 21",
+  "source_url": "https://www.igdb.com/games/back-to-21",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coca9h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Back to 21",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3891030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3891030",
+        "Linux": "setsid steam steam://rungameid/3891030",
+        "macOS": "open steam://rungameid/3891030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "back-to-21",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407409"
+}
