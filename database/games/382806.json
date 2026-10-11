@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382806,
+  "name": "Creaworm",
+  "source_url": "https://www.igdb.com/games/creaworm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob440.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creaworm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4260410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4260410",
+        "Linux": "setsid steam steam://rungameid/4260410",
+        "macOS": "open steam://rungameid/4260410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "creaworm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382806"
+}
