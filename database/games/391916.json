@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391916,
+  "name": "Dread Eagle",
+  "source_url": "https://www.igdb.com/games/dread-eagle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblp8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dread Eagle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4215820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4215820",
+        "Linux": "setsid steam steam://rungameid/4215820",
+        "macOS": "open steam://rungameid/4215820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dread-eagle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391916"
+}
