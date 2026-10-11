@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379512,
+  "name": "Age After Age",
+  "source_url": "https://www.igdb.com/games/age-after-age",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj3y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age After Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "432120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/432120",
+        "Linux": "setsid steam steam://rungameid/432120",
+        "macOS": "open steam://rungameid/432120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "age-after-age",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379512"
+}
