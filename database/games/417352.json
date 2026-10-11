@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417352,
+  "name": "The King of Go",
+  "source_url": "https://www.igdb.com/games/the-king-of-go",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvkn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The King of Go",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4048820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4048820",
+        "Linux": "setsid steam steam://rungameid/4048820",
+        "macOS": "open steam://rungameid/4048820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-king-of-go",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417352"
+}
