@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404692,
+  "name": "Crossfire",
+  "source_url": "https://www.igdb.com/games/crossfire--8",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc6lu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crossfire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4687500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4687500",
+        "Linux": "setsid steam steam://rungameid/4687500",
+        "macOS": "open steam://rungameid/4687500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crossfire--8",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404692"
+}
