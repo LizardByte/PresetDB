@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380154,
+  "name": "Extract Game",
+  "source_url": "https://www.igdb.com/games/extract-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgy7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Extract Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4304650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4304650",
+        "Linux": "setsid steam steam://rungameid/4304650",
+        "macOS": "open steam://rungameid/4304650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "extract-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380154"
+}
