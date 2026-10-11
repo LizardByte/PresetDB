@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393363,
+  "name": "Sweet Elf",
+  "source_url": "https://www.igdb.com/games/sweet-elf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobomh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sweet Elf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4198930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4198930",
+        "Linux": "setsid steam steam://rungameid/4198930",
+        "macOS": "open steam://rungameid/4198930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sweet-elf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393363"
+}
