@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410503,
+  "name": "The Ice Is Watching",
+  "source_url": "https://www.igdb.com/games/the-ice-is-watching",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjk2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Ice Is Watching",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4367760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4367760",
+        "Linux": "setsid steam steam://rungameid/4367760",
+        "macOS": "open steam://rungameid/4367760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-ice-is-watching",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410503"
+}
