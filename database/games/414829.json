@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414829,
+  "name": "No Cook Today",
+  "source_url": "https://www.igdb.com/games/no-cook-today",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocr7g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Cook Today",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3996210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3996210",
+        "Linux": "setsid steam steam://rungameid/3996210",
+        "macOS": "open steam://rungameid/3996210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-cook-today",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414829"
+}
