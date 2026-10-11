@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385338,
+  "name": "Mary's Quest",
+  "source_url": "https://www.igdb.com/games/marys-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coba27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mary's Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4032790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4032790",
+        "Linux": "setsid steam steam://rungameid/4032790",
+        "macOS": "open steam://rungameid/4032790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marys-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385338"
+}
