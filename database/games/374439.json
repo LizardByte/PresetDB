@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374439,
+  "name": "From the Top",
+  "source_url": "https://www.igdb.com/games/from-the-top",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazoz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "From the Top",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3585160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3585160",
+        "Linux": "setsid steam steam://rungameid/3585160",
+        "macOS": "open steam://rungameid/3585160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "from-the-top",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374439"
+}
