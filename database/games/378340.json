@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 378340,
+  "name": "Heroes of Artadis",
+  "source_url": "https://www.igdb.com/games/heroes-of-artadis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavey.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes of Artadis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2888380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2888380",
+        "Linux": "setsid steam steam://rungameid/2888380",
+        "macOS": "open steam://rungameid/2888380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heroes-of-artadis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=378340"
+}
