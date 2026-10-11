@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411486,
+  "name": "Rollin' Garry",
+  "source_url": "https://www.igdb.com/games/rollin-garry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocktn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rollin' Garry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3704020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3704020",
+        "Linux": "setsid steam steam://rungameid/3704020",
+        "macOS": "open steam://rungameid/3704020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rollin-garry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411486"
+}
