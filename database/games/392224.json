@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392224,
+  "name": "Kori",
+  "source_url": "https://www.igdb.com/games/kori",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm24.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kori",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2663680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2663680",
+        "Linux": "setsid steam steam://rungameid/2663680",
+        "macOS": "open steam://rungameid/2663680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kori",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392224"
+}
