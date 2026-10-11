@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385191,
+  "name": "UltiMage",
+  "source_url": "https://www.igdb.com/games/ultimage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coba8m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UltiMage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4232850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4232850",
+        "Linux": "setsid steam steam://rungameid/4232850",
+        "macOS": "open steam://rungameid/4232850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ultimage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385191"
+}
