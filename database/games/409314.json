@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409314,
+  "name": "Foo Is Missing",
+  "source_url": "https://www.igdb.com/games/foo-is-missing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coce2i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foo Is Missing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4282170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4282170",
+        "Linux": "setsid steam steam://rungameid/4282170",
+        "macOS": "open steam://rungameid/4282170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foo-is-missing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409314"
+}
