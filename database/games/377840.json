@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377840,
+  "name": "Snake-A-Roid",
+  "source_url": "https://www.igdb.com/games/snake-a-roid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coauks.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snake-A-Roid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "690320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/690320",
+        "Linux": "setsid steam steam://rungameid/690320",
+        "macOS": "open steam://rungameid/690320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snake-a-roid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377840"
+}
