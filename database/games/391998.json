@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391998,
+  "name": "Banana Keeper",
+  "source_url": "https://www.igdb.com/games/banana-keeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coblsy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Banana Keeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3507180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3507180",
+        "Linux": "setsid steam steam://rungameid/3507180",
+        "macOS": "open steam://rungameid/3507180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "banana-keeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391998"
+}
