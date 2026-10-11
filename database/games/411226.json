@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411226,
+  "name": "Taskbarn",
+  "source_url": "https://www.igdb.com/games/taskbarn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Taskbarn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4005830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4005830",
+        "Linux": "setsid steam steam://rungameid/4005830",
+        "macOS": "open steam://rungameid/4005830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "taskbarn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411226"
+}
