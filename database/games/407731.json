@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407731,
+  "name": "Walk",
+  "source_url": "https://www.igdb.com/games/walk--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocj27.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Walk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4563880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4563880",
+        "Linux": "setsid steam steam://rungameid/4563880",
+        "macOS": "open steam://rungameid/4563880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "walk--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407731"
+}
