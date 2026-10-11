@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380728,
+  "name": "Scare Girl",
+  "source_url": "https://www.igdb.com/games/scare-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaz2o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scare Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2161810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2161810",
+        "Linux": "setsid steam steam://rungameid/2161810",
+        "macOS": "open steam://rungameid/2161810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scare-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380728"
+}
