@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379935,
+  "name": "Dark Craft",
+  "source_url": "https://www.igdb.com/games/dark-craft",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxrm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Craft",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3973300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3973300",
+        "Linux": "setsid steam steam://rungameid/3973300",
+        "macOS": "open steam://rungameid/3973300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-craft",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379935"
+}
