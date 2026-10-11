@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417158,
+  "name": "Check Please",
+  "source_url": "https://www.igdb.com/games/check-please",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvcx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Check Please",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5011450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5011450",
+        "Linux": "setsid steam steam://rungameid/5011450",
+        "macOS": "open steam://rungameid/5011450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "check-please",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417158"
+}
