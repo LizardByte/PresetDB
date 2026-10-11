@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389728,
+  "name": "Pit of the Lord",
+  "source_url": "https://www.igdb.com/games/pit-of-the-lord",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj02.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pit of the Lord",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4294460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4294460",
+        "Linux": "setsid steam steam://rungameid/4294460",
+        "macOS": "open steam://rungameid/4294460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pit-of-the-lord",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389728"
+}
