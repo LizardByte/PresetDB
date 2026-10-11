@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390210,
+  "name": "Regnum Idle",
+  "source_url": "https://www.igdb.com/games/regnum-idle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjl5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Regnum Idle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4219840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4219840",
+        "Linux": "setsid steam steam://rungameid/4219840",
+        "macOS": "open steam://rungameid/4219840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "regnum-idle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390210"
+}
