@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409197,
+  "name": "Chill Cat",
+  "source_url": "https://www.igdb.com/games/chill-cat--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjse.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chill Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4838690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4838690",
+        "Linux": "setsid steam steam://rungameid/4838690",
+        "macOS": "open steam://rungameid/4838690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chill-cat--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409197"
+}
