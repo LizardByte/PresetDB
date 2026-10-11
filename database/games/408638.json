@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408638,
+  "name": "Goo Deer",
+  "source_url": "https://www.igdb.com/games/goo-deer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocczi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goo Deer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4349210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4349210",
+        "Linux": "setsid steam steam://rungameid/4349210",
+        "macOS": "open steam://rungameid/4349210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goo-deer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408638"
+}
