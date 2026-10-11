@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410158,
+  "name": "Bowling Alley Simulator",
+  "source_url": "https://www.igdb.com/games/bowling-alley-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cociml.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bowling Alley Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4465600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4465600",
+        "Linux": "setsid steam steam://rungameid/4465600",
+        "macOS": "open steam://rungameid/4465600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bowling-alley-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410158"
+}
