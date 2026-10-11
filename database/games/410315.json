@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410315,
+  "name": "The Apprentice",
+  "source_url": "https://www.igdb.com/games/the-apprentice--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cociu9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Apprentice",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4551120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4551120",
+        "Linux": "setsid steam steam://rungameid/4551120",
+        "macOS": "open steam://rungameid/4551120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-apprentice--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410315"
+}
