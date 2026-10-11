@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410915,
+  "name": "Loopquarium",
+  "source_url": "https://www.igdb.com/games/loopquarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjwv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loopquarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4875190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4875190",
+        "Linux": "setsid steam steam://rungameid/4875190",
+        "macOS": "open steam://rungameid/4875190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "loopquarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410915"
+}
