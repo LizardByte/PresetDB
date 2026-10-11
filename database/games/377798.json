@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377798,
+  "name": "Movie Theater Simulator",
+  "source_url": "https://www.igdb.com/games/movie-theater-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb2w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Movie Theater Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1952960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1952960",
+        "Linux": "setsid steam steam://rungameid/1952960",
+        "macOS": "open steam://rungameid/1952960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "movie-theater-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377798"
+}
