@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412428,
+  "name": "Irreverence",
+  "source_url": "https://www.igdb.com/games/irreverence",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmmn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Irreverence",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4999960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4999960",
+        "Linux": "setsid steam steam://rungameid/4999960",
+        "macOS": "open steam://rungameid/4999960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "irreverence",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412428"
+}
