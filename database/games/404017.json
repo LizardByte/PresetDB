@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404017,
+  "name": "Cable City",
+  "source_url": "https://www.igdb.com/games/cable-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5pg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cable City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4658830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4658830",
+        "Linux": "setsid steam steam://rungameid/4658830",
+        "macOS": "open steam://rungameid/4658830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cable-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404017"
+}
