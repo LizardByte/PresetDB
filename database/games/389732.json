@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389732,
+  "name": "Cybro",
+  "source_url": "https://www.igdb.com/games/cybro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj09.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cybro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4294140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4294140",
+        "Linux": "setsid steam steam://rungameid/4294140",
+        "macOS": "open steam://rungameid/4294140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cybro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389732"
+}
