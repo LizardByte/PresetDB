@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415589,
+  "name": "Catnip Wars",
+  "source_url": "https://www.igdb.com/games/catnip-wars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsfw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Catnip Wars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5011800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5011800",
+        "Linux": "setsid steam steam://rungameid/5011800",
+        "macOS": "open steam://rungameid/5011800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catnip-wars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415589"
+}
