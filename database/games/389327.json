@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389327,
+  "name": "Platera",
+  "source_url": "https://www.igdb.com/games/platera",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobic3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Platera",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4324570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4324570",
+        "Linux": "setsid steam steam://rungameid/4324570",
+        "macOS": "open steam://rungameid/4324570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "platera",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389327"
+}
