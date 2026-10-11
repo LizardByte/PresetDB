@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379989,
+  "name": "Atomica",
+  "source_url": "https://www.igdb.com/games/atomica--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxiq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Atomica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4023460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4023460",
+        "Linux": "setsid steam steam://rungameid/4023460",
+        "macOS": "open steam://rungameid/4023460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "atomica--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379989"
+}
