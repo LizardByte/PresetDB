@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386475,
+  "name": "Liv",
+  "source_url": "https://www.igdb.com/games/liv",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbqe.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liv",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4240800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4240800",
+        "Linux": "setsid steam steam://rungameid/4240800",
+        "macOS": "open steam://rungameid/4240800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liv",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386475"
+}
