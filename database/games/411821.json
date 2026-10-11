@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411821,
+  "name": "Monster Nursery",
+  "source_url": "https://www.igdb.com/games/monster-nursery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmdp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monster Nursery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4819510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4819510",
+        "Linux": "setsid steam steam://rungameid/4819510",
+        "macOS": "open steam://rungameid/4819510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monster-nursery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411821"
+}
