@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393809,
+  "name": "Goritaire",
+  "source_url": "https://www.igdb.com/games/goritaire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobplo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goritaire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3882520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3882520",
+        "Linux": "setsid steam steam://rungameid/3882520",
+        "macOS": "open steam://rungameid/3882520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goritaire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393809"
+}
