@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392798,
+  "name": "GunBoxing",
+  "source_url": "https://www.igdb.com/games/gunboxing",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnkk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GunBoxing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1978090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1978090",
+        "Linux": "setsid steam steam://rungameid/1978090",
+        "macOS": "open steam://rungameid/1978090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gunboxing",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392798"
+}
