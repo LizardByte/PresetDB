@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393324,
+  "name": "Timefront",
+  "source_url": "https://www.igdb.com/games/timefront",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobopd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Timefront",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3328840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3328840",
+        "Linux": "setsid steam steam://rungameid/3328840",
+        "macOS": "open steam://rungameid/3328840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "timefront",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393324"
+}
