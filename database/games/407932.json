@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407932,
+  "name": "BunnyBakery",
+  "source_url": "https://www.igdb.com/games/bunnybakery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbbr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BunnyBakery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4159000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4159000",
+        "Linux": "setsid steam steam://rungameid/4159000",
+        "macOS": "open steam://rungameid/4159000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunnybakery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407932"
+}
