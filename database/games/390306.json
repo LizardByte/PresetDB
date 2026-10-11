@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390306,
+  "name": "Reel Tiny",
+  "source_url": "https://www.igdb.com/games/reel-tiny",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsyr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reel Tiny",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4194890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4194890",
+        "Linux": "setsid steam steam://rungameid/4194890",
+        "macOS": "open steam://rungameid/4194890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reel-tiny",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390306"
+}
