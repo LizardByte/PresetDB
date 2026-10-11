@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412490,
+  "name": "Solider AutoChess",
+  "source_url": "https://www.igdb.com/games/solider-autochess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmrp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Solider AutoChess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2979990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2979990",
+        "Linux": "setsid steam steam://rungameid/2979990",
+        "macOS": "open steam://rungameid/2979990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "solider-autochess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412490"
+}
