@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405204,
+  "name": "Chessfall",
+  "source_url": "https://www.igdb.com/games/chessfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7ap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chessfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3374750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3374750",
+        "Linux": "setsid steam steam://rungameid/3374750",
+        "macOS": "open steam://rungameid/3374750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chessfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405204"
+}
