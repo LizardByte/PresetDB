@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374356,
+  "name": "No Exit",
+  "source_url": "https://www.igdb.com/games/no-exit--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapnd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Exit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3311470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3311470",
+        "Linux": "setsid steam steam://rungameid/3311470",
+        "macOS": "open steam://rungameid/3311470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-exit--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374356"
+}
