@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398258,
+  "name": "Wormies",
+  "source_url": "https://www.igdb.com/games/wormies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobx77.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wormies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4058290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4058290",
+        "Linux": "setsid steam steam://rungameid/4058290",
+        "macOS": "open steam://rungameid/4058290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wormies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398258"
+}
