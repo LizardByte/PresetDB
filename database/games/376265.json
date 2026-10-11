@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376265,
+  "name": "MineDeeper",
+  "source_url": "https://www.igdb.com/games/minedeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaswo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MineDeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4104630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4104630",
+        "Linux": "setsid steam steam://rungameid/4104630",
+        "macOS": "open steam://rungameid/4104630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minedeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376265"
+}
