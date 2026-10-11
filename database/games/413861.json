@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413861,
+  "name": "Hide & Seek",
+  "source_url": "https://www.igdb.com/games/hide-and-seek--14",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpcc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hide & Seek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5008510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5008510",
+        "Linux": "setsid steam steam://rungameid/5008510",
+        "macOS": "open steam://rungameid/5008510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hide-and-seek--14",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413861"
+}
