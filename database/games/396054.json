@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396054,
+  "name": "Cool Story Bro!",
+  "source_url": "https://www.igdb.com/games/cool-story-bro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtxs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cool Story Bro!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4066780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4066780",
+        "Linux": "setsid steam steam://rungameid/4066780",
+        "macOS": "open steam://rungameid/4066780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cool-story-bro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396054"
+}
