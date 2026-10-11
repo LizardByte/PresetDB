@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397931,
+  "name": "Ringbound",
+  "source_url": "https://www.igdb.com/games/ringbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwmy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ringbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4446670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4446670",
+        "Linux": "setsid steam steam://rungameid/4446670",
+        "macOS": "open steam://rungameid/4446670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ringbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397931"
+}
