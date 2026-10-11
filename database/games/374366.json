@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374366,
+  "name": "Kinap",
+  "source_url": "https://www.igdb.com/games/kinap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapnn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kinap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3847670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3847670",
+        "Linux": "setsid steam steam://rungameid/3847670",
+        "macOS": "open steam://rungameid/3847670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kinap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374366"
+}
