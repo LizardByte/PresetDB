@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403201,
+  "name": "The Traveller's Sight",
+  "source_url": "https://www.igdb.com/games/the-travellers-sight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4ib.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Traveller's Sight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3356000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3356000",
+        "Linux": "setsid steam steam://rungameid/3356000",
+        "macOS": "open steam://rungameid/3356000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-travellers-sight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403201"
+}
