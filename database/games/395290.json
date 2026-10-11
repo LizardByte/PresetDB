@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395290,
+  "name": "Ballerspiel",
+  "source_url": "https://www.igdb.com/games/ballerspiel",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsjo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ballerspiel",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3235390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3235390",
+        "Linux": "setsid steam steam://rungameid/3235390",
+        "macOS": "open steam://rungameid/3235390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ballerspiel",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395290"
+}
