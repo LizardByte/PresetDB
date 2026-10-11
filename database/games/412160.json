@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412160,
+  "name": "Godreaper",
+  "source_url": "https://www.igdb.com/games/godreaper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocm4i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Godreaper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2691080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2691080",
+        "Linux": "setsid steam steam://rungameid/2691080",
+        "macOS": "open steam://rungameid/2691080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "godreaper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412160"
+}
