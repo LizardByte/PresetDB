@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403930,
+  "name": "Maui Pong",
+  "source_url": "https://www.igdb.com/games/maui-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5mk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maui Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4709610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4709610",
+        "Linux": "setsid steam steam://rungameid/4709610",
+        "macOS": "open steam://rungameid/4709610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maui-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403930"
+}
