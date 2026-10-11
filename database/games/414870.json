@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414870,
+  "name": "Take Me to Your Leader",
+  "source_url": "https://www.igdb.com/games/take-me-to-your-leader",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocral.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Take Me to Your Leader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4849930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4849930",
+        "Linux": "setsid steam steam://rungameid/4849930",
+        "macOS": "open steam://rungameid/4849930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "take-me-to-your-leader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414870"
+}
