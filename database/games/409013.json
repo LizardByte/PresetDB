@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409013,
+  "name": "Ice Cream Man",
+  "source_url": "https://www.igdb.com/games/ice-cream-man",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccrp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ice Cream Man",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4634080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4634080",
+        "Linux": "setsid steam steam://rungameid/4634080",
+        "macOS": "open steam://rungameid/4634080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ice-cream-man",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409013"
+}
