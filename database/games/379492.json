@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379492,
+  "name": "Aerocorp",
+  "source_url": "https://www.igdb.com/games/aerocorp",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Aerocorp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3985660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3985660",
+        "Linux": "setsid steam steam://rungameid/3985660",
+        "macOS": "open steam://rungameid/3985660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "aerocorp",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379492"
+}
