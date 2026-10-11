@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410944,
+  "name": "Hop-Co-Op",
+  "source_url": "https://www.igdb.com/games/hop-co-op",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjy4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hop-Co-Op",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4464550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4464550",
+        "Linux": "setsid steam steam://rungameid/4464550",
+        "macOS": "open steam://rungameid/4464550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hop-co-op",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410944"
+}
