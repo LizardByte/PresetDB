@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393803,
+  "name": "Agony Increment",
+  "source_url": "https://www.igdb.com/games/agony-increment",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpli.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Agony Increment",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3440580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3440580",
+        "Linux": "setsid steam steam://rungameid/3440580",
+        "macOS": "open steam://rungameid/3440580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "agony-increment",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393803"
+}
