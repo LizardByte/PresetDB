@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408875,
+  "name": "Mad Merchant",
+  "source_url": "https://www.igdb.com/games/mad-merchant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccm8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mad Merchant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4665920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4665920",
+        "Linux": "setsid steam steam://rungameid/4665920",
+        "macOS": "open steam://rungameid/4665920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mad-merchant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408875"
+}
