@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390599,
+  "name": "Ghost Restaurant",
+  "source_url": "https://www.igdb.com/games/ghost-restaurant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk20.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost Restaurant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4130020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4130020",
+        "Linux": "setsid steam steam://rungameid/4130020",
+        "macOS": "open steam://rungameid/4130020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-restaurant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390599"
+}
