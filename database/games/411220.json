@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411220,
+  "name": "Cellar Keeper",
+  "source_url": "https://www.igdb.com/games/cellar-keeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cellar Keeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4935510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4935510",
+        "Linux": "setsid steam steam://rungameid/4935510",
+        "macOS": "open steam://rungameid/4935510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cellar-keeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411220"
+}
