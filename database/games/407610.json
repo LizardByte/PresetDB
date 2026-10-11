@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407610,
+  "name": "Boli",
+  "source_url": "https://www.igdb.com/games/boli",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocajh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Boli",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4104700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4104700",
+        "Linux": "setsid steam steam://rungameid/4104700",
+        "macOS": "open steam://rungameid/4104700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boli",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407610"
+}
