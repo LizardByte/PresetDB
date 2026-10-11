@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391197,
+  "name": "Flair",
+  "source_url": "https://www.igdb.com/games/flair",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmtx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flair",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3975540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3975540",
+        "Linux": "setsid steam steam://rungameid/3975540",
+        "macOS": "open steam://rungameid/3975540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flair",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391197"
+}
