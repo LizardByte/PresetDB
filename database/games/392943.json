@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392943,
+  "name": "RedLantern",
+  "source_url": "https://www.igdb.com/games/redlantern",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnuc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RedLantern",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3852000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3852000",
+        "Linux": "setsid steam steam://rungameid/3852000",
+        "macOS": "open steam://rungameid/3852000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "redlantern",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392943"
+}
