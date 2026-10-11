@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417032,
+  "name": "Mana Alchemy",
+  "source_url": "https://www.igdb.com/games/mana-alchemy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxon.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mana Alchemy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4996560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4996560",
+        "Linux": "setsid steam steam://rungameid/4996560",
+        "macOS": "open steam://rungameid/4996560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mana-alchemy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417032"
+}
