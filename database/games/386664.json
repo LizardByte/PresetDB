@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386664,
+  "name": "Applecalypse",
+  "source_url": "https://www.igdb.com/games/applecalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc8f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Applecalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4316280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4316280",
+        "Linux": "setsid steam steam://rungameid/4316280",
+        "macOS": "open steam://rungameid/4316280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "applecalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386664"
+}
