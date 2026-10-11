@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409360,
+  "name": "Hyposolus",
+  "source_url": "https://www.igdb.com/games/hyposolus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocd6i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyposolus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4893040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4893040",
+        "Linux": "setsid steam steam://rungameid/4893040",
+        "macOS": "open steam://rungameid/4893040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyposolus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409360"
+}
