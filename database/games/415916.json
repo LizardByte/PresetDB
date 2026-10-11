@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415916,
+  "name": "Dynamite Day",
+  "source_url": "https://www.igdb.com/games/dynamite-day",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct31.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dynamite Day",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4620600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4620600",
+        "Linux": "setsid steam steam://rungameid/4620600",
+        "macOS": "open steam://rungameid/4620600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dynamite-day",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415916"
+}
