@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398960,
+  "name": "The Cabin Game",
+  "source_url": "https://www.igdb.com/games/the-cabin-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyn1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Cabin Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4406280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4406280",
+        "Linux": "setsid steam steam://rungameid/4406280",
+        "macOS": "open steam://rungameid/4406280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-cabin-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398960"
+}
