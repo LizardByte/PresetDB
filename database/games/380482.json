@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380482,
+  "name": "Retail Therapy",
+  "source_url": "https://www.igdb.com/games/retail-therapy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob5ya.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retail Therapy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4101050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4101050",
+        "Linux": "setsid steam steam://rungameid/4101050",
+        "macOS": "open steam://rungameid/4101050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retail-therapy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380482"
+}
