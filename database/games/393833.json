@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393833,
+  "name": "Mango",
+  "source_url": "https://www.igdb.com/games/mango--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpnq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mango",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3855510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3855510",
+        "Linux": "setsid steam steam://rungameid/3855510",
+        "macOS": "open steam://rungameid/3855510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mango--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393833"
+}
