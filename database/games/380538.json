@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380538,
+  "name": "Nuclecard",
+  "source_url": "https://www.igdb.com/games/nuclecard",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coayp5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nuclecard",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4162600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4162600",
+        "Linux": "setsid steam steam://rungameid/4162600",
+        "macOS": "open steam://rungameid/4162600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nuclecard",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380538"
+}
