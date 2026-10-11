@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390731,
+  "name": "NolyRhythm",
+  "source_url": "https://www.igdb.com/games/nolyrhythm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk6k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NolyRhythm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4096460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4096460",
+        "Linux": "setsid steam steam://rungameid/4096460",
+        "macOS": "open steam://rungameid/4096460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nolyrhythm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390731"
+}
