@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399135,
+  "name": "The Candy Adventure",
+  "source_url": "https://www.igdb.com/games/the-candy-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyno.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Candy Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3047760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3047760",
+        "Linux": "setsid steam steam://rungameid/3047760",
+        "macOS": "open steam://rungameid/3047760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-candy-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399135"
+}
