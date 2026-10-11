@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390101,
+  "name": "Traders Life Simulator",
+  "source_url": "https://www.igdb.com/games/traders-life-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqpu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Traders Life Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4235160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4235160",
+        "Linux": "setsid steam steam://rungameid/4235160",
+        "macOS": "open steam://rungameid/4235160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "traders-life-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390101"
+}
