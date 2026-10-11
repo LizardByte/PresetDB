@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375123,
+  "name": "Brainshell",
+  "source_url": "https://www.igdb.com/games/brainshell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobssm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brainshell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3206220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3206220",
+        "Linux": "setsid steam steam://rungameid/3206220",
+        "macOS": "open steam://rungameid/3206220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brainshell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375123"
+}
