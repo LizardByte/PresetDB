@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389525,
+  "name": "Random Dragons",
+  "source_url": "https://www.igdb.com/games/random-dragons",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobin6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Random Dragons",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4362510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4362510",
+        "Linux": "setsid steam steam://rungameid/4362510",
+        "macOS": "open steam://rungameid/4362510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "random-dragons",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389525"
+}
