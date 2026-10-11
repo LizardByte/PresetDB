@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405713,
+  "name": "No Register",
+  "source_url": "https://www.igdb.com/games/no-register",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7w2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Register",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4628690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4628690",
+        "Linux": "setsid steam steam://rungameid/4628690",
+        "macOS": "open steam://rungameid/4628690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-register",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405713"
+}
