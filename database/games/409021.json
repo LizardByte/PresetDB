@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409021,
+  "name": "Cosmic Mart",
+  "source_url": "https://www.igdb.com/games/cosmic-mart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwgb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cosmic Mart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4885590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4885590",
+        "Linux": "setsid steam steam://rungameid/4885590",
+        "macOS": "open steam://rungameid/4885590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cosmic-mart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409021"
+}
