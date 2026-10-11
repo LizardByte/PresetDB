@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388327,
+  "name": "Starry Trace",
+  "source_url": "https://www.igdb.com/games/starry-trace",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfek.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starry Trace",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3593600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3593600",
+        "Linux": "setsid steam steam://rungameid/3593600",
+        "macOS": "open steam://rungameid/3593600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starry-trace",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388327"
+}
