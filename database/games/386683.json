@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386683,
+  "name": "Endless Forest",
+  "source_url": "https://www.igdb.com/games/endless-forest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo2n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Endless Forest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3632130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3632130",
+        "Linux": "setsid steam steam://rungameid/3632130",
+        "macOS": "open steam://rungameid/3632130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "endless-forest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386683"
+}
