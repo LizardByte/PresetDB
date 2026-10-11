@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411724,
+  "name": "Call of Cutie",
+  "source_url": "https://www.igdb.com/games/call-of-cutie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclrj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Call of Cutie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4968940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4968940",
+        "Linux": "setsid steam steam://rungameid/4968940",
+        "macOS": "open steam://rungameid/4968940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "call-of-cutie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411724"
+}
