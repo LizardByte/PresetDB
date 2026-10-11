@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379127,
+  "name": "Amelorn",
+  "source_url": "https://www.igdb.com/games/amelorn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawg3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amelorn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3642760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3642760",
+        "Linux": "setsid steam steam://rungameid/3642760",
+        "macOS": "open steam://rungameid/3642760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amelorn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379127"
+}
