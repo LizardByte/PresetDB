@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380830,
+  "name": "King of Spies",
+  "source_url": "https://www.igdb.com/games/king-of-spies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazc4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King of Spies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1284300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1284300",
+        "Linux": "setsid steam steam://rungameid/1284300",
+        "macOS": "open steam://rungameid/1284300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-of-spies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380830"
+}
