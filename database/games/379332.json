@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379332,
+  "name": "NTR",
+  "source_url": "https://www.igdb.com/games/ntr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobby2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "NTR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3873130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3873130",
+        "Linux": "setsid steam steam://rungameid/3873130",
+        "macOS": "open steam://rungameid/3873130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ntr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379332"
+}
