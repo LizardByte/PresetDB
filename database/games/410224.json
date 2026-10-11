@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410224,
+  "name": "Attack Only",
+  "source_url": "https://www.igdb.com/games/attack-only",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocim9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Attack Only",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4902640",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4902640",
+        "Linux": "setsid steam steam://rungameid/4902640",
+        "macOS": "open steam://rungameid/4902640"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "attack-only",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410224"
+}
