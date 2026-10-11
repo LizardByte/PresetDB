@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415190,
+  "name": "Black Walls",
+  "source_url": "https://www.igdb.com/games/black-walls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrs6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Walls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4827960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4827960",
+        "Linux": "setsid steam steam://rungameid/4827960",
+        "macOS": "open steam://rungameid/4827960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "black-walls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415190"
+}
