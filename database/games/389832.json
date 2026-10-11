@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389832,
+  "name": "Watch Eye",
+  "source_url": "https://www.igdb.com/games/watch-eye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo4s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Watch Eye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4289830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4289830",
+        "Linux": "setsid steam steam://rungameid/4289830",
+        "macOS": "open steam://rungameid/4289830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "watch-eye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389832"
+}
