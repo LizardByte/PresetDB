@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390020,
+  "name": "Proceed to ICU",
+  "source_url": "https://www.igdb.com/games/proceed-to-icu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjbj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Proceed to ICU",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4254760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4254760",
+        "Linux": "setsid steam steam://rungameid/4254760",
+        "macOS": "open steam://rungameid/4254760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "proceed-to-icu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390020"
+}
