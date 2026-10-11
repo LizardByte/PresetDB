@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384824,
+  "name": "Slider",
+  "source_url": "https://www.igdb.com/games/slider--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob936.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "884900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/884900",
+        "Linux": "setsid steam steam://rungameid/884900",
+        "macOS": "open steam://rungameid/884900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slider--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384824"
+}
