@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412900,
+  "name": "Sushi Claw Machine",
+  "source_url": "https://www.igdb.com/games/sushi-claw-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushi Claw Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3964140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3964140",
+        "Linux": "setsid steam steam://rungameid/3964140",
+        "macOS": "open steam://rungameid/3964140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushi-claw-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412900"
+}
