@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412600,
+  "name": "Focus Froggy",
+  "source_url": "https://www.igdb.com/games/focus-froggy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmz7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Focus Froggy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4334280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4334280",
+        "Linux": "setsid steam steam://rungameid/4334280",
+        "macOS": "open steam://rungameid/4334280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "focus-froggy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412600"
+}
