@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380495,
+  "name": "Get'Trump'ed Trivia",
+  "source_url": "https://www.igdb.com/games/gettrumped-trivia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazvm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get'Trump'ed Trivia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3588390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3588390",
+        "Linux": "setsid steam steam://rungameid/3588390",
+        "macOS": "open steam://rungameid/3588390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gettrumped-trivia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380495"
+}
