@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400421,
+  "name": "Teddy Is Coming",
+  "source_url": "https://www.igdb.com/games/teddy-is-coming",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0ov.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Teddy Is Coming",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3971030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3971030",
+        "Linux": "setsid steam steam://rungameid/3971030",
+        "macOS": "open steam://rungameid/3971030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teddy-is-coming",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400421"
+}
