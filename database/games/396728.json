@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396728,
+  "name": "Resident Evil 2",
+  "source_url": "https://www.igdb.com/games/resident-evil-2--7",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobv10.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4249110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4249110",
+        "Linux": "setsid steam steam://rungameid/4249110",
+        "macOS": "open steam://rungameid/4249110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "resident-evil-2--7",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396728"
+}
