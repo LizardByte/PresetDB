@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376950,
+  "name": "Donut Panic",
+  "source_url": "https://www.igdb.com/games/donut-panic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv77.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Donut Panic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3910750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3910750",
+        "Linux": "setsid steam steam://rungameid/3910750",
+        "macOS": "open steam://rungameid/3910750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "donut-panic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376950"
+}
