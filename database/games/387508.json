@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387508,
+  "name": "Nyx Legacy",
+  "source_url": "https://www.igdb.com/games/nyx-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdmu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nyx Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4016050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4016050",
+        "Linux": "setsid steam steam://rungameid/4016050",
+        "macOS": "open steam://rungameid/4016050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nyx-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387508"
+}
