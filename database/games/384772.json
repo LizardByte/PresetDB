@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384772,
+  "name": "KunKunPrison",
+  "source_url": "https://www.igdb.com/games/kunkunprison",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8yg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "KunKunPrison",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4273100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4273100",
+        "Linux": "setsid steam steam://rungameid/4273100",
+        "macOS": "open steam://rungameid/4273100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kunkunprison",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384772"
+}
