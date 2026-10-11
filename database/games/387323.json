@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387323,
+  "name": "Chance",
+  "source_url": "https://www.igdb.com/games/chance",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdc1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chance",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4293810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4293810",
+        "Linux": "setsid steam steam://rungameid/4293810",
+        "macOS": "open steam://rungameid/4293810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chance",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387323"
+}
