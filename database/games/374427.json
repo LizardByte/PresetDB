@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374427,
+  "name": "Lokko",
+  "source_url": "https://www.igdb.com/games/lokko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coappm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lokko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1810630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1810630",
+        "Linux": "setsid steam steam://rungameid/1810630",
+        "macOS": "open steam://rungameid/1810630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lokko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374427"
+}
