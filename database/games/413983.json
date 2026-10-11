@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413983,
+  "name": "GameZone: Game Store Simulator",
+  "source_url": "https://www.igdb.com/games/gamezone-game-store-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwpa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GameZone: Game Store Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4138930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4138930",
+        "Linux": "setsid steam steam://rungameid/4138930",
+        "macOS": "open steam://rungameid/4138930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gamezone-game-store-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413983"
+}
