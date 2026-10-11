@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397805,
+  "name": "Lost Railway",
+  "source_url": "https://www.igdb.com/games/lost-railway",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwhm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Railway",
+      "os": null,
+      "method": "steam",
+      "launch_id": "862750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/862750",
+        "Linux": "setsid steam steam://rungameid/862750",
+        "macOS": "open steam://rungameid/862750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-railway",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397805"
+}
