@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400500,
+  "name": "Killflow",
+  "source_url": "https://www.igdb.com/games/killflow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0ou.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Killflow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4425610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4425610",
+        "Linux": "setsid steam steam://rungameid/4425610",
+        "macOS": "open steam://rungameid/4425610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "killflow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400500"
+}
