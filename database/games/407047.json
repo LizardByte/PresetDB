@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407047,
+  "name": "Cozy Mining",
+  "source_url": "https://www.igdb.com/games/cozy-mining",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9px.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Mining",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4283650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4283650",
+        "Linux": "setsid steam steam://rungameid/4283650",
+        "macOS": "open steam://rungameid/4283650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-mining",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407047"
+}
