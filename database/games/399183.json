@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399183,
+  "name": "Sushi Yummy",
+  "source_url": "https://www.igdb.com/games/sushi-yummy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyqw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sushi Yummy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4605340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4605340",
+        "Linux": "setsid steam steam://rungameid/4605340",
+        "macOS": "open steam://rungameid/4605340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sushi-yummy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399183"
+}
