@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374440,
+  "name": "Monitor State",
+  "source_url": "https://www.igdb.com/games/monitor-state",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapq2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monitor State",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3612630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3612630",
+        "Linux": "setsid steam steam://rungameid/3612630",
+        "macOS": "open steam://rungameid/3612630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monitor-state",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374440"
+}
