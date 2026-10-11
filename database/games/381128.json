@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381128,
+  "name": "Life of an NPC",
+  "source_url": "https://www.igdb.com/games/life-of-an-npc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob07g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Life of an NPC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3489080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3489080",
+        "Linux": "setsid steam steam://rungameid/3489080",
+        "macOS": "open steam://rungameid/3489080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "life-of-an-npc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381128"
+}
