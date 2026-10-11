@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381120,
+  "name": "Jaws: Retro Edition",
+  "source_url": "https://www.igdb.com/games/jaws-retro-edition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jaws: Retro Edition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3977380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3977380",
+        "Linux": "setsid steam steam://rungameid/3977380",
+        "macOS": "open steam://rungameid/3977380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jaws-retro-edition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381120"
+}
