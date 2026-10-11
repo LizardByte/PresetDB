@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410233,
+  "name": "Kibble Cats",
+  "source_url": "https://www.igdb.com/games/kibble-cats",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocimo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kibble Cats",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4615010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4615010",
+        "Linux": "setsid steam steam://rungameid/4615010",
+        "macOS": "open steam://rungameid/4615010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kibble-cats",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410233"
+}
