@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391213,
+  "name": "Children of Birch",
+  "source_url": "https://www.igdb.com/games/children-of-birch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl6p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Children of Birch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3589000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3589000",
+        "Linux": "setsid steam steam://rungameid/3589000",
+        "macOS": "open steam://rungameid/3589000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "children-of-birch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391213"
+}
