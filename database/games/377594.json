@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377594,
+  "name": "Legacy",
+  "source_url": "https://www.igdb.com/games/legacy--7",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxmw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4019610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4019610",
+        "Linux": "setsid steam steam://rungameid/4019610",
+        "macOS": "open steam://rungameid/4019610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legacy--7",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377594"
+}
