@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415182,
+  "name": "Matelotes",
+  "source_url": "https://www.igdb.com/games/matelotes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrrm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Matelotes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2959460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2959460",
+        "Linux": "setsid steam steam://rungameid/2959460",
+        "macOS": "open steam://rungameid/2959460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "matelotes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415182"
+}
