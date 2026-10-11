@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382492,
+  "name": "My Lovely Girls",
+  "source_url": "https://www.igdb.com/games/my-lovely-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3i3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Lovely Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1844280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1844280",
+        "Linux": "setsid steam steam://rungameid/1844280",
+        "macOS": "open steam://rungameid/1844280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-lovely-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382492"
+}
