@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410766,
+  "name": "Click to Win 5000 Achievement",
+  "source_url": "https://www.igdb.com/games/click-to-win-5000-achievement",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjp2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Click to Win 5000 Achievement",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4308150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4308150",
+        "Linux": "setsid steam steam://rungameid/4308150",
+        "macOS": "open steam://rungameid/4308150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "click-to-win-5000-achievement",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410766"
+}
