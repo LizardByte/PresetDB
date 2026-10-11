@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411222,
+  "name": "Pizza Boy",
+  "source_url": "https://www.igdb.com/games/pizza-boy--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocl1b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pizza Boy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4633340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4633340",
+        "Linux": "setsid steam steam://rungameid/4633340",
+        "macOS": "open steam://rungameid/4633340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pizza-boy--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411222"
+}
