@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385832,
+  "name": "CaptMeow",
+  "source_url": "https://www.igdb.com/games/captmeow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobamj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "CaptMeow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1824520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1824520",
+        "Linux": "setsid steam steam://rungameid/1824520",
+        "macOS": "open steam://rungameid/1824520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "captmeow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385832"
+}
