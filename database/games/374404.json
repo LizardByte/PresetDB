@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374404,
+  "name": "Room 404",
+  "source_url": "https://www.igdb.com/games/room-404--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawp9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Room 404",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2873810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2873810",
+        "Linux": "setsid steam steam://rungameid/2873810",
+        "macOS": "open steam://rungameid/2873810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "room-404--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374404"
+}
