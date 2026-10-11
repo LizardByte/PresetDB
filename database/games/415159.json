@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415159,
+  "name": "Gambit Gardens",
+  "source_url": "https://www.igdb.com/games/gambit-gardens",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrql.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gambit Gardens",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5081930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5081930",
+        "Linux": "setsid steam steam://rungameid/5081930",
+        "macOS": "open steam://rungameid/5081930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gambit-gardens",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415159"
+}
