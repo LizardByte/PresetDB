@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 378366,
+  "name": "The Ramen Shop",
+  "source_url": "https://www.igdb.com/games/the-ramen-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavg0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Ramen Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4093970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4093970",
+        "Linux": "setsid steam steam://rungameid/4093970",
+        "macOS": "open steam://rungameid/4093970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-ramen-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=378366"
+}
