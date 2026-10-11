@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413333,
+  "name": "Mancalero",
+  "source_url": "https://www.igdb.com/games/mancalero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocouk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mancalero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4811700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4811700",
+        "Linux": "setsid steam steam://rungameid/4811700",
+        "macOS": "open steam://rungameid/4811700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mancalero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413333"
+}
