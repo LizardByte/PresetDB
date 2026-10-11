@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395112,
+  "name": "Nebula Miner",
+  "source_url": "https://www.igdb.com/games/nebula-miner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobs59.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nebula Miner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4239120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4239120",
+        "Linux": "setsid steam steam://rungameid/4239120",
+        "macOS": "open steam://rungameid/4239120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nebula-miner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395112"
+}
