@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412316,
+  "name": "Counterweight",
+  "source_url": "https://www.igdb.com/games/counterweight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmf1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Counterweight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4910230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4910230",
+        "Linux": "setsid steam steam://rungameid/4910230",
+        "macOS": "open steam://rungameid/4910230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "counterweight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412316"
+}
