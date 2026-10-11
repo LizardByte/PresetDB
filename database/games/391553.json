@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391553,
+  "name": "Consero",
+  "source_url": "https://www.igdb.com/games/consero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobodb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Consero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3830600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3830600",
+        "Linux": "setsid steam steam://rungameid/3830600",
+        "macOS": "open steam://rungameid/3830600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "consero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391553"
+}
