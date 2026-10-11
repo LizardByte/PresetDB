@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379754,
+  "name": "Rostov",
+  "source_url": "https://www.igdb.com/games/rostov",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax45.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rostov",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4195410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4195410",
+        "Linux": "setsid steam steam://rungameid/4195410",
+        "macOS": "open steam://rungameid/4195410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rostov",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379754"
+}
