@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374316,
+  "name": "Beer Machine",
+  "source_url": "https://www.igdb.com/games/beer-machine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaplv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beer Machine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4016300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4016300",
+        "Linux": "setsid steam steam://rungameid/4016300",
+        "macOS": "open steam://rungameid/4016300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beer-machine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374316"
+}
