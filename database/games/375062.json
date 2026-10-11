@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375062,
+  "name": "Blackout Tonight",
+  "source_url": "https://www.igdb.com/games/blackout-tonight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqph.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blackout Tonight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3366360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3366360",
+        "Linux": "setsid steam steam://rungameid/3366360",
+        "macOS": "open steam://rungameid/3366360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blackout-tonight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375062"
+}
