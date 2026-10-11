@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 375575,
+  "name": "Pete's World",
+  "source_url": "https://www.igdb.com/games/petes-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coarog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pete's World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3421280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3421280",
+        "Linux": "setsid steam steam://rungameid/3421280",
+        "macOS": "open steam://rungameid/3421280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "petes-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=375575"
+}
