@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403110,
+  "name": "Ropeman",
+  "source_url": "https://www.igdb.com/games/ropeman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4ea.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ropeman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4134680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4134680",
+        "Linux": "setsid steam steam://rungameid/4134680",
+        "macOS": "open steam://rungameid/4134680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ropeman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403110"
+}
