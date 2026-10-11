@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415728,
+  "name": "The Wickers House",
+  "source_url": "https://www.igdb.com/games/the-wickers-house",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocssi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Wickers House",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4755380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4755380",
+        "Linux": "setsid steam steam://rungameid/4755380",
+        "macOS": "open steam://rungameid/4755380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-wickers-house",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415728"
+}
