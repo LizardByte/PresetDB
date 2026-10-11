@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389367,
+  "name": "Imry",
+  "source_url": "https://www.igdb.com/games/imry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobi3k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Imry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4335210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4335210",
+        "Linux": "setsid steam steam://rungameid/4335210",
+        "macOS": "open steam://rungameid/4335210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "imry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389367"
+}
