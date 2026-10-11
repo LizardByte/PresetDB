@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385915,
+  "name": "Supermaze",
+  "source_url": "https://www.igdb.com/games/supermaze",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaq1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Supermaze",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4034170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4034170",
+        "Linux": "setsid steam steam://rungameid/4034170",
+        "macOS": "open steam://rungameid/4034170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "supermaze",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385915"
+}
