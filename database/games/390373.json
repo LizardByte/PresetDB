@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390373,
+  "name": "Buster Breaks Out",
+  "source_url": "https://www.igdb.com/games/buster-breaks-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocql2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Buster Breaks Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4251540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4251540",
+        "Linux": "setsid steam steam://rungameid/4251540",
+        "macOS": "open steam://rungameid/4251540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "buster-breaks-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390373"
+}
