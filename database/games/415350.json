@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415350,
+  "name": "Vespillo",
+  "source_url": "https://www.igdb.com/games/vespillo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs0x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vespillo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4969790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4969790",
+        "Linux": "setsid steam steam://rungameid/4969790",
+        "macOS": "open steam://rungameid/4969790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vespillo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415350"
+}
