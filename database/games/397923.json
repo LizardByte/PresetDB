@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397923,
+  "name": "Wobble Wobble",
+  "source_url": "https://www.igdb.com/games/wobble-wobble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwmd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wobble Wobble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4529820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4529820",
+        "Linux": "setsid steam steam://rungameid/4529820",
+        "macOS": "open steam://rungameid/4529820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wobble-wobble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397923"
+}
