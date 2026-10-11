@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385475,
+  "name": "MetaChess",
+  "source_url": "https://www.igdb.com/games/metachess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaa4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MetaChess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4257320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4257320",
+        "Linux": "setsid steam steam://rungameid/4257320",
+        "macOS": "open steam://rungameid/4257320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metachess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385475"
+}
