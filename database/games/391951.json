@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391951,
+  "name": "My Townies",
+  "source_url": "https://www.igdb.com/games/my-townies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpv1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Townies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3581820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3581820",
+        "Linux": "setsid steam steam://rungameid/3581820",
+        "macOS": "open steam://rungameid/3581820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-townies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391951"
+}
