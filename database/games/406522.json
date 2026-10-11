@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406522,
+  "name": "Void Ignition",
+  "source_url": "https://www.igdb.com/games/void-ignition",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc8wb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Void Ignition",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4532030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4532030",
+        "Linux": "setsid steam steam://rungameid/4532030",
+        "macOS": "open steam://rungameid/4532030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "void-ignition",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406522"
+}
