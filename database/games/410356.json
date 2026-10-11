@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410356,
+  "name": "Rocket Buddies",
+  "source_url": "https://www.igdb.com/games/rocket-buddies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocllu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rocket Buddies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4213270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4213270",
+        "Linux": "setsid steam steam://rungameid/4213270",
+        "macOS": "open steam://rungameid/4213270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rocket-buddies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410356"
+}
