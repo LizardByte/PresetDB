@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 394619,
+  "name": "Lint",
+  "source_url": "https://www.igdb.com/games/lint--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobr8a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lint",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4009030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4009030",
+        "Linux": "setsid steam steam://rungameid/4009030",
+        "macOS": "open steam://rungameid/4009030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lint--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=394619"
+}
