@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377325,
+  "name": "Samurai",
+  "source_url": "https://www.igdb.com/games/samurai--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazs1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Samurai",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3153080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3153080",
+        "Linux": "setsid steam steam://rungameid/3153080",
+        "macOS": "open steam://rungameid/3153080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "samurai--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377325"
+}
