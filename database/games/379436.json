@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379436,
+  "name": "Tales of Valkyrie",
+  "source_url": "https://www.igdb.com/games/tales-of-valkyrie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawu6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tales of Valkyrie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3193300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3193300",
+        "Linux": "setsid steam steam://rungameid/3193300",
+        "macOS": "open steam://rungameid/3193300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tales-of-valkyrie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379436"
+}
