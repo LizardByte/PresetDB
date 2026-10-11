@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392808,
+  "name": "Final Fantasy VII",
+  "source_url": "https://www.igdb.com/games/final-fantasy-vii--11",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobnm9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Final Fantasy VII",
+      "os": null,
+      "method": "steam",
+      "launch_id": "39140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/39140",
+        "Linux": "setsid steam steam://rungameid/39140",
+        "macOS": "open steam://rungameid/39140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "final-fantasy-vii--11",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392808"
+}
