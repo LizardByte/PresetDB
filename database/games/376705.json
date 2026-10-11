@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376705,
+  "name": "Slime Saga",
+  "source_url": "https://www.igdb.com/games/slime-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatgy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slime Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4032230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4032230",
+        "Linux": "setsid steam steam://rungameid/4032230",
+        "macOS": "open steam://rungameid/4032230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slime-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376705"
+}
