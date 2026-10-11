@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399362,
+  "name": "Neo Titan",
+  "source_url": "https://www.igdb.com/games/neo-titan",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobz3d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neo Titan",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2401440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2401440",
+        "Linux": "setsid steam steam://rungameid/2401440",
+        "macOS": "open steam://rungameid/2401440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neo-titan",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399362"
+}
