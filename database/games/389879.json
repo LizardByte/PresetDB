@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389879,
+  "name": "Cozy Farm",
+  "source_url": "https://www.igdb.com/games/cozy-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj68.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4282830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4282830",
+        "Linux": "setsid steam steam://rungameid/4282830",
+        "macOS": "open steam://rungameid/4282830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389879"
+}
