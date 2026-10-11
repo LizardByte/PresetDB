@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384551,
+  "name": "Subspace Discovery",
+  "source_url": "https://www.igdb.com/games/subspace-discovery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8ft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Subspace Discovery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1717290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1717290",
+        "Linux": "setsid steam steam://rungameid/1717290",
+        "macOS": "open steam://rungameid/1717290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "subspace-discovery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384551"
+}
