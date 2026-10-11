@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412076,
+  "name": "Project: Melee Only",
+  "source_url": "https://www.igdb.com/games/project-melee-only",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclyq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project: Melee Only",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3716440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3716440",
+        "Linux": "setsid steam steam://rungameid/3716440",
+        "macOS": "open steam://rungameid/3716440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-melee-only",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412076"
+}
