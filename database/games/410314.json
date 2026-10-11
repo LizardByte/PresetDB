@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410314,
+  "name": "Flux Heroes",
+  "source_url": "https://www.igdb.com/games/flux-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cociu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flux Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4358420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4358420",
+        "Linux": "setsid steam steam://rungameid/4358420",
+        "macOS": "open steam://rungameid/4358420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flux-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410314"
+}
