@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395367,
+  "name": "Limbo",
+  "source_url": "https://www.igdb.com/games/limbo--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobssc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Limbo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3270520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3270520",
+        "Linux": "setsid steam steam://rungameid/3270520",
+        "macOS": "open steam://rungameid/3270520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "limbo--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395367"
+}
