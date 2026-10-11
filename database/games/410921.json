@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410921,
+  "name": "Someone's Here",
+  "source_url": "https://www.igdb.com/games/someones-here",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp8r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Someone's Here",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4914340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4914340",
+        "Linux": "setsid steam steam://rungameid/4914340",
+        "macOS": "open steam://rungameid/4914340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "someones-here",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410921"
+}
