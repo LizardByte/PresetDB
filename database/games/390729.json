@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390729,
+  "name": "Slide & Magic",
+  "source_url": "https://www.igdb.com/games/slide-and-magic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobosh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slide & Magic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4096950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4096950",
+        "Linux": "setsid steam steam://rungameid/4096950",
+        "macOS": "open steam://rungameid/4096950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slide-and-magic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390729"
+}
