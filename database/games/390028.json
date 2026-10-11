@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390028,
+  "name": "Keep It Contained",
+  "source_url": "https://www.igdb.com/games/keep-it-contained",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjbv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Keep It Contained",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4251090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4251090",
+        "Linux": "setsid steam steam://rungameid/4251090",
+        "macOS": "open steam://rungameid/4251090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "keep-it-contained",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390028"
+}
