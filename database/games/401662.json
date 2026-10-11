@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401662,
+  "name": "Faithfall",
+  "source_url": "https://www.igdb.com/games/faithfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc2g7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Faithfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3418100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3418100",
+        "Linux": "setsid steam steam://rungameid/3418100",
+        "macOS": "open steam://rungameid/3418100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "faithfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401662"
+}
