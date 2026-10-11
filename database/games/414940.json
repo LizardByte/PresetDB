@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414940,
+  "name": "Quinn",
+  "source_url": "https://www.igdb.com/games/quinn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrgc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quinn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5090560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5090560",
+        "Linux": "setsid steam steam://rungameid/5090560",
+        "macOS": "open steam://rungameid/5090560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quinn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414940"
+}
