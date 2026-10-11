@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404033,
+  "name": "Runeward Online",
+  "source_url": "https://www.igdb.com/games/runeward-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5q6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runeward Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4529850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4529850",
+        "Linux": "setsid steam steam://rungameid/4529850",
+        "macOS": "open steam://rungameid/4529850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runeward-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404033"
+}
