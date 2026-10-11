@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395589,
+  "name": "My Idle Witch",
+  "source_url": "https://www.igdb.com/games/my-idle-witch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobt9i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Idle Witch",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4302490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4302490",
+        "Linux": "setsid steam steam://rungameid/4302490",
+        "macOS": "open steam://rungameid/4302490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-idle-witch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395589"
+}
