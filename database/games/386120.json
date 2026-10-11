@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386120,
+  "name": "The Lost Painter",
+  "source_url": "https://www.igdb.com/games/the-lost-painter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobb5y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Lost Painter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3973630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3973630",
+        "Linux": "setsid steam steam://rungameid/3973630",
+        "macOS": "open steam://rungameid/3973630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-lost-painter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386120"
+}
