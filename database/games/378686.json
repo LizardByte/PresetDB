@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 378686,
+  "name": "Foggy Golf",
+  "source_url": "https://www.igdb.com/games/foggy-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaw0p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foggy Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4158380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4158380",
+        "Linux": "setsid steam steam://rungameid/4158380",
+        "macOS": "open steam://rungameid/4158380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foggy-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=378686"
+}
