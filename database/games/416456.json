@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416456,
+  "name": "Dub Rumble",
+  "source_url": "https://www.igdb.com/games/dub-rumble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocu4l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dub Rumble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5083150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5083150",
+        "Linux": "setsid steam steam://rungameid/5083150",
+        "macOS": "open steam://rungameid/5083150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dub-rumble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416456"
+}
