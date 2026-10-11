@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407158,
+  "name": "Pop! Pachinko",
+  "source_url": "https://www.igdb.com/games/pop-pachinko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9xf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pop! Pachinko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4437370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4437370",
+        "Linux": "setsid steam steam://rungameid/4437370",
+        "macOS": "open steam://rungameid/4437370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pop-pachinko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407158"
+}
