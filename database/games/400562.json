@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400562,
+  "name": "TicTacToeTwo",
+  "source_url": "https://www.igdb.com/games/tictactoetwo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0sd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TicTacToeTwo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3303950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3303950",
+        "Linux": "setsid steam steam://rungameid/3303950",
+        "macOS": "open steam://rungameid/3303950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tictactoetwo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400562"
+}
