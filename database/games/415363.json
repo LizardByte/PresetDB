@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415363,
+  "name": "Virtual Encore",
+  "source_url": "https://www.igdb.com/games/virtual-encore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs1w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Virtual Encore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4839020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4839020",
+        "Linux": "setsid steam steam://rungameid/4839020",
+        "macOS": "open steam://rungameid/4839020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "virtual-encore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415363"
+}
