@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408291,
+  "name": "Sticks and Stones",
+  "source_url": "https://www.igdb.com/games/sticks-and-stones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccbt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sticks and Stones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4722780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4722780",
+        "Linux": "setsid steam steam://rungameid/4722780",
+        "macOS": "open steam://rungameid/4722780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sticks-and-stones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408291"
+}
