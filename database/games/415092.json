@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415092,
+  "name": "BlazePunk",
+  "source_url": "https://www.igdb.com/games/blazepunk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrnl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlazePunk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4998330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4998330",
+        "Linux": "setsid steam steam://rungameid/4998330",
+        "macOS": "open steam://rungameid/4998330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blazepunk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415092"
+}
