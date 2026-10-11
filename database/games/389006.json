@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389006,
+  "name": "I Know a Guy",
+  "source_url": "https://www.igdb.com/games/i-know-a-guy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobh60.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Know a Guy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4173620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4173620",
+        "Linux": "setsid steam steam://rungameid/4173620",
+        "macOS": "open steam://rungameid/4173620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-know-a-guy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389006"
+}
