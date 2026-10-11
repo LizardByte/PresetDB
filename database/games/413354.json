@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413354,
+  "name": "Launch Them All",
+  "source_url": "https://www.igdb.com/games/launch-them-all",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocoj9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Launch Them All",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4527130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4527130",
+        "Linux": "setsid steam steam://rungameid/4527130",
+        "macOS": "open steam://rungameid/4527130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "launch-them-all",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413354"
+}
