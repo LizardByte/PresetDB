@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379827,
+  "name": "Echo Factory",
+  "source_url": "https://www.igdb.com/games/echo-factory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxmy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo Factory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4205450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4205450",
+        "Linux": "setsid steam steam://rungameid/4205450",
+        "macOS": "open steam://rungameid/4205450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echo-factory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379827"
+}
