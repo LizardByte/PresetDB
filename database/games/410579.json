@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410579,
+  "name": "Lettro",
+  "source_url": "https://www.igdb.com/games/lettro",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjb6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lettro",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4693380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4693380",
+        "Linux": "setsid steam steam://rungameid/4693380",
+        "macOS": "open steam://rungameid/4693380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lettro",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410579"
+}
