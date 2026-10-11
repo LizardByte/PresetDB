@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390883,
+  "name": "MysteryJars",
+  "source_url": "https://www.igdb.com/games/mysteryjars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkc1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MysteryJars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4043530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4043530",
+        "Linux": "setsid steam steam://rungameid/4043530",
+        "macOS": "open steam://rungameid/4043530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mysteryjars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390883"
+}
