@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393188,
+  "name": "Sheepfold",
+  "source_url": "https://www.igdb.com/games/sheepfold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobobr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sheepfold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4326420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4326420",
+        "Linux": "setsid steam steam://rungameid/4326420",
+        "macOS": "open steam://rungameid/4326420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sheepfold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393188"
+}
