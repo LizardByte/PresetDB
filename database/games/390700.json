@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390700,
+  "name": "Sheep & Love",
+  "source_url": "https://www.igdb.com/games/sheep-and-love",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sheep & Love",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4081220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4081220",
+        "Linux": "setsid steam steam://rungameid/4081220",
+        "macOS": "open steam://rungameid/4081220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sheep-and-love",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390700"
+}
