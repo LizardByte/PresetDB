@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404050,
+  "name": "Leafy Greenz",
+  "source_url": "https://www.igdb.com/games/leafy-greenz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5tf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leafy Greenz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4607520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4607520",
+        "Linux": "setsid steam steam://rungameid/4607520",
+        "macOS": "open steam://rungameid/4607520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leafy-greenz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404050"
+}
