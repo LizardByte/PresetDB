@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391571,
+  "name": "PC Versus",
+  "source_url": "https://www.igdb.com/games/pc-versus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl8z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PC Versus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3815360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3815360",
+        "Linux": "setsid steam steam://rungameid/3815360",
+        "macOS": "open steam://rungameid/3815360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pc-versus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391571"
+}
