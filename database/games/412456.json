@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412456,
+  "name": "Desktop Island: Idle Together!",
+  "source_url": "https://www.igdb.com/games/desktop-island-idle-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmpd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Island: Idle Together!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4275000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4275000",
+        "Linux": "setsid steam steam://rungameid/4275000",
+        "macOS": "open steam://rungameid/4275000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-island-idle-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412456"
+}
