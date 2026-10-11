@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386019,
+  "name": "Touhou Mistystory",
+  "source_url": "https://www.igdb.com/games/touhou-mistystory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaz6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Touhou Mistystory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4300320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4300320",
+        "Linux": "setsid steam steam://rungameid/4300320",
+        "macOS": "open steam://rungameid/4300320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "touhou-mistystory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386019"
+}
