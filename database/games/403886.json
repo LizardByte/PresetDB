@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403886,
+  "name": "Serve or Die",
+  "source_url": "https://www.igdb.com/games/serve-or-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5hh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Serve or Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4643930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4643930",
+        "Linux": "setsid steam steam://rungameid/4643930",
+        "macOS": "open steam://rungameid/4643930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "serve-or-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403886"
+}
