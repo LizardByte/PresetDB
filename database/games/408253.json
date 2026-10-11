@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408253,
+  "name": "Fablery",
+  "source_url": "https://www.igdb.com/games/fablery",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbkx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fablery",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3445440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3445440",
+        "Linux": "setsid steam steam://rungameid/3445440",
+        "macOS": "open steam://rungameid/3445440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fablery",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408253"
+}
