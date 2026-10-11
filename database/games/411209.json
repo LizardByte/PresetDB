@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411209,
+  "name": "Pot's On!",
+  "source_url": "https://www.igdb.com/games/pots-on",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockqi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pot's On!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4914600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4914600",
+        "Linux": "setsid steam steam://rungameid/4914600",
+        "macOS": "open steam://rungameid/4914600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pots-on",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411209"
+}
