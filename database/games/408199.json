@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408199,
+  "name": "Exoria",
+  "source_url": "https://www.igdb.com/games/exoria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbhv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exoria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4143020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4143020",
+        "Linux": "setsid steam steam://rungameid/4143020",
+        "macOS": "open steam://rungameid/4143020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exoria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408199"
+}
