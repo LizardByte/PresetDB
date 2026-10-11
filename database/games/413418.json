@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413418,
+  "name": "4am",
+  "source_url": "https://www.igdb.com/games/4am--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocoly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "4am",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4963870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4963870",
+        "Linux": "setsid steam steam://rungameid/4963870",
+        "macOS": "open steam://rungameid/4963870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "4am--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413418"
+}
