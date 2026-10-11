@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395296,
+  "name": "Not My Child",
+  "source_url": "https://www.igdb.com/games/not-my-child",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwnl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Not My Child",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4157670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4157670",
+        "Linux": "setsid steam steam://rungameid/4157670",
+        "macOS": "open steam://rungameid/4157670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "not-my-child",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395296"
+}
