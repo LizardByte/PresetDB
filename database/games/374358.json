@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374358,
+  "name": "DreamEcho",
+  "source_url": "https://www.igdb.com/games/dreamecho",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapnf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DreamEcho",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3226060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3226060",
+        "Linux": "setsid steam steam://rungameid/3226060",
+        "macOS": "open steam://rungameid/3226060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dreamecho",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374358"
+}
