@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393467,
+  "name": "Questinarium",
+  "source_url": "https://www.igdb.com/games/questinarium",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboxj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Questinarium",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1226070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1226070",
+        "Linux": "setsid steam steam://rungameid/1226070",
+        "macOS": "open steam://rungameid/1226070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "questinarium",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393467"
+}
