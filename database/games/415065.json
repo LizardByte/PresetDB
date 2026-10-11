@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415065,
+  "name": "From Below",
+  "source_url": "https://www.igdb.com/games/from-below--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs2s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "From Below",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4832070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4832070",
+        "Linux": "setsid steam steam://rungameid/4832070",
+        "macOS": "open steam://rungameid/4832070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "from-below--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415065"
+}
