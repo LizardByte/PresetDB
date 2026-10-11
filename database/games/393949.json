@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393949,
+  "name": "Reciros",
+  "source_url": "https://www.igdb.com/games/reciros",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpy1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Reciros",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4298210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4298210",
+        "Linux": "setsid steam steam://rungameid/4298210",
+        "macOS": "open steam://rungameid/4298210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "reciros",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393949"
+}
