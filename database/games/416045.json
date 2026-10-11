@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416045,
+  "name": "RippleLoop",
+  "source_url": "https://www.igdb.com/games/rippleloop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctf1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RippleLoop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3204820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3204820",
+        "Linux": "setsid steam steam://rungameid/3204820",
+        "macOS": "open steam://rungameid/3204820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rippleloop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416045"
+}
