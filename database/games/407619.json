@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407619,
+  "name": "Bloodstate",
+  "source_url": "https://www.igdb.com/games/bloodstate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocaoq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloodstate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3760840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3760840",
+        "Linux": "setsid steam steam://rungameid/3760840",
+        "macOS": "open steam://rungameid/3760840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bloodstate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407619"
+}
