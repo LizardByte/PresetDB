@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400821,
+  "name": "Curio Shop",
+  "source_url": "https://www.igdb.com/games/curio-shop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc16v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Curio Shop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4600020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4600020",
+        "Linux": "setsid steam steam://rungameid/4600020",
+        "macOS": "open steam://rungameid/4600020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "curio-shop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400821"
+}
