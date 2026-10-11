@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379834,
+  "name": "Idle Shooter",
+  "source_url": "https://www.igdb.com/games/idle-shooter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazxw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Shooter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4213940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4213940",
+        "Linux": "setsid steam steam://rungameid/4213940",
+        "macOS": "open steam://rungameid/4213940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-shooter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379834"
+}
