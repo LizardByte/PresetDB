@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385454,
+  "name": "Frozen Stillness",
+  "source_url": "https://www.igdb.com/games/frozen-stillness",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo43.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frozen Stillness",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4127000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4127000",
+        "Linux": "setsid steam steam://rungameid/4127000",
+        "macOS": "open steam://rungameid/4127000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frozen-stillness",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385454"
+}
