@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408209,
+  "name": "Hold The Line",
+  "source_url": "https://www.igdb.com/games/hold-the-line--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbik.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hold The Line",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4727880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4727880",
+        "Linux": "setsid steam steam://rungameid/4727880",
+        "macOS": "open steam://rungameid/4727880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hold-the-line--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408209"
+}
