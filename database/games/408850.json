@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408850,
+  "name": "Corrupt.exe",
+  "source_url": "https://www.igdb.com/games/corrupt-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccmh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Corrupt.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4853590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4853590",
+        "Linux": "setsid steam steam://rungameid/4853590",
+        "macOS": "open steam://rungameid/4853590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "corrupt-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408850"
+}
