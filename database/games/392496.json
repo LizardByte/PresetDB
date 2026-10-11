@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392496,
+  "name": "Get Gem",
+  "source_url": "https://www.igdb.com/games/get-gem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmkf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Gem",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1265140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1265140",
+        "Linux": "setsid steam steam://rungameid/1265140",
+        "macOS": "open steam://rungameid/1265140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-gem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392496"
+}
