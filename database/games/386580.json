@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386580,
+  "name": "Shinobi",
+  "source_url": "https://www.igdb.com/games/shinobi--11",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbvp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shinobi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2784740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2784740",
+        "Linux": "setsid steam steam://rungameid/2784740",
+        "macOS": "open steam://rungameid/2784740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shinobi--11",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386580"
+}
