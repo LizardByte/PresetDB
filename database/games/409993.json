@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409993,
+  "name": "Turbo Turkey",
+  "source_url": "https://www.igdb.com/games/turbo-turkey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdyz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Turbo Turkey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4635950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4635950",
+        "Linux": "setsid steam steam://rungameid/4635950",
+        "macOS": "open steam://rungameid/4635950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "turbo-turkey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409993"
+}
