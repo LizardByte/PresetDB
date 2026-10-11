@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408557,
+  "name": "Doppler",
+  "source_url": "https://www.igdb.com/games/doppler",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocc3v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doppler",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4319530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4319530",
+        "Linux": "setsid steam steam://rungameid/4319530",
+        "macOS": "open steam://rungameid/4319530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doppler",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408557"
+}
