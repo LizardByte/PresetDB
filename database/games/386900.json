@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386900,
+  "name": "Mice Crisis",
+  "source_url": "https://www.igdb.com/games/mice-crisis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcfn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mice Crisis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4181830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4181830",
+        "Linux": "setsid steam steam://rungameid/4181830",
+        "macOS": "open steam://rungameid/4181830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mice-crisis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386900"
+}
