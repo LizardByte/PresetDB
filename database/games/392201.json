@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392201,
+  "name": "Alex & Arty",
+  "source_url": "https://www.igdb.com/games/alex-and-arty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm1h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alex & Arty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2854800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2854800",
+        "Linux": "setsid steam steam://rungameid/2854800",
+        "macOS": "open steam://rungameid/2854800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alex-and-arty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392201"
+}
