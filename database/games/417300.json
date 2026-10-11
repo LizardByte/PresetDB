@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417300,
+  "name": "Emberwall",
+  "source_url": "https://www.igdb.com/games/emberwall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvhg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emberwall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5184210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5184210",
+        "Linux": "setsid steam steam://rungameid/5184210",
+        "macOS": "open steam://rungameid/5184210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emberwall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417300"
+}
