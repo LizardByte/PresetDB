@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377839,
+  "name": "Dune Raider",
+  "source_url": "https://www.igdb.com/games/dune-raider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob287.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dune Raider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2659470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2659470",
+        "Linux": "setsid steam steam://rungameid/2659470",
+        "macOS": "open steam://rungameid/2659470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dune-raider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377839"
+}
