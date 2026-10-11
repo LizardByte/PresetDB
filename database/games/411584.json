@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411584,
+  "name": "Titanic Escape Simulator",
+  "source_url": "https://www.igdb.com/games/titanic-escape-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocm0l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Titanic Escape Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4645360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4645360",
+        "Linux": "setsid steam steam://rungameid/4645360",
+        "macOS": "open steam://rungameid/4645360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "titanic-escape-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411584"
+}
