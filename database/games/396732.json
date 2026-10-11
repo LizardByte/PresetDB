@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396732,
+  "name": "Resident Evil",
+  "source_url": "https://www.igdb.com/games/resident-evil--9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobv5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Resident Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4249100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4249100",
+        "Linux": "setsid steam steam://rungameid/4249100",
+        "macOS": "open steam://rungameid/4249100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "resident-evil--9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396732"
+}
