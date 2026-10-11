@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404401,
+  "name": "College Quest",
+  "source_url": "https://www.igdb.com/games/college-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc6g4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "College Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4761980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4761980",
+        "Linux": "setsid steam steam://rungameid/4761980",
+        "macOS": "open steam://rungameid/4761980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "college-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404401"
+}
