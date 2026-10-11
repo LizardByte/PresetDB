@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398611,
+  "name": "Test Release Do Not Buy!!!",
+  "source_url": "https://www.igdb.com/games/test-release-do-not-buy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxud.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Test Release Do Not Buy!!!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4059350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4059350",
+        "Linux": "setsid steam steam://rungameid/4059350",
+        "macOS": "open steam://rungameid/4059350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "test-release-do-not-buy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398611"
+}
