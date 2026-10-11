@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408457,
+  "name": "Doorcrash!",
+  "source_url": "https://www.igdb.com/games/doorcrash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbzx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Doorcrash!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4619730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4619730",
+        "Linux": "setsid steam steam://rungameid/4619730",
+        "macOS": "open steam://rungameid/4619730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "doorcrash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408457"
+}
