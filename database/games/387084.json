@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387084,
+  "name": "Get Clucked",
+  "source_url": "https://www.igdb.com/games/get-clucked",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcz7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Clucked",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4010150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4010150",
+        "Linux": "setsid steam steam://rungameid/4010150",
+        "macOS": "open steam://rungameid/4010150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-clucked",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387084"
+}
