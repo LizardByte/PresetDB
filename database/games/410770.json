@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410770,
+  "name": "Kitty Clicker",
+  "source_url": "https://www.igdb.com/games/kitty-clicker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjp6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitty Clicker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3210390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3210390",
+        "Linux": "setsid steam steam://rungameid/3210390",
+        "macOS": "open steam://rungameid/3210390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kitty-clicker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410770"
+}
