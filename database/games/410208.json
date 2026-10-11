@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410208,
+  "name": "Portal Together",
+  "source_url": "https://www.igdb.com/games/portal-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cociku.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Portal Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4204600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4204600",
+        "Linux": "setsid steam steam://rungameid/4204600",
+        "macOS": "open steam://rungameid/4204600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "portal-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410208"
+}
