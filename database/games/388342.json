@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388342,
+  "name": "Shadowstone",
+  "source_url": "https://www.igdb.com/games/shadowstone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfjd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadowstone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4180840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4180840",
+        "Linux": "setsid steam steam://rungameid/4180840",
+        "macOS": "open steam://rungameid/4180840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadowstone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388342"
+}
