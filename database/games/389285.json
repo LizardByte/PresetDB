@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389285,
+  "name": "Xdding",
+  "source_url": "https://www.igdb.com/games/xdding",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhuj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Xdding",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2242320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2242320",
+        "Linux": "setsid steam steam://rungameid/2242320",
+        "macOS": "open steam://rungameid/2242320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "xdding",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389285"
+}
