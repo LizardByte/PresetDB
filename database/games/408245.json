@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408245,
+  "name": "Scarlet Idol",
+  "source_url": "https://www.igdb.com/games/scarlet-idol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbkl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Scarlet Idol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3513600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3513600",
+        "Linux": "setsid steam steam://rungameid/3513600",
+        "macOS": "open steam://rungameid/3513600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "scarlet-idol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408245"
+}
