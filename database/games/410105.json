@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410105,
+  "name": "Monkey Business",
+  "source_url": "https://www.igdb.com/games/monkey-business--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockee.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Monkey Business",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2381690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2381690",
+        "Linux": "setsid steam steam://rungameid/2381690",
+        "macOS": "open steam://rungameid/2381690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "monkey-business--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410105"
+}
