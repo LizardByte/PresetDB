@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382198,
+  "name": "Ars Mechanica",
+  "source_url": "https://www.igdb.com/games/ars-mechanica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs7a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ars Mechanica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4223200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4223200",
+        "Linux": "setsid steam steam://rungameid/4223200",
+        "macOS": "open steam://rungameid/4223200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ars-mechanica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382198"
+}
