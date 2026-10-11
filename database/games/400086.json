@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400086,
+  "name": "S.O.R.N.",
+  "source_url": "https://www.igdb.com/games/sorn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc01z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "S.O.R.N.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4606740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4606740",
+        "Linux": "setsid steam steam://rungameid/4606740",
+        "macOS": "open steam://rungameid/4606740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sorn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400086"
+}
