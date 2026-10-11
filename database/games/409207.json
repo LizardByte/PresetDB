@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409207,
+  "name": "System_Reboot",
+  "source_url": "https://www.igdb.com/games/system-reboot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "System_Reboot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4809000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4809000",
+        "Linux": "setsid steam steam://rungameid/4809000",
+        "macOS": "open steam://rungameid/4809000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "system-reboot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409207"
+}
