@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412153,
+  "name": "Ladder Lad",
+  "source_url": "https://www.igdb.com/games/ladder-lad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocm46.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ladder Lad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3871300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3871300",
+        "Linux": "setsid steam steam://rungameid/3871300",
+        "macOS": "open steam://rungameid/3871300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ladder-lad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412153"
+}
