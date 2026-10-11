@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408327,
+  "name": "Count Down",
+  "source_url": "https://www.igdb.com/games/count-down--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbse.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Count Down",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4801780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4801780",
+        "Linux": "setsid steam steam://rungameid/4801780",
+        "macOS": "open steam://rungameid/4801780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "count-down--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408327"
+}
