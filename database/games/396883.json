@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396883,
+  "name": "Direland",
+  "source_url": "https://www.igdb.com/games/direland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobv9j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Direland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4414860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4414860",
+        "Linux": "setsid steam steam://rungameid/4414860",
+        "macOS": "open steam://rungameid/4414860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "direland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396883"
+}
