@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416101,
+  "name": "Maneater 2",
+  "source_url": "https://www.igdb.com/games/maneater-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctj8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Maneater 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3603000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3603000",
+        "Linux": "setsid steam steam://rungameid/3603000",
+        "macOS": "open steam://rungameid/3603000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "maneater-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416101"
+}
