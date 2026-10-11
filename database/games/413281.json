@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413281,
+  "name": "Five Feet",
+  "source_url": "https://www.igdb.com/games/five-feet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocoer.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Five Feet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4415290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4415290",
+        "Linux": "setsid steam steam://rungameid/4415290",
+        "macOS": "open steam://rungameid/4415290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "five-feet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413281"
+}
