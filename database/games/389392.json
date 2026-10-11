@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389392,
+  "name": "Brick by Brick",
+  "source_url": "https://www.igdb.com/games/brick-by-brick",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm3q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brick by Brick",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3726970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3726970",
+        "Linux": "setsid steam steam://rungameid/3726970",
+        "macOS": "open steam://rungameid/3726970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brick-by-brick",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389392"
+}
