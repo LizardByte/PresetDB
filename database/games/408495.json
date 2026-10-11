@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408495,
+  "name": "Nymble 2",
+  "source_url": "https://www.igdb.com/games/nymble-2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccbm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nymble 2",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4709520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4709520",
+        "Linux": "setsid steam steam://rungameid/4709520",
+        "macOS": "open steam://rungameid/4709520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nymble-2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408495"
+}
