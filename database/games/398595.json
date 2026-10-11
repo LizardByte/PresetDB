@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398595,
+  "name": "Cloud Server Simulator",
+  "source_url": "https://www.igdb.com/games/cloud-server-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxxn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloud Server Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3986590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3986590",
+        "Linux": "setsid steam steam://rungameid/3986590",
+        "macOS": "open steam://rungameid/3986590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cloud-server-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398595"
+}
