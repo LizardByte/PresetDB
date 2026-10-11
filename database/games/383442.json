@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383442,
+  "name": "Wireworks",
+  "source_url": "https://www.igdb.com/games/wireworks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboid.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wireworks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4206270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4206270",
+        "Linux": "setsid steam steam://rungameid/4206270",
+        "macOS": "open steam://rungameid/4206270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wireworks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383442"
+}
