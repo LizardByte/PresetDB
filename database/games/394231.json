@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 394231,
+  "name": "BASED",
+  "source_url": "https://www.igdb.com/games/based",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqg1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BASED",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4015070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4015070",
+        "Linux": "setsid steam steam://rungameid/4015070",
+        "macOS": "open steam://rungameid/4015070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "based",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=394231"
+}
