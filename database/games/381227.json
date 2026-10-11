@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381227,
+  "name": "Gang of Dragon",
+  "source_url": "https://www.igdb.com/games/gang-of-dragon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0gh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gang of Dragon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4146000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4146000",
+        "Linux": "setsid steam steam://rungameid/4146000",
+        "macOS": "open steam://rungameid/4146000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gang-of-dragon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381227"
+}
