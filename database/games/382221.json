@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382221,
+  "name": "P.I.S.",
+  "source_url": "https://www.igdb.com/games/pis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2yx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "P.I.S.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4025420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4025420",
+        "Linux": "setsid steam steam://rungameid/4025420",
+        "macOS": "open steam://rungameid/4025420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382221"
+}
