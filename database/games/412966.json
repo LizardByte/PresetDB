@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412966,
+  "name": "Donald Jump",
+  "source_url": "https://www.igdb.com/games/donald-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnlq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Donald Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3601210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3601210",
+        "Linux": "setsid steam steam://rungameid/3601210",
+        "macOS": "open steam://rungameid/3601210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "donald-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412966"
+}
