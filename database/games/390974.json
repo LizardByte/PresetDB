@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390974,
+  "name": "Iris",
+  "source_url": "https://www.igdb.com/games/iris--5",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobugu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4038430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4038430",
+        "Linux": "setsid steam steam://rungameid/4038430",
+        "macOS": "open steam://rungameid/4038430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iris--5",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390974"
+}
