@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377040,
+  "name": "Campfire with Cat",
+  "source_url": "https://www.igdb.com/games/campfire-with-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatt9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Campfire with Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4008490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4008490",
+        "Linux": "setsid steam steam://rungameid/4008490",
+        "macOS": "open steam://rungameid/4008490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "campfire-with-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377040"
+}
