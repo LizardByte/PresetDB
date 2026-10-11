@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377036,
+  "name": "Blade.exe",
+  "source_url": "https://www.igdb.com/games/blade-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatt6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blade.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4132800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4132800",
+        "Linux": "setsid steam steam://rungameid/4132800",
+        "macOS": "open steam://rungameid/4132800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blade-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377036"
+}
