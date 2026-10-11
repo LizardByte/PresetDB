@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 394333,
+  "name": "Armageddon",
+  "source_url": "https://www.igdb.com/games/armageddon--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobqnm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Armageddon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2244360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2244360",
+        "Linux": "setsid steam steam://rungameid/2244360",
+        "macOS": "open steam://rungameid/2244360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "armageddon--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=394333"
+}
