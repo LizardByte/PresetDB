@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413540,
+  "name": "Nazi Zombies",
+  "source_url": "https://www.igdb.com/games/nazi-zombies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocr5h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nazi Zombies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3044350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3044350",
+        "Linux": "setsid steam steam://rungameid/3044350",
+        "macOS": "open steam://rungameid/3044350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nazi-zombies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413540"
+}
