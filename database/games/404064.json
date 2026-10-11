@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404064,
+  "name": "Galaxy Card Game",
+  "source_url": "https://www.igdb.com/games/galaxy-card-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5r2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Galaxy Card Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4039420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4039420",
+        "Linux": "setsid steam steam://rungameid/4039420",
+        "macOS": "open steam://rungameid/4039420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "galaxy-card-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404064"
+}
