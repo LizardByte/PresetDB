@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386504,
+  "name": "Bump Guardian",
+  "source_url": "https://www.igdb.com/games/bump-guardian",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctcx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bump Guardian",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4328670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4328670",
+        "Linux": "setsid steam steam://rungameid/4328670",
+        "macOS": "open steam://rungameid/4328670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bump-guardian",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386504"
+}
