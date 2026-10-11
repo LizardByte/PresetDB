@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404512,
+  "name": "MoSimulator",
+  "source_url": "https://www.igdb.com/games/mosimulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc6fv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MoSimulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4398690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4398690",
+        "Linux": "setsid steam steam://rungameid/4398690",
+        "macOS": "open steam://rungameid/4398690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mosimulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404512"
+}
