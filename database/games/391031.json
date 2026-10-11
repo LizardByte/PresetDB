@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391031,
+  "name": "Make Magic Great Again",
+  "source_url": "https://www.igdb.com/games/make-magic-great-again",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkif.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Make Magic Great Again",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4020120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4020120",
+        "Linux": "setsid steam steam://rungameid/4020120",
+        "macOS": "open steam://rungameid/4020120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "make-magic-great-again",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391031"
+}
