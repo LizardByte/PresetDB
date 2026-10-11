@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412651,
+  "name": "Flip",
+  "source_url": "https://www.igdb.com/games/flip--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocn2x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4871370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4871370",
+        "Linux": "setsid steam steam://rungameid/4871370",
+        "macOS": "open steam://rungameid/4871370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flip--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412651"
+}
