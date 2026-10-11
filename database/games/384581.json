@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384581,
+  "name": "Silicon Girl",
+  "source_url": "https://www.igdb.com/games/silicon-girl",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob8hb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Silicon Girl",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4025520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4025520",
+        "Linux": "setsid steam steam://rungameid/4025520",
+        "macOS": "open steam://rungameid/4025520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "silicon-girl",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384581"
+}
