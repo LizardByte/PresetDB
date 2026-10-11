@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400020,
+  "name": "Minikin",
+  "source_url": "https://www.igdb.com/games/minikin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzzd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Minikin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4531600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4531600",
+        "Linux": "setsid steam steam://rungameid/4531600",
+        "macOS": "open steam://rungameid/4531600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "minikin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400020"
+}
