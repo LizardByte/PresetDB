@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406299,
+  "name": "Snap the Cat",
+  "source_url": "https://www.igdb.com/games/snap-the-cat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs5p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snap the Cat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4539530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4539530",
+        "Linux": "setsid steam steam://rungameid/4539530",
+        "macOS": "open steam://rungameid/4539530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snap-the-cat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406299"
+}
