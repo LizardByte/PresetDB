@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396293,
+  "name": "Bommy",
+  "source_url": "https://www.igdb.com/games/bommy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobu7w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bommy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3774860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3774860",
+        "Linux": "setsid steam steam://rungameid/3774860",
+        "macOS": "open steam://rungameid/3774860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bommy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396293"
+}
