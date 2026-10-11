@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396664,
+  "name": "RuneKeeper",
+  "source_url": "https://www.igdb.com/games/runekeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobuzr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "RuneKeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4556180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4556180",
+        "Linux": "setsid steam steam://rungameid/4556180",
+        "macOS": "open steam://rungameid/4556180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runekeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396664"
+}
