@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408921,
+  "name": "The Legend of Fireball",
+  "source_url": "https://www.igdb.com/games/the-legend-of-fireball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccwx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Legend of Fireball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4916220",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4916220",
+        "Linux": "setsid steam steam://rungameid/4916220",
+        "macOS": "open steam://rungameid/4916220"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-legend-of-fireball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408921"
+}
