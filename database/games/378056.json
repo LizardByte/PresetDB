@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 378056,
+  "name": "Gridvania",
+  "source_url": "https://www.igdb.com/games/gridvania",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coauzd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gridvania",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3303560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3303560",
+        "Linux": "setsid steam steam://rungameid/3303560",
+        "macOS": "open steam://rungameid/3303560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gridvania",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=378056"
+}
