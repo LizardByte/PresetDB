@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391476,
+  "name": "Satsuman",
+  "source_url": "https://www.igdb.com/games/satsuman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobodg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Satsuman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3871890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3871890",
+        "Linux": "setsid steam steam://rungameid/3871890",
+        "macOS": "open steam://rungameid/3871890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "satsuman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391476"
+}
