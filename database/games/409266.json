@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409266,
+  "name": "Motherheart",
+  "source_url": "https://www.igdb.com/games/motherheart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocd65.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Motherheart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4812900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4812900",
+        "Linux": "setsid steam steam://rungameid/4812900",
+        "macOS": "open steam://rungameid/4812900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "motherheart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409266"
+}
