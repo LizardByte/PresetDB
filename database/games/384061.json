@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384061,
+  "name": "The Bubonicz",
+  "source_url": "https://www.igdb.com/games/the-bubonicz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob74q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Bubonicz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3746660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3746660",
+        "Linux": "setsid steam steam://rungameid/3746660",
+        "macOS": "open steam://rungameid/3746660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-bubonicz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384061"
+}
