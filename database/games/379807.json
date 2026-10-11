@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379807,
+  "name": "Pop to Win",
+  "source_url": "https://www.igdb.com/games/pop-to-win",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax68.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pop to Win",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4196290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4196290",
+        "Linux": "setsid steam steam://rungameid/4196290",
+        "macOS": "open steam://rungameid/4196290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pop-to-win",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379807"
+}
