@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383915,
+  "name": "Cambion",
+  "source_url": "https://www.igdb.com/games/cambion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ne.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cambion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3235540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3235540",
+        "Linux": "setsid steam steam://rungameid/3235540",
+        "macOS": "open steam://rungameid/3235540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cambion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383915"
+}
