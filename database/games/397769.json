@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397769,
+  "name": "Bonereader",
+  "source_url": "https://www.igdb.com/games/bonereader",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwgg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bonereader",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4240080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4240080",
+        "Linux": "setsid steam steam://rungameid/4240080",
+        "macOS": "open steam://rungameid/4240080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bonereader",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397769"
+}
