@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389934,
+  "name": "Retired",
+  "source_url": "https://www.igdb.com/games/retired",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj7z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Retired",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4272080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4272080",
+        "Linux": "setsid steam steam://rungameid/4272080",
+        "macOS": "open steam://rungameid/4272080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "retired",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389934"
+}
