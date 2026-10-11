@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405782,
+  "name": "Somnus Corporation",
+  "source_url": "https://www.igdb.com/games/somnus-corporation",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocc82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Somnus Corporation",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4576570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4576570",
+        "Linux": "setsid steam steam://rungameid/4576570",
+        "macOS": "open steam://rungameid/4576570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "somnus-corporation",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405782"
+}
