@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387375,
+  "name": "Callus",
+  "source_url": "https://www.igdb.com/games/callus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobden.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Callus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4258330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4258330",
+        "Linux": "setsid steam steam://rungameid/4258330",
+        "macOS": "open steam://rungameid/4258330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "callus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387375"
+}
