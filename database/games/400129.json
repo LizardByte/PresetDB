@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400129,
+  "name": "Drift",
+  "source_url": "https://www.igdb.com/games/drift--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc04c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Drift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4379180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4379180",
+        "Linux": "setsid steam steam://rungameid/4379180",
+        "macOS": "open steam://rungameid/4379180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "drift--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400129"
+}
