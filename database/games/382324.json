@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382324,
+  "name": "Mutant Survivors",
+  "source_url": "https://www.igdb.com/games/mutant-survivors",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob322.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mutant Survivors",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4258800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4258800",
+        "Linux": "setsid steam steam://rungameid/4258800",
+        "macOS": "open steam://rungameid/4258800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mutant-survivors",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382324"
+}
