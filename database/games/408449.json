@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408449,
+  "name": "Around The Core",
+  "source_url": "https://www.igdb.com/games/around-the-core",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbzo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Around The Core",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4300950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4300950",
+        "Linux": "setsid steam steam://rungameid/4300950",
+        "macOS": "open steam://rungameid/4300950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "around-the-core",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408449"
+}
