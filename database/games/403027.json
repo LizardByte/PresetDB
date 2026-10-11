@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403027,
+  "name": "Spooker",
+  "source_url": "https://www.igdb.com/games/spooker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc48z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spooker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4571310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4571310",
+        "Linux": "setsid steam steam://rungameid/4571310",
+        "macOS": "open steam://rungameid/4571310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spooker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403027"
+}
