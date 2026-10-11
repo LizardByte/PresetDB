@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391939,
+  "name": "Bash Moto",
+  "source_url": "https://www.igdb.com/games/bash-moto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm4x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bash Moto",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4227280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4227280",
+        "Linux": "setsid steam steam://rungameid/4227280",
+        "macOS": "open steam://rungameid/4227280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bash-moto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391939"
+}
