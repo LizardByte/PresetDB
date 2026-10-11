@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411416,
+  "name": "Dream Game",
+  "source_url": "https://www.igdb.com/games/dream-game--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cockoh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dream Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4727680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4727680",
+        "Linux": "setsid steam steam://rungameid/4727680",
+        "macOS": "open steam://rungameid/4727680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dream-game--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411416"
+}
