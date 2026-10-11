@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412007,
+  "name": "Trance World",
+  "source_url": "https://www.igdb.com/games/trance-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocltf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trance World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4847120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4847120",
+        "Linux": "setsid steam steam://rungameid/4847120",
+        "macOS": "open steam://rungameid/4847120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trance-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412007"
+}
