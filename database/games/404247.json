@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404247,
+  "name": "Foxfire",
+  "source_url": "https://www.igdb.com/games/foxfire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc64s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foxfire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4714090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4714090",
+        "Linux": "setsid steam steam://rungameid/4714090",
+        "macOS": "open steam://rungameid/4714090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foxfire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404247"
+}
