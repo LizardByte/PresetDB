@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391374,
+  "name": "Project Damascus",
+  "source_url": "https://www.igdb.com/games/project-damascus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmhd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Damascus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3929100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3929100",
+        "Linux": "setsid steam steam://rungameid/3929100",
+        "macOS": "open steam://rungameid/3929100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-damascus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391374"
+}
