@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405405,
+  "name": "Bloodshot",
+  "source_url": "https://www.igdb.com/games/bloodshot--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp23.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bloodshot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4651520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4651520",
+        "Linux": "setsid steam steam://rungameid/4651520",
+        "macOS": "open steam://rungameid/4651520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bloodshot--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405405"
+}
