@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402117,
+  "name": "Kill -9",
+  "source_url": "https://www.igdb.com/games/kill-9",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc2zh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill -9",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4610000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4610000",
+        "Linux": "setsid steam steam://rungameid/4610000",
+        "macOS": "open steam://rungameid/4610000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-9",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402117"
+}
