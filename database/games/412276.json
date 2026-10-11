@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412276,
+  "name": "Oasis of Lilies",
+  "source_url": "https://www.igdb.com/games/oasis-of-lilies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmco.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oasis of Lilies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3889840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3889840",
+        "Linux": "setsid steam steam://rungameid/3889840",
+        "macOS": "open steam://rungameid/3889840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oasis-of-lilies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412276"
+}
