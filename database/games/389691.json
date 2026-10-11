@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389691,
+  "name": "4Below",
+  "source_url": "https://www.igdb.com/games/4below",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobw2h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "4Below",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4300260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4300260",
+        "Linux": "setsid steam steam://rungameid/4300260",
+        "macOS": "open steam://rungameid/4300260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "4below",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389691"
+}
