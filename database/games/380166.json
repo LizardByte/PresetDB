@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380166,
+  "name": "Intervoid",
+  "source_url": "https://www.igdb.com/games/intervoid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxq8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Intervoid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3985880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3985880",
+        "Linux": "setsid steam steam://rungameid/3985880",
+        "macOS": "open steam://rungameid/3985880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "intervoid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380166"
+}
