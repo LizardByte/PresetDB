@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391118,
+  "name": "His World",
+  "source_url": "https://www.igdb.com/games/his-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkp4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "His World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4004680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4004680",
+        "Linux": "setsid steam steam://rungameid/4004680",
+        "macOS": "open steam://rungameid/4004680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "his-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391118"
+}
