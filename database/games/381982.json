@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381982,
+  "name": "Ratdoodle Adventure",
+  "source_url": "https://www.igdb.com/games/ratdoodle-adventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob2et.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ratdoodle Adventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4026900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4026900",
+        "Linux": "setsid steam steam://rungameid/4026900",
+        "macOS": "open steam://rungameid/4026900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ratdoodle-adventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381982"
+}
