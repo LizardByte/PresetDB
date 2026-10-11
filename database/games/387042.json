@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387042,
+  "name": "Dark Descent",
+  "source_url": "https://www.igdb.com/games/dark-descent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcsm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Descent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3210260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3210260",
+        "Linux": "setsid steam steam://rungameid/3210260",
+        "macOS": "open steam://rungameid/3210260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-descent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387042"
+}
