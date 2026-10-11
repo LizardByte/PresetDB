@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389743,
+  "name": "Beat Your Boss",
+  "source_url": "https://www.igdb.com/games/beat-your-boss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj12.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Beat Your Boss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4291070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4291070",
+        "Linux": "setsid steam steam://rungameid/4291070",
+        "macOS": "open steam://rungameid/4291070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "beat-your-boss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389743"
+}
