@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380441,
+  "name": "Windrose",
+  "source_url": "https://www.igdb.com/games/windrose",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwn8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Windrose",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3041230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3041230",
+        "Linux": "setsid steam steam://rungameid/3041230",
+        "macOS": "open steam://rungameid/3041230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "windrose",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380441"
+}
