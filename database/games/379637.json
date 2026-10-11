@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379637,
+  "name": "What's the Password?",
+  "source_url": "https://www.igdb.com/games/whats-the-password",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax1s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "What's the Password?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4095490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4095490",
+        "Linux": "setsid steam steam://rungameid/4095490",
+        "macOS": "open steam://rungameid/4095490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whats-the-password",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379637"
+}
