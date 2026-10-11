@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412491,
+  "name": "Red Protocol",
+  "source_url": "https://www.igdb.com/games/red-protocol",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmrq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Red Protocol",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4589350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4589350",
+        "Linux": "setsid steam steam://rungameid/4589350",
+        "macOS": "open steam://rungameid/4589350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "red-protocol",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412491"
+}
