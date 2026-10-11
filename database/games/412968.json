@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412968,
+  "name": "Flying Wizards",
+  "source_url": "https://www.igdb.com/games/flying-wizards",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnlu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flying Wizards",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4075000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4075000",
+        "Linux": "setsid steam steam://rungameid/4075000",
+        "macOS": "open steam://rungameid/4075000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flying-wizards",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412968"
+}
