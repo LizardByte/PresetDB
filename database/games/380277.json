@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380277,
+  "name": "Do Not Fall",
+  "source_url": "https://www.igdb.com/games/do-not-fall--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Do Not Fall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3584900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3584900",
+        "Linux": "setsid steam steam://rungameid/3584900",
+        "macOS": "open steam://rungameid/3584900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "do-not-fall--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380277"
+}
