@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415180,
+  "name": "Escape from Playtime",
+  "source_url": "https://www.igdb.com/games/escape-from-playtime",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape from Playtime",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2087540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2087540",
+        "Linux": "setsid steam steam://rungameid/2087540",
+        "macOS": "open steam://rungameid/2087540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-from-playtime",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415180"
+}
