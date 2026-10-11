@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395930,
+  "name": "Sportia",
+  "source_url": "https://www.igdb.com/games/sportia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtuk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sportia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3897390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3897390",
+        "Linux": "setsid steam steam://rungameid/3897390",
+        "macOS": "open steam://rungameid/3897390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sportia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395930"
+}
