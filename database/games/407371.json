@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407371,
+  "name": "Basement Server Simulator",
+  "source_url": "https://www.igdb.com/games/basement-server-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccf8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Basement Server Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4464430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4464430",
+        "Linux": "setsid steam steam://rungameid/4464430",
+        "macOS": "open steam://rungameid/4464430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "basement-server-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407371"
+}
