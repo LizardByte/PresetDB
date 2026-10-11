@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395074,
+  "name": "Karkaba",
+  "source_url": "https://www.igdb.com/games/karkaba",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobte1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Karkaba",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4359120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4359120",
+        "Linux": "setsid steam steam://rungameid/4359120",
+        "macOS": "open steam://rungameid/4359120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "karkaba",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395074"
+}
