@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381294,
+  "name": "Val'ty",
+  "source_url": "https://www.igdb.com/games/valty",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob19f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Val'ty",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3860970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3860970",
+        "Linux": "setsid steam steam://rungameid/3860970",
+        "macOS": "open steam://rungameid/3860970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "valty",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381294"
+}
