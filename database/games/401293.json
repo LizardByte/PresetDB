@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401293,
+  "name": "Caliban",
+  "source_url": "https://www.igdb.com/games/caliban",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc212.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caliban",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4183980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4183980",
+        "Linux": "setsid steam steam://rungameid/4183980",
+        "macOS": "open steam://rungameid/4183980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "caliban",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401293"
+}
