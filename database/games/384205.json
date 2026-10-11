@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384205,
+  "name": "Hololive Dreams",
+  "source_url": "https://www.igdb.com/games/hololive-dreams",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnet.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hololive Dreams",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4282500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4282500",
+        "Linux": "setsid steam steam://rungameid/4282500",
+        "macOS": "open steam://rungameid/4282500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hololive-dreams",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384205"
+}
