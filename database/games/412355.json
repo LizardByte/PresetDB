@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412355,
+  "name": "Arcostate",
+  "source_url": "https://www.igdb.com/games/arcostate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmoq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcostate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5034430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5034430",
+        "Linux": "setsid steam steam://rungameid/5034430",
+        "macOS": "open steam://rungameid/5034430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcostate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412355"
+}
