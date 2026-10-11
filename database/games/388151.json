@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388151,
+  "name": "Meyow",
+  "source_url": "https://www.igdb.com/games/meyow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobeu7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Meyow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4208530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4208530",
+        "Linux": "setsid steam steam://rungameid/4208530",
+        "macOS": "open steam://rungameid/4208530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "meyow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388151"
+}
