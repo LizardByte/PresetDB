@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388136,
+  "name": "DeckLand",
+  "source_url": "https://www.igdb.com/games/deckland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobete.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeckLand",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2991450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2991450",
+        "Linux": "setsid steam steam://rungameid/2991450",
+        "macOS": "open steam://rungameid/2991450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deckland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388136"
+}
