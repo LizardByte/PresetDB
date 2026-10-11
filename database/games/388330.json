@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388330,
+  "name": "Desktop Mars",
+  "source_url": "https://www.igdb.com/games/desktop-mars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfen.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Mars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1895410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1895410",
+        "Linux": "setsid steam steam://rungameid/1895410",
+        "macOS": "open steam://rungameid/1895410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-mars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388330"
+}
