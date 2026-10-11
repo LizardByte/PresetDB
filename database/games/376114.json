@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376114,
+  "name": "A Happy Place",
+  "source_url": "https://www.igdb.com/games/a-happy-place",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Happy Place",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3433700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3433700",
+        "Linux": "setsid steam steam://rungameid/3433700",
+        "macOS": "open steam://rungameid/3433700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-happy-place",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376114"
+}
