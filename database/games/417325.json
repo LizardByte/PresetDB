@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417325,
+  "name": "The Decree",
+  "source_url": "https://www.igdb.com/games/the-decree",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvim.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Decree",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5183380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5183380",
+        "Linux": "setsid steam steam://rungameid/5183380",
+        "macOS": "open steam://rungameid/5183380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-decree",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417325"
+}
