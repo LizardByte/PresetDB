@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400507,
+  "name": "Nothing at Stake",
+  "source_url": "https://www.igdb.com/games/nothing-at-stake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0p6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nothing at Stake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3252750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3252750",
+        "Linux": "setsid steam steam://rungameid/3252750",
+        "macOS": "open steam://rungameid/3252750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nothing-at-stake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400507"
+}
