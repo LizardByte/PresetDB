@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410047,
+  "name": "Iron Fuse",
+  "source_url": "https://www.igdb.com/games/iron-fuse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coce2q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Fuse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3280820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3280820",
+        "Linux": "setsid steam steam://rungameid/3280820",
+        "macOS": "open steam://rungameid/3280820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-fuse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410047"
+}
