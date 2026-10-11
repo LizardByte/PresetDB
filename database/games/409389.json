@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409389,
+  "name": "Don’t Pull Me!",
+  "source_url": "https://www.igdb.com/games/dont-pull-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpf7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don’t Pull Me!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4423110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4423110",
+        "Linux": "setsid steam steam://rungameid/4423110",
+        "macOS": "open steam://rungameid/4423110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-pull-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409389"
+}
