@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387726,
+  "name": "Go To The Finish",
+  "source_url": "https://www.igdb.com/games/go-to-the-finish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobe20.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go To The Finish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4151060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4151060",
+        "Linux": "setsid steam steam://rungameid/4151060",
+        "macOS": "open steam://rungameid/4151060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-to-the-finish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387726"
+}
