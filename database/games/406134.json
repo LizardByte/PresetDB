@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406134,
+  "name": "Sneaky Bimbuls",
+  "source_url": "https://www.igdb.com/games/sneaky-bimbuls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocacf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sneaky Bimbuls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4502020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4502020",
+        "Linux": "setsid steam steam://rungameid/4502020",
+        "macOS": "open steam://rungameid/4502020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sneaky-bimbuls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406134"
+}
