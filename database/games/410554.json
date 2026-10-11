@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410554,
+  "name": "Brave Joe",
+  "source_url": "https://www.igdb.com/games/brave-joe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocj77.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Brave Joe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3347930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3347930",
+        "Linux": "setsid steam steam://rungameid/3347930",
+        "macOS": "open steam://rungameid/3347930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "brave-joe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410554"
+}
