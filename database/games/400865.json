@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400865,
+  "name": "Iron Legacy",
+  "source_url": "https://www.igdb.com/games/iron-legacy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc19b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Legacy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4426240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4426240",
+        "Linux": "setsid steam steam://rungameid/4426240",
+        "macOS": "open steam://rungameid/4426240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-legacy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400865"
+}
