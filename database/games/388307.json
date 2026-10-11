@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388307,
+  "name": "TrophyRC",
+  "source_url": "https://www.igdb.com/games/trophyrc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfbt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TrophyRC",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3115870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3115870",
+        "Linux": "setsid steam steam://rungameid/3115870",
+        "macOS": "open steam://rungameid/3115870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trophyrc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388307"
+}
