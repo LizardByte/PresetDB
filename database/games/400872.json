@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400872,
+  "name": "The Deepest Castle",
+  "source_url": "https://www.igdb.com/games/the-deepest-castle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc19m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Deepest Castle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4702000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4702000",
+        "Linux": "setsid steam steam://rungameid/4702000",
+        "macOS": "open steam://rungameid/4702000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-deepest-castle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400872"
+}
