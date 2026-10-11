@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413640,
+  "name": "Witchblood",
+  "source_url": "https://www.igdb.com/games/witchblood--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocp1l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Witchblood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3358340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3358340",
+        "Linux": "setsid steam steam://rungameid/3358340",
+        "macOS": "open steam://rungameid/3358340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "witchblood--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413640"
+}
