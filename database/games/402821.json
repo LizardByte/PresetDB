@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402821,
+  "name": "Puss in Box",
+  "source_url": "https://www.igdb.com/games/puss-in-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3wr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Puss in Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4474870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4474870",
+        "Linux": "setsid steam steam://rungameid/4474870",
+        "macOS": "open steam://rungameid/4474870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "puss-in-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402821"
+}
