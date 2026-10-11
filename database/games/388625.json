@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388625,
+  "name": "Skatr",
+  "source_url": "https://www.igdb.com/games/skatr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgfc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Skatr",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4047120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4047120",
+        "Linux": "setsid steam steam://rungameid/4047120",
+        "macOS": "open steam://rungameid/4047120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skatr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388625"
+}
