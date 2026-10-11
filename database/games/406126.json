@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406126,
+  "name": "Cloud Sculptor",
+  "source_url": "https://www.igdb.com/games/cloud-sculptor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv08.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cloud Sculptor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4101700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4101700",
+        "Linux": "setsid steam steam://rungameid/4101700",
+        "macOS": "open steam://rungameid/4101700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cloud-sculptor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406126"
+}
