@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 383153,
+  "name": "Amatsuko",
+  "source_url": "https://www.igdb.com/games/amatsuko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob4y9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Amatsuko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3816450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3816450",
+        "Linux": "setsid steam steam://rungameid/3816450",
+        "macOS": "open steam://rungameid/3816450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "amatsuko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=383153"
+}
