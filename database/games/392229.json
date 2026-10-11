@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392229,
+  "name": "Timeheist",
+  "source_url": "https://www.igdb.com/games/timeheist",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobo3n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Timeheist",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2569090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2569090",
+        "Linux": "setsid steam steam://rungameid/2569090",
+        "macOS": "open steam://rungameid/2569090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "timeheist",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392229"
+}
