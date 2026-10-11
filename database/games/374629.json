@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374629,
+  "name": "Loop My Crank",
+  "source_url": "https://www.igdb.com/games/loop-my-crank",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapxf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Loop My Crank",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3936880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3936880",
+        "Linux": "setsid steam steam://rungameid/3936880",
+        "macOS": "open steam://rungameid/3936880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "loop-my-crank",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374629"
+}
