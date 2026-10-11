@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407440,
+  "name": "Ignitement",
+  "source_url": "https://www.igdb.com/games/ignitement",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocao4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ignitement",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3845350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3845350",
+        "Linux": "setsid steam steam://rungameid/3845350",
+        "macOS": "open steam://rungameid/3845350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ignitement",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407440"
+}
