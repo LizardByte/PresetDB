@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414010,
+  "name": "Cat Mirror",
+  "source_url": "https://www.igdb.com/games/cat-mirror",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpkb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Mirror",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4396660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4396660",
+        "Linux": "setsid steam steam://rungameid/4396660",
+        "macOS": "open steam://rungameid/4396660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-mirror",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414010"
+}
