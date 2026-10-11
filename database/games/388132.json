@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388132,
+  "name": "DungeonOS",
+  "source_url": "https://www.igdb.com/games/dungeonos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobet6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DungeonOS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4221660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4221660",
+        "Linux": "setsid steam steam://rungameid/4221660",
+        "macOS": "open steam://rungameid/4221660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeonos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388132"
+}
