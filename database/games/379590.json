@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379590,
+  "name": "Sugar Service",
+  "source_url": "https://www.igdb.com/games/sugar-service",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax1z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sugar Service",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3644810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3644810",
+        "Linux": "setsid steam steam://rungameid/3644810",
+        "macOS": "open steam://rungameid/3644810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sugar-service",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379590"
+}
