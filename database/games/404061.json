@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404061,
+  "name": "Caverns of Evil",
+  "source_url": "https://www.igdb.com/games/caverns-of-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5ru.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caverns of Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1929380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1929380",
+        "Linux": "setsid steam steam://rungameid/1929380",
+        "macOS": "open steam://rungameid/1929380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "caverns-of-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404061"
+}
