@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414418,
+  "name": "Rat Farm",
+  "source_url": "https://www.igdb.com/games/rat-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocqgv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rat Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4083300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4083300",
+        "Linux": "setsid steam steam://rungameid/4083300",
+        "macOS": "open steam://rungameid/4083300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rat-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414418"
+}
