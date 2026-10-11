@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385345,
+  "name": "Bao Boi",
+  "source_url": "https://www.igdb.com/games/bao-boi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coba1x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bao Boi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3939630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3939630",
+        "Linux": "setsid steam steam://rungameid/3939630",
+        "macOS": "open steam://rungameid/3939630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bao-boi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385345"
+}
