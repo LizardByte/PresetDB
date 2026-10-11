@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384667,
+  "name": "Capper",
+  "source_url": "https://www.igdb.com/games/capper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobm6d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Capper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4279540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4279540",
+        "Linux": "setsid steam steam://rungameid/4279540",
+        "macOS": "open steam://rungameid/4279540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "capper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384667"
+}
