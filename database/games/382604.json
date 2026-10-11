@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382604,
+  "name": "Miney Golf",
+  "source_url": "https://www.igdb.com/games/miney-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob3px.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Miney Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4125280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4125280",
+        "Linux": "setsid steam steam://rungameid/4125280",
+        "macOS": "open steam://rungameid/4125280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "miney-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382604"
+}
