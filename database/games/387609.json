@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387609,
+  "name": "Legionbound",
+  "source_url": "https://www.igdb.com/games/legionbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdrf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Legionbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4283360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4283360",
+        "Linux": "setsid steam steam://rungameid/4283360",
+        "macOS": "open steam://rungameid/4283360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "legionbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387609"
+}
