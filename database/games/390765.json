@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390765,
+  "name": "The Last Mothership",
+  "source_url": "https://www.igdb.com/games/the-last-mothership",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzd8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Mothership",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4088300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4088300",
+        "Linux": "setsid steam steam://rungameid/4088300",
+        "macOS": "open steam://rungameid/4088300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-mothership",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390765"
+}
