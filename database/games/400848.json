@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400848,
+  "name": "Roomspeed",
+  "source_url": "https://www.igdb.com/games/roomspeed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc189.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roomspeed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4321280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4321280",
+        "Linux": "setsid steam steam://rungameid/4321280",
+        "macOS": "open steam://rungameid/4321280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roomspeed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400848"
+}
