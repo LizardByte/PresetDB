@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374975,
+  "name": "V.I.P Client",
+  "source_url": "https://www.igdb.com/games/vip-client",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaqft.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "V.I.P Client",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4023940",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4023940",
+        "Linux": "setsid steam steam://rungameid/4023940",
+        "macOS": "open steam://rungameid/4023940"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vip-client",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374975"
+}
