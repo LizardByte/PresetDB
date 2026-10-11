@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387551,
+  "name": "Urban Myth.exe",
+  "source_url": "https://www.igdb.com/games/urban-myth-dot-exe",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobdnb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Urban Myth.exe",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4173550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4173550",
+        "Linux": "setsid steam steam://rungameid/4173550",
+        "macOS": "open steam://rungameid/4173550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "urban-myth-dot-exe",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387551"
+}
