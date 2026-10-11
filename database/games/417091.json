@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417091,
+  "name": "Blue Sun",
+  "source_url": "https://www.igdb.com/games/blue-sun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod01t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blue Sun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5102930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5102930",
+        "Linux": "setsid steam steam://rungameid/5102930",
+        "macOS": "open steam://rungameid/5102930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blue-sun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417091"
+}
