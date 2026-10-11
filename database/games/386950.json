@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386950,
+  "name": "Spirit Talk",
+  "source_url": "https://www.igdb.com/games/spirit-talk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobcr1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spirit Talk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4002100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4002100",
+        "Linux": "setsid steam steam://rungameid/4002100",
+        "macOS": "open steam://rungameid/4002100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spirit-talk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386950"
+}
