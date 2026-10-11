@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399885,
+  "name": "SlapTrax",
+  "source_url": "https://www.igdb.com/games/slaptrax",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzsr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SlapTrax",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4092650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4092650",
+        "Linux": "setsid steam steam://rungameid/4092650",
+        "macOS": "open steam://rungameid/4092650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slaptrax",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399885"
+}
