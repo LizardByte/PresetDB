@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396639,
+  "name": "Mawgate",
+  "source_url": "https://www.igdb.com/games/mawgate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobuvk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mawgate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4566950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4566950",
+        "Linux": "setsid steam steam://rungameid/4566950",
+        "macOS": "open steam://rungameid/4566950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mawgate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396639"
+}
