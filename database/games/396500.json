@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396500,
+  "name": "For Me",
+  "source_url": "https://www.igdb.com/games/for-me",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobz5u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "For Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2092090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2092090",
+        "Linux": "setsid steam steam://rungameid/2092090",
+        "macOS": "open steam://rungameid/2092090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "for-me",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396500"
+}
