@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381202,
+  "name": "The Free Shepherd",
+  "source_url": "https://www.igdb.com/games/the-free-shepherd",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocu3l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Free Shepherd",
+      "os": null,
+      "method": "steam",
+      "launch_id": "939530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/939530",
+        "Linux": "setsid steam steam://rungameid/939530",
+        "macOS": "open steam://rungameid/939530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-free-shepherd",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381202"
+}
