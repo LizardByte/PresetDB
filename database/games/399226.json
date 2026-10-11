@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399226,
+  "name": "Blue Fury",
+  "source_url": "https://www.igdb.com/games/blue-fury",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobyyi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blue Fury",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4634590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4634590",
+        "Linux": "setsid steam steam://rungameid/4634590",
+        "macOS": "open steam://rungameid/4634590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blue-fury",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399226"
+}
