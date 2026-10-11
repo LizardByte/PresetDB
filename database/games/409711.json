@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409711,
+  "name": "Cube & Seek",
+  "source_url": "https://www.igdb.com/games/cube-and-seek",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdmc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cube & Seek",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3433080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3433080",
+        "Linux": "setsid steam steam://rungameid/3433080",
+        "macOS": "open steam://rungameid/3433080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cube-and-seek",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409711"
+}
