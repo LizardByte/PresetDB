@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396504,
+  "name": "Dice Heroes",
+  "source_url": "https://www.igdb.com/games/dice-heroes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobuog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dice Heroes",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4389530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4389530",
+        "Linux": "setsid steam steam://rungameid/4389530",
+        "macOS": "open steam://rungameid/4389530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dice-heroes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396504"
+}
