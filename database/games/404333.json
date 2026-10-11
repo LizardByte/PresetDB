@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 404333,
+  "name": "Echo Pandemic",
+  "source_url": "https://www.igdb.com/games/echo-pandemic",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc65r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo Pandemic",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4750700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4750700",
+        "Linux": "setsid steam steam://rungameid/4750700",
+        "macOS": "open steam://rungameid/4750700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echo-pandemic",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=404333"
+}
