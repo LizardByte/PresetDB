@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415275,
+  "name": "Tiny industry",
+  "source_url": "https://www.igdb.com/games/tiny-industry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocrx4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tiny industry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5020100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5020100",
+        "Linux": "setsid steam steam://rungameid/5020100",
+        "macOS": "open steam://rungameid/5020100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tiny-industry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415275"
+}
