@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 387312,
+  "name": "Something to Drink?",
+  "source_url": "https://www.igdb.com/games/something-to-drink",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocc8s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Something to Drink?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4121610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4121610",
+        "Linux": "setsid steam steam://rungameid/4121610",
+        "macOS": "open steam://rungameid/4121610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "something-to-drink",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=387312"
+}
