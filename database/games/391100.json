@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391100,
+  "name": "Hamstory",
+  "source_url": "https://www.igdb.com/games/hamstory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpj5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hamstory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4008550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4008550",
+        "Linux": "setsid steam steam://rungameid/4008550",
+        "macOS": "open steam://rungameid/4008550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hamstory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391100"
+}
