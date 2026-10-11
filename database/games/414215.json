@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414215,
+  "name": "Project Tomorrow",
+  "source_url": "https://www.igdb.com/games/project-tomorrow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocq60.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Tomorrow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4402200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4402200",
+        "Linux": "setsid steam steam://rungameid/4402200",
+        "macOS": "open steam://rungameid/4402200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-tomorrow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414215"
+}
