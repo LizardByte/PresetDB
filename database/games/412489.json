@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412489,
+  "name": "The Tower Must Fall",
+  "source_url": "https://www.igdb.com/games/the-tower-must-fall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnnl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Tower Must Fall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4483900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4483900",
+        "Linux": "setsid steam steam://rungameid/4483900",
+        "macOS": "open steam://rungameid/4483900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-tower-must-fall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412489"
+}
