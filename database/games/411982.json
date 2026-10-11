@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411982,
+  "name": "First Light",
+  "source_url": "https://www.igdb.com/games/first-light--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coct0z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "First Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4985080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4985080",
+        "Linux": "setsid steam steam://rungameid/4985080",
+        "macOS": "open steam://rungameid/4985080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "first-light--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411982"
+}
