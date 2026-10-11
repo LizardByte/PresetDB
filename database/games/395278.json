@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395278,
+  "name": "One Song, One Life",
+  "source_url": "https://www.igdb.com/games/one-song-one-life",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobsik.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One Song, One Life",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4101830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4101830",
+        "Linux": "setsid steam steam://rungameid/4101830",
+        "macOS": "open steam://rungameid/4101830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-song-one-life",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395278"
+}
