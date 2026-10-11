@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385001,
+  "name": "Last Fisherman",
+  "source_url": "https://www.igdb.com/games/last-fisherman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc2re.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Fisherman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4262030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4262030",
+        "Linux": "setsid steam steam://rungameid/4262030",
+        "macOS": "open steam://rungameid/4262030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-fisherman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385001"
+}
