@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386312,
+  "name": "Echo's Inc",
+  "source_url": "https://www.igdb.com/games/echos-inc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbk2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Echo's Inc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3039010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3039010",
+        "Linux": "setsid steam steam://rungameid/3039010",
+        "macOS": "open steam://rungameid/3039010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "echos-inc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386312"
+}
