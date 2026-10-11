@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401010,
+  "name": "Iron Bramble",
+  "source_url": "https://www.igdb.com/games/iron-bramble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1id.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Bramble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4328820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4328820",
+        "Linux": "setsid steam steam://rungameid/4328820",
+        "macOS": "open steam://rungameid/4328820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-bramble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401010"
+}
