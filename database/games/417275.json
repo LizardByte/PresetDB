@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417275,
+  "name": "Hockey Beasts",
+  "source_url": "https://www.igdb.com/games/hockey-beasts",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvyr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hockey Beasts",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5010400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5010400",
+        "Linux": "setsid steam steam://rungameid/5010400",
+        "macOS": "open steam://rungameid/5010400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hockey-beasts",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417275"
+}
