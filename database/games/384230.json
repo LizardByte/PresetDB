@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384230,
+  "name": "Dear Lighthouse",
+  "source_url": "https://www.igdb.com/games/dear-lighthouse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob812.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dear Lighthouse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4222270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4222270",
+        "Linux": "setsid steam steam://rungameid/4222270",
+        "macOS": "open steam://rungameid/4222270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dear-lighthouse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384230"
+}
