@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405150,
+  "name": "Signet City",
+  "source_url": "https://www.igdb.com/games/signet-city",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc784.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Signet City",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4582880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4582880",
+        "Linux": "setsid steam steam://rungameid/4582880",
+        "macOS": "open steam://rungameid/4582880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "signet-city",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405150"
+}
