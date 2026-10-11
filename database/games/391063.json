@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391063,
+  "name": "Netoo",
+  "source_url": "https://www.igdb.com/games/netoo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobp7r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Netoo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4017520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4017520",
+        "Linux": "setsid steam steam://rungameid/4017520",
+        "macOS": "open steam://rungameid/4017520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "netoo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391063"
+}
