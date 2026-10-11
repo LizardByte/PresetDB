@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402223,
+  "name": "Toss",
+  "source_url": "https://www.igdb.com/games/toss--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc34j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4579360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4579360",
+        "Linux": "setsid steam steam://rungameid/4579360",
+        "macOS": "open steam://rungameid/4579360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toss--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402223"
+}
