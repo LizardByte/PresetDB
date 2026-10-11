@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403785,
+  "name": "Office Manager",
+  "source_url": "https://www.igdb.com/games/office-manager",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5cy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Office Manager",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4169060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4169060",
+        "Linux": "setsid steam steam://rungameid/4169060",
+        "macOS": "open steam://rungameid/4169060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "office-manager",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403785"
+}
