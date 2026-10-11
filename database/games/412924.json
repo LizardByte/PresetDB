@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412924,
+  "name": "Kaboom Farm",
+  "source_url": "https://www.igdb.com/games/kaboom-farm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnji.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kaboom Farm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4123450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4123450",
+        "Linux": "setsid steam steam://rungameid/4123450",
+        "macOS": "open steam://rungameid/4123450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kaboom-farm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412924"
+}
