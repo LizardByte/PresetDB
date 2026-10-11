@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405563,
+  "name": "Gathera",
+  "source_url": "https://www.igdb.com/games/gathera",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc9sq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gathera",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4711680",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4711680",
+        "Linux": "setsid steam steam://rungameid/4711680",
+        "macOS": "open steam://rungameid/4711680"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gathera",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405563"
+}
