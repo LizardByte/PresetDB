@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416739,
+  "name": "Too Hot to Hold",
+  "source_url": "https://www.igdb.com/games/too-hot-to-hold",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocv8q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Too Hot to Hold",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5199210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5199210",
+        "Linux": "setsid steam steam://rungameid/5199210",
+        "macOS": "open steam://rungameid/5199210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "too-hot-to-hold",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416739"
+}
