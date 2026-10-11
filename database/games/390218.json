@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390218,
+  "name": "System Overload",
+  "source_url": "https://www.igdb.com/games/system-overload",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjld.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "System Overload",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4218580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4218580",
+        "Linux": "setsid steam steam://rungameid/4218580",
+        "macOS": "open steam://rungameid/4218580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "system-overload",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390218"
+}
