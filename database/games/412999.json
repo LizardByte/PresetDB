@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412999,
+  "name": "The Mall Explodes!",
+  "source_url": "https://www.igdb.com/games/the-mall-explodes",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocnoo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Mall Explodes!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4457830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4457830",
+        "Linux": "setsid steam steam://rungameid/4457830",
+        "macOS": "open steam://rungameid/4457830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-mall-explodes",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412999"
+}
