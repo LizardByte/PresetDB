@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386582,
+  "name": "Fantastic Journey",
+  "source_url": "https://www.igdb.com/games/fantastic-journey",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbve.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fantastic Journey",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4098140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4098140",
+        "Linux": "setsid steam steam://rungameid/4098140",
+        "macOS": "open steam://rungameid/4098140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fantastic-journey",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386582"
+}
