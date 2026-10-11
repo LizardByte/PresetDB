@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400909,
+  "name": "Ping & Pong",
+  "source_url": "https://www.igdb.com/games/ping-and-pong",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1c6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ping & Pong",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4401460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4401460",
+        "Linux": "setsid steam steam://rungameid/4401460",
+        "macOS": "open steam://rungameid/4401460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ping-and-pong",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400909"
+}
