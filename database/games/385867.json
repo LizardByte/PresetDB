@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385867,
+  "name": "Sister Red",
+  "source_url": "https://www.igdb.com/games/sister-red",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobaq0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sister Red",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4155890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4155890",
+        "Linux": "setsid steam steam://rungameid/4155890",
+        "macOS": "open steam://rungameid/4155890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sister-red",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385867"
+}
