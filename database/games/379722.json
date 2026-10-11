@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379722,
+  "name": "Crashout",
+  "source_url": "https://www.igdb.com/games/crashout",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax3d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crashout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4006060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4006060",
+        "Linux": "setsid steam steam://rungameid/4006060",
+        "macOS": "open steam://rungameid/4006060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crashout",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379722"
+}
