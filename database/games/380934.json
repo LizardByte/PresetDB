@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380934,
+  "name": "HoloSeeker",
+  "source_url": "https://www.igdb.com/games/holoseeker",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coazka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HoloSeeker",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3937040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3937040",
+        "Linux": "setsid steam steam://rungameid/3937040",
+        "macOS": "open steam://rungameid/3937040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "holoseeker",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380934"
+}
