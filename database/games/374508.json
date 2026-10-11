@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374508,
+  "name": "Mork Folio",
+  "source_url": "https://www.igdb.com/games/mork-folio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mork Folio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3908780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3908780",
+        "Linux": "setsid steam steam://rungameid/3908780",
+        "macOS": "open steam://rungameid/3908780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mork-folio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374508"
+}
