@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376837,
+  "name": "100 Rooms",
+  "source_url": "https://www.igdb.com/games/100-rooms--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatm4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "100 Rooms",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4050610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4050610",
+        "Linux": "setsid steam steam://rungameid/4050610",
+        "macOS": "open steam://rungameid/4050610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "100-rooms--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376837"
+}
