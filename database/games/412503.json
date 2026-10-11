@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412503,
+  "name": "Stick Mountain",
+  "source_url": "https://www.igdb.com/games/stick-mountain",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocms8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stick Mountain",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2444520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2444520",
+        "Linux": "setsid steam steam://rungameid/2444520",
+        "macOS": "open steam://rungameid/2444520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stick-mountain",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412503"
+}
