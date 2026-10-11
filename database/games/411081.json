@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411081,
+  "name": "Sammy The Sharky",
+  "source_url": "https://www.igdb.com/games/sammy-the-sharky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cock3c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sammy The Sharky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4022550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4022550",
+        "Linux": "setsid steam steam://rungameid/4022550",
+        "macOS": "open steam://rungameid/4022550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sammy-the-sharky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411081"
+}
