@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379913,
+  "name": "Epic Transport",
+  "source_url": "https://www.igdb.com/games/epic-transport",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax81.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Epic Transport",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3433840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3433840",
+        "Linux": "setsid steam steam://rungameid/3433840",
+        "macOS": "open steam://rungameid/3433840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "epic-transport",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379913"
+}
