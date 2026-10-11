@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389962,
+  "name": "Clicky & Yo",
+  "source_url": "https://www.igdb.com/games/clicky-and-yo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj8r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clicky & Yo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4263000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4263000",
+        "Linux": "setsid steam steam://rungameid/4263000",
+        "macOS": "open steam://rungameid/4263000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clicky-and-yo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389962"
+}
