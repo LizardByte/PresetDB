@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 401476,
+  "name": "Salty Dogs",
+  "source_url": "https://www.igdb.com/games/salty-dogs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc22j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Salty Dogs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4213930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4213930",
+        "Linux": "setsid steam steam://rungameid/4213930",
+        "macOS": "open steam://rungameid/4213930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "salty-dogs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=401476"
+}
