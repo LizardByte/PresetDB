@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412205,
+  "name": "Helen Keller Simulator",
+  "source_url": "https://www.igdb.com/games/helen-keller-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocm7j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Helen Keller Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3287230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3287230",
+        "Linux": "setsid steam steam://rungameid/3287230",
+        "macOS": "open steam://rungameid/3287230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "helen-keller-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412205"
+}
