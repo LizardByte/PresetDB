@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410457,
+  "name": "Burnout",
+  "source_url": "https://www.igdb.com/games/burnout--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocj0y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Burnout",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4453600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4453600",
+        "Linux": "setsid steam steam://rungameid/4453600",
+        "macOS": "open steam://rungameid/4453600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "burnout--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410457"
+}
