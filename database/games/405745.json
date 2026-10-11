@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405745,
+  "name": "StillAsleep",
+  "source_url": "https://www.igdb.com/games/stillasleep",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7xm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StillAsleep",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4611340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4611340",
+        "Linux": "setsid steam steam://rungameid/4611340",
+        "macOS": "open steam://rungameid/4611340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stillasleep",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405745"
+}
