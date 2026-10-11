@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 382544,
+  "name": "Coloniser",
+  "source_url": "https://www.igdb.com/games/coloniser",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxwp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Coloniser",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2469560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2469560",
+        "Linux": "setsid steam steam://rungameid/2469560",
+        "macOS": "open steam://rungameid/2469560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "coloniser",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=382544"
+}
