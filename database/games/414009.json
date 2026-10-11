@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 414009,
+  "name": "Cat Crazy",
+  "source_url": "https://www.igdb.com/games/cat-crazy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpka.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat Crazy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3578310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3578310",
+        "Linux": "setsid steam steam://rungameid/3578310",
+        "macOS": "open steam://rungameid/3578310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-crazy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=414009"
+}
