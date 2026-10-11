@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390565,
+  "name": "All in One",
+  "source_url": "https://www.igdb.com/games/all-in-one",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk0w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All in One",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4135870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4135870",
+        "Linux": "setsid steam steam://rungameid/4135870",
+        "macOS": "open steam://rungameid/4135870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "all-in-one",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390565"
+}
