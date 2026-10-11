@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390475,
+  "name": "S.N.A.P.",
+  "source_url": "https://www.igdb.com/games/snap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobjva.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "S.N.A.P.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4145670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4145670",
+        "Linux": "setsid steam steam://rungameid/4145670",
+        "macOS": "open steam://rungameid/4145670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390475"
+}
