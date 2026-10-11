@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377298,
+  "name": "Utopia",
+  "source_url": "https://www.igdb.com/games/utopia--8",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coavc6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Utopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3443930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3443930",
+        "Linux": "setsid steam steam://rungameid/3443930",
+        "macOS": "open steam://rungameid/3443930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "utopia--8",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377298"
+}
