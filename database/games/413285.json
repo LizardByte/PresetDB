@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413285,
+  "name": "Worm in Ruins",
+  "source_url": "https://www.igdb.com/games/worm-in-ruins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocofi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Worm in Ruins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4406730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4406730",
+        "Linux": "setsid steam steam://rungameid/4406730",
+        "macOS": "open steam://rungameid/4406730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "worm-in-ruins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413285"
+}
