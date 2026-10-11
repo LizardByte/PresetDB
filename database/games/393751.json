@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393751,
+  "name": "First Age",
+  "source_url": "https://www.igdb.com/games/first-age",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobpip.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "First Age",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3738120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3738120",
+        "Linux": "setsid steam steam://rungameid/3738120",
+        "macOS": "open steam://rungameid/3738120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "first-age",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393751"
+}
