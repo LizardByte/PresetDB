@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398799,
+  "name": "Wyrmfall",
+  "source_url": "https://www.igdb.com/games/wyrmfall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coby6n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wyrmfall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4121450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4121450",
+        "Linux": "setsid steam steam://rungameid/4121450",
+        "macOS": "open steam://rungameid/4121450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wyrmfall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398799"
+}
