@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400900,
+  "name": "Exipath",
+  "source_url": "https://www.igdb.com/games/exipath",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc1bl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exipath",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4645450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4645450",
+        "Linux": "setsid steam steam://rungameid/4645450",
+        "macOS": "open steam://rungameid/4645450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exipath",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400900"
+}
