@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400695,
+  "name": "Goon Company",
+  "source_url": "https://www.igdb.com/games/goon-company",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0zm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goon Company",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2830930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2830930",
+        "Linux": "setsid steam steam://rungameid/2830930",
+        "macOS": "open steam://rungameid/2830930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goon-company",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400695"
+}
