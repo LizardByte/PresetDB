@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400224,
+  "name": "Succulent Studio",
+  "source_url": "https://www.igdb.com/games/succulent-studio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc08f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Succulent Studio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1664520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1664520",
+        "Linux": "setsid steam steam://rungameid/1664520",
+        "macOS": "open steam://rungameid/1664520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "succulent-studio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400224"
+}
