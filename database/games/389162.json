@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389162,
+  "name": "Get Rid",
+  "source_url": "https://www.igdb.com/games/get-rid",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhkj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Rid",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3710410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3710410",
+        "Linux": "setsid steam steam://rungameid/3710410",
+        "macOS": "open steam://rungameid/3710410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-rid",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389162"
+}
