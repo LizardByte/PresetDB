@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409401,
+  "name": "Goblin Solitaire",
+  "source_url": "https://www.igdb.com/games/goblin-solitaire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdle.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goblin Solitaire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4854700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4854700",
+        "Linux": "setsid steam steam://rungameid/4854700",
+        "macOS": "open steam://rungameid/4854700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goblin-solitaire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409401"
+}
