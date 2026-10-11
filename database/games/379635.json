@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379635,
+  "name": "Eli Girls",
+  "source_url": "https://www.igdb.com/games/eli-girls",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coax2f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eli Girls",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1027600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1027600",
+        "Linux": "setsid steam steam://rungameid/1027600",
+        "macOS": "open steam://rungameid/1027600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eli-girls",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379635"
+}
