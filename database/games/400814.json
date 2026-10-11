@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400814,
+  "name": "Punch, Rest, Repeat",
+  "source_url": "https://www.igdb.com/games/punch-rest-repeat",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc16h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Punch, Rest, Repeat",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4095710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4095710",
+        "Linux": "setsid steam steam://rungameid/4095710",
+        "macOS": "open steam://rungameid/4095710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "punch-rest-repeat",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400814"
+}
