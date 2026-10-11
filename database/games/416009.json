@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416009,
+  "name": "Squarelings",
+  "source_url": "https://www.igdb.com/games/squarelings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocujy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Squarelings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4887300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4887300",
+        "Linux": "setsid steam steam://rungameid/4887300",
+        "macOS": "open steam://rungameid/4887300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "squarelings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416009"
+}
