@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400603,
+  "name": "New Folder",
+  "source_url": "https://www.igdb.com/games/new-folder--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0uz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "New Folder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4159130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4159130",
+        "Linux": "setsid steam steam://rungameid/4159130",
+        "macOS": "open steam://rungameid/4159130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "new-folder--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400603"
+}
