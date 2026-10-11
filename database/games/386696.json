@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386696,
+  "name": "Stick Out!",
+  "source_url": "https://www.igdb.com/games/stick-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobly2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stick Out!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4149750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4149750",
+        "Linux": "setsid steam steam://rungameid/4149750",
+        "macOS": "open steam://rungameid/4149750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stick-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386696"
+}
