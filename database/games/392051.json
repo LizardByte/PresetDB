@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392051,
+  "name": "Similariddle",
+  "source_url": "https://www.igdb.com/games/similariddle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboax.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Similariddle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3408740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3408740",
+        "Linux": "setsid steam steam://rungameid/3408740",
+        "macOS": "open steam://rungameid/3408740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "similariddle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392051"
+}
