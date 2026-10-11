@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 403180,
+  "name": "ToyBoxers!",
+  "source_url": "https://www.igdb.com/games/toyboxers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4gn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "ToyBoxers!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4014830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4014830",
+        "Linux": "setsid steam steam://rungameid/4014830",
+        "macOS": "open steam://rungameid/4014830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toyboxers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=403180"
+}
