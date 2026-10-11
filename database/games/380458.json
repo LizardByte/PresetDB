@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380458,
+  "name": "Microlandia",
+  "source_url": "https://www.igdb.com/games/microlandia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaye4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Microlandia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4094120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4094120",
+        "Linux": "setsid steam steam://rungameid/4094120",
+        "macOS": "open steam://rungameid/4094120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "microlandia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380458"
+}
