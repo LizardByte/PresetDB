@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377515,
+  "name": "SoulUp",
+  "source_url": "https://www.igdb.com/games/soulup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coau6w.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SoulUp",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4131470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4131470",
+        "Linux": "setsid steam steam://rungameid/4131470",
+        "macOS": "open steam://rungameid/4131470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "soulup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377515"
+}
