@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416765,
+  "name": "To Be Besieged",
+  "source_url": "https://www.igdb.com/games/to-be-besieged",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocurf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "To Be Besieged",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4938030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4938030",
+        "Linux": "setsid steam steam://rungameid/4938030",
+        "macOS": "open steam://rungameid/4938030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "to-be-besieged",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416765"
+}
