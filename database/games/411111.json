@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411111,
+  "name": "Peg Champ",
+  "source_url": "https://www.igdb.com/games/peg-champ",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocqjj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Peg Champ",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4936660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4936660",
+        "Linux": "setsid steam steam://rungameid/4936660",
+        "macOS": "open steam://rungameid/4936660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "peg-champ",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411111"
+}
