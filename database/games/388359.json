@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388359,
+  "name": "UmbraNet",
+  "source_url": "https://www.igdb.com/games/umbranet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfm3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "UmbraNet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4400460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4400460",
+        "Linux": "setsid steam steam://rungameid/4400460",
+        "macOS": "open steam://rungameid/4400460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "umbranet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388359"
+}
