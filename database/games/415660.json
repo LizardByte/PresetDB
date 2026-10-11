@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415660,
+  "name": "TCG Card Chaos",
+  "source_url": "https://www.igdb.com/games/tcg-card-chaos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocsmp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TCG Card Chaos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5125130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5125130",
+        "Linux": "setsid steam steam://rungameid/5125130",
+        "macOS": "open steam://rungameid/5125130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tcg-card-chaos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415660"
+}
