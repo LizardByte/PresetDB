@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393205,
+  "name": "Dungeon Companion",
+  "source_url": "https://www.igdb.com/games/dungeon-companion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboc8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Companion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4299830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4299830",
+        "Linux": "setsid steam steam://rungameid/4299830",
+        "macOS": "open steam://rungameid/4299830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-companion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393205"
+}
