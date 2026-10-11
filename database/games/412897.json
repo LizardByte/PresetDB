@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412897,
+  "name": "Pink Light",
+  "source_url": "https://www.igdb.com/games/pink-light",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocqns.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pink Light",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4071450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4071450",
+        "Linux": "setsid steam steam://rungameid/4071450",
+        "macOS": "open steam://rungameid/4071450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pink-light",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412897"
+}
