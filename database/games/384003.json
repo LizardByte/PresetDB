@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384003,
+  "name": "TopDownFarter",
+  "source_url": "https://www.igdb.com/games/topdownfarter",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob6ua.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TopDownFarter",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1071580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1071580",
+        "Linux": "setsid steam steam://rungameid/1071580",
+        "macOS": "open steam://rungameid/1071580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "topdownfarter",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384003"
+}
