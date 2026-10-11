@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396934,
+  "name": "The Last Errant",
+  "source_url": "https://www.igdb.com/games/the-last-errant",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobvba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Errant",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4399690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4399690",
+        "Linux": "setsid steam steam://rungameid/4399690",
+        "macOS": "open steam://rungameid/4399690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-errant",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396934"
+}
