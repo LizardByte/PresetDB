@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386768,
+  "name": "Koromeke",
+  "source_url": "https://www.igdb.com/games/koromeke",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobc8x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Koromeke",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3946400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3946400",
+        "Linux": "setsid steam steam://rungameid/3946400",
+        "macOS": "open steam://rungameid/3946400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "koromeke",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386768"
+}
