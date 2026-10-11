@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381192,
+  "name": "Crimson Freedom",
+  "source_url": "https://www.igdb.com/games/crimson-freedom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob0d6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crimson Freedom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3973160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3973160",
+        "Linux": "setsid steam steam://rungameid/3973160",
+        "macOS": "open steam://rungameid/3973160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crimson-freedom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381192"
+}
