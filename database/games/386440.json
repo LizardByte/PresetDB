@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386440,
+  "name": "Foxy Dumplings",
+  "source_url": "https://www.igdb.com/games/foxy-dumplings",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwwb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foxy Dumplings",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4184130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4184130",
+        "Linux": "setsid steam steam://rungameid/4184130",
+        "macOS": "open steam://rungameid/4184130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foxy-dumplings",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386440"
+}
