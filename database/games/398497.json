@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 398497,
+  "name": "Folders on the Run",
+  "source_url": "https://www.igdb.com/games/folders-on-the-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobxnt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Folders on the Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4581160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4581160",
+        "Linux": "setsid steam steam://rungameid/4581160",
+        "macOS": "open steam://rungameid/4581160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "folders-on-the-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=398497"
+}
