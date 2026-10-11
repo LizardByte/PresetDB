@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416747,
+  "name": "Ex Nihilo",
+  "source_url": "https://www.igdb.com/games/ex-nihilo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocuin.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ex Nihilo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3072660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3072660",
+        "Linux": "setsid steam steam://rungameid/3072660",
+        "macOS": "open steam://rungameid/3072660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ex-nihilo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416747"
+}
