@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390992,
+  "name": "Nobody Hears",
+  "source_url": "https://www.igdb.com/games/nobody-hears",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobkfi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Nobody Hears",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4033130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4033130",
+        "Linux": "setsid steam steam://rungameid/4033130",
+        "macOS": "open steam://rungameid/4033130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "nobody-hears",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390992"
+}
