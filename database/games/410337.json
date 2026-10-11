@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410337,
+  "name": "Moon Miner",
+  "source_url": "https://www.igdb.com/games/moon-miner",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocivi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon Miner",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4901910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4901910",
+        "Linux": "setsid steam steam://rungameid/4901910",
+        "macOS": "open steam://rungameid/4901910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-miner",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410337"
+}
