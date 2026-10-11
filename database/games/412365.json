@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412365,
+  "name": "Gin and Wall",
+  "source_url": "https://www.igdb.com/games/gin-and-wall",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocmj1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gin and Wall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4608160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4608160",
+        "Linux": "setsid steam steam://rungameid/4608160",
+        "macOS": "open steam://rungameid/4608160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gin-and-wall",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412365"
+}
