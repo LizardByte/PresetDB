@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 392600,
+  "name": "Hail the Devourer",
+  "source_url": "https://www.igdb.com/games/hail-the-devourer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobmpp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hail the Devourer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4101370",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4101370",
+        "Linux": "setsid steam steam://rungameid/4101370",
+        "macOS": "open steam://rungameid/4101370"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hail-the-devourer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=392600"
+}
