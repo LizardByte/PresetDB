@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 384032,
+  "name": "Sloop",
+  "source_url": "https://www.igdb.com/games/sloop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob716.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sloop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3948910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3948910",
+        "Linux": "setsid steam steam://rungameid/3948910",
+        "macOS": "open steam://rungameid/3948910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sloop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=384032"
+}
