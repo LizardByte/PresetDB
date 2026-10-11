@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390671,
+  "name": "Runebound",
+  "source_url": "https://www.igdb.com/games/runebound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coboso.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Runebound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4109560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4109560",
+        "Linux": "setsid steam steam://rungameid/4109560",
+        "macOS": "open steam://rungameid/4109560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "runebound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390671"
+}
