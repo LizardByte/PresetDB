@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410192,
+  "name": "Heroes Saga",
+  "source_url": "https://www.igdb.com/games/heroes-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocijr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heroes Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3894300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3894300",
+        "Linux": "setsid steam steam://rungameid/3894300",
+        "macOS": "open steam://rungameid/3894300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heroes-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410192"
+}
