@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390099,
+  "name": "Werewolf: The Inner Beast",
+  "source_url": "https://www.igdb.com/games/werewolf-the-inner-beast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk7x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Werewolf: The Inner Beast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4235230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4235230",
+        "Linux": "setsid steam steam://rungameid/4235230",
+        "macOS": "open steam://rungameid/4235230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "werewolf-the-inner-beast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390099"
+}
