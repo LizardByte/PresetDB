@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 397554,
+  "name": "Ghost in the Feed",
+  "source_url": "https://www.igdb.com/games/ghost-in-the-feed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobwa4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ghost in the Feed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3473390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3473390",
+        "Linux": "setsid steam steam://rungameid/3473390",
+        "macOS": "open steam://rungameid/3473390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ghost-in-the-feed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=397554"
+}
