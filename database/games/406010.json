@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 406010,
+  "name": "Wake the Beacon",
+  "source_url": "https://www.igdb.com/games/wake-the-beacon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocchb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wake the Beacon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4650570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4650570",
+        "Linux": "setsid steam steam://rungameid/4650570",
+        "macOS": "open steam://rungameid/4650570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wake-the-beacon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=406010"
+}
