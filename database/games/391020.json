@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391020,
+  "name": "Writer's Block",
+  "source_url": "https://www.igdb.com/games/writers-block--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobki5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Writer's Block",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4025400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4025400",
+        "Linux": "setsid steam steam://rungameid/4025400",
+        "macOS": "open steam://rungameid/4025400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "writers-block--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391020"
+}
