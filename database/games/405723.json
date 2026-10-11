@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405723,
+  "name": "Vellar",
+  "source_url": "https://www.igdb.com/games/vellar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocc8u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vellar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4616160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4616160",
+        "Linux": "setsid steam steam://rungameid/4616160",
+        "macOS": "open steam://rungameid/4616160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vellar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405723"
+}
