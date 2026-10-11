@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 399540,
+  "name": "Entiled",
+  "source_url": "https://www.igdb.com/games/entiled",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobzdb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Entiled",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4663010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4663010",
+        "Linux": "setsid steam steam://rungameid/4663010",
+        "macOS": "open steam://rungameid/4663010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "entiled",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=399540"
+}
