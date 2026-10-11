@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 377164,
+  "name": "Tichu",
+  "source_url": "https://www.igdb.com/games/tichu--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coatww.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tichu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3747270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3747270",
+        "Linux": "setsid steam steam://rungameid/3747270",
+        "macOS": "open steam://rungameid/3747270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tichu--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=377164"
+}
