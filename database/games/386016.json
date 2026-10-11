@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386016,
+  "name": "HeroInc",
+  "source_url": "https://www.igdb.com/games/heroinc",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc8cw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HeroInc",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4280390",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4280390",
+        "Linux": "setsid steam steam://rungameid/4280390",
+        "macOS": "open steam://rungameid/4280390"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heroinc",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386016"
+}
