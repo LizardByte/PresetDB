@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411867,
+  "name": "Duellum",
+  "source_url": "https://www.igdb.com/games/duellum",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclt2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duellum",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4161830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4161830",
+        "Linux": "setsid steam steam://rungameid/4161830",
+        "macOS": "open steam://rungameid/4161830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duellum",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411867"
+}
