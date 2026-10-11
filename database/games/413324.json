@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413324,
+  "name": "Kesu-Ji",
+  "source_url": "https://www.igdb.com/games/kesu-ji",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocokf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kesu-Ji",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4607780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4607780",
+        "Linux": "setsid steam steam://rungameid/4607780",
+        "macOS": "open steam://rungameid/4607780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kesu-ji",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413324"
+}
