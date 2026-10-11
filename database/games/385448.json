@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385448,
+  "name": "Dogwood",
+  "source_url": "https://www.igdb.com/games/dogwood",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc3sb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogwood",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3682380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3682380",
+        "Linux": "setsid steam steam://rungameid/3682380",
+        "macOS": "open steam://rungameid/3682380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dogwood",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385448"
+}
