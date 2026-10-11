@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410907,
+  "name": "Feed Me More Brains",
+  "source_url": "https://www.igdb.com/games/feed-me-more-brains",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjwk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Feed Me More Brains",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4553100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4553100",
+        "Linux": "setsid steam steam://rungameid/4553100",
+        "macOS": "open steam://rungameid/4553100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "feed-me-more-brains",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410907"
+}
