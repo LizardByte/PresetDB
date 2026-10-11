@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388315,
+  "name": "Bufo Jump",
+  "source_url": "https://www.igdb.com/games/bufo-jump",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobfcf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bufo Jump",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4175980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4175980",
+        "Linux": "setsid steam steam://rungameid/4175980",
+        "macOS": "open steam://rungameid/4175980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bufo-jump",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388315"
+}
