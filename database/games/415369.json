@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415369,
+  "name": "Like a dog",
+  "source_url": "https://www.igdb.com/games/like-a-dog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctcy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Like a dog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3734250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3734250",
+        "Linux": "setsid steam steam://rungameid/3734250",
+        "macOS": "open steam://rungameid/3734250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "like-a-dog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415369"
+}
