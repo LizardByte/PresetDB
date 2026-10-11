@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390791,
+  "name": "Around the Block",
+  "source_url": "https://www.igdb.com/games/around-the-block",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk8r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Around the Block",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4079560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4079560",
+        "Linux": "setsid steam steam://rungameid/4079560",
+        "macOS": "open steam://rungameid/4079560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "around-the-block",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390791"
+}
