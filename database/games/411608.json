@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411608,
+  "name": "Whiplash",
+  "source_url": "https://www.igdb.com/games/whiplash--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclrk.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Whiplash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4756050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4756050",
+        "Linux": "setsid steam steam://rungameid/4756050",
+        "macOS": "open steam://rungameid/4756050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whiplash--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411608"
+}
