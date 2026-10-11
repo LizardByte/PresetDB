@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412688,
+  "name": "DreamPost",
+  "source_url": "https://www.igdb.com/games/dreampost",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocn72.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DreamPost",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4983540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4983540",
+        "Linux": "setsid steam steam://rungameid/4983540",
+        "macOS": "open steam://rungameid/4983540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dreampost",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412688"
+}
