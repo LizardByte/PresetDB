@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 390593,
+  "name": "Pal Pachinko",
+  "source_url": "https://www.igdb.com/games/pal-pachinko",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobk1u.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pal Pachinko",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4130960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4130960",
+        "Linux": "setsid steam steam://rungameid/4130960",
+        "macOS": "open steam://rungameid/4130960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pal-pachinko",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=390593"
+}
