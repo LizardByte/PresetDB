@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395746,
+  "name": "Lost Entry",
+  "source_url": "https://www.igdb.com/games/lost-entry",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobth9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lost Entry",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4000870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4000870",
+        "Linux": "setsid steam steam://rungameid/4000870",
+        "macOS": "open steam://rungameid/4000870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lost-entry",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395746"
+}
