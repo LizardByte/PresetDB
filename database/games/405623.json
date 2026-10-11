@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 405623,
+  "name": "Dark Room",
+  "source_url": "https://www.igdb.com/games/dark-room--2",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc7rw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Room",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4360930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4360930",
+        "Linux": "setsid steam steam://rungameid/4360930",
+        "macOS": "open steam://rungameid/4360930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-room--2",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=405623"
+}
