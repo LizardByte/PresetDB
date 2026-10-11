@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410109,
+  "name": "Roll 'em Out",
+  "source_url": "https://www.igdb.com/games/roll-em-out",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cock5q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Roll 'em Out",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4139160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4139160",
+        "Linux": "setsid steam steam://rungameid/4139160",
+        "macOS": "open steam://rungameid/4139160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "roll-em-out",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410109"
+}
