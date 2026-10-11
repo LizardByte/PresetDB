@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388208,
+  "name": "Lone Chef",
+  "source_url": "https://www.igdb.com/games/lone-chef",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobezq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lone Chef",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3280150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3280150",
+        "Linux": "setsid steam steam://rungameid/3280150",
+        "macOS": "open steam://rungameid/3280150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lone-chef",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388208"
+}
