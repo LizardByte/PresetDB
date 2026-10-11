@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391512,
+  "name": "No Knock",
+  "source_url": "https://www.igdb.com/games/no-knock",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobl75.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Knock",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3860450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3860450",
+        "Linux": "setsid steam steam://rungameid/3860450",
+        "macOS": "open steam://rungameid/3860450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-knock",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391512"
+}
