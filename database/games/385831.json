@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385831,
+  "name": "WonderKing",
+  "source_url": "https://www.igdb.com/games/wonderking",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobami.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "WonderKing",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3825780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3825780",
+        "Linux": "setsid steam steam://rungameid/3825780",
+        "macOS": "open steam://rungameid/3825780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wonderking",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385831"
+}
