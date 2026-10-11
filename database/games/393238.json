@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 393238,
+  "name": "QA Simulator",
+  "source_url": "https://www.igdb.com/games/qa-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobodw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "QA Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2976690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2976690",
+        "Linux": "setsid steam steam://rungameid/2976690",
+        "macOS": "open steam://rungameid/2976690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "qa-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=393238"
+}
