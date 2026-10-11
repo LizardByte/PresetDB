@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 374600,
+  "name": "Paint by Words",
+  "source_url": "https://www.igdb.com/games/paint-by-words",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coapwh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paint by Words",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3798420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3798420",
+        "Linux": "setsid steam steam://rungameid/3798420",
+        "macOS": "open steam://rungameid/3798420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paint-by-words",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=374600"
+}
