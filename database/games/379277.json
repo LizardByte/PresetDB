@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 379277,
+  "name": "Chicky Blocks",
+  "source_url": "https://www.igdb.com/games/chicky-blocks",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coawni.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chicky Blocks",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4210700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4210700",
+        "Linux": "setsid steam steam://rungameid/4210700",
+        "macOS": "open steam://rungameid/4210700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chicky-blocks",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=379277"
+}
