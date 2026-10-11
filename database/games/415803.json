@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415803,
+  "name": "Ann's Parlor",
+  "source_url": "https://www.igdb.com/games/anns-parlor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocswf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ann's Parlor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4140580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4140580",
+        "Linux": "setsid steam steam://rungameid/4140580",
+        "macOS": "open steam://rungameid/4140580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anns-parlor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415803"
+}
