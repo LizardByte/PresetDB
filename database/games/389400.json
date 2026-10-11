@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389400,
+  "name": "The Whispering Bones",
+  "source_url": "https://www.igdb.com/games/the-whispering-bones",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobijz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Whispering Bones",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4050480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4050480",
+        "Linux": "setsid steam steam://rungameid/4050480",
+        "macOS": "open steam://rungameid/4050480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-whispering-bones",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389400"
+}
