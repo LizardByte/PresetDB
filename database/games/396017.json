@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 396017,
+  "name": "Gorilla Simulator",
+  "source_url": "https://www.igdb.com/games/gorilla-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobtwc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gorilla Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4401660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4401660",
+        "Linux": "setsid steam steam://rungameid/4401660",
+        "macOS": "open steam://rungameid/4401660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gorilla-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=396017"
+}
