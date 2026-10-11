@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389785,
+  "name": "Smush Bois",
+  "source_url": "https://www.igdb.com/games/smush-bois",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobub1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smush Bois",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3661360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3661360",
+        "Linux": "setsid steam steam://rungameid/3661360",
+        "macOS": "open steam://rungameid/3661360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smush-bois",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389785"
+}
