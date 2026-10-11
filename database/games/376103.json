@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 376103,
+  "name": "Tic Tac Rogue",
+  "source_url": "https://www.igdb.com/games/tic-tac-rogue",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coasrm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tic Tac Rogue",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4127400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4127400",
+        "Linux": "setsid steam steam://rungameid/4127400",
+        "macOS": "open steam://rungameid/4127400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tic-tac-rogue",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=376103"
+}
