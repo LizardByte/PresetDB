@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410491,
+  "name": "Don't Play Their Game",
+  "source_url": "https://www.igdb.com/games/dont-play-their-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjko.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Play Their Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4912930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4912930",
+        "Linux": "setsid steam steam://rungameid/4912930",
+        "macOS": "open steam://rungameid/4912930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-play-their-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410491"
+}
