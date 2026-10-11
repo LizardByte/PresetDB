@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 391968,
+  "name": "Sato",
+  "source_url": "https://www.igdb.com/games/sato",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobls3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sato",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3548920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3548920",
+        "Linux": "setsid steam steam://rungameid/3548920",
+        "macOS": "open steam://rungameid/3548920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sato",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=391968"
+}
