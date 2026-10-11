@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408651,
+  "name": "No Escape",
+  "source_url": "https://www.igdb.com/games/no-escape--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocc95.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "No Escape",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4825020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4825020",
+        "Linux": "setsid steam steam://rungameid/4825020",
+        "macOS": "open steam://rungameid/4825020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "no-escape--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408651"
+}
