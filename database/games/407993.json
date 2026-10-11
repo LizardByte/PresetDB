@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407993,
+  "name": "Wasabi",
+  "source_url": "https://www.igdb.com/games/wasabi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocb5h.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wasabi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4148910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4148910",
+        "Linux": "setsid steam steam://rungameid/4148910",
+        "macOS": "open steam://rungameid/4148910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wasabi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407993"
+}
