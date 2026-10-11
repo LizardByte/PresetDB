@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 416259,
+  "name": "The Dying Mind",
+  "source_url": "https://www.igdb.com/games/the-dying-mind",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coctsb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Dying Mind",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3711840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3711840",
+        "Linux": "setsid steam steam://rungameid/3711840",
+        "macOS": "open steam://rungameid/3711840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-dying-mind",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=416259"
+}
