@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410210,
+  "name": "Phy Lab",
+  "source_url": "https://www.igdb.com/games/phy-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocil0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Phy Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4244550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4244550",
+        "Linux": "setsid steam steam://rungameid/4244550",
+        "macOS": "open steam://rungameid/4244550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "phy-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410210"
+}
