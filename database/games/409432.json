@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409432,
+  "name": "Watch Yo Plane",
+  "source_url": "https://www.igdb.com/games/watch-yo-plane",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocdb9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Watch Yo Plane",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2312600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2312600",
+        "Linux": "setsid steam steam://rungameid/2312600",
+        "macOS": "open steam://rungameid/2312600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "watch-yo-plane",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409432"
+}
