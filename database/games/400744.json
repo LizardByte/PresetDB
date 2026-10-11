@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400744,
+  "name": "War Alert",
+  "source_url": "https://www.igdb.com/games/war-alert",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc177.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "War Alert",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3921010",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3921010",
+        "Linux": "setsid steam steam://rungameid/3921010",
+        "macOS": "open steam://rungameid/3921010"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "war-alert",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400744"
+}
