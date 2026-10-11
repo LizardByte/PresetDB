@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380183,
+  "name": "Tune in to the Show",
+  "source_url": "https://www.igdb.com/games/tune-in-to-the-show",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxrf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tune in to the Show",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2203590",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2203590",
+        "Linux": "setsid steam steam://rungameid/2203590",
+        "macOS": "open steam://rungameid/2203590"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tune-in-to-the-show",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380183"
+}
