@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408019,
+  "name": "Idle Startup",
+  "source_url": "https://www.igdb.com/games/idle-startup",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocb64.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Startup",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4779560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4779560",
+        "Linux": "setsid steam steam://rungameid/4779560",
+        "macOS": "open steam://rungameid/4779560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-startup",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408019"
+}
