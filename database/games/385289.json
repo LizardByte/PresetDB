@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 385289,
+  "name": "AnyCircuit",
+  "source_url": "https://www.igdb.com/games/anycircuit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coba1j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "AnyCircuit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3387070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3387070",
+        "Linux": "setsid steam steam://rungameid/3387070",
+        "macOS": "open steam://rungameid/3387070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "anycircuit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=385289"
+}
