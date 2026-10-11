@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 378105,
+  "name": "Bashnya",
+  "source_url": "https://www.igdb.com/games/bashnya",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coav2y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bashnya",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3030200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3030200",
+        "Linux": "setsid steam steam://rungameid/3030200",
+        "macOS": "open steam://rungameid/3030200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bashnya",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=378105"
+}
