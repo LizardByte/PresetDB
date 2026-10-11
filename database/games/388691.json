@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 388691,
+  "name": "The Last Departure",
+  "source_url": "https://www.igdb.com/games/the-last-departure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobgbo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Last Departure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4219430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4219430",
+        "Linux": "setsid steam steam://rungameid/4219430",
+        "macOS": "open steam://rungameid/4219430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-last-departure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=388691"
+}
