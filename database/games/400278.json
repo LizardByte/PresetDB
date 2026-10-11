@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 400278,
+  "name": "Eggworld",
+  "source_url": "https://www.igdb.com/games/eggworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc0ev.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Eggworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3058690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3058690",
+        "Linux": "setsid steam steam://rungameid/3058690",
+        "macOS": "open steam://rungameid/3058690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "eggworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=400278"
+}
