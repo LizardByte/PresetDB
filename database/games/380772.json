@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380772,
+  "name": "A Taste of Home",
+  "source_url": "https://www.igdb.com/games/a-taste-of-home",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaz8n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Taste of Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4161930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4161930",
+        "Linux": "setsid steam steam://rungameid/4161930",
+        "macOS": "open steam://rungameid/4161930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-taste-of-home",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380772"
+}
