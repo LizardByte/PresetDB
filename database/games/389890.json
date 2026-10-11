@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389890,
+  "name": "The Village Rises",
+  "source_url": "https://www.igdb.com/games/the-village-rises",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobj6o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Village Rises",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4281530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4281530",
+        "Linux": "setsid steam steam://rungameid/4281530",
+        "macOS": "open steam://rungameid/4281530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-village-rises",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389890"
+}
