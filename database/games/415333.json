@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415333,
+  "name": "Kick the Piñata!",
+  "source_url": "https://www.igdb.com/games/kick-the-pinata",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocs03.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kick the Piñata!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5102610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5102610",
+        "Linux": "setsid steam steam://rungameid/5102610",
+        "macOS": "open steam://rungameid/5102610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kick-the-pinata",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415333"
+}
