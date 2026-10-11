@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 395176,
+  "name": "Zwamman",
+  "source_url": "https://www.igdb.com/games/zwamman",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc4d0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Zwamman",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4501000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4501000",
+        "Linux": "setsid steam steam://rungameid/4501000",
+        "macOS": "open steam://rungameid/4501000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "zwamman",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=395176"
+}
