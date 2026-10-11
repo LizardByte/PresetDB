@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 389124,
+  "name": "Malpraxis",
+  "source_url": "https://www.igdb.com/games/malpraxis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobhg1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Malpraxis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3350240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3350240",
+        "Linux": "setsid steam steam://rungameid/3350240",
+        "macOS": "open steam://rungameid/3350240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "malpraxis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=389124"
+}
