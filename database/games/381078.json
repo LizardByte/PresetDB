@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381078,
+  "name": "Astromine",
+  "source_url": "https://www.igdb.com/games/astromine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob014.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astromine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1833210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1833210",
+        "Linux": "setsid steam steam://rungameid/1833210",
+        "macOS": "open steam://rungameid/1833210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astromine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381078"
+}
