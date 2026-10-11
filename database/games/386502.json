@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 386502,
+  "name": "Get Goating",
+  "source_url": "https://www.igdb.com/games/get-goating",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cobbrm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Goating",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4303820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4303820",
+        "Linux": "setsid steam steam://rungameid/4303820",
+        "macOS": "open steam://rungameid/4303820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-goating",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=386502"
+}
