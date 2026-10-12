@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419911,
+  "name": "Love Alt Delete",
+  "source_url": "https://www.igdb.com/games/love-alt-delete",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Love Alt Delete",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5080730",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5080730",
+        "Linux": "setsid steam steam://rungameid/5080730",
+        "macOS": "open steam://rungameid/5080730"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "love-alt-delete",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419911"
+}
