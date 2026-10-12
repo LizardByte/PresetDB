@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419539,
+  "name": "PlayIndex",
+  "source_url": "https://www.igdb.com/games/playindex",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocywa.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "PlayIndex",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4672510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4672510",
+        "Linux": "setsid steam steam://rungameid/4672510",
+        "macOS": "open steam://rungameid/4672510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "playindex",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419539"
+}
