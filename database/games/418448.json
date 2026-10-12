@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418448,
+  "name": "Last Luminary",
+  "source_url": "https://www.igdb.com/games/last-luminary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocx8l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Luminary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5206920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5206920",
+        "Linux": "setsid steam steam://rungameid/5206920",
+        "macOS": "open steam://rungameid/5206920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-luminary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418448"
+}
