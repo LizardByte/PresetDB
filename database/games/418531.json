@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418531,
+  "name": "You Are Family",
+  "source_url": "https://www.igdb.com/games/you-are-family",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxdt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "You Are Family",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4625750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4625750",
+        "Linux": "setsid steam steam://rungameid/4625750",
+        "macOS": "open steam://rungameid/4625750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "you-are-family",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418531"
+}
