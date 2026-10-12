@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422208,
+  "name": "Litmustest",
+  "source_url": "https://www.igdb.com/games/litmustest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2yr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Litmustest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4233570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4233570",
+        "Linux": "setsid steam steam://rungameid/4233570",
+        "macOS": "open steam://rungameid/4233570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "litmustest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422208"
+}
