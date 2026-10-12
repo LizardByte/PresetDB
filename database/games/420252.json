@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420252,
+  "name": "Unglamorous",
+  "source_url": "https://www.igdb.com/games/unglamorous",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczwh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Unglamorous",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5200180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5200180",
+        "Linux": "setsid steam steam://rungameid/5200180",
+        "macOS": "open steam://rungameid/5200180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "unglamorous",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420252"
+}
