@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417466,
+  "name": "Dialshift",
+  "source_url": "https://www.igdb.com/games/dialshift",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvu3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dialshift",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5169720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5169720",
+        "Linux": "setsid steam steam://rungameid/5169720",
+        "macOS": "open steam://rungameid/5169720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dialshift",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417466"
+}
