@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418095,
+  "name": "Don't Pick Up",
+  "source_url": "https://www.igdb.com/games/dont-pick-up",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocws5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Pick Up",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4878690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4878690",
+        "Linux": "setsid steam steam://rungameid/4878690",
+        "macOS": "open steam://rungameid/4878690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-pick-up",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418095"
+}
