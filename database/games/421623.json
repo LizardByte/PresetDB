@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421623,
+  "name": "Will It Launch?",
+  "source_url": "https://www.igdb.com/games/will-it-launch",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2ht.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Will It Launch?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5205090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5205090",
+        "Linux": "setsid steam steam://rungameid/5205090",
+        "macOS": "open steam://rungameid/5205090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "will-it-launch",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421623"
+}
