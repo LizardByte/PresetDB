@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422501,
+  "name": "OxyDungeon",
+  "source_url": "https://www.igdb.com/games/oxydungeon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3fw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OxyDungeon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4860100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4860100",
+        "Linux": "setsid steam steam://rungameid/4860100",
+        "macOS": "open steam://rungameid/4860100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oxydungeon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422501"
+}
