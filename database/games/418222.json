@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418222,
+  "name": "Golubi",
+  "source_url": "https://www.igdb.com/games/golubi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwx2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golubi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4943100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4943100",
+        "Linux": "setsid steam steam://rungameid/4943100",
+        "macOS": "open steam://rungameid/4943100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golubi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418222"
+}
