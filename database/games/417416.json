@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417416,
+  "name": "DinoBox",
+  "source_url": "https://www.igdb.com/games/dinobox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvxb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DinoBox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5048250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5048250",
+        "Linux": "setsid steam steam://rungameid/5048250",
+        "macOS": "open steam://rungameid/5048250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dinobox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417416"
+}
