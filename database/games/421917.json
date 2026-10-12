@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421917,
+  "name": "LifeSimOS",
+  "source_url": "https://www.igdb.com/games/lifesimos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2g2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "LifeSimOS",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4581850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4581850",
+        "Linux": "setsid steam steam://rungameid/4581850",
+        "macOS": "open steam://rungameid/4581850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lifesimos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421917"
+}
