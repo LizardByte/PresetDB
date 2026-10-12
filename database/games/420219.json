@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420219,
+  "name": "The Residual",
+  "source_url": "https://www.igdb.com/games/the-residual",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczvh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Residual",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5291650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5291650",
+        "Linux": "setsid steam steam://rungameid/5291650",
+        "macOS": "open steam://rungameid/5291650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-residual",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420219"
+}
