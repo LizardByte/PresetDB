@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418621,
+  "name": "Shockface",
+  "source_url": "https://www.igdb.com/games/shockface",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxnm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shockface",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4705980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4705980",
+        "Linux": "setsid steam steam://rungameid/4705980",
+        "macOS": "open steam://rungameid/4705980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shockface",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418621"
+}
