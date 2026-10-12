@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419864,
+  "name": "My Racing Car",
+  "source_url": "https://www.igdb.com/games/my-racing-car",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod1kj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Racing Car",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4850210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4850210",
+        "Linux": "setsid steam steam://rungameid/4850210",
+        "macOS": "open steam://rungameid/4850210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-racing-car",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419864"
+}
