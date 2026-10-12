@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422439,
+  "name": "Hit the Anvil",
+  "source_url": "https://www.igdb.com/games/hit-the-anvil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3cw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hit the Anvil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5265810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5265810",
+        "Linux": "setsid steam steam://rungameid/5265810",
+        "macOS": "open steam://rungameid/5265810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hit-the-anvil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422439"
+}
