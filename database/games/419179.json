@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419179,
+  "name": "Sneaky Squad",
+  "source_url": "https://www.igdb.com/games/sneaky-squad",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyr2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sneaky Squad",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5157620",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5157620",
+        "Linux": "setsid steam steam://rungameid/5157620",
+        "macOS": "open steam://rungameid/5157620"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sneaky-squad",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419179"
+}
