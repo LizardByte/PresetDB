@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418542,
+  "name": "Neon Survivor",
+  "source_url": "https://www.igdb.com/games/neon-survivor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxe9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neon Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4333930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4333930",
+        "Linux": "setsid steam steam://rungameid/4333930",
+        "macOS": "open steam://rungameid/4333930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neon-survivor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418542"
+}
