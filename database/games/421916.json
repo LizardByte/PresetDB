@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421916,
+  "name": "OurLife",
+  "source_url": "https://www.igdb.com/games/ourlife",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2g1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "OurLife",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4653330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4653330",
+        "Linux": "setsid steam steam://rungameid/4653330",
+        "macOS": "open steam://rungameid/4653330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ourlife",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421916"
+}
