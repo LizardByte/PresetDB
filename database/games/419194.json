@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419194,
+  "name": "Idle Asteroids",
+  "source_url": "https://www.igdb.com/games/idle-asteroids",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocydc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Asteroids",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4687700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4687700",
+        "Linux": "setsid steam steam://rungameid/4687700",
+        "macOS": "open steam://rungameid/4687700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-asteroids",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419194"
+}
