@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419545,
+  "name": "Inky Fingers",
+  "source_url": "https://www.igdb.com/games/inky-fingers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocywn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Inky Fingers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4873500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4873500",
+        "Linux": "setsid steam steam://rungameid/4873500",
+        "macOS": "open steam://rungameid/4873500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "inky-fingers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419545"
+}
