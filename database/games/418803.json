@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418803,
+  "name": "Starforge Pirate",
+  "source_url": "https://www.igdb.com/games/starforge-pirate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocy9y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starforge Pirate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4802240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4802240",
+        "Linux": "setsid steam steam://rungameid/4802240",
+        "macOS": "open steam://rungameid/4802240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starforge-pirate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418803"
+}
