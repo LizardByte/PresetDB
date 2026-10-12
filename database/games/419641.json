@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419641,
+  "name": "Welcome to Victorville",
+  "source_url": "https://www.igdb.com/games/welcome-to-victorville",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczap.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Welcome to Victorville",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4755610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4755610",
+        "Linux": "setsid steam steam://rungameid/4755610",
+        "macOS": "open steam://rungameid/4755610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "welcome-to-victorville",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419641"
+}
