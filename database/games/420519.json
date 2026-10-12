@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420519,
+  "name": "Chess Folk",
+  "source_url": "https://www.igdb.com/games/chess-folk",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod07j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Chess Folk",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5221860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5221860",
+        "Linux": "setsid steam steam://rungameid/5221860",
+        "macOS": "open steam://rungameid/5221860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "chess-folk",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420519"
+}
