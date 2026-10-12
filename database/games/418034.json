@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418034,
+  "name": "MoonShot",
+  "source_url": "https://www.igdb.com/games/moonshot--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwml.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MoonShot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3622090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3622090",
+        "Linux": "setsid steam steam://rungameid/3622090",
+        "macOS": "open steam://rungameid/3622090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moonshot--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418034"
+}
