@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421187,
+  "name": "Triogram",
+  "source_url": "https://www.igdb.com/games/triogram",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod1d5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Triogram",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5329040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5329040",
+        "Linux": "setsid steam steam://rungameid/5329040",
+        "macOS": "open steam://rungameid/5329040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "triogram",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421187"
+}
