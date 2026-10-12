@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417946,
+  "name": "Arx Temporis",
+  "source_url": "https://www.igdb.com/games/arx-temporis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocx5g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arx Temporis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4670240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4670240",
+        "Linux": "setsid steam steam://rungameid/4670240",
+        "macOS": "open steam://rungameid/4670240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arx-temporis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417946"
+}
