@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417776,
+  "name": "Bore",
+  "source_url": "https://www.igdb.com/games/bore",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocya6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bore",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5000170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5000170",
+        "Linux": "setsid steam steam://rungameid/5000170",
+        "macOS": "open steam://rungameid/5000170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bore",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417776"
+}
