@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420055,
+  "name": "Shadowlight",
+  "source_url": "https://www.igdb.com/games/shadowlight",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczoy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shadowlight",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5180470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5180470",
+        "Linux": "setsid steam steam://rungameid/5180470",
+        "macOS": "open steam://rungameid/5180470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shadowlight",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420055"
+}
