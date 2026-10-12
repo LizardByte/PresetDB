@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420871,
+  "name": "Huemon",
+  "source_url": "https://www.igdb.com/games/huemon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod1ke.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Huemon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4972020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4972020",
+        "Linux": "setsid steam steam://rungameid/4972020",
+        "macOS": "open steam://rungameid/4972020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "huemon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420871"
+}
