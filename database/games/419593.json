@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419593,
+  "name": "Moon Pool",
+  "source_url": "https://www.igdb.com/games/moon-pool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyz9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Moon Pool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1057460",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1057460",
+        "Linux": "setsid steam steam://rungameid/1057460",
+        "macOS": "open steam://rungameid/1057460"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "moon-pool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419593"
+}
