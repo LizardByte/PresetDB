@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422640,
+  "name": "Shatterflap",
+  "source_url": "https://www.igdb.com/games/shatterflap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3pj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shatterflap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5122300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5122300",
+        "Linux": "setsid steam steam://rungameid/5122300",
+        "macOS": "open steam://rungameid/5122300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shatterflap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422640"
+}
