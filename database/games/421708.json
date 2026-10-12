@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421708,
+  "name": "Starstone",
+  "source_url": "https://www.igdb.com/games/starstone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod25j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Starstone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4985180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4985180",
+        "Linux": "setsid steam steam://rungameid/4985180",
+        "macOS": "open steam://rungameid/4985180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "starstone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421708"
+}
