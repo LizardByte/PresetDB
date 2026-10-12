@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420058,
+  "name": "Papabile",
+  "source_url": "https://www.igdb.com/games/papabile",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczp0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Papabile",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4826120",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4826120",
+        "Linux": "setsid steam steam://rungameid/4826120",
+        "macOS": "open steam://rungameid/4826120"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "papabile",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420058"
+}
