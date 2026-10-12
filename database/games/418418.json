@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418418,
+  "name": "Cancel Subscription Simulator",
+  "source_url": "https://www.igdb.com/games/cancel-subscription-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxjt.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cancel Subscription Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4767810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4767810",
+        "Linux": "setsid steam steam://rungameid/4767810",
+        "macOS": "open steam://rungameid/4767810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cancel-subscription-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418418"
+}
