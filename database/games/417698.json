@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417698,
+  "name": "Family Time",
+  "source_url": "https://www.igdb.com/games/family-time",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxiz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Family Time",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5072600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5072600",
+        "Linux": "setsid steam steam://rungameid/5072600",
+        "macOS": "open steam://rungameid/5072600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "family-time",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417698"
+}
