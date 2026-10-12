@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420633,
+  "name": "Ivory",
+  "source_url": "https://www.igdb.com/games/ivory",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod0lb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ivory",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4879830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4879830",
+        "Linux": "setsid steam steam://rungameid/4879830",
+        "macOS": "open steam://rungameid/4879830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ivory",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420633"
+}
