@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422096,
+  "name": "Alice in Pumpkinland",
+  "source_url": "https://www.igdb.com/games/alice-in-pumpkinland",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2ru.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alice in Pumpkinland",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4212520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4212520",
+        "Linux": "setsid steam steam://rungameid/4212520",
+        "macOS": "open steam://rungameid/4212520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alice-in-pumpkinland",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422096"
+}
