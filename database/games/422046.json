@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422046,
+  "name": "Cheese Stack",
+  "source_url": "https://www.igdb.com/games/cheese-stack",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2pl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cheese Stack",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4674970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4674970",
+        "Linux": "setsid steam steam://rungameid/4674970",
+        "macOS": "open steam://rungameid/4674970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cheese-stack",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422046"
+}
