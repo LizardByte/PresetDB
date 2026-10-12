@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417561,
+  "name": "MSO FreeCell Arena",
+  "source_url": "https://www.igdb.com/games/mso-freecell-arena",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwhd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MSO FreeCell Arena",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4762500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4762500",
+        "Linux": "setsid steam steam://rungameid/4762500",
+        "macOS": "open steam://rungameid/4762500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mso-freecell-arena",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417561"
+}
