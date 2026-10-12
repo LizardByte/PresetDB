@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418213,
+  "name": "Last Ranger",
+  "source_url": "https://www.igdb.com/games/last-ranger",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwwh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Ranger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5103800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5103800",
+        "Linux": "setsid steam steam://rungameid/5103800",
+        "macOS": "open steam://rungameid/5103800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-ranger",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418213"
+}
