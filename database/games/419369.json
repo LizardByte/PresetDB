@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419369,
+  "name": "Sneaky Fishy",
+  "source_url": "https://www.igdb.com/games/sneaky-fishy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocylb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sneaky Fishy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4582530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4582530",
+        "Linux": "setsid steam steam://rungameid/4582530",
+        "macOS": "open steam://rungameid/4582530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sneaky-fishy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419369"
+}
