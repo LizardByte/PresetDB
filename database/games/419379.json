@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419379,
+  "name": "Bunny Bastion",
+  "source_url": "https://www.igdb.com/games/bunny-bastion",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocylv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bunny Bastion",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4529340",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4529340",
+        "Linux": "setsid steam steam://rungameid/4529340",
+        "macOS": "open steam://rungameid/4529340"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bunny-bastion",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419379"
+}
