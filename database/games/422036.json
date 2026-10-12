@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422036,
+  "name": "Smokey Mike",
+  "source_url": "https://www.igdb.com/games/smokey-mike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2p0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Smokey Mike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4601110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4601110",
+        "Linux": "setsid steam steam://rungameid/4601110",
+        "macOS": "open steam://rungameid/4601110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "smokey-mike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422036"
+}
