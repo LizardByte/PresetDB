@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422238,
+  "name": "Dead Awake",
+  "source_url": "https://www.igdb.com/games/dead-awake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod30o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Awake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4664820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4664820",
+        "Linux": "setsid steam steam://rungameid/4664820",
+        "macOS": "open steam://rungameid/4664820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-awake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422238"
+}
