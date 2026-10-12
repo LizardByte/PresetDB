@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418765,
+  "name": "Emilia's Playroom",
+  "source_url": "https://www.igdb.com/games/emilias-playroom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxrh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Emilia's Playroom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2162520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2162520",
+        "Linux": "setsid steam steam://rungameid/2162520",
+        "macOS": "open steam://rungameid/2162520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "emilias-playroom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418765"
+}
