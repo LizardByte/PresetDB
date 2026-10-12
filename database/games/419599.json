@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419599,
+  "name": "Look / Don't",
+  "source_url": "https://www.igdb.com/games/look-slash-dont",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocz1p.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Look / Don't",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5164810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5164810",
+        "Linux": "setsid steam steam://rungameid/5164810",
+        "macOS": "open steam://rungameid/5164810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "look-slash-dont",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419599"
+}
