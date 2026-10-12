@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419262,
+  "name": "Neonsky",
+  "source_url": "https://www.igdb.com/games/neonsky",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyi7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Neonsky",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4546400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4546400",
+        "Linux": "setsid steam steam://rungameid/4546400",
+        "macOS": "open steam://rungameid/4546400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "neonsky",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419262"
+}
