@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419163,
+  "name": "Let Me Die",
+  "source_url": "https://www.igdb.com/games/let-me-die",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let Me Die",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5258160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5258160",
+        "Linux": "setsid steam steam://rungameid/5258160",
+        "macOS": "open steam://rungameid/5258160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "let-me-die",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419163"
+}
