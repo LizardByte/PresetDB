@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419642,
+  "name": "Dark Harvest",
+  "source_url": "https://www.igdb.com/games/dark-harvest--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocz1x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Harvest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5114040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5114040",
+        "Linux": "setsid steam steam://rungameid/5114040",
+        "macOS": "open steam://rungameid/5114040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-harvest--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419642"
+}
