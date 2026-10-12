@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422327,
+  "name": "Sumoo",
+  "source_url": "https://www.igdb.com/games/sumoo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod35q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sumoo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5108270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5108270",
+        "Linux": "setsid steam steam://rungameid/5108270",
+        "macOS": "open steam://rungameid/5108270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sumoo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422327"
+}
