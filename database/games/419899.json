@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419899,
+  "name": "Catetris",
+  "source_url": "https://www.igdb.com/games/catetris",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczgu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Catetris",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4943170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4943170",
+        "Linux": "setsid steam steam://rungameid/4943170",
+        "macOS": "open steam://rungameid/4943170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catetris",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419899"
+}
