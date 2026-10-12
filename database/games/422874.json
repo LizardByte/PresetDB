@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422874,
+  "name": "Birdworld",
+  "source_url": "https://www.igdb.com/games/birdworld",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod42d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Birdworld",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3364850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3364850",
+        "Linux": "setsid steam steam://rungameid/3364850",
+        "macOS": "open steam://rungameid/3364850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "birdworld",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422874"
+}
