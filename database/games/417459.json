@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417459,
+  "name": "Three's a Crowd",
+  "source_url": "https://www.igdb.com/games/threes-a-crowd--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwba.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Three's a Crowd",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5113570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5113570",
+        "Linux": "setsid steam steam://rungameid/5113570",
+        "macOS": "open steam://rungameid/5113570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "threes-a-crowd--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417459"
+}
