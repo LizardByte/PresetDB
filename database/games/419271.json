@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419271,
+  "name": "Die Diver",
+  "source_url": "https://www.igdb.com/games/die-diver",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod0w0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Die Diver",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4181300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4181300",
+        "Linux": "setsid steam steam://rungameid/4181300",
+        "macOS": "open steam://rungameid/4181300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "die-diver",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419271"
+}
