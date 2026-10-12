@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420620,
+  "name": "Etherland Saga",
+  "source_url": "https://www.igdb.com/games/etherland-saga",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod0di.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Etherland Saga",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4474560",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4474560",
+        "Linux": "setsid steam steam://rungameid/4474560",
+        "macOS": "open steam://rungameid/4474560"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "etherland-saga",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420620"
+}
