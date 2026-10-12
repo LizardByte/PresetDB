@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417440,
+  "name": "Last Buzz",
+  "source_url": "https://www.igdb.com/games/last-buzz",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyvd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Buzz",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4927030",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4927030",
+        "Linux": "setsid steam steam://rungameid/4927030",
+        "macOS": "open steam://rungameid/4927030"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-buzz",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417440"
+}
