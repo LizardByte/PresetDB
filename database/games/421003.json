@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421003,
+  "name": "Battle Nap",
+  "source_url": "https://www.igdb.com/games/battle-nap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod11c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Battle Nap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4560000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4560000",
+        "Linux": "setsid steam steam://rungameid/4560000",
+        "macOS": "open steam://rungameid/4560000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "battle-nap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421003"
+}
