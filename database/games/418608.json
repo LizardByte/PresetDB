@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418608,
+  "name": "A Tiny Ghost Game",
+  "source_url": "https://www.igdb.com/games/a-tiny-ghost-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocygn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "A Tiny Ghost Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4928440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4928440",
+        "Linux": "setsid steam steam://rungameid/4928440",
+        "macOS": "open steam://rungameid/4928440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "a-tiny-ghost-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418608"
+}
