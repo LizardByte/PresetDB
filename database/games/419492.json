@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419492,
+  "name": "Quibi",
+  "source_url": "https://www.igdb.com/games/quibi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocyrw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Quibi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3585740",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3585740",
+        "Linux": "setsid steam steam://rungameid/3585740",
+        "macOS": "open steam://rungameid/3585740"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quibi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419492"
+}
