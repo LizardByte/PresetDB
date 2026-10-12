@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420537,
+  "name": "Dark Alley",
+  "source_url": "https://www.igdb.com/games/dark-alley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod08d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dark Alley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4354830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4354830",
+        "Linux": "setsid steam steam://rungameid/4354830",
+        "macOS": "open steam://rungameid/4354830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dark-alley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420537"
+}
