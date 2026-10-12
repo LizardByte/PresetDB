@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418804,
+  "name": "My Giant Bully",
+  "source_url": "https://www.igdb.com/games/my-giant-bully",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxv2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Giant Bully",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4769870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4769870",
+        "Linux": "setsid steam steam://rungameid/4769870",
+        "macOS": "open steam://rungameid/4769870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-giant-bully",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418804"
+}
