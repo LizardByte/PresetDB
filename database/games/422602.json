@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422602,
+  "name": "Fly&Goal",
+  "source_url": "https://www.igdb.com/games/fly-and-goal",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3mh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fly&Goal",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5002190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5002190",
+        "Linux": "setsid steam steam://rungameid/5002190",
+        "macOS": "open steam://rungameid/5002190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fly-and-goal",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422602"
+}
