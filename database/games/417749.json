@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417749,
+  "name": "Fibs",
+  "source_url": "https://www.igdb.com/games/fibs",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxrl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fibs",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5194790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5194790",
+        "Linux": "setsid steam steam://rungameid/5194790",
+        "macOS": "open steam://rungameid/5194790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fibs",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417749"
+}
