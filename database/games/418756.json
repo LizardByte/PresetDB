@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418756,
+  "name": "Night Alley",
+  "source_url": "https://www.igdb.com/games/night-alley",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxse.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Night Alley",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5120290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5120290",
+        "Linux": "setsid steam steam://rungameid/5120290",
+        "macOS": "open steam://rungameid/5120290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "night-alley",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418756"
+}
