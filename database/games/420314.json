@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420314,
+  "name": "One More Floor",
+  "source_url": "https://www.igdb.com/games/one-more-floor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3uq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "One More Floor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5190700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5190700",
+        "Linux": "setsid steam steam://rungameid/5190700",
+        "macOS": "open steam://rungameid/5190700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "one-more-floor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420314"
+}
