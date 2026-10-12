@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418186,
+  "name": "This Is Golf",
+  "source_url": "https://www.igdb.com/games/this-is-golf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocydz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "This Is Golf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4450570",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4450570",
+        "Linux": "setsid steam steam://rungameid/4450570",
+        "macOS": "open steam://rungameid/4450570"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "this-is-golf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418186"
+}
