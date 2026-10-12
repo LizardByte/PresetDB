@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420069,
+  "name": "Tkio",
+  "source_url": "https://www.igdb.com/games/tkio",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod014.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tkio",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4047020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4047020",
+        "Linux": "setsid steam steam://rungameid/4047020",
+        "macOS": "open steam://rungameid/4047020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tkio",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420069"
+}
