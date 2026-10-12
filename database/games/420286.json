@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420286,
+  "name": "Where Did I Park?",
+  "source_url": "https://www.igdb.com/games/where-did-i-park",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczz1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Where Did I Park?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5195880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5195880",
+        "Linux": "setsid steam steam://rungameid/5195880",
+        "macOS": "open steam://rungameid/5195880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "where-did-i-park",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420286"
+}
