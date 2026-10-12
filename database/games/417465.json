@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417465,
+  "name": "Hookeye",
+  "source_url": "https://www.igdb.com/games/hookeye",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwrj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hookeye",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4670350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4670350",
+        "Linux": "setsid steam steam://rungameid/4670350",
+        "macOS": "open steam://rungameid/4670350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hookeye",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417465"
+}
