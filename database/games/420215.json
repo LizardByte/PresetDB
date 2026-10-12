@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420215,
+  "name": "Kill All Clankers",
+  "source_url": "https://www.igdb.com/games/kill-all-clankers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod04i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill All Clankers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5169780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5169780",
+        "Linux": "setsid steam steam://rungameid/5169780",
+        "macOS": "open steam://rungameid/5169780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-all-clankers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420215"
+}
