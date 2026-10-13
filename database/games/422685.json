@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422685,
+  "name": "Massively Singleplayer",
+  "source_url": "https://www.igdb.com/games/massively-singleplayer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod48x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Massively Singleplayer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5314850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5314850",
+        "Linux": "setsid steam steam://rungameid/5314850",
+        "macOS": "open steam://rungameid/5314850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "massively-singleplayer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422685"
+}
