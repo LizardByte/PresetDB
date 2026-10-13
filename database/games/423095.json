@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423095,
+  "name": "Fishy Bar",
+  "source_url": "https://www.igdb.com/games/fishy-bar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod4km.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fishy Bar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5181760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5181760",
+        "Linux": "setsid steam steam://rungameid/5181760",
+        "macOS": "open steam://rungameid/5181760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fishy-bar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423095"
+}
