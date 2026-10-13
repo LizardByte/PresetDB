@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419358,
+  "name": "Shelfbound",
+  "source_url": "https://www.igdb.com/games/shelfbound",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczl5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shelfbound",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5255880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5255880",
+        "Linux": "setsid steam steam://rungameid/5255880",
+        "macOS": "open steam://rungameid/5255880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shelfbound",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419358"
+}
