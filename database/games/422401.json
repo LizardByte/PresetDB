@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422401,
+  "name": "Tomider",
+  "source_url": "https://www.igdb.com/games/tomider",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3k1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tomider",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5181860",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5181860",
+        "Linux": "setsid steam steam://rungameid/5181860",
+        "macOS": "open steam://rungameid/5181860"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tomider",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422401"
+}
