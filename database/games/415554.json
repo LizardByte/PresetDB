@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 415554,
+  "name": "Daily War Online",
+  "source_url": "https://www.igdb.com/games/daily-war-online",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod4ee.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Daily War Online",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4875450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4875450",
+        "Linux": "setsid steam steam://rungameid/4875450",
+        "macOS": "open steam://rungameid/4875450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "daily-war-online",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=415554"
+}
