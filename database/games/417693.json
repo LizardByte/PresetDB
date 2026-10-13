@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417693,
+  "name": "Mithril",
+  "source_url": "https://www.igdb.com/games/mithril",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2l1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mithril",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5053270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5053270",
+        "Linux": "setsid steam steam://rungameid/5053270",
+        "macOS": "open steam://rungameid/5053270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mithril",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417693"
+}
