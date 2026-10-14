@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422825,
+  "name": "Warstead",
+  "source_url": "https://www.igdb.com/games/warstead",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod40k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Warstead",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5285650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5285650",
+        "Linux": "setsid steam steam://rungameid/5285650",
+        "macOS": "open steam://rungameid/5285650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "warstead",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422825"
+}
