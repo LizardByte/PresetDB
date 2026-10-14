@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423133,
+  "name": "Refund This Game",
+  "source_url": "https://www.igdb.com/games/refund-this-game",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod4eb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Refund This Game",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5070190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5070190",
+        "Linux": "setsid steam steam://rungameid/5070190",
+        "macOS": "open steam://rungameid/5070190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "refund-this-game",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423133"
+}
