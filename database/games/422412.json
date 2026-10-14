@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422412,
+  "name": "Cozy Cookmaster",
+  "source_url": "https://www.igdb.com/games/cozy-cookmaster",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3bg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cozy Cookmaster",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4949070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4949070",
+        "Linux": "setsid steam steam://rungameid/4949070",
+        "macOS": "open steam://rungameid/4949070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cozy-cookmaster",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422412"
+}
