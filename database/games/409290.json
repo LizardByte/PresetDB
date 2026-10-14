@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409290,
+  "name": "Snowlike",
+  "source_url": "https://www.igdb.com/games/snowlike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocd3a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snowlike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2519710",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2519710",
+        "Linux": "setsid steam steam://rungameid/2519710",
+        "macOS": "open steam://rungameid/2519710"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snowlike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409290"
+}
