@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422822,
+  "name": "Fold'Em",
+  "source_url": "https://www.igdb.com/games/foldem",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod40r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fold'Em",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5200310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5200310",
+        "Linux": "setsid steam steam://rungameid/5200310",
+        "macOS": "open steam://rungameid/5200310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foldem",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422822"
+}
