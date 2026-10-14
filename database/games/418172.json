@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418172,
+  "name": "Seaside Wash",
+  "source_url": "https://www.igdb.com/games/seaside-wash",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwtg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seaside Wash",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4719020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4719020",
+        "Linux": "setsid steam steam://rungameid/4719020",
+        "macOS": "open steam://rungameid/4719020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seaside-wash",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418172"
+}
