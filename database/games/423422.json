@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423422,
+  "name": "HandFoot",
+  "source_url": "https://www.igdb.com/games/handfoot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod4s7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HandFoot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4076630",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4076630",
+        "Linux": "setsid steam steam://rungameid/4076630",
+        "macOS": "open steam://rungameid/4076630"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "handfoot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423422"
+}
