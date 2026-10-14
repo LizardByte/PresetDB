@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422432,
+  "name": "Let's Grow Together",
+  "source_url": "https://www.igdb.com/games/lets-grow-together",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod3cl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Let's Grow Together",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4945600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4945600",
+        "Linux": "setsid steam steam://rungameid/4945600",
+        "macOS": "open steam://rungameid/4945600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lets-grow-together",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422432"
+}
