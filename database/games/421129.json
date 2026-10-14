@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421129,
+  "name": "StageStar",
+  "source_url": "https://www.igdb.com/games/stagestar",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod40v.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StageStar",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4832380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4832380",
+        "Linux": "setsid steam steam://rungameid/4832380",
+        "macOS": "open steam://rungameid/4832380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stagestar",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421129"
+}
