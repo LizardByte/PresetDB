@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423510,
+  "name": "Ashworth",
+  "source_url": "https://www.igdb.com/games/ashworth",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod586.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ashworth",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5100520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5100520",
+        "Linux": "setsid steam steam://rungameid/5100520",
+        "macOS": "open steam://rungameid/5100520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ashworth",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423510"
+}
