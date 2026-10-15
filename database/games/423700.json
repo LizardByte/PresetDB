@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423700,
+  "name": "Embark",
+  "source_url": "https://www.igdb.com/games/embark--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod56g.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Embark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5115150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5115150",
+        "Linux": "setsid steam steam://rungameid/5115150",
+        "macOS": "open steam://rungameid/5115150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "embark--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423700"
+}
