@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423750,
+  "name": "Garito",
+  "source_url": "https://www.igdb.com/games/garito",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod59r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Garito",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5178140",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5178140",
+        "Linux": "setsid steam steam://rungameid/5178140",
+        "macOS": "open steam://rungameid/5178140"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "garito",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423750"
+}
