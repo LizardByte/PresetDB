@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423920,
+  "name": "My Penguin Friend",
+  "source_url": "https://www.igdb.com/games/my-penguin-friend",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod5i1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Penguin Friend",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5243200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5243200",
+        "Linux": "setsid steam steam://rungameid/5243200",
+        "macOS": "open steam://rungameid/5243200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-penguin-friend",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423920"
+}
