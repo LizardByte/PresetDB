@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423959,
+  "name": "Obolus",
+  "source_url": "https://www.igdb.com/games/obolus",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod5la.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Obolus",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5100760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5100760",
+        "Linux": "setsid steam steam://rungameid/5100760",
+        "macOS": "open steam://rungameid/5100760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "obolus",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423959"
+}
