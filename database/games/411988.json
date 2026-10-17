@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411988,
+  "name": "Annalog",
+  "source_url": "https://www.igdb.com/games/annalog",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coclsb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Annalog",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4802510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4802510",
+        "Linux": "setsid steam steam://rungameid/4802510",
+        "macOS": "open steam://rungameid/4802510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "annalog",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411988"
+}
