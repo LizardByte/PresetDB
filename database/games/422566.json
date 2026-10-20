@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 422566,
+  "name": "StackOn",
+  "source_url": "https://www.igdb.com/games/stackon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod4q2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "StackOn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4961330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4961330",
+        "Linux": "setsid steam steam://rungameid/4961330",
+        "macOS": "open steam://rungameid/4961330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stackon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=422566"
+}
