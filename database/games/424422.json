@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 424422,
+  "name": "Wayward Cosmos",
+  "source_url": "https://www.igdb.com/games/wayward-cosmos",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod6e0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wayward Cosmos",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4951020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4951020",
+        "Linux": "setsid steam steam://rungameid/4951020",
+        "macOS": "open steam://rungameid/4951020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wayward-cosmos",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=424422"
+}
