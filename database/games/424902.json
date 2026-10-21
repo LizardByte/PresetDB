@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 424902,
+  "name": "Cutset",
+  "source_url": "https://www.igdb.com/games/cutset",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod6z9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cutset",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5145600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5145600",
+        "Linux": "setsid steam steam://rungameid/5145600",
+        "macOS": "open steam://rungameid/5145600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cutset",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=424902"
+}
