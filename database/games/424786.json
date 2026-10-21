@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 424786,
+  "name": "Flipocalypse",
+  "source_url": "https://www.igdb.com/games/flipocalypse",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod6ts.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flipocalypse",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4269800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4269800",
+        "Linux": "setsid steam steam://rungameid/4269800",
+        "macOS": "open steam://rungameid/4269800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flipocalypse",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=424786"
+}
