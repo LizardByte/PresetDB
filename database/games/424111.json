@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 424111,
+  "name": "Prigod Idle",
+  "source_url": "https://www.igdb.com/games/prigod-idle",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod5uq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prigod Idle",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5091900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5091900",
+        "Linux": "setsid steam steam://rungameid/5091900",
+        "macOS": "open steam://rungameid/5091900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prigod-idle",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=424111"
+}
