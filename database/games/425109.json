@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425109,
+  "name": "BudMageddon",
+  "source_url": "https://www.igdb.com/games/budmageddon",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7a4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BudMageddon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4873550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4873550",
+        "Linux": "setsid steam steam://rungameid/4873550",
+        "macOS": "open steam://rungameid/4873550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "budmageddon",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425109"
+}
