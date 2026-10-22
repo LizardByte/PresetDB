@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419041,
+  "name": "Toxic Frontier",
+  "source_url": "https://www.igdb.com/games/toxic-frontier",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocy6l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Toxic Frontier",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2285020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2285020",
+        "Linux": "setsid steam steam://rungameid/2285020",
+        "macOS": "open steam://rungameid/2285020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "toxic-frontier",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419041"
+}
