@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425151,
+  "name": "O2gether",
+  "source_url": "https://www.igdb.com/games/o2gether",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7bx.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "O2gether",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5041060",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5041060",
+        "Linux": "setsid steam steam://rungameid/5041060",
+        "macOS": "open steam://rungameid/5041060"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "o2gether",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425151"
+}
