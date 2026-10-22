@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425001,
+  "name": "GemCremental",
+  "source_url": "https://www.igdb.com/games/gemcremental",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod75d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "GemCremental",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5317700",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5317700",
+        "Linux": "setsid steam steam://rungameid/5317700",
+        "macOS": "open steam://rungameid/5317700"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gemcremental",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425001"
+}
