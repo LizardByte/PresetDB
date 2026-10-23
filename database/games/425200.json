@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425200,
+  "name": "Jarkeeper",
+  "source_url": "https://www.igdb.com/games/jarkeeper",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7g5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jarkeeper",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4969270",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4969270",
+        "Linux": "setsid steam steam://rungameid/4969270",
+        "macOS": "open steam://rungameid/4969270"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jarkeeper",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425200"
+}
