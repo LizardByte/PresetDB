@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425424,
+  "name": "I, Spy",
+  "source_url": "https://www.igdb.com/games/i-spy--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7rj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I, Spy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4303470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4303470",
+        "Linux": "setsid steam steam://rungameid/4303470",
+        "macOS": "open steam://rungameid/4303470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-spy--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425424"
+}
