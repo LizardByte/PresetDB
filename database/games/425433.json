@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425433,
+  "name": "Sacred Land",
+  "source_url": "https://www.igdb.com/games/sacred-land",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7rs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sacred Land",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4367660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4367660",
+        "Linux": "setsid steam steam://rungameid/4367660",
+        "macOS": "open steam://rungameid/4367660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sacred-land",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425433"
+}
