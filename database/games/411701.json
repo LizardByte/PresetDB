@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 411701,
+  "name": "Crownbane",
+  "source_url": "https://www.igdb.com/games/crownbane",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocl7y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Crownbane",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4970420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4970420",
+        "Linux": "setsid steam steam://rungameid/4970420",
+        "macOS": "open steam://rungameid/4970420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "crownbane",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=411701"
+}
