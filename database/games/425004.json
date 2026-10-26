@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425004,
+  "name": "Paint the World",
+  "source_url": "https://www.igdb.com/games/paint-the-world",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod75a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Paint the World",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5081510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5081510",
+        "Linux": "setsid steam steam://rungameid/5081510",
+        "macOS": "open steam://rungameid/5081510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "paint-the-world",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425004"
+}
