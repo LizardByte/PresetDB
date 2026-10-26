@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425577,
+  "name": "BetWin",
+  "source_url": "https://www.igdb.com/games/betwin",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7zv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BetWin",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1835820",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1835820",
+        "Linux": "setsid steam steam://rungameid/1835820",
+        "macOS": "open steam://rungameid/1835820"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "betwin",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425577"
+}
