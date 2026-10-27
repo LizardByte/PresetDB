@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 424344,
+  "name": "Birdy's Island",
+  "source_url": "https://www.igdb.com/games/birdys-island--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod68z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Birdy's Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3083760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3083760",
+        "Linux": "setsid steam steam://rungameid/3083760",
+        "macOS": "open steam://rungameid/3083760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "birdys-island--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=424344"
+}
