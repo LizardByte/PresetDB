@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425344,
+  "name": "Tidy Town",
+  "source_url": "https://www.igdb.com/games/tidy-town",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod7nm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tidy Town",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4994380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4994380",
+        "Linux": "setsid steam steam://rungameid/4994380",
+        "macOS": "open steam://rungameid/4994380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tidy-town",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425344"
+}
