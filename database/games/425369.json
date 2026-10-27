@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425369,
+  "name": "Kitchen Tidy",
+  "source_url": "https://www.igdb.com/games/kitchen-tidy",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kitchen Tidy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5020760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5020760",
+        "Linux": "setsid steam steam://rungameid/5020760",
+        "macOS": "open steam://rungameid/5020760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kitchen-tidy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425369"
+}
