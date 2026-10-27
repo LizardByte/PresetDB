@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425848,
+  "name": "Playable Archive",
+  "source_url": "https://www.igdb.com/games/playable-archive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod8dm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Playable Archive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5356470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5356470",
+        "Linux": "setsid steam steam://rungameid/5356470",
+        "macOS": "open steam://rungameid/5356470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "playable-archive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425848"
+}
