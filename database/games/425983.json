@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425983,
+  "name": "Pokart",
+  "source_url": "https://www.igdb.com/games/pokart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod8me.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pokart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5153550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5153550",
+        "Linux": "setsid steam steam://rungameid/5153550",
+        "macOS": "open steam://rungameid/5153550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pokart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425983"
+}
