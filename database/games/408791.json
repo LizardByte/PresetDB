@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 408791,
+  "name": "Sea of Pirates",
+  "source_url": "https://www.igdb.com/games/sea-of-pirates",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coccia.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sea of Pirates",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5268110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5268110",
+        "Linux": "setsid steam steam://rungameid/5268110",
+        "macOS": "open steam://rungameid/5268110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sea-of-pirates",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=408791"
+}
