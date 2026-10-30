@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 425360,
+  "name": "Bocage",
+  "source_url": "https://www.igdb.com/games/bocage",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod97r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bocage",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4938320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4938320",
+        "Linux": "setsid steam steam://rungameid/4938320",
+        "macOS": "open steam://rungameid/4938320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bocage",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=425360"
+}
