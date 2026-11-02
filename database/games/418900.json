@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418900,
+  "name": "Gasoline",
+  "source_url": "https://www.igdb.com/games/gasoline",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocy09.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gasoline",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5249410",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5249410",
+        "Linux": "setsid steam steam://rungameid/5249410",
+        "macOS": "open steam://rungameid/5249410"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gasoline",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418900"
+}
