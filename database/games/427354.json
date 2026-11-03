@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427354,
+  "name": "Alien or Duck!",
+  "source_url": "https://www.igdb.com/games/alien-or-duck",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coda9t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Alien or Duck!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4936170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4936170",
+        "Linux": "setsid steam steam://rungameid/4936170",
+        "macOS": "open steam://rungameid/4936170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "alien-or-duck",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427354"
+}
