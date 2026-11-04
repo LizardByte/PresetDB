@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427290,
+  "name": "Sabado",
+  "source_url": "https://www.igdb.com/games/sabado",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coda6i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sabado",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4986750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4986750",
+        "Linux": "setsid steam steam://rungameid/4986750",
+        "macOS": "open steam://rungameid/4986750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sabado",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427290"
+}
