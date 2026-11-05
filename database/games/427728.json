@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427728,
+  "name": "Shmup Boss",
+  "source_url": "https://www.igdb.com/games/shmup-boss",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codapj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shmup Boss",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3915580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3915580",
+        "Linux": "setsid steam steam://rungameid/3915580",
+        "macOS": "open steam://rungameid/3915580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shmup-boss",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427728"
+}
