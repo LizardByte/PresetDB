@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427702,
+  "name": "Go Marbles!",
+  "source_url": "https://www.igdb.com/games/go-marbles",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codare.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Go Marbles!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2553580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2553580",
+        "Linux": "setsid steam steam://rungameid/2553580",
+        "macOS": "open steam://rungameid/2553580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "go-marbles",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427702"
+}
