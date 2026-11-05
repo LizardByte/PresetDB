@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427691,
+  "name": "Ashnar's Lair",
+  "source_url": "https://www.igdb.com/games/ashnars-lair",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codanz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ashnar's Lair",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5341000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5341000",
+        "Linux": "setsid steam steam://rungameid/5341000",
+        "macOS": "open steam://rungameid/5341000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ashnars-lair",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427691"
+}
