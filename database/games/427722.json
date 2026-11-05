@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427722,
+  "name": "Graviton Core",
+  "source_url": "https://www.igdb.com/games/graviton-core",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codapn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Graviton Core",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4602470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4602470",
+        "Linux": "setsid steam steam://rungameid/4602470",
+        "macOS": "open steam://rungameid/4602470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "graviton-core",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427722"
+}
