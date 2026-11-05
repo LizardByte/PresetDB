@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 372572,
+  "name": "BlastMorph: Pinball",
+  "source_url": "https://www.igdb.com/games/blastmorph-pinball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coanmb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlastMorph: Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5378400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5378400",
+        "Linux": "setsid steam steam://rungameid/5378400",
+        "macOS": "open steam://rungameid/5378400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blastmorph-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=372572"
+}
