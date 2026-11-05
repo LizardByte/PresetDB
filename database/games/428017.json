@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428017,
+  "name": "Find the Box",
+  "source_url": "https://www.igdb.com/games/find-the-box",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codayy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Find the Box",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5208780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5208780",
+        "Linux": "setsid steam steam://rungameid/5208780",
+        "macOS": "open steam://rungameid/5208780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "find-the-box",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428017"
+}
