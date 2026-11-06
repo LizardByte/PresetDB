@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427350,
+  "name": "BoosterWare",
+  "source_url": "https://www.igdb.com/games/boosterware",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coda9n.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BoosterWare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2268510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2268510",
+        "Linux": "setsid steam steam://rungameid/2268510",
+        "macOS": "open steam://rungameid/2268510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "boosterware",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427350"
+}
