@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428321,
+  "name": "Hide No More",
+  "source_url": "https://www.igdb.com/games/hide-no-more",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codb9o.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hide No More",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5329800",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5329800",
+        "Linux": "setsid steam steam://rungameid/5329800",
+        "macOS": "open steam://rungameid/5329800"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hide-no-more",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428321"
+}
