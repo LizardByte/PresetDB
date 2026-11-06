@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428210,
+  "name": "Flock Hunt",
+  "source_url": "https://www.igdb.com/games/flock-hunt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codb4j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Flock Hunt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5542020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5542020",
+        "Linux": "setsid steam steam://rungameid/5542020",
+        "macOS": "open steam://rungameid/5542020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "flock-hunt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428210"
+}
