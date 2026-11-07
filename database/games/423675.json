@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 423675,
+  "name": "Revenger",
+  "source_url": "https://www.igdb.com/games/revenger--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod557.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revenger",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4424980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4424980",
+        "Linux": "setsid steam steam://rungameid/4424980",
+        "macOS": "open steam://rungameid/4424980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "revenger--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=423675"
+}
