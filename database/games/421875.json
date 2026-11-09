@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421875,
+  "name": "Get Rammed",
+  "source_url": "https://www.igdb.com/games/get-rammed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod2dv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Get Rammed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4612760",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4612760",
+        "Linux": "setsid steam steam://rungameid/4612760",
+        "macOS": "open steam://rungameid/4612760"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "get-rammed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421875"
+}
