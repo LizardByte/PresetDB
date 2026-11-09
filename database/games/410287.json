@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 410287,
+  "name": "Wild Hive",
+  "source_url": "https://www.igdb.com/games/wild-hive",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocjly.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wild Hive",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4864810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4864810",
+        "Linux": "setsid steam steam://rungameid/4864810",
+        "macOS": "open steam://rungameid/4864810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wild-hive",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=410287"
+}
