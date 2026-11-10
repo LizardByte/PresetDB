@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428560,
+  "name": "Demonator",
+  "source_url": "https://www.igdb.com/games/demonator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codbl9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Demonator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5293950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5293950",
+        "Linux": "setsid steam steam://rungameid/5293950",
+        "macOS": "open steam://rungameid/5293950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "demonator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428560"
+}
