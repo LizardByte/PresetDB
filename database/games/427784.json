@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427784,
+  "name": "Slimetopia",
+  "source_url": "https://www.igdb.com/games/slimetopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codar6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Slimetopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5497770",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5497770",
+        "Linux": "setsid steam steam://rungameid/5497770",
+        "macOS": "open steam://rungameid/5497770"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "slimetopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427784"
+}
