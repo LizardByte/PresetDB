@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428653,
+  "name": "Helix Ark",
+  "source_url": "https://www.igdb.com/games/helix-ark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codbqo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Helix Ark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5426000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5426000",
+        "Linux": "setsid steam steam://rungameid/5426000",
+        "macOS": "open steam://rungameid/5426000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "helix-ark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428653"
+}
