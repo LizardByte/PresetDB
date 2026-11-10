@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428610,
+  "name": "Sisters Connect",
+  "source_url": "https://www.igdb.com/games/sisters-connect--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codbnm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sisters Connect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3991720",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3991720",
+        "Linux": "setsid steam steam://rungameid/3991720",
+        "macOS": "open steam://rungameid/3991720"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sisters-connect--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428610"
+}
