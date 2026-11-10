@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 409340,
+  "name": "Super Coupon Club",
+  "source_url": "https://www.igdb.com/games/super-coupon-club",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocd4z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Super Coupon Club",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5219880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5219880",
+        "Linux": "setsid steam steam://rungameid/5219880",
+        "macOS": "open steam://rungameid/5219880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "super-coupon-club",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=409340"
+}
