@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 426322,
+  "name": "Duck Your Friends",
+  "source_url": "https://www.igdb.com/games/duck-your-friends",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod8xq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Duck Your Friends",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5362530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5362530",
+        "Linux": "setsid steam steam://rungameid/5362530",
+        "macOS": "open steam://rungameid/5362530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "duck-your-friends",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=426322"
+}
