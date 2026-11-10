@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 350133,
+  "name": "Astro Architect",
+  "source_url": "https://www.igdb.com/games/astro-architect",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa04f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Astro Architect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3291440",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3291440",
+        "Linux": "setsid steam steam://rungameid/3291440",
+        "macOS": "open steam://rungameid/3291440"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "astro-architect",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=350133"
+}
