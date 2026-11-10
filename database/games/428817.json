@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428817,
+  "name": "QuizForge",
+  "source_url": "https://www.igdb.com/games/quizforge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codcdd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "QuizForge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5035880",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5035880",
+        "Linux": "setsid steam steam://rungameid/5035880",
+        "macOS": "open steam://rungameid/5035880"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "quizforge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428817"
+}
