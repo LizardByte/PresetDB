@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429063,
+  "name": "Link Cameras",
+  "source_url": "https://www.igdb.com/games/link-cameras",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codci3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Link Cameras",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4777330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4777330",
+        "Linux": "setsid steam steam://rungameid/4777330",
+        "macOS": "open steam://rungameid/4777330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "link-cameras",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429063"
+}
