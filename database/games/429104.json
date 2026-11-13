@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429104,
+  "name": "Centavo",
+  "source_url": "https://www.igdb.com/games/centavo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codck3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Centavo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5295180",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5295180",
+        "Linux": "setsid steam steam://rungameid/5295180",
+        "macOS": "open steam://rungameid/5295180"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "centavo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429104"
+}
