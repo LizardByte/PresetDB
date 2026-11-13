@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428977,
+  "name": "FrogPop",
+  "source_url": "https://www.igdb.com/games/frogpop",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "FrogPop",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5067810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5067810",
+        "Linux": "setsid steam steam://rungameid/5067810",
+        "macOS": "open steam://rungameid/5067810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frogpop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428977"
+}
