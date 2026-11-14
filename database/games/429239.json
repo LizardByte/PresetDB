@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429239,
+  "name": "BlowHi",
+  "source_url": "https://www.igdb.com/games/blowhi",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codcs8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BlowHi",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3149810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3149810",
+        "Linux": "setsid steam steam://rungameid/3149810",
+        "macOS": "open steam://rungameid/3149810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blowhi",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429239"
+}
