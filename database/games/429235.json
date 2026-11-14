@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429235,
+  "name": "Snip Snap",
+  "source_url": "https://www.igdb.com/games/snip-snap--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coddck.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snip Snap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5420970",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5420970",
+        "Linux": "setsid steam steam://rungameid/5420970",
+        "macOS": "open steam://rungameid/5420970"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snip-snap--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429235"
+}
