@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429393,
+  "name": "Horde",
+  "source_url": "https://www.igdb.com/games/horde--3",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codd3f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Horde",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4227850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4227850",
+        "Linux": "setsid steam steam://rungameid/4227850",
+        "macOS": "open steam://rungameid/4227850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "horde--3",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429393"
+}
