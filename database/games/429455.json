@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429455,
+  "name": "Randventure",
+  "source_url": "https://www.igdb.com/games/randventure",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codd6m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Randventure",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5118690",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5118690",
+        "Linux": "setsid steam steam://rungameid/5118690",
+        "macOS": "open steam://rungameid/5118690"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "randventure",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429455"
+}
