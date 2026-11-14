@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429546,
+  "name": "Don't Stop The Pop!",
+  "source_url": "https://www.igdb.com/games/dont-stop-the-pop",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coddbl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Stop The Pop!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4608670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4608670",
+        "Linux": "setsid steam steam://rungameid/4608670",
+        "macOS": "open steam://rungameid/4608670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-stop-the-pop",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429546"
+}
