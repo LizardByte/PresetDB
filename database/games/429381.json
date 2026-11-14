@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429381,
+  "name": "Fake Me",
+  "source_url": "https://www.igdb.com/games/fake-me--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codd2s.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fake Me",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4990840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4990840",
+        "Linux": "setsid steam steam://rungameid/4990840",
+        "macOS": "open steam://rungameid/4990840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fake-me--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429381"
+}
