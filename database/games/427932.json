@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 427932,
+  "name": "Oktoberfest Pinball",
+  "source_url": "https://www.igdb.com/games/oktoberfest-pinball",
+  "image_url": null,
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Oktoberfest Pinball",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4003050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4003050",
+        "Linux": "setsid steam steam://rungameid/4003050",
+        "macOS": "open steam://rungameid/4003050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "oktoberfest-pinball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=427932"
+}
