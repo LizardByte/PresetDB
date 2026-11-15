@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 428181,
+  "name": "Journey Quest",
+  "source_url": "https://www.igdb.com/games/journey-quest",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codb3j.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Journey Quest",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3667840",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3667840",
+        "Linux": "setsid steam steam://rungameid/3667840",
+        "macOS": "open steam://rungameid/3667840"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "journey-quest",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=428181"
+}
