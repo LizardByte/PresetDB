@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429529,
+  "name": "Don't Be Fool",
+  "source_url": "https://www.igdb.com/games/dont-be-fool",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coddb1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Don't Be Fool",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5180400",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5180400",
+        "Linux": "setsid steam steam://rungameid/5180400",
+        "macOS": "open steam://rungameid/5180400"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dont-be-fool",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429529"
+}
