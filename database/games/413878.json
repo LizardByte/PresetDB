@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 413878,
+  "name": "Fizzburg",
+  "source_url": "https://www.igdb.com/games/fizzburg",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocpd0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fizzburg",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5031350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5031350",
+        "Linux": "setsid steam steam://rungameid/5031350",
+        "macOS": "open steam://rungameid/5031350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fizzburg",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=413878"
+}
