@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 426801,
+  "name": "Presto!",
+  "source_url": "https://www.igdb.com/games/presto",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod9ig.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Presto!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4312200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4312200",
+        "Linux": "setsid steam steam://rungameid/4312200",
+        "macOS": "open steam://rungameid/4312200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "presto",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=426801"
+}
