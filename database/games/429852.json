@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429852,
+  "name": "Mine a Little",
+  "source_url": "https://www.igdb.com/games/mine-a-little",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coddrp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mine a Little",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5585090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5585090",
+        "Linux": "setsid steam steam://rungameid/5585090",
+        "macOS": "open steam://rungameid/5585090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mine-a-little",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429852"
+}
