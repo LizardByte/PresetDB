@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430223,
+  "name": "Tool Tidy",
+  "source_url": "https://www.igdb.com/games/tool-tidy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coded7.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tool Tidy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5381360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5381360",
+        "Linux": "setsid steam steam://rungameid/5381360",
+        "macOS": "open steam://rungameid/5381360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tool-tidy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430223"
+}
