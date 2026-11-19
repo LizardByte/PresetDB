@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430177,
+  "name": "Pullfinity",
+  "source_url": "https://www.igdb.com/games/pullfinity",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codeb3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pullfinity",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5314530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5314530",
+        "Linux": "setsid steam steam://rungameid/5314530",
+        "macOS": "open steam://rungameid/5314530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pullfinity",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430177"
+}
