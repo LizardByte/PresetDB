@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429999,
+  "name": "Little Elementals",
+  "source_url": "https://www.igdb.com/games/little-elementals",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/code1c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Little Elementals",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4678210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4678210",
+        "Linux": "setsid steam steam://rungameid/4678210",
+        "macOS": "open steam://rungameid/4678210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "little-elementals",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429999"
+}
