@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430184,
+  "name": "Last Bake",
+  "source_url": "https://www.igdb.com/games/last-bake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codebb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Last Bake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4909330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4909330",
+        "Linux": "setsid steam steam://rungameid/4909330",
+        "macOS": "open steam://rungameid/4909330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "last-bake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430184"
+}
