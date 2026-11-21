@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430858,
+  "name": "3AM Drivethrough",
+  "source_url": "https://www.igdb.com/games/3am-drivethrough",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codf8d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "3AM Drivethrough",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5469110",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5469110",
+        "Linux": "setsid steam steam://rungameid/5469110",
+        "macOS": "open steam://rungameid/5469110"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "3am-drivethrough",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430858"
+}
