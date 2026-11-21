@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 402445,
+  "name": "Shark Mart",
+  "source_url": "https://www.igdb.com/games/shark-mart",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coc5la.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Shark Mart",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4704000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4704000",
+        "Linux": "setsid steam steam://rungameid/4704000",
+        "macOS": "open steam://rungameid/4704000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "shark-mart",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=402445"
+}
