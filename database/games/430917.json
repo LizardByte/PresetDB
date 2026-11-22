@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430917,
+  "name": "Prismbloom",
+  "source_url": "https://www.igdb.com/games/prismbloom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfc4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prismbloom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5011600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5011600",
+        "Linux": "setsid steam steam://rungameid/5011600",
+        "macOS": "open steam://rungameid/5011600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prismbloom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430917"
+}
