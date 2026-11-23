@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 407613,
+  "name": "Some Type of Trip",
+  "source_url": "https://www.igdb.com/games/some-type-of-trip",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocajn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Some Type of Trip",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4303280",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4303280",
+        "Linux": "setsid steam steam://rungameid/4303280",
+        "macOS": "open steam://rungameid/4303280"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "some-type-of-trip",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=407613"
+}
