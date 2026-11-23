@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431032,
+  "name": "Pill & Chill",
+  "source_url": "https://www.igdb.com/games/pill-and-chill",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfih.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Pill & Chill",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5012130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5012130",
+        "Linux": "setsid steam steam://rungameid/5012130",
+        "macOS": "open steam://rungameid/5012130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "pill-and-chill",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431032"
+}
