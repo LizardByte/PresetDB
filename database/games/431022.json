@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431022,
+  "name": "Goblin Hoarder",
+  "source_url": "https://www.igdb.com/games/goblin-hoarder",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfhu.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Goblin Hoarder",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5378450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5378450",
+        "Linux": "setsid steam steam://rungameid/5378450",
+        "macOS": "open steam://rungameid/5378450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "goblin-hoarder",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431022"
+}
