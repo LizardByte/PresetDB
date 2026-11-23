@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 417937,
+  "name": "Seagazer",
+  "source_url": "https://www.igdb.com/games/seagazer",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocwja.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Seagazer",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4989540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4989540",
+        "Linux": "setsid steam steam://rungameid/4989540",
+        "macOS": "open steam://rungameid/4989540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "seagazer",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=417937"
+}
