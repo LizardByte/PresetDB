@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381611,
+  "name": "Mancy",
+  "source_url": "https://www.igdb.com/games/mancy",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfoi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mancy",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4174580",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4174580",
+        "Linux": "setsid steam steam://rungameid/4174580",
+        "macOS": "open steam://rungameid/4174580"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mancy",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381611"
+}
