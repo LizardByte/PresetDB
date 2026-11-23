@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132173,
+  "name": "Age of Emerald",
+  "source_url": "https://www.igdb.com/games/age-of-emerald",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co239z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age of Emerald",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4616320",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4616320",
+        "Linux": "setsid steam steam://rungameid/4616320",
+        "macOS": "open steam://rungameid/4616320"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "age-of-emerald",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132173"
+}
