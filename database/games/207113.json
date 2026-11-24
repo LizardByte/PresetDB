@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207113,
+  "name": "S.T.O.R.M.",
+  "source_url": "https://www.igdb.com/games/storm--4",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8e25.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "S.T.O.R.M.",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3254260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3254260",
+        "Linux": "setsid steam steam://rungameid/3254260",
+        "macOS": "open steam://rungameid/3254260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "storm--4",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207113"
+}
