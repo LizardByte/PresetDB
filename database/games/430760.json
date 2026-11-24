@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430760,
+  "name": "Schooligans",
+  "source_url": "https://www.igdb.com/games/schooligans",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codf3x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Schooligans",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5288780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5288780",
+        "Linux": "setsid steam steam://rungameid/5288780",
+        "macOS": "open steam://rungameid/5288780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "schooligans",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430760"
+}
