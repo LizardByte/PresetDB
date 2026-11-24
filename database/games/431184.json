@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431184,
+  "name": "Tincha",
+  "source_url": "https://www.igdb.com/games/tincha",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfrs.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tincha",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4650890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4650890",
+        "Linux": "setsid steam steam://rungameid/4650890",
+        "macOS": "open steam://rungameid/4650890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tincha",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431184"
+}
