@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430141,
+  "name": "Next Acre",
+  "source_url": "https://www.igdb.com/games/next-acre",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfed.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Next Acre",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4857380",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4857380",
+        "Linux": "setsid steam steam://rungameid/4857380",
+        "macOS": "open steam://rungameid/4857380"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "next-acre",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430141"
+}
