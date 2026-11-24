@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431133,
+  "name": "Dock 7",
+  "source_url": "https://www.igdb.com/games/dock-7",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfp2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dock 7",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5425000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5425000",
+        "Linux": "setsid steam steam://rungameid/5425000",
+        "macOS": "open steam://rungameid/5425000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dock-7",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431133"
+}
