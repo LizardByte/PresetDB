@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430140,
+  "name": "Overcharge",
+  "source_url": "https://www.igdb.com/games/overcharge",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codem9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Overcharge",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5577540",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5577540",
+        "Linux": "setsid steam steam://rungameid/5577540",
+        "macOS": "open steam://rungameid/5577540"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "overcharge",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430140"
+}
