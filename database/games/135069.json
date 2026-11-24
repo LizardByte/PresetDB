@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 135069,
+  "name": "Ominous!",
+  "source_url": "https://www.igdb.com/games/ominous",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4mdb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ominous!",
+      "os": null,
+      "method": "steam",
+      "launch_id": "531100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/531100",
+        "Linux": "setsid steam steam://rungameid/531100",
+        "macOS": "open steam://rungameid/531100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ominous",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=135069"
+}
