@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431205,
+  "name": "Too Fun",
+  "source_url": "https://www.igdb.com/games/too-fun",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfsj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Too Fun",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5563130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5563130",
+        "Linux": "setsid steam steam://rungameid/5563130",
+        "macOS": "open steam://rungameid/5563130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "too-fun",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431205"
+}
