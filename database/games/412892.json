@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 412892,
+  "name": "SkullBall",
+  "source_url": "https://www.igdb.com/games/skullball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocni5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "SkullBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5187310",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5187310",
+        "Linux": "setsid steam steam://rungameid/5187310",
+        "macOS": "open steam://rungameid/5187310"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "skullball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=412892"
+}
