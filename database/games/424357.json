@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 424357,
+  "name": "Hero Strike",
+  "source_url": "https://www.igdb.com/games/hero-strike",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfpo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hero Strike",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5415160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5415160",
+        "Linux": "setsid steam steam://rungameid/5415160",
+        "macOS": "open steam://rungameid/5415160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hero-strike",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=424357"
+}
