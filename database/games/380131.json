@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 380131,
+  "name": "Sudoku Champions",
+  "source_url": "https://www.igdb.com/games/sudoku-champions",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coaxog.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Sudoku Champions",
+      "os": null,
+      "method": "steam",
+      "launch_id": "3210450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/3210450",
+        "Linux": "setsid steam steam://rungameid/3210450",
+        "macOS": "open steam://rungameid/3210450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "sudoku-champions",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=380131"
+}
