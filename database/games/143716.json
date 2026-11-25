@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143716,
+  "name": "Catch Me If You Can",
+  "source_url": "https://www.igdb.com/games/catch-me-if-you-can",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5pl8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Catch Me If You Can",
+      "os": null,
+      "method": "steam",
+      "launch_id": "839330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/839330",
+        "Linux": "setsid steam steam://rungameid/839330",
+        "macOS": "open steam://rungameid/839330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "catch-me-if-you-can",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143716"
+}
