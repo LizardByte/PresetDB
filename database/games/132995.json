@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132995,
+  "name": "Marauders",
+  "source_url": "https://www.igdb.com/games/marauders",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co548c.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Marauders",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1789480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1789480",
+        "Linux": "setsid steam steam://rungameid/1789480",
+        "macOS": "open steam://rungameid/1789480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "marauders",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132995"
+}
