@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115078,
+  "name": "Predecessor",
+  "source_url": "https://www.igdb.com/games/predecessor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co84v9.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Predecessor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "961200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/961200",
+        "Linux": "setsid steam steam://rungameid/961200",
+        "macOS": "open steam://rungameid/961200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "predecessor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115078"
+}
