@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 121751,
+  "name": "Synced",
+  "source_url": "https://www.igdb.com/games/synced",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4ztp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Synced",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1008080",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1008080",
+        "Linux": "setsid steam steam://rungameid/1008080",
+        "macOS": "open steam://rungameid/1008080"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "synced",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=121751"
+}
