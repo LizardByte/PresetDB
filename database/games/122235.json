@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 122235,
+  "name": "Rogue Company",
+  "source_url": "https://www.igdb.com/games/rogue-company",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coa995.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rogue Company",
+      "os": null,
+      "method": "steam",
+      "launch_id": "872200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/872200",
+        "Linux": "setsid steam steam://rungameid/872200",
+        "macOS": "open steam://rungameid/872200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rogue-company",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=122235"
+}
