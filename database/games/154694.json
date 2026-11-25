@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 154694,
+  "name": "Revo",
+  "source_url": "https://www.igdb.com/games/revo",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4i94.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Revo",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1662790",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1662790",
+        "Linux": "setsid steam steam://rungameid/1662790",
+        "macOS": "open steam://rungameid/1662790"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "revo",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=154694"
+}
