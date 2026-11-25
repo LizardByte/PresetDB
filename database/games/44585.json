@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 44585,
+  "name": "Jaws of Extinction",
+  "source_url": "https://www.igdb.com/games/jaws-of-extinction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67ue.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Jaws of Extinction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "617850",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/617850",
+        "Linux": "setsid steam steam://rungameid/617850",
+        "macOS": "open steam://rungameid/617850"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "jaws-of-extinction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=44585"
+}
