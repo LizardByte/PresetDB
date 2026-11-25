@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 123029,
+  "name": "Past Fate",
+  "source_url": "https://www.igdb.com/games/past-fate",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6v5x.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Past Fate",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1028510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1028510",
+        "Linux": "setsid steam steam://rungameid/1028510",
+        "macOS": "open steam://rungameid/1028510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "past-fate",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=123029"
+}
