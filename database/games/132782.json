@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 132782,
+  "name": "Mirastell",
+  "source_url": "https://www.igdb.com/games/mirastell",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2qpf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Mirastell",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1262500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1262500",
+        "Linux": "setsid steam steam://rungameid/1262500",
+        "macOS": "open steam://rungameid/1262500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mirastell",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=132782"
+}
