@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 146350,
+  "name": "MekaFighters",
+  "source_url": "https://www.igdb.com/games/mekafighters",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2ypb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "MekaFighters",
+      "os": null,
+      "method": "steam",
+      "launch_id": "958670",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/958670",
+        "Linux": "setsid steam steam://rungameid/958670",
+        "macOS": "open steam://rungameid/958670"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "mekafighters",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=146350"
+}
