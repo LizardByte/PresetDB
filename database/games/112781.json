@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 112781,
+  "name": "Make Your Kingdom",
+  "source_url": "https://www.igdb.com/games/make-your-kingdom",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2m9f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Make Your Kingdom",
+      "os": null,
+      "method": "steam",
+      "launch_id": "964020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/964020",
+        "Linux": "setsid steam steam://rungameid/964020",
+        "macOS": "open steam://rungameid/964020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "make-your-kingdom",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=112781"
+}
