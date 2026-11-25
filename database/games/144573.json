@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 144573,
+  "name": "Dysterra",
+  "source_url": "https://www.igdb.com/games/dysterra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co715l.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dysterra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1527890",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1527890",
+        "Linux": "setsid steam steam://rungameid/1527890",
+        "macOS": "open steam://rungameid/1527890"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dysterra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=144573"
+}
