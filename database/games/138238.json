@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138238,
+  "name": "Team:Cars",
+  "source_url": "https://www.igdb.com/games/team-cars",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g4d.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Team:Cars",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1655600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1655600",
+        "Linux": "setsid steam steam://rungameid/1655600",
+        "macOS": "open steam://rungameid/1655600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "team-cars",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138238"
+}
