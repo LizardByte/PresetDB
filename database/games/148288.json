@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 148288,
+  "name": "Bipgolf",
+  "source_url": "https://www.igdb.com/games/bipgolf",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co30qi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Bipgolf",
+      "os": null,
+      "method": "steam",
+      "launch_id": "922610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/922610",
+        "Linux": "setsid steam steam://rungameid/922610",
+        "macOS": "open steam://rungameid/922610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bipgolf",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=148288"
+}
