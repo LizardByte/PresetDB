@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 115555,
+  "name": "Going Medieval",
+  "source_url": "https://www.igdb.com/games/going-medieval",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coafop.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Going Medieval",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1029780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1029780",
+        "Linux": "setsid steam steam://rungameid/1029780",
+        "macOS": "open steam://rungameid/1029780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "going-medieval",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=115555"
+}
