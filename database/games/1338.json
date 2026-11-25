@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 1338,
+  "name": "Prison Architect",
+  "source_url": "https://www.igdb.com/games/prison-architect",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co62ch.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Prison Architect",
+      "os": null,
+      "method": "steam",
+      "launch_id": "233450",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/233450",
+        "Linux": "setsid steam steam://rungameid/233450",
+        "macOS": "open steam://rungameid/233450"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "prison-architect",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=1338"
+}
