@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145869,
+  "name": "Spellstorm",
+  "source_url": "https://www.igdb.com/games/spellstorm",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2y17.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Spellstorm",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1401910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1401910",
+        "Linux": "setsid steam steam://rungameid/1401910",
+        "macOS": "open steam://rungameid/1401910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "spellstorm",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145869"
+}
