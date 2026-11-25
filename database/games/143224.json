@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 143224,
+  "name": "Project Sparrow",
+  "source_url": "https://www.igdb.com/games/project-sparrow",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2s5b.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Project Sparrow",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1461600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1461600",
+        "Linux": "setsid steam steam://rungameid/1461600",
+        "macOS": "open steam://rungameid/1461600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "project-sparrow",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=143224"
+}
