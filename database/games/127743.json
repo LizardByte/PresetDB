@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 127743,
+  "name": "Lake",
+  "source_url": "https://www.igdb.com/games/lake",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocvwb.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Lake",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1118240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1118240",
+        "Linux": "setsid steam steam://rungameid/1118240",
+        "macOS": "open steam://rungameid/1118240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "lake",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=127743"
+}
