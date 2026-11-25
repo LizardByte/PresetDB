@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 151862,
+  "name": "Dungeon Royale",
+  "source_url": "https://www.igdb.com/games/dungeon-royale",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co324q.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dungeon Royale",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1404500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1404500",
+        "Linux": "setsid steam steam://rungameid/1404500",
+        "macOS": "open steam://rungameid/1404500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dungeon-royale",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=151862"
+}
