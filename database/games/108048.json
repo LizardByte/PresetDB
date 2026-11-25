@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 108048,
+  "name": "Midnight Ghost Hunt",
+  "source_url": "https://www.igdb.com/games/midnight-ghost-hunt",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4l49.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Midnight Ghost Hunt",
+      "os": null,
+      "method": "steam",
+      "launch_id": "915810",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/915810",
+        "Linux": "setsid steam steam://rungameid/915810",
+        "macOS": "open steam://rungameid/915810"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "midnight-ghost-hunt",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=108048"
+}
