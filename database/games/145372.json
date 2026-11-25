@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 145372,
+  "name": "Grit",
+  "source_url": "https://www.igdb.com/games/grit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2x02.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Grit",
+      "os": null,
+      "method": "steam",
+      "launch_id": "738090",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/738090",
+        "Linux": "setsid steam steam://rungameid/738090",
+        "macOS": "open steam://rungameid/738090"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "grit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=145372"
+}
