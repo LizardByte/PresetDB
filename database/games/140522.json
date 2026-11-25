@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 140522,
+  "name": "Stuffed",
+  "source_url": "https://www.igdb.com/games/stuffed",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codctc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Stuffed",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1243200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1243200",
+        "Linux": "setsid steam steam://rungameid/1243200",
+        "macOS": "open steam://rungameid/1243200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "stuffed",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=140522"
+}
