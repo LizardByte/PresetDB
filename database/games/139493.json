@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 139493,
+  "name": "Age of Ascent",
+  "source_url": "https://www.igdb.com/games/age-of-ascent",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2i82.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Age of Ascent",
+      "os": null,
+      "method": "steam",
+      "launch_id": "750510",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/750510",
+        "Linux": "setsid steam steam://rungameid/750510",
+        "macOS": "open steam://rungameid/750510"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "age-of-ascent",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=139493"
+}
