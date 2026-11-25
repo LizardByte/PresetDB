@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 133155,
+  "name": "Harvest Island",
+  "source_url": "https://www.igdb.com/games/harvest-island",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co716m.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Harvest Island",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1292500",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1292500",
+        "Linux": "setsid steam steam://rungameid/1292500",
+        "macOS": "open steam://rungameid/1292500"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "harvest-island",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=133155"
+}
