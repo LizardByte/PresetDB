@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 107180,
+  "name": "Trifox",
+  "source_url": "https://www.igdb.com/games/trifox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co50nn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Trifox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1211240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1211240",
+        "Linux": "setsid steam steam://rungameid/1211240",
+        "macOS": "open steam://rungameid/1211240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "trifox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=107180"
+}
