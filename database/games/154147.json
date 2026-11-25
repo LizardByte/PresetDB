@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 154147,
+  "name": "Golfie",
+  "source_url": "https://www.igdb.com/games/golfie",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4nm2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Golfie",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1579020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1579020",
+        "Linux": "setsid steam steam://rungameid/1579020",
+        "macOS": "open steam://rungameid/1579020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "golfie",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=154147"
+}
