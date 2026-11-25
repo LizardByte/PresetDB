@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 138242,
+  "name": "Haak",
+  "source_url": "https://www.igdb.com/games/haak",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co2g4k.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Haak",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1352930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1352930",
+        "Linux": "setsid steam steam://rungameid/1352930",
+        "macOS": "open steam://rungameid/1352930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "haak",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=138242"
+}
