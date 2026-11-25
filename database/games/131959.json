@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 131959,
+  "name": "Heim",
+  "source_url": "https://www.igdb.com/games/heim",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co48kf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heim",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1274470",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1274470",
+        "Linux": "setsid steam steam://rungameid/1274470",
+        "macOS": "open steam://rungameid/1274470"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heim",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=131959"
+}
