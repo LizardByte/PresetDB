@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 126607,
+  "name": "DepowerBall",
+  "source_url": "https://www.igdb.com/games/depowerball",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co71l8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DepowerBall",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1175660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1175660",
+        "Linux": "setsid steam steam://rungameid/1175660",
+        "macOS": "open steam://rungameid/1175660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "depowerball",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=126607"
+}
