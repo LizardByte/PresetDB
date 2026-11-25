@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 153408,
+  "name": "Tomb Rumble",
+  "source_url": "https://www.igdb.com/games/tomb-rumble",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co46fl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Tomb Rumble",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1478050",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1478050",
+        "Linux": "setsid steam steam://rungameid/1478050",
+        "macOS": "open steam://rungameid/1478050"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "tomb-rumble",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=153408"
+}
