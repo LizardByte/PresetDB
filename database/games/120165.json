@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 120165,
+  "name": "Exploding Babies",
+  "source_url": "https://www.igdb.com/games/exploding-babies",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co1m8t.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Exploding Babies",
+      "os": null,
+      "method": "steam",
+      "launch_id": "986920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/986920",
+        "Linux": "setsid steam steam://rungameid/986920",
+        "macOS": "open steam://rungameid/986920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "exploding-babies",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=120165"
+}
