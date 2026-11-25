@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 23282,
+  "name": "Gloria Victis",
+  "source_url": "https://www.igdb.com/games/gloria-victis",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocbtf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Gloria Victis",
+      "os": null,
+      "method": "steam",
+      "launch_id": "327070",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/327070",
+        "Linux": "setsid steam steam://rungameid/327070",
+        "macOS": "open steam://rungameid/327070"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "gloria-victis",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=23282"
+}
