@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156674,
+  "name": "Creature Lab",
+  "source_url": "https://www.igdb.com/games/creature-lab",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co45pd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Creature Lab",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1309990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1309990",
+        "Linux": "setsid steam steam://rungameid/1309990",
+        "macOS": "open steam://rungameid/1309990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "creature-lab",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156674"
+}
