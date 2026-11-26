@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430550,
+  "name": "Caldra",
+  "source_url": "https://www.igdb.com/games/caldra",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codeu2.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Caldra",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4452480",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4452480",
+        "Linux": "setsid steam steam://rungameid/4452480",
+        "macOS": "open steam://rungameid/4452480"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "caldra",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430550"
+}
