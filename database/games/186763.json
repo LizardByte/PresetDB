@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 186763,
+  "name": "Leap",
+  "source_url": "https://www.igdb.com/games/leap",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4c37.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Leap",
+      "os": null,
+      "method": "steam",
+      "launch_id": "906930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/906930",
+        "Linux": "setsid steam steam://rungameid/906930",
+        "macOS": "open steam://rungameid/906930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "leap",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=186763"
+}
