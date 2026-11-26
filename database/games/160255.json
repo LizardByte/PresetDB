@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 160255,
+  "name": "TeamTower",
+  "source_url": "https://www.igdb.com/games/teamtower",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co42yh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "TeamTower",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1611830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1611830",
+        "Linux": "setsid steam steam://rungameid/1611830",
+        "macOS": "open steam://rungameid/1611830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "teamtower",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=160255"
+}
