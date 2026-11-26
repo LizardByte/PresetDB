@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211522,
+  "name": "Clouded VR",
+  "source_url": "https://www.igdb.com/games/clouded-vr",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5csf.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Clouded VR",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1926190",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1926190",
+        "Linux": "setsid steam steam://rungameid/1926190",
+        "macOS": "open steam://rungameid/1926190"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "clouded-vr",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211522"
+}
