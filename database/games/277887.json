@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 277887,
+  "name": "Metro Quester",
+  "source_url": "https://www.igdb.com/games/metro-quester",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co7exi.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Metro Quester",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4402650",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4402650",
+        "Linux": "setsid steam steam://rungameid/4402650",
+        "macOS": "open steam://rungameid/4402650"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "metro-quester",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=277887"
+}
