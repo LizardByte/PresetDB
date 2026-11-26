@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157375,
+  "name": "Liberte",
+  "source_url": "https://www.igdb.com/games/liberte",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6f32.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Liberte",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1590160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1590160",
+        "Linux": "setsid steam steam://rungameid/1590160",
+        "macOS": "open steam://rungameid/1590160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "liberte",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157375"
+}
