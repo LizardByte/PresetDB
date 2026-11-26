@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430099,
+  "name": "Packsmith",
+  "source_url": "https://www.igdb.com/games/packsmith",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codg6f.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Packsmith",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5242260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5242260",
+        "Linux": "setsid steam steam://rungameid/5242260",
+        "macOS": "open steam://rungameid/5242260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "packsmith",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430099"
+}
