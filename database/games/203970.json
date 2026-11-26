@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203970,
+  "name": "Iron Evil",
+  "source_url": "https://www.igdb.com/games/iron-evil",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5hwo.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Iron Evil",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1795100",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1795100",
+        "Linux": "setsid steam steam://rungameid/1795100",
+        "macOS": "open steam://rungameid/1795100"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "iron-evil",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203970"
+}
