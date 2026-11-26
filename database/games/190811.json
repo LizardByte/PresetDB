@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190811,
+  "name": "Molecoole",
+  "source_url": "https://www.igdb.com/games/molecoole",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lhj.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Molecoole",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1792170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1792170",
+        "Linux": "setsid steam steam://rungameid/1792170",
+        "macOS": "open steam://rungameid/1792170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "molecoole",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190811"
+}
