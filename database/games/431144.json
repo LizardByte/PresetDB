@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431144,
+  "name": "Voidcast",
+  "source_url": "https://www.igdb.com/games/voidcast",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfpn.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Voidcast",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4345950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4345950",
+        "Linux": "setsid steam steam://rungameid/4345950",
+        "macOS": "open steam://rungameid/4345950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "voidcast",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431144"
+}
