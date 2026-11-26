@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430219,
+  "name": "Blasteria",
+  "source_url": "https://www.igdb.com/games/blasteria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coded1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Blasteria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4225490",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4225490",
+        "Linux": "setsid steam steam://rungameid/4225490",
+        "macOS": "open steam://rungameid/4225490"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "blasteria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430219"
+}
