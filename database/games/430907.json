@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430907,
+  "name": "Desktop Goblins",
+  "source_url": "https://www.igdb.com/games/desktop-goblins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfbl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Desktop Goblins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5497660",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5497660",
+        "Linux": "setsid steam steam://rungameid/5497660",
+        "macOS": "open steam://rungameid/5497660"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "desktop-goblins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430907"
+}
