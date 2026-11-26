@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431400,
+  "name": "DeliverX",
+  "source_url": "https://www.igdb.com/games/deliverx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codgb1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeliverX",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5147980",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5147980",
+        "Linux": "setsid steam steam://rungameid/5147980",
+        "macOS": "open steam://rungameid/5147980"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deliverx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431400"
+}
