@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 165071,
+  "name": "Fortune's Run",
+  "source_url": "https://www.igdb.com/games/fortunes-run",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co6pnr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Fortune's Run",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1692240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1692240",
+        "Linux": "setsid steam steam://rungameid/1692240",
+        "macOS": "open steam://rungameid/1692240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "fortunes-run",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=165071"
+}
