@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 419991,
+  "name": "BugPot",
+  "source_url": "https://www.igdb.com/games/bugpot",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coczmm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "BugPot",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5243610",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5243610",
+        "Linux": "setsid steam steam://rungameid/5243610",
+        "macOS": "open steam://rungameid/5243610"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "bugpot",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=419991"
+}
