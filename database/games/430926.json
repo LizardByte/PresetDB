@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430926,
+  "name": "Frankenmine",
+  "source_url": "https://www.igdb.com/games/frankenmine",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfkz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Frankenmine",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4481330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4481330",
+        "Linux": "setsid steam steam://rungameid/4481330",
+        "macOS": "open steam://rungameid/4481330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "frankenmine",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430926"
+}
