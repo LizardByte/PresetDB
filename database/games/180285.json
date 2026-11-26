@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180285,
+  "name": "Illuminaria",
+  "source_url": "https://www.igdb.com/games/illuminaria",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co50dh.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Illuminaria",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1719240",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1719240",
+        "Linux": "setsid steam steam://rungameid/1719240",
+        "macOS": "open steam://rungameid/1719240"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "illuminaria",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180285"
+}
