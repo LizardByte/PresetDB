@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157105,
+  "name": "Cooperative Chess",
+  "source_url": "https://www.igdb.com/games/cooperative-chess",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3njd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cooperative Chess",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1585350",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1585350",
+        "Linux": "setsid steam steam://rungameid/1585350",
+        "macOS": "open steam://rungameid/1585350"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cooperative-chess",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157105"
+}
