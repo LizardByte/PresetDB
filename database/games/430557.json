@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430557,
+  "name": "Internal Extraction",
+  "source_url": "https://www.igdb.com/games/internal-extraction",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codeue.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Internal Extraction",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4131300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4131300",
+        "Linux": "setsid steam steam://rungameid/4131300",
+        "macOS": "open steam://rungameid/4131300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "internal-extraction",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430557"
+}
