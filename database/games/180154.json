@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 180154,
+  "name": "Islets",
+  "source_url": "https://www.igdb.com/games/islets",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co47vv.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Islets",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1669420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1669420",
+        "Linux": "setsid steam steam://rungameid/1669420",
+        "macOS": "open steam://rungameid/1669420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "islets",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=180154"
+}
