@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 210119,
+  "name": "Rock Hoppers",
+  "source_url": "https://www.igdb.com/games/rock-hoppers",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4zt4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Rock Hoppers",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2017900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2017900",
+        "Linux": "setsid steam steam://rungameid/2017900",
+        "macOS": "open steam://rungameid/2017900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "rock-hoppers",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=210119"
+}
