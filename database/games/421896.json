@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 421896,
+  "name": "Kill the Hero",
+  "source_url": "https://www.igdb.com/games/kill-the-hero",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfqg.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kill the Hero",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4859910",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4859910",
+        "Linux": "setsid steam steam://rungameid/4859910",
+        "macOS": "open steam://rungameid/4859910"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kill-the-hero",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=421896"
+}
