@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 169866,
+  "name": "Danger Forever",
+  "source_url": "https://www.igdb.com/games/danger-forever",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3vmz.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Danger Forever",
+      "os": null,
+      "method": "steam",
+      "launch_id": "773750",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/773750",
+        "Linux": "setsid steam steam://rungameid/773750",
+        "macOS": "open steam://rungameid/773750"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "danger-forever",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=169866"
+}
