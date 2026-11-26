@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 188421,
+  "name": "I Am on Fire",
+  "source_url": "https://www.igdb.com/games/i-am-on-fire",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5h5a.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "I Am on Fire",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1866960",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1866960",
+        "Linux": "setsid steam steam://rungameid/1866960",
+        "macOS": "open steam://rungameid/1866960"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "i-am-on-fire",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=188421"
+}
