@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429963,
+  "name": "DeadShare",
+  "source_url": "https://www.igdb.com/games/deadshare",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coddz0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "DeadShare",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5372230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5372230",
+        "Linux": "setsid steam steam://rungameid/5372230",
+        "macOS": "open steam://rungameid/5372230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "deadshare",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429963"
+}
