@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 156126,
+  "name": "Arcadius",
+  "source_url": "https://www.igdb.com/games/arcadius",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3lln.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Arcadius",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1105130",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1105130",
+        "Linux": "setsid steam steam://rungameid/1105130",
+        "macOS": "open steam://rungameid/1105130"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "arcadius",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=156126"
+}
