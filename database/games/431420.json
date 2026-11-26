@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431420,
+  "name": "Carrot Planet",
+  "source_url": "https://www.igdb.com/games/carrot-planet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codgch.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Carrot Planet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5520870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5520870",
+        "Linux": "setsid steam steam://rungameid/5520870",
+        "macOS": "open steam://rungameid/5520870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "carrot-planet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431420"
+}
