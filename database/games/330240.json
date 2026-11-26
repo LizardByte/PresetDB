@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 330240,
+  "name": "Snake.io",
+  "source_url": "https://www.igdb.com/games/snake-dot-io--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob105.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Snake.io",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4363160",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4363160",
+        "Linux": "setsid steam steam://rungameid/4363160",
+        "macOS": "open steam://rungameid/4363160"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "snake-dot-io--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=330240"
+}
