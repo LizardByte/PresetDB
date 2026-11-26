@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 185913,
+  "name": "King Rabbit: Race",
+  "source_url": "https://www.igdb.com/games/king-rabbit-race",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4rq0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "King Rabbit: Race",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1905900",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1905900",
+        "Linux": "setsid steam steam://rungameid/1905900",
+        "macOS": "open steam://rungameid/1905900"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "king-rabbit-race",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=185913"
+}
