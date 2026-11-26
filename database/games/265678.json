@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 265678,
+  "name": "Dogs of the Dark",
+  "source_url": "https://www.igdb.com/games/dogs-of-the-dark",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coari6.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dogs of the Dark",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4995330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4995330",
+        "Linux": "setsid steam steam://rungameid/4995330",
+        "macOS": "open steam://rungameid/4995330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dogs-of-the-dark",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=265678"
+}
