@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431016,
+  "name": "Wasted Chef",
+  "source_url": "https://www.igdb.com/games/wasted-chef",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfha.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Wasted Chef",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4935550",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4935550",
+        "Linux": "setsid steam steam://rungameid/4935550",
+        "macOS": "open steam://rungameid/4935550"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "wasted-chef",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431016"
+}
