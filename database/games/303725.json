@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 303725,
+  "name": "Cat & Butterfly",
+  "source_url": "https://www.igdb.com/games/cat-and-butterfly",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co8a1i.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cat & Butterfly",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2922950",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2922950",
+        "Linux": "setsid steam steam://rungameid/2922950",
+        "macOS": "open steam://rungameid/2922950"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cat-and-butterfly",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=303725"
+}
