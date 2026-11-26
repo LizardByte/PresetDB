@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430334,
+  "name": "Vampire's Diary",
+  "source_url": "https://www.igdb.com/games/vampires-diary",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codeir.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Vampire's Diary",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5501420",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5501420",
+        "Linux": "setsid steam steam://rungameid/5501420",
+        "macOS": "open steam://rungameid/5501420"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "vampires-diary",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430334"
+}
