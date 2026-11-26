@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431405,
+  "name": "Packfish",
+  "source_url": "https://www.igdb.com/games/packfish",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codgbc.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Packfish",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5497020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5497020",
+        "Linux": "setsid steam steam://rungameid/5497020",
+        "macOS": "open steam://rungameid/5497020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "packfish",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431405"
+}
