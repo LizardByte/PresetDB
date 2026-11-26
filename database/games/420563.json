@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 420563,
+  "name": "Koimori",
+  "source_url": "https://www.igdb.com/games/koimori",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cod09r.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Koimori",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4202020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4202020",
+        "Linux": "setsid steam steam://rungameid/4202020",
+        "macOS": "open steam://rungameid/4202020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "koimori",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=420563"
+}
