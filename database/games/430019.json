@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430019,
+  "name": "Escape My Family",
+  "source_url": "https://www.igdb.com/games/escape-my-family",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/code31.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Escape My Family",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5548170",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5548170",
+        "Linux": "setsid steam steam://rungameid/5548170",
+        "macOS": "open steam://rungameid/5548170"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "escape-my-family",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430019"
+}
