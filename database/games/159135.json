@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 159135,
+  "name": "Heist Simulator",
+  "source_url": "https://www.igdb.com/games/heist-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5e5z.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Heist Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1222290",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1222290",
+        "Linux": "setsid steam steam://rungameid/1222290",
+        "macOS": "open steam://rungameid/1222290"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "heist-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=159135"
+}
