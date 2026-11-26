@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 158900,
+  "name": "All-Inn",
+  "source_url": "https://www.igdb.com/games/all-inn",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co3ld0.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "All-Inn",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1553200",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1553200",
+        "Linux": "setsid steam steam://rungameid/1553200",
+        "macOS": "open steam://rungameid/1553200"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "all-inn",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=158900"
+}
