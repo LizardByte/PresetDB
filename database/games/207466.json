@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 207466,
+  "name": "Midnight Zone",
+  "source_url": "https://www.igdb.com/games/midnight-zone",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5lcd.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Midnight Zone",
+      "os": null,
+      "method": "steam",
+      "launch_id": "2051990",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/2051990",
+        "Linux": "setsid steam steam://rungameid/2051990",
+        "macOS": "open steam://rungameid/2051990"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "midnight-zone",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=207466"
+}
