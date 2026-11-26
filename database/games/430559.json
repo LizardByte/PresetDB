@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430559,
+  "name": "Hel Survivor",
+  "source_url": "https://www.igdb.com/games/hel-survivor",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codeul.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hel Survivor",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4540360",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4540360",
+        "Linux": "setsid steam steam://rungameid/4540360",
+        "macOS": "open steam://rungameid/4540360"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hel-survivor",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430559"
+}
