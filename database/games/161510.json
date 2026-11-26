@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 161510,
+  "name": "Hyperbolica",
+  "source_url": "https://www.igdb.com/games/hyperbolica",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4jmy.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Hyperbolica",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1256230",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1256230",
+        "Linux": "setsid steam steam://rungameid/1256230",
+        "macOS": "open steam://rungameid/1256230"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyperbolica",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=161510"
+}
