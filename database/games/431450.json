@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431450,
+  "name": "Dead Last",
+  "source_url": "https://www.igdb.com/games/dead-last",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codge8.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Dead Last",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5323210",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5323210",
+        "Linux": "setsid steam steam://rungameid/5323210",
+        "macOS": "open steam://rungameid/5323210"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "dead-last",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431450"
+}
