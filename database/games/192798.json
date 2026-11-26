@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 192798,
+  "name": "Black Magic Gamebox",
+  "source_url": "https://www.igdb.com/games/black-magic-gamebox",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5owm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Black Magic Gamebox",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1750530",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1750530",
+        "Linux": "setsid steam steam://rungameid/1750530",
+        "macOS": "open steam://rungameid/1750530"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "black-magic-gamebox",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=192798"
+}
