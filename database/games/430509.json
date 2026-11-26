@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 430509,
+  "name": "Kickin' Elevator",
+  "source_url": "https://www.igdb.com/games/kickin-elevator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codes5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Kickin' Elevator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4744830",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4744830",
+        "Linux": "setsid steam steam://rungameid/4744830",
+        "macOS": "open steam://rungameid/4744830"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "kickin-elevator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=430509"
+}
