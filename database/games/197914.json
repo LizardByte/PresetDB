@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 197914,
+  "name": "The Vaults",
+  "source_url": "https://www.igdb.com/games/the-vaults",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5nec.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "The Vaults",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1444780",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1444780",
+        "Linux": "setsid steam steam://rungameid/1444780",
+        "macOS": "open steam://rungameid/1444780"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "the-vaults",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=197914"
+}
