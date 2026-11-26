@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 211194,
+  "name": "HyperGlide",
+  "source_url": "https://www.igdb.com/games/hyperglide",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5gt5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "HyperGlide",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1638520",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1638520",
+        "Linux": "setsid steam steam://rungameid/1638520",
+        "macOS": "open steam://rungameid/1638520"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "hyperglide",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=211194"
+}
