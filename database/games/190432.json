@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 190432,
+  "name": "Far Away From Home",
+  "source_url": "https://www.igdb.com/games/far-away-from-home",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co4rfw.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Far Away From Home",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1874260",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1874260",
+        "Linux": "setsid steam steam://rungameid/1874260",
+        "macOS": "open steam://rungameid/1874260"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "far-away-from-home",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=190432"
+}
