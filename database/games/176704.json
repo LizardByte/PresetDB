@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 176704,
+  "name": "Idle Pins",
+  "source_url": "https://www.igdb.com/games/idle-pins",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co40cp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Idle Pins",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1709920",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1709920",
+        "Linux": "setsid steam steam://rungameid/1709920",
+        "macOS": "open steam://rungameid/1709920"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "idle-pins",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=176704"
+}
