@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203889,
+  "name": "Byte Lynx",
+  "source_url": "https://www.igdb.com/games/byte-lynx",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co5cfq.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Byte Lynx",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1996600",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1996600",
+        "Linux": "setsid steam steam://rungameid/1996600",
+        "macOS": "open steam://rungameid/1996600"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "byte-lynx",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203889"
+}
