@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 157022,
+  "name": "Ark and Ade",
+  "source_url": "https://www.igdb.com/games/ark-and-ade",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co67z1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Ark and Ade",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1599000",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1599000",
+        "Linux": "setsid steam steam://rungameid/1599000",
+        "macOS": "open steam://rungameid/1599000"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "ark-and-ade",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=157022"
+}
