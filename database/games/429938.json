@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 429938,
+  "name": "My Little Secret",
+  "source_url": "https://www.igdb.com/games/my-little-secret",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/coddxm.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "My Little Secret",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5046430",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5046430",
+        "Linux": "setsid steam steam://rungameid/5046430",
+        "macOS": "open steam://rungameid/5046430"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "my-little-secret",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=429938"
+}
