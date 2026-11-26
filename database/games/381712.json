@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 381712,
+  "name": "Whoowasit?",
+  "source_url": "https://www.igdb.com/games/whoowasit",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cob1sp.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Whoowasit?",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4156150",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4156150",
+        "Linux": "setsid steam steam://rungameid/4156150",
+        "macOS": "open steam://rungameid/4156150"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "whoowasit",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=381712"
+}
