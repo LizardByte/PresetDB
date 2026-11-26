@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431252,
+  "name": "Foamgrave",
+  "source_url": "https://www.igdb.com/games/foamgrave",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfvr.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Foamgrave",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4593930",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4593930",
+        "Linux": "setsid steam steam://rungameid/4593930",
+        "macOS": "open steam://rungameid/4593930"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "foamgrave",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431252"
+}
