@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 203753,
+  "name": "Android Simulator",
+  "source_url": "https://www.igdb.com/games/android-simulator",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/co57v1.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Android Simulator",
+      "os": null,
+      "method": "steam",
+      "launch_id": "1891250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/1891250",
+        "Linux": "setsid steam steam://rungameid/1891250",
+        "macOS": "open steam://rungameid/1891250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "android-simulator",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=203753"
+}
