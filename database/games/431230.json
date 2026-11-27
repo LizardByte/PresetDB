@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431230,
+  "name": "Cyber Waifu",
+  "source_url": "https://www.igdb.com/games/cyber-waifu",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codfu3.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Cyber Waifu",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4171250",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4171250",
+        "Linux": "setsid steam steam://rungameid/4171250",
+        "macOS": "open steam://rungameid/4171250"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "cyber-waifu",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431230"
+}
