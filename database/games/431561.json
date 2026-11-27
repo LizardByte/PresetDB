@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431561,
+  "name": "Backgammon",
+  "source_url": "https://www.igdb.com/games/backgammon--15",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codgkl.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Backgammon",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5555020",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5555020",
+        "Linux": "setsid steam steam://rungameid/5555020",
+        "macOS": "open steam://rungameid/5555020"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "backgammon--15",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431561"
+}
