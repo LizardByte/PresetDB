@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431401,
+  "name": "Valken",
+  "source_url": "https://www.igdb.com/games/valken",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codgb4.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Valken",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4619040",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4619040",
+        "Linux": "setsid steam steam://rungameid/4619040",
+        "macOS": "open steam://rungameid/4619040"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "valken",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431401"
+}
