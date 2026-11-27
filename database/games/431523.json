@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431523,
+  "name": "House of Fear",
+  "source_url": "https://www.igdb.com/games/house-of-fear--1",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codgin.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "House of Fear",
+      "os": null,
+      "method": "steam",
+      "launch_id": "5220870",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/5220870",
+        "Linux": "setsid steam steam://rungameid/5220870",
+        "macOS": "open steam://rungameid/5220870"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "house-of-fear--1",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431523"
+}
