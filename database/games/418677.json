@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 418677,
+  "name": "Filltopia",
+  "source_url": "https://www.igdb.com/games/filltopia",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/cocxn5.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Filltopia",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4438300",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4438300",
+        "Linux": "setsid steam steam://rungameid/4438300",
+        "macOS": "open steam://rungameid/4438300"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "filltopia",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=418677"
+}
