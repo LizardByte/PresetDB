@@ -1,0 +1,26 @@
+{
+  "schema_version": 2,
+  "kind": "game",
+  "id": 431660,
+  "name": "Velvet",
+  "source_url": "https://www.igdb.com/games/velvet",
+  "image_url": "https://images.igdb.com/igdb/image/upload/t_thumb/codh4y.jpg",
+  "presets": [
+    {
+      "id": "steam",
+      "name": "Velvet",
+      "os": null,
+      "method": "steam",
+      "launch_id": "4114330",
+      "commands_by_os": {
+        "Windows": "steam://rungameid/4114330",
+        "Linux": "setsid steam steam://rungameid/4114330",
+        "macOS": "open steam://rungameid/4114330"
+      },
+      "notes": null,
+      "source": "gamedb"
+    }
+  ],
+  "igdb_slug": "velvet",
+  "game_db_url": "https://app.lizardbyte.dev/GameDB/browse/games/?id=431660"
+}
